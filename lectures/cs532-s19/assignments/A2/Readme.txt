@@ -10,4 +10,7 @@ MementoHistogram.R : Histogram for Memento Count
 Output:
 Url_timemaps.csv: CSV file for Memento Count
 Urls_carbondate.csv: CSV file for Carbon Date
+Urls_Expanded.txt: list of Urls fetched from Tweets
 
+Note:
+Stream output could not be added due to Github filesize issue. It is of 1 gb.
