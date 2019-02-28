@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<meta name="mobile-web-app-capable" content="yes">
+
+	<title>Temperaturzeichen aus Castrop-Rauxel</title>
+	<link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+
+	<link rel="stylesheet" href="_media/webapp.css">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script>
+
+</script>
+	<script src="js/temperaturzeichen.js"></script>
+</head>
+<body>
+
+<main id="main">
+
+<div class="tags">
+
+	<ul>
+		<li class="tag1" id="EsIst">Es ist</li> 
+		<li class="tag1" id="minus">minus</li> 
+		<li class="tag3" id="h_null">null</li> 
+		<li class="tag3" id="h_ein">ein</li> 
+		<li class="tag3" id="h_zwei">zwei</li> 
+		<li class="tag3" id="h_drei">drei</li> 
+		<li class="tag3" id="h_vier">vier</li> 
+		<li class="tag3" id="h_fuenf">fünf</li> 
+		<li class="tag3" id="h_sechs">sechs</li> 
+		<li class="tag3" id="h_sieben">sieben</li> 
+		<li class="tag3" id="h_acht">acht</li> 
+		<li class="tag3" id="h_neun">neun</li> 
+		<li class="tag3" id="h_zehn">zehn</li> 
+		<li class="tag3" id="h_elf">elf</li> 
+		<li class="tag3" id="h_zwoelf">zwölf</li> 
+		<li class="tag3" id="h_sechzehn">sechzehn</li> 		
+		<li class="tag3" id="h_siebzehn">siebzehn</li> 		
+		<li class="tag1" id="und">und</li> 
+		<li class="tag3" id="zwanzig">zwanzig</li> 
+		<li class="tag3" id="dreisig">dreißig</li> 
+		<li class="tag3" id="vierzig">vierzig</li> 
+		<li class="tag1" id="komma">Komma</li>
+		<li class="tag2" id="k_null">null</li> 
+		<li class="tag2" id="k_ein">ein</li> 
+		<li class="tag2" id="k_zwei">zwei</li> 
+		<li class="tag2" id="k_drei">drei</li> 
+		<li class="tag2" id="k_vier">vier</li> 
+		<li class="tag2" id="k_fuenf">fünf</li> 
+		<li class="tag2" id="k_sechs">sechs</li> 
+		<li class="tag2" id="k_sieben">sieben</li> 
+		<li class="tag2" id="k_acht">acht</li> 
+		<li class="tag2" id="k_neun">neun</li> 
+		<li class="tag1" id="grad">Grad</li> 
+		<li class="tag1" id="castrop">bei Nolls im Garten.</li> 
+
+	</ul>	
+</div>	
+	
+</main>
+<footer>
+	<p>Temperaturzeichen aus Castrop-Rauxel &copy; 2018 <a href="https://dnitcon.de" target="_top">dnITcon</a> &nbsp;&nbsp;&nbsp;
+		<a href="http://draussenwetter.appspot.com/zeitzeichen" target="_top"><i class="fas fa-clock" style="font-size:48px;color:#66FFC2"></i></a> &nbsp;&nbsp;
+		<a href="http://draussenwetter.appspot.com/temperaturzeichen" target="_top"><i class="fas fa-thermometer-half" style="font-size:48px;color:#66FFC2"></i></a> 
+
+		</p>
+</footer>
+</body>
+</html>

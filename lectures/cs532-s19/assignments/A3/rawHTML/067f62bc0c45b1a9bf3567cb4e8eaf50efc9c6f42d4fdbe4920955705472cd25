@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'/>
+    <title>Campo Viejo</title>
+    <link rel="icon" href="assets/img/templates/abs_cal/icon.png"/>
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="assets/css/select2.min.css">
+    <!-- inject:css -->
+    <link rel="stylesheet" href=assets/css/style.min.css?v=74">
+    <!-- endinject -->
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-TDTXMPQ');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121373948-18"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-121373948-18');
+    </script>
+
+</head>
+<body>
+<div id="avp"></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TDTXMPQ"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="front-app">
+
+    <div class="background_overlay"></div>
+
+    <div id="header-app">
+    </div>
+    
+    <component :is="global_data.active_view" :global_data ='global_data' v-if="global_data.config.status == 'ok'"></component>
+
+    <div id="footer-app" class="ITCAvantGardeGothicBookCondensed">
+        <p class="text-upper-case font-size-24 ">Discover Rioja Responsibly</p>
+        <p class="font-size-10 margin-vertical-10">Â©2019 Imported by Pernod Ricard USA, New York, NY </p>
+        <p class="font-size-16">
+            <a href="https://www.campoviejo.com/en/privacy-policy" target="_blank">Privacy Policy  </a> |
+            <a :href="global_data.page_address + '#rules'" target="_blank">Official Rules</a>
+        </p>
+    </div>
+
+    <img src="assets/img/templates/abs_cal/campo_viejo/Footer.png" class="footer--gate footer--desktop" alt="">
+    <img src="assets/img/templates/abs_cal/campo_viejo/Footer.png" class="footer--gate footer--mobile" alt="">
+
+    <!--*********************-->
+    <div class="checkbox-height-helper"></div>  <!--display none - > keeps checkbox height-->
+    <!--**********************-->
+
+</div>
+
+<div>
+    <div id="header"></div>
+
+    <div id="footer"></div>
+</div>
+
+
+
+
+
+<!-- inject:js -->
+
+<script src=assets/js/compiled/external.js?v=25"></script>
+<script src=assets/js/compiled/all.js?v=65"></script>
+<!-- endinject -->
+
+<!--<script>-->
+
+    <!--setTimeout(function(){-->
+        <!--var avpInit=function(t,a,c){var t=document, a='https://avp.pernod-ricard.io/api/absolut/avp/?language=US', c = 'script',s = t.createElement(c), f = t.getElementsByTagName(c)[0]; s.src = a;f.parentNode.insertBefore(s, f.nextSibling);}-->
+
+        <!--(function (d, u, t) {-->
+            <!--var js = d.createElement(t), fjs = d.getElementsByTagName(t)[0]; js.src = u; fjs.parentNode.insertBefore(js, fjs.nextSibling);-->
+        <!--}(document, 'https://www.absolut.com/api/globalparts/get/header/footer?market=us&callback=avpInit', 'script'));-->
+    <!--},1000)-->
+
+<!--</script>-->
+
+</body>
+</html>

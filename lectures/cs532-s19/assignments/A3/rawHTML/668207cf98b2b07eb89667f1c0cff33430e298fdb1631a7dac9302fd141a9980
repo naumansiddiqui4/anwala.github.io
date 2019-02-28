@@ -1,0 +1,1127 @@
+<!DOCTYPE html>
+<html xmlns:fb="http://www.facebook.com/2008/fbml">
+ <head> 
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"> 
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"> 
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"> 
+  <!--[if gte mso 9]>
+<style id="ol-styles">
+/* OUTLOOK-SPECIFIC STYLES */
+li {
+text-indent: -1em;
+padding: 0;
+margin: 0;
+line-height: 1.2;
+}
+ul, ol {
+padding: 0;
+margin: 0 0 0 40px;
+}
+p {
+margin: 0;
+padding: 0;
+margin-bottom: 0;
+}
+sup {
+font-size: 85% !important;
+}
+sub {
+font-size: 85% !important;
+}
+</style>
+<![endif]--> 
+  <style id="template-styles-head" data-premailer="ignore">
+.footer-main-width {
+width: 610px!important;
+max-width: 610px;
+}
+table {
+border-collapse: collapse;
+table-layout: fixed;
+}
+.bgimage {
+table-layout: auto;
+}
+.preheader-container {
+color: transparent;
+display: none;
+font-size: 1px;
+line-height: 1px;
+max-height: 0px;
+max-width: 0px;
+opacity: 0;
+overflow: hidden;
+}
+/* LIST AND p STYLE OVERRIDES */
+.editor-text p {
+margin: 0;
+padding: 0;
+margin-bottom: 0;
+}
+.editor-text ul,
+.editor-text ol {
+padding: 0;
+margin: 0 0 0 40px;
+}
+.editor-text li {
+padding: 0;
+margin: 0;
+line-height: 1.2;
+}
+/* ==================================================
+CLIENT/BROWSER SPECIFIC OVERRIDES
+================================================== */
+/* IE: correctly scale images with w/h attbs */
+img {
+-ms-interpolation-mode: bicubic;
+}
+/* Text Link Style Reset */
+a {
+text-decoration: underline;
+}
+/* iOS: Autolink styles inherited */
+a[x-apple-data-detectors] {
+text-decoration: underline !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+color: inherit !important;
+}
+/* FF/Chrome: Smooth font rendering */
+.editor-text, .MainTextFullWidth {
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+/* Gmail/Web viewport fix */
+u + .body .template-body {
+width: 610px;
+}
+@media only screen and (max-width:480px) {
+u + .body .template-body {
+width: 100% !important;
+}
+}
+/* Office365/Outlook.com image reset */
+[office365] button, [office365] .divider-base div, [office365] .spacer-base div, [office365] .editor-image div { display: block !important; }
+</style> 
+  <style>@media only screen and (max-width:480px) {
+table {
+border-collapse: collapse;
+}
+.main-width {
+width: 100% !important;
+}
+.mobile-hidden {
+display: none !important;
+}
+td.OneColumnMobile {
+display: block !important;
+}
+.OneColumnMobile {
+width: 100% !important;
+}
+td.editor-col .editor-text {
+padding-left: 20px !important; padding-right: 20px !important;
+}
+td.editor-col .editor-image.editor-image-hspace-on td {
+padding-left: 20px !important; padding-right: 20px !important;
+}
+td.editor-col .editor-button-container {
+padding-left: 20px !important; padding-right: 20px !important;
+}
+td.editor-col .editor-social td {
+padding-left: 20px !important; padding-right: 20px !important;
+}
+td.editor-col .block-margin {
+padding-left: 20px !important; padding-right: 20px !important;
+}
+td.editor-col td.block-margin .editor-text {
+padding-left: 0px !important; padding-right: 0px !important;
+}
+td.editor-col td.block-margin .editor-image.editor-image-hspace-on td {
+padding-left: 0px !important; padding-right: 0px !important;
+}
+td.editor-col td.block-margin .editor-button-container {
+padding-left: 0px !important; padding-right: 0px !important;
+}
+td.editor-col td.block-margin .editor-social td {
+padding-left: 0px !important; padding-right: 0px !important;
+}
+.editor-button td > table tr > td {
+padding: 0px 0px 0px 0px !important;
+}
+.editor-button td > table tr > td td {
+padding: 9px 15px 10px 15px !important;
+}
+.layout {
+padding: 15px 9px 15px 9px !important;
+}
+.layout-container-border {
+padding: 0px 0px 0px 0px !important;
+}
+.layout-container {
+padding: 0px 0px 0px 0px !important;
+}
+.editor-image img {
+width: auto !important; margin-left: auto !important; margin-right: auto !important;
+}
+.editor-image .image-cell {
+padding-bottom: 15px !important;
+}
+.editor-text {
+font-size: 16px !important;
+}
+.section-headline-text {
+font-size: 24px !important;
+}
+.headline-text {
+font-size: 24px !important;
+}
+.subheadline-text {
+font-size: 20px !important;
+}
+.feature {
+padding-top: 0px !important; padding-bottom: 0px !important;
+}
+.layout-outer {
+padding: 0px 20px !important;
+}
+.feature-heading-text {
+font-size: 20px !important;
+}
+.feature-text {
+font-size: 16px !important;
+}
+.split.editor-col {
+margin-top: 0px !important;
+}
+.split.editor-col ~ .split.editor-col {
+margin-top: 10px !important;
+}
+.split-layout-margin {
+padding: 0px 20px !important;
+}
+.article {
+padding-top: 0px !important; padding-bottom: 0px !important;
+}
+.article-heading-text {
+font-size: 20px !important;
+}
+.article-text {
+font-size: 16px !important;
+}
+.social-container {
+text-align: center !important;
+}
+.social-text {
+font-size: 14px !important;
+}
+.cpn-heading-text {
+font-size: 28px !important;
+}
+.editor-cpn-heading-text {
+font-size: 28px !important;
+}
+td.col-divided .editor-col {
+border-right: 0px solid #2a3b55 !important; border-bottom: 1px solid #2a3b55 !important;
+}
+td.col-divided td.editor-col:last-of-type {
+border-bottom: 0 !important;
+}
+.col-divided {
+padding: 0 20px !important;
+}
+td.col-divided .editor-col .editor-text {
+padding-left: 0px !important; padding-right: 0px !important;
+}
+td.col-divided .editor-col .editor-image.editor-image-hspace-on td {
+padding-left: 0px !important; padding-right: 0px !important;
+}
+td.col-divided .editor-col .editor-button-container {
+padding-left: 0px !important; padding-right: 0px !important;
+}
+td.col-divided .editor-col .editor-social td {
+padding-left: 0px !important; padding-right: 0px !important;
+}
+td.col-divided .editor-col .block-margin {
+padding-left: 0px !important; padding-right: 0px !important;
+}
+.action-block .poll-answer {
+width: 100% !important; display: block !important;
+}
+.action-block .poll-button {
+width: 100% !important;
+}
+div.MobileFooter {
+font-size: 11px !important;
+}
+td.FooterMobile {
+padding: 0px 10px 0px 10px !important;
+}
+td.MainCenter {
+width: 100% !important;
+}
+table.MainSide {
+display: none !important;
+}
+img.MainSide {
+display: none !important;
+}
+td.MainSide {
+display: none !important;
+}
+.rsvp-button-inner {
+padding: 0px 0px 10px 0px !important;
+}
+.rsvp-button-outer {
+width: 100% !important; max-width: 100% !important;
+}
+.footer-main-width {
+width: 100% !important;
+}
+.footer-mobile-hidden {
+display: none !important;
+}
+.footer-mobile-hidden {
+display: none !important;
+}
+.footer-column {
+display: block !important;
+}
+.footer-mobile-stack {
+display: block !important;
+}
+.footer-mobile-stack-padding {
+padding-top: 3px;
+}
+}
+@media only screen and (max-width:320px) {
+.layout {
+padding: 0px 0px 0px 0px !important;
+}
+}
+</style> 
+  <title>20% Savings On All Valentine Gift Baskets</title>
+ <script type="text/javascript">
+var __plink_targets = {
+"linkedin.post": "https://s.rs6.net/t?e=dgJB60FwJB0&c=4&r=1",
+"addthis.share": "https://s.rs6.net/t?e=dgJB60FwJB0&c=5&r=1",
+"facebook.like": "https://s.rs6.net/t?e=dgJB60FwJB0&c=2&r=0",
+"twitter.tweet": "https://s.rs6.net/t?e=dgJB60FwJB0&c=3&r=1",
+"facebook.share": "https://s.rs6.net/t?e=dgJB60FwJB0&c=1&r=1",
+"facebook.send": "https://s.rs6.net/t?e=dgJB60FwJB0&c=6&r=0",
+"permalink.view": "https://s.rs6.net/t?e=dgJB60FwJB0&c=0&r=0"
+};
+</script>
+<script type="text/javascript" src="https://myemail.constantcontact.com/page/js/campaignPage.js?soid=1105336853069&visitorHost=https%3A%2F%2Fvisitor.constantcontact.com&pageName=20%25+Savings+On+All+Valentine+Gift+Baskets"></script>
+</head> 
+ <body class="body" align="center" style="width: 100%; min-width: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #f95160; margin: 0px; padding: 0px;" bgcolor="#f95160"> 
+  <table class="template-body" border="0" cellpadding="0" cellspacing="0" style="text-align: center; min-width: 100%;" width="100%"> 
+   <tbody>
+    <tr> 
+     <td class="preheader-container"> 
+      <div> 
+       <div id="preheader" style="display: none; font-size: 1px; color: transparent; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;"> 
+        <span data-entity-ref="preheader">Valentine's Day is around the corner</span> 
+       </div> 
+      </div> </td> 
+    </tr> 
+    <tr> 
+     <td class="template-shell-container" align="center"> 
+      <div class="bgcolor" style="background-color: #f95160;"> 
+       <!--[if gte mso 9]>
+<v:background xmlns:v="urn:schemas-microsoft-com:vml" fill="t">
+<v:fill type="tile" src="https://mlsvc01-prod.s3.amazonaws.com/d42e53b5101/f5245976-8d08-484f-b7ff-f8e59740264d.gif" color="#f95160" ></v:fill>
+</v:background>
+<![endif]--> 
+       <table class="bgimage" width="100%" border="0" cellpadding="0" cellspacing="0" style="background: url('https://mlsvc01-prod.s3.amazonaws.com/d42e53b5101/f5245976-8d08-484f-b7ff-f8e59740264d.gif') repeat top left;" background="https://mlsvc01-prod.s3.amazonaws.com/d42e53b5101/f5245976-8d08-484f-b7ff-f8e59740264d.gif"> 
+        <tbody> 
+         <tr> 
+          <td align="center"> 
+           <table class="main-width" width="610" align="center" border="0" cellpadding="0" cellspacing="0" style="width: 610px;"> 
+            <tbody> 
+             <tr> 
+              <td class="layout" align="center" valign="top" style="padding: 15px 5px;"> 
+               <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0"> 
+                <tbody> 
+                 <tr> 
+                  <td class="layout-container-border" align="center" valign="top" style="background-color: #2a3b55; padding: 0px;" bgcolor="#2a3b55"> 
+                   <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="background-color: #2a3b55;" bgcolor="#2a3b55"> 
+                    <tbody> 
+                     <tr> 
+                      <td class="layout-container" align="center" valign="top" style="background-color: #FFEBC4; padding: 0;" bgcolor="#FFEBC4"> 
+                       <div class=""> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="divider-container editor-col OneColumnMobile" width="100%" align="left" valign="top"> 
+                            <div class="gl-contains-divider"> 
+                             <table class="editor-divider" width="100%" cellpadding="0" cellspacing="0" border="0" style="min-width: 100%;"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="divider-container" align="center" valign="top"> 
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-content-editor" style="cursor: default; min-width: 100%;"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="divider-base divider-solid" width="100%" align="center" valign="top" style="padding: 0px;"> 
+                                     <table style="width: 100%; min-width: 100%; height: 1px;" cellpadding="0" cellspacing="0" border="0" align="center"> 
+                                      <tbody> 
+                                       <tr> 
+                                        <td height="1" align="center" style="padding-bottom: 7px; border-bottom-style: none; height: 1px; line-height: 1px; background-color: #2a3b55;" bgcolor="#2a3b55"> 
+                                         <div>
+                                          <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                         </div> </td> 
+                                       </tr> 
+                                      </tbody> 
+                                     </table> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class=" editor-col OneColumnMobile" width="100%" align="" valign="top"> 
+                            <div class="gl-contains-spacer"> 
+                             <table class="editor-spacer" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="" align="center" valign="top"> 
+                                 <table cellpadding="0" cellspacing="0" border="0" width="100%"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="spacer-base" width="100%" align="center" valign="top" style="padding-bottom: 10px; height: 1px; line-height: 1px;"> 
+                                     <div>
+                                      <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/1101116784221/S.gif" style="display: block; height: 1px; width: 5px;">
+                                     </div> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class=" editor-col OneColumnMobile" width="100%" align="" valign="top"> 
+                            <div class="gl-contains-image"> 
+                             <table class="editor-image content-image editor-image-vspace-on" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td align="center" valign="top" style="padding-top: 10px; padding-bottom: 10px;"> 
+                                 <div class="publish-container"> 
+                                  <img alt="" class="" style="display: block; height: auto; max-width: 100%;" width="393" border="0" hspace="0" vspace="0" src="https://files.constantcontact.com/d42e53b5101/97108fa2-1108-4770-b8bf-c663fcb7d4cf.png"> 
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="content editor-col OneColumnMobile" width="100%" align="left" valign="top"> 
+                            <div class="gl-contains-image"> 
+                             <table class="editor-image content-image editor-image-vspace-on" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td align="center" valign="top" style="padding-top: 10px; padding-bottom: 10px;"> 
+                                 <div class="publish-container"> 
+                                  <a href="https://www.dolcevitabaskets.com/product/8160282"> <img alt="" class="" style="display: block; height: auto; max-width: 100%;" width="311" border="0" hspace="0" vspace="0" src="https://files.constantcontact.com/d42e53b5101/b71cf3fd-e459-4437-ba14-e2df422bc9fb.jpg"> </a> 
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="content editor-col OneColumnMobile" width="100%" align="left" valign="top"> 
+                            <div class="gl-contains-text"> 
+                             <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="editor-text content-text" align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a3b55; text-align: center; display: block; word-wrap: break-word; line-height: 1.2; padding: 10px 20px;"> 
+                                 <div></div> 
+                                 <div class="text-container galileo-ap-content-editor">
+                                  <div> 
+                                   <div>
+                                    <span style="font-size: 14px; font-weight: bold; font-style: italic;">Make your someone special</span>
+                                   </div> 
+                                   <div>
+                                    <span style="font-size: 14px; font-weight: bold; font-style: italic;"> smile this Valentine's Day!</span>
+                                   </div> 
+                                  </div>
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class=" divider-accent" style="padding: 0px;"> 
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: auto;"> 
+                             <tbody> 
+                              <tr> 
+                               <td width="50%" align="center" valign="top"> 
+                                <table class="editor-divider" width="100%" cellpadding="0" cellspacing="0" border="0" style="min-width: 100%;"> 
+                                 <tbody> 
+                                  <tr> 
+                                   <td class="divider-container" align="center" valign="top"> 
+                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-content-editor" style="cursor: default; min-width: 100%;"> 
+                                     <tbody> 
+                                      <tr> 
+                                       <td class="divider-base divider-solid" width="100%" align="right" valign="top" style="padding: 18px 0px 9px;"> 
+                                        <table style="height: 1px; width: 95%; min-width: 95%;" cellpadding="0" cellspacing="0" border="0" align="right"> 
+                                         <tbody> 
+                                          <tr> 
+                                           <td height="1" align="center" style="padding-bottom: 2px; background-color: rgb(254, 175, 164); border-bottom-style: none; height: 1px; line-height: 1px;" bgcolor="FEAFA4"> 
+                                            <div>
+                                             <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                            </div> </td> 
+                                          </tr> 
+                                         </tbody> 
+                                        </table> </td> 
+                                      </tr> 
+                                     </tbody> 
+                                    </table> </td> 
+                                  </tr> 
+                                 </tbody> 
+                                </table> </td> 
+                               <td style="padding: 0;" align="center" valign="top"> 
+                                <table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: auto;"> 
+                                 <tbody> 
+                                  <tr> 
+                                   <td class="divider-accent-image" style="padding: 4px 0px;" align="center" valign="top"> <img style="display: block; height: auto;" alt="" width="30" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/PT11672/heart.png"> </td> 
+                                  </tr> 
+                                 </tbody> 
+                                </table> </td> 
+                               <td width="50%" align="center" valign="top"> 
+                                <table class="editor-divider" width="100%" cellpadding="0" cellspacing="0" border="0" style="min-width: 100%;"> 
+                                 <tbody> 
+                                  <tr> 
+                                   <td class="divider-container" align="center" valign="top"> 
+                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-content-editor" style="cursor: default; min-width: 100%;"> 
+                                     <tbody> 
+                                      <tr> 
+                                       <td class="divider-base divider-solid" width="100%" align="left" valign="top" style="padding: 18px 0px 9px;"> 
+                                        <table style="height: 1px; width: 95%; min-width: 95%;" cellpadding="0" cellspacing="0" border="0" align="left"> 
+                                         <tbody> 
+                                          <tr> 
+                                           <td height="1" align="center" style="padding-bottom: 2px; background-color: rgb(254, 175, 164); border-bottom-style: none; height: 1px; line-height: 1px;" bgcolor="FEAFA4"> 
+                                            <div>
+                                             <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                            </div> </td> 
+                                          </tr> 
+                                         </tbody> 
+                                        </table> </td> 
+                                      </tr> 
+                                     </tbody> 
+                                    </table> </td> 
+                                  </tr> 
+                                 </tbody> 
+                                </table> </td> 
+                              </tr> 
+                             </tbody> 
+                            </table> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="feature editor-col OneColumnMobile" width="40%" align="left" valign="top" style="background-color: #fcf8ef;" bgcolor="#fcf8ef"> 
+                            <div>
+                             <div class="column-resize-bar"> 
+                              <span class="line"></span> 
+                              <span class="grabber"></span> 
+                             </div>
+                            </div> 
+                            <div class="gl-contains-image"> 
+                             <table class="editor-image content-image editor-image-vspace-on" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td align="center" valign="top" style="padding-top: 10px; padding-bottom: 10px;"> 
+                                 <div class="publish-container"> 
+                                  <a href="https://www.dolcevitabaskets.com/product/8161972"> <img alt="" class="" style="display: block; height: auto; max-width: 100%;" width="218" border="0" hspace="0" vspace="0" src="https://files.constantcontact.com/d42e53b5101/571e8786-c007-43ad-a1ce-4f5df177d0b0.jpg"> </a> 
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                           <td class="feature editor-col OneColumnMobile" width="60%" align="left" valign="top" style="background-color: #fcf8ef;" bgcolor="#fcf8ef"> 
+                            <div class="gl-contains-spacer"> 
+                             <table class="editor-spacer" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="spacer-container" align="center" valign="top"> 
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="spacer-base" style="padding-bottom: 10px; height: 1px; line-height: 1px;" width="100%" align="center" valign="top"> 
+                                     <div>
+                                      <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                     </div> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> 
+                            <div class="gl-contains-text"> 
+                             <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="editor-text feature-heading-text" align="left" valign="top" style="line-height: 2; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 16px; color: #2a3b55; text-align: left; display: block; word-wrap: break-word; font-weight: bold; padding: 10px 20px 10px 10px;"> 
+                                 <div></div> 
+                                 <div class="text-container galileo-ap-content-editor">
+                                  <div>
+                                   <div style="text-align: center;" align="center">
+                                    <span style="font-size: 24px; font-style: italic;">Won't You Be Mine</span>
+                                   </div>
+                                  </div>
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> 
+                            <div class="gl-contains-text"> 
+                             <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="editor-text feature-text" align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a3b55; text-align: left; display: block; word-wrap: break-word; line-height: 1.2; padding: 10px 20px 10px 10px;"> 
+                                 <div></div> 
+                                 <div class="text-container galileo-ap-content-editor">
+                                  <div>
+                                   <div>
+                                    Complete with an adorable plush bear this Valentine gift will send a charming message. And they'll enjoy the chocolate treats, cookies and more!
+                                   </div>
+                                  </div>
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="article editor-col OneColumnMobile" width="40%" align="left" valign="top"> 
+                            <div>
+                             <div class="column-resize-bar"> 
+                              <span class="line"></span> 
+                              <span class="grabber"></span> 
+                             </div>
+                            </div> 
+                            <div class="gl-contains-image"> 
+                             <table class="editor-image content-image editor-image-vspace-on" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td align="center" valign="top" style="padding-top: 10px; padding-bottom: 10px;"> 
+                                 <div class="publish-container"> 
+                                  <a href="https://www.dolcevitabaskets.com/product/8161912"> <img alt="" class="" style="display: block; height: auto; max-width: 100%;" width="221" border="0" hspace="0" vspace="0" src="https://files.constantcontact.com/d42e53b5101/88908ee1-db33-42ec-a1c2-5178d85248a8.jpg"> </a> 
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                           <td class="article editor-col OneColumnMobile" width="60%" align="left" valign="top"> 
+                            <div class="gl-contains-spacer"> 
+                             <table class="editor-spacer" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="spacer-container" align="center" valign="top"> 
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="spacer-base" style="padding-bottom: 10px; height: 1px; line-height: 1px;" width="100%" align="center" valign="top"> 
+                                     <div>
+                                      <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                     </div> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> 
+                            <div class="gl-contains-text"> 
+                             <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="editor-text article-heading-text" align="left" valign="top" style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 16px; color: #2a3b55; text-align: left; display: block; word-wrap: break-word; line-height: 1.2; font-weight: bold; padding: 10px 20px 10px 10px;"> 
+                                 <div></div> 
+                                 <div class="text-container galileo-ap-content-editor">
+                                  <div>
+                                   <div style="text-align: center;" align="center">
+                                    <span style="font-size: 24px; font-style: italic;">Notes Of Love</span>
+                                   </div>
+                                  </div>
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> 
+                            <div class="gl-contains-text"> 
+                             <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="editor-text article-text" align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a3b55; text-align: left; display: block; word-wrap: break-word; line-height: 1.2; padding: 10px 20px 10px 10px;"> 
+                                 <div></div> 
+                                 <div class="text-container galileo-ap-content-editor">
+                                  <div> 
+                                   <div>
+                                    <br>
+                                   </div> 
+                                   <div> 
+                                    <a href="#" target="_blank" style="text-decoration: none; color: #2a3b55; font-weight: normal; font-style: normal;">A Valentine message</a>
+                                    <span style="text-decoration: none;"> </span>in this precious Valentine's Day gift box is just the right touch for your sweetie. And of course a cuddly little bear and chocolate!
+                                   </div> 
+                                  </div>
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="feature editor-col OneColumnMobile" width="40%" align="left" valign="top" style="background-color: #fcf8ef;" bgcolor="#fcf8ef"> 
+                            <div>
+                             <div class="column-resize-bar"> 
+                              <span class="line"></span> 
+                              <span class="grabber"></span> 
+                             </div>
+                            </div> 
+                            <div class="gl-contains-image"> 
+                             <table class="editor-image content-image editor-image-vspace-on" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td align="center" valign="top" style="padding-top: 10px; padding-bottom: 10px;"> 
+                                 <div class="publish-container"> 
+                                  <a href="https://www.dolcevitabaskets.com/product/810111"> <img alt="" class="" style="display: block; height: auto; max-width: 100%;" width="214" border="0" hspace="0" vspace="0" src="https://files.constantcontact.com/d42e53b5101/17bc2dba-1d7f-4831-b854-58ac5976e188.jpg"> </a> 
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                           <td class="feature editor-col OneColumnMobile" width="60%" align="left" valign="top" style="background-color: #fcf8ef;" bgcolor="#fcf8ef"> 
+                            <div class="gl-contains-spacer"> 
+                             <table class="editor-spacer" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="spacer-container" align="center" valign="top"> 
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="spacer-base" style="padding-bottom: 10px; height: 1px; line-height: 1px;" width="100%" align="center" valign="top"> 
+                                     <div>
+                                      <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                     </div> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> 
+                            <div class="gl-contains-text"> 
+                             <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="editor-text feature-heading-text" align="left" valign="top" style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 16px; color: #2a3b55; text-align: left; display: block; word-wrap: break-word; line-height: 1.2; font-weight: bold; padding: 10px 20px 10px 10px;"> 
+                                 <div></div> 
+                                 <div class="text-container galileo-ap-content-editor">
+                                  <div>
+                                   <div style="text-align: center;" align="center">
+                                    <span style="font-size: 24px; font-style: italic;">Romancing You</span>
+                                   </div>
+                                  </div>
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> 
+                            <div class="gl-contains-text"> 
+                             <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="editor-text feature-text" align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #2a3b55; text-align: left; display: block; word-wrap: break-word; line-height: 1.2; padding: 10px 20px 10px 10px;"> 
+                                 <div></div> 
+                                 <div class="text-container galileo-ap-content-editor">
+                                  <div> 
+                                   <div>
+                                    <br>
+                                   </div> 
+                                   <div>
+                                    All the essentials for an evening of true romance and relaxation. Make it an exceptional experience for all the senses for you and your Valentine!
+                                   </div> 
+                                  </div>
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="spacer editor-col OneColumnMobile" width="100%" align="left" valign="top"> 
+                            <div class="gl-contains-spacer"> 
+                             <table class="editor-spacer" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="spacer-container" align="center" valign="top"> 
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="spacer-base" style="padding-bottom: 20px; height: 1px; line-height: 1px;" width="100%" align="center" valign="top"> 
+                                     <div>
+                                      <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                     </div> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="button editor-col OneColumnMobile" width="100%" align="left" valign="top"> 
+                            <div class="gl-contains-button"> 
+                             <table class="editor-button" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; min-width: 100%;"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="editor-button-container " style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; color: #fdfbf5; text-decoration: none; padding: 10px 20px;"> 
+                                 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="galileo-ap-content-editor" style="width: 100%; min-width: 100%;"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="MainTextFullWidthTD" align="center" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; color: #fdfbf5; text-decoration: none; padding: 0px;"> 
+                                     <table border="0" cellpadding="0" cellspacing="0" style="width: initial; border-spacing: 0; background-color: #2a3b55; min-width: initial; padding: 0; border: none;" bgcolor="#2a3b55"> 
+                                      <tbody> 
+                                       <tr> 
+                                        <td class="MainTextFullWidthTD" align="center" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; color: #fdfbf5; text-decoration: none; padding: 20px;"> 
+                                         <div> 
+                                          <div class="MainTextFullWidth">
+                                           <a href="https://www.dolcevitabaskets.com/valentine-romantic-baskets.html" style="font-family: Helvetica, Arial, sans-serif; font-size: 18px; color: #fdfbf5; text-decoration: none;">Shop all Valentine's Day gifts</a>
+                                          </div> 
+                                         </div> </td> 
+                                       </tr> 
+                                      </tbody> 
+                                     </table> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="about editor-col OneColumnMobile" width="100%" align="left" valign="top"> 
+                            <div class="gl-contains-text"> 
+                             <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="editor-text about-text" align="left" valign="top" style="font-family: Helvetica, Arial, sans-serif; font-size: 14px; color: #767676; text-align: center; display: block; word-wrap: break-word; line-height: 1.2; padding: 10px 20px;"> 
+                                 <div></div> 
+                                 <div class="text-container galileo-ap-content-editor">
+                                  <div> 
+                                   <div>
+                                    <span style="font-size: 22px; text-decoration: underline; font-weight: bold;">20% Off with code: Cupid20</span>
+                                   </div> 
+                                   <div>
+                                    <span style="font-size: 22px; font-weight: bold;">Order online today! </span>
+                                   </div> 
+                                   <div>
+                                    <span style="font-size: 22px; font-weight: bold;">Nationwide Shipping</span>
+                                   </div> 
+                                  </div>
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="spacer editor-col OneColumnMobile" width="100%" align="left" valign="top"> 
+                            <div class="gl-contains-spacer"> 
+                             <table class="editor-spacer" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="spacer-container" align="center" valign="top"> 
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="spacer-base" style="padding-bottom: 10px; height: 1px; line-height: 1px;" width="100%" align="center" valign="top"> 
+                                     <div>
+                                      <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                     </div> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class=" divider-accent" style="padding: 0px;"> 
+                            <table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: auto;"> 
+                             <tbody> 
+                              <tr> 
+                               <td width="50%" align="center" valign="top"> 
+                                <table class="editor-divider" width="100%" cellpadding="0" cellspacing="0" border="0" style="min-width: 100%;"> 
+                                 <tbody> 
+                                  <tr> 
+                                   <td class="divider-container" align="center" valign="top"> 
+                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-content-editor" style="cursor: default; min-width: 100%;"> 
+                                     <tbody> 
+                                      <tr> 
+                                       <td class="divider-base divider-solid" width="100%" align="right" valign="top" style="padding: 18px 0px 9px;"> 
+                                        <table style="height: 1px; width: 95%; min-width: 95%;" cellpadding="0" cellspacing="0" border="0" align="right"> 
+                                         <tbody> 
+                                          <tr> 
+                                           <td height="1" align="center" style="padding-bottom: 2px; background-color: rgb(254, 175, 164); border-bottom-style: none; height: 1px; line-height: 1px;" bgcolor="FEAFA4"> 
+                                            <div>
+                                             <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                            </div> </td> 
+                                          </tr> 
+                                         </tbody> 
+                                        </table> </td> 
+                                      </tr> 
+                                     </tbody> 
+                                    </table> </td> 
+                                  </tr> 
+                                 </tbody> 
+                                </table> </td> 
+                               <td style="padding: 0;" align="center" valign="top"> 
+                                <table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout: auto;"> 
+                                 <tbody> 
+                                  <tr> 
+                                   <td class="divider-accent-image" style="padding: 4px 0px;" align="center" valign="top"> <img style="display: block; height: auto;" alt="" width="30" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/PT11672/heart.png"> </td> 
+                                  </tr> 
+                                 </tbody> 
+                                </table> </td> 
+                               <td width="50%" align="center" valign="top"> 
+                                <table class="editor-divider" width="100%" cellpadding="0" cellspacing="0" border="0" style="min-width: 100%;"> 
+                                 <tbody> 
+                                  <tr> 
+                                   <td class="divider-container" align="center" valign="top"> 
+                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-content-editor" style="cursor: default; min-width: 100%;"> 
+                                     <tbody> 
+                                      <tr> 
+                                       <td class="divider-base divider-solid" width="100%" align="left" valign="top" style="padding: 18px 0px 9px;"> 
+                                        <table style="height: 1px; width: 95%; min-width: 95%;" cellpadding="0" cellspacing="0" border="0" align="left"> 
+                                         <tbody> 
+                                          <tr> 
+                                           <td height="1" align="center" style="padding-bottom: 2px; background-color: rgb(254, 175, 164); border-bottom-style: none; height: 1px; line-height: 1px;" bgcolor="FEAFA4"> 
+                                            <div>
+                                             <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                            </div> </td> 
+                                          </tr> 
+                                         </tbody> 
+                                        </table> </td> 
+                                      </tr> 
+                                     </tbody> 
+                                    </table> </td> 
+                                  </tr> 
+                                 </tbody> 
+                                </table> </td> 
+                              </tr> 
+                             </tbody> 
+                            </table> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="social editor-col OneColumnMobile" width="100%" align="left" valign="top" style="background-color: #FFEBC4;" bgcolor="#FFEBC4"> 
+                            <div class="gl-contains-spacer"> 
+                             <table class="editor-spacer" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="spacer-container" align="center" valign="top"> 
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="spacer-base" style="padding-bottom: 10px; height: 1px; line-height: 1px;" width="100%" align="center" valign="top"> 
+                                     <div>
+                                      <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                     </div> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> 
+                            <div class="gl-contains-social-button"> 
+                             <table class="editor-social" width="100%" cellpadding="0" cellspacing="0" border="0" style="width: 100%; min-width: 100%;"> 
+                              <tbody> 
+                               <tr> 
+                                <td class=" social-container social-container" align="center" style="padding: 0px 20px 10px;"> 
+                                 <div class="galileo-ap-content-editor"> 
+                                  <a href="https://www.facebook.com/dolcevitabaskets/" style="display: inline-block; text-decoration: none;"> <img alt="Facebook" width="32" border="0" src="https://imgssl.constantcontact.com/galileo/images/templates/Galileo-SocialMedia/facebook-visit-default-circle.png" style="display: inline-block; margin: 0; padding: 0;"> ‌ </a> 
+                                  <a href="https://twitter.com/DolceVitaBasket" style="display: inline-block; text-decoration: none;"> <img alt="Twitter" width="32" border="0" src="https://imgssl.constantcontact.com/galileo/images/templates/Galileo-SocialMedia/twitter-visit-default-circle.png" style="display: inline-block; margin: 0; padding: 0;"> ‌ </a> 
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="spacer editor-col OneColumnMobile" width="100%" align="left" valign="top"> 
+                            <div class="gl-contains-spacer"> 
+                             <table class="editor-spacer" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="spacer-container" align="center" valign="top"> 
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="spacer-base" style="padding-bottom: 10px; height: 1px; line-height: 1px;" width="100%" align="center" valign="top"> 
+                                     <div>
+                                      <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                     </div> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="divider-container editor-col OneColumnMobile" width="100%" align="left" valign="top"> 
+                            <div class="gl-contains-divider"> 
+                             <table class="editor-divider" width="100%" cellpadding="0" cellspacing="0" border="0" style="min-width: 100%;"> 
+                              <tbody> 
+                               <tr> 
+                                <td class="divider-container" align="center" valign="top"> 
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-content-editor" style="cursor: default; min-width: 100%;"> 
+                                  <tbody> 
+                                   <tr> 
+                                    <td class="divider-base divider-solid" width="100%" align="center" valign="top" style="padding: 0px;"> 
+                                     <table style="width: 100%; min-width: 100%; height: 1px;" cellpadding="0" cellspacing="0" border="0" align="center"> 
+                                      <tbody> 
+                                       <tr> 
+                                        <td height="1" align="center" style="padding-bottom: 6px; border-bottom-style: none; height: 1px; line-height: 1px; background-color: #2a3b55;" bgcolor="#2a3b55"> 
+                                         <div>
+                                          <img alt="" width="5" height="1" border="0" hspace="0" vspace="0" src="https://imgssl.constantcontact.com/letters/images/sys/S.gif" style="display: block; height: 1px; width: 5px;">
+                                         </div> </td> 
+                                       </tr> 
+                                      </tbody> 
+                                     </table> </td> 
+                                   </tr> 
+                                  </tbody> 
+                                 </table> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" class="galileo-ap-layout-editor" style="min-width: 100%;"> 
+                         <tbody> 
+                          <tr> 
+                           <td class="content editor-col OneColumnMobile" width="100%" align="left" valign="top"> 
+                            <div class="gl-contains-image"> 
+                             <table class="editor-image content-image" width="100%" cellpadding="0" cellspacing="0" border="0"> 
+                              <tbody> 
+                               <tr> 
+                                <td align="center" valign="top" style="padding-top: 0px; padding-bottom: 0px;"> 
+                                 <div class="publish-container"> 
+                                  <img alt="valentines-day-text-red.gif" class="" style="display: block; height: auto; max-width: 100%;" width="310" border="0" hspace="0" vspace="0" src="https://files.constantcontact.com/d42e53b5101/da1001ce-6491-4608-94bb-dbf780c67e48.gif"> 
+                                 </div> </td> 
+                               </tr> 
+                              </tbody> 
+                             </table> 
+                            </div> </td> 
+                          </tr> 
+                         </tbody> 
+                        </table> 
+                       </div> </td> 
+                     </tr> 
+                    </tbody> 
+                   </table> </td> 
+                 </tr> 
+                </tbody> 
+               </table> </td> 
+             </tr> 
+            </tbody> 
+           </table> </td> 
+         </tr> 
+        </tbody> 
+       </table> 
+      </div> </td> 
+    </tr> 
+    <tr> 
+     <td></td> 
+    </tr> 
+   </tbody>
+  </table>   
+ </body>
+</html>

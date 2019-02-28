@@ -1,0 +1,310 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Kniteforce Radio</title>
+    <!-- Search Engine -->
+    <meta name="description" content="Kniteforce Radio - Hardcore, D'n'B, Gabba and hardly any ABBA">
+    <meta name="image" content="http://kniteforce-radio.com/assets/preview.jpg">
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="Kniteforce Radio">
+    <meta itemprop="description" content="Kniteforce Radio - Hardcore, D'n'B, Gabba and hardly any ABBA">
+    <meta itemprop="image" content="http://kniteforce-radio.com/assets/preview.jpg">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Kniteforce Radio">
+    <meta name="twitter:description" content="Kniteforce Radio - Hardcore, D'n'B, Gabba and hardly any ABBA">
+    <meta name="twitter:site" content="@DjLunaC">
+    <meta name="twitter:creator" content="@DjLunaC">
+    <meta name="twitter:image:src" content="http://kniteforce-radio.com/assets/preview.jpg">
+    <meta name="twitter:player" content="http://kniteforce-radio.com/">
+    <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+    <meta property="og:title" content="Kniteforce Radio">
+    <meta property="og:description" content="Kniteforce Radio - Hardcore, D'n'B, Gabba and hardly any ABBA">
+    <meta property="og:image" content="http://kniteforce-radio.com/assets/preview.jpg">
+    <meta property="og:image:width" content="1000" />
+    <meta property="og:image:height" content="1000" />
+    <meta property="og:url" content="http://kniteforce-radio.com/">
+    <meta property="og:type" content="website">
+    <meta property="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet prefetch" href="https://cdn.plyr.io/2.0.13/plyr.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <link rel="shortcut icon" href="favicon.ico">
+    <style>
+
+      @media (max-width: 1200px) {
+        .container {
+          width:100% !important;
+        }
+      }
+
+      .plyr {
+        border-radius: 4px;
+        margin-bottom: 15px;
+      }
+
+      #logo {
+        width: 100%;
+      }
+
+      .container {
+        padding-top: 40px;
+      }
+
+      #embededablechat-container {
+        border: none !important;
+        box-shadow: none !important;
+      }
+
+      .row {
+        /*margin-bottom: 20px;*/
+      }
+
+      #now-playing, #up-next {
+        font-weight: normal !important;
+      }
+
+      .now-next, .show {
+        margin-top: 20px;
+        margin-bottom: 20px;
+      }
+
+      .plyr__tooltip, .plyr__progress--seek, .plyr__progress--played {
+        display: none !important;
+      }
+
+      .plyr--playing .plyr__progress--buffer {
+          animation: plyr-progress 1s linear infinite !important;
+          background-size: 25px 25px !important;
+          background-repeat: repeat-x !important;
+          background-image: linear-gradient(-45deg,rgba(0,0,0,.15) 25%,transparent 25%,transparent 50%,rgba(0,0,0,.15) 50%,rgba(0,0,0,.15) 75%,transparent 75%,transparent) !important;
+          color: transparent !important;
+      }
+
+      @media only screen and (max-width: 768px) {
+        h3 {
+          font-size: 14px;
+        }
+
+        nav {
+          font-size: 14px;
+        }
+      }
+
+      @media only screen and (max-width: 450px) {
+
+        nav {
+          font-size: 9px;
+        }
+
+        h3 {
+          font-size: 12px;
+        }
+      }
+
+      .upcoming {
+        text-align: center;
+        margin-top: 20px;
+      }
+
+      @media only screen and (max-width: 350px) {
+        .small-hide {
+          display:none
+        }
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <img id="logo" src="assets/header.jpg">
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <nav class="navbar navbar-toggleable-xl navbar-light bg-faded">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+              <div class="navbar-nav">
+                <a class="nav-item nav-link" target="_blank" href="http://www.kniteforcerevolution.com/">Home</a>
+                <a class="nav-item nav-link" target="_blank" href="http://www.kniteforcerevolution.com/shop/">US Store</a>
+                <a class="nav-item nav-link" target="_blank" href="https://kniteforce.bandcamp.com">UK Store</a>
+                <a class="nav-item nav-link" target="_blank" href="http://www.kniteforcerevolution.com/blog/">Blog</a>
+                <a class="nav-item nav-link small-hide" target="_blank" href="http://www.kniteforcerevolution.com/artists/">Artists</a>
+                <a class="nav-item nav-link" target="_blank" href="http://www.kniteforcerevolution.com/contact/">Contact</a>
+                <a class="nav-item nav-link" target="_blank" href="https://www.facebook.com/kniteforcerevolution/">Facebook</a>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col">
+            <audio controls preload="none">
+              <source src="http://kniteforce.out.airtime.pro:8000/kniteforce_a" type="audio/mp3">
+              <source src="http://kniteforce.out.airtime.pro:8000/kniteforce_b" type="audio/aac">
+            </audio>
+        </div>
+      </div>
+      <div class="row show">
+        <div class="col-2">
+            <h3>Now:</h3>
+        </div>
+        <div class="col-10">
+            <h3><span id="now-on"></span></h3>
+        </div>
+      </div>
+      <div class="row now-next">
+        <div class="col-2">
+            <h3>Now:</h3>
+            <h3>Next:</h3>
+        </div>
+        <div class="col-10">
+            <h3><span id="now-playing"></span></h3>
+            <h3><span id="up-next"></span></h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+            <div class="embedded-chat" style="height: 700px; width: 100%;" ></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col upcoming">
+            <h3>Schedule</h3>
+            <table class="table">
+              <thead>
+                <tr>
+                  <th>Time</th>
+                  <th>Show</th>
+                </tr>
+              </thead>
+              <tbody class="shows">
+              </tbody>
+            </table>
+        </div>
+      </div>
+
+    </div>
+  </body>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+  <script src="https://cdn.plyr.io/2.0.13/plyr.js"></script>
+  <script>
+    (function() {
+      // This is the bare minimum JavaScript. You can opt to pass no arguments to setup.
+      // e.g. just plyr.setup(); and leave it at that if you have no need for events
+      var instances = plyr.setup({
+        // Output to console
+        debug: true,
+        controls: ['play-large', 'play', 'mute', 'volume', 'progress', 'current-time']
+      });
+    })();
+  </script>
+  <script>
+    (function() { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//d3lcjrej4ajj88.cloudfront.net/resource/chat.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+    })(); window.embeddedChatAsyncInit = function() { embeddedChat.init("9461"); }
+  </script>
+  <script>
+    $(function() {
+
+      function decodeHtml(html) {
+          var txt = document.createElement("textarea");
+          txt.innerHTML = html;
+          return txt.value;
+      }
+
+      var updateTracks = function() {
+        $.ajax({
+            url: "http://kniteforce.airtime.pro/api/live-info-v2",
+
+            // The name of the callback parameter, as specified by the YQL service
+            jsonp: "callback",
+
+            // Tell jQuery we're expecting JSONP
+            dataType: "jsonp",
+            // Work with the response
+            success: function( response ) {
+                $('#now-playing').text(decodeHtml(response.tracks.current.name));
+                $('#up-next').text(decodeHtml(response.tracks.next.name));
+                $('#now-on').text(decodeHtml(response.shows.current.name));
+                if ( response.shows.current.auto_dj ) {
+                  $('.now-next').show();
+                  $('.show').hide();
+                } else {
+                  $('.now-next').hide();
+                  $('.show').show();
+                }
+            }
+        });
+
+        $.ajax({
+            url: "http://kniteforce.airtime.pro/api/week-info?timezone=utc",
+
+            // The name of the callback parameter, as specified by the YQL service
+            jsonp: "callback",
+
+            // Tell jQuery we're expecting JSONP
+            dataType: "jsonp",
+            // Work with the response
+            success: function( response ) {
+
+                var shows = [];
+                Object.keys(response).forEach( function(day) {
+                  shows = shows.concat(response[day]);
+                });
+
+                // filter for future shows
+                var now = Date.now();
+
+                shows.forEach(function(show) {
+
+                  if ( ! show.end_timestamp ) {
+                    show.endAt = 0;
+                    return;
+                  }
+                  var temp = show.end_timestamp.split(/[- :]/g).map( function(x) { return parseInt(x) });
+
+                  show.endAt = Date.UTC(temp[0],temp[1]-1,temp[2],temp[3],temp[4],temp[5]);
+
+                  temp = show.start_timestamp.split(/[- :]/g).map( function(x) { return parseInt(x) });
+                  show.startAt = Date.UTC(temp[0],temp[1]-1,temp[2],temp[3],temp[4],temp[5]);
+                });
+
+                shows = shows.filter(function(show) {
+                  return show.endAt > now;
+                });
+
+                var upcoming = document.querySelector('.shows');
+                var locale = window.navigator.userLanguage || window.navigator.language;
+                var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric', timeZoneName: 'short'};
+
+                while ( upcoming.firstChild ) upcoming.removeChild(upcoming.firstChild);
+                shows.forEach( function(show, idx) {
+                  // no template is simple
+                  var p = document.createElement('tr');
+                  if ( idx === 0 ) p.setAttribute('class', 'table-success');
+                  var b = document.createElement('td');
+                  b.innerText = new Date(show.startAt).toLocaleString(locale, options).replace(/,/g, '');
+                  p.appendChild(b);
+                  var span = document.createElement('td');
+                  span.innerText = show.name;
+                  p.appendChild(span);
+                  upcoming.appendChild(p);
+                });
+            }
+        });
+
+
+      };
+      updateTracks();
+      setInterval(updateTracks, 5000);
+    })
+  </script>
+  <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-595397e5da4af32b"></script>
+</html>

@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+<!--[if IE 6]> <html class="ie6" lang="ja"> <![endif]-->
+<!--[if IE 7]> <html class="ie7" lang="ja"> <![endif]-->
+<!--[if IE 8]> <html class="ie8" lang="ja"> <![endif]-->
+<!--[if IE 9]> <html class="ie9" lang="ja"> <![endif]-->
+<!--[if gt IE 9]><!--> <html lang="ja"> <!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# mixi: http://mixiplatform.com/ns# g: http://base.google.com/ns/1.0">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" >
+<link rel="index" href="https://dot.asahi.com/" >
+<link href="https://plus.google.com/105677506135162461067" rel="publisher">
+
+<link rel="preconnect" href="//www.google-analytics.com" crossorigin>
+<link rel="preconnect" href="//ajax.googleapis.com" crossorigin>
+<link rel="preconnect" href="//apis.google.com" crossorigin>
+<link rel="preconnect" href="//pagead2.googlesyndication.com" crossorigin>
+<link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="//googleads.g.doubleclick.net" crossorigin>
+<link rel="preconnect" href="//tpc.googlesyndication.com" crossorigin>
+<link rel="preconnect" href="//cdn.images-dot.com" crossorigin>
+<link rel="preconnect" href="//cdn.taboola.com" crossorigin>
+<link rel="preconnect" href="//h.f1.impact-ad.jp" crossorigin>
+<link rel="preconnect" href="//img.ak.impact-ad.jp" crossorigin>
+<link rel="preconnect" href="//images-ycd.c.yimg.jp" crossorigin>
+
+<link rel="stylesheet" type="text/css" href="//cdn.images-dot.com/static/css/pc/g_all.css?update=201808311000" >
+
+<!--[if lt IE 9]><script src="//cdn.images-dot.com/static/js/html5shiv.js"></script><![endif]-->
+
+<script type="text/javascript">
+(function(w) {
+    var d = w.document;
+    try{w['__putPixel'](200100);}catch(e){}
+    w.libServingName__ = "__ASL__";
+    var url = ("https:" === d.location.protocol ? "https:" : "http:") + "//img.ak.impact-ad.jp/fh/showad_aa2dcf3d.js";
+    if (typeof w["__ASL_LIB_LOADED"] === "undefined") {
+        asyncInclude(url);
+        try{w['__putPixel'](200200);}catch(e){}
+    }
+    w['__ASL_LIB_LOADED'] = 1;
+    w['TagProvider'] = w['TagProvider'] || new Tag();
+    function Tag() {
+        var me = this;
+        me['stack'] = {};
+        me['displayAd'] = function(){};
+        me['requestAds'] = function(p) {
+            var l = w[w.libServingName__];
+            if ((p || {})['sectionId'] !== 0 && !(p || {})['sectionId']) {
+                return;
+            }
+            try {
+                l['requestAds'].call(l, p);
+            } catch (e) {
+                me['stack'][p['sectionId'] + (p['instance']? '_' + p['instance'] : '')] = p;
+            }
+        };
+        me['setGlobalCustomParams'] = function(p){
+            var l = w[w.libServingName__];
+            try {
+                l['setGlobalCustomParams'].call(l, p);
+            } catch (e) {
+                me['globalCustomParams'] = p || {};
+            }
+        };
+    }
+    function asyncInclude(url) {
+        var scriptEl = d.createElement("script"),
+            node = d.getElementsByTagName("script")[0];
+        scriptEl.type = "text/javascript";
+        scriptEl.src = url;
+        scriptEl.async = true;
+        if (navigator.userAgent.indexOf('Opera') !== -1) {
+            setTimeout(function() {
+                node.parentNode.insertBefore(scriptEl, node);
+            }, 0);
+        } else {
+            node.parentNode.insertBefore(scriptEl, node);
+        }
+    }
+})(window);
+</script>
+
+<script type="text/javascript">(function(d,u){var b=d.getElementsByTagName("script")[0],j=d.createElement("script");j.async=true;j.src=u;b.parentNode.insertBefore(j,b);})(document,"//img.ak.impact-ad.jp/ut/ced324f765faec92_3871.js");</script><noscript><iframe src="//nspt.unitag.jp/ced324f765faec92_3871.php" width="0" height="0" frameborder="0"></iframe></noscript>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+{lang: 'ja'}
+</script>
+
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="msapplication-TileColor" content="#B0C91A"><link rel="stylesheet" type="text/css" href="//cdn.images-dot.com/static/css/pc/g_all_atcl.css?update=201808311000" />
+
+
+        <link rel="stylesheet" href="//cdn.images-dot.com/static/css/pc/folded.css?update=201804191053" type="text/css"   id="folded_css" />
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="author" content="大塚篤司" /><meta name="copyright"   content="Copyright Asahi Shimbun Publications Inc. All rights reserved. No reproduction or republication without written permission." />
+<meta name="description" content="　バレンタインのこの時期、男女ともにチョコレートを食べる機会が増えることでしょう。京都大学医学部特定准教授で皮膚科医の大塚篤司医師が、チョコレートとアトピー性皮膚炎の意外な関係を解説します。＊　　＊　..." />
+<meta name="keywords"    content="週刊朝日" />
+<meta name="YAHOO"       content="ヘルス" />
+
+<meta property="og:type"        content="article" />
+<meta property="og:site_name"   content="AERA dot. (アエラドット) "/>
+    <meta property="og:title"       content="チョコレートで皮膚がかゆくなる？　アトピー性皮膚炎と高カカオチョコの意外な関係 〈週刊朝日〉" />
+<meta property="og:description" content="　バレンタインのこの時期、男女ともにチョコレートを食べる機会が増えることでしょう。京都大学医学部特定准教授で皮膚科医の大塚篤司医師が、チョコレートとアトピー性皮膚炎の意外な関係を解説します。＊　　＊　..." />
+
+    <meta property="og:image"   content="https://dot.asahi.com/S2000/upload/2019020800006_1.jpg" />
+
+
+<meta property="og:url"    content="https://dot.asahi.com/wa/2019020800006.html"/>
+<meta property="og:locale" content="ja_JP" />
+<meta property="fb:app_id" content="312701428827152"/>
+
+<link rel='alternate' href='/wa/2019020800006.html?viewmode=sm' media='handheld'/>
+<link rel='index' href='/wa/'/>
+<link rel='canonical' href='https://dot.asahi.com/wa/2019020800006.html'/>
+<link rel='start' href='/wa/2019020800006.html'/>
+<link rel='next' href='/wa/2019020800006.html?page=2'/>
+<title>チョコレートで皮膚がかゆくなる？　アトピー性皮膚炎と高カカオチョコの意外な関係 (1/3) 〈週刊朝日〉｜AERA dot. (アエラドット) </title>
+
+        <meta property="article:modified_time" content="20190215T070000+0900" />
+<meta property="article:published_time"    content="20190215T070000+0900" />
+
+<meta name="item-title"           content="チョコレートで皮膚がかゆくなる？　アトピー性皮膚炎と高カカオチョコの意外な関係" />
+<meta name="item-category"        content="週刊朝日" />
+<meta name="item-publish-date"    content="Thu 14 Feb 2019 22:00:00 GMT" />
+<meta name="item-expiration-date" content="Fri 31 Dec 9999 14:59:59 GMT" />
+
+<meta name="item-keywords" content="生活情報,ヘルス" />
+
+    <meta name="can-recommend" content="false" />
+    <meta name="item-image" content="https://dot.asahi.com/S2000/upload/2019020800006_1.jpg" />
+
+<meta name="twitter:card"   content="summary_large_image" />
+<meta name="twitter:site"   content="@dot_asahi_pub" />
+    <meta name="twitter:title" content="チョコレートで皮膚がかゆくなる？　アトピー性皮膚炎と高カカオチョコの意外な関係 〈週刊朝日〉" />
+<meta name="twitter:description" content="　バレンタインのこの時期、男女ともにチョコレートを食べる機会が増えることでしょう。京都大学医学部特定准教授で皮膚科医の大塚篤司医師が、チョコレートとアトピー性皮膚炎の意外な関係を解説します。＊　　＊　..." />
+        <meta name="twitter:image" content="https://dot.asahi.com/S2000/upload/2019020800006_1.jpg" />
+
+
+    <script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto', tracking:'utm_medium=referral'});
+    !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+    }(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    '//cdn.taboola.com/libtrc/dotasahicom/loader.js');
+    </script>
+
+<script type="application/ld+json">
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "AERA dot. (アエラドット) ",
+        "alternateName": "時代の主役たちが結集",
+        "url": "https://dot.asahi.com/"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": "1",
+                "item": {
+                    "@id": "https://dot.asahi.com/",
+                    "name": "AERA dot. (アエラドット)  トップ"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "2",
+                "item": {
+                    "@id": "https://dot.asahi.com/wa/",
+                    "name": "週刊朝日"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "3",
+                "item": {
+                    "@id": "https://dot.asahi.com/life/lifestyle/",
+                    "name": "生活情報"
+                }
+            },
+            {
+                "@type": "ListItem",
+                "position": "4",
+                "item": {
+                    "@id": "https://dot.asahi.com/wa/2019020800006.html",
+                    "name": "チョコレートで皮膚がかゆくなる？　アトピー性皮膚炎と高カカオチョコの意外な関係 (1/3) 〈週刊朝日〉"
+                }
+            }
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://dot.asahi.com/wa/2019020800006.html"
+        },
+        "headline": "チョコレートで皮膚がかゆくなる？　アトピー性皮膚炎と高カカオチョコの意外な関係",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://cdn.images-dot.com/S2000/upload/2019020800006_1.jpg",
+            "width": "1024",
+            "height": "1024"
+        },
+        "datePublished": "2019-02-15T07:00:00+09:00",
+        "dateModified": "2019-02-15T07:00:00+09:00",
+        "author": {
+            "@type": "Person",
+            "name": "大塚篤司"
+        },
+        "description": "　バレンタインのこの時期、男女ともにチョコレートを食べる機会が増えることでしょう。京都大学医学部特定准教授で皮膚科医の大塚篤司医師が、チョコレートとアトピー性皮膚炎の意外な関係を解説します。＊　　＊　",
+        "publisher": {
+            "@type": "Organization",
+            "name": "AERA dot. (アエラドット) ",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://cdn.images-dot.com/static/img/common/aeradot_512_512.png",
+                "width": "512",
+                "height": "512"
+            }
+        }
+    }
+]</script>
+
+
+
+    <link rel="amphtml" href="https://dot.asahi.com/amp/wa/2019020800006.html" />
+<!-- インタレスト広告用 -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-34705142-1', 'auto', {'sampleRate': 10});
+
+
+ga('send', 'pageview', {'dimension1':"ヘルス",'dimension2':"SG_医療健康"});
+
+</script>
+
+
+<script>
+var tab = {
+    init: function() {
+        var tabs = this.setup.tabs;
+        var pages = this.setup.pages;
+        var tab_num = document.cookie.match(/select_tab=(\d)/);
+        var num;
+        if (tab_num === null) {
+            num = 0;
+        } else {
+            num = parseInt(tab_num[1]);
+        }
+        for (i = 0; i < pages.length; i++) {
+            if (i !== num) pages[i].style.display = 'none';
+            if (i == num) {
+                tabs[num].className = 'present';
+            } else {
+                tabs[i].className = null;
+            }
+            tabs[i].onclick = function() {
+                tab.showpage(this);
+                return false;
+            };
+        }
+    },
+    showpage: function(obj) {
+        var tabs = this.setup.tabs;
+        var pages = this.setup.pages;
+        var num;
+        for (num = 0; num < tabs.length; num++) {
+            if (tabs[num] === obj) break;
+        }
+        document.cookie = "select_tab=" + num + "; path=/;";
+        for (var i = 0; i < pages.length; i++) {
+            if (i == num) {
+                pages[num].style.display = 'block';
+                tabs[num].className = 'present';
+            } else {
+                pages[i].style.display = 'none';
+                tabs[i].className = null;
+            }
+        }
+    }
+}
+
+var contentsTab = {
+    init: function() {
+        var tabs = this.setup.tabs;
+        var pages = this.setup.pages;
+        var tab_num = document.cookie.match(/select_tab=(\d)/);
+        var num;
+        if (tab_num === null) {
+            num = 0;
+        } else {
+            num = parseInt(tab_num[1]);
+        }
+        for (i = 0; i < pages.length; i++) {
+            if (i !== num) pages[i].style.display = 'none';
+            if (i == num) {
+                tabs[num].className = 'present';
+            } else {
+                tabs[i].className = null;
+            }
+            tabs[i].onclick = function() {
+                contentsTab.showpage(this);
+                return false;
+            };
+        }
+    },
+    showpage: function(obj) {
+        var tabs = this.setup.tabs;
+        var pages = this.setup.pages;
+        var num;
+        for (num = 0; num < tabs.length; num++) {
+            if (tabs[num] === obj) break;
+        }
+        document.cookie = "select_tab=" + num + "; path=/;";
+        for (var i = 0; i < pages.length; i++) {
+            if (i == num) {
+                pages[num].style.display = 'block';
+                tabs[num].className = 'present';
+            } else {
+                pages[i].style.display = 'none';
+                tabs[i].className = null;
+            }
+        }
+    }
+}
+
+var cateContentsTab = {
+    init: function() {
+        var tabs = this.setup.tabs;
+        var pages = this.setup.pages;
+        var tab_num = document.cookie.match(/select_tab=(\d)/);
+        var num;
+        if (tab_num === null) {
+            num = 0;
+        } else {
+            num = parseInt(tab_num[1]);
+        }
+        for (i = 0; i < pages.length; i++) {
+            if (i !== num) pages[i].style.display = 'none';
+            if (i == num) {
+                tabs[num].className = 'present';
+            } else {
+                tabs[i].className = null;
+            }
+            tabs[i].onclick = function() {
+                cateContentsTab.showpage(this);
+                return false;
+            };
+        }
+    },
+    showpage: function(obj) {
+        var tabs = this.setup.tabs;
+        var pages = this.setup.pages;
+        var num;
+        for (num = 0; num < tabs.length; num++) {
+            if (tabs[num] === obj) break;
+        }
+        document.cookie = "select_tab=" + num + "; path=/;";
+        for (var i = 0; i < pages.length; i++) {
+            if (i == num) {
+                pages[num].style.display = 'block';
+                tabs[num].className = 'present';
+            } else {
+                pages[i].style.display = 'none';
+                tabs[i].className = null;
+            }
+        }
+    }
+}
+</script></head>
+<body>
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) return;
+     js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.12&appId=312701428827152&autoLogAppEvents=1';
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+
+                <script type="text/javascript">
+                try {
+                    TagProvider.requestAds({
+                        sectionId: "1997"
+                        , dmp: true
+                        , sync: false
+                        , custom: { category:"health" }
+                    });
+                } catch(err) {}
+                </script>
+                <script type="text/javascript">
+                try {
+                    TagProvider.requestAds({
+                        sectionId: "1996"
+                        , dmp: true
+                        , sync: false
+                        , custom: { category:"health" }
+                    });
+                } catch(err) {}
+                </script>
+                <script type="text/javascript">
+                try {
+                    TagProvider.requestAds({
+                        sectionId: "1995"
+                        , dmp: true
+                        , sync: false
+                        , custom: { category:"health" }
+                    });
+                } catch(err) {}
+                </script>
+                <script type="text/javascript">
+                try {
+                    TagProvider.requestAds({
+                        sectionId: "1994"
+                        , dmp: true
+                        , sync: false
+                        , custom: { category:"health" }
+                    });
+                } catch(err) {}
+                </script>
+                <script type="text/javascript">
+                try {
+                    TagProvider.requestAds({
+                        sectionId: "1993"
+                        , dmp: true
+                        , sync: false
+                        , custom: { category:"health" }
+                    });
+                } catch(err) {}
+                </script>
+                <script type="text/javascript">
+                try {
+                    TagProvider.requestAds({
+                        sectionId: "2236"
+                        , dmp: true
+                        , sync: false
+                        , custom: { category:"health" }
+                    });
+                } catch(err) {}
+                </script>
+
+
+<header id="gHeadBasic"><!-- dot.タイトルロゴ --><div class="logoWrapper"><!-- 「猫特集」バナー --><a href="/keyword/ねこ/"><img src="//cdn.images-dot.com/static/image/pc/header/header_nekonohi_pc.jpg" class="AeradotNekonohiBnrImg" alt="猫特集"></a><!-- 「猫特集」バナー --><!-- 「猫特集」AERA dot.ロゴ --><h1 class="gH1LogoAeradotForNekonohi"><a href="/"><svg version="1.1" id="layer1_x5F_neko" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="190px" height="50px" viewBox="0 0 190 50" enable-background="new 0 0 190 50" xml:space="preserve"> <g> 	<g> 		<path fill="#333333" d="M93.9,31.4l4.1,2.7l-2.5-23.8L93.9,31.4z M92.8,45.9h-9.4l5.1-44.4h13.8l6.9,48.4L93.3,39.8L92.8,45.9z"></path> 		<path fill="#333333" d="M10.6,31.4l4.1,2.7l-2.5-23.8L10.6,31.4z M9.5,45.9H0.1L5.2,1.6H19L25.9,50L10,39.8L9.5,45.9z"></path> 		<polygon fill="#333333" points="29.9,1.6 51,1.6 51,9 39.4,9 39.4,19.3 49.8,19.3 49.8,27 39.4,27 39.4,38.1 51,38.1 51,46  			29.9,46 		"></polygon> 		<path fill="#333333" d="M69.6,19.3h-4.1V9h4.1V19.3z M78.8,18.8V6.6l0,0c0-2.8-2.3-5.1-5.1-5.1H56.5V46h9V27h4.1v19h9.2V26.2 			c0-1.7-1.1-3.2-2.6-3.7C77.7,21.9,78.8,20.4,78.8,18.8"></path> 		<path fill="#B0C91A" d="M150.9,46.7c-6.2,0-11.2-5-11.2-11.2c0-6.2,5-11.2,11.2-11.2c6.2,0,11.2,5,11.2,11.2 			C162,41.7,157,46.7,150.9,46.7z M150.9,30c-3,0-5.5,2.5-5.5,5.5s2.5,5.5,5.5,5.5c3,0,5.5-2.5,5.5-5.5S153.9,30,150.9,30z"></path> 		<path fill="#333333" d="M131.9,16v10.1c-1.7-1.1-3.7-1.7-5.9-1.7c-6.2,0-11.2,5-11.2,11.2c0,6.2,5,11.2,11.2,11.2 			c2.2,0,4.2-0.6,5.9-1.7v1.3h5.3V16H131.9z M126,41c-3,0-5.5-2.5-5.5-5.5c0-3,2.5-5.5,5.5-5.5c3,0,5.5,2.5,5.5,5.5 			C131.5,38.6,129.1,41,126,41z"></path> 		<polygon fill="#333333" points="177.5,24.4 173.2,24.4 173.2,16 167.5,16 167.5,24.4 163.1,24.4 163.1,30 167.5,30 167.5,46.3  			173.2,46.3 173.2,30 177.5,30 		"></polygon> 	</g> 	<g> 		<path fill="#333333" d="M179.1,39.2c0,0,0.3,1.6,0,2c-0.5,0.6-1.7,1.6-2.3,0.5s-0.1-2.4,0.2-3.1C177.2,38,178.5,37.1,179.1,39.2z"></path> 		<path fill="#333333" d="M182.4,37.1c0,0-0.2,1.9-1.5,1.6s-1.6-2-0.8-3.3S183,33,182.4,37.1z"></path> 		<path fill="#333333" d="M186.6,36.5c0,0,0.6,2.6-1.3,2.4c-1.8-0.2-1.5-2.4-1.4-3.1S185.4,32.7,186.6,36.5z"></path> 		<path fill="#333333" d="M189.9,40.9c0,0,0.2,2.1-1.1,1.8c-1.3-0.3-1.9-1.4-1.6-2.6C187.5,38.9,189.2,36.2,189.9,40.9z"></path> 		<path fill="#333333" d="M188.4,44.6c0,0,0.3,1.9-1.7,2.1c-1.9,0.2-2.9-0.8-4.1-0.6c-1.3,0.2-3.7,0.6-4.5-0.7 			c-0.8-1.3-0.1-2.2,1.3-2.8c1.7-0.8,1.9-3.3,3.8-3.2c1.9,0.1,2.2,2.4,3.2,3C187.4,43,188.2,43.1,188.4,44.6z"></path> 	</g></g></svg><title>AERA dot.</title></a></h1><!-- 「猫特集」AERA dot.ロゴ --><!-- ソーシャルボタン --><ul class="gHeadBasicSnsList"><li><a href="https://twitter.com/dot_asahi_pub" ><i class="gHeadBasicSnsSprite spriteTw"></i></a></li><li><a href="http://www.facebook.com/dot.asahi"><i class="gHeadBasicSnsSprite spriteFb"></i></a></li><li><a href="http://plus.google.com/105677506135162461067?prsrc=3" ><i class="gHeadBasicSnsSprite spriteGp"></i></a></li><li><a href="/rss.html"><i class="gHeadBasicSnsSprite spriteRss"></i></a></li></ul><!--/gHeadBasicSnsList--><!-- サイト内検索 --><form name="indexActionForm" id="gHeadBasicSearchForm" method="get" action="/fess/search"><input name="query" maxlength="1000" id="gHeadBasicContentQuery" value="" type="text"><input src="//cdn.images-dot.com/static/image/pc/header/search_btn.png" alt="検索" name="searchBtn1" id="gHeadBasicSearchBtn" type="image"></form></div><!-- logoWrapper --><!-- カテゴリーリンク --><ul class="gNavCategoryList"><li><a href="/news/">ニュース</a></li><li><a href="/business/">ビジネス</a></li><li><a href="/ent/">エンタメ</a></li><li><a href="/sports/">スポーツ</a></li><li><a href="/education/">教育・ライフ</a></li><li><a href="/health/">ヘルス</a></li><li><a href="/photogallery/">フォトギャラリー</a></li><li><a href="/columnist/">コラム</a></li></ul><!--/gNavCategoryList--></header>
+
+<div align="center">
+
+
+        
+
+        
+
+        
+        <div id="2747_1997">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2747_1997");
+                } catch(err) {}
+            </script>
+        </div>
+
+</div>
+<div class="container"><!-- .container -->
+<div class="content"><!-- .content -->
+
+<!--タグ-->
+<!--/タグ-->
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="gNavCategories">
+
+        
+
+    <span vocab="http://schema.org/"  typeof="BreadcrumbList" class="gAreaBreadcrumb">
+        
+            <span property="itemListElement" typeof="ListItem">
+                
+                                                            <a typeof="WebPage" property="item" class="gLnkBreadcrumb" href="/">
+                        <span property="name">トップ</span></a>
+                                                    <meta property="position" content="1">
+            </span>
+
+        
+            <span property="itemListElement" typeof="ListItem">
+                
+                                                            <a typeof="WebPage" property="item" class="gLnkBreadcrumb" href="/health/">
+                        <span property="name">ヘルス</span></a>
+                                                    <meta property="position" content="2">
+            </span>
+
+        
+            <span property="itemListElement" typeof="ListItem">
+                
+                                    <span>記事</span>
+                                <meta property="position" content="3">
+            </span>
+
+            </span>
+</div>
+<!-- タイトル -->
+<h1>チョコレートで皮膚がかゆくなる？　アトピー性皮膚炎と高カカオチョコの意外な関係</h1> 
+
+    <h2 class="columnTitleTxt">
+        <a href="/columnist/profile/series/?series_id=kanjatoissyo">
+                連載「現役皮膚科医がつづる “患者さんと一緒に考えたいこと、伝えたいこと”」</a>
+    </h2>
+
+
+<div class="MarginLR37"><!-- .MarginLR37 -->
+
+<!--ソーシャルリンク-->
+
+
+        
+
+
+
+<div class="gAreaSns gAfterClear">
+
+<span class="snsAreaFb"><div class="fb-like snsBtnFb" data-href="https://dot.asahi.com/wa/2019020800006.html" data-send="false" data-layout="button_count" data-width="105" data-show-faces="false" data-action="recommend" data-font="arial"></div></span>
+
+    <a href="https://twitter.com/share" class="twitter-share-button snsBtnTwitter" data-lang="ja" data-related="dot_asahi_pub" data-url="https://dot.asahi.com/wa/2019020800006.html"  rel="nofollow">ツイート</a>
+    <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.charset="UTF-8";js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<a href="http://b.hatena.ne.jp/entry/https://dot.asahi.com/wa/2019020800006.html" class="hatena-bookmark-button snsBtnHatena" data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加">
+<img src="https://b.hatena.ne.jp/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.hatena.ne.jp/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <div class="g-plusone snsBtnGplus" data-size="medium" data-annotation="bubble" data-width="250"></div>
+</div><!-- /.gAreaSns -->
+<div class="MarginT10"><span class="atclAuthorTxt">大塚篤司</span><time class="atclTimeDateTxt" datetime="2019-02-15T07:00">2019.2.15&nbsp;07:00</time><span class="atclMediaTxt"><a href="/wa/">週刊朝日</a></span><span class="atclKwTxt"><a href="/keyword/ヘルス/">#ヘルス</a></span></div>
+<!--pr.html-->
+<div id="interest_ad_3line_wrapper">
+
+
+
+
+
+
+        <div id="2750_1994">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2750_1994");
+                } catch(err) {}
+            </script>
+        </div>
+
+        <div id="2751_1994">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2751_1994");
+                } catch(err) {}
+            </script>
+        </div>
+
+        <div id="2752_1994">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2752_1994");
+                } catch(err) {}
+            </script>
+        </div>
+
+</div><!--interest_ad_3line_wrapper-->
+
+<div class="TitleBottomB10">
+    <img src="//cdn.images-dot.com/static/image/spacer.gif" alt=" " width="1" height="5"/>
+</div>
+
+</div><!-- /.MarginLR37 -->
+<div class="MarginLR37"><!-- .MarginLR37 -->
+
+<div class="atclTxtMain">
+
+
+
+
+                                    <div class="MarginT10"><!--.MarginT10-->
+            <div class="InfImgBox"><!--.InfImgBox-->
+                <div class="honbunPhotoLeft2"><!--.honbunPhotoLeft2-->
+                            <table border="0" cellspacing="0" cellpadding="0" summary=" " class="newsImgbackGr">
+            <tr valign="top">
+                <td>
+                            <a href="/print_image/index.html?photo=2019020800006_1">
+                        <p class="noImgPrintS"></p>                            <img src="//cdn.images-dot.com/S2000/upload/2019020800006_1.jpg?update=20190213163146" alt="大塚篤司／１９７６年生まれ。千葉県出身。医師・医学博士。２００３年信州大学医学部卒業。２０１２年チューリッヒ大学病院客員研究員を経て２０１７年より京都大学医学部特定准教授。皮膚科専門医" width="292" />
+                </a>        </td></tr></table>
+        <div class="MarginT5"><!--.MarginT5-->
+            <p class="sssTxt1" style="word-break:break-all;word-wrap:break-word;">大塚篤司／１９７６年生まれ。千葉県出身。医師・医学博士。２００３年信州大学医学部卒業。２０１２年チューリッヒ大学病院客員研究員を経て２０１７年より京都大学医学部特定准教授。皮膚科専門医</p>
+                            <p class="sTxt1R"><a href="/print_image/index.html?photo=2019020800006_1"><img src="//cdn.images-dot.com/static/image/icon_zoom.gif" alt=" " width="38" height="14" /></a></p>
+                    </div><!--.MarginT5-->
+        </div><!--.honbunPhotoLeft2-->
+                                    <div class="honbunPhotoLeft2"><!--.honbunPhotoLeft2-->
+                            <table border="0" cellspacing="0" cellpadding="0" summary=" " class="newsImgbackGr">
+            <tr valign="top">
+                <td>
+                            <a href="/print_image/index.html?photo=2019020800006_2">
+                        <p class="noImgPrintS"></p>                            <img src="//cdn.images-dot.com/S2000/upload/2019020800006_2.jpg?update=20190213163146" alt="チョコには多くのニッケルが含まれているため、金属アレルギーの方は食べすぎないように（写真：getty images）" height="292" />
+                </a>        </td></tr></table>
+        <div class="MarginT5"><!--.MarginT5-->
+            <p class="sssTxt1" style="word-break:break-all;word-wrap:break-word;">チョコには多くのニッケルが含まれているため、金属アレルギーの方は食べすぎないように（写真：getty images）</p>
+                            <p class="sTxt1R"><a href="/print_image/index.html?photo=2019020800006_2"><img src="//cdn.images-dot.com/static/image/icon_zoom.gif" alt=" " width="38" height="14" /></a></p>
+                    </div><!--.MarginT5-->
+        </div><!--.honbunPhotoLeft2-->
+    
+
+
+
+
+
+
+</div>
+    </div><!--.MarginT10-->
+
+<!--本文(クローリング起点)-->
+<p class="nTxt1">
+　バレンタインのこの時期、男女ともにチョコレートを食べる機会が増えることでしょう。京都大学医学部特定准教授で皮膚科医の大塚篤司医師が、チョコレートとアトピー性皮膚炎の意外な関係を解説します。<br><br>＊　　＊　　＊<br>　1879年、スイスのベルンでは「ある薬剤師の息子」が新作のお菓子作りに挑戦していました。発明とは時に失敗や偶然から生まれるもの。彼はうっかり、原料混合の機械を動かしたまま帰宅してしまいました。この失敗の結果、口溶け滑らかで苦味のある香ばしいお菓子が誕生しました。この機械が巻き貝の一種であるコンク貝に似ていたことから、練り続けるという意味の言葉「コンチング」が生まれました。「コンチング」は現在、チョコレート作りの大事な工程のひとつとなっています。この偉大な失敗を犯した彼こそがロドルフ・リンツ。スイスのチョコレートブランド、リンツチョコレートの発案者です。<br><br>　チョコレートには約30～40％のカカオが含まれています。適度な渋みや苦味、香ばしい香りのカカオは、チョコレート好きをとりこにする重要な素材です。カカオ好きをターゲットとした、カカオ成分が70％以上の高カカオチョコレートも売られています。高カカオは健康に良いイメージがあるかもしれません。しかし「高カカオをうたったチョコレート」に関しては、独立行政法人国民生活センターから注意喚起が発表されています。その原因の一つが、カカオに含まれる金属であるニッケルです。<br><br>　ニッケルは金属アレルギーの原因として知られています。ピアス、ネックレス、指輪など多くの貴金属のめっきにニッケルが使われています。金属アレルギーは、汗に含まれる塩素イオンにニッケルが溶出し皮膚に付着することで成立します。貴金属だけではありません。ニッケルはさまざまな食物に含まれています。その代表的なものがコーヒーやココア、そしてチョコレートです。先の高カカオ含有のチョコレートに関しては、通常の1.9～3.8倍のニッケルが含まれていることがわかりました。このためニッケルアレルギーの人は、高カカオチョコレートで皮膚炎が増悪する危険性が指摘されました。<br><br></p>
+<!--/本文(クローリング終点)-->
+<br class="clearfloat">
+
+<div class="articleTitlePager"><a href="?page=2"><div class="articleTitlePagerNext">次のページ</div>アトピーの「外因性」と「内因性」</a></div>
+
+<nav class="articlePager"><ul class="articlePagerList"><li class="articlePagerNumCurrent">1</li><li class="articlePagerNum"><a href="?page=2">2</a></li><li class="articlePagerNum"><a href="?page=3">3</a></li><li class="articlePagerNext"><a href="/wa/2019020800006.html?page=2">次のページ</a></li></ul></nav>
+<p class="sTxt1R gNavTopOrList"><a href="/" class="BlueLinkNoBd">トップにもどる</a><img src="//cdn.images-dot.com/static/image/news_jp_grayline.gif" alt=" " width="9" height="10"/><a href="/wa/" class="BlueLinkNoBd">週刊朝日記事一覧</a></p>
+
+
+
+
+
+
+
+</div><!--atclTxtMain-->
+
+
+    <img src="//cdn.images-dot.com/static/img/sm/bgFolded.png" class="atclEndOverlay" id="js_000088_0321_img">
+    <p class="foldedAreaReadmore" id="js_000086_0191_foldedArea">
+        <a href="?page=1" id="js_foldedBtnReadmore" class="ReadmoreAarrow foldedLnkReadmoreBtn">続きを読む</a></p>
+
+<div class="MarginT20"><!--.MarginT20-->
+
+
+
+
+
+    <span style="text-align:center;">
+    
+
+        
+
+        
+
+        
+        <div id="2753_1993">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2753_1993");
+                } catch(err) {}
+            </script>
+        </div>
+
+    </span>
+
+
+<div class="atclTitleAreaRelatedArticle"><!-- アイコン --><svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;"><g><circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="15" cy="9.4" r="2.5"></circle><circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="8.5" cy="20.6" r="2.5"></circle><circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="21.5" cy="20.6" r="2.5"></circle><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="16.1" y1="11.3" x2="20.3" y2="18.5"></line><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="9.7" y1="18.5" x2="13.8" y2="11.5"></line><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="19" y1="20.6" x2="10.7" y2="20.6"></line></g><title>関連記事</title></svg><!-- アイコン -->関連記事</div><ul class="relatedArticleThumbList" vocab="http://schema.org/" typeof="relatedLink"><li property="itemListElement" typeof="ListItem"><a href="https://dot.asahi.com/wa/2014011700033.html" class="relatedArticleThumbArea" onclick="ga('send', 'event', 'inbound_links', 'pc_kanren_link', 1);"><img src="//cdn.images-dot.com/static/image/pc/top/img_noimage_364_200.jpg" class="relatedArticleThumbY"/></a><a href="https://dot.asahi.com/wa/2014011700033.html" property="item" typeof="WebPage" onclick="ga('send', 'event', 'inbound_links', 'pc_kanren_link', 1);"><span property="name">ステロイド外用薬でアトピー性皮膚炎とうまくつき合う...</span></a><p class="grayDate">(1/21&nbsp;7:00)週刊朝日</p></li><li property="itemListElement" typeof="ListItem"><a href="https://dot.asahi.com/wa/2014011700023.html" class="relatedArticleThumbArea" onclick="ga('send', 'event', 'inbound_links', 'pc_kanren_link', 2);"><img src="//cdn.images-dot.com/static/image/pc/top/img_noimage_364_200.jpg" class="relatedArticleThumbY"/></a><a href="https://dot.asahi.com/wa/2014011700023.html" property="item" typeof="WebPage" onclick="ga('send', 'event', 'inbound_links', 'pc_kanren_link', 2);"><span property="name">「プロアクティブ療法」でアトピー性皮膚炎は治る？</span></a><p class="grayDate">(1/20&nbsp;7:00)週刊朝日</p></li><li property="itemListElement" typeof="ListItem"><a href="https://dot.asahi.com/dot/2018062500015.html" class="relatedArticleThumbArea" onclick="ga('send', 'event', 'inbound_links', 'pc_kanren_link', 3);"><img src="/S2000/upload/350_2018062500015_2.jpg?update=20180625121926" class="relatedArticleThumbY"/></a><a href="https://dot.asahi.com/dot/2018062500015.html" property="item" typeof="WebPage" onclick="ga('send', 'event', 'inbound_links', 'pc_kanren_link', 3);"><span property="name">湿疹が食物アレルギーの原因になる？　医師が教える赤...</span></a><p class="grayDate">(6/27&nbsp;7:00)dot.</p></li><li property="itemListElement" typeof="ListItem"><a href="https://dot.asahi.com/wa/2018121200007.html" class="relatedArticleThumbArea" onclick="ga('send', 'event', 'inbound_links', 'pc_kanren_link', 4);"><img src="/S2000/upload/350_2018121200007_2.jpg?update=20181225112934" class="relatedArticleThumbY"/></a><a href="https://dot.asahi.com/wa/2018121200007.html" property="item" typeof="WebPage" onclick="ga('send', 'event', 'inbound_links', 'pc_kanren_link', 4);"><span property="name">カサカサの肌はアトピー性皮膚炎になりやすい？　最新...</span></a><p class="grayDate">(12/28&nbsp;7:00)週刊朝日</p></li><li property="itemListElement" typeof="ListItem"><a href="https://dot.asahi.com/wa/2016070800119.html" class="relatedArticleThumbArea" onclick="ga('send', 'event', 'inbound_links', 'pc_kanren_link', 5);"><img src="/S2000/upload/350_2016070800119_1.jpg?update=20160712192514" class="relatedArticleThumbY"/></a><a href="https://dot.asahi.com/wa/2016070800119.html" property="item" typeof="WebPage" onclick="ga('send', 'event', 'inbound_links', 'pc_kanren_link', 5);"><span property="name">“プロアクティブ”が効果的　大人のアトピー性皮膚炎...</span></a><p class="grayDate">(7/13&nbsp;11:30)週刊朝日</p></li><li id="4071_1993">
+                <script type="text/javascript">
+                    try {
+                        TagProvider.displayAd("4071_1993");
+                    } catch(err) {}
+                </script>
+            </li></ul>
+<br class="clearfloat">
+
+<!--広告-->
+<div id="image_text_ad" class="gAdImageTxt">
+
+        
+
+        
+
+        
+        <div id="2822_1993">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2822_1993");
+                } catch(err) {}
+            </script>
+        </div>
+</div>
+
+
+
+        
+            <div style="margin-top:10px;"><aside>
+                        
+
+                        
+
+                        
+        <div id="2827_2236">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2827_2236");
+                } catch(err) {}
+            </script>
+        </div>
+        </aside></div>
+    
+<!--/広告-->
+
+<div class="MarginT10"><!-- .MarginT10 -->
+<!--ソーシャルリンク-->
+
+
+        
+
+
+
+<div class="gAreaSns gAfterClear">
+
+<span class="snsAreaFb"><div class="fb-like snsBtnFb" data-href="https://dot.asahi.com/wa/2019020800006.html" data-send="false" data-layout="button_count" data-width="105" data-show-faces="false" data-action="recommend" data-font="arial"></div></span>
+
+    <a href="https://twitter.com/share" class="twitter-share-button snsBtnTwitter" data-lang="ja" data-related="dot_asahi_pub" data-url="https://dot.asahi.com/wa/2019020800006.html"  rel="nofollow">ツイート</a>
+    <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.charset="UTF-8";js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<a href="http://b.hatena.ne.jp/entry/https://dot.asahi.com/wa/2019020800006.html" class="hatena-bookmark-button snsBtnHatena" data-hatena-bookmark-layout="standard" title="このエントリーをはてなブックマークに追加">
+<img src="https://b.hatena.ne.jp/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a>
+<script type="text/javascript" src="https://b.hatena.ne.jp/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+    <div class="g-plusone snsBtnGplus" data-size="medium" data-annotation="bubble" data-width="250"></div>
+</div><!-- /.gAreaSns --><!--/ソーシャルリンク-->
+</div><!-- /.MarginT10 -->
+
+</div><!--/.MarginT30-->
+
+<!-- インタレスト広告用 -->
+
+<!--フェイスブック　コメント-->
+
+
+            
+    
+        
+    <aside>
+        <div id="taboola-below-article-thumbnails"></div>
+        <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({
+        mode: 'organic-thumbnails-a',
+        container: 'taboola-below-article-thumbnails',
+        placement: 'Below Article Thumbnails',
+        target_type: 'mix'
+        });
+        </script>
+        <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({flush: true});
+        </script>
+
+        <div id="taboola-below-article-thumbnails-2"></div>
+        <script type="text/javascript">
+          window._taboola = window._taboola || [];
+          _taboola.push({
+            mode: 'thumbnails-a-pc',
+            container: 'taboola-below-article-thumbnails-2',
+            placement: 'Below Article Thumbnails 2',
+            target_type: 'mix'
+          });
+        </script>
+</aside>
+    
+
+
+
+    <aside>
+                
+
+                
+        
+
+<div class="rankingAreaAtcl">
+
+<div class="atclTitleAreaAccessRanking">
+<!-- アイコン -->
+<svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;float:left;"><g><g><path fill="#FFFFFF" d="M6.7,9.2c0,0.6-0.5,1.1-1.1,1.1H5.4c-0.6,0-1.1-0.5-1.1-1.1V9c0-0.6,0.5-1.1,1.1-1.1h0.2c0.6,0,1.1,0.5,1.1,1.1V9.2z"></path>
+<path fill="#FFFFFF" d="M16.2,9.2c0,0.6-0.5,1.1-1.1,1.1h-0.2c-0.6,0-1.1-0.5-1.1-1.1V9c0-0.6,0.5-1.1,1.1-1.1h0.2c0.6,0,1.1,0.5,1.1,1.1V9.2z"></path><path fill="#FFFFFF" d="M25.6,9.2c0,0.6-0.5,1.1-1.1,1.1h-0.2c-0.6,0-1.1-0.5-1.1-1.1V9c0-0.6,0.5-1.1,1.1-1.1h0.2c0.6,0,1.1,0.5,1.1,1.1V9.2z"></path></g><polygon fill="#FFFFFF" points="24.1,10.9 17.6,13.9 14.8,10.6 12,13.9 5.6,10.9 7.2,22.1 22.5,22.1 	"></polygon></g><rect fill="none" width="30" height="30"></rect><title>アクセスランキング</title></svg><!-- アイコン -->ヘルス　アクセスランキング</div>
+
+    <div id="cateContentsTab-wrapper" class="mnavAreaRanktab">
+        <ul id="cateContentsTab">
+            <li class="present" id="cateContentsTab-a1"><a href="#cateContentsRankTab1">アクセス</a></li>
+            <li><a href="#cateContentsRankTab2">Twitter</a></li>
+        </ul>
+
+                <div id="cateContentsRankTab1"><ol class="Rank4"><li class="rankingLi"><a href="/wa/2019021900032.html" class="TopLinkBlue mnavLnkRanking rankLnk1">ステージ4は「手遅れ」ではない！　堀ちえみさんが舌がん公表　よくある誤解を医師...</a></li><li class="rankingLi"><a href="/wa/2018112700014.html" class="TopLinkBlue mnavLnkRanking rankLnk2">ガンバレルーヤよしこが患った「下垂体腺腫」　視力低下、視野が欠けるなどの症状も</a></li><li class="rankingLi"><a href="/wa/2018121300023.html" class="TopLinkBlue mnavLnkRanking rankLnk3">カラダの調子は“尿”に聞け！　腐ったようなにおいは何の病気？</a></li><li class="rankingLi"><a href="/wa/2019021900011.html" class="TopLinkBlue mnavLnkRanking rankLnk4">堀ちえみを襲った「舌がん」とは？　歯並びや入れ歯などの意外なリスクとセルフチ...</a></li><li class="rankingLi"><a href="/wa/2019021000014.html" class="TopLinkBlue mnavLnkRanking rankLnk5">認知症の家族の歯みがきはどうすればいい？　専門家に聞いた「口から考える口腔ケア」</a></li></ol><p class="sTxt1R"><a href="/ranking/health.html" class="TopLinkBlue">［ヘルスランキングをもっと見る］</a></p></div><div id="cateContentsRankTab2"><ol class="Rank4"><li class="rankingLi"><a href="/wa/2019021900032.html" class="TopLinkBlue mnavLnkRanking rankLnk1">ステージ4は「手遅れ」ではない！　堀ちえみさんが舌がん公表　よくある誤解を医師...</a></li><li class="rankingLi"><a href="/wa/2019021600025.html" class="TopLinkBlue mnavLnkRanking rankLnk2">白血病公表の池江璃花子「早期発見」報道に違和感を抱く専門医の重要な助言</a></li><li class="rankingLi"><a href="/aera/2019021400044.html" class="TopLinkBlue mnavLnkRanking rankLnk3">「スギ花粉米」で花粉症の症状を改善　実用化間近の新治療法</a></li><li class="rankingLi"><a href="/wa/2019021900011.html" class="TopLinkBlue mnavLnkRanking rankLnk4">堀ちえみを襲った「舌がん」とは？　歯並びや入れ歯などの意外なリスクとセルフチ...</a></li><li class="rankingLi"><a href="/aera/2019021400041.html" class="TopLinkBlue mnavLnkRanking rankLnk5">インフルエンザ、1シーズン3度の感染も　対策におすすめの食事メニュー</a></li></ol><p class="sTxt1R"><a href="/ranking_tw/health.html" class="TopLinkBlue">［ヘルスランキングをもっと見る］</a></p></div>
+
+        <script type="text/javascript">
+        cateContentsTab.setup = {
+            tabs: document.getElementById('cateContentsTab').getElementsByTagName('li'),
+
+            pages: [
+        	    document.getElementById('cateContentsRankTab1'),
+        	    document.getElementById('cateContentsRankTab2')
+            ]
+        }
+
+        cateContentsTab.init();
+        </script>
+    </div>
+
+
+</div>    </aside>
+
+<aside>
+        
+        
+
+<div class="rankingAreaAtcl">
+
+<div class="atclTitleAreaAccessRanking">
+<!-- アイコン -->
+<svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;float:left;"><g><g><path fill="#FFFFFF" d="M6.7,9.2c0,0.6-0.5,1.1-1.1,1.1H5.4c-0.6,0-1.1-0.5-1.1-1.1V9c0-0.6,0.5-1.1,1.1-1.1h0.2c0.6,0,1.1,0.5,1.1,1.1V9.2z"></path>
+<path fill="#FFFFFF" d="M16.2,9.2c0,0.6-0.5,1.1-1.1,1.1h-0.2c-0.6,0-1.1-0.5-1.1-1.1V9c0-0.6,0.5-1.1,1.1-1.1h0.2c0.6,0,1.1,0.5,1.1,1.1V9.2z"></path><path fill="#FFFFFF" d="M25.6,9.2c0,0.6-0.5,1.1-1.1,1.1h-0.2c-0.6,0-1.1-0.5-1.1-1.1V9c0-0.6,0.5-1.1,1.1-1.1h0.2c0.6,0,1.1,0.5,1.1,1.1V9.2z"></path></g><polygon fill="#FFFFFF" points="24.1,10.9 17.6,13.9 14.8,10.6 12,13.9 5.6,10.9 7.2,22.1 22.5,22.1 	"></polygon></g><rect fill="none" width="30" height="30"></rect><title>アクセスランキング</title></svg><!-- アイコン -->アクセスランキング</div>
+
+    <div id="contentsTab-wrapper" class="mnavAreaRanktab">
+    <ul id="contentsTab">
+    <li class="present" id="contentsTab-a1"><a href="#contentsRankTab1">アクセス</a></li>
+    <li><a href="#contentsRankTab2">Twitter</a></li>
+    </ul>
+
+        <div id="contentsRankTab1"><ol class="Rank4"><li class="rankingLi"><a href="/dot/2018122000101.html" class="TopLinkBlue mnavLnkRanking rankLnk1">＜第5回＞「飯島愛さんは振り切って生きた」鈴木紗理奈が明かす死の前日のやり取り...</a></li><li class="rankingLi"><a href="/wa/2019022000026.html" class="TopLinkBlue mnavLnkRanking rankLnk2">映画「ねことじいちゃん」撮影後、岩合家で暮らす「兄弟猫」って？</a></li><li class="rankingLi"><a href="/dot/2019022100078.html" class="TopLinkBlue mnavLnkRanking rankLnk3">猫と住むため「事故物件」に…　41歳女性の快適な選択とは？</a></li><li class="rankingLi"><a href="/dot/2018123100011.html" class="TopLinkBlue mnavLnkRanking rankLnk4">次は南海トラフではない？　「隠された地震」の怖さ　2019年に危ないのはのはどこか</a></li><li class="rankingLi"><a href="/wa/2019022300021.html" class="TopLinkBlue mnavLnkRanking rankLnk5">細野豪志、小泉進次郎、岸田文雄、片山さつき…二階幹事長の妻のしのぶ会に駆け付け...</a></li></ol><p class="sTxt1R"><a href="/ranking/index.html" class="TopLinkBlue">［総合ランキングをもっと見る］</a></p></div><div id="contentsRankTab2"><ol class="Rank4"><li class="rankingLi"><a href="/dot/2019021800055.html" class="TopLinkBlue mnavLnkRanking rankLnk1">「4歳の娘が可愛くない」とSOSを出す母親に、鴻上尚史がまず最初に聞いたこと</a></li><li class="rankingLi"><a href="/wa/2019021500058.html" class="TopLinkBlue mnavLnkRanking rankLnk2">稲垣吾郎「3人って不思議」　香取慎吾、草なぎ剛との関係語る</a></li><li class="rankingLi"><a href="/wa/2019021500057.html" class="TopLinkBlue mnavLnkRanking rankLnk3">生々しいラブシーンも　稲垣吾郎が主演映画で「普通のオジサン」に！？</a></li><li class="rankingLi"><a href="/wa/2019022000080.html" class="TopLinkBlue mnavLnkRanking rankLnk4">ワニワニパニックが“絶滅危惧種”に！　製造元倒産で部品供給も途絶え……</a></li><li class="rankingLi"><a href="/aera/2019021400050.html" class="TopLinkBlue mnavLnkRanking rankLnk5">Kis－My－Ft2、グループ活動は「結婚みたいなもの」　メンバーしか知らない彼らの...</a></li></ol><p class="sTxt1R"><a href="/ranking_tw/index.html" class="TopLinkBlue">［総合ランキングをもっと見る］</a></p></div>
+
+    <script type="text/javascript">
+    contentsTab.setup = {
+        tabs: document.getElementById('contentsTab').getElementsByTagName('li'),
+
+        pages: [
+    	    document.getElementById('contentsRankTab1'),
+    	    document.getElementById('contentsRankTab2')
+        ]
+    }
+
+    contentsTab.init();
+    </script>
+    </div>
+
+
+</div></aside>
+<aside>
+    <div class="atclTitleAreaSocialmedia">
+    <!-- アイコン -->
+    <svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;float:left;"><g><path fill="#FFFFFF" d="M24.5,21.5c1.1-1,1.8-2.4,1.8-3.9c0-3.3-3.4-6-7.5-6s-7.5,2.7-7.5,6s3.4,6,7.5,6c1.1,0,2.2-0.2,3.1-0.5
+    l3.9,1.6L24.5,21.5z"></path><path fill="none" stroke="#FFFFFF" stroke-miterlimit="10" d="M5.7,16.6c-1.3-1.2-2-2.7-2-4.4c0-3.8,3.8-6.8,8.6-6.8s8.6,3.1,8.6,6.8S17,19,12.2,19c-1.3,0-2.5-0.2-3.6-0.6l-4.4,1.8L5.7,16.6z"></path></g><title>ソーシャルメディアでAERA dot.をフォロー</title></svg>
+    <!-- アイコン -->ソーシャルメディアでAERA dot.をフォロー
+    </div>
+        <div class="atclSnsBtnFb"><!-- atclSnsBtnFb-->
+        <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fdot.asahi&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=21&amp;appId=177427582354682" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true" class="facebook-like-button"></iframe>
+        </div>
+        <div class="atclSnsBtnTw">
+        <a href="https://twitter.com/dot_asahi_pub" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false" data-dnt="true">Follow @dot_asahi_pub</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+        <div class="atclSnsBtnGp">
+        <div class="g-follow" data-annotation="bubble" data-height="20" data-href="https://plus.google.com/105677506135162461067" data-rel="publisher"></div>
+    </div><!-- /atclSnsBtnFb-->
+
+</aside>
+
+
+<div class="fb-comments" data-href="https://dot.asahi.com/wa/2019020800006.html" data-num-posts="10" data-width="620"></div>
+
+    <div class="atclTitleAreaRecommendarticle">
+        <!-- アイコン --><svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;"><g><circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="15" cy="9.4" r="2.5"></circle><circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="8.5" cy="20.6" r="2.5"></circle><circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="21.5" cy="20.6" r="2.5"></circle><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="16.1" y1="11.3" x2="20.3" y2="18.5"></line><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="9.7" y1="18.5" x2="13.8" y2="11.5"></line><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="19" y1="20.6" x2="10.7" y2="20.6"></line></g><title>あわせて読みたい</title></svg><!-- アイコン -->
+        あわせて読みたい
+    </div>
+    <script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+    <div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_3"></div>
+<!--/フェイスブック　コメント-->
+
+</div><!-- /.MarginLR37 -->
+</div><!-- /.content -->
+
+<div class="sidebar1"><aside> 
+
+
+        
+
+        
+
+        
+        <div id="2730_1996">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2730_1996");
+                } catch(err) {}
+            </script>
+        </div>
+
+
+<div class="mnavAreaGadget"><div class="mnavTitleAreaAccessRanking"><!-- アイコン --><svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;float:left;"><g><g><path fill="#FFFFFF" d="M6.7,9.2c0,0.6-0.5,1.1-1.1,1.1H5.4c-0.6,0-1.1-0.5-1.1-1.1V9c0-0.6,0.5-1.1,1.1-1.1h0.2c0.6,0,1.1,0.5,1.1,1.1V9.2z"></path><path fill="#FFFFFF" d="M16.2,9.2c0,0.6-0.5,1.1-1.1,1.1h-0.2c-0.6,0-1.1-0.5-1.1-1.1V9c0-0.6,0.5-1.1,1.1-1.1h0.2c0.6,0,1.1,0.5,1.1,1.1V9.2z"></path><path fill="#FFFFFF" d="M25.6,9.2c0,0.6-0.5,1.1-1.1,1.1h-0.2c-0.6,0-1.1-0.5-1.1-1.1V9c0-0.6,0.5-1.1,1.1-1.1h0.2c0.6,0,1.1,0.5,1.1,1.1V9.2z"></path></g><polygon fill="#FFFFFF" points="24.1,10.9 17.6,13.9 14.8,10.6 12,13.9 5.6,10.9 7.2,22.1 22.5,22.1"></polygon></g><rect fill="none" width="30" height="30"></rect><title>アクセスランキング</title></svg><!-- アイコン --><a href="/ranking/" class="mnavAreaLnkTitle">アクセスランキング</a></div><div id="tab-wrapper" class="mnavAreaRanktab"><!--#tab-wrapper--><ul id="tab"><li class="present" id="tab-a1"><a href="#RankTab1">総合</a></li><li><a href="#RankTab2">Twitter</a></li></ul><div id="RankTab1"><!--#RankTab1--><ol class="Rank4"><li class="rankingLi"><a href="/dot/2018122000101.html" class="TopLinkBlue mnavLnkRanking rankLnk1">＜第5回＞「飯島愛さんは振り切って生きた」鈴木紗理奈が明かす死の前日の...</a></li><li class="rankingLi"><a href="/wa/2019022000026.html" class="TopLinkBlue mnavLnkRanking rankLnk2">映画「ねことじいちゃん」撮影後、岩合家で暮らす「兄弟猫」って？</a></li><li class="rankingLi"><a href="/dot/2019022100078.html" class="TopLinkBlue mnavLnkRanking rankLnk3">猫と住むため「事故物件」に…　41歳女性の快適な選択とは？</a></li><li class="rankingLi"><a href="/dot/2018123100011.html" class="TopLinkBlue mnavLnkRanking rankLnk4">次は南海トラフではない？　「隠された地震」の怖さ　2019年に危ないの...</a></li><li class="rankingLi"><a href="/wa/2019022300021.html" class="TopLinkBlue mnavLnkRanking rankLnk5">細野豪志、小泉進次郎、岸田文雄、片山さつき…二階幹事長の妻のしのぶ会に...</a></li></ol><p class="sTxt1R"><a href="/ranking/" class="TopLinkBlue">［もっと見る］</a></p></div><!--/#RankTab1--><div id="RankTab2"><!--#RankTab2--><ol class="Rank4"><li class="rankingLi"><a href="/dot/2019021800055.html" class="TopLinkBlue mnavLnkRanking rankLnk1">「4歳の娘が可愛くない」とSOSを出す母親に、鴻上尚史がまず最初に聞い...</a></li><li class="rankingLi"><a href="/wa/2019021500058.html" class="TopLinkBlue mnavLnkRanking rankLnk2">稲垣吾郎「3人って不思議」　香取慎吾、草なぎ剛との関係語る</a></li><li class="rankingLi"><a href="/wa/2019021500057.html" class="TopLinkBlue mnavLnkRanking rankLnk3">生々しいラブシーンも　稲垣吾郎が主演映画で「普通のオジサン」に！？</a></li><li class="rankingLi"><a href="/wa/2019022000080.html" class="TopLinkBlue mnavLnkRanking rankLnk4">ワニワニパニックが“絶滅危惧種”に！　製造元倒産で部品供給も途絶え……</a></li><li class="rankingLi"><a href="/aera/2019021400050.html" class="TopLinkBlue mnavLnkRanking rankLnk5">Kis－My－Ft2、グループ活動は「結婚みたいなもの」　メンバーしか...</a></li></ol><p class="sTxt1R"><a href="/ranking_tw/" class="TopLinkBlue">［もっと見る］</a></p></div><!--/#RankTab2--></div></div>
+
+<script type="text/javascript">
+    tab.setup = {
+        tabs: document.getElementById('tab').getElementsByTagName('li'),
+	    pages: [
+		    document.getElementById('RankTab1'),
+    	    document.getElementById('RankTab2')
+        ]
+    }
+    tab.init();
+</script>
+ <script type="text/javascript">
+function dot_treand_shuffle(array) {
+  var m = array.length, t, i;
+  while (m) {
+    i = Math.floor(Math.random() * m--);
+    t = array[m];
+    array[m] = array[i];
+    array[i] = t;
+  }
+}
+
+$(document).ready(function () {
+	var trend_data = [
+
+
+{ "url": "/ad-native/2019/2019020600077.html" , 
+  "title" : "アートでもっとワクワクする東京に！<br>プログラムオフィサーの仕事とは？",
+  "image" : "/static/image/trend/trend_461.jpg"
+}
+,
+
+{ "url": "/ad-native/2019/2019013000016.html " , 
+  "title" : "華やかで元気になれるベートーヴェン<br>この春は円熟期の傑作「皇帝」を聴く",
+  "image" : "/static/image/trend/trend_459.jpg"
+}
+,
+
+{ "url": "/ad/19020402/" , 
+  "title" : "がんにかかっても自分らしく生きる！<br>仕事と治療を両立させる働き方とは？",
+  "image" : "/static/image/trend/trend_456.jpg"
+}
+,
+
+{ "url": "/ad/19020401/" , 
+  "title" : "人類初の偉業から50年「最初の男」を<br>月へと導いたオメガスピードマスター",
+  "image" : "/static/image/trend/trend_455.jpg"
+}
+,
+
+{ "url": "/ad/19012801/", 
+  "title" : "週末に寝だめすると翌週「時差ボケ」<br>状態に！体内リズムを守る秘訣とは？",
+  "image" : "/static/image/trend/trend_449.jpg"
+}
+,
+
+{ "url": "/ad/19012802/", 
+  "title" : "職場の真ん中にカフェ！<br>自由すぎる住宅ローン専門金融機関",
+  "image" : "/static/image/trend/trend_450.jpg"
+}
+,
+
+{ "url": "/ad/19012803/", 
+  "title" : "南海キャンディーズの山ちゃんに聞く<br>ストレスや嫉妬との上手な付き合い方",
+  "image" : "/static/image/trend/trend_451.jpg"
+}
+,
+
+{ "url": "/ad/18112601/04.html", 
+  "title" : "産学官の三位一体でロボット先進地<br>北九州市が日本の未来を切り開く",
+  "image" : "/static/image/trend/trend_462.jpg"
+}
+,
+
+{ "url": "/ad-native/2019/2019012900017.html" , 
+  "title" : "アメ車の魅力を再発見！カーマニア<br>必見のディープな番組が目白押し",
+  "image" : "/static/image/trend/trend_454.jpg"
+}
+,
+
+{ "url": "/ad/19020601/" , 
+  "title" : "収納王子コジマジックさんが語る！<br>仕事と家事が「効率化」する片づけ術",
+  "image" : "/static/image/trend/trend_458.jpg"
+}
+,
+
+{ "url": "/ad/19021201/" , 
+  "title" : "日本各地と世界を結ぶ「羽田空港」<br>2020年のその先を見据えた展望とは？",
+  "image" : "/static/image/trend/trend_460.jpg"
+}
+,
+
+]
+dot_treand_shuffle(trend_data);
+
+for(var i in trend_data){
+        $("#mnavAreaTrend").append("<p class='trendPLnks gAfterClear'><a href='"+ trend_data[i].url + "' class='mnavLnkThumb'><img src='"+ trend_data[i].image + "' alt='"+ trend_data[i].title + "& width='40' height='40'></a><a href='"+ trend_data[i].url + "' class='mnavLnkTxt'>"+ trend_data[i].title + "</a></p>");
+
+if (i>4) {break;}
+}
+});
+</script>
+
+<div class="mnavAreaGadget" id="mnavAreaTrend">
+<div class="mnavTitleAreaPrTrend">
+<!-- アイコン -->
+<svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;float:left;"><path fill="#FFFFFF" d="M17,15v-0.9c1-0.8,2.6-2.3,2.6-4.1c0-2.6-2.1-4.7-4.7-4.7s-4.5,2.1-4.5,4.7c0,1.8,1.6,3.3,2.6,4.1V15c-4,0.9-7.1,4-7.1,10h18C23.9,19,21,15.9,17,15z"></path><title>トレンド</title></svg><!-- アイコン -->トレンド<span class="iconPrTxt">PR</span></div>
+<!-- <p class="mnavAreaTrendCateg"><a class="mnavLnkTrendCateg" href="https://www.bizreach.jp/content/landing/pc/dot1508/?trcd=0DTAD0987350_pc_">転職</a></p> -->
+</div>
+ 
+<div class="IconLeft">
+<a href="/rss.html">
+<i class="icon_L"><img src="//cdn.images-dot.com/static/image/pc_sprite131120.png"  class="spt_rss_l" width="64" height="700" alt="RSS" /></i>
+</a>
+</div><!-- /.IconLeft -->
+<div class="IconLeft">
+<a href="https://twitter.com/dot_asahi_pub" target="_blank">
+<i class="icon_L"><img src="//cdn.images-dot.com/static/image/pc_sprite131120.png"  class="spt_sns_twitter" width="64" height="700" alt="twitter" /></i>
+</a>
+</div><!-- /.IconLeft -->
+<div class="IconLeft">
+<a href="http://www.facebook.com/dot.asahi" target="_blank">
+<i class="icon_L"><img src="//cdn.images-dot.com/static/image/pc_sprite131120.png"  class="spt_sns_facebook" width="64" height="700"  alt="facebook" /></i>
+</a>
+</div><!-- /.IconLeft -->
+<div class="IconLeft">
+<!-- Place this code where you want the badge to render. -->
+<a href="//plus.google.com/105677506135162461067?prsrc=3" rel="publisher" style="text-decoration:none;" target="_blank">
+<i class="icon_L"><img src="//cdn.images-dot.com/static/image/pc_sprite131120.png"  class="spt_sns_googlep" width="64" height="700"  alt="google plus" /></i>
+</a>
+</div><!-- /.IconLeft -->
+<div class="IconLeftNoMg"><!-- .IconLeftNoMg -->
+<a href="http://publications.asahi.com/" target="_blank">
+<img src="//cdn.images-dot.com/static/image/banner2_pub.gif" alt="publications.asahi" width="151" height="32" />
+</a>
+</div><!-- /.IconLeftNoMg -->
+<div class="WhiteSide2">
+<ul class="TxtBnrLink">
+<li>
+<a href="http://publications.asahi.com/aera/regist/" target="_blank" class="TopLinkBlue"><span class="sTxt1">アエラネット会員募集！</span></a>
+</li>
+</ul>
+</div>
+
+        
+<div class="mnavAreaGadget">
+
+    <div class="mnavTitleColumnist">
+        <!-- アイコン --><svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;float:left;"><g><path fill="#FFFFFF" d="M23.1,6.9c-1.3-1.3-2.8-2.1-3.2-1.6L7.8,17.3c-0.4,0.4,0.3,1.9,1.6,3.2c1.3,1.3,2.8,2.1,3.2,1.6l12.1-12.1C25.2,9.7,24.4,8.2,23.1,6.9z"></path><g><g><path fill="#FFFFFF" d="M11.3,23.2c-0.6,0-1.7-0.7-2.8-1.7c-1-1-1.7-2.1-1.7-2.8l-1.7,6.2L11.3,23.2z"></path></g></g></g><rect fill="none" width="30" height="30"></rect><title>人気のコラムニスト</title></svg><!-- アイコン --><a href="/columnist/" class="mnavAreaLnkTitle">人気のコラムニスト</a></div><!-- mnavTitleColumnist -->
+
+    <ul class="mnavColumnistList">
+                                    <li><a href="/columnist/profile/?author_id=idetaityou"><svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45px" height="20px" viewBox="0 0 90 40" enable-background="new 0 0 90 40" xml:space="preserve" class="mnavColumnistNewIcon"><title>NEW</title><path fill="#EE762B" d="M90,20c0,11-9,20-20,20H20C9,40,0,31,0,20l0,0C0,9,9,0,20,0h50C81,0,90,9,90,20L90,20z"></path><g><text transform="matrix(1 0 0 1 14.1577 28.3337)" fill="#FFFFFF" font-size="20">ＮＥＷ</text></g></svg><img src="//cdn.images-dot.com/static/image/columnist/img_idetaicho.jpg" class="mnavColumnistListImg" alt="井手隊長"><p class="mnavColumnistListTxt">井手隊長</p></a></li><li><a href="/columnist/profile/?author_id=yamadamihoko"><svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45px" height="20px" viewBox="0 0 90 40" enable-background="new 0 0 90 40" xml:space="preserve" class="mnavColumnistNewIcon"><title>NEW</title><path fill="#EE762B" d="M90,20c0,11-9,20-20,20H20C9,40,0,31,0,20l0,0C0,9,9,0,20,0h50C81,0,90,9,90,20L90,20z"></path><g><text transform="matrix(1 0 0 1 14.1577 28.3337)" fill="#FFFFFF" font-size="20">ＮＥＷ</text></g></svg><img src="//cdn.images-dot.com/static/image/columnist/img_yamada_m.jpg" class="mnavColumnistListImg" alt="山田美保子"><p class="mnavColumnistListTxt">山田美保子</p></a></li><li><a href="/columnist/profile/?author_id=maruyamashigeki"><svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45px" height="20px" viewBox="0 0 90 40" enable-background="new 0 0 90 40" xml:space="preserve" class="mnavColumnistNewIcon"><title>NEW</title><path fill="#EE762B" d="M90,20c0,11-9,20-20,20H20C9,40,0,31,0,20l0,0C0,9,9,0,20,0h50C81,0,90,9,90,20L90,20z"></path><g><text transform="matrix(1 0 0 1 14.1577 28.3337)" fill="#FFFFFF" font-size="20">ＮＥＷ</text></g></svg><img src="//cdn.images-dot.com/static/image/columnist/img_maruyama_s.jpg" class="mnavColumnistListImg" alt="丸山茂樹"><p class="mnavColumnistListTxt">丸山茂樹</p></a></li><li><a href="/columnist/profile/?author_id=gucci"><svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="45px" height="20px" viewBox="0 0 90 40" enable-background="new 0 0 90 40" xml:space="preserve" class="mnavColumnistNewIcon"><title>NEW</title><path fill="#EE762B" d="M90,20c0,11-9,20-20,20H20C9,40,0,31,0,20l0,0C0,9,9,0,20,0h50C81,0,90,9,90,20L90,20z"></path><g><text transform="matrix(1 0 0 1 14.1577 28.3337)" fill="#FFFFFF" font-size="20">ＮＥＷ</text></g></svg><img src="//cdn.images-dot.com/static/image/columnist/img_guccisan.jpg" class="mnavColumnistListImg" alt="ぐっちー"><p class="mnavColumnistListTxt">ぐっちー</p></a></li><li><a href="/columnist/profile/?author_id=kitaharaminori"><img src="//cdn.images-dot.com/static/image/columnist/img_kitahara_m.jpg" class="mnavColumnistListImg" alt="北原みのり"><p class="mnavColumnistListTxt">北原みのり</p></a></li><li><a href="/columnist/profile/?author_id=kojimakeiko"><img src="//cdn.images-dot.com/static/image/columnist/img_kojima_k.jpg" class="mnavColumnistListImg" alt="小島慶子"><p class="mnavColumnistListTxt">小島慶子</p></a></li>
+            </ul>
+    <p class="sTxt1R"><a href="/columnist/" class="TopLinkBlue">［もっと見る］</a></p>
+</div>
+
+
+
+
+<div class="mnavAreaGadget"><div class="mnavAreaHotarticle"><!-- アイコン --><svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;float:left;"><rect fill="none" width="30" height="30"></rect><g><path fill="#FFFFFF" d="M15,5.9c-0.2-0.2-0.6-0.4-0.9-0.4l-7.3,0c-0.7,0-1.3,0.6-1.3,1.3l0,7.2c0,0.4,0.1,0.7,0.4,0.9c0,0,0,0,0,0l9,9c0.6,0.6,1.5,0.6,2.1,0l6.9-6.9c0.6-0.6,0.6-1.6,0.1-2.2L15,5.9C15,5.9,15,5.9,15,5.9z M9.5,8.1c0,0.8-0.6,1.4-1.4,1.4c-0.8,0-1.4-0.6-1.4-1.4c0-0.8,0.6-1.4,1.4-1.4C8.9,6.8,9.5,7.4,9.5,8.1z"></path></g><title>今日のオススメ記事５！</title></svg><!-- アイコン -->今日のオススメ記事５！</div><!-- mnavAreaHotarticle --><p class="recommendPLnks gAfterClear"><a href="/aera/2019022300004.html" class="recommendLnkThumb"><img src="/S2000/upload/200_2019022300004_1.jpg?update=20190223110225" alt="注目の記事" class="reccomendImgY"></a><a href="/aera/2019022300004.html" class="recommendLnkTxt">2回目の米朝首脳会談　歴史的なタヌキ同士の化かし合い</a></p><p class="recommendPLnks gAfterClear"><a href="/dot/photoarticle/2019021800088.html" class="recommendLnkThumb"><img src="/S2000/upload/200_2019021800088_1.jpg?update=20190224102436" alt="注目の記事" class="reccomendImgY"></a><a href="/dot/photoarticle/2019021800088.html" class="recommendLnkTxt">いまとはまるで別世界の54年前「麻布十番」が、“都電王国”と謳われた理由　</a></p><p class="recommendPLnks gAfterClear"><a href="/dot/photoarticle/2019021900065.html" class="recommendLnkThumb"><img src="/S2000/upload/200_2019021900065_1.jpg?update=20190223141215" alt="注目の記事" class="reccomendImgT"></a><a href="/dot/photoarticle/2019021900065.html" class="recommendLnkTxt">グレイヘアこそおすすめのまとめ髪簡単テクニック　ポイントはかんざし</a></p><p class="recommendPLnks gAfterClear"><a href="/aera/2019022100015.html" class="recommendLnkThumb"><img src="/S2000/upload/200_2019022100015_1.jpg?update=20190221122953" alt="注目の記事" class="reccomendImgY"></a><a href="/aera/2019022100015.html" class="recommendLnkTxt">「猫しか見てない」岩合光昭が初映画で撮影した志の輔師匠と“神猫”のシーン</a></p><p class="recommendPLnks gAfterClear"><a href="/aera/2019022100014.html" class="recommendLnkThumb"><img src="/S2000/upload/200_2019022100014_1.jpg?update=20190221113701" alt="注目の記事" class="reccomendImgY"></a><a href="/aera/2019022100014.html" class="recommendLnkTxt">スマホ乗り換え「今秋まで待つべき」　プロが指摘する理由は？</a></p></div><!-- /.mnavAreaGadget -->
+<div class="MarginT20">
+
+        
+
+        
+
+        
+        <div id="2731_1996">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2731_1996");
+                } catch(err) {}
+            </script>
+        </div>
+
+</div><!-- /.MarginT20 -->
+
+
+
+
+
+<div class="mnavAreaGadget">
+
+    <div class="mnavTitleAreaPhotog">
+    <!-- アイコン -->
+    <svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;float:left;"><rect fill="none" width="30" height="30"></rect><g><path fill="#FFFFFF" d="M14.8,13.5c-1.8,0-3.4,1.5-3.4,3.4c0,1.8,1.5,3.4,3.4,3.4s3.4-1.5,3.4-3.4C18.1,15,16.6,13.5,14.8,13.5z"></path><path fill="#FFFFFF" d="M23.8,9.9h-4.1l-0.7-2c-0.4-0.9-0.7-1-1.3-1h-0.9h-3.9h-0.9c-0.6,0-0.9,0.2-1.3,1l-0.7,2H5.8
+    c-1.1,0-2,0.9-2,2V22c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V11.9C25.8,10.8,24.9,9.9,23.8,9.9z M14.8,21.9c-2.8,0-5-2.3-5-5
+    s2.3-5,5-5s5,2.3,5,5S17.6,21.9,14.8,21.9z M23.3,13.7c-0.6,0-1.2-0.5-1.2-1.2c0-0.6,0.5-1.2,1.2-1.2c0.6,0,1.2,0.5,1.2,1.2
+    C24.5,13.2,24,13.7,23.3,13.7z"></path></g><title>フォトギャラリー</title></svg><!-- アイコン --><a href="/photogallery/" class="mnavAreaLnkTitle">フォトギャラリー</a></div><!-- mnavTitleAreaPhotog -->
+
+    <ul class="mnavPhotogalleryGadget"><li><a href="/photogallery/archives/2019022100085/" class="mnavPhotogalleryGadgetThumbArea"><img src="/S2000/upload/200_2019022100085_1.jpg?update=20190221184414" class="mnavPhotogalleryGadgetThumbT"></a><a href="/photogallery/archives/2019022100085/">日本人らしさってなんだろう　さまざまな...</a></li><li><a href="/photogallery/archives/2019022200030/" class="mnavPhotogalleryGadgetThumbArea"><img src="/S2000/upload/200_2019022200030_1.jpg?update=20190222130011" class="mnavPhotogalleryGadgetThumbT"></a><a href="/photogallery/archives/2019022200030/">希少タイ原種猫大集合！　「猫の家」で守...</a></li><li><a href="/photogallery/archives/2019022000081/" class="mnavPhotogalleryGadgetThumbArea"><img src="/S2000/upload/200_2019022000081_2.jpg?update=20190220172119" class="mnavPhotogalleryGadgetThumbT"></a><a href="/photogallery/archives/2019022000081/">【写真特集】「ねことじいちゃん」公開記...</a></li></ul>
+</div>
+<div class="mnavAreaGadget">
+
+<div class="mnavTitleAreaKeyword">
+<!-- アイコン -->
+<svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;float:left;"><g><circle fill="none" stroke="#FFFFFF" stroke-width="1.9742" stroke-miterlimit="10" cx="15" cy="16.3" r="9"></circle><circle fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" cx="15" cy="16.3" r="4"></circle></g><g><line fill="none" stroke="#FFFFFF" stroke-miterlimit="10" x1="15.3" y1="16.3" x2="24.6" y2="7"></line><polygon fill="#FFFFFF" points="22.5,12.5 19.2,12.4 19.1,9 25.1,3 25.2,6.4 28.6,6.5 "></polygon></g><title>人気のキーワード</title></svg><!-- アイコン --><a href="/keyword.html" class="mnavAreaLnkTitle">人気のキーワード</a></div><!-- mnavTitleAreaPhotog -->
+
+<div class="mnavAreaKeywords">
+<a href="/keyword/羽生結弦/" class="TopLinkBlue" ><span class="llTxt1Mg2B">羽生結弦</span></a>
+　<a href="/keyword/安倍政権/" class="TopLinkBlue"><span class="llTxt1Mg2B" >安倍政権</span></a>
+　<a href="/keyword/東京五輪/" class="TopLinkBlue"><span class="llTxt1Mg2B" >東京五輪</span></a>
+　<a href="/keyword/大学入試/" class="TopLinkBlue"><span class="llTxt1Mg2B" >大学入試</span></a>
+　<a href="/keyword/健康/" class="TopLinkBlue"><span class="llTxt1Mg2B" >健康</span></a>
+　<a href="/keyword/出産と子育て/" class="TopLinkBlue"><span class="llTxt1Mg2B" >出産と子育て</span></a>
+　<a href="/keyword/ねこ/" class="TopLinkBlue"><span class="llTxt1Mg2B" >ねこ</span></a>
+　<a href="/keyword/ドラマ/" class="TopLinkBlue"><span class="llTxt1Mg2B" >ドラマ裏話</span></a>
+　<a href="/keyword/皇室/" class="TopLinkBlue" ><span class="nTxt1Lh1">皇室</span></a>
+　<a href="/keyword/転職/" class="TopLinkBlue" ><span class="nTxt1Lh1">転職</span></a>
+　<a href="/keyword/働き方/" class="TopLinkBlue" ><span class="nTxt1Lh1">働き方</span></a>
+　<a href="/keyword/就活/" class="TopLinkBlue" ><span class="nTxt1Lh1">就活</span></a>
+　<a href="/keyword/シニア/" class="TopLinkBlue" ><span class="nTxt1Lh1">シニア</span></a>
+　<a href="/keyword/セックス/" class="TopLinkBlue" ><span class="nTxt1Lh1">セックス</span></a>
+　<a href="/keyword/北朝鮮/" class="TopLinkBlue" ><span class="nTxt1Lh1">北朝鮮</span></a>
+　<a href="/keyword/沖縄問題/" class="TopLinkBlue" ><span class="nTxt1Lh1">沖縄問題</span></a>
+　<a href="/keyword/森友学園/" class="TopLinkBlue" ><span class="nTxt1Lh1">森友学園</span></a>
+　<a href="/keyword/加計学園/" class="TopLinkBlue" ><span class="nTxt1Lh1">加計学園</span></a>
+　<a href="/keyword/ドナルド・トランプ/" class="TopLinkBlue" ><span class="nTxt1Lh1">ドナルド・トランプ</span></a>
+　<a href="/keyword/終活/" class="TopLinkBlue" ><span class="nTxt1Lh1">終活</span></a>
+　<a href="/keyword/不倫/" class="TopLinkBlue" ><span class="nTxt1Lh1">不倫</span></a>
+　<a href="/keyword/貧困/" class="TopLinkBlue" ><span class="nTxt1Lh1">貧困</span></a>
+　<a href="/keyword/佳子さま/" class="TopLinkBlue" ><span class="nTxt1Lh1">佳子さま</span></a>
+　<a href="/keyword/雅子様/" class="TopLinkBlue" ><span class="nTxt1Lh1">雅子さま</span></a>
+　<a href="/keyword/イチロー/" class="TopLinkBlue" ><span class="nTxt1Lh1">イチロー</span></a>
+　<a href="/keyword/お悔やみ/" class="TopLinkBlue" ><span class="nTxt1Lh1">訃報</span></a>
+　<a href="/keyword/東大/" class="TopLinkBlue" ><span class="nTxt1Lh1">東大</span></a>
+　<a href="/keyword/動物/" class="TopLinkBlue" ><span class="nTxt1Lh1">動物</span></a>
+　<a href="/keyword/鉄道/" class="TopLinkBlue" ><span class="nTxt1Lh1">鉄道</span></a>
+　<a href="/keyword/グルメ/" class="TopLinkBlue" ><span class="nTxt1Lh1">グルメ</span></a>
+　<a href="/keyword/ダイエット/" class="TopLinkBlue" ><span class="nTxt1Lh1">ダイエット</span></a>
+　<a href="/keyword/結婚/" class="TopLinkBlue" ><span class="nTxt1Lh1">結婚</span></a>
+　<a href="/keyword/男と女/" class="TopLinkBlue" ><span class="nTxt1Lh1">男と女</span></a>
+　<a href="/keyword/食の安全/" class="TopLinkBlue" ><span class="nTxt1Lh1">食の安全</span></a>
+　<a href="/keyword/熱愛/" class="TopLinkBlue" ><span class="nTxt1Lh1">熱愛</span></a>
+　<a href="/keyword/離婚/" class="TopLinkBlue" ><span class="nTxt1Lh1">離婚</span></a>
+　<a href="/keyword/ママ友/" class="TopLinkBlue" ><span class="nTxt1Lh1">ママ友</span></a>
+　<a href="/keyword/遺産相続/" class="TopLinkBlue" ><span class="nTxt1Lh1">もめる相続</span></a>
+　<a href="/keyword/食/" class="TopLinkBlue" ><span class="nTxt1Lh1">食生活見直す</span></a>
+　<a href="/keyword/婚活/" class="TopLinkBlue" ><span class="nTxt1Lh1">婚活</span></a>
+　<a href="/keyword/家事/" class="TopLinkBlue" ><span class="nTxt1Lh1">家事問題</span></a>
+　<a href="/keyword/歴史/" class="TopLinkBlue" ><span class="nTxt1Lh1">歴史</span></a>
+　<a href="/keyword/旅行/" class="TopLinkBlue" ><span class="nTxt1Lh1">旅行</span></a>
+　<a href="/keyword/出世/" class="TopLinkBlue" ><span class="nTxt1Lh1">出世</span></a>
+　<a href="/keyword/オウム真理教/" class="TopLinkBlue" ><span class="nTxt1Lh1">オウム真理教</span></a>
+</div><!--/.mnavAreaKeywords-->
+</div><!--/.mnavAreaGadget-->
+
+
+<div class="mnavAreaGadget"><div class="mnavTitleAreaInfo"><!-- アイコン --><svg version="1.1" id="layer1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"width="30px" height="30px" viewBox="0 0 30 30" enable-background="new 0 0 30 30" xml:space="preserve" style="vertical-align: middle;float:left;"><g><path fill="#FFFFFF" d="M15,6c-5,0-9,4-9,9s4,9,9,9c5,0,9-4,9-9S20,6,15,6z M15,8.9c0.8,0,1.5,0.6,1.5,1.5c0,0.8-0.6,1.5-1.5,1.5c-0.8,0-1.5-0.6-1.5-1.5C13.5,9.5,14.2,8.9,15,8.9z M18.3,20.8h-6v-2h2v-5h-2v-1h4v1v5h2V20.8z"></path></g><title>お知らせ</title></svg><!-- アイコン --><a href="/info/" class="mnavAreaLnkTitle">お知らせ</a></div><!-- mnavTitleAreaInfo --><ul class="mnavUlInfo MarginT5"><li class="mnavLiInfo"><a href="https://dot.asahi.com/info/2019022200083.html" class="infoLnk">ストリーミングの女王「あいみょん」がAERAの表紙に登場！</a><p class="TitleBottomNoMargin"><img src="//cdn.images-dot.com/static/image/spacer.gif" alt="background image" width="1" height="5"></p></li><li class="mnavLiInfo"><a href="https://dot.asahi.com/info/2019022100056.html" class="infoLnk">「ベタじゃない桜写真」を撮ろう！　アサヒカメラ総力特集74ページ</a><p class="TitleBottomNoMargin"><img src="//cdn.images-dot.com/static/image/spacer.gif" alt="background image" width="1" height="5"></p></li><li class="mnavLiInfo"><a href="https://dot.asahi.com/info/2019021900007.html" class="infoLnk">佐藤健さんが「週刊朝日」の表紙とグラビアを飾ります！</a><p class="TitleBottomNoMargin"><img src="//cdn.images-dot.com/static/image/spacer.gif" alt="background image" width="1" height="5"></p></li><li class="mnavLiInfo"><a href="https://dot.asahi.com/info/2019021300054.html" class="infoLnk">「嵐」緊急収録　セクゾ（マリウス葉くん）も登場！　ジュニアエラ3月号、特集は「税金なぜ払うの？」</a><p class="TitleBottomNoMargin"><img src="//cdn.images-dot.com/static/image/spacer.gif" alt="background image" width="1" height="5"></p></li><li class="mnavLiInfo"><a href="https://dot.asahi.com/info/2019020200016.html" class="infoLnk">AERAが「働き方を考えるカンファレンス2019」のメディアスポンサーになりました</a><p class="TitleBottomNoMargin"><img src="//cdn.images-dot.com/static/image/spacer.gif" alt="background image" width="1" height="5"></p></li><li class="mnavLiInfo"><a href="https://dot.asahi.com/info/2019020100044.html" class="infoLnk">Hey！ Say！ JUMP 知念侑李が、日テレ連続ドラマ『頭に来てもアホとは戦うな！』の主演に決定！！</a><p class="TitleBottomNoMargin"><img src="//cdn.images-dot.com/static/image/spacer.gif" alt="background image" width="1" height="5"></p></li><li class="mnavLiInfo"><a href="https://dot.asahi.com/info/2018112900029.html" class="infoLnk">角田光代の傑作『坂の途中の家』柴咲コウ主演で連続ドラマ化決定！</a><p class="TitleBottomNoMargin"><img src="//cdn.images-dot.com/static/image/spacer.gif" alt="background image" width="1" height="5"></p></li></ul><p class="sTxt1R"><a href="/info/" class="TopLinkBlue">［一覧］</a></p></div>
+
+
+        
+    
+
+        
+        <div id="3709_1996">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("3709_1996");
+                } catch(err) {}
+            </script>
+        </div>
+
+
+</aside></div><!-- /.sidebar1 -->
+<br class="clearfloat" />
+</div><!-- /.container -->
+
+<div class="footer"><!-- .footer -->
+<div id="footer_bottom">
+
+
+    <div class="adAreaSuperBanner">
+        <aside>
+                        
+
+                        
+
+                        
+        <div id="2749_1995">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2749_1995");
+                } catch(err) {}
+            </script>
+        </div>
+        </aside>
+    </div>
+    
+<div class="gAreaFooterNav MarginT20">
+    <nav>
+        <div class="gAreaArchiveWide">
+                        <nav><div class="footerArvhiveAccordion"><input id="ac-1" name="accordion-1" type="checkbox"><label for="ac-1">月別アーカイブ</label><div class="ac-small"><ul class="footerArvhiveList"><li><a href="/dot/archive/?date=201902-page1" title="アエラドット 2019年02月全記事 一覧">2019年2月</a></li><li><a href="/dot/archive/?date=201901-page1" title="アエラドット 2019年01月全記事 一覧">2019年1月</a></li></ul><ul class="footerArvhiveList"><li><a href="/dot/archive/?date=201812-page1" title="アエラドット 2018年12月全記事 一覧">2018年12月</a></li><li><a href="/dot/archive/?date=201811-page1" title="アエラドット 2018年11月全記事 一覧">2018年11月</a></li><li><a href="/dot/archive/?date=201810-page1" title="アエラドット 2018年10月全記事 一覧">2018年10月</a></li><li><a href="/dot/archive/?date=201809-page1" title="アエラドット 2018年09月全記事 一覧">2018年9月</a></li><li><a href="/dot/archive/?date=201808-page1" title="アエラドット 2018年08月全記事 一覧">2018年8月</a></li><li><a href="/dot/archive/?date=201807-page1" title="アエラドット 2018年07月全記事 一覧">2018年7月</a></li><li><a href="/dot/archive/?date=201806-page1" title="アエラドット 2018年06月全記事 一覧">2018年6月</a></li><li><a href="/dot/archive/?date=201805-page1" title="アエラドット 2018年05月全記事 一覧">2018年5月</a></li><li><a href="/dot/archive/?date=201804-page1" title="アエラドット 2018年04月全記事 一覧">2018年4月</a></li><li><a href="/dot/archive/?date=201803-page1" title="アエラドット 2018年03月全記事 一覧">2018年3月</a></li><li><a href="/dot/archive/?date=201802-page1" title="アエラドット 2018年02月全記事 一覧">2018年2月</a></li><li><a href="/dot/archive/?date=201801-page1" title="アエラドット 2018年01月全記事 一覧">2018年1月</a></li></ul><ul class="footerArvhiveList"><li><a href="/dot/archive/?date=201712-page1" title="アエラドット 2017年12月全記事 一覧">2017年12月</a></li><li><a href="/dot/archive/?date=201711-page1" title="アエラドット 2017年11月全記事 一覧">2017年11月</a></li><li><a href="/dot/archive/?date=201710-page1" title="アエラドット 2017年10月全記事 一覧">2017年10月</a></li><li><a href="/dot/archive/?date=201709-page1" title="アエラドット 2017年09月全記事 一覧">2017年9月</a></li><li><a href="/dot/archive/?date=201708-page1" title="アエラドット 2017年08月全記事 一覧">2017年8月</a></li><li><a href="/dot/archive/?date=201707-page1" title="アエラドット 2017年07月全記事 一覧">2017年7月</a></li><li><a href="/dot/archive/?date=201706-page1" title="アエラドット 2017年06月全記事 一覧">2017年6月</a></li><li><a href="/dot/archive/?date=201705-page1" title="アエラドット 2017年05月全記事 一覧">2017年5月</a></li><li><a href="/dot/archive/?date=201704-page1" title="アエラドット 2017年04月全記事 一覧">2017年4月</a></li><li><a href="/dot/archive/?date=201703-page1" title="アエラドット 2017年03月全記事 一覧">2017年3月</a></li><li><a href="/dot/archive/?date=201702-page1" title="アエラドット 2017年02月全記事 一覧">2017年2月</a></li><li><a href="/dot/archive/?date=201701-page1" title="アエラドット 2017年01月全記事 一覧">2017年1月</a></li></ul><ul class="footerArvhiveList"><li><a href="/dot/archive/?date=201612-page1" title="アエラドット 2016年12月全記事 一覧">2016年12月</a></li><li><a href="/dot/archive/?date=201611-page1" title="アエラドット 2016年11月全記事 一覧">2016年11月</a></li><li><a href="/dot/archive/?date=201610-page1" title="アエラドット 2016年10月全記事 一覧">2016年10月</a></li><li><a href="/dot/archive/?date=201609-page1" title="アエラドット 2016年09月全記事 一覧">2016年9月</a></li><li><a href="/dot/archive/?date=201608-page1" title="アエラドット 2016年08月全記事 一覧">2016年8月</a></li><li><a href="/dot/archive/?date=201607-page1" title="アエラドット 2016年07月全記事 一覧">2016年7月</a></li><li><a href="/dot/archive/?date=201606-page1" title="アエラドット 2016年06月全記事 一覧">2016年6月</a></li><li><a href="/dot/archive/?date=201605-page1" title="アエラドット 2016年05月全記事 一覧">2016年5月</a></li><li><a href="/dot/archive/?date=201604-page1" title="アエラドット 2016年04月全記事 一覧">2016年4月</a></li><li><a href="/dot/archive/?date=201603-page1" title="アエラドット 2016年03月全記事 一覧">2016年3月</a></li><li><a href="/dot/archive/?date=201602-page1" title="アエラドット 2016年02月全記事 一覧">2016年2月</a></li><li><a href="/dot/archive/?date=201601-page1" title="アエラドット 2016年01月全記事 一覧">2016年1月</a></li></ul><ul class="footerArvhiveList"><li><a href="/dot/archive/?date=201512-page1" title="アエラドット 2015年12月全記事 一覧">2015年12月</a></li><li><a href="/dot/archive/?date=201511-page1" title="アエラドット 2015年11月全記事 一覧">2015年11月</a></li><li><a href="/dot/archive/?date=201510-page1" title="アエラドット 2015年10月全記事 一覧">2015年10月</a></li><li><a href="/dot/archive/?date=201509-page1" title="アエラドット 2015年09月全記事 一覧">2015年9月</a></li><li><a href="/dot/archive/?date=201508-page1" title="アエラドット 2015年08月全記事 一覧">2015年8月</a></li><li><a href="/dot/archive/?date=201507-page1" title="アエラドット 2015年07月全記事 一覧">2015年7月</a></li><li><a href="/dot/archive/?date=201506-page1" title="アエラドット 2015年06月全記事 一覧">2015年6月</a></li><li><a href="/dot/archive/?date=201505-page1" title="アエラドット 2015年05月全記事 一覧">2015年5月</a></li><li><a href="/dot/archive/?date=201504-page1" title="アエラドット 2015年04月全記事 一覧">2015年4月</a></li><li><a href="/dot/archive/?date=201503-page1" title="アエラドット 2015年03月全記事 一覧">2015年3月</a></li><li><a href="/dot/archive/?date=201502-page1" title="アエラドット 2015年02月全記事 一覧">2015年2月</a></li><li><a href="/dot/archive/?date=201501-page1" title="アエラドット 2015年01月全記事 一覧">2015年1月</a></li></ul><ul class="footerArvhiveList"><li><a href="/dot/archive/?date=201412-page1" title="アエラドット 2014年12月全記事 一覧">2014年12月</a></li><li><a href="/dot/archive/?date=201411-page1" title="アエラドット 2014年11月全記事 一覧">2014年11月</a></li><li><a href="/dot/archive/?date=201410-page1" title="アエラドット 2014年10月全記事 一覧">2014年10月</a></li><li><a href="/dot/archive/?date=201409-page1" title="アエラドット 2014年09月全記事 一覧">2014年9月</a></li><li><a href="/dot/archive/?date=201408-page1" title="アエラドット 2014年08月全記事 一覧">2014年8月</a></li><li><a href="/dot/archive/?date=201407-page1" title="アエラドット 2014年07月全記事 一覧">2014年7月</a></li><li><a href="/dot/archive/?date=201406-page1" title="アエラドット 2014年06月全記事 一覧">2014年6月</a></li><li><a href="/dot/archive/?date=201405-page1" title="アエラドット 2014年05月全記事 一覧">2014年5月</a></li><li><a href="/dot/archive/?date=201404-page1" title="アエラドット 2014年04月全記事 一覧">2014年4月</a></li><li><a href="/dot/archive/?date=201403-page1" title="アエラドット 2014年03月全記事 一覧">2014年3月</a></li><li><a href="/dot/archive/?date=201402-page1" title="アエラドット 2014年02月全記事 一覧">2014年2月</a></li><li><a href="/dot/archive/?date=201401-page1" title="アエラドット 2014年01月全記事 一覧">2014年1月</a></li></ul><ul class="footerArvhiveList"><li><a href="/dot/archive/?date=201312-page1" title="アエラドット 2013年12月全記事 一覧">2013年12月</a></li><li><a href="/dot/archive/?date=201311-page1" title="アエラドット 2013年11月全記事 一覧">2013年11月</a></li><li><a href="/dot/archive/?date=201310-page1" title="アエラドット 2013年10月全記事 一覧">2013年10月</a></li><li><a href="/dot/archive/?date=201309-page1" title="アエラドット 2013年09月全記事 一覧">2013年9月</a></li><li><a href="/dot/archive/?date=201308-page1" title="アエラドット 2013年08月全記事 一覧">2013年8月</a></li><li><a href="/dot/archive/?date=201307-page1" title="アエラドット 2013年07月全記事 一覧">2013年7月</a></li><li><a href="/dot/archive/?date=201306-page1" title="アエラドット 2013年06月全記事 一覧">2013年6月</a></li><li><a href="/dot/archive/?date=201305-page1" title="アエラドット 2013年05月全記事 一覧">2013年5月</a></li><li><a href="/dot/archive/?date=201304-page1" title="アエラドット 2013年04月全記事 一覧">2013年4月</a></li><li><a href="/dot/archive/?date=201303-page1" title="アエラドット 2013年03月全記事 一覧">2013年3月</a></li><li><a href="/dot/archive/?date=201302-page1" title="アエラドット 2013年02月全記事 一覧">2013年2月</a></li><li><a href="/dot/archive/?date=201301-page1" title="アエラドット 2013年01月全記事 一覧">2013年1月</a></li></ul><ul class="footerArvhiveList"><li><a href="/dot/archive/?date=201212-page1" title="アエラドット 2012年12月全記事 一覧">2012年12月</a></li><li><a href="/dot/archive/?date=201211-page1" title="アエラドット 2012年11月全記事 一覧">2012年11月</a></li><li><a href="/dot/archive/?date=201210-page1" title="アエラドット 2012年10月全記事 一覧">2012年10月</a></li><li><a href="/dot/archive/?date=201209-page1" title="アエラドット 2012年09月全記事 一覧">2012年9月</a></li><li><a href="/dot/archive/?date=201208-page1" title="アエラドット 2012年08月全記事 一覧">2012年8月</a></li><li><a href="/dot/archive/?date=201207-page1" title="アエラドット 2012年07月全記事 一覧">2012年7月</a></li></ul></div></div></nav>            
+            <div class="footerMediaLinksWrapper">
+
+                <div class="footerMediaLinks">
+                    <h2 class="footerMediaLinksTitle">朝日新聞出版コンテンツ</h2>
+                    <nav class="footerMediaLinksTxt">
+                        <a href="/wa/" class="BlackLink">週刊朝日</a> | 
+                        <a href="/aera/" class="BlackLink">AERA</a> | 
+                        <a href="/dot/" class="BlackLink">dot.オリジナル</a> |
+                        <a href="/a-stylemagazine/" class="BlackLink">AERA STYLE MAGAZINE</a>  
+                    </nav>
+                </div><!--/.footerMediaLinks-->
+
+                <div class="footerMediaLinks">
+                    <h2 class="footerMediaLinksTitle">掲載媒体</h2>
+                    <nav class="footerMediaLinksTxt">
+                        <a href="/afp/" class="BlackLink">AFP</a> | 
+                        <a href="/webdoku/" class="BlackLink">BOOKSTAND</a> | 
+                        <a href="/tenkijp/" class="BlackLink">tenki.jp</a> | 
+                        <a href="/1satsu/" class="BlackLink">一冊の本</a> | 
+                        <a href="/toyo/" class="BlackLink">東洋経済</a> <br>
+                        <a href="/dol/" class="BlackLink">ダイヤモンド</a> | 
+                        <a href="/billboardnews/" class="BlackLink">billboard</a>| 
+                        <a href="/prepare/" class="BlackLink">出産準備サイト</a> | 
+                        <a href="/travelvoice/" class="BlackLink">トラベルボイス</a> |
+                    </nav>
+                </div><!--./footerMediaLinks-->
+
+                <div class="footerMediaLinks">
+                    <img src="//cdn.images-dot.com/static/image/pc/footer/footer_abj.jpg" class="footerMediaLinksAbjImg">
+                    <p class="footerMediaLinksAbjTxt">ＡＢＪマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標（登録番号 第６０９１７１３号）です。<br>
+詳しくは［ABJマーク］または［電子出版制作・流通協議会］で検索してください</p>
+                </div><!--/.footerMediaLinks-->
+
+            </div><!--/.footerMediaLinksWrapper-->
+        </div><!--/.gAreaArchiveWide-->
+
+        <div class="gNavFooterNav">
+            <p class="sssTxt1">
+                <a href="https://publications.asahi.com/company/privacy/web_access.shtml" class="BlackLink">アクセス情報について</a> | <a href="https://publications.asahi.com/company/privacy/" class="BlackLink">個人情報</a> | <a href="http://publications.asahi.com/company/copyright/" class="BlackLink">著作権</a> | <a href="https://publications.asahi.com/company/" class="BlackLink">会社案内</a> | <a href="https://publications.asahi.com/" class="BlackLink">朝日新聞出版</a> | <a href="http://sonorama.asahi.com/" class="BlackLink">ソノラマプラス</a> | <a href="http://www.asahi.com/" class="BlackLink">朝日新聞デジタル</a> | <a href="https://publications.asahi.com/ad/dot.shtml" class="BlackLink">広告掲載について</a> | <a href="mailto:aeradot.info@asahi.com" class="BlackLink">お問い合わせ
+                </a><br/>
+                Copyright 2019 Asahi Shimbun Publications Inc. All rights reserved. No Reproduction or publication without written permission.
+            </p><!--/.sssTxt1-->
+
+                                                    <br/>
+                                    <a href="/wa/2019020800006.html?viewmode=pc">PC版表示</a> | <a href="/wa/2019020800006.html?viewmode=sm">スマホ版表示</a>
+                                    </div><!--/.gNavFooterNav-->
+    </nav>
+</div><!--/.gAreaFooterNav--></div><!-- /footer_bottom -->
+</div><!-- /.footer -->
+<!--広告計測タグ-->
+
+
+        
+
+        
+
+        
+        <div id="2748_1997">
+            <script type="text/javascript">
+                try {
+                    TagProvider.displayAd("2748_1997");
+                } catch(err) {}
+            </script>
+        </div>
+
+<!--/広告計測タグ-->
+</body>
+</html>

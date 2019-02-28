@@ -1,0 +1,1245 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#EF4849"/>
+<meta name="NaverBot" content="All"/>
+<meta name="NaverBot" content="index,follow"/>
+<meta name="Yeti" content="All"/>
+<meta name="Yeti" content="index,follow"/>
+
+<meta name="title" content="[NCíë³´] &quot;ë§ì§ë§ ë±êµ&quot; 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì" />
+<meta name="description" content=" ìì¸ê³ êµ ì¬íì ìì´ë ê°ì ë° ë°°ì°ê° ì¡¸ììì ì¹ë ë¤. 15ì¼ ì¤ì  ìì¸ êµ¬ë¡êµ¬ ìì¸ê³µì°ìì ê³ ë±íêµìì ì¡¸ììì´ ì´ë ¸ë¤. ì´ë  íì¥ìë ìì´ì¦ ì¤ì, TRCNG, ë¤ì´ì ìì´, ìí¤ë¯¸í¤ ìµì ì , íì´ë²ë¦¿ ì í¬, ëª¨ëª¨ëë ìì¸, ìì´íë¦´ ìë, ë² ë¦¬ë² ë¦¬ ì©ì¹, ë°°ì° ë°ê°ë ë± ì°¸ìí´ ì¡¸ìì¥ì ë°ìë¤." />
+<meta name="keywords" content="ì¡¸ìì,ìì¸ê³µì°ìì ê³ ë±íêµ,ì´ëí,ìì§,ìµì ì ,ìì´ëì¡¸ìì¬ì§" />
+<link rel="image_src" href="http://cphoto.asiae.co.kr/listimglink/1/2019021511161042858_1550196970.jpg" />
+
+<meta property="og:url" content="http://mnc.asiae.co.kr/view.htm?idxno=2019021510462774363">
+<meta property="og:type" content="article" />
+<meta property="og:title" content="[NCíë³´] &quot;ë§ì§ë§ ë±êµ&quot; 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì" />
+<meta property="og:description" content=" ìì¸ê³ êµ ì¬íì ìì´ë ê°ì ë° ë°°ì°ê° ì¡¸ììì ì¹ë ë¤. 15ì¼ ì¤ì  ìì¸ êµ¬ë¡êµ¬ ìì¸ê³µì°ìì ê³ ë±íêµìì ì¡¸ììì´ ì´ë ¸ë¤. ì´ë  íì¥ìë ìì´ì¦ ì¤ì, TRCNG, ë¤ì´ì ìì´, ìí¤ë¯¸í¤ ìµì ì , íì´ë²ë¦¿ ì í¬, ëª¨ëª¨ëë ìì¸, ìì´íë¦´ ìë, ë² ë¦¬ë² ë¦¬ ì©ì¹, ë°°ì° ë°ê°ë ë± ì°¸ìí´ ì¡¸ìì¥ì ë°ìë¤.">
+<meta property="og:image" content="http://cphoto.asiae.co.kr/listimglink/1/2019021511161042858_1550196970.jpg" />
+<meta property="og:site" content="http://mnc.asiae.co.kr/view.htm?idxno=2019021510462774363" />
+<meta property="og:site_name" content="ë´ì¤ì»¬ì²" />
+<meta property="og:locale" content="ko_KR" />
+
+<meta property="article:author" content="https://www.facebook.com/withNEWSCULTURE" />
+<meta property="article:publisher" content="https://www.facebook.com/withNEWSCULTURE" />
+<meta property="article:section" content="í¬í Â·NCTV" />
+<meta property="article:published_time" content="2019-02-15 10:46:32" />
+
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="http://cphoto.asiae.co.kr/listimglink/1/2019021511161042858_1550196970.jpg" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@NewsCulture">
+<meta name="twitter:creator" content="@NewsCulture">
+<meta name="twitter:title" content="[NCíë³´] &quot;ë§ì§ë§ ë±êµ&quot; 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+<meta name="twitter:description" content=" ìì¸ê³ êµ ì¬íì ìì´ë ê°ì ë° ë°°ì°ê° ì¡¸ììì ì¹ë ë¤. 15ì¼ ì¤ì  ìì¸ êµ¬ë¡êµ¬ ìì¸ê³µì°ìì ê³ ë±íêµìì ì¡¸ììì´ ì´ë ¸ë¤. ì´ë  íì¥ìë ìì´ì¦ ì¤ì, TRCNG, ë¤ì´ì ìì´, ìí¤ë¯¸í¤ ìµì ì , íì´ë²ë¦¿ ì í¬, ëª¨ëª¨ëë ìì¸, ìì´íë¦´ ìë, ë² ë¦¬ë² ë¦¬ ì©ì¹, ë°°ì° ë°ê°ë ë± ì°¸ìí´ ì¡¸ìì¥ì ë°ìë¤.">
+<meta name="twitter:image" content="http://cphoto.asiae.co.kr/listimglink/1/2019021511161042858_1550196970.jpg">
+<meta name="google-site-verification" content="D8D0jNS5uxU6xBMf0eG0tQpmbgUEV_X8yAYIHNsXuNk"/>
+<link rel="canonical" href="http://mnc.asiae.co.kr/view.htm?idxno=2019021510462774363"> 
+
+<meta property="article:published_time" content="2019-02-15T10:46:32Z" />
+<meta property="dable:author" content="ì´ì§ì">
+<meta property="dable:item_id" content="2019021510462774363">
+
+<link rel="shortcut icon" type="image/x-ico" href="http://cwstatic.asiae.co.kr/icns/fnc.ico"/>
+<link rel="stylesheet" type="text/css" href="http://code.asiae.co.kr/nc/css/common.css?20190130"/>
+<link rel="stylesheet" type="text/css" href="http://code.asiae.co.kr/nc/font/font.css?20190130"/>
+<link rel="stylesheet" type="text/css" href="http://code.asiae.co.kr/nc/css/news.css?20190130"/>
+<link rel="stylesheet" type="text/css" href="http://code.asiae.co.kr/nc/css/swiper.min.css?20190130"/>
+
+<script type="text/javascript" src="http://mnc.asiae.co.kr/js/jquery-1.11.1.min.js?20181222"></script>
+<script type="text/javascript" src="http://code.asiae.co.kr/nc/js/common.js?20181222"></script>
+<script type="text/javascript" src="http://code.asiae.co.kr/nc/js/swiper.min.js?20181222"></script>
+<script type="text/javascript" src="http://mnc.asiae.co.kr/js/clipboard.js?20181222"></script>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script><!-- ì¹´ì¹´ì¤í¡ -->
+
+<title>[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì - ë´ì¤ì»¬ì²</title>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-40981108-8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-40981108-8');
+</script>
+
+<!-- Dable ì¤í¬ë¦½í¸ ìì / ë¬¸ì http://dable.io -->
+<script>(function(d,a,b,l,e,_) {d[b]=d[b]||function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);})(window,document,'dable','script');dable('setService', 'mnewsculture.asiae.co.kr');dable('sendLog');</script>
+<!-- Dable ì¤í¬ë¦½í¸ ì¢ë£ / ë¬¸ì http://dable.io -->
+
+<!-- Dable íA_íì¤í¸5_EMPTY ìì ¯ ìì/ ë¬¸ì http://dable.io -->
+<div id="dablewidget_BoxPLLo8" data-widget_id="BoxPLLo8"> <script> (function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable')); dable('renderWidget', 'dablewidget_BoxPLLo8'); </script>
+</div>
+<!-- Dable íA_íì¤í¸5_EMPTY ìì ¯ ì¢ë£/ ë¬¸ì http://dable.io -->
+
+
+ 
+</head>
+<body>
+	<div class="u_skip"><a href="#container">ë³¸ë¬¸ ë°ë¡ê°ê¸°</a></div>
+	
+	<!-- ë§ì¤í¬ë¡ ëìì§ Div -->
+	<div id="laycom_mask">ë§ì¤í¬ë¡ ëìì§ Div</div>
+	<!--// ë§ì¤í¬ë¡ ëìì§ Div -->
+	<!-- header -->
+	
+ 
+	<header>
+		<div class="head_logo">
+			<a href="javascript:;" title="ì ì²´ë©ë´" class="btn_allmenu" onclick="layer_open('all_layer');return false;">
+				<span>ì ì²´ë©ë´</span>
+			</a>
+			<h1><a href="http://mnc.asiae.co.kr" title="ë´ì¤ì»¬ì²"><span>ë´ì¤ì»¬ì²</span></a></h1>
+							<button type="button" class="btn_sch"><span class="icon">search</span></button>
+					</div>
+		<nav>
+			<div role="navigation" class="nav_menu nav_area">
+				<ul class="swiper-wrapper nctv_gnb nav_ul">
+					<li class="swiper-slide"><a href="http://mnc.asiae.co.kr/" title="í"><span>í</span></a></li>
+					<li class="swiper-slide"><a href="http://mnc.asiae.co.kr/list.htm?sec=0100" title="ì¤íì´ì§"><span>ì¤íì´ì§</span></a></li>
+					<li class="swiper-slide"><a href="http://mnc.asiae.co.kr/list.htm?sec=0200" title="ë¬´ë¹"><span>ë¬´ë¹</span></a></li>
+					<li class="swiper-slide"><a href="http://mnc.asiae.co.kr/list.htm?sec=0300" title="ë®¤ì§"><span>ë®¤ì§</span></a></li>
+					<li class="swiper-slide"><a href="http://mnc.asiae.co.kr/list.htm?sec=0400" title="ë°©ì¡Â·ì°ì"><span>ë°©ì¡Â·ì°ì</span></a></li>
+					<li class="swiper-slide on"><a href="http://mnc.asiae.co.kr/list.htm?sec=0620" title="í¬í NCTV"><span>í¬í Â·NCTV</span></a></li>
+					<li class="swiper-slide"><a href="http://mnc.asiae.co.kr/list.htm?sec=0700" title="ì¤í¬ì¸ "><span>ì¤í¬ì¸ </span></a></li>
+					<li class="swiper-slide"><a href="http://mnc.asiae.co.kr/list.htm?sec=0500" title="ìíÂ·ê²½ì "><span>ìíÂ·ê²½ì </span></a></li>
+					<li class="swiper-slide"><a href="http://mnc.asiae.co.kr/list.htm?sec=0800" title="ì´ì"><span>ì´ì</span></a></li>
+				</ul>
+			</div>
+		</nav>
+	</header>
+	<hr class="hide">
+	
+	<script type="text/javascript">
+	var nav_swiper = new Swiper('.nav_area', {
+		slidesPerView: 'auto',
+		paginationClickable: true,
+		spaceBetween: 0,
+		freeMode: true,
+		pagination: false,
+		initialSlide: 5
+	});
+	</script>
+	<!--// header --><script>
+window.onload = function(){
+	$(".btn_snsshare").click(function(e){
+		toggleLayer($('.sns_layer'), 'on');
+	});
+	$(".btn_close").click(function(e){
+		toggleLayer($('.sns_layer'), 'off');
+	});
+};
+</script>
+	<!-- container -->
+	<div id="container" class="container">
+		<div class="content">
+			<!-- ì¤íì´ì§ -->
+			<div class="elem_stage">
+			<!-- ê´ê³ ìì­ ì¶ê° : 2018.12.14 -->
+			<div class="adtop_ins">
+				<div><script type="text/javascript" SRC="http://a1.asiae.co.kr/RealMedia/ads/adstream_jx.ads/m.asiae.co.kr/newsculture@Top"></script>
+				</div>
+			</div>
+			<!-- //ê´ê³ ìì­ ì¶ê° : 2018.12.14 -->
+				<!-- view_article -->
+				<div class="view_article">
+					<!-- va_head -->
+					<div class="va_head">
+						<h2 class="mainTitle">[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì</h2>
+						<div class="author">
+							<span class="day">ìë ¥ 2019.02.15 10:46</span>
+							<span class="day">ìì  2019.02.15 17:12</span>
+						</div>
+						<div class="hits_iframe"></div>
+						<!-- ì¡°íì -->
+						<div class="views_area"><p><iframe title="ì¡°íì1" name="ì¡°íì1" allowtransparency="true" scrolling="no" frameborder="0" width="130" height="18" src="http://183.111.172.21/count/get_count_new.php?idxno=2019021510462774363&type=10&code=10.06.01&outdate=20190215104632&ref_name=MNC&user_id="></iframe>
+	<iframe title="ì¡°íì2" name="ì¡°íì2" allowtransparency="true" scrolling="no" frameborder="0" width="0" height="0" src="http://183.111.172.22/count/get_count_new.php?idxno=2019021510462774363&type=10&code=10.06.01&outdate=20190215104632&ref_name=MNC&user_id="></iframe></p></div>						<!--// ì¡°íì -->
+						<div class="btn_box">
+							
+							<div class="btn_sns">
+								<a href="javascript:goSNS('facebook');" class="btn_facebook" title="Facebook">Facebook</a>
+								<a href="javascript:goSNS('twitter');" class="btn_twitter" title="Twitter">Twitter</a>
+								<a href="javascript:goSNS('naver');" class="btn_naver" title="Naver">Naver</a>
+								<a href="javascript:;" class="btn_snsshare"  title="SNSê³µì ">SNSê³µì </a>
+							</div>
+
+							<!-- snsê³µì  ë ì´ì´ íì -->
+							<div class="sns_layer">
+															<input type="hidden" name="sns_title" id="sns_title" value="[NCíë³´] 'ë§ì§ë§ ë±êµ' 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì"/>
+							<input type="hidden" name="sns_url" id="sns_url" value=""/>
+							<input type="hidden" name="sns_image" id="sns_image" value="http://cphoto.asiae.co.kr/listimglink/1/2019021511161042858_1550196970.jpg"/>
+
+								<div class="inner">
+									<a href="javascript:;" class="btn_close" ><span>ë«ê¸°</span></a>
+									<h2>ê³µì íê¸°</h2>
+
+									<div class="sns_list">
+										<ul>
+											<li class="facebook">
+												<a href="javascript:goSNS('facebook');" title="íì´ì¤ë¶">
+													<span class="ico">íì´ì¤ë¶ìì´ì½</span>
+													<strong><em>íì´ì¤ë¶</em></strong></a>
+											</li>
+											<li class="twitter">
+												<a href="javascript:goSNS('twitter');" title="í¸ìí°">
+													<span class="ico">í¸ìí°ìì´ì½</span>
+													<strong><em>í¸ìí°</em></strong>
+												</a>
+											</li>
+											<li class="naver">
+												<a href="javascript:goSNS('naver');" title="ë¤ì´ë²ë¸ë¡ê·¸">
+													<span class="ico">ë¤ì´ë²ìì´ì½</span>
+													<strong><em>ë¤ì´ë²</em></strong>
+												</a>
+											</li>
+											<li class="kakaostory">
+												<a href="javascript:goSNS('kakaostory');" title="ì¹´ì¹´ì¤ì¤í ë¦¬">
+													<span class="ico">ì¹´ì¹´ì¤ì¤í ë¦¬ìì´ì½</span>
+													<strong><em>ì¹´ì¹´ì¤<br />ì¤í ë¦¬</em></strong>
+												</a>
+											</li>
+											<li class="kakao">
+												<a href="javascript:goSNS('kakaotalk');;" title="ì¹´ì¹´ì¤í¡">
+													<span class="ico">ì¹´ì¹´ì¤í¡ìì´ì½</span>
+													<strong><em>ì¹´ì¹´ì¤í¡</em></strong>
+												</a>
+											</li>
+											<li class="cyworld">
+												<a href="javascript:goSNS('cyworld');" title="ì¸ì´ìë">
+													<span class="ico">ì¸ì´ìëìì´ì½</span>
+													<strong><em>ì¸ì´ìë</em></strong>
+												</a>
+											</li>
+											<li class="pinterest">
+												<a href="javascript:goSNS('pin');" title="íí°ë ì¤í¸">
+													<span class="ico">íí°ë ì¤í¸ìì´ì½</span>
+													<strong><em>íí°ë ì¤í¸</em></strong>
+												</a>
+											</li>
+											<li class="flipboard">
+												<a href="javascript:goSNS('flip');" title="íë¦½ë³´ë">
+													<span class="ico">íë¦½ë³´ëìì´ì½</span>
+													<strong><em>íë¦½ë³´ë</em></strong>
+												</a>
+											</li>
+										</ul>
+									</div>
+
+									<div class="url_copy">
+										<input type="text" id="urlcopyid" name="urlcopyid" value="" />
+										<a data-clipboard-text="" data-clipboard-action="copy" href="javascript:;" id="btnCopy">URLë³µì¬</a>
+									</div>
+								</div>
+
+								<script language="JavaScript">
+								$(function(){
+									var clipboard = new Clipboard('#btnCopy');
+									clipboard.on('success', function(e) {
+										alert('ì£¼ìê° ë³µì¬ëììµëë¤. ìíë ê³³ì ë¶ì¬ë£ê¸° íì¸ì.');
+									});
+									clipboard.on('error', function(e) {
+										console.log(e);
+									});
+								});
+ 
+								Kakao.init('003a73f65be09e80f1150220e5042488');
+								function goSNS(type)
+								{
+									var snsurlval = $("#sns_url").val();
+									var snstitleval = $("#sns_title").val();
+									var snsimageval = $("#sns_image").val();
+									var snsReUrl = encodeURIComponent(snsurlval);
+									var snsReImg = encodeURIComponent(snsimageval);
+
+									var SNSUrl = '';
+									var popupOptions = '';
+									if(type=='facebook'){
+										SNSUrl = 'http://www.facebook.com/sharer.php?u='+snsReUrl+'';
+									}
+									else if(type=='twitter'){
+										SNSUrl = 'http://twitter.com/intent/tweet?text='+snstitleval+'%0D%0A'+snsReUrl+'';
+									}
+									else if(type=='naver'){
+										SNSUrl = 'http://blog.naver.com/openapi/share?url='+snsReUrl+'&title='+snstitleval+'';
+										popupOptions = 'left=0, top=0, width=550, height=850, scrollbars=0, resizable=1';
+									}
+									else if(type=='kakaostory'){
+										SNSUrl = 'https://story.kakao.com/share?url='+snsReUrl+'';
+										popupOptions = 'width=600, height=750, resizable=no, scrollbars=yes, status=no';
+									}
+									else if(type=='kakaotalk'){
+ 
+										Kakao.Link.sendDefault({
+											objectType: 'feed',
+											content: {
+												title: snstitleval,
+												imageUrl: snsimageval,
+												link: {
+													mobileWebUrl: snsurlval
+												}
+											}
+										});
+									}
+									else if(type=='cyworld'){
+										SNSUrl = 'http://csp.cyworld.com/bi/bi_recommend_pop.php?url='+snsReUrl+'&thumbnail='+snsReImg+'';
+										popupOptions = 'width=400, height=364, scrollbars=no, resizable=no';
+									}
+									else if(type=='pin'){
+										SNSUrl = 'https://www.pinterest.co.kr/pin/create/button/?media='+snsReImg+'&url='+snsReUrl+'&description='+snstitleval+'';
+										popupOptions = 'status=yes,width=750,height=350';
+									}
+									else if(type=='flip'){
+										SNSUrl = 'https://share.flipboard.com/bookmarklet/popout?v=2&title='+snstitleval+'&url='+snsReUrl+'&utm_campaign=widgets&utm_medium=web&utm_source=flipit&utm_content=';
+										popupOptions = 'status=yes,width=650,height=750';
+									}
+
+									if(SNSUrl!=''){
+										window.open(SNSUrl, type, popupOptions);
+									}
+								}
+								</script>
+							</div>
+
+							<div class="btn_control">
+								<a href="javascript:;" title="ëê¸" class="btn_comment">ëê¸</a>
+								<a href="javascript:;" title="í¬ê²ë³´ê¸°" class="zoom_out">í¬ê²ë³´ê¸°</a>
+								<a href="javascript:;" title="ìê²ë³´ê¸°" class="zoom_in">ìê²ë³´ê¸°</a>
+							</div>
+							<script type="text/javascript">
+							$(function(){
+								$('.btn_comment').click(function(){
+									var LivereY = $('.comment_box').position().top;
+									$('html, body').animate({scrollTop: LivereY}, 300);
+								});
+
+								$('.zoom_out').click(function(){
+									var getSize = $('.va_cont').css('fontSize');
+									if(getSize=='15px')
+										$('.va_cont').css('fontSize','17px');
+									else if(getSize=='17px')
+										$('.va_cont').css('fontSize','19px');
+									else if(getSize=='19px')
+										alert('ìµëí¬ê¸°ìëë¤.');
+								});
+
+								$('.zoom_in').click(function(){
+									var getSize = $('.va_cont').css('fontSize');
+									if(getSize=='19px')
+										$('.va_cont').css('fontSize','17px');
+									else if(getSize=='17px')
+										$('.va_cont').css('fontSize','15px');
+									else if(getSize=='15px')
+										alert('ìµìí¬ê¸°ìëë¤.');
+								});
+							});
+							</script>
+						</div>
+					</div>
+					<!-- va_head// -->
+
+					<!-- va_cont -->
+					<div class="va_cont" itemprop="articleBody">
+						<!-- ê¸°ì¬ ë¶ì ëª© ìì­ -->
+												<!--// ê¸°ì¬ ë¶ì ëª© ìì­ -->
+
+						
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021511161042858_1550196970.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021511161042858_1550196970.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">ì´ëí. ì¬ì§=ë´ì¤1</span>
+
+						<script type="text/javascript" SRC="http://a1.asiae.co.kr/RealMedia/ads/adstream_jx.ads/m.asiae.co.kr/newsculture@x02"></script>
+<br><p>[ë´ì¤ì»¬ì² ì´ì§ì ê¸°ì] ìì¸ê³ êµ ì¬íì ìì´ë ê°ì ë° ë°°ì°ê° ì¡¸ììì ì¹ë ë¤.</p><br><p>15ì¼ ì¤ì  ìì¸ êµ¬ë¡êµ¬ ìì¸ê³µì°ìì ê³ ë±íêµìì ì¡¸ììì´ ì´ë ¸ë¤. ì´ë  íì¥ìë ìì´ì¦ ì¤ì, TRCNG, ë¤ì´ì ìì´, ìí¤ë¯¸í¤ ìµì ì , íì´ë²ë¦¿ ì í¬, ëª¨ëª¨ëë ìì¸, ìì´íë¦´ ìë, ë² ë¦¬ë² ë¦¬ ì©ì¹, ë°°ì° ë°ê°ë ë± ì°¸ìí´ ì¡¸ìì¥ì ë°ìë¤.</p><br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510480642693_1550195286.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510480642693_1550195286.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">ì¤í¸ë ì´ í¤ì¦ íì§. ì¬ì§=ë´ì¤1</span>
+
+						
+<br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510380642638_1550194687.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510380642638_1550194687.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">TRCNG íì, íë¯¼, ì§í.(ì¼ìª½ë¶í°) ì¬ì§=ë´ì¤1</span>
+
+						
+<br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510381742642_1550194697.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510381742642_1550194697.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">ë¤ì´ì ìì´. ì¬ì§=ë´ì¤1</span>
+
+						
+<br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510382742645_1550194708.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510382742645_1550194708.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">ëª¨ëª¨ëë ìì¸. ì¬ì§=ë´ì¤1</span>
+
+						
+<br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510385242654_1550194732.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510385242654_1550194732.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">ë°°ì° ë°ê°ë. ì¬ì§=ë´ì¤1</span>
+
+						
+<br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510391242658_1550194753.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510391242658_1550194753.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">ë² ë¦¬ë² ë¦¬ ì©ì¹. ì¬ì§=ë´ì¤1</span>
+
+						
+<br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510392142661_1550194762.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510392142661_1550194762.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">ìì´ì¦ ì¤ì. ì¬ì§=ë´ì¤1</span>
+
+						
+<br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510393042662_1550194771.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510393042662_1550194771.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">ìì´íë¦´ ìë. ì¬ì§=ë´ì¤1</span>
+
+						
+<br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510401542666_1550194815.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510401542666_1550194815.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">ìì§ ë¦¬ì ì¡¸ì ì¬ì§ ê³µê°. ì¬ì§=ë´ì¤1</span>
+
+						
+<br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510402642667_1550194826.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510402642667_1550194826.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">ìí¤ë¯¸í¤ ìµì ì . ì¬ì§=ë´ì¤1</span>
+
+						
+<br>
+						<div class="thumb_img">
+							<img src="http://cphoto.asiae.co.kr/listimglink/1/2019021510403542668_1550194835.jpg" alt="[NCíë³´] "ë§ì§ë§ ë±êµ" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì">
+							<a href="http://mnc.asiae.co.kr/img_view.htm?img=http://cphoto.asiae.co.kr/listimglink/1/2019021510403542668_1550194835.jpg" class="img_figure"><span>ì</span></a>
+						</div>
+
+						<span class="thumb_caption">íì´ë²ë¦¿ ì í¬. ì¬ì§=ë´ì¤1</span>
+
+						
+ <br><br>ì´ì§ì ê¸°ì picfeel@asiae.co.kr<br>ï¼ì ìê¶ìâë´ì¤ì»¬ì² ë¬´ë¨ì ì¬ ë° ì¬ë°°í¬ ê¸ì§ï¼<br><br>					</div>
+					<!-- va_cont//-->
+				</div>
+				<!-- view_article -->
+
+				<!-- ëì¤íë ì´ ê´ê³  ìì­ - ì¸ë¶2  -->
+				<div class="ad_area">
+					<SCRIPT type="text/javascript" SRC="http://a1.asiae.co.kr/RealMedia/ads/adstream_jx.ads/m.asiae.co.kr/newsculture@Bottom"></script>
+				</div>
+				<!--// ëì¤íë ì´ ê´ê³  ìì­ - ì¸ë¶2  -->
+
+				<!-- ê´ë ¨ê¸°ì¬, hot Issue News -->
+				<div class="related_wrap">
+					<!-- hot Issue News -->
+					
+					<div class="related_issue">
+						<h2>hot Issue News</h2>
+						<ul>
+							
+							<li><a href="http://nc.asiae.co.kr/view.htm?idxno=2019021822195633580" title="âì¸ë°ëâ ì´ìì , ìë²½í ì½ë¼ë³ ë°ëë¼ì¸ ìëíë ì¬ì§ íì ">âì¸ë°ëâ ì´ìì , ìë²½í ì½ë¼ë³ ë°ëë¼ì¸ ìëíë ì¬ì§ íì </a></li>
+
+							<li><a href="http://nc.asiae.co.kr/view.htm?idxno=2019021816420424905" title="ì ëª í¨ì ëìì´ë ê¹ìì¸, ëì± ì±ì¶í íìë¡ ë¶êµ¬ì ê¸°ì">ì ëª í¨ì ëìì´ë ê¹ìì¸, ëì± ì±ì¶í íìë¡ ë¶êµ¬ì ê¸°ì</a></li>
+
+							<li><a href="http://nc.asiae.co.kr/view.htm?idxno=2019021622345039793" title="ìì¤ì¹´ í¤ë¼ë¼, íëíëí ë¹í¤ë ìì ì±ë¡ âì¤ë§ì¼â">ìì¤ì¹´ í¤ë¼ë¼, íëíëí ë¹í¤ë ìì ì±ë¡ âì¤ë§ì¼â</a></li>
+
+							<li><a href="http://nc.asiae.co.kr/view.htm?idxno=2019021923061035031" title="ííí¬â¥ì ì´ì´ ë¶ë¶, â#ëª°ìì£¼ê¸° ëì§????â ë¬ë¬í ì¼ì íì ">ííí¬â¥ì ì´ì´ ë¶ë¶, â#ëª°ìì£¼ê¸° ëì§????â ë¬ë¬í ì¼ì íì </a></li>
+
+						</ul>
+					</div>
+					<!-- ê´ë ¨ê¸°ì¬ -->
+					
+					<div class="related_news">
+						<h2>í¬í Â·NCTV ìµì ë´ì¤</h2>
+						<ul>
+							
+							<li><a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022411254147053" title="[NCí¬í ] ì°ê·¹ 'ìë, ì²êµ­ì ê°ë¤' ì´ì¶©í¸, ë¸ëç¾ ë°ì°"> ì°ê·¹ 'ìë, ì²êµ­ì ê°ë¤' ì´ì¶©í¸, ë¸ëç¾ ë°ì°</a></li>
+
+							<li><a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022411215629491" title="[NCí¬í ] ì°ê·¹ 'ìë, ì²êµ­ì ê°ë¤' í¼ì¤, ìê·¸ëì² í¬ì¦"> ì°ê·¹ 'ìë, ì²êµ­ì ê°ë¤' í¼ì¤, ìê·¸ëì² í¬ì¦</a></li>
+
+							<li><a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022411194723594" title="[NCí¬í ] ì°ê·¹ 'ìë, ì²êµ­ì ê°ë¤' &quot;ì¶ì ë³´ì´ì§ ìê² ì£ ?&quot;"> ì°ê·¹ 'ìë, ì²êµ­ì ê°ë¤' "ì¶ì ë³´ì´ì§ ìê² ì£ ?"</a></li>
+
+							<li><a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022411174414411" title="[NCí¬í ] ì°ê·¹ 'ìë, ì²êµ­ì ê°ë¤' ê·¹ë¨ 'ìë' ìê¸°í¬í©"> ì°ê·¹ 'ìë, ì²êµ­ì ê°ë¤' ê·¹ë¨ 'ìë' ìê¸°í¬í©</a></li>
+
+						</ul>
+					</div>
+				</div>
+				<!--// ê´ë ¨ê¸°ì¬, hot Issue News -->
+
+				<!-- Dable EMPTY_EMPTY_EMPTY_full-02M ìì ¯ ìì/ ë¬¸ì http://dable.io -->
+				<div id="dablewidget_goPGn5XQ" data-widget_id="goPGn5XQ"> <script> (function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable')); dable('renderWidget', 'dablewidget_goPGn5XQ'); </script> </div>
+				<!-- Dable EMPTY_EMPTY_EMPTY_full-02M ìì ¯ ì¢ë£/ ë¬¸ì http://dable.io -->
+
+				<!-- ë´ë¶ íë³´ ë°°ë ìì­(ë©ì¸ê³¼ ê³µíµ) -->
+					<div class="ad_area02">
+		<a href="http://mnc.asiae.co.kr/list.htm?sec=0800" target="" style="background-color:#F35842;"><img src="http://cwcontent.asiae.co.kr/amgimagelink/98/2019010914513531392A_1.jpg" border="0"></a>
+	</div>
+
+				<!-- //ë´ë¶ íë³´ ë°°ë ìì­(ë©ì¸ê³¼ ê³µíµ)-->
+ 
+				<!-- ë¹ì ì´ ì¢ìí  ë§í ê¸°ì¬ -->
+				<div class="ad_recommend">
+					<!-- Dable íA_2Bigs6_EMPTY_mo ìì ¯ ìì/ ë¬¸ì http://dable.io -->
+					<div id="dablewidget_V7KGz07a" data-widget_id="V7KGz07a">
+						<script> (function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable')); dable('renderWidget', 'dablewidget_V7KGz07a'); </script>
+					</div>
+					<!-- Dable íA_2Bigs6_EMPTY_mo ìì ¯ ì¢ë£/ ë¬¸ì http://dable.io -->
+				</div>
+				<!--//  -->
+
+				<!-- ëì¤íë ì´ ê´ê³  ìì­ - ì¸ë¶3 -->
+				<div class="ad_div1">
+					<!-- Dable íA_íì¤í¸5_EMPTY ìì ¯ ìì/ ë¬¸ì http://dable.io -->
+					<div id="dablewidget_2XLGmRlO" data-widget_id="2XLGmRlO">
+						<script> (function(d,a){d[a]=d[a]||function(){(d[a].q=d[a].q||[]).push(arguments)};}(window,'dable')); dable('renderWidget', 'dablewidget_2XLGmRlO'); </script>
+					</div>
+					<!-- Dable íA_íì¤í¸5_EMPTY ìì ¯ ì¢ë£/ ë¬¸ì http://dable.io -->
+				</div>
+				<!--// ëì¤íë ì´ ê´ê³  ìì­ - ì¸ë¶3 -->
+				<!-- í¬í  ëª¨ë -->
+				 
+<!-- Photo -->
+<div class="photo_areapage01 photo_module">
+	<div class="inner_b">
+		<h2 class="tit_sub2"><a href="#" title="">ëì¹  ì ìë í ì»·!</a></h2>
+
+		<!-- slider view -->
+		<div class="slider_viewbox">
+			<div class="slider_view">
+				<div class="slid_boxsty slider_inner">
+					<!-- item 01 -->
+					<div class="list_item">
+						<ul>
+														<li>
+									<a href="http://nc.asiae.co.kr/view.htm?idxno=2019021923150647514" title="âìë¥ì¬íâ ì¬ë°°ì°, ìì°í ë·í">
+										<figure>
+											<span class="thumb">
+												<img src="http://cwcontent.asiae.co.kr/asiaresize/272/2019021923144749918_1550585687.jpg" alt="âìë¥ì¬íâ ì¬ë°°ì°, ìì°í ë·í">
+											</span>
+											<figcaption>
+												<strong><span>âìë¥ì¬íâ ì¬ë°°ì°, ìì°í ë·í</span></strong>
+											</figcaption>
+										</figure>
+									</a>
+								</li>								<li>
+									<a href="http://nc.asiae.co.kr/view.htm?idxno=2019021900014470587" title="ìì¤ì¹´ í¤ë¼ë¼, ìì°í ìì¤ë£¨ ëì ë¦¬ë£© íì ">
+										<figure>
+											<span class="thumb">
+												<img src="http://cwcontent.asiae.co.kr/asiaresize/272/2019021900013147505_1550502091.jpg" alt="ìì¤ì¹´ í¤ë¼ë¼, ìì°í ìì¤ë£¨ ëì ë¦¬ë£© íì ">
+											</span>
+											<figcaption>
+												<strong><span>ìì¤ì¹´ í¤ë¼ë¼, ìì°í ìì¤ë£¨ ëì ë¦¬ë£© íì </span></strong>
+											</figcaption>
+										</figure>
+									</a>
+								</li>								<li>
+									<a href="http://nc.asiae.co.kr/view.htm?idxno=2019021914571096401" title="ë¹í¤ë ì¬ì§ í ì¥ì¼ë¡ âìì  ì¬í¬â">
+										<figure>
+											<span class="thumb">
+												<img src="http://cwcontent.asiae.co.kr/asiaresize/272/2019022116005063220A_1.jpg" alt="ë¹í¤ë ì¬ì§ í ì¥ì¼ë¡ âìì  ì¬í¬â">
+											</span>
+											<figcaption>
+												<strong><span>ë¹í¤ë ì¬ì§ í ì¥ì¼ë¡ âìì  ì¬í¬â</span></strong>
+											</figcaption>
+										</figure>
+									</a>
+								</li>								<li>
+									<a href="http://nc.asiae.co.kr/view.htm?idxno=2019021123055439393" title="ì ì, ê¸ëë¨¸ë¤ì´ ëª¸ë§¤ íì ">
+										<figure>
+											<span class="thumb">
+												<img src="http://cwcontent.asiae.co.kr/asiaresize/272/2019021913170184916A_1.jpg" alt="ì ì, ê¸ëë¨¸ë¤ì´ ëª¸ë§¤ íì ">
+											</span>
+											<figcaption>
+												<strong><span>ì ì, ê¸ëë¨¸ë¤ì´ ëª¸ë§¤ íì </span></strong>
+											</figcaption>
+										</figure>
+									</a>
+								</li>						</ul>
+					</div>
+				</div>								
+			</div>
+		</div>
+	</div>
+</div> 
+<!--// Photo -->
+
+				<!--// í¬í  ëª¨ë -->
+
+
+				<!-- Dable EMPTY_EMPTY_320x100 ìì ¯ ìì/ ë¬¸ì http://dable.io --> <div id="dablewidget_jobrVdoW" data-widget_id="jobrVdoW"> <script> (function(d,a,b,l,e,_) { if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l); e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js'; _=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_); })(window,document,'dable','script'); dable('setService', 'mnewsculture.asiae.co.kr'); dable('renderWidget', 'dablewidget_jobrVdoW', {ignore_items: true}); </script> </div> <!-- Dable EMPTY_EMPTY_320x100 ìì ¯ ì¢ë£/ ë¬¸ì http://dable.io -->
+
+				<!-- Dable ì_íì¤í¸2NA_EMPTY_PC ìì ¯ ìì/ ë¬¸ì http://dable.io --> <div id="dablewidget_37JGbxlN" data-widget_id="37JGbxlN"> <script> (function(d,a,b,l,e,_) { if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l); e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js'; _=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_); })(window,document,'dable','script'); dable('setService', 'mnewsculture.asiae.co.kr'); dable('renderWidget', 'dablewidget_37JGbxlN', {ignore_items: true}); </script> </div> <!-- Dable ì_íì¤í¸2NA_EMPTY_PC ìì ¯ ì¢ë£/ ë¬¸ì http://dable.io -->
+
+
+				<!-- ë§ì´ ë³¸ ê¸°ì¬ -->
+									<div class="daily_ranking">
+						<h2>ë§ì´ ë³¸ ë´ì¤</h2>
+
+						<div class="rank_tab">
+							<ul id="tab">
+								<li><a href="javascript:;" title="ì¢í©">ì¢í©</a></li>
+								<li><a href="javascript:;" title="í¬í ">í¬í </a></li>
+								<li class="on"><a href="javascript:;" title="ìì">ìì</a></li>
+							</ul>
+						</div>
+
+						<div id="tab_cont" class="tab_cont">
+							<!-- ì¢í© -->
+							<div class="box_inner">
+								<div class="thumbnail_box02">
+									<ul>
+															<li>
+						<div class="i_b">
+							<em class="txt_num">1</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022314572961802" class="thumb" title="âì°ì ì ë§â ê¹ì íâ¥ê¹ì§ì ì»¤í, âë´ ìì ë ìëë° ì§ê¸!â ìì´í¨ í­ë°">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022314570757195_1550901427.jpg" alt="âì°ì ì ë§â ê¹ì íâ¥ê¹ì§ì ì»¤í, âë´ ìì ë ìëë° ì§ê¸!â ìì´í¨ í­ë°">
+								
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022314572961802" class="text_wrap" title="âì°ì ì ë§â ê¹ì íâ¥ê¹ì§ì ì»¤í, âë´ ìì ë ìëë° ì§ê¸!â ìì´í¨ í­ë°">
+								<strong class="headline">
+								âì°ì ì ë§â ê¹ì íâ¥ê¹ì§ì ì»¤í, âë´ ìì ë ìëë° ì§ê¸!â ìì´í¨ 
+								</strong>
+							</a>
+						</div>
+					</li>					<li>
+						<div class="i_b">
+							<em class="txt_num">2</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022219534243251" class="thumb" title="âì°ì ì ë§â ì´íëª¨â¥ììì° ì»¤í, âë´ ì·ì´ ìëì¼â ììì° í¥í ë°°ë ¤ íì ">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022219531756802_1550832796.jpg" alt="âì°ì ì ë§â ì´íëª¨â¥ììì° ì»¤í, âë´ ì·ì´ ìëì¼â ììì° í¥í ë°°ë ¤ íì ">
+								
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022219534243251" class="text_wrap" title="âì°ì ì ë§â ì´íëª¨â¥ììì° ì»¤í, âë´ ì·ì´ ìëì¼â ììì° í¥í ë°°ë ¤ íì ">
+								<strong class="headline">
+								âì°ì ì ë§â ì´íëª¨â¥ììì° ì»¤í, âë´ ì·ì´ ìëì¼â ììì° í¥í ë°°ë ¤
+								</strong>
+							</a>
+						</div>
+					</li>					<li>
+						<div class="i_b">
+							<em class="txt_num">3</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022315071170354" class="thumb" title="âì°ì ì ë§â ì´íëª¨â¥ììì° ì»¤í, âë°© íë ìì½íëë°....?â ì´íëª¨ ë¹í©">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022315065057199_1550902010.jpg" alt="âì°ì ì ë§â ì´íëª¨â¥ììì° ì»¤í, âë°© íë ìì½íëë°....?â ì´íëª¨ ë¹í©">
+								
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022315071170354" class="text_wrap" title="âì°ì ì ë§â ì´íëª¨â¥ììì° ì»¤í, âë°© íë ìì½íëë°....?â ì´íëª¨ ë¹í©">
+								<strong class="headline">
+								âì°ì ì ë§â ì´íëª¨â¥ììì° ì»¤í, âë°© íë ìì½íëë°....?â ì´íëª¨ 
+								</strong>
+							</a>
+						</div>
+					</li>					<li>
+						<div class="i_b">
+							<em class="txt_num">4</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022219473334082" class="thumb" title="âì°ì ì ë§â ì ìì£¼â¥ê¹ì±ì ì»¤í, âë§ìë©´ì íë³µí ìì´ ëì¼ë©´ ì¢ê² ì´ìâ">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022219471256796_1550832432.jpg" alt="âì°ì ì ë§â ì ìì£¼â¥ê¹ì±ì ì»¤í, âë§ìë©´ì íë³µí ìì´ ëì¼ë©´ ì¢ê² ì´ìâ">
+								
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022219473334082" class="text_wrap" title="âì°ì ì ë§â ì ìì£¼â¥ê¹ì±ì ì»¤í, âë§ìë©´ì íë³µí ìì´ ëì¼ë©´ ì¢ê² ì´ìâ">
+								<strong class="headline">
+								âì°ì ì ë§â ì ìì£¼â¥ê¹ì±ì ì»¤í, âë§ìë©´ì íë³µí ìì´ ëì¼ë©´ ì¢ê² 
+								</strong>
+							</a>
+						</div>
+					</li>									</ul>
+								</div>
+							</div>
+
+							<!-- í¬í  -->
+							<div class="box_inner">
+								<div class="thumbnail_box02">
+									<ul>
+															<li>
+						<div class="i_b">
+							<em class="txt_num">1</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022215450969493" class="thumb" title="[NCí¬í ] ì°ê·¹ 'ì²´í, ì¬ìë¥¼ ì½ë¤' ê³ ëªí, ë¹ ì ¸ë³´ì¸ì">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022215374156321_1550817461.jpg" alt="[NCí¬í ] ì°ê·¹ 'ì²´í, ì¬ìë¥¼ ì½ë¤' ê³ ëªí, ë¹ ì ¸ë³´ì¸ì">
+								<em class="btn_icon btn_photo">ì¬ì§ìì´ì½</em>
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022215450969493" class="text_wrap" title="[NCí¬í ] ì°ê·¹ 'ì²´í, ì¬ìë¥¼ ì½ë¤' ê³ ëªí, ë¹ ì ¸ë³´ì¸ì">
+								<strong class="headline">
+								 ì°ê·¹ 'ì²´í, ì¬ìë¥¼ ì½ë¤' ê³ ëªí, ë¹ ì ¸ë³´ì¸ì
+								</strong>
+							</a>
+						</div>
+					</li>					<li>
+						<div class="i_b">
+							<em class="txt_num">2</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022208554839336" class="thumb" title="ìì§(ITZY), 'ë®¤ì§ë±í¬' ì¶ê·¼ê¸¸ìë ë²ì ë¶ê° í¬ì¤ ë°ì°(NCíë³´)">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022208525755112_1550793177.jpg" alt="ìì§(ITZY), 'ë®¤ì§ë±í¬' ì¶ê·¼ê¸¸ìë ë²ì ë¶ê° í¬ì¤ ë°ì°(NCíë³´)">
+								<em class="btn_icon btn_photo">ì¬ì§ìì´ì½</em>
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022208554839336" class="text_wrap" title="ìì§(ITZY), 'ë®¤ì§ë±í¬' ì¶ê·¼ê¸¸ìë ë²ì ë¶ê° í¬ì¤ ë°ì°(NCíë³´)">
+								<strong class="headline">
+								ìì§(ITZY), 'ë®¤ì§ë±í¬' ì¶ê·¼ê¸¸ìë ë²ì ë¶ê° í¬ì¤ ë°ì°(NCíë³´)
+								</strong>
+							</a>
+						</div>
+					</li>					<li>
+						<div class="i_b">
+							<em class="txt_num">3</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022111024393538" class="thumb" title="[NCí¬í ] ë®¤ì§ì»¬ 'íê°ëë' ì´ì¤í, ì§ë°°í  ì¸ì">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022110542753302_1550714066.jpg" alt="[NCí¬í ] ë®¤ì§ì»¬ 'íê°ëë' ì´ì¤í, ì§ë°°í  ì¸ì">
+								<em class="btn_icon btn_photo">ì¬ì§ìì´ì½</em>
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022111024393538" class="text_wrap" title="[NCí¬í ] ë®¤ì§ì»¬ 'íê°ëë' ì´ì¤í, ì§ë°°í  ì¸ì">
+								<strong class="headline">
+								 ë®¤ì§ì»¬ 'íê°ëë' ì´ì¤í, ì§ë°°í  ì¸ì
+								</strong>
+							</a>
+						</div>
+					</li>					<li>
+						<div class="i_b">
+							<em class="txt_num">4</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019021415494454673" class="thumb" title="[NCíë³´]'ì ì¹´ì´í¸ë¤ì´' ìì§(ITZY), ëë³´ì ì¸ ê±¸í¬ë¬ì¬ ë§¤ë ¥">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019021415451541040_1550126716.jpg" alt="[NCíë³´]'ì ì¹´ì´í¸ë¤ì´' ìì§(ITZY), ëë³´ì ì¸ ê±¸í¬ë¬ì¬ ë§¤ë ¥">
+								<em class="btn_icon btn_photo">ì¬ì§ìì´ì½</em>
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019021415494454673" class="text_wrap" title="[NCíë³´]'ì ì¹´ì´í¸ë¤ì´' ìì§(ITZY), ëë³´ì ì¸ ê±¸í¬ë¬ì¬ ë§¤ë ¥">
+								<strong class="headline">
+								'ì ì¹´ì´í¸ë¤ì´' ìì§(ITZY), ëë³´ì ì¸ ê±¸í¬ë¬ì¬ ë§¤ë ¥
+								</strong>
+							</a>
+						</div>
+					</li>									</ul>
+								</div>
+							</div>
+
+							<!-- ìì -->
+							<div class="box_inner">
+								<div class="thumbnail_box02">
+									<ul>
+															<li>
+						<div class="i_b">
+							<em class="txt_num">1</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022010332635312" class="thumb" title="[NCì§ìº ] ì°ê·¹ 'ëíì´ì ì ' íì¤ë³´ë¤ ë ë¶ë¶ ê°ì ì¡ì¼êµ­Â·ì´ì§í ì»¤í">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022010321750820_1550626337.jpg" alt="[NCì§ìº ] ì°ê·¹ 'ëíì´ì ì ' íì¤ë³´ë¤ ë ë¶ë¶ ê°ì ì¡ì¼êµ­Â·ì´ì§í ì»¤í">
+								<em class="btn_icon btn_play">ëìììì´ì½</em>
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022010332635312" class="text_wrap" title="[NCì§ìº ] ì°ê·¹ 'ëíì´ì ì ' íì¤ë³´ë¤ ë ë¶ë¶ ê°ì ì¡ì¼êµ­Â·ì´ì§í ì»¤í">
+								<strong class="headline">
+								 ì°ê·¹ 'ëíì´ì ì ' íì¤ë³´ë¤ ë ë¶ë¶ ê°ì ì¡ì¼êµ­Â·ì´ì§í ì»¤í
+								</strong>
+							</a>
+						</div>
+					</li>					<li>
+						<div class="i_b">
+							<em class="txt_num">2</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022113565260727" class="thumb" title="[NCì§ìº ]ë®¤ì§ì»¬ 'íê°ëë' ë°ê·ì, í ë¨ìì ì´ì¼ê¸° I">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022113562653619_1550724987.jpg" alt="[NCì§ìº ]ë®¤ì§ì»¬ 'íê°ëë' ë°ê·ì, í ë¨ìì ì´ì¼ê¸° I">
+								<em class="btn_icon btn_play">ëìììì´ì½</em>
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022113565260727" class="text_wrap" title="[NCì§ìº ]ë®¤ì§ì»¬ 'íê°ëë' ë°ê·ì, í ë¨ìì ì´ì¼ê¸° I">
+								<strong class="headline">
+								ë®¤ì§ì»¬ 'íê°ëë' ë°ê·ì, í ë¨ìì ì´ì¼ê¸° I
+								</strong>
+							</a>
+						</div>
+					</li>					<li>
+						<div class="i_b">
+							<em class="txt_num">3</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022114244664413" class="thumb" title="[NCì§ìº ]ë®¤ì§ì»¬ 'íê°ëë' KON, ìë§ì ì°ì£¼ III">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022114235253728_1550726632.jpg" alt="[NCì§ìº ]ë®¤ì§ì»¬ 'íê°ëë' KON, ìë§ì ì°ì£¼ III">
+								<em class="btn_icon btn_play">ëìììì´ì½</em>
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022114244664413" class="text_wrap" title="[NCì§ìº ]ë®¤ì§ì»¬ 'íê°ëë' KON, ìë§ì ì°ì£¼ III">
+								<strong class="headline">
+								ë®¤ì§ì»¬ 'íê°ëë' KON, ìë§ì ì°ì£¼ III
+								</strong>
+							</a>
+						</div>
+					</li>					<li>
+						<div class="i_b">
+							<em class="txt_num">4</em>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022114010985552" class="thumb" title="[NCì§ìº ] ë®¤ì§ì»¬ 'íê°ëë' ê¹ê²½ìÂ·ìì¹ì, Dies Irae I + íë¦° ê²ì²ë¼ I">
+								<img src="http://cwcontent.asiae.co.kr/asiaresize/261/2019022114001953629_1550725220.jpg" alt="[NCì§ìº ] ë®¤ì§ì»¬ 'íê°ëë' ê¹ê²½ìÂ·ìì¹ì, Dies Irae I + íë¦° ê²ì²ë¼ I">
+								<em class="btn_icon btn_play">ëìììì´ì½</em>
+							</a>
+							<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019022114010985552" class="text_wrap" title="[NCì§ìº ] ë®¤ì§ì»¬ 'íê°ëë' ê¹ê²½ìÂ·ìì¹ì, Dies Irae I + íë¦° ê²ì²ë¼ I">
+								<strong class="headline">
+								 ë®¤ì§ì»¬ 'íê°ëë' ê¹ê²½ìÂ·ìì¹ì, Dies Irae I + íë¦° ê²ì²ë¼ I
+								</strong>
+							</a>
+						</div>
+					</li>									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<script type="text/javascript">
+					/* ë§ì´ ë³¸ ê¸°ì¬ í­ë©ë´ */
+					$(function () {
+						tab('.daily_ranking #tab',2);
+					});
+
+					function tab(e, num){
+						var num = num || 0;
+						var menu = $(e).children();
+						var con = $(e+'_cont').children();
+						var select = $(menu).eq(num);
+						var i = num;
+
+						select.addClass('on');
+						con.eq(num).show();
+
+						menu.click(function(){
+							if(select!==null){
+								select.removeClass("on");
+								con.eq(i).hide();
+							}
+
+							select = $(this);
+							i = $(this).index();
+
+							select.addClass('on');
+							con.eq(i).show();
+						});
+					}
+					</script>
+				<!--// ë§ì´ ë³¸ ê¸°ì¬ -->
+
+				<!-- ì¸ë¤ì¼ ë¦¬ì¤í¸ ë¸ì¶ìì­1 stage photo, hot photo-->
+				<div class="article_viewlist">
+					<div class="boxlist_wrap01">
+						<!-- Stage Photo -->
+						
+	<div class="list_area01">
+		<h2>GALLERY</h2>
+		<ul>
+			<li>
+				<a href="http://mnc.asiae.co.kr/viewer.htm?sec=0630&idxno=2019022111181794143&kidx=40" title="ë®¤ì§ì»¬ 'íê°ëë' ìë¦ëµêµ¬ë" >
+					<span class="thumb">
+						<img src="http://cwcontent.asiae.co.kr/asiaresize/269/2019022215093556374A_1.jpg" alt="ë®¤ì§ì»¬ 'íê°ëë' ìë¦ëµêµ¬ë">
+						<em class="btn_icon btn_gallery">ê°¤ë¬ë¦¬ìì´ì½</em>
+					</span>
+					<strong>
+						<span class="headline">ë®¤ì§ì»¬ 'íê°ëë' ìë¦ëµêµ¬ë</span>
+					</strong>
+				</a>
+			</li>
+		</ul>
+	</div>
+						<!-- hot Photo -->
+						
+	<div class="list_area01">
+		<h2>Hot Photo</h2>
+
+		<ul>
+			<li>
+				<a href="http://mnc.asiae.co.kr/view.htm?idxno=2019021916501100626" title="âìë´ì ë§ ì§íâ¥â í¨ìì, ííí ë³¼ë¥¨ëª¸ë§¤ ê³µê°...âì¶ì° 50ì¼â" >
+					<span class="thumb">
+						<img src="http://cwcontent.asiae.co.kr/asiaresize/269/2019021916492249499_1550562562.jpg" alt="âìë´ì ë§ ì§íâ¥â í¨ìì, ííí ë³¼ë¥¨ëª¸ë§¤ ê³µê°...âì¶ì° 50ì¼â">
+						
+					</span>
+					<strong>
+						<span class="headline">âìë´ì ë§ ì§íâ¥â í¨ìì, ííí ë³¼ë¥¨ëª¸ë§¤ ê³µê°...âì¶ì° 5...</span>
+					</strong>
+				</a>
+			</li>
+		</ul>
+	</div>
+					</div>
+				</div>
+
+				<!-- Dable EMPTY_EMPTY_320x100_02 ìì ¯ ìì/ ë¬¸ì http://dable.io -->
+				<div id="dablewidget_xXA8ARlG" data-widget_id="xXA8ARlG">
+				<script>
+				(function(d,a,b,l,e,_) {
+				if(d[b]&&d[b].q)return;d[b]=function(){(d[b].q=d[b].q||[]).push(arguments)};e=a.createElement(l);
+				e.async=1;e.charset='utf-8';e.src='//static.dable.io/dist/plugin.min.js';
+				_=a.getElementsByTagName(l)[0];_.parentNode.insertBefore(e,_);
+				})(window,document,'dable','script');
+				dable('setService', 'mnewsculture.asiae.co.kr');
+				dable('renderWidget', 'dablewidget_xXA8ARlG', {ignore_items: true});
+				</script>
+				</div>
+				<!-- Dable EMPTY_EMPTY_320x100_02 ìì ¯ ì¢ë£/ ë¬¸ì http://dable.io -->
+
+				<!-- ìê²½ëª¨ë -->
+							<!-- ìììê²½ì  ëª¨ëì¶ê°-->
+				<div class="asiae_module">
+					<h2><a href="http://cm.asiae.co.kr?utm_source=newsculture&utm_medium=mobile&utm_campaign=view_title" title="ìììê²½ì " target="_blank">ëì¹ë©´ ì ë  ìììê²½ì  ë´ì¤</a></h2>
+
+					<div class="rank_tab">
+						<ul id="tab_a">
+							<li class="active" rel="tab_a1"><a href="javascript:;" title="ë´ì¤í í½">ë´ì¤í í½</a></li>
+							<li rel="tab_a2"><a href="javascript:;" title="ë­í¹">ë­í¹</a></li>
+						</ul>
+					</div>
+
+					<div id="tab_cont" class="tab_cont">
+						<!-- ë´ì¤í í½ -->
+						<div id="tab_a1" class="box_inner">
+							<ul class="topics_list">
+											<li class="big">
+				<a href="http://cm.asiae.co.kr/view.htm?no=2019022411182520063&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_topic" title="ë´ì¤í í½ ì´ë¯¸ì§" target="_blank">
+					<figure>
+						<span class="thumb">
+							<img src="http://cwcontent.asiae.co.kr/asiaresize/250/2019022407091157462_1550959751.jpg" alt="ê¹ì ì ìíë¨ 1ì°¨íë´ ëì ì ì¬">
+						</span>
+						<figcaption>
+							<strong class="headline">
+							ê¹ì ì ìíë¨ 1ì°¨íë´ ëì ì ì¬
+							</strong>
+						</figcaption>
+					</figure>
+				</a>
+			</li>			<li>
+				<a href="http://cm.asiae.co.kr/view.htm?no=2019022314465449208&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_topic" target="_blank">ìì´í¬ì¤ì ì´ë¥ ìë°...25ì¼ ì¶ë° ìì</a>
+			</li>			<li>
+				<a href="http://cm.asiae.co.kr/view.htm?no=2019022115292624095&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_topic" target="_blank">íê·¹ê¸°, ííµ ê·¸ë¦¬ê³ â¦âì 2ì ë¥ì¬í´â ëì¬ê¹</a>
+			</li>			<li>
+				<a href="http://cm.asiae.co.kr/view.htm?no=2019022117471125663&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_topic" target="_blank">'ì¬ì° 104ìµ' ì¥íì±, 8ê°ì ë§ì ë¬´ë ¤â¦</a>
+			</li>							</ul>
+						</div>
+
+						<!-- ë­í¹ -->
+						<div id="tab_a2" class="box_inner">
+							<ul class="list_box">
+															<li>
+									<a href="http://cm.asiae.co.kr/view.htm?no=2019022321000524963&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_rank" title="847í ë¡ë 1ë± '12, 16, 26, 28, 30, 42'" target="_blank">
+										<span>1</span>
+										847í ë¡ë 1ë± '12, 16, 26, 28, 30, 42'
+									</a>
+								</li>								<li>
+									<a href="http://cm.asiae.co.kr/view.htm?no=2019022319422878310&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_rank" title="&quot;ê¹ì ì, ê¸°ì°¨íê³  íë¸ì´ë¡ ì¶ë°&quot;â¦50ìê°Â·4500km ëì¥ì (ì¢í©)" target="_blank">
+										<span>2</span>
+										"ê¹ì ì, ê¸°ì°¨íê³  íë¸ì´ë¡ ì¶ë°"â¦50ìê°Â·4500km ëì¥ì (ì¢í©)
+									</a>
+								</li>								<li>
+									<a href="http://cm.asiae.co.kr/view.htm?no=2019022312464055221&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_rank" title="'ê·¹íì§ì' 1500ë§ ê´ê° ëíâ¦ê·¹ì¥ ë§¤ì¶ë§ 1293ìµì" target="_blank">
+										<span>3</span>
+										'ê·¹íì§ì' 1500ë§ ê´ê° ëíâ¦ê·¹ì¥ ë§¤ì¶ë§ 1293ìµì
+									</a>
+								</li>								<li>
+									<a href="http://cm.asiae.co.kr/view.htm?no=2019022314465449208&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_rank" title="ìì´í¬ì¤ì ì´ë¥ ìë°â¦&quot;ç¾ë¹ë°ìì 200ëª 23ì¼ íë¸ì´ ëì°©&quot;" target="_blank">
+										<span>4</span>
+										ìì´í¬ì¤ì ì´ë¥ ìë°â¦"ç¾ë¹ë°ìì 200ëª 23ì¼ íë¸ì´ ëì°©"
+									</a>
+								</li>								<li>
+									<a href="http://cm.asiae.co.kr/view.htm?no=2019022409362077319&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_rank" title="ì¡´ì¨ ì ë &quot;369ì¼ë ì¥í íí&quot;â¦ë§¤í¬ë¡ì´ 2ì " target="_blank">
+										<span>5</span>
+										ì¡´ì¨ ì ë "369ì¼ë ì¥í íí"â¦ë§¤í¬ë¡ì´ 2ì 
+									</a>
+								</li>								<li>
+									<a href="http://cm.asiae.co.kr/view.htm?no=2019022214060321669&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_rank" title="'ë°°íí¸ë¦½' íë¤ê° ì¹ìë§ì´ íë  ì¹´í ìê°" target="_blank">
+										<span>6</span>
+										'ë°°íí¸ë¦½' íë¤ê° ì¹ìë§ì´ íë  ì¹´í ìê°
+									</a>
+								</li>								<li>
+									<a href="http://cm.asiae.co.kr/view.htm?no=2019022319033844242&utm_source=newsculture&utm_medium=mobile&utm_campaign=view_rank" title="ìí¬ì ì ë ëì½ &quot;ë¬´ë¹ë°ì´ ì¤í¼í¸~&quot;" target="_blank">
+										<span>7</span>
+										ìí¬ì ì ë ëì½ "ë¬´ë¹ë°ì´ ì¤í¼í¸~"
+									</a>
+								</li>							</ul>
+						</div>
+					</div>
+				</div>
+				<!-- //ìììê²½ì  ëª¨ë -->
+				<script>
+				$(function () {
+					$(".asiae_module .box_inner").hide();
+					$(".asiae_module .box_inner:first").show();
+
+					$("#tab_a li").click(function () {
+						$("#tab_a li").removeClass("active");
+
+						$(this).addClass("active");
+						$(".asiae_module .box_inner").hide()
+						var activeTab = $(this).attr("rel");
+
+						$("#" + activeTab).show()
+					});
+				});
+				</script>
+				<!--// ìê²½ëª¨ë -->
+
+				<!-- ëì¤íë ì´ ê´ê³  ìì­ - ì¸ë¶4 -->
+				<!-- <div class="ad_div2">
+					<script type="text/javascript" SRC="http://a1.asiae.co.kr/RealMedia/ads/adstream_jx.ads/m.asiae.co.kr/newsculture@x01"></script>
+				</div> -->
+				<!--// ëì¤íë ì´ ê´ê³  ìì­ - ì¸ë¶4 -->
+				<!-- ëê¸ìì­ -->
+				<div class="comment_box">
+					<!--ë¼ì´ë¸ë¦¬ íë¦¬ë¯¸ì ì¤ì¹ì½ë-->
+					
+					<div id="lv-container" data-id="asiae" data-uid="MTMvMTEzOC80MDY1">
+					<script type="text/javascript">
+					window.livereOptions={refer:'nc.asiae.co.kr/view.htm?idxno=2019021510462774363'};
+					(function(d,s) {
+						var j, e=d.getElementsByTagName(s)[0];
+						if (typeof LivereTower === 'function') {return;}
+						j=d.createElement(s);
+						j.src='https://cdn-city.livere.com/js/embed.dist.js';
+						j.async=true;
+						e.parentNode.insertBefore(j,e);
+					})(document,'script');
+					</script>
+					<noscript>ë¼ì´ë¸ë¦¬ ëê¸ ìì±ì ìí´ JavaScriptë¥¼ íì±íí´ì£¼ì¸ì</noscript>
+					</div>
+					<!--ë¼ì´ë¸ë¦¬ íë¦¬ë¯¸ì ì¤ì¹ ì½ë ë-->
+				</div>
+				<!--// ëê¸ìì­ -->
+				<!-- ë¤ì´ë²í¬ì¤í¸ -->
+				<div class="ad_naver">
+					<iframe width="340" height="290" id="widget_post_frame" name="widget_post_frame" src="http://editor.post.naver.com/widget/external.nhn?encryptedId=BLyv%2Fulz5Qj%2B0GJN5Rh6HA%3D%3D" scrolling="no" frameborder="no" marginwidth="0" marginheight="0"></iframe>
+				</div>
+				<!--// ë¤ì´ë²í¬ì¤í¸ -->
+
+			</div>
+			<!--// ì¤íì´ì§ -->
+		</div>
+	</div>
+	<hr class="hide">
+	<!--// container -->
+
+	<!-- footer -->
+	<footer>
+		<!-- sns -->
+		<div class="sns_area">
+			<p>ë¤ìí ì±ëìì ë´ì¤ì»¬ì²ë¥¼ ë§ëë³´ì¸ì!</p>
+			<ul>
+				<li class="btn_facebook"><a href="https://www.facebook.com/withNEWSCULTURE" target="_blank" title="Facebook">Facebook</a></li>
+				<li class="btn_twitter"><a href="https://twitter.com/newsculture" target="_blank" title="Twitter">Twitter</a></li>
+				<li class="btn_naver"><a href="https://post.naver.com/my.nhn?memberNo=3613482" target="_blank" title="Naver">Naver</a></li>
+				<li class="btn_navertv"><a href="https://tv.naver.com/nctv" target="_blank" title="NaverTV">NaverTV</a></li>
+				<li class="btn_youtube"><a href="https://www.youtube.com/channel/UCbSCUaJynLiYDnUu4yGPTmw" target="_blank" title="Youtube">Youtube</a></li>
+			</ul>
+		</div>
+		<div class="f_family">
+			<ul>
+				<li><a href="http://mnc.asiae.co.kr/notice_list.htm?sbk=notice_nc" title="ê³µì§ì¬í­">ê³µì§ì¬í­</a></li>
+				<li><a href="http://mnc.asiae.co.kr/suggest.htm" title="ê¸°ì¬ì ë³´">ê¸°ì¬ì ë³´</a></li>
+				<li><a href="http://nc.asiae.co.kr/view.htm?idxno=2019021510462774363&mobile=Y" title="PCë²ì ">PCë²ì </a></li>
+			</ul>
+		</div>
+		<p class="copyright">copyright â 2006 NewsCulture. All rights reserved</p>
+	</footer>
+	<!--// footer -->
+
+	<!-- 2018.12.21 ì¶ê° ìºì¹ë°± -->
+	<script type="text/javascript" src="http://ads.priel.co.kr/js/catchback_newsculture.js"></script>
+	<!-- //2018.12.21 ì¶ê° ìºì¹ë°± -->
+
+	<!-- Top ë²í¼ -->
+	<a href="javascript:;" class="btn_top"><span>ìë¡ê°ê¸°</span></a>
+	<script type="text/javascript">
+	$(function(){
+		$('.btn_top').click(function(){
+			$('html, body').animate({scrollTop: 0}, 300);
+		});
+	});
+	</script>
+	<!-- //Top ë²í¼ -->
+
+	<!-- ì ì²´ë©ë´ -->
+	<div class="all_mlayer">
+		<div class="dim">ë§ì¤í¬ìì­</div>
+		<div id="all_layer" class="pop_layer">
+			<div class="pop_container">
+				<div class="pop_inner">
+					<a href="javascript:;" class="btn_close"><span>ë«ê¸°</span></a>
+
+					<!-- head -->
+					<div class="pop_head">
+						<h2><a href="http://mnc.asiae.co.kr" title="ë´ì¤ì»¬ì²">ë´ì¤ì»¬ì²</a></h2>
+					</div>
+					<!--// head -->
+
+					<!-- content -->
+					<div class="pop_conts">
+						<!-- all_menu -->
+						<div class="all_menu">
+							<ul>
+								<li>
+									<a href="http://mnc.asiae.co.kr" title="í">í</a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/list.htm?sec=0100" title="ì¤íì´ì§">ì¤íì´ì§</a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/list.htm?sec=0200" title="ë¬´ë¹">ë¬´ë¹</a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/list.htm?sec=0300" title="ë®¤ì§">ë®¤ì§</a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/list.htm?sec=0400" title="ë°©ì¡Â·ì°ì">ë°©ì¡Â·ì°ì</a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/list.htm?sec=0620" title="í¬í Â·NCTV">í¬í Â·NCTV</a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/list.htm?sec=0700" title="ì¤í¬ì¸ ">ì¤í¬ì¸ </a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/list.htm?sec=0500" title="ìíÂ·ê²½ì ">ìíÂ·ê²½ì </a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/list.htm?sec=0800" title="ì´ì">ì´ì</a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/toon/toon.htm" title="ë§í">ë§í</a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/notice_list.htm?sbk=notice_nc" title="ê³µì§ì¬í­">ê³µì§ì¬í­</a>
+								</li>
+								<li>
+									<a href="http://mnc.asiae.co.kr/suggest.htm" title="ê¸°ì¬ì ë³´">ê¸°ì¬ì ë³´</a>
+								</li>
+								<!--
+								<li>
+									<a href="#" title="ê¸°ì¬ì ë³´">ê¸°ì¬ì ë³´</a>
+								</li>
+								-->
+							</ul>
+						</div>
+
+						<!-- sns -->
+						<div class="sns_area">
+							<ul>
+								<li class="btn_facebook"><a href="https://www.facebook.com/withNEWSCULTURE" target="_blank" title="Facebook">Facebook</a></li>
+								<li class="btn_twitter"><a href="https://twitter.com/newsculture" target="_blank" title="Twitter">Twitter</a></li>
+								<li class="btn_naver"><a href="https://post.naver.com/my.nhn?memberNo=3613482" target="_blank" title="Naver">Naver</a></li>
+								<li class="btn_navertv"><a href="https://tv.naver.com/nctv" target="_blank" title="NaverTV">NaverTV</a></li>
+								<li class="btn_youtube"><a href="https://www.youtube.com/channel/UCbSCUaJynLiYDnUu4yGPTmw" target="_blank" title="Youtube">Youtube</a></li>
+							</ul>
+						</div>
+					</div>
+					<!--// content-->
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- ê²ìì°½ -->
+	<form name="schFrm" method="post" action="http://mnc.asiae.co.kr/search.htm">
+		<input type="hidden" name="type" id="type" value=""/>
+		<input type="hidden" name="sn" id="sn" value=""/>
+	<div class="all_search">
+		<div class="search_container">
+			<div class="search_box">
+				<p class="cell_close">
+					<button type="button"><span class="icon">ë«ê¸°</span></button>
+				</p>
+				<div class="in_box">
+					<fieldset>
+						<legend>ê²ììì­</legend>
+						<dl class="dropdown">
+					        <dt><a href="#"><span>-ì ì²´-</span></a></dt>
+					        <dd>
+					            <div class="inner">
+					            	<div class="s_b">
+							            <ul id="stlist">
+											<li id="st0" class="all"><a href="javascript:setType('0');" title="ì ì²´">ì ì²´<span class="value">ì ì²´</span></a></li>
+											<li id="st1"><a href="javascript:setType('1');" title="ì¤íì´ì§">ì¤íì´ì§<span class="value">ì¤íì´ì§</span></a></li>
+											<li id="st2"><a href="javascript:setType('2');" title="ë¬´ë¹">ë¬´ë¹<span class="value">ë¬´ë¹</span></a></li>
+											<li id="st3"><a href="javascript:setType('3');" title="ë®¤ì§">ë®¤ì§<span class="value">ë®¤ì§</span></a></li>
+											<li id="st4"><a href="javascript:setType('4');" title="ë°©ì¡Â·ì°ì">ë°©ì¡Â·ì°ì<span class="value">ë°©ì¡Â·ì°ì</span></a></li>
+											<li id="st6"><a href="javascript:setType('6');" title="ìíÂ·ê²½ì ">ìíÂ·ê²½ì <span class="value">ìíÂ·ê²½ì </span></a></li>
+											<li id="st8"><a href="javascript:setType('8');" title="í¬í ">í¬í <span class="value">í¬í </span></a></li>
+											<li id="st7"><a href="javascript:setType('7');" title="NCTV">NCTV<span class="value">NCTV</span></a></li>
+											<li id="st5"><a href="javascript:setType('5');" title="ì¤í¬ì¸ ">ì¤í¬ì¸ <span class="value">ì¤í¬ì¸ </span></a></li>
+											<li id="st10"><a href="javascript:setType('10');" title="ê¸°í/ì¸í°ë·°">ê¸°í/ì¸í°ë·°<span class="value">ê¸°í/ì¸í°ë·°</span></a></li>
+											<li id="st9"><a href="javascript:setType('9');" title="ì´ì">ì´ì<span class="value">ì´ì</span></a></li>
+							            </ul>
+						            </div>
+								</div>
+					        </dd>
+					    </dl>
+					    <div class="input_b">
+					    	<input type="text"  id="sni" name="sni" placeholder="ê²ìì´ë¥¼ ìë ¥í´ì£¼ì¸ì." onkeypress="javascript:enterSubmit(this.form);"/>
+					    </div>
+					</fieldset>
+				</div>
+				<p class="cell_sear">
+					<button type="button" onclick="goSearch();"><span class="icon">ê²ìíê¸°</span></button>
+				</p>
+			</div>
+		</div>
+	</div> 
+	<!--// ê²ìì°½ -->
+
+	</form>
+	<script>
+	function setType(v){
+		$("#stlist li").removeClass("all");
+		$("#type").val(v);
+		$("#st"+v).addClass("all");
+	}
+	function goSearch(){
+		$("#sn").val($("#sni").val());
+		document.schFrm.submit();
+	}
+	function enterSubmit(f){
+		if(event.keyCode == 13){
+			goSearch();
+		}
+	}
+
+	</script>
+	<!--// ì ì²´ë©ë´ -->
+</body>
+</html>
+
+
+<!-- AceCounter Log Gathering Script -->
+<script language="javascript">
+var _GCD = '021700002';							// ì¬ì´í¸ êµ¬ë¶ ì½ë
+var _aid = '2019021510462774363';		// ê¸°ì¬ìì´ë
+var _AceTitle = '[NCíë³´] \"ë§ì§ë§ ë±êµ\" 2019ë ìì´ëÂ·ë°°ì° ìê³µì ì¡¸ì';	// ê¸°ì¬ì ëª© ëë íì´ì§ ì´ë¦
+var _aname = '';	// ê¸°ìëª
+var _atype = '';	// ê¸°ì¬ë¶ë¥ëª
+var _pd = '2019-02-15 10:46:32';		// ì¹ íì¶ ìê°
+
+if(typeof _GUL == 'undefined') {
+	var _GUL = 'loginside.asiae.co.kr';
+	var _GPT='80';
+	var _SGPT='443';
+	var _AIMG = new Image();
+	var _bn=navigator.appName;
+	var _PR = location.protocol=="https:"?"https://"+_GUL+":"+_SGPT:"http://"+_GUL+":"+_GPT;
+	if( _bn.indexOf("Netscape") > -1 || _bn=="Mozilla") {
+		setTimeout("_AIMG.src = _PR+'/?cookie';",1);
+	} else{
+		_AIMG.src = _PR+'/?cookie';
+	};
+	document.writeln("<scr"+"ipt language='javascript' src='http://www.asiae.co.kr/js/acecounter_V70.js'></scr"+"ipt>");
+}
+</script>
+<!-- AceCounter Log Gathering Script -->

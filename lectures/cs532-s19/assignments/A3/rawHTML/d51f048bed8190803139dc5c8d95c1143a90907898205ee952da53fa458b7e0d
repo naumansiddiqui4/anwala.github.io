@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=2.0">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="description" content="FindLaw's 5 Cases in 5 Minutes is a weekly podcast bringing you the most important, amusing, and outrageous legal decisions from the past week in just 5 short minutes. There are thrills, chills, and bitter pills in this weekly peek at our nation's courts designed to help you track the moving target of legal precedent.">
+	<meta itemprop="name" content="FindLaw's 5in5 Podcast">
+	<meta itemprop="description" content="FindLaw's 5 Cases in 5 Minutes is a weekly podcast bringing you the most important, amusing, and outrageous legal decisions from the past week in just 5 short minutes. There are thrills, chills, and bitter pills in this weekly peek at our nation's courts designed to help you track the moving target of legal precedent.">
+	<meta itemprop="image" content="http://assets.libsyn.com/content/23107144">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="http://findlaw5in5.libsyn.com/">
+	<meta property="og:title" content="FindLaw's 5in5 Podcast">
+	<meta property="og:image" content="http://assets.libsyn.com/content/23107144?height=250&amp;width=250">
+	<meta property="og:image:width" content="250">
+	<meta property="og:image:height" content="250">
+	<meta property="og:description" content="FindLaw's 5 Cases in 5 Minutes is a weekly podcast bringing you the most important, amusing, and outrageous legal decisions from the past week in just 5 short minutes. There are thrills, chills, and bitter pills in this weekly peek at our nation's courts designed to help you track the moving target of legal precedent.">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:title" content="FindLaw's 5in5 Podcast">
+	<meta name="twitter:description" content="FindLaw's 5 Cases in 5 Minutes is a weekly podcast bringing you the most important, amusing, and outrageous legal decisions from the past week in just 5 short minutes. There are thrills, chills, and bitter pills in this weekly peek at our nation's courts designed to help you track the moving target of legal precedent.">
+	<meta name="twitter:image" content="http://assets.libsyn.com/content/23107144">		    
+    <title>FindLaw's 5in5 Podcast</title>
+
+			<link rel="alternate" type="application/rss+xml" title="FindLaw's 5in5 Podcast" href="http://findlaw5in5.libsyn.com/rss">
+	
+    <!-- Bootstrap Core CSS -->
+    <link href="http://static.libsyn.com/p/assets/platform/websuite/css/bootstrap.css" rel="stylesheet">
+    <link href="http://static.libsyn.com/p/assets/platform/websuite/css/jquery.smartmenus.bootstrap.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="http://static.libsyn.com/p/assets/platform/websuite/css/default-theme.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link href="http://://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- style overrides -->
+    <style>
+		    .image-pop:hover {
+        cursor: hand;
+        cursor: pointer;
+        opacity: .8;
+    }
+
+    .image-pop {
+        height:auto;
+        width:100%;
+        max-width:400px;
+        padding-right:20px;
+    }
+
+    .img-social {
+        max-height:16px;
+    }
+
+    .producer-message-row {
+        word-wrap: break-word;
+    }
+
+    ul.social-list {
+        list-style: none;
+    }
+
+    ul.social-list li{
+        display: inline;
+        margin-left: 5px;
+    }
+
+            .intro-message h1 {
+            font-size:5em;
+         }
+         @media (max-width: 1199px) {
+            .intro-message h1 {
+                font-size:4em;
+             }
+         }
+         @media (max-width: 991px) {
+            .intro-message h1 {
+                font-size:3em;
+             }
+         }
+         @media (max-width: 842px) {
+            .intro-message h1 {
+                font-size:2.5em;
+             }
+         }
+          @media (max-width: 750px) {
+            .intro-message h1 {
+                font-size:2em;
+             }
+         }
+          @media (max-width: 500px) {
+            .intro-message h1 {
+                font-size:1.5em;
+             }
+         }
+             .intro-header {
+            margin-top:50px;
+            background-color:#000;
+            background: url(http://assets.libsyn.com/content/23154274);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            height: 25vw;
+            min-height: 12rem;
+            width: 100%;
+            -ms-flex-align: end;
+            align-items: flex-end;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            position: relative;
+         }
+             .profile {
+           background: url(http://assets.libsyn.com/content/23107144/?height=80) no-repeat center center;
+           background-size: cover;
+         }
+             .intro-header, .banner, .navbar-default .navbar-nav>li>a, .navbar-brand, .producer-message, .producer-message-row a, .btn-widget-login, .navbar-default .navbar-nav .open .dropdown-menu > li > a, .dropdown-submenu, .widget-header{
+           color:#444444 !important;
+        }
+        .producer-message-row a {
+            text-decoration: underline;
+        }
+             .intro-message h1, .subtitle-text {
+            color:#cccccc !important;
+            background: #fff;
+        }
+     
+        .navbar-default, .producer-message, .btn-send, .btn-widget-login, .dropdown-menu, .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus, .nav .open > a, .nav .open > a:hover, .nav .open > a:focus, .widget-btn{
+            background-color:#ffa100 !important;
+         }
+
+         .custom-blog-thumbnail {
+            border:1px solid #ffa100 !important;
+        }
+
+            .libsyn-item a {
+           color:#444444 !important;
+        }
+     
+    body {
+        font-weight:normal !important;
+    }
+
+    .dropdown-submenu{
+        display: block;
+        padding: 3px 20px;
+        clear: both;
+        font-weight: 400;
+        line-height: 1.42857143;
+        white-space: nowrap;
+    }
+
+    .left-side {
+        padding-top:0px !important;
+    }
+
+    .section-heading{
+        margin:5px 0 25px 0;
+    }
+
+    p.date {
+        margin:5px 0 5px 0;
+    }
+
+    .item-height-restriction, .item-height-restriction-video {
+        height:auto;
+    }
+
+    .show_more {
+        direction:rtl;
+        text-indent: 25px;
+        font-size:15px;
+        font-weight:400;
+    }
+
+    .adjusted-player {
+        width: 1px;
+        min-width: 100%;
+    }
+
+     .adjusted-player {
+        width: 1px;
+        min-width: 100%;
+    }
+
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {
+       max-height: 1000px;
+    }
+			
+		@media screen and (max-width: 767px){
+			.navbar-form{
+				margin-right: 0px;
+				margin-left: 0px;
+			}
+		}
+
+    </style>
+
+    
+     <!-- Google Analytics -->
+    <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-1417413-3', 'auto');
+    ga('send', 'pageview');
+
+        </script>
+
+    <!-- End Google Analytics -->
+
+</head>
+
+<body>
+    <script>
+      (function(w, d){
+       var id='embedly-platform', n = 'script';
+       if (!d.getElementById(id)){
+         w.embedly = w.embedly || function() {(w.embedly.q = w.embedly.q || []).push(arguments);};
+         var e = d.createElement(n); e.id = id; e.async=1;
+         e.src = ('https:' === document.location.protocol ? 'https' : 'http') + '://cdn.embedly.com/widgets/platform.js';
+         var s = d.getElementsByTagName(n)[0];
+         s.parentNode.insertBefore(e, s);
+       }
+      })(window, document);
+    </script>
+
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=834757889913083";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation" id="main-menu">
+        <div class="container topnav">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                                    <a title="Home Page" class="navbar-brand topnav" href="/"><div class="profile"></div></a>
+                            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                <ul class="nav navbar-nav navbar-right" data-sm-skip-collapsible-behavior="true">
+                    <li>
+                        
+                        <form class="navbar-form navbar-right" method="GET" action="http://findlaw5in5.libsyn.com/size/5/">
+                            <div class="form-group search-form">
+                                <input type="text" aria-label="Search for Episodes" name="search" class="form-control" value="" placeholder="Search">
+                            </div>
+                            <button type="submit" aria-label="Click to submit search" class="btn btn-default"><i class="fa fa-search"></i></button>
+                        </form>
+                    </li>
+                    <li>
+                                <a href="" class="share-link" data-toggle="modal" data-target="#aboutModal">About</a>
+                            </li>
+                    <li><a href="#">Episodes <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/">All Episodes</a></li>
+
+                                <!-- premium episodes link -->
+                                
+                                <!-- categories -->
+                                                                    <li><a href="#">Categories <b class="caret"></b> </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="/category/general">general</a></li><li><a href="/category/podcast">podcast</a></li>
+                                        </ul>
+                                    </li>
+                                
+                                <!-- archives -->
+                                                                    <li><a href="#">Archives <b class="caret"></b> </a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="/2019">2019 <b class="caret"></b> </a><ul class="dropdown-menu"><li><a href="/2019/02">February</a></li><li><a href="/2019/01">January</a></li></ul></li><li><a href="/2018">2018 <b class="caret"></b> </a><ul class="dropdown-menu"><li><a href="/2018/12">December</a></li><li><a href="/2018/11">November</a></li><li><a href="/2018/10">October</a></li><li><a href="/2018/09">September</a></li><li><a href="/2018/08">August</a></li><li><a href="/2018/07">July</a></li></ul></li>
+                                        </ul>
+                                    </li>
+                                
+                            </ul>
+                    </li>
+
+                                    </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+
+    <!-- Header -->
+    <a name="about"></a>
+    <div class="intro-header">
+        <div class="container main-container">
+            <div class="row">
+                <div class="col-lg-12">
+                     <div class="click-alert alert alert-info fade">
+                      <strong>Preview Mode</strong> Links will not work in preview mode
+                    </div>
+                    <div class="intro-message">
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.intro-header -->
+
+    <!-- Page Content -->
+
+        <div class="container">
+
+            <div class="alert alert-info alert-dismissible producer-message">
+                            <div class="row">
+                <div class="col-lg-12">
+                                        <div class="col-lg-12 col-sm-12 align-top">
+                        <ul class="text-center social-list">
+                         <li style="display: inline;"><a aria-label="Email This Podcast" title="Email This Podcast"  data-toggle="tooltip" data-placement="bottom" href="mailto:jeremy.conrad@thomsonreuters.com" class="btn btn-default"><i class="fa fa-envelope fa-fw"></i></a></li><li style="display: inline;"><a aria-label="Subscribe to RSS Feed" title="Subscribe to RSS Feed" data-toggle="tooltip" data-placement="bottom" target="_blank" href="http://findlaw5in5.libsyn.com/rss" class="btn btn-default"><i class="fa fa-rss fa-fw"></i></a></li><li style="display: inline;"><a aria-label="Listen on Apple Podcasts" title="Listen on Apple Podcasts" data-toggle="tooltip" data-placement="bottom" target="_blank" href="https://itunes.apple.com/us/podcast/findlaws-5in5-podcast/?ls=1" class="btn btn-default"><i class="fa fa-podcast fa-fw"></i></a></li><li style="display: inline;"><a aria-label="Listen on TuneIn" title="Listen on TuneIn" data-toggle="tooltip" data-placement="bottom" target="_blank" href="http://tun.in/pi57M" class="btn btn-default"><img src="http://static.libsyn.com/p/assets/platform/websuite/tunein.png" class="img-social"></a></li><li style="display: inline;"><a aria-label="Listen on Stitcher" title="Listen on Stitcher" data-toggle="tooltip" data-placement="bottom" target="_blank" href="https://www.stitcher.com/podcast/earth-two-2/findlaws-5-cases-in-5-minutes?refid=stpr" class="btn btn-default btn-social"><img src="http://static.libsyn.com/p/assets/platform/websuite/stitcher.png" class="img-social"></a></li><li style="display: inline;"><a aria-label="Listen on Google Play" title="Listen on Google Play" data-toggle="tooltip" data-placement="bottom" target="_blank" href="https://play.google.com/music/m/I7hosonu5vjdzyi4izjasxawkyi?t=FindLaws_5in5_Podcast" class="btn btn-default"><i class="fa fa-google fa-fw"></i></a></li><li style="display: inline;"><a aria-label="Listen on Spotify" title="Listen on Spotify" data-toggle="tooltip" data-placement="bottom" target="_blank" href="https://open.spotify.com/show/1k6ntpxpe1WRFReK43gKBY?si=VoF0y7seQ-aDVSJxGW8_DQ" class="btn btn-default"><i class="fa fa-spotify fa-fw"></i></a></li>                        </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- bread crumbs -->
+                <div class="col-lg-12 col-md-12 item-container"><div class="row libsyn-item libsyn libsyn-item-free libsyn-item-8730311" data-id="8730311"><div class="col-lg-6 col-md-6 left-side libsyn-item-8730311"><h2 class="section-heading"><a data-iframe-id="embed_8730311"  class="read_more" href="http://findlaw5in5.libsyn.com/islam-giant-rats-free-the-nipple">Islam, Giant Rats, Free the Nipple</a></h2><iframe id="embed_8730311"  title="Islam, Giant Rats, Free the Nipple" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/8730311/height/90/theme/custom/thumbnail/yes/preload/no/direction/forward/tdest_id/750790/render-playlist/no/custom-color/ffa100/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe><div class="row"><div class="col-lg-4 col-sm-4 download-div"><a href="http://findlaw5in5.libsyn.com/islam-giant-rats-free-the-nipple#comments" class="facebook-comments-count" data-uri="http://findlaw5in5.libsyn.com/islam-giant-rats-free-the-nipple"></a></div></div></div><div class="col-lg-6 col-md-6 col-sm-12 right-side"><p class="date">Feb 21, 2019</p><p class="lead"><p><strong>Discussed on this week's 5in5:</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2Njf3mL"><span style="font-weight: 400;">Wood v.
+Arnold</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2SR3g5f"><span style="font-weight: 400;">Maye v.
+Klee</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2DYxFnU"><span style="font-weight: 400;">Jones v.
+Carter</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2T0ijJ9"><span style=
+"font-weight: 400;">Construction and General Laborers’ Union No.
+330 v. Town of Grand Chute</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2U0irph"><span style="font-weight: 400;">Free the
+Nipple v. Fort Collins</span></a></li>
+</ul>
+<p><strong>Relevant Articles</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2NjgdyD"><span style="font-weight: 400;">Religion at
+School</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2TZAWdd"><span style="font-weight: 400;">The
+Religious Land Use and Institutionalized Persons
+Act</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2E14b8V"><span style="font-weight: 400;">Do Prison
+Inmates Have Meal Option Rights?</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2SR3Wrj"></a></li>
+</ul>
+</p></p><div class="row"><div class="col-md-12 text-right show_more"><a data-iframe-id="embed_8730311"  class="read_more" href="http://findlaw5in5.libsyn.com/islam-giant-rats-free-the-nipple">Read More</a></div></div></div></div><hr><div class="row libsyn-item libsyn libsyn-item-free libsyn-item-8645840" data-id="8645840"><div class="col-lg-6 col-md-6 left-side libsyn-item-8645840"><h2 class="section-heading"><a data-iframe-id="embed_8645840"  class="read_more" href="http://findlaw5in5.libsyn.com/drug-smuggling-death-penalty-bikini-baristas">Drug Smuggling, Death Penalty, Bikini Baristas</a></h2><iframe id="embed_8645840"  title="Drug Smuggling, Death Penalty, Bikini Baristas" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/8645840/height/90/theme/custom/thumbnail/yes/preload/no/direction/forward/tdest_id/750790/render-playlist/no/custom-color/ffa100/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe><div class="row"><div class="col-lg-4 col-sm-4 download-div"><a href="http://findlaw5in5.libsyn.com/drug-smuggling-death-penalty-bikini-baristas#comments" class="facebook-comments-count" data-uri="http://findlaw5in5.libsyn.com/drug-smuggling-death-penalty-bikini-baristas"></a></div></div></div><div class="col-lg-6 col-md-6 col-sm-12 right-side"><p class="date">Feb 14, 2019</p><p class="lead"><p><strong>Discussed on this week's 5in5:</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2E9gcKy"><span style="font-weight: 400;">US v.
+Richmond</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2GmMSm8"><span style="font-weight: 400;">Ray v.
+Dunn</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2UW4CYT"><span style="font-weight: 400;">Dunn v.
+Ray</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2Sy3xKe"><span style="font-weight: 400;">Wittmer v.
+Phillips 66 Company</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2GIwU57"><span style="font-weight: 400;">Edge v.
+City of Everett</span></a></li>
+</ul>
+<p><strong>Relevant Articles</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2N43Lm4"><span style="font-weight: 400;">4th
+Amendment Search and Seizure Protections</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2DIMJ98"><span style="font-weight: 400;">Death
+Penalty in the U.S.</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2tjW8Ps"><span style="font-weight: 400;">Prisoners’
+Rights</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2Sy4L8i"><span style="font-weight: 400;">Transgender
+Employee Issues</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2TNPrkf"><span style="font-weight: 400;">Can
+Everett, WA Ban Bikini Baristas?</span></a></li>
+</ul>
+<p><strong>Legal Limerick of...</strong></p>
+</p></p><div class="row"><div class="col-md-12 text-right show_more"><a data-iframe-id="embed_8645840"  class="read_more" href="http://findlaw5in5.libsyn.com/drug-smuggling-death-penalty-bikini-baristas">Read More</a></div></div></div></div><hr><div class="row libsyn-item libsyn libsyn-item-free libsyn-item-8558561" data-id="8558561"><div class="col-lg-6 col-md-6 left-side libsyn-item-8558561"><h2 class="section-heading"><a data-iframe-id="embed_8558561"  class="read_more" href="http://findlaw5in5.libsyn.com/garlic-gangsters-soda-wars-prison-tech">Garlic Gangsters, Soda Wars, Prison Tech</a></h2><iframe id="embed_8558561"  title="Garlic Gangsters, Soda Wars, Prison Tech" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/8558561/height/90/theme/custom/thumbnail/yes/preload/no/direction/forward/tdest_id/750790/render-playlist/no/custom-color/ffa100/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe><div class="row"><div class="col-lg-4 col-sm-4 download-div"><a href="http://findlaw5in5.libsyn.com/garlic-gangsters-soda-wars-prison-tech#comments" class="facebook-comments-count" data-uri="http://findlaw5in5.libsyn.com/garlic-gangsters-soda-wars-prison-tech"></a></div></div></div><div class="col-lg-6 col-md-6 col-sm-12 right-side"><p class="date">Feb 7, 2019</p><p class="lead"><p><strong>Discussed on this week's 5in5:</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2DgUt1G"><span style="font-weight: 400;">Harmoni
+International Spice, Inc. v. Hume</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2RH39nj"><span style="font-weight: 400;">Robinson v.
+Doe</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2RKHAlJ"><span style="font-weight: 400;">American
+Beverage Association v. San Francisco</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2UGFoO6"><span style="font-weight: 400;">US v.
+Cook</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2UMCKq1"><span style="font-weight: 400;">People v.
+Atkins</span></a></li>
+</ul>
+<p><strong>Relevant Articles</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2RM4TeU"><span style=
+"font-weight: 400;">Racketeering/RICO</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2DY182e"><span style="font-weight: 400;">Rights of
+Inmates</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2BqpYpS"><span style="font-weight: 400;">San
+Francisco Soda Warnings Put on Hold</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2TGhnqs"><span style="font-weight: 400;">Federal
+Marijuana Laws</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2SyU9ox"><span style="font-weight: 400;">What
+Procedures Must the Police...</span></a></li>
+</ul>
+</p></p><div class="row"><div class="col-md-12 text-right show_more"><a data-iframe-id="embed_8558561"  class="read_more" href="http://findlaw5in5.libsyn.com/garlic-gangsters-soda-wars-prison-tech">Read More</a></div></div></div></div><hr><div class="row libsyn-item libsyn libsyn-item-free libsyn-item-8469470" data-id="8469470"><div class="col-lg-6 col-md-6 left-side libsyn-item-8469470"><h2 class="section-heading"><a data-iframe-id="embed_8469470"  class="read_more" href="http://findlaw5in5.libsyn.com/yelp-tinder-facebook">Yelp, Tinder, Facebook</a></h2><iframe id="embed_8469470"  title="Yelp, Tinder, Facebook" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/8469470/height/90/theme/custom/thumbnail/yes/preload/no/direction/forward/tdest_id/750790/render-playlist/no/custom-color/ffa100/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe><div class="row"><div class="col-lg-4 col-sm-4 download-div"><a href="http://findlaw5in5.libsyn.com/yelp-tinder-facebook#comments" class="facebook-comments-count" data-uri="http://findlaw5in5.libsyn.com/yelp-tinder-facebook"></a></div></div></div><div class="col-lg-6 col-md-6 col-sm-12 right-side"><p class="date">Jan 31, 2019</p><p class="lead"><p><strong>Discussed on this week's 5in5:</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2RZrABw"><span style="font-weight: 400;">Hassell v.
+Bird</span></a></li>
+<li style="font-weight: 400;"><a href=
+"https://ind.pn/2TjxR7z"><span style="font-weight: 400;">Fortnite
+Money Laundering</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2DLBU7q"><span style="font-weight: 400;">Monea v.
+US</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2sW1AI6"><span style="font-weight: 400;">Candelore
+v. Tinder, Inc.</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2Gfbg8r"><span style="font-weight: 400;">US v.
+Jackson</span></a></li>
+</ul>
+<p><strong>Relevant Articles</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2t05UX0"><span style="font-weight: 400;">SCOTUS Lets
+Bad Yelp Review Live</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2sZKDg4"><span style="font-weight: 400;">Move Over
+Ozark, Fortnite Used for Money Laundering</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2RYAuyZ"><span style="font-weight: 400;">Infomercial
+Mogul Loses Appeal After 12 Years in Prison</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2BbLjn2"><span style="font-weight: 400;">Tinder
+Pricing Discriminated...</span></a></li>
+</ul>
+</p></p><div class="row"><div class="col-md-12 text-right show_more"><a data-iframe-id="embed_8469470"  class="read_more" href="http://findlaw5in5.libsyn.com/yelp-tinder-facebook">Read More</a></div></div></div></div><hr><div class="row libsyn-item libsyn libsyn-item-free libsyn-item-8380970" data-id="8380970"><div class="col-lg-6 col-md-6 left-side libsyn-item-8380970"><h2 class="section-heading"><a data-iframe-id="embed_8380970"  class="read_more" href="http://findlaw5in5.libsyn.com/pizza-pinkertons-airbnb">Pizza, Pinkertons, Airbnb</a></h2><iframe id="embed_8380970"  title="Pizza, Pinkertons, Airbnb" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/8380970/height/90/theme/custom/thumbnail/yes/preload/no/direction/forward/tdest_id/750790/render-playlist/no/custom-color/ffa100/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe><div class="row"><div class="col-lg-4 col-sm-4 download-div"><a href="http://findlaw5in5.libsyn.com/pizza-pinkertons-airbnb#comments" class="facebook-comments-count" data-uri="http://findlaw5in5.libsyn.com/pizza-pinkertons-airbnb"></a></div></div></div><div class="col-lg-6 col-md-6 col-sm-12 right-side"><p class="date">Jan 24, 2019</p><p class="lead"><p><strong>Discussed on this week's 5in5:</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2MsNCX6"><span style="font-weight: 400;">Take Two
+Interactive Software Inc. v. Pinkerton Consulting &amp;
+Investigations, Inc.</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2UcgFkl"><span style="font-weight: 400;">Robles v.
+Domino’s Pizza, LLC</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2Rdwvt2"><span style="font-weight: 400;">Maier v.
+Smith</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2CFGeDd"><span style="font-weight: 400;">Keep
+Chicago Livable v. City of Chicago</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2HED4Fs"><span style="font-weight: 400;">Moss v.
+Princip</span></a></li>
+</ul>
+<p><strong>Relevant Articles</strong></p>
+<ul>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2Dw9WMP"><span style="font-weight: 400;">Fair Use
+Law</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2WeXN69"><span style="font-weight: 400;">Domino’s
+Pizza’s Website Must be Accessible</span></a></li>
+<li style="font-weight: 400;"><a href=
+"http://bit.ly/2sIL7H1"><span style="font-weight: 400;">Details on
+State...</span></a></li>
+</ul>
+</p></p><div class="row"><div class="col-md-12 text-right show_more"><a data-iframe-id="embed_8380970"  class="read_more" href="http://findlaw5in5.libsyn.com/pizza-pinkertons-airbnb">Read More</a></div></div></div></div><hr>
+        </div>
+        <!-- /.container -->
+
+
+    </div>
+    <!-- /.content-section-a -->
+
+
+
+    <!-- About Modal -->
+    <div id="aboutModal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">About the Podcast</h4>
+                </div>
+                <div class="modal-body">
+                    <p>FindLaw's 5 Cases in 5 Minutes is a weekly podcast bringing you the most important, amusing, and outrageous legal decisions from the past week in just 5 short minutes. There are thrills, chills, and bitter pills in this weekly peek at our nation's courts designed to help you track the moving target of legal precedent.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Share Modal -->
+    <div id="shareModal" class="modal" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Share This Episode</h4>
+                </div>
+                <div class="modal-body">
+                    <p id="pw-share"><div class="addthis_inline_share_toolbox"></div></p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Private Premium Modal -->
+    <div id="loginModal" class="modal" role="dialog">
+        <div class="modal-dialog">
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title"><i class="fa fa-lock fa-lg"></i> Private Premium Login</h4>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        <form class="form-signin" method="POST" action="">
+                            <h5 class="form-signin-heading">Login</h5>
+                                <label for="inputEmail" class="sr-only">Email</label>
+                                <input type="email" id="inputEmail" name="email" class="form-control" placeholder="Email address" required autofocus>
+                                <label for="inputPassword" class="sr-only">Password</label>
+                                <input type="password" id="inputPassword" name="password" class="form-control" placeholder="Password" required>
+                                <p class="pull-right"><a href="'">Having trouble logging in?</a></p>
+                            <button name="Login for Premium Access" class="btn btn-lg btn-primary btn-block btn-widget-login" type="submit">Login <i class="fa fa-arrow-circle-right fa-lg pull-right"></i></button>
+                      </form>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Image Enlarge Modal -->
+    <div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                </div>
+                <div class="modal-body" style="text-align:center;">
+                    <img src="" id="imagepreview" style="width: auto; height: 300px;" >
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p class="copyright small pull-right">&copy; </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="http://static.libsyn.com/p/assets/platform/websuite/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="http://static.libsyn.com/p/assets/platform/websuite/js/bootstrap.js"></script>
+
+    <!-- Smart Menu JS -->
+    <script src="http://static.libsyn.com/p/assets/platform/websuite/js/jquery.smartmenus.js"></script>
+    <script src="http://static.libsyn.com/p/assets/platform/websuite/js/jquery.smartmenus.bootstrap.js"></script>
+
+
+
+
+    <script>
+    var addthis_config = {};
+    addthis_config.pubid = 'ra-57f683ee47f14d2b';
+
+    var lockScroll = false;
+    var premiumAuthorized = true;
+    var enablePremiumDownload = false;
+
+    function noPremium(){
+
+        
+        premiumAuthorized = false;
+
+    }
+
+    function adjustPlayerWidth(){
+        $(".producer-message iframe[src*='html5-player']").addClass('adjusted-player');
+        $(".libsyn-item iframe[src*='html5-player']").addClass('adjusted-player');
+        $(".libsyn-item-video iframe[src*='html5-player']").addClass('adjusted-player-video');
+        makeImagesResponsive();
+    }
+
+    function makeImagesResponsive(){
+        $(".right-side img").addClass("img-responsive");
+    }
+
+    function getFBCommentCount(uri,element){
+        var apiUrl = "//graph.facebook.com/?ids=" + uri;
+        var commentsCount = 0;        
+        $.ajax({
+            url: apiUrl,
+            success: function(result) {
+                commentsCount = result[uri].share.comment_count;
+                element.html('<i class="fa fa-comments" title="Leave a Comment"></i> ' + commentsCount + " Comment(s)");
+            }
+        }); 
+        return false;   
+    }
+
+    function updateCommentsCount(){
+        $(".facebook-comments-count" ).each(function() {
+            if($(this).html() == ""){
+                var pageIndex = $(this).data("uri");
+                getFBCommentCount(pageIndex,$(this));
+            }            
+        });
+    }
+
+    $(function() {
+
+        var lastScroll = 0;
+
+        $('#main-menu').on('show.bs.collapse', function () {
+            $(this).removeClass("navbar-fixed-top").addClass("navbar-static-top");
+            lastScroll = $(window).scrollTop();
+            $(window).scrollTop(0);
+        });
+
+        $('#main-menu').on('hide.bs.collapse', function () {
+            $(window).scrollTop(lastScroll);
+            $(this).removeClass("navbar-static-top").addClass("navbar-fixed-top");
+        });
+
+        window.fbAsyncInit = function() {
+            FB.Canvas.setAutoGrow();
+        }
+
+        function sizeChangeCallback() {
+            FB.Canvas.setSize({ width: 520, height: 1400 });
+        }
+
+        //social tooltip instantiation
+        $('[data-toggle="tooltip"]').tooltip();
+
+        //share link
+        $(document.body).on("click",".share-link", function(event) {
+
+            var url = $(this).data('item-url');
+            var title = $(this).data('item-title');
+            var image = $(this).data('item-image-url');
+
+            $.getScript( "//s7.addthis.com/js/300/addthis_widget.js#async=1" )
+                .done(function( script, textStatus ) {
+                    addthis.init();
+                    addthis.update('share', 'url', url);
+                    addthis.update('share', 'title', title);
+                    addthis.update('share', 'description', "");
+                    addthis.update('share', 'image', image)
+                })
+                .fail(function( jqxhr, settings, exception ) {
+                    //do nothing
+                });
+        });
+
+        //resize players
+        adjustPlayerWidth();
+
+        //change profile pic on scroll
+        $(window).scroll(function(){
+            if($(window).scrollTop() > 225){
+                $(".profile").addClass('profile-small');
+            }
+            else{
+                $(".profile").removeClass('profile-small');
+            }
+        });
+
+        // get all premium episodes
+        var show_id = '125881';
+        var id_prefix = "libsyn-item-";
+        var episode_ids = new Array(); // For some reason, this line was causing Firefox to become unresponsive.
+        $('.libsyn-item-premium').each(function(index){
+            var id = $(this).data('id');
+            episode_ids.push(id);
+        });
+
+        var episodes =  (episode_ids.length > 0) ? episode_ids.join(',') : 0;
+
+        $.ajax({
+            type: 'GET',
+            url: "//my.libsyn.com/auth/check-premium-episodes",
+            data: {show_id: show_id, episodes: episodes},
+            dataType: 'jsonp',
+            success:function(json){
+                if(typeof json.success != "undefined"){
+                    // hide premium promos
+                    $('.producer_message_premium, .widget-login').remove();
+                    $('.libsyn-item-premium').addClass('libsyn-item-free').removeClass('libsyn-item-premium');
+
+                        $('.btn-login-logout').attr("href", "//my.libsyn.com/auth/logout?referer=http%3A%2F%2Ffindlaw5in5.libsyn.com%2F").text("Log Out").addClass("btn-logout");
+                        var premHTML = '<p><i class="fa fa-check-circle"></i> You Have Premium Access</p>';
+                        premHTML += '<sub class="pull-right" id="settings-link"><a target="_blank" href="//my.libsyn.com/get/findlaw5in5"><i class="fa fa-cog"></i> View Payment Settings</a></sub>';                         $('.premium-message').empty().removeClass("alert-danger").addClass("alert-success").html(premHTML);
+                        $('a.alert-link').css("cursor","context-menu").click(function(e) {
+                            e.preventDefault();
+                        });
+                } else {
+                    noPremium();
+                }
+            },
+            error:function(xhr, textStatus, errorThrown){
+                noPremium();
+            }
+        });
+
+
+        //image modal
+        $(document.body).on("click",".image-pop", function() {
+           $('#imagepreview').attr('src', $(this).attr('src'));
+           $('#imagemodal').modal('show');
+        });
+
+        updateCommentsCount();
+ 
+    });
+
+    
+    var page_filter = 1;
+    var category_filter = "";
+    var text_filter = "";
+    var size_filter = "5";
+    var year_filter = "0";
+    var month_filter = "0";
+    var text_posts_only = false;
+    var premium_filter = false;
+    var player_position = "above";
+
+    //lets create widget bar
+
+    var colWidth = 6;
+
+    function escapeHtml(text) {
+      return text
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#039;");
+    }
+
+    //load more on bottom of page
+    $(window).scroll(function () {
+
+        if(!lockScroll){
+            if ($(window).scrollTop() >= $(document).height() - $(window).height() - 60) {
+
+                lockScroll = true;
+
+                var requestUrl = "http://findlaw5in5.libsyn.com/";
+                requestUrl += "/page/"+ (page_filter + 1);
+
+                if(text_posts_only){
+                    requestUrl += "/podcast/blog";
+                }
+                else if(premium_filter){
+                    requestUrl += "/search/is_premium";
+                }
+                else if(text_filter != ""){
+                    requestUrl += "/search/"+ text_filter;
+                }
+                else if(month_filter != 0) {
+                    requestUrl += "/"+ year_filter +"/"+ month_filter;
+                }
+                else if(year_filter != 0) {
+                    requestUrl += "/" + year_filter;
+                }
+                else {
+                    requestUrl += (category_filter != "" ? "/category/"+category_filter : "");
+                }
+
+                requestUrl += "/render-type/json";
+
+                $.ajax({
+                    type: 'GET',
+                    url: requestUrl,
+                    async: false,
+                    success:function(json){
+                        var items = JSON.parse(json);
+                        if(items.length > 0){
+                            for(var i = 0; i < items.length; i++){
+                                var item = new Array();
+                                item = items[i];
+
+                                var isTextOnly = typeof item.primary_content == 'undefined';
+                                var isVideo;
+
+                                if(isTextOnly){
+                                    isVideo = false;
+                                } else {
+                                    isVideo = item.primary_content.file_class == "video";
+                                }
+
+                                //create action buttons
+                                var actionButtonsRow = '<div class="row">';
+                                                                    if(isTextOnly){
+                                        var escapedItemTitle = escapeHtml(item.item_title);
+                                        actionButtonsRow += '<div class="col-lg-4 col-sm-4 share-div">';
+                                        actionButtonsRow += '<a class="share-link" href="" data-image-url="'+ item.image_url +'" data-item-url="'+ item.full_item_url +'" data-item-title="'+ escapedItemTitle +'" data-toggle="modal" data-target="#shareModal">';
+                                        actionButtonsRow += '<i class="fa fa-share-alt" title="Share This Episode"></i> Share</a></div>';
+                                    }
+
+                                
+                                if(item.display_download_link == true){
+                                    if(isTextOnly){
+                                        actionButtonsRow += '<div class="col-lg-4 col-sm-4 download-div"><a href="' + item.primary_content.url_secure +'" download><i class="fa fa-download" title="Download This Episode"></i> Download</a></div>';
+                                    }
+                                }
+
+                                                                    //actionButtonsRow += '<div class="col-lg-4 col-sm-4 download-div"><a href="' + item.full_item_url + '#comments"><i class="fa fa-comments" title="Leave a Comment"></i> <span id="item_'+ item.item_id + '_count" class="fb-comments-count" data-href="'+ item.full_item_url +'"></span> Comment(s)</a></div>';
+
+                                    actionButtonsRow += '<div class="col-lg-4 col-sm-4 download-div"><a href="' + item.full_item_url + '#comments" class="facebook-comments-count" data-uri="' + item.full_item_url + '"></a></div>';
+
+                                
+                                 if(item.extra_content.length > 0){
+                                    for (var x = 0; x < item.extra_content.length; x++) {
+                                        if(item.extra_content[x].file_class == "pdf"){
+                                             var extraContentLabel = item.extra_content[x].content_title !== "" ? item.extra_content[x].content_title : item.extra_content[x].content_type;
+                                             actionButtonsRow += '<div class="col-lg-4 col-sm-4 download-div"><a href="' + item.extra_content[x].url +'" download><i class="fa fa-download" title="Bonus content"></i> ' + extraContentLabel + '</a></div>';
+                                        } else {
+                                            if(enablePremiumDownload == true){
+                                                 var extraContentLabel = item.extra_content[x].content_title !== "" ? item.extra_content[x].content_title : item.extra_content[x].content_type;
+                                                 actionButtonsRow += '<div class="col-lg-4 col-sm-4 download-div"><a href="' + item.extra_content[x].url +'" download><i class="fa fa-download" title="Bonus content"></i> ' + extraContentLabel + '</a></div>';
+                                            }
+                                        }
+
+                                    }
+                                }
+                                actionButtonsRow += "</div>";
+
+
+                                //begin row
+                                html = '<div class="row libsyn-item libsyn' + (isVideo == true ? '-video' : '') + ' libsyn-item-' + item.premium_state + ' libsyn-item-'+ item.item_id +'" data-id="'+ item.item_id +'">';
+
+                                if(isTextOnly){
+                                    html += '<div class="col-lg-12" col-md-12 left-side libsyn-item-'+ item.item_id +'">';
+                                    html += '<h2 class="section-heading"><a href="'+ item.full_item_url +'">'+ item.item_title +'</a>';
+                                    html += '</h2>';
+                                    html += '<p class="date">'+ item.release_date +'</p>';
+                                    html += '<p class="lead">'+ item.item_body_short +'</p>';
+                                    html += '<div class="row"><div class="col-md-12 text-right show_more">';
+                                    html += '<a href="'+ item.full_item_url +'">Read More</a></div></div>';
+                                    html += actionButtonsRow;
+                                    html += '</div>';
+                                } else {
+
+                                    //player
+                                    var playerSide = '<h2 class="section-heading"><a data-iframe-id="embed_'+item.item_id+'" class="read_more" href="'+item.full_item_url+'">'+item.item_title+'</a>';
+                                    playerSide += '</h2>';
+                                    if(item.premium_state == "premium" && !premiumAuthorized){
+                                        playerSide += '<h3><i class="fa fa-lock"></i> This is a Premium Episode</h3>';
+                                    } else {
+
+                                        if(item.primary_content.file_class == "pdf"){
+                                            playerSide += '<a href="' + item.primary_content.url_secure +'" download class="pdf-download"><i class="fa fa-file-pdf-o" title="Download PDF"></i> Download PDF</a>';
+                                        } else {
+                                            playerSide += item.player;
+                                        }
+
+                                        playerSide += actionButtonsRow;
+                                    }
+
+                                    //description
+                                    var descriptionSide = '<p class="date">'+item.release_date+'</p>';
+                                    descriptionSide += '<p class="lead">'+item.item_body_short+'</p>';
+                                    descriptionSide += '<div class="row"><div class="col-md-12 text-right show_more">';
+                                    descriptionSide += '<a data-iframe-id="embed_'+item.item_id+'" class="read_more" href="'+item.full_item_url+'">Read More</a></div></div>';
+
+                                    html += '<div class="col-lg-'+colWidth+' col-md-'+colWidth+' col-sm-12 left-side">';
+                                    html += player_position == "above" ? playerSide : descriptionSide;
+                                    html += '</div>';
+
+                                    html += '<div class="col-lg-'+colWidth+' col-md-'+colWidth+' col-sm-12 right-side">';
+                                    html += player_position == "above" ? descriptionSide : playerSide;
+                                    html += '</div>';
+                                }
+
+
+                                html += '</div>';
+                                html += '<hr>';
+
+                                //add to container
+                                $(".item-container").append(html);
+
+                            }
+
+                            page_filter++;
+                            adjustPlayerWidth();
+                            lockScroll = false;
+                            updateCommentsCount();
+                        } else {
+                            lockScroll = true;
+                        }
+                    },
+                    error:function(xhr, textStatus, errorThrown){
+                        console.log(errorThrown);
+                    }
+                });
+            }
+        }
+     });
+    
+
+    $("#btn-send-contact").click(function(event){
+        event.preventDefault();
+
+        var error = "";
+        //validate
+        var valid = true;
+        $('#podcast-page-contact-form').find(':input:not(button)').each(function(){
+            var name = $(this).attr("name");
+            var value = $(this).val();
+			if (typeof name != 'undefined' && value == ""){
+				valid = false;
+                return false;
+            }
+        });
+
+        if(valid){
+            //submit form
+            var datastring = $("#podcast-page-contact-form").serialize();
+            $.ajax({
+                type: "POST",
+                url: "https://web-support.libsyn.com/contact/submit",
+                data: datastring,
+                dataType: "json",
+                success: function(data) {
+                    if(data == false){
+                        error = "<strong>Error</strong> Your message could not be sent at this time. Please try again later.";
+                        $("#podcast-page-contact-form-error").html(error).fadeIn().delay(5000).fadeOut();
+                    } else {
+                        $('#podcast-page-contact-form').find(":input").val("").hide();
+                        $('#podcast-page-contact-form').fadeOut();
+                        $("#podcast-page-contact-form-success").show();
+                    }
+                },
+                error: function() {
+                    error = "<strong>Error</strong> Your message could not be sent at this time. Please try again later.";
+                    $("#podcast-page-contact-form-error").html(error).fadeIn().delay(5000).fadeOut();
+                }
+            });
+
+        } else {
+            error = "<strong>Error</strong> Please fill out all fields and submit again.";
+            $("#podcast-page-contact-form-error").html(error).fadeIn().delay(5000).fadeOut();
+            return false;
+        }
+
+    });
+
+    
+    
+    var playerStatusRequestSent = false;
+    var href = null;
+    $(document).on('click', ".read_more", function (e){
+        e.preventDefault();
+        href = $(this).attr("href");
+        var iframeId = $(this).data("iframe-id");
+        var iframeHref = $(location).attr('protocol') + $("#"+iframeId).attr("src");
+        var receiver = document.getElementById(iframeId).contentWindow;
+        window.addEventListener('message', receiveMessage);
+        receiver.postMessage('player_status_request', iframeHref);
+        playerStatusRequestSent = true;
+    });
+
+    function receiveMessage(e) {
+
+        if(playerStatusRequestSent){
+            try {
+                var playerData = JSON.parse(e.data);
+                if(typeof(playerData.elapsed) != "undefined" && playerData.elapsed != "00:00:00"){
+                    localStorage.setItem(href, JSON.stringify(playerData));
+                }
+                if(href !== null){
+                    window.location = href;
+                }
+            } catch (e) {
+                return false;
+            }
+        }
+    }
+
+    
+
+    </script>
+
+</body>
+
+</html>
+

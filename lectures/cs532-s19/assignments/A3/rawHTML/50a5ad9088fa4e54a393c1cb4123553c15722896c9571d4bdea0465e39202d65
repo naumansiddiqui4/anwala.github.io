@@ -1,0 +1,324 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°ããã¦ã¹ã¯ãªã¼ãã³ã°å°éåºã®ã©ã¤ããã¼ã">
+<meta name="keywords" content="ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°,ãã¦ã¹ã¯ãªã¼ãã³ã°,ãã¹ã«ã¼ã ,ã­ããã³,ã¬ã³ã¸ãã¼ã,é¢¨åéæ´æµ,åºã¯ãã¯ã¹,ãã©ã³ã,çªãµãã·,ç©ºå®¤æ¸æ">
+<title>æ ªå¼ä¼ç¤¾ã©ã¤ããã¼ãã</title>
+<link rel="stylesheet" type="text/css" href="common/js/slick/slick.css">
+<link rel="stylesheet" type="text/css" href="common/css/common.css">
+<link rel="stylesheet" type="text/css" href="css/index.css">
+<script src="common/js/jquery.js"></script>
+<script src="common/js/slick/slick.js"></script>
+<script src="common/js/common.js"></script>
+<script src="common/js/jquery.matchHeight.js"></script>
+<script>
+$(function(){
+	$('#main .listUl li').matchHeight();
+	$('.comPhotoList li .photo').matchHeight();
+	$('.comPhotoList li .title').matchHeight();
+	$('.comPhotoList li .txt').matchHeight();
+	$('.comPhotoList li .price').matchHeight();
+
+	var nn =$('.mainVisual .imgList').find('li').length;
+	$('.mainVisual .imgList').slick({
+		centerMode: true,
+		slidesToShow: 1,
+		centerPadding: 0,
+		variableWidth: true,
+		slidesToScroll: 1,
+		dots: false,
+		pauseOnHover: false,
+		pauseOnFocus: false,
+		autoplay: true,	
+		fade: false,
+		arrows: true,
+		responsive: [
+		{
+		breakpoint: 768,
+			settings: {
+			slidesToShow: 1,
+			slidesToScroll: 1,
+			variableWidth: false
+	}
+	}
+	],	
+});
+});
+</script>
+<!--[if lt IE 9]>
+<script src="common/js/html5.js"></script>
+<![endif]-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57529486-2"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+
+  gtag('config', 'UA-57529486-2');
+
+</script>
+<link rel="icon" href="common/img/favicon.ico" type="image/x-icon">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TZJRRQT');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body>
+<div id="container"><!-- #BeginLibraryItem "/Library/header.lbi" -->
+<header id="gHeader">
+<div class="hInfo">
+	<div class="hInner clearfix">
+		<h1><a href="index.html"><span class="info"><span>ãã¦ã¹ã¯ãªã¼ãã³ã°ã»</span>ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°å°éåº</span><img src="common/img/logo.png" alt="LIFE HEARTS ã©ã¤ããã¼ã" class="pc"><img src="common/img/sp_logo.gif" alt="LIFE HEARTS ã©ã¤ããã¼ã" class="sp"></a></h1>
+		<div class="rBox">
+			<div class="topBox clearfix">
+				<div class="subBox">
+					<div class="lImg"><img src="common/img/h_img.png" alt="" class="pc"><img src="common/img/sp_h_img.jpg" width="99" alt="" class="sp"></div>
+					<div class="btn"><a href="recruit/adopt.html">ã¹ã¿ããåé</a></div>
+				</div>
+				<p class="txt clearfix"><span class="tel">TEL<span>03-6657-9771</span></span><span class="time">åä»æé<br>
+					9:00ï½20:00ï¼å¹´ä¸­ç¡ä¼ï¼</span></p>
+			</div>
+			<div class="infoBox clearfix">
+				<ul class="txtLink">
+					<li><a href="contact/ml.html">ã¡ã«ãã¬ç»é²</a></li>
+					<li><a href="area/region.html">å¯¾å¿ã¨ãªã¢</a></li>
+					<li><a href="faq/answer.html">ãããããè³ªå</a></li>
+				</ul>
+				<div class="link"><a href="contact/example.html"><img src="common/img/icon02.png" alt="">ãè¦ç©ãã»ãåãåãã</a></div>
+			</div>
+		</div>
+		<div class="menu sp"><a href="#"><img src="common/img/sp_menu.gif" width="50" alt="menu" class="menuImg"><img src="common/img/sp_close.gif" width="50" alt="close" class="closeImg"></a></div>
+	</div>
+	<nav id="gNavi">
+		<ul class="clearfix">
+			<li class="navi01"><a href="index.html">ãã¼ã </a></li>
+			<li class="navi02"><a href="#">ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°</a>
+				<ul>
+					<li><a href="aircon/home_aircon.html">å®¶åº­ç¨ã¨ã¢ã³ã³</a></li>
+					<li><a href="aircon/business_aircon.html">æ¥­åç¨ã¨ã¢ã³ã³</a></li>
+				</ul>
+			</li>
+			<li class="navi03"><a href="#">ååã¯ãªã¼ãã³ã°</a>
+				<ul>
+					<li><a href="single/rangefood.html">ã¬ã³ã¸ãã¼ã</a></li>
+					<li><a href="single/kitchen.html">ã­ããã³</a></li>
+					<li><a href="single/bathroom.html">ãã¹ã«ã¼ã </a></li>
+					<li><a href="single/bathheater.html">é¢¨åééç®¡</a></li>
+					<li><a href="single/floor.html">ã¯ãã¯ã¹</a></li>
+					<li><a href="single/balcony.html">ãã©ã³ã</a></li>
+					<li><a href="single/window.html">çªãµãã·</a></li>
+				</ul>
+			</li>
+			<li class="navi04"><a href="#">ã»ããã¯ãªã¼ãã³ã°</a>
+				<ul>
+					<li><a href="set/set3.html">3ç¹ã»ãã</a></li>
+					<li><a href="set/set5.html">5ç¹ã»ãã</a></li>
+					<li><a href="set/rangekitchen.html">ã¬ã³ã¸ãã¼ã+ã­ããã³</a></li>
+					<li><a href="set/maternity.html">ãã¿ããã£å¿æ´ãã©ã³</a></li>
+				</ul>
+			</li>
+			<li class="navi05"><a href="#">å¨ä½æ¸æ</a>
+				<ul>
+					<li><a href="whole/occupied.html">å±ä½ä¸­</a></li>
+					<li><a href="whole/vacancy.html">ç©ºå®¤</a></li>
+				</ul>
+			</li>
+			<li class="navi06"><a href="company/info.html">ä¼ç¤¾æ¦è¦</a></li>
+		</ul>
+	</nav>
+	</div>
+</header>
+<div class="spBox">
+	<ul class="spNavi clearfix">
+		<li><a href="#">ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°</a>
+			<ul class="clearfix">
+				<li><a href="aircon/home_aircon.html"><span>å®¶åº­ç¨ã¨ã¢ã³ã³</span></a></li>
+				<li><a href="aircon/business_aircon.html"><span>æ¥­åç¨ã¨ã¢ã³ã³</span></a></li>
+			</ul>
+		</li>
+		<li><a href="#">ååã¯ãªã¼ãã³ã°</a>
+			<ul class="clearfix">
+				<li><a href="single/rangefood.html"><span>ã¬ã³ã¸ãã¼ã</span></a></li>
+				<li><a href="single/kitchen.html"><span>ã­ããã³</span></a></li>
+				<li><a href="single/bathroom.html"><span>ãã¹ã«ã¼ã </span></a></li>
+				<li><a href="single/bathheater.html"><span>é¢¨åééç®¡</span></a></li>
+				<li><a href="single/floor.html"><span>ã¯ãã¯ã¹</span></a></li>
+				<li><a href="single/balcony.html"><span>ãã©ã³ã</span></a></li>
+				<li><a href="single/window.html"><span>çªãµãã·</span></a></li>
+			</ul>
+		</li>
+		<li><a href="#">ã»ããã¯ãªã¼ãã³ã°</a>
+			<ul class="clearfix">
+				<li><a href="set/set3.html"><span>3ç¹ã»ãã</span></a></li>
+				<li><a href="set/set5.html"><span>5ç¹ã»ãã</span></a></li>
+				<li><a href="set/rangekitchen.html"><span>ã¬ã³ã¸ãã¼ã+ã­ããã³</span></a></li>
+				<li><a href="set/maternity.html"><span>ãã¿ããã£å¿æ´ãã©ã³</span></a></li>
+			</ul>
+		</li>
+		<li><a href="#">å¨ä½æ¸æ</a>
+			<ul class="clearfix">
+				<li><a href="whole/occupied.html"><span>å±ä½ä¸­</span></a></li>
+				<li><a href="whole/vacancy.html"><span>ç©ºå®¤</span></a></li>
+			</ul>
+		</li>
+		<li><a href="company/info.html">ä¼ç¤¾æ¦è¦</a></li>
+	</ul>
+	<div class="spBtn"><a href="contact/example.html"><img src="common/img/sp_icon03.png" width="29" alt="">ç¡æãè¦ç©ãã»ãåãåããã¯ãã¡ã</a></div>
+	<ul class="btmUl clearfix">
+		<li><a href="area/region.html">å¯¾å¿ã¨ãªã¢</a></li>
+		<li><a href="faq/answer.html">ãããããè³ªå</a></li>
+		<li><a href="contact/ml.html">ã¡ã«ãã¬ç»é²</a></li>
+		<li><a href="recruit/adopt.html">ã¹ã¿ããåé</a></li>
+	</ul>
+</div>
+<!-- #EndLibraryItem --><div class="mainVisual">
+		<ul class="imgList">
+			<li><a href="whole/vacancy.html"><img src="img/index/main_img04.jpg" alt="å­¦çå¯®ã»ã¯ã³ã«ã¼ã ãã³ã·ã§ã³ãªã©ãéå»å¾ã»å¥å±åã®ç©ºå®¤ãã¯ãªã¼ãã³ã°ãã¾ã" class="pc"><img src="img/index/sp_main_img04.jpg" alt="å­¦çå¯®ã»ã¯ã³ã«ã¼ã ãã³ã·ã§ã³ãªã©ãéå»å¾ã»å¥å±åã®ç©ºå®¤ãã¯ãªã¼ãã³ã°ãã¾ã" class="sp"></a></li>
+			<li><a href="aircon/home_aircon.html"><img src="img/index/main_img01.jpg" alt="å®å¿ã®ä¸å¾æéï¼ ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°ï¼å£æãï¼ 1å°ç® 11,000å 2å°ç® 8,800å 3å°ç®ä»¥é 7,800å â»å¨ã¦ç¨è¾¼ä¾¡æ ¼ã§ã" class="pc"><img src="img/index/sp_main_img01.jpg" alt="å®å¿ã®ä¸å¾æéï¼ ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°ï¼å£æãï¼ 1å°ç® 11,000å 2å°ç® 8,800å 3å°ç®ä»¥é 7,800å â»å¨ã¦ç¨è¾¼ä¾¡æ ¼ã§ã" class="sp"></a></li>
+			<li><a href="#"><img src="img/index/main_img02.jpg" alt="æ³äººãã©ã³ åºèã»ã¯ãªããã¯ã»ããã«ã»å·¥å ´ãªã©ã®ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°ãæ½è¨­æ¸æãæ¿ã£ã¦ããã¾ã" class="pc"><img src="img/index/sp_main_img02.jpg" alt="æ³äººãã©ã³ åºèã»ã¯ãªããã¯ã»ããã«ã»å·¥å ´ãªã©ã®ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°ãæ½è¨­æ¸æãæ¿ã£ã¦ããã¾ã" class="sp"></a></li>
+			<li><a href="https://line.me/R/ti/p/%40xya8438y" target="_blank"><img src="img/index/main_img03.jpg" alt="LINE@ ãå¾ãªæå ±ãLINEã§ãå±ããã¾ã æ ªå¼ä¼ç¤¾ã©ã¤ããã¼ãã®LINE@ã¯ããã¾ããï¼åã ã¡è¿½å ããQRã³ã¼ããèª­ã¿è¾¼ããIDã@xya8438yãã§ç»é²ãã¦ãã ãã QRã³ã¼ã @xya8438y" class="pc"><img src="img/index/sp_main_img03.jpg" alt="LINE@ ãå¾ãªæå ±ãLINEã§ãå±ããã¾ã æ ªå¼ä¼ç¤¾ã©ã¤ããã¼ãã®LINE@ã¯ããã¾ããï¼åã ã¡è¿½å ããQRã³ã¼ããèª­ã¿è¾¼ããIDã@xya8438yãã§ç»é²ãã¦ãã ãã QRã³ã¼ã @xya8438y" class="sp"></a></li>
+		</ul>
+	</div>
+	<section id="main">
+		<div class="content">
+			<div class="comTtlBox comTtlBox01">
+				<h2 class="headLine01">"ã©ã¤ããã¼ã"ãé¸ã°ãã¦ãã4ã¤ã®çç±<span class="en"><span>4</span> REASONS "LIFE HEARTS" IS CHOSEN</span></h2>
+			</div>
+			<ul class="listUl clearfix">
+				<li><img src="img/index/photo01.jpg" alt="å®ç¸¾"><span class="ttl">å®ç¸¾</span><span class="txt">ä»åºã«ã¯ããã§ããªã10å¹´ã®å®ç¸¾ãããã¾ã</span></li>
+				<li><img src="img/index/photo02.jpg" alt="ããã¼ã»éæ®"><span class="ttl">ããã¼ã»éæ®</span><span class="txt">ããã«ãã³ã®ãããªããã¼ã¨ç´°ããéæ®ãå¿æãã¦ãã¾ã</span></li>
+				<li><img src="img/index/photo03.jpg" alt="æè»æ§"><span class="ttl">æè»æ§</span><span class="txt">ãå®¢æ§ã®ãé½åã«æè»ã«å¯¾å¿ãã¾ã</span></li>
+				<li><img src="img/index/photo04.jpg" alt="è¿éã»ä¸å¯§"><span class="ttl">è¿éã»ä¸å¯§</span><span class="txt">ãç³è¾¼ï½ç¢ºèªï½ãµã¼ãã¹å®äºã¾ã§è¿éã»ä¸å¯§ã«å¯¾å¿ãã¾ã</span></li>
+			</ul>
+		</div>
+		<div class="detailBox">
+			<div class="content">
+				<div class="comTtlBox">
+					<h2 class="headLine01">ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°<span class="en">AIR CONDITIONING CLEANING</span></h2>
+					<p>å®¶åº­ç¨ã¨ã¢ã³ã³ã»æ¥­åç¨ã¨ã¢ã³ã³ã¨ãã«å¤ãã®ã¡ã¼ã«ã¼ãå¹åºãæ©ç¨®ã«å¯¾å¿ãã¦ããã¾ã</p>
+				</div>
+				<ul class="comPhotoList comPhotoList02 clearfix">
+					<li><a href="aircon/home_aircon.html"><span class="photo"><img src="img/index/photo05.jpg" alt="å®¶åº­ç¨ã¨ã¢ã³ã³" class="pc"><img src="img/index/sp_photo05.png" alt="å®¶åº­ç¨ã¨ã¢ã³ã³" class="sp"></span><span class="title">å®¶åº­ç¨ã¨ã¢ã³ã³</span><span class="txt">ã¨ã¢ã³ã³ã®ä¸­ã«åæºãã¦ããã«ãããã³ãªãã¯ãªã¼ãã³ã°ãã¾ã</span><span class="price">7,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+					<li><a href="aircon/business_aircon.html"><span class="photo"><img src="img/index/photo06.jpg" alt="æ¥­åç¨ã¨ã¢ã³ã³" class="pc"><img src="img/index/sp_photo06.png" alt="æ¥­åç¨ã¨ã¢ã³ã³" class="sp"></span><span class="title">æ¥­åç¨ã¨ã¢ã³ã³</span><span class="txt">ã¨ã¢ã³ã³ã®ä¸­ã«åæºãã¦ããã«ãããã³ãªãã¯ãªã¼ãã³ã°ãã¾ã</span><span class="price">16,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+				</ul>
+				<div class="comTtlBox">
+					<h2 class="headLine01">ååã¯ãªã¼ãã³ã°<span class="en">SINGLE  CLEANING</span></h2>
+					<p>ã¨ã¢ã³ã³ããã­ããã³ã»ãã¹ã«ã¼ã ã»ãã¤ã¬ãªã©ããèªå®ããé¨å±ããã«ãã«ã«ã¯ãªã¼ãã³ã°ãã¾ãã</p>
+				</div>
+				<ul class="comPhotoList comPhotoList01 clearfix">
+					<li><a href="single/rangefood.html"><span class="photo"><img src="img/index/photo07.jpg" alt="ã¬ã³ã¸ãã¼ã" class="pc"><img src="img/index/sp_photo07.png" alt="ã¬ã³ã¸ãã¼ã" class="sp"></span><span class="title">ã¬ã³ã¸ãã¼ã</span><span class="txt">é åºãªæ²¹æ±ããã¯ãªã¼ãã³ã°ãã¾ã</span><span class="price">14,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+					<li><a href="single/kitchen.html"><span class="photo"><img src="img/index/photo08.jpg" alt="ã­ããã³" class="pc"><img src="img/index/sp_photo08.png" alt="ã­ããã³" class="sp"></span><span class="title">ã­ããã³</span><span class="txt">æ²¹æ±ãã»ç¦ãä»ãã»æ°´å¢ãã¯ãªã¼ãã³ã°ãã¾ã</span><span class="price">14,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+					<li><a href="single/bathroom.html"><span class="photo"><img src="img/index/photo09.jpg" alt="ãã¹ã«ã¼ã " class="pc"><img src="img/index/sp_photo09.png" alt="ãã¹ã«ã¼ã " class="sp"></span><span class="title">ãã¹ã«ã¼ã </span><span class="txt">æµ´æ§½ã®ã«ãããããã«ã¯ãªã¼ãã³ã°ãã¾ã</span><span class="price">15,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+					<li><a href="single/bathheater.html"><span class="photo"><img src="img/index/photo10.jpg" alt="é¢¨åééç®¡" class="pc"><img src="img/index/sp_photo10.png" alt="é¢¨åééç®¡" class="sp"></span><span class="title">é¢¨åééç®¡</span><span class="txt">èå£ã»é¡ããããã«ã¯ãªã¼ãã³ã°ãã¾ã</span><span class="price">16,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+					<li><a href="single/floor.html"><span class="photo"><img src="img/index/photo11.jpg" alt="ã¯ãã¯ã¹" class="pc"><img src="img/index/sp_photo11.png" alt="ã¯ãã¯ã¹" class="sp"></span><span class="title">ã¯ãã¯ã¹</span><span class="txt">å°ããªãå­æ§ã®çºã«ãããã­ã¼ãªã³ã°ããããã«ãã¾ããã</span><span class="price">11,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+					<li><a href="single/balcony.html"><span class="photo"><img src="img/index/photo12.jpg" alt="ãã©ã³ã" class="pc"><img src="img/index/sp_photo12.png" alt="ãã©ã³ã" class="sp"></span><span class="title">ãã©ã³ã</span><span class="txt">é¨ãããã®å ´æãªã®ã§ãæ±ããç®ç«ã¤ç®æã§ã</span><span class="price">16,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+					<li><a href="single/window.html"><span class="photo"><img src="img/index/photo13.jpg" alt="çªãµãã·" class="pc"><img src="img/index/sp_photo13.png" alt="çªãµãã·" class="sp"></span><span class="title">çªãµãã·</span><span class="txt">ã¬ã©ã¹ããããã«ãªãã¨æ¯è²ããããã¾ã</span><span class="price">9,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+				</ul>
+				<div class="comTtlBox comTtlBox02">
+					<h2 class="headLine01">ã»ããã¯ãªã¼ãã³ã°<span class="en">PACKAGE  CLEANING</span></h2>
+					<p>ã¨ã¦ããå¾ãªã»ããã¯ãªã¼ãã³ã°ã§ã</p>
+				</div>
+				<ul class="comPhotoList clearfix">
+					<li><a href="set/set3.html"><span class="photo"><img src="img/index/photo14.jpg" alt="3ç¹ã»ãã" class="pc"><img src="img/index/sp_photo14.png" alt="3ç¹ã»ãã" class="sp"></span><span class="title">æ°´åã3ç¹ã»ãã</span><span class="txt">æµ´å®¤ã»æ´é¢æã»ãã¤ã¬ã®ï¼ç¹ã»ãã</span><span class="price">24,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+					<li><a href="set/set5.html"><span class="photo"><img src="img/index/photo15.jpg" alt="5ç¹ã»ãã" class="pc"><img src="img/index/sp_photo15.png" alt="5ç¹ã»ãã" class="sp"></span><span class="title">æ°´åã5ç¹ã»ãã</span><span class="txt">æµ´å®¤ã»æ´é¢æã»ãã¤ã¬ã»ã­ããã³ã»ã¬ã³ã¸ãã¼ãã®ï¼ç¹ã»ããã¯ãªã¼ãã³ã°</span><span class="price">54,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+					<li><a href="set/rangekitchen.html"><span class="photo"><img src="img/index/photo16.jpg" alt="ã¬ã³ã¸ãã¼ãï¼ã­ããã³" class="pc"><img src="img/index/sp_photo16.png" alt="ã¬ã³ã¸ãã¼ãï¼ã­ããã³" class="sp"></span><span class="title">ã¬ã³ã¸ãã¼ãï¼ã­ããã³</span><span class="txt">èª¿çã¾ãããã¾ããã¨ã¯ãªã¼ãã³ã°ãã¾ã</span><span class="price">23,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+					<li><a href="set/maternity.html"><span class="photo"><img src="img/index/photo17.jpg" alt="ãã¿ããã£å¿æ´ãã©ã³" class="pc"><img src="img/index/sp_photo17.png" alt="ãã¿ããã£å¿æ´ãã©ã³" class="sp"></span><span class="title">ãã¿ããã£å¿æ´ãã©ã³</span><span class="txt">ã¨ã¢ã³ã³ã»ãã¹ã«ã¼ã ã»é¢¨åééç®¡3ç¹ã»ãã</span><span class="price">29,800åï½<span>ï¼ç¨è¾¼ï¼</span></span></a></li>
+				</ul>
+				<div class="comTtlBox">
+					<h2 class="headLine01">å¨ä½æ¸æ<span class="en">WHOLE CLEANING</span></h2>
+					<p>ç¾å¨ããä½ã¾ãã®å®¶ã®ã¯ãªã¼ãã³ã°ã¨ç©ºå®¤ï¼å¥å±åã»éå»å¾ï¼ã®ã¯ãªã¼ãã³ã°ããããã¾ã</p>
+				</div>
+				<ul class="comPhotoList mb0 clearfix">
+					<li><a href="whole/occupied.html"><span class="photo"><img src="img/index/photo18.jpg" alt="å±ä½ä¸­" class="pc"><img src="img/index/sp_photo18.png" alt="å±ä½ä¸­" class="sp"></span><span class="title">å±ä½ä¸­</span><span class="txt">ç¾å¨ããä½ã¾ãã®å®¶ã®ã¯ãªã¼ãã³ã°ã§ã</span><span class="price">è¦è¦ç©ã</span></a></li>
+					<li><a href="whole/vacancy.html"><span class="photo"><img src="img/index/photo19.jpg" alt="ç©ºå®¤" class="pc"><img src="img/index/sp_photo19.png" alt="ç©ºå®¤" class="sp"></span><span class="title">ç©ºå®¤</span><span class="txt">ç©ºå®¤ï¼å¥å±åã»éå»å¾ï¼ã®ã¯ãªã¼ãã³ã°ã§ã</span><span class="price">è¦è¦ç©ã</span></span></a></li>
+				</ul>
+			</div>
+		</div><!-- #BeginLibraryItem "/Library/com_box.lbi" --><div class="comBox">
+			<div class="comContact">
+				<div class="content">
+					<div class="comLink"><a href="contact/example.html"><img src="common/img/icon03.png" alt="" class="pc"><img src="common/img/sp_icon03.png" width="29" alt="" class="sp">ç¡æãè¦ç©ãã»ãåãåããã¯ãã¡ã</a></div>
+					<p>ãã¼ã ãã¼ã¸ããã®ãæ³¨æã®ãå®¢æ§ã¯ã<br>
+						ååéå®1000åãå¤å¼ããããã¾ã</p>
+				</div>
+			</div>
+			<ul class="bannerList clearfix">
+				<li><a href="#" target="_blank"><img src="common/img/com_banner01.jpg" alt="æ³äººãã©ã³ åºèã»ã¯ãªããã¯ã»ããã«ã»å·¥å ´ãªã©ã®ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°ãæ½è¨­æ¸æãæ¿ã£ã¦ããã¾ã" class="pc"><img src="common/img/sp_com_banner01.jpg" alt="æ³äººãã©ã³ åºèã»ã¯ãªããã¯ã»ããã«ã»å·¥å ´ãªã©ã®ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°ãæ½è¨­æ¸æãæ¿ã£ã¦ããã¾ã" class="sp"></a></li>
+				<li><a href="https://line.me/R/ti/p/%40xya8438y" target="_blank"><img src="common/img/com_banner02.jpg" alt="LINE@ æ ªå¼ä¼ç¤¾ã©ã¤ããã¼ãã®LINE@ã¯ããã¾ããï¼ã¨ã£ã¦ããå¾ãªå²å¼ãã±ããéä¿¡ä¸­ QRã³ã¼ããèª­ã¿è¾¼ããIDã@xya8438yãã§ç»é²ãã¦ãã ãã QRã³ã¼ã @xya8438y" class="pc"><img src="common/img/sp_com_banner02.jpg" alt="LINE@ æ ªå¼ä¼ç¤¾ã©ã¤ããã¼ãã®LINE@ã¯ããã¾ããï¼ã¨ã£ã¦ããå¾ãªå²å¼ãã±ããéä¿¡ä¸­ QRã³ã¼ããèª­ã¿è¾¼ããIDã@xya8438yãã§ç»é²ãã¦ãã ãã QRã³ã¼ã @xya8438y" class="sp"></a></li>
+				<li><a href="lp/aircon01/index.html" target="_blank"><img src="common/img/com_banner03.jpg" alt="ã¨ã¢ã³ã³ããå¤ãªè­ãããã å¹ãåºå£ã«é»ãã«ãããã³ãªãè¦ããå¤©äºåãè¾¼ã¿ã¿ã¤ãã®ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°ã¯ç§ãã¡ã«ãä»»ããã ããï¼å¥³æ§åºé·ã¨çµé¨è±å¯ãªã¹ã¿ãã" class="pc"><img src="common/img/sp_com_banner03.jpg" alt="ã¨ã¢ã³ã³ããå¤ãªè­ãããã å¹ãåºå£ã«é»ãã«ãããã³ãªãè¦ããå¤©äºåãè¾¼ã¿ã¿ã¤ãã®ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°ã¯ç§ãã¡ã«ãä»»ããã ããï¼å¥³æ§åºé·ã¨çµé¨è±å¯ãªã¹ã¿ãã" class="sp"></a></li>
+			</ul>
+		</div><!-- #EndLibraryItem --></section><!-- #BeginLibraryItem "/Library/footer.lbi" -->
+<div class="pageTopBox">
+	<div class="pageTop"><a href="#container"><img src="common/img/page_top.png" alt="pageTop" class="pc"><img src="common/img/sp_page_top.png" width="30" alt="pageTop" class="sp"></a></div>
+</div>
+<footer id="gFooter">
+	<div class="fInner">
+		<ul class="fNavi clearfix">
+			<li>
+				<p>ã¨ã¢ã³ã³ã¯ãªã¼ãã³ã°</p>
+				<ul>
+					<li><a href="aircon/home_aircon.html">å®¶åº­ç¨ã¨ã¢ã³ã³</a></li>
+					<li><a href="aircon/business_aircon.html">æ¥­åç¨ã¨ã¢ã³ã³</a></li>
+				</ul>
+			</li>
+			<li>
+				<p>ååã¯ãªã¼ãã³ã°</p>
+				<ul>
+					<li><a href="single/rangefood.html">ã¬ã³ã¸ãã¼ã</a></li>
+					<li><a href="single/kitchen.html">ã­ããã³</a></li>
+					<li><a href="single/bathroom.html">ãã¹ã«ã¼ã </a></li>
+					<li><a href="single/bathheater.html">é¢¨åééç®¡</a></li>
+					<li><a href="single/floor.html">ã¯ãã¯ã¹</a></li>
+					<li><a href="single/balcony.html">ãã©ã³ã</a></li>
+					<li><a href="single/window.html">çªãµãã·</a></li>
+				</ul>
+			</li>
+			<li>
+				<p>ã»ããã¯ãªã¼ãã³ã°</p>
+				<ul>
+					<li><a href="set/set3.html">æ°´åã3ç¹ã»ãã</a></li>
+					<li><a href="set/set5.html">æ°´åã5ç¹ã»ãã</a></li>
+					<li><a href="set/rangekitchen.html">ã¬ã³ã¸ãã¼ã+ã­ããã³</a></li>
+					<li><a href="set/maternity.html">ãã¿ããã£å¿æ´ãã©ã³</a></li>
+				</ul>
+			</li>
+			<li>
+				<p>å¨ä½æ¸æ</p>
+				<ul>
+					<li><a href="whole/occupied.html">å±ä½ä¸­</a></li>
+					<li><a href="whole/vacancy.html">ç©ºå®¤</a></li>
+				</ul>
+			</li>
+			<li>
+				<p><a href="area/region.html">å¯¾å¿ã¨ãªã¢</a></p>
+				<ul>
+					<li><a href="faq/answer.html">ãããããè³ªå</a></li>
+					<li><a href="contact/example.html">ãåãåãã</a></li>
+					<li><a href="https://line.me/R/ti/p/%40xya8438y" target="_blank">LINEï¼ </a></li>
+					<li><a href="company/info.html">ä¼ç¤¾æ¦è¦</a></li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<div class="copyright">
+		<p>Copyright &copy; LIFE HEARTS Co.,Ltd  All Rights Reserved.</p>
+	</div>
+</footer>
+<!-- #EndLibraryItem --></div>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TZJRRQT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+</body>
+</html>

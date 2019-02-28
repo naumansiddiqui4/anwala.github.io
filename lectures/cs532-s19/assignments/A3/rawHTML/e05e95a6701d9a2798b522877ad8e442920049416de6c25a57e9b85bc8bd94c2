@@ -1,0 +1,1999 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+
+
+
+
+<head>
+
+	<script>
+	// QOS start time must be as early as possible.
+	var QOS_PAGE_START_MS = Date.now ? Date.now() : +new Date();
+	</script>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+	<meta name="google-site-verification" content="1Qh3vOiXB3qeXdLNFz3xnaBvEtDEWy54WGrZcgETHFQ" />
+	
+		<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0" />
+	
+	<meta name='format-detection' content='telephone=no'>
+	
+
+	
+		
+			<meta name="apple-mobile-web-app-capable" content="yes">
+			<meta name="apple-mobile-web-app-status-bar-style" content="white">
+			<meta name="apple-mobile-web-app-title" content="">
+			<link rel="apple-touch-icon" href="/static/images/logo-152x152.png">
+		
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	
+
+
+
+	<link href="/static/css/common.css?951037d912cc&6" rel="stylesheet">
+	<link href="/static/css/icons.css?0ea9a64c3807&6" rel="stylesheet">
+	
+	<link href="/static/css/fonts.css?bd42501872f8&6" rel="stylesheet">
+	
+	
+	<link rel="stylesheet" href="/static/css/common/web_popup.css?1ade6867223e&6">
+	
+	
+
+
+
+
+
+	
+		<meta name="title" content="Sagon Ngepros IBUNAFIFA Cemilan Bahan Kelapa Khas Bandung Renyah Nikmat Shopee Indonesia"/>
+		<meta name="description" content="Sagon Ngepros IBUNAFIFA Cemilan Bahan Kelapa Khas Bandung Renyah Nikmat  Garansi Shopee | Gratis Ongkir | 100% Bebas Biaya"/>
+		<link rel="canonical" href="https://shopee.co.id//Sagon-Ngepros-IBUNAFIFA-Cemilan-Bahan-Kelapa-Khas-Bandung-Renyah-Nikmat-i.40222837.1026061023"/>
+
+
+	
+
+
+	<title>Shopee</title>
+
+
+
+	<link rel="stylesheet" href="/static/css/shop/item.css?62b2bb64f550&6">
+	<link rel="stylesheet" href="/static/css/shop/item/shop_part_old.css?8d7ef65e8992&6">
+	<link rel="stylesheet" href="/static/css/shop/whole_sale.css?beed65b9e02b&6">
+	<link rel="stylesheet" href="/static/css/home/category/user_selling_points.css?b72c9cf78874&6">
+	
+	<link rel="stylesheet" href="/static/css/swiper.min.css?feae5b04f77e&6">
+	<link rel="stylesheet" href="/static/css/gswiper.css?568c22f78ba1&6">
+	<link rel="stylesheet" href="/static/css/popup_scroll_view.css?2d9442a9631e&6">
+	<link rel="stylesheet" href="/static/css/common/image_uploader.css?4d2112833ab3&6">
+	
+		<link rel="stylesheet" href="/static/css/shop/item-card-display-djangofy.css?48d1356c7074&6">
+	
+
+
+
+
+
+
+    <script type="text/javascript">
+    ;(function() {
+        var SCRIPT_FAIL_THRESHOLD = 90000;
+        setTimeout(function() {
+            if (window.$ || window.jQuery) {
+                // console.log("jquery has been loaded successfully");
+                return true;
+            } else {
+                // jquery is not loaded after max timeout, we considered the script has fail to load
+                // it's time to show error message
+
+                // clear whatever dom content we have
+                document.body.innerHTML = document.getElementById("tap-to-reload").innerHTML;
+                document.body.addEventListener("touchend", function() {
+                    window.location.reload(true); // reload from server, not cache
+                }, false);
+
+                // set alert message to vertical center
+                var alertMessageDom = document.getElementsByClassName("alert-message")[0];
+                var viewportHeight = document.documentElement.clientHeight;
+                alertMessageDom.style.marginTop
+                        = Math.floor((viewportHeight - alertMessageDom.style.lineHeight)/2) + "px";
+            }
+        }, SCRIPT_FAIL_THRESHOLD);
+    })();
+</script>
+<script id="tap-to-reload" type="text/template">
+    <style>
+        body {
+            vertical-align : middle;
+            text-align : center;
+        }
+        .alert-message {
+            font-size : 18px;
+            vertical-align : middle;
+            display : inline-block;
+        }
+    </style>
+    <p class="alert-message">
+        Tap to reload again
+    </p>
+</script>
+
+	<script type="text/javascript">
+	var ORIGIN_WHITE_LIST = ['www.facebook.com', 'facebook.com'];
+	function isSameOrigin() {
+		var selfHost = window.self.location.hostname;
+		var topHost = window.top.location.hostname;
+
+		if (topHost in ORIGIN_WHITE_LIST) {
+			return true;
+		}
+		// same domain, including 127.0.0.1, localhost etc
+		if (selfHost === topHost) {
+			return true;
+		}
+		// other domain not contain shopee keyword
+		if (topHost.indexOf('shopee') === -1) {
+			return false;
+		}
+		var topRootDomain = topHost.slice(topHost.indexOf('shopee'));
+		var selfRootDomain = selfHost.slice(selfHost.indexOf('shopee'));
+		return topRootDomain == selfRootDomain;
+	}
+
+	if (!isSameOrigin()) {
+		document.body.style.display = 'none';
+	} else { }
+</script>
+	<script type="text/javascript">
+
+
+
+{
+	function _getGlobals_()
+	{
+		var toRet = {};
+		try
+		{
+			for(var k in window)
+			{
+				if(window.hasOwnProperty(k))
+					toRet[k]= true;
+			}
+		}
+		catch(e){}
+		return toRet;
+	}
+	window._resetGlobals_ = function(resetTo)
+	{
+		var vars = resetTo;
+		for(var k in window)
+		{
+			if(window.hasOwnProperty(k) && vars[k] == null)
+			{
+				window[k] = null; //Note: delete doesn't work for window's fields.
+			}
+		}
+	};
+	if(navigator.userAgent.indexOf('Shopee') >= 0 && (navigator.userAgent.indexOf('iPhone') >= 0 || navigator.userAgent.indexOf('iPad') >= 0 || navigator.userAgent.indexOf('iPod') >= 0))
+	{
+		window.ORIGINAL_GLOBAL_VARS = _getGlobals_();
+	}
+	window.GTimeoutAndInterval = (function(){
+		var idsTimeout = {};
+		var idsInterval = {};
+		var funcSetTimeout = window.setTimeout;
+		var funcClearTimeout = window.clearTimeout;
+		var funcSetInterval = window.setInterval;
+		var funcClearInterval = window.clearInterval;
+
+		window.setTimeout = function(func, delay){
+			var id = funcSetTimeout(func, delay);
+			idsTimeout[id] = id;
+			return id;
+		};
+		window.clearTimeout = function(id){
+			funcClearTimeout(id);
+			delete idsTimeout[id];
+		};
+
+		window.setInterval = function(func, interval){
+			var id = funcSetInterval(func, interval);
+			idsInterval[id] = id;
+			return id;
+		};
+		window.clearInterval = function(id){
+			funcClearInterval(id);
+			delete idsInterval[id];
+		};
+
+		function clearAll(skipSelf)
+		{
+			for(var k in idsTimeout)
+				funcClearTimeout(k);
+			for(var k in idsInterval)
+				funcClearInterval(k);
+			idsTimeout = {};
+			idsInterval = {};
+			if(skipSelf) return;
+
+			window.setTimeout = funcSetTimeout;
+			window.setInterval = funcSetInterval;
+			window.clearTimeout = funcClearTimeout;
+			window.clearInterval = funcClearInterval;
+			funcSetTimeout = null;
+			funcClearTimeout = null;
+			funcClearInterval = null;
+			funcSetInterval = null;
+		}
+
+		return {
+			clearAll: clearAll,
+		};
+	})();
+
+	function hookEventTarget(target)
+	{
+		var p = target.prototype || target.__proto__;
+		if(!p) return;
+
+		p.addEventListenerBase = p.addEventListener;
+		p.addEventListener = function(type, listener)
+		{
+			if(!this.EventList) { this.EventList = {}; }
+			// This condition prevents the crash when jQueryMobile is re-evaluated after iOS cache invalidation. (Comment out this condition and force cache invalidation in iOS to see the crash in action.)
+			if(this.addEventListenerBase)
+				this.addEventListenerBase.apply(this, arguments);
+			if(!this.EventList[type]) { this.EventList[type] = []; }
+			var list = this.EventList[type];
+			for(var index = 0; index != list.length; index++)
+			{
+				if(list[index] === listener) { return; }
+			}
+			list.push(listener);
+		};
+
+		p.removeEventListenerBase = p.removeEventListener;
+		p.removeEventListener = function(type, listener)
+		{
+			if(!this.EventList) { this.EventList = {}; }
+			// This second condition prevents the crash when jQueryMobile is re-evaluated after iOS cache invalidation.
+			if((listener instanceof Function) && this.removeEventListenerBase)
+			{
+				this.removeEventListenerBase.apply(this, arguments);
+			}
+			if(!this.EventList[type]) { return; }
+			var list = this.EventList[type];
+			for(var index = 0; index != list.length;)
+			{
+				var item = list[index];
+				if(!listener)
+				{
+					this.removeEventListenerBase(type, item);
+					list.splice(index, 1); continue;
+				}
+				else if(item === listener)
+				{
+					list.splice(index, 1); break;
+				}
+				index++;
+			}
+			if(list.length == 0) { delete this.EventList[type]; }
+		};
+
+		p.removeAllEvents = function()
+		{
+			if(!this.EventList) return;
+			for(var type in this.EventList)
+			{
+				if(!this.EventList.hasOwnProperty(type)) continue;
+				var list = this.EventList[type];
+				if(!list) continue;
+				for(var j=0; j<list.length; j++)
+				{
+					this.removeEventListenerBase(type, list[j]);
+				}
+				delete this.EventList[type];
+			}
+		};
+	}
+
+	function unhookEventTarget(target)
+	{
+		var p = target.prototype || target.__proto__;
+		if(!p) return;
+
+		if(p.addEventListenerBase)
+			p.addEventListener = p.addEventListenerBase;
+		if(p.removeEventListenerBase)
+			p.removeEventListener = p.removeEventListenerBase;
+	}
+
+	try
+	{
+		// Note: Originally I wanted to do this with EventTarget.prototype...., but seems iOS doesn't expose EventTarget interface. So we have to do it one by one.
+		hookEventTarget(Window);
+		hookEventTarget(Document);
+		hookEventTarget(Element);
+	}
+	catch(e)
+	{
+		console.log('hookEventTarget.ex', e);
+	}
+}
+</script>
+
+<script type="text/javascript" src="/static/jslib/libphonenumber.js?2405fb8c65ba&6"></script>
+<script type="text/javascript" src="/static/jsutil_min/country.js?5f160e1c9511&6"></script>
+<script type="text/javascript" src="/static/jsutil_min/phone.js?43fab58b9eef&6"></script>
+
+
+
+
+	
+		
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+	var USERID = null;
+	var ALERT_LIKE_PRIVACY_MSG = false;
+	var CC_INSTALLMENT_PAYMENT_ELIGIBILITY = true;
+	var NON_CC_INSTALLMENT_PAYMENT_ELIGIBILITY = true;
+
+
+
+
+	var CURRENT_PATH = '/Sagon\u002DNgepros\u002DIBUNAFIFA\u002DCemilan\u002DBahan\u002DKelapa\u002DKhas\u002DBandung\u002DRenyah\u002DNikmat\u002Di.40222837.1026061023';
+
+	var CURRENT_SHOPID = 'None';
+	var VERSION = '';
+	var APPVER = '';
+	var LANGUAGE = 'id';
+	var IS_FB_APP = false;
+
+	var T_EM_H = '';
+
+
+</script>
+
+
+
+<script type="text/javascript">
+
+
+	var LOCALE = 'ID';
+	var ENVIRONMENT = 'LIVE';
+	var POPTAB_FIRST = true;
+	var POPTAB_FIRST_HASHTAG = false;
+	var SHOW_TOP_SALES_TABS = true;
+
+	var ITEM_IMAGE_BASE_URL = 'https://cf.shopee.co.id/file/';
+	var ITEM_VIDEO_BASE_URL = 'https://cv.shopee.co.id/video/';
+	var ROOT_DOMAIN = 'shopee.co.id';
+	var COOKIE_DOMAIN = 'shopee.co.id';
+
+	
+	var msg_server_error = 'Server Error';
+	var label_ok = 'OK';
+
+	var T_GA_ID = 'UA\u002D61904553\u002D8';
+	var T_GA_ID_PC = 'UA\u002D61904553\u002D8';
+	var T_FB_ID = '466924370133774';
+	var T_CRITEO_ID = '34652';
+
+
+
+
+	var T_BI_SIG = "SPC_T_ID";
+	var T_BI_IV = "SPC_T_IV";
+	var SHOW_SHOPEE_VERIFIED_FILTER = true;
+	var SHOW_IN_PAGE_FILTER = true;
+	var MARKET_TRACKING_TOKEN_NAME = "smtt_v0";
+	var MARKET_TRACKING_TOKEN_V2_NAME = "smtt";
+	var MARKET_TRACKING_ADS_AFFILIATION_TOKEN = "sp_af";
+	var RN_BUNDLE_VERSION_COOKIE_NAME = "SPC_RNBV";
+	var PRICEZA_MERCHANT_ID = 7077;
+	var CONFIG_WALLET_KYC = false;
+	var AIRPAY_CLIENT_API_ENDPOINT = 'https://capi.wallet.airpay.co.id';
+	var CONFIG_COIN_INFLATION = 1;
+	var CONFIG_CONTACT_US_NUMBER = JSON.parse('{\u0022phone_number\u0022:\u00221500702\u0022,\u0022operating_hours\u0022:\u0022Layanan Pelanggan 24 Jam, Senin s/d Minggu, termasuk Hari Libur Nasional.\u0022,\u0022email_address\u0022:\u0022support@shopee.co.id\u0022}')['phone_number'];
+
+
+	var IS_MALL_PAGE = true;
+	var STATIC_URL = '/static/';
+	var SIMPLE_VERSION = false;
+	var DEBUG = false;
+	var LOCALHOST = false;
+	var STAGING = false;
+	var ANDROID_FRIENDLY = false;
+	var ENABLE_RATING_REPLY = true;
+	var ADULT_AGE = '21';
+	var ENABLE_LOCATION_FILTER = true;
+	var ENABLE_LOCATION_FILTER_IN_PAGE = true;
+	var CONFIG_BRANDING_SHOPEE_WALLET_AS_MY_WALLET = false;
+	var SHOW_SOLD_COUNT = true;
+	var OPC_CART_MUST_HAVE_ADDRESS = true;
+	var CONFIG_FLASH_SALE_NAMED_AS_FLASH_DEAL = false;
+	var SHIPPING_OPTION_FILTER = true;
+	var ENABLE_SHIPPING_FILTER_PAGE = true;
+	var CONFIG_FLASH_SALE_NAME_KEY = "flash_sale";
+	var CONFIG_OFFICIAL_SHOP_ROOT_URL = "/mall";
+	var show_from_same_shop = true;
+	var CONFIG_SHOW_FROM_SAME_SHOP_SHOW_SECTION = true;
+	var ENABLE_OFFICIAL_SHOP_FILTER = true;
+	var ENABLE_OFFICIAL_SHOP_FILTER_IN_PAGE = true;
+	var ENABLE_CC_INSTALLMENT_PAYMENT = true;
+	var ENABLE_NON_CC_INSTALLMENT_PAYMENT = true;
+	var LOWEST_PRICE_GUARANTEE_SHOP = [{"userid":27994335,"shopid":27992951}];
+	var INSTALLMENT_FILTER = false;
+	var CONFIG_BRAND_LIST = true;
+	var CONFIG_RW_ONE_PAGE_CHECKOUT = true;
+	var CONFIG_ENABLE_LOCAL_WALLET = false;
+	var CONFIG_DIGIT_GROUP_SYMBOL = ".";
+	var CONFIG_FREE_SHIPPING_VOUCHER = true;
+	var TRACKING_URL_PARAMS = ["smtt","smtt_v0"];
+	var MARKET_UNIVERSAL_LANDING_PAGE_PREFIX = "/universal-link";
+
+
+	var _gaq = [];
+
+	var _djangofy_t_ = {};
+
+	var _transify_t_ = {};
+
+	var i18njs = false;
+
+	window.criteo_q = window.criteo_q || [];
+
+	window.RN_PERCENTAGE = {"default":100,"just_for_you":0,"checkout":100};
+	window.RN_PAGE_MIN_VERSION_ANDROID = {"default":21416,"checkout":21200};
+	window.RN_PAGE_MIN_VERSION_IOS = {"default":21400,"checkout":21200};
+	window.RN_PAGE_MIN_VERSION_BUNDLE = {"default":0,"order_paid":2066000};
+
+</script>
+
+
+	<script>
+  var gtmDataLayer = [{
+	  'country': window.LOCALE.toLowerCase(),
+	  'userid': window.USERID,
+	  'source': 'mweb'
+  }];
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','gtmDataLayer','GTM-WJZQSJF');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+	<script type="text/javascript" src="/static/jsutil_min/tracking/fb_init.js?73c87855330e&6" defer></script>
+	
+	<script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script>
+	<script type="text/javascript">
+		window.criteo_q.push({event: "setAccount", account: T_CRITEO_ID });
+		if(window.T_EM_H)
+			window.criteo_q.push({ event: "setEmail", email: window.T_EM_H });
+	</script>
+	
+
+
+
+
+
+	<script type="text/javascript" src="/static/jslib_min/jslib_base.js?2e45e2464ea8&6"></script>
+
+
+
+
+<script>
+_transify_t_["label_n_a"] = "N/A";
+_transify_t_["label_mil_id"] = "juta";
+_transify_t_["label_mil_ph"] = "jt";
+_transify_t_["label_ok"] = "OK";
+_transify_t_["label_mil_th"] = "juta";
+_transify_t_["tooltips_shipping_fee_included"] = "Gunakan fitur “Chat” untuk konfirmasi ongkos kirim dengan Penjual. Jika perlu, gunakan fitur \u0022Tawar\u0022 untuk menyesuaikan Harga (mengikuti ongkos kirim yang tepat).";
+_transify_t_["label_used"] = "Pernah Dipakai";
+_transify_t_["label_used_good"] = "Pernah pakai (kualitas bagus)";
+_transify_t_["label_years"] = "tahun";
+_transify_t_["label_apps"] = "Aplikasi";
+_transify_t_["text_download_shopee_for_more_function"] = "Silakan download aplikasi Shopee untuk menikmati lebih banyak fitur!";
+_transify_t_["alert_bank_account_wallet_pin_changed"] = "Permintaan Anda tidak dapat diproses. Mohon coba lagi nanti atau hubungi Customer Service kami di {{hotline}}";
+_transify_t_["label_short_for_number_100000000"] = "N/A";
+_transify_t_["label_copied_failed"] = "Gagal disalin";
+_transify_t_["label_within_hours"] = "Hitungan jam";
+_transify_t_["label_short_for_number_10000"] = "N/A";
+_transify_t_["label_latest"] = "Terbaru";
+_transify_t_["alert_set_rejected_account_default"] = "Anda tidak dapat menjadikan bank yang ditolak sebagai yang utama";
+_transify_t_["label_new_without_tags"] = "Baru (tanpa label)";
+_transify_t_["label_price"] = "Harga";
+_transify_t_["alert_bank_account_no_change"] = "Mohon ubah detil rekening bank untuk melanjutkan.";
+_transify_t_["label_cancel"] = "Nanti Saja";
+_transify_t_["label_year_abbr"] = "th";
+_transify_t_["alert_bank_account_duplicate"] = "Anda tidak dapat membuat 2 rekening bank yang sama";
+_transify_t_["alert_bank_info_not_valid"] = "Beberapa informasi rekening bank tidak sah, mohon masukkan kembali";
+_transify_t_["label_week"] = "minggu";
+_transify_t_["label_day"] = "hari";
+_transify_t_["tooltips_days_to_ship"] = "Jumlah hari yang dibutuhkan Penjual menyiapkan pengiriman Anda";
+_transify_t_["label_day_abbr"] = "hari";
+_transify_t_["label_not_set"] = "Belum ditetapkan";
+_transify_t_["tooltips_shipping_fee_included_my"] = "Chat dengan Penjual untuk negosiasi mengenai ongkos kirim, silakan chat dengan Penjual";
+_transify_t_["msg_ios_coming_soon"] = "Segera hadir untuk versi iOS";
+_transify_t_["label_popular"] = "Populer";
+_transify_t_["alert_delete_default_account"] = "Anda tidak dapat menghapus rekening bank utama";
+_transify_t_["label_hour"] = "jam";
+_transify_t_["label_prep_within"] = "dalam";
+_transify_t_["alert_delete_pending_account"] = "Anda tidak dapat menghapus rekening ini karena ada pesanan/dana yang belum diproses";
+_transify_t_["label_store_number"] = "No. Toko";
+_transify_t_["label_hours"] = "jam";
+_transify_t_["label_k_th"] = "พัน";
+_transify_t_["label_copied_successfully"] = "Berhasil disalin";
+_transify_t_["alert_bank_account_banned"] = "No. Rekening ini telah diblokir karena terdeteksi adanya kejanggalan. Mohon masukkan No. Rekening lainnya atau hubungi Customer Service kami.";
+_transify_t_["label_short_for_number_1000000"] = "jt";
+_transify_t_["label_new_with_defects"] = "Baru (dengan cacat)";
+_transify_t_["label_get"] = "Download Sekarang";
+_transify_t_["alert_bank_account_blacklisted"] = "No. Rekening ini telah diblokir karena terdeteksi adanya kejanggalan. Mohon masukkan No. Rekening lainnya atau hubungi Customer Service kami.";
+_transify_t_["label_k_vn"] = "k";
+_transify_t_["label_k_ph"] = "k";
+_transify_t_["alert_bank_account_reach_limit"] = "Anda telah mencapai jumlah akun bank maksimum yang diijinkan.";
+_transify_t_["label_hour_abbr"] = "jam";
+_transify_t_["label_new_others"] = "Baru lainnya";
+_transify_t_["label_days"] = "hari";
+_transify_t_["label_shopee"] = "Shopee";
+_transify_t_["label_year"] = "tahun";
+_transify_t_["label_k_id"] = "rb";
+_transify_t_["label_weeks"] = "minggu";
+_transify_t_["label_used_like_new"] = "Pernah Dipakai";
+_transify_t_["label_new_with_tags"] = "Baru";
+_transify_t_["msg_server_error"] = "Server Error";
+_transify_t_["label_mil_vn"] = "tr";
+_transify_t_["label_week_abbr"] = "minggu";
+_transify_t_["alert_bank_account_phone_changed"] = "Permintaan Anda tidak dapat diproses. Mohon coba lagi nanti atau hubungi Customer Service kami di {{hotline}}";
+_transify_t_["label_used_with_defects"] = "Pernah dipakai (dengan cacat)";
+_transify_t_["label_short_for_number_1000"] = "rb";
+_transify_t_["alert_edit_bank_account_error"] = "hanya rekening bank yang ditolak yang dapat diubah";
+_transify_t_["label_minute_abbr"] = "menit";
+_transify_t_["label_minute"] = "menit";
+_transify_t_["label_prep_morethan"] = "Lebih dari";
+_transify_t_["label_used_acceptable"] = "pernah dipakai (kualitas baik)";
+_transify_t_["label_distance"] = "Terdekat";
+_transify_t_["label_within_days"] = "Hitungan hari";
+_transify_t_["label_just_now"] = "Baru saja";
+_transify_t_["label_within_minutes"] = "Hitungan menit";
+_transify_t_["label_minutes"] = "menit";
+</script>
+<script type="text/javascript" src="/static/jsutil_min/site.js?61da21e8fe81&6"></script>
+<script>
+_transify_t_["label_help_center"] = "Pusat Bantuan";
+</script>
+<script type="text/javascript" src="/static/jsutil_min/help.js?a494889549bb&6"></script>
+
+
+
+
+
+<script>
+
+
+</script>
+
+<script type="text/template" id="shopee-action-sheet-item">
+
+<li class='action-sheet-item {% if data.disabled %}disabled{% endif %}' data-id={{data.id}}>
+	<div class='title'>
+		{{data.title}}
+	</div>
+	<div class='subtitle L12'>
+		{% if data.subtitle %}
+			{{data.subtitle}}
+		{% endif %}
+	</div>
+</li>
+
+</script>
+
+
+
+
+<script>
+
+
+</script>
+
+<script type="text/template" id="drop-down-menu-item">
+
+<li class='drop-down-menu-item {% if data.state %}drop-down-menu-item--disabled{% endif %}' data-id={{data.id}}>
+	<div class='drop-down-menu-item__content'>
+		<div class='drop-down-menu-item__content__title r14'>
+			{{data.title}}
+		</div>
+	</div>
+</li>
+
+</script>
+
+
+
+	<script>
+_transify_t_["msg_overseas_products_credit_card_only"] = "Gunakan Kartu Kredit atau Debit untuk checkout produk dari luar negeri.";
+_transify_t_["label_official_shops--TH"] = "Shopee Mall";
+_transify_t_["label_ok"] = "OK";
+_transify_t_["label_official_shops--ID"] = "Shopee Mall";
+_transify_t_["msg_you_will_receive_a_phone_call"] = "Kode verifikasi akan diinfokan kepada Anda melalui panggilan telepon dari Shopee.";
+_transify_t_["label_online"] = "Online";
+_transify_t_["msg_cancel_order_upgrade"] = "Pembeli telah mengajukan pembatalan atas pesanan ini. Mohon update aplikasi Shopee Anda untuk dapat menjawab pengajuan pembatalan dari Pembeli.";
+_transify_t_["label_official_shops--PH"] = "Shopee Mall";
+_transify_t_["label_your_activity_are_public"] = "Pengikut Anda sekarang dapat melihat aktivitas pemberian komentar dan favorit Anda";
+_transify_t_["msg_offline_payment_disabled_singular"] = "__seller__ tidak mengaktifkan fungsi Transaksi Offline.";
+_transify_t_["label_unexpected_error"] = "Halaman bermasalah. Mohon coba lagi.";
+_transify_t_["label_official_shops--VN"] = "Shopee Mall";
+_transify_t_["text_retrieve_location_failed"] = "Lokasi tidak bisa ditemukan";
+_transify_t_["label_official_shops--MY"] = "Shopee Mall";
+_transify_t_["label_official_shops--TW"] = "蝦皮商城";
+_transify_t_["label_active_date_ago"] = "Aktif __date__ lalu";
+_transify_t_["text_retrieve_location"] = "Memuat lokasi Anda...";
+_transify_t_["msg_app_go_send"] = "Mohon gunakan aplikasi Shopee untuk menambahkan informasi lokasi map Go\u002DSend.";
+_transify_t_["label_learn_more"] = "Pelajari Lebih Lanjut";
+_transify_t_["msg_total_price_exceed_channel_max"] = "Total pesanan yang dibuat telah melebihi batas yang diperbolehkan. Untuk keterangan lebih lanjut, hubungi Customer Service kami.";
+_transify_t_["text_waiting_for_location"] = "Mencari lokasi...";
+_transify_t_["label_all_categories_s"] = "semua kategori";
+_transify_t_["msg_buyer_address_not_support_cod"] = "Alamat Anda tidak mendukung metode COD";
+_transify_t_["msg_seller_has_blocked_you"] = "Pengguna ini telah membatasi penjualannya. Harap untuk membeli ke toko yang lain.";
+_transify_t_["label_filter"] = "Filter";
+_transify_t_["label_see_other_products"] = "Lihat Produk Lainnya";
+_transify_t_["label_edit_product"] = "Ubah Produk";
+_transify_t_["label_change_setting"] = "Ubah Pengaturan";
+_transify_t_["msg_payment_channel_banned_category"] = "Maaf, karena keranjang Anda memiliki produk dari __category__, __payment_channel__ telah dinonaktifkan.";
+_transify_t_["label_age_control_ok_customize"] = "LANJUT";
+_transify_t_["label_age_control_msgs_customize"] = "Anda harus diatas __{age}__ tahun untuk melihat konten ini. Silakan konfirmasi umur Anda.";
+_transify_t_["label_search_in"] = "Cari dalam";
+_transify_t_["label_share"] = "Share";
+_transify_t_["label_call_me"] = "Hubungi Saya";
+_transify_t_["label_ago"] = "__date__ lalu";
+_transify_t_["label_m"] = "m";
+_transify_t_["msg_promo_offline_no_multiple_checkouts"] = "Kode promo hanya dapat digunakan untuk pesanan pada satu Penjual. Mohon ubah keranjang Anda.";
+_transify_t_["label_cart"] = "Keranjang";
+_transify_t_["msg_total_price_below_min_amount"] = "Minimal transaksi menggunakan metode pembayaran ini adalah __min_amount__. Silakan pilih metode pembayaran lainnya untuk checkout.";
+_transify_t_["label_search_within_category"] = "Cari \u0022#{searchText}\u0022 dalam #{categoryName}";
+_transify_t_["msg_cod_temporarily_suspended"] = "COD telah dinonaktifkan sementara. Mohon menggunakan metode pembayaran yang lain.";
+_transify_t_["msg_pls_update_apps"] = "Update aplikasi Shopee Anda untuk menggunakan fitur ini.";
+_transify_t_["label_like"] = "Favorit";
+_transify_t_["label_cancel"] = "Nanti Saja";
+_transify_t_["label_official_shops--SG"] = "Shopee Mall";
+_transify_t_["msg_download_shopee_google"] = "Mohon download aplikasi Shopee melalui Google Play Store untuk menggunakan fitur ini.";
+_transify_t_["label_follow"] = "Ikuti";
+_transify_t_["msg_server_error"] = "Server Error";
+_transify_t_["msg_cod_not_all_supported_logistic"] = "Tidak semua jasa pengiriman mendukung COD";
+_transify_t_["msg_payment_option_maintenance"] = "__channelname__ sistem saat ini sedang dalam perbaikan, silakan pilih metode pembayaran yang lain.";
+_transify_t_["label_age_control_no_customize"] = "KEMBALI";
+_transify_t_["msg_order_total_exceed_cod_maximum"] = "Harga pesanan anda telah melebihi batas untuk COD (__cod_limit__ IDR). Mohon cek kembali pesanan anda atau pilih metode pembayaran yang lain untuk transaksi ini.";
+_transify_t_["label_km"] = "km";
+_transify_t_["alert_follow_limit"] = "Anda telah mencapai batas maksimal Mengikuti.";
+_transify_t_["label_following"] = "Mengikuti";
+_transify_t_["alert_follow_too_frequent"] = "Anda telah mencapai batas Mengikuti untuk hari ini. Silakan coba lagi besok.";
+_transify_t_["label_within"] = "sekitar";
+_transify_t_["label_chat"] = "Chat";
+_transify_t_["msg_total_price_exceed_credit_card_max"] = "Gagal Checkout (C07): Checkout ini telah melebihi jumlah maksimum pembayaran dengan kartu kredit ini. Mohon pilih metode pembayaran lain.";
+_transify_t_["label_more_than_200km_away"] = "lebih dari 200KM";
+_transify_t_["msg_promo_code_no_offline_payment"] = "Penjual\u002DPembeli Atur Sendiri tidak dapat dipilih ketika menggunakan kode promosi.";
+</script>
+<script type="text/javascript" src="/static/jsutil_min/jsutil_base.js?ecb23cd0c592&6"></script>
+
+
+
+	<script type="text/javascript" src="/static/jslib/jquery.mobile.custom.min.js?bf720a6427ea&6"></script>
+
+
+<script type="text/javascript" src="/static/pagejs_min/config.js?f8513ecd962a&6"></script>
+<script type="text/javascript" src="/static/pagejs_min/server_constant.js?5bf8e2e33d01&6"></script>
+
+
+	<script type="text/javascript" src="/static/jsutil_min/BJBridgeReceiver.js?37e54840a567&6"></script>
+	
+
+	<script>
+_transify_t_["msg_facebook_please_copy_link"] = "Silakan salin URL dan tempel di Aplikasi Safari. Maaf atas ketidaknyamanannya.";
+_transify_t_["label_search_within"] = "Cari dalam";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/common/deep_linking.js?e5eb43c165e0&6"></script>
+	<script type="text/javascript" src="/static/jslib/velocity.min.js?bd0a8f24807c&6"></script>
+	<script type="text/javascript" src="/static/jsutil_min/multi_target_event_dispatcher.js?8a58c842df32&6"></script>
+	<script type="text/javascript" src="/static/pagejs_min/common/app_header_controller.js?4a05d7d0fab4&6"></script>
+	<script type="text/javascript">
+		$(function() {
+			AppHeaderController.init($('.header'));
+		});
+		
+		
+		
+		window.criteo_q.push({ event: "setSiteType", type: isPC() ? "d" : "m" });
+		
+	</script>
+
+	
+
+
+
+
+	
+	
+	<script type="text/template" id="shipping-option-template">
+		<div class="slide-out-select-option R14 black87 slide-out-shipping-option" data-channelid="#{channelid}">
+			<div>#{channelName}</div>
+			:
+			<div class="option-original-shipping-fee l14">#{originalShippingFee}</div>
+			<div class="option-shipping-fee r14">#{shippingFee}</div>
+			<div class="label_shipping_promotion_tw_x #{shippingPromotionControl}">#{shippingPromotion}</div>
+		</div>
+	</script>
+	<script type="text/template" id="shipping-option-with-delivery-time-template">
+		<div class="slide-out-select-option R14 black87 slide-out-shipping-option" data-channelid="#{channelid}">
+			<div>#{channelName}</div>
+			:
+			<div class="option-original-shipping-fee l14">#{originalShippingFee}</div>
+			<div class="option-shipping-fee r14">#{shippingFee}</div>
+			<div class="label_shipping_promotion_tw_x #{shippingPromotionControl}">#{shippingPromotion}</div>
+			<div class="option-delivery-time">(#{deliveryTime})</div>
+		</div>
+	</script>
+	<script type="text/template" id="delivery-item-djangofy-template">
+		
+		<div class='delivery-item'>
+			<div class='top-line'>
+				<div class='delivery-name'>
+					{{channel.name}}
+				</div>
+				<div class='delivery-price {% if channel.discounted_price %}{% else %}normal{% endif %}'>
+					{{channel.price}}
+				</div>
+				{% if channel.discounted_price %}
+				<div class='delivery-price-discounted'>
+					{{channel.discounted_price}}
+				</div>
+				{% endif %}
+			</div>
+			{% if channel.delivery_time %}
+			<div class='delivery-time'>
+				{{channel.delivery_time}}
+			</div>
+			{% endif %}
+			{% if channel.delivery_text %}
+			<div class='delivery-text'>
+				{{channel.delivery_text}}
+			</div>
+			{% endif %}
+		</div>
+		
+	</script>
+	<script>
+	
+		_djangofy_t_['label_lowest_price_title'] = "Garansi Harga Termurah";
+		_djangofy_t_['label_lowest_price_text--ID'] = "Ada yang lebih murah? Klaim vouchermu sekarang!";
+		_djangofy_t_['label_lowest_price_text--MY'] = "Ada yang lebih murah? Klaim koinmu sekarang!";
+		_djangofy_t_['label_lowest_price_text--PH'] = "Ada yang lebih murah? Klaim koinmu sekarang!";
+		_djangofy_t_['label_lowest_price_text--SG'] = "Ada yang lebih murah? Klaim vouchermu sekarang!";
+		_djangofy_t_['label_lowest_price_text--TH'] = "Ada yang lebih murah? Klaim vouchermu sekarang!";
+		_djangofy_t_['label_lowest_price_text--TW'] = "Ada yang lebih murah? Klaim vouchermu sekarang!";
+		_djangofy_t_['label_lowest_price_text--VN'] = "Ada yang lebih murah? Klaim vouchermu sekarang!";
+	
+	</script>
+	<script type="text/template" id="lowest-price-guarante-djangoy">
+	
+		<div class='lowest-price {{item_type}}'>
+			<div class='lowest-price-title'>
+				<span class='title-text r14'>
+					{% transify 'label_lowest_price_title' %}
+				</span>
+				<span class='ic_help'>
+					<span class='tapable-area'>
+					</span>
+				</span>
+			</div>
+			<div class='promote-parts'>
+				<span class='promote-parts-text r12'>
+					{% transify 'label_lowest_price_text--{{LOCALE}}' %}
+				</span>
+				<span class='ic_arrow_right_black'>
+				</span>
+			</div>
+		</div>
+	
+	</script>
+	<script type="text/javascript">
+		
+			var cb_option = false;
+			var new_product_design = true;
+			var show_from_same_shop = true;
+			var is_wholesale_open = true;
+			var CONFIG_SHOW_SOLD_COUNT = true;
+			var CONFIG_OFFICIAL_SHOP_RED_THEME = true;
+			var SHOW_SHIPPING_FEE_PANEL =  false;
+
+			
+				
+					var twitter_text = "Temukan dan dapatkan {{product_name}} hanya {{price}} di Shopee sekarang juga! {{product_link}} #ShopeeID";
+				
+			
+			
+
+		
+	</script>
+	<script type="text/javascript" src="/static/jslib/swiper.jquery.min.js?49db5b82f95a&6"></script>
+	<script type="text/javascript" src="/static/jslib/shopee_lib/ShopeeLib.ShippingFeeInfoService.js?f176422ca17a&6"></script>
+	<script type="text/javascript" src="/static/jslib/shopee_lib/ShopeeLib.TimeService.js?484882527de5&6"></script>
+	<script type="text/javascript" src="/static/jslib/shopee_lib/ShopeeLib.DeliveryTime.js?d24a5d7af863&6"></script>
+	<script>
+_transify_t_["label_shipping_delivery_time_exact"] = "__time__ hari pengiriman";
+_transify_t_["label_to"] = "s/d";
+_transify_t_["label_receive_in_time_exact"] = "Diterima dalam __days__ hari";
+_transify_t_["label_receive_in_time_range_rapid"] = "Diterima dalam __from__\u002D__to__ jam";
+_transify_t_["label_delivery_time_exact"] = "__time__ hari";
+_transify_t_["label_shipping_delivery_time_range"] = "__mintime__ \u002D __maxtime__ hari pengiriman";
+_transify_t_["label_delivery_time_range"] = "__mintime__ \u002D __maxtime__";
+_transify_t_["label_estimated_delivery_date"] = "Perkiraan Tanggal Pengiriman";
+_transify_t_["label_receive_in_time_range"] = "Diterima dalam __from__\u002D__to__ hari";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/common/delivery_time_transify.js?a0b1c4497c29&6"></script>
+
+	
+		<script type="text/javascript" src="/static/jslib/dash.all.min.js?65319e389767&6"></script>
+	
+
+
+
+<script type="text/javascript" src="/static/pagejs_min/home/popup_scroll_view.js?26544b48227a&6"></script>
+
+<script type="text/javascript" src="/static/jsutil_min/gswiper.js?32dc57c449a9&6"></script>
+<script type="text/javascript" src="/static/jsutil_min/BJCacher.js?3a79b9bb5477&6"></script>
+<script type="text/javascript" src="/static/pagejs_min/shop/sharing.js?15f77f060761&6"></script>
+
+
+	<script>
+_transify_t_["msg_promotion__rule__order_total__TH"] = "msg_promotion__rule__order_total__TH";
+_transify_t_["msg_promotion__hint__order_total__TW"] = "__deltaPhrase__ dengan pembelanjaan min. __minOrderTotal__";
+_transify_t_["msg_promotion__delta__capped__up_to"] = "Potongan pengiriman sampai __delta__";
+_transify_t_["msg_promotion__prompt__order_total__TW__cb"] = "Belanja min. __minOrderTotal__ dari toko __shopName__\u0027s untuk menikmati __deltaPhrase__ dengan __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__location_group"] = "__deltaPhrase__ untuk pesanan diatas __minOrderTotal__ di __buyerLocationGroupName__ dengan __shopName__ lewat __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__PH"] = "__deltaPhrase__ with min. order of __minOrderTotal__ with __shopName__ via __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__simple__SG"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["msg_promotion__ruleset"] = "__rulePhrases__";
+_transify_t_["msg_promotion__ruleset__min_spend__icon__simple__VN"] = "__rulePhrases__ dengan minimum pembelian __icon__";
+_transify_t_["msg_promotion__hint__order_total__VN"] = "Belanja min. __minOrderTotal__ dapatkan __deltaPhrase__";
+_transify_t_["msg_promotion__prompt__order_total__TW"] = "Pesanan toko __shopName__ harus melebihi __minOrderTotal__ untuk mendapatkan potongan __deltaPhrase__ menggunakan __channelNames__";
+_transify_t_["msg_promotion__delta__flat_rate"] = "potongan ongkir __delta__";
+_transify_t_["msg_promotion__ruleset__simple__VN"] = "__rulePhrases__";
+_transify_t_["msg_promotion__rule__order_total__simple__PH"] = "__deltaPhrase__ with min. order of __minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__PH__cb"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["label_shipping_discount"] = "Potongan ongkir";
+_transify_t_["msg_promotion__delta__percentage"] = "potongan ongkir __delta__% off";
+_transify_t_["msg_promotion__prompt__order_total__SG"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["msg_promotion__ruleset__simple"] = "__rulePhrases__";
+_transify_t_["msg_promotion__rule__simple"] = "__deltaPhrase__";
+_transify_t_["label_welcome_package_shipping_discount"] = "label_welcome_package_shipping_discount";
+_transify_t_["msg_promotion__delta__free_shipping"] = "Gratis ongkir";
+_transify_t_["msg_promotion__rule__order_total__simple"] = "__deltaPhrase__ untuk pembelanjaan min. __minOrderTotal__";
+_transify_t_["msg_promotion__prompt__order_total__MY__cb"] = "Enjoy __deltaPhrase__ with min. purchase of __minOrderTotal__";
+_transify_t_["msg_promotion__ruleset__fsv"] = "Gunakan Voucher Gratis Ongkir untuk mendapatkan __rulePhrases__";
+_transify_t_["msg_promotion__rule__order_total__SG"] = "__deltaPhrase__ with min order of __minOrderTotal__ for __channelNames__";
+_transify_t_["msg_promotion__prompt__order_total__MY"] = "Enjoy __deltaPhrase__ with min. purchase of __minOrderTotal__";
+_transify_t_["msg_promotion__delta__percentage_with_cap"] = "potongan ongkir __delta__% off";
+_transify_t_["msg_promotion__prompt__order_total__PH"] = "__deltaPhrase__ with min. order of __minOrderTotal__ with __shopName__ via __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__simple__TH"] = "__deltaPhrase__ with min. order of __minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__MY__cb"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["msg_promotion__delta__capped"] = "potongan ongkir __delta__ off";
+_transify_t_["msg_promotion__prompt__order_total__PH__cb"] = "__deltaPhrase__ with min. order of __minOrderTotal__ with __shopName__ via __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__simple__VN"] = "__deltaPhrase__ untuk pesanan dari __minOrderTotal__";
+_transify_t_["msg_promotion__prompt__order_total__SG__cb"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["msg_promotion__delta__discounted_amount"] = "__delta__ untuk jasa kirim";
+_transify_t_["msg_promotion__ruleset__fsv__simple"] = "__rulePhrases__";
+_transify_t_["msg_promotion__hint__order_total__MY"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__TW__cb"] = "__deltaPhrase__ dengan pembelanjaan min. __minOrderTotal__";
+_transify_t_["msg_promotion__ruleset__VN"] = "__rulePhrases__ (capped at d 60.000)";
+_transify_t_["msg_promotion__rule__order_total__location_group__simple"] = "__deltaPhrase__ untuk pesanan diatas __minOrderTotal__ di __buyerLocationGroupName__";
+_transify_t_["msg_promotion__hint__order_total__PH"] = "__deltaPhrase__ with min. order of __minOrderTotal__";
+_transify_t_["msg_promotion__ruleset__capped__simple__VN"] = "__rulePhrases__ (capped at d __delta__)";
+_transify_t_["msg_promotion__cart__order_total__ID"] = "__deltaPhrase__ dengan belanja min. __minOrderTotal__. Klik untuk informasi lebih lanjut.";
+_transify_t_["msg_promotion__delta__qualified_for_shipping_subsidy"] = "Memenuhi syarat untuk Gratis Ongkir";
+_transify_t_["msg_promotion__rule__order_total"] = "__deltaPhrase__ untuk pesanan min. __minOrderTotal__ pada toko __shopName__ via __channelNames__";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/buyer/cart/module/shipping_fee_v2.js?1baf834d247e&6"></script>
+	<script type="text/javascript" src="/static/pagejs_min/common/module/address_picker.js?41fcb61364f3&6"></script>
+	<script type="text/template" id="recommend_product_template">
+
+<div class="recommend-product clickable_area" data-url="/item/?sid={{item.shopid}}&iid={{item.itemid}}"
+	 data-from="{{item.from}}" data-info="{{item.info}}" data-index={{item.itemIndex}}
+	 data-shopid="{{item.shopid}}" data-itemid="{{item.itemid}}">
+	<img src="{{ITEM_IMAGE_BASE_URL}}{{item.image}}_tn">
+	<div class="recommend-product-price r10">
+		<span class="dollarfy_sign" val="{{item.currency}}"></span><span class="dollarfy_ext_int unit-price" currency="{{item.currency}}" unit-price="{{item.price}}">{{item.price}}</span>
+		{% if item.price_min != item.price_max %}
+			<span>-</span>
+			<span class="dollarfy_sign" val="{{item.currency}}"></span><span class="dollarfy_ext_int unit-price" currency="{{item.currency}}" unit-price="{{item.price}}">{{item.price_max}}</span>
+		{% endif %}
+	</div>
+	<div class='itemName' style='display:none'>{{item.name}}</div>
+	<div class="status_band">
+		{% if item.item_status == "new" %}
+			{% include "shop/badges/badge_new.html"%}
+		{% endif %}
+		{% if item.price_before_discount %}
+			{% include "shop/badges/badge_promotion.html"%}
+		{% endif %}
+	</div>
+</div>
+
+</script>
+
+	
+
+<script>
+
+_djangofy_t_['label_see_more'] = "Lihat Lainnya";
+
+</script>
+
+<script type="text/template" id="recommend_product_see_all_template">
+
+
+<div class="recommend-product-see-all recommend-product clickable_area see-all" data-index={{item.itemIndex}}
+	 style="background-image: url({{ITEM_IMAGE_BASE_URL}}{{item.image}}_tn)">
+	<div class="mask middle-centered-div">
+		<div class="see-all-text-wrapper">
+			<span class="r14 capitalize">{% transify 'label_see_more' %}</span>
+			<span class="ic_arrow_right_white"></span>
+		</div>
+	</div>
+</div>
+
+
+</script>
+
+	<script type="text/template" id="attributes-row-template">
+
+	<div class='tr middle-centered-div' data-attribute-name="{{attribute.name}}" data-attribute-id="{{attribute.id}}" data-attribute-value="{{attribute.value}}">
+		<div class='r14 th attribute-name' >
+			<div class="attribute-name__content">{{attribute.name}}</div>
+		</div>
+		<div class="td heavy L14 flex1">
+			<div class="text short middle-centered-div">
+				<div class="flex1 attribute-value">
+					<div class="attribute-value__content">{{attribute.value}}</div>
+				</div>
+				{% if attribute.not_tapable %}
+				{% else %}
+				<span class="ic_icon ic_arrow_right {% if ANDROID_FRIENDLY %}hidden{% endif %}"></span>
+				{% endif %}
+			</div>
+		</div>
+	</div>
+
+</script>
+
+	
+
+
+<script>
+
+_djangofy_t_['label_promotion_off'] = "OFF";
+
+</script>
+
+<script type="text/template" id="badge-promotion">
+
+{% if item.discount %}
+<div class="badge-fixed-width badge-promotion">
+	{% if LOCALE == "TW" %}
+	<div class="badge-promotion-percent L12 promotion-tw">
+		<span class="percent">{{item.discount}}</span><span class="badge-promotion-off-label L12 promotion-tw">{% transify 'label_promotion_off' %}</span>
+	</div>
+	{% else %}
+	<div class="badge-promotion-percent L12">
+		{% if LOCALE == "TH" %}
+		<span class="badge-promotion-off-label L12">{% transify 'label_promotion_off' %}</span><span class="percent">{{item.discount}}</span>
+		{% else %}
+		<span class="percent">{{item.discount}}</span><span class="badge-promotion-off-label {% if LOCALE == 'IR' %}L10{% else %}L12{% endif %}">{% transify 'label_promotion_off' %}</span>
+		{% endif %}
+	</div>
+	{% endif %}
+</div>
+{% endif %}
+
+</script>
+
+	
+
+
+<script>
+
+_djangofy_t_['label_promotion_new'] = "Baru";
+
+</script>
+
+<script type="text/template" id="badge-new">
+
+<div class="badge-fixed-width badge-new">
+    {% if LOCALE == "TW" %}
+    <div class="badge-new-label m10">{% transify 'label_promotion_new' %}</div>
+    {% else %}
+    <div class="badge-new-label m12">{% transify 'label_promotion_new' %}</div>
+    {% endif %}
+</div>
+
+</script>
+	<script type="text/template" id="price_template">
+		
+<div>
+	{% if price_before_discount %}
+		<div class="price-before-discount l14"><span class="dollarfy_sign" currency="{{currency}}" val="{{currency}}"></span><span class="dollarfy_val" currency="{{currency}}" val="{{price_before_discount}}"></span></div>
+	{% endif %}
+	{% if price_max == -1 %}
+	<span class="dollarfy_sign r18" currency="{{currency}}" val="{{currency}}"></span><span class="dollarfy_val r18" currency="{{currency}}" val="{{price}}"></span>
+	{% else %}
+		{% if price_min == price_max %}
+		<span class="dollarfy_sign r18" currency="{{currency}}" val="{{currency}}">></span><span class="dollarfy_val r18" currency="{{currency}}" val="{{price}}"></span>
+		{% else %}
+		<span class="dollarfy_sign r18" currency="{{currency}}" val="{{currency}}">></span><span class="dollarfy_val r18" currency="{{currency}}" val="{{price_min}}"></span><span class="r18">&nbsp;-&nbsp;</span><span class="dollarfy_sign r18" currency="{{currency}}" val="{{currency}}">></span><span class="dollarfy_val r18" currency="{{currency}}" val="{{price_max}}"></span>
+		{% endif %}
+	{% endif %}
+	{% if can_use_wholesale %}<span class="price__wholesale-label hidden">[{% transify 'label_wholesale' %}]</span>{% endif %}
+</div>
+
+	</script>
+	
+
+<script>
+
+_djangofy_t_['label_stock'] = "Stok";
+_djangofy_t_['label_select_variation'] = "Pilih variasi";
+_djangofy_t_['label_quantity'] = "Jumlah";
+_djangofy_t_['label_BUYNOW'] = "BELI SEKARANG";
+_djangofy_t_['label_confirm'] = "KONFIRMASI";
+_djangofy_t_['label_wholesale_price_available'] = "Tersedia Harga Grosir";
+_djangofy_t_['label_wholesale'] = "Grosir";
+
+</script>
+
+<script type="text/template" id="model_panel_template">
+
+<div class='top-part-panel'>
+	<div class='item-image'>
+		<img src='{{ITEM_IMAGE_BASE_URL}}/{{image}}'/>
+	</div>
+	<div class='price-stock'>
+		<div class='price r18' id='price_value'>
+			{% include "shop/item/price.html" %}
+		</div>
+		<div class='stock {{ hide_stock_cls }}'>
+			<span class='L14'>{% transify 'label_stock' %}</span><span>:</span>
+			<span class='L12' id='stock_value'>{{stock}}</span>
+		</div>
+	</div>
+	<div class='close-btn ic_model_close'>
+	</div>
+</div>
+<div class='scrollable-holder'>
+	<div class='scrollable'>
+		{% if models %}
+            {% if tier_variations %}
+                {% if tier_variations|length > 0 %}
+                <div class='variations'>
+                    <div class='variation__title title r14'>{{ tier_variations.0.name }}</div>
+                    <ul class='options-list'>
+                        {% for opt in tier_variations.0.options %}
+                        <li class='variation L12' data-tier={{ 1 }} data-index={{ opt.index }}>{{ opt.option }}
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+                {% if tier_variations|length > 1 %}
+                <div class='variations'>
+                    <div class='variation__title title r14'>{{ tier_variations.1.name }}</div>
+                    <ul class='options-list'>
+                        {% for opt in tier_variations.1.options %}
+                        <li class='variation L12' data-tier={{ 2 }} data-index={{ opt.index }}>{{ opt.option }}
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endif %}
+            {% else %}
+            <div class='models'>
+                <div class='models__title title r14'>{% transify 'label_select_variation' %}</div>
+                <ul class='models-list'>
+                    {% for model in models %}
+                        {% if model.stock == 0 %}
+                            <li class='model L12 disabled'>{{model.name}}
+                        {% else %}
+                        <li class='model L12 {% if models|length == 1 %} selected {% endif %}' data-stock={{model.stock}} data-modelid={{model.modelid}} data-price='{{model.price}}' data-currency='{{model.currency}}'>{{model.name}}
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+		{% endif %}
+		<div class='quantity'>
+			<div class='title r14'>{% transify 'label_quantity' %}{% if can_use_wholesale %}<div class='quantity__wholesale-tips'>{% transify 'label_wholesale_price_available' %}</div>{% endif %}</div>
+			<div class='minus clickable_area'>
+				<div class='ic_minus'>
+				</div>
+			</div>
+			<div class='number i48 number--withinput'>
+				<input class='count' id='quantity_value' value=1 type='number' {% if is_wholesale_open %}{% else %}readonly{% endif %}></input>
+			</div>
+			<div class='plus clickable_area'>
+				<div class='ic_plus'>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{% if from_cart %}
+	<div class='btn-bottom-holder center-container'>
+		<div id='ok-button' class='btn-bottom clickable_area'>{% transify 'label_confirm' %}</div>
+	</div>
+{% else %}
+	<div class='btn-bottom-holder center-container'>
+		<div id='ok-button' class='btn-bottom clickable_area {% if models %} disable {% endif %}'>{% transify 'label_BUYNOW' %}</div>
+	</div>
+{% endif %}
+
+</script>
+	
+
+<script>
+
+_djangofy_t_['label_promotion_sold'] = "Habis";
+_djangofy_t_['label_promotion_out'] = ".";
+_djangofy_t_['label_grey_badge_sold'] = "Habis";
+_djangofy_t_['label_grey_badge_out'] = "Terjual";
+
+</script>
+
+<script type="text/template" id="badge_soldout_djangofy">
+
+<div class="badge-fixed-width badge-soldout">
+	{% if LANGUAGE == "vi" %}
+		<div class="badge-sold-label m10">{% transify 'label_promotion_sold' %}</div>
+		<div class="badge-out-label m10">{% transify 'label_promotion_out' %}</div>
+	{% else %}
+		{% if LANGUAGE == "th" %}
+			<div class="badge-sold-label m10">{% transify 'label_grey_badge_sold' %}</div>
+			<div class="badge-out-label m10">{% transify 'label_grey_badge_out' %}</div>
+		{% else %}
+			{% if LANGUAGE == "id" %}
+				<div class="badge-sold-label m10">{% transify 'label_promotion_sold' %}</div>
+			{% else %}
+				{% if LANGUAGE == "zhHant" %}
+					<div class="badge-sold-label m10">{% transify 'label_promotion_sold' %}</div>
+				{% else %}
+					<div class="badge-sold-label m12">{% transify 'label_promotion_sold' %}</div>
+				{% endif %}
+			{% endif %}
+			{% if LANGUAGE != "id" %}
+				{% if LANGUAGE != "zhHant" %}
+					<div class="badge-out-label m12">{% transify 'label_promotion_out' %}</div>
+				{% endif %}
+			{% endif %}
+		{% endif %}
+	{% endif %}
+</div>
+
+</script>
+	
+
+<script>
+
+_djangofy_t_['label_view_shop'] = "Kunjungi Toko";
+_djangofy_t_['label_product'] = "Produk";
+_djangofy_t_['label_products'] = "Produk";
+_djangofy_t_['label_reviews'] = "Ulasan";
+_djangofy_t_['label_positive_reviews'] = "Ulasan Positif";
+_djangofy_t_['label_chat_response'] = "Chat Dibalas";
+_djangofy_t_['label_rating'] = "Penilaian";
+_djangofy_t_['label_reviews'] = "Ulasan";
+_djangofy_t_['label_n_a'] = "N/A";
+_djangofy_t_['label_shopee_verified_seller'] = "Star Seller Shopee";
+
+</script>
+
+<script type="text/template" id="shop_part_template">
+
+<div class='shop-part {% if isSeller %} isSeller {% endif %} {{LOCALE}}' data-shopid='{{shop.shopid}}' data-username='{{shop.account.username}}'>
+	{% if isShop %}
+	{% else %}
+	<a href='/shop/#shopid={{shop.shopid}}' username='{{shop.account.username}}' userid='{{shop.userid}}'>
+	{% endif %}
+		<div class='top-holder'>
+			<div class='avatar-box'>
+				{% if shop.account.portrait %}
+					<img src='{{ITEM_IMAGE_BASE_URL}}/{{shop.account.portrait}}_tn'/>
+				{% else %}
+					<img src='/static/images/ic_avatar_default@2x.png'/>
+				{% endif %}
+				<div class='shopee-verified ic_product_details_verifiedseller'></div>
+				<div class='official-shop-mark ic_product_details_shopeemall'></div>
+			</div>
+			<div class='center-box'>
+				<div class='head-line m15 truncate'>
+					{{shop.account.username}}
+				</div>
+				<div class='gray-line r12 {% if isInactive %}inactive{% endif %}'>
+					<div class="ic_exclamation_mark"></div>
+					<span data-lastlogin="{{shop.account.last_active_time}}"></span>
+				</div>
+			</div>
+			<div class='view-box {% if isPC %}isPC{% endif %} r12' data-shopid={{shop.shopid}}>
+				<span>{% transify 'label_view_shop' %}</span>
+			</div>
+		</div>
+		<ul class='bottom-holder {% if isPC %}isPC{% endif %} {% if isAndroid %}isAndroid{% else %}isIOS{% endif %}'>
+			{% if isPC %}
+				<li class='products-box' data-shopid={{shop.shopid}} data-username='{{shop.account.username}}'>
+					<div class='space'></div>
+					<div class='box-left'>
+						<span class='icon ic_detail_product_web'>
+						</span>
+					</div>
+					<div class='box-right'>
+						<div class='number m18'>{{shop.item_count}}</div>
+						{% if shop.item_count <= 1 %}
+							<div class='text'>{% transify 'label_product' %}</div>
+						{% else %}
+							<div class='text'>{% transify 'label_products' %}</div>
+						{% endif %}
+					</div>
+					<div class='space'></div>
+				</li>
+				<li class='border'>&nbsp;
+				</li>
+				<li class='reviews-box' data-shopid={{shop.shopid}} data-userid={{shop.userid}}>
+					<div class='space'></div>
+					<div class='box-left'>
+						<span class='icon ic_profile_buyerrating_1'>
+						</span>
+					</div>
+					<div class='box-right r12'>
+						{% if shop.total_avg_star %}
+							<div class='number m18'>{{shop.total_avg_star}}</div>
+							<div class='text'>{% transify 'label_rating' %}</div>
+						{% else %}
+							<div class='number m18'>{% transify 'label_n_a' %}</div>
+							<div class='text'>{% transify 'label_rating' %}</div>
+						{% endif %}
+					</div>
+					<div class='space'></div>
+				</li>
+				<li class='border'>&nbsp;
+				</li>
+				<li class='response-rate-box'>
+					<div class='space'></div>
+					<div class='box-left'>
+						<span class='icon ic_detail_response_web'>
+						</span>
+					</div>
+					<div class='box-right r12'>
+						<div class='number m18'>{{shop.response_rate}}</div>
+						<div class='text'>{% transify 'label_chat_response' %}</div>
+					</div>
+					<div class='space'></div>
+				</li>
+			{% else %}
+				<li class='products-box' data-shopid={{shop.shopid}} data-username='{{shop.account.username}}'>
+					<div class='box-above'>
+						<span class='icon ic_detail_product'>
+						</span>
+						<span class='text m14'>{{shop.item_count}}</span>
+					</div>
+					{% if shop.item_count <= 1 %}
+						<div class='box-lower r12'>{% transify 'label_product' %}</div>
+					{% else %}
+						<div class='box-lower r12'>{% transify 'label_products' %}</div>
+					{% endif %}
+				</li>
+				<li class='border'>&nbsp;
+				</li>
+				<li class='reviews-box' data-shopid={{shop.shopid}} data-userid={{shop.userid}}>
+					{% if shop.total_avg_star %}
+						<div class='box-above'>
+							<span class='icon ic_profile_buyerrating_1'>
+							</span>
+							<span class='text m14'>{{shop.total_avg_star}}</span>
+						</div>
+						<div class='box-lower r12'>{% transify 'label_rating' %}</div>
+					{% else %}
+						<div class='box-above'>
+							<span class='icon ic_profile_buyerrating_1'>
+							</span>
+							<span class='text m14'>{% transify 'label_n_a' %}</span>
+						</div>
+						<div class='box-lower r12'>{% transify 'label_rating' %}</div>
+					{% endif %}
+				</li>
+				<li class='border'>&nbsp;
+				</li>
+				<li class='response-rate-box'>
+					<div class='box-above'>
+						<span class='icon ic_detail_response'>
+						</span>
+						<span class='text m14'>{{shop.response_rate}}</span>
+					</div>
+					<div class='box-lower r12'>{% transify 'label_chat_response' %}</div>
+				</li>
+			{% endif %}
+		</ul>
+	{% if isShop %}
+	{% else %}
+	</a>
+	{% endif %}
+</div>
+
+</script>
+
+	
+
+<script>
+
+_djangofy_t_['label_whole_sale_price'] = "Harga Grosir";
+_djangofy_t_['label_quantity'] = "Jumlah";
+_djangofy_t_['label_unit_price'] = "Harga Satuan";
+
+
+</script>
+
+<script type="text/template" id="whole_sale_djangofy">
+
+<div class='whole-sale-section'>
+	<div class='title r14'>
+		<span class='ic_wholesale'></span>{% transify 'label_whole_sale_price' %}
+	</div>
+	<div class='whole-sale-container'>
+		<div class='whole-sale-container__row whole-sale-container__row--header'>
+			<div class='whole-sale-container__row__col r12'>{% transify 'label_quantity' %}</div>
+			<div class='whole-sale-container__row__col r12'>{% transify 'label_unit_price' %}</div>
+		</div>
+		{% for row in data %}
+			<div class='whole-sale-container__row'>
+				{% if row.max_count %}
+					<div class='whole-sale-container__row__col r14'>{{row.min_count}} - {{row.max_count}}</div>
+				{% else %}
+					<div class='whole-sale-container__row__col r14'>&ge;{{row.min_count}}</div>
+				{% endif %}
+				<div class='whole-sale-container__row__col r14 right'>
+					<span class="dollarfy_sign" dir="ltr"  val="{{currency}}"></span>
+					<span class="dollarfy_ext_int"  currency="{{currency}}">{{row.price}}</span>
+				</div>
+			</div>
+		{% endfor %}
+	</div>
+</div>
+
+</script>
+
+	
+		
+
+
+<script type="text/template" id="item-card-display">
+
+<div class='item-card-display clickable_area' data-shopid={{item.shopid}} data-itemid={{item.itemid}} data-is_adult={% if item.is_adult %}1{% else %}0{% endif %} data-index={{item.itemIndex}}>
+	<div class='image-wrapper'>
+        {% if item.image %}
+            <img src='{{ITEM_IMAGE_BASE_URL}}{{item.image}}_tn' alt='{{item.name}}' title='{{item.name}}'/>
+        {% endif %}
+		{% if item.has_lowest_price_guarantee %}
+			<div class='lowest-price ic_lowest_price_small {{LOCALE}}'></div>
+		{% endif %}
+		<div class='status_band'>
+			{% if item.item_status == "new" %}
+				{% include "shop/badges/badge_new.html" %}
+			{% endif %}
+			{% if item.item_status == "sold_out" %}
+				{% include "shop/badges/badge_soldout.html" %}
+			{% endif %}
+			{% if item.price_before_discount %}
+				{% include "shop/badges/badge_promotion.html" %}
+			{% endif %}
+		</div>
+		<div class="item-labels">
+			{% if item.show_official_shop_label_in_normal_position %}
+					<div class='official-shop ic_productlist_officialshop ic_productlist_officialshop--{{LOCALE}}'></div>
+			{% endif %}
+			{% if item.show_shopee_verified_label %}
+				<div class='shopee-verified ic_productlist_verified ic_productlist_verified--{{LOCALE}}'></div>
+			{% endif %}
+			{% if item.can_use_wholesale %}
+				<div class='wholesale-product ic_productlist_wholesale ic_productlist_wholesale--{{LOCALE}}'></div>
+			{% endif %}
+		</div>
+		{% if item.videos %}
+		<div class='product-video ic_productlist_video'></div>
+		{% endif %}
+	</div>
+	<div class='text item-info-wrapper'>
+		<div class='top-line'>
+            <div class='title r12 truncate itemName'>{% if item.show_official_shop_label_in_title %}<div class="official_productcard_label official_productcard_label--{{LOCALE}}"></div>{% endif %}{% if item.name %}{{item.name}}{% endif %}</div>
+            <div class="freeshiping {% if item.show_free_shipping %}{% else %}hidden{% endif %}">
+                <div class="ic_free_shipping_green free-shipping-icon"></div>
+            </div>
+        </div>
+		<div class='price truncate'>
+			{% if item.price_before_discount %}
+				{% if item.price_min_before_discount == item.price_max_before_discount %}
+					{% if item.price_min == item.price_max %}
+						{% if item.price_before_discount != item.price %}
+							<span class="price-before-discount r12">
+								<span dir="ltr" class="dollarfy_sign" val="{{item.currency}}" style="visibility: hidden; display: initial;"></span><span class="dollarfy_ext_int"  currency="{{item.currency}}" style="visibility: hidden; display: initial;">{{item.price_before_discount}}</span>
+							</span>
+						{% endif %}
+					{% endif %}
+				{% endif %}
+			{% endif %}
+			<span class='price-final r12'>
+				<span class="dollarfy_sign" dir="ltr" val="{{item.currency}}" style="visibility: hidden; display: initial;"></span><span class="dollarfy_ext_int"  currency="{{item.currency}}" style="visibility: hidden; display: initial;">{{item.price}}</span>
+				{% if item.price_min != item.price_max %}
+					<span>-</span>
+					<span class="dollarfy_sign" dir="ltr" val="{{item.currency}}" style="visibility: hidden; display: initial;"></span><span class="dollarfy_ext_int"  currency="{{item.currency}}" style="visibility: hidden; display: initial;">{{item.price_max}}</span>
+				{% endif %}
+			</span>
+		</div>
+	</div>
+	<div class="item-status">
+		<div class="likes">
+			<div class="icon_like {% if item.liked %}ic_offerlist_liked{% else %}ic_offerlist_like{% endif %}"></div>
+			<span class="number r12 fix-size" style="width: 20px; height: 17px;">{% if item.liked_count %}{{item.liked_count}}{% else %}0{% endif %}</span>
+		</div>
+
+
+
+
+
+
+
+<div class="item_rating" style="{{item.rating_inline_style}}"><div class="item_rating__rating-info"><div class="item_rating__rating-info__stars"><div class="item_rating__rating-info__stars__star {{item.star_cls_0}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_1}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_2}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_3}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_4}}"></div></div><div class="item_rating__rating-info__count r10">{{item.rating_count_display}}</div></div></div>
+
+
+	</div>
+	<div class='itemName' style='display:none;'>{{item.name}}</div>
+</div>
+
+
+</script>
+
+		
+
+<script>
+
+_djangofy_t_['label_see_more'] = "Lihat Lainnya";
+_djangofy_t_['label_see_all'] = "Lihat Semua";
+
+</script>
+
+<script type="text/template" id="item-card-display-see-more">
+
+<div class='item-card-display item-card-display--see-more see-all clickable_area' data-shopid={{item.shopid}} data-itemid={{item.itemid}} data-is_adult={% if item.is_adult %}1{% else %}0{% endif %} data-index={{item.itemIndex}}>
+
+	{% if item.covered_see_all %}
+	<div class="covered_see-all">
+		<div class="see-all-wrapper">
+			<div class="see-all-icon ic_shopee_seeall"></div>
+			<div class="see-all-label capitalize r12">{% if item.show_see_all_text_as_see_more %}{% transify "label_see_more" %}{% else %}{% transify "label_see_all" %}{% endif %}</div>
+		</div>
+	</div>
+	{% endif %}
+
+	<div class="mask middle-centered-div">
+		<div class="see-all-text-wrapper">
+			<span class="r14 capitalize">{% if item.show_see_all_text_as_see_more %}{% transify 'label_see_more' %}{% else %}{% transify 'label_see_all' %}{% endif %}</span>
+			<span class="ic_arrow_right_white"></span>
+		</div>
+	</div>
+
+	<div class='image-wrapper'>
+		<img src='{{ITEM_IMAGE_BASE_URL}}{{item.image}}_tn' alt="{{item.name}}" title="{{item.name}}"/>
+	</div>
+	<div class='text item-info-wrapper'>
+		<div class='top-line'>
+			<div class='title r12 truncate itemName'>
+				{{item.name}}
+			</div>
+			<div class="freeshiping {% if item.show_free_shipping %}{% else %}hidden{% endif %}">
+				<div class="ic_free_shipping_green free-shipping-icon"></div>
+			</div>
+		</div>
+		<div class='price truncate'>
+			{% if item.price_before_discount %}
+				{% if item.price_before_discount != item.price %}
+					<span class="price-before-discount r12">
+						<span dir="ltr" class="dollarfy_sign" val="{{item.currency}}" style="visibility: hidden; display: initial;"></span><span class="dollarfy_ext_int"  currency="{{item.currency}}" style="visibility: hidden; display: initial;">{{item.price_before_discount}}</span>
+					</span>
+				{% endif %}
+			{% endif %}
+			<span class='price-final r12'>
+				<span class="dollarfy_sign" dir="ltr" val="{{item.currency}}" style="visibility: hidden; display: initial;"></span><span class="dollarfy_ext_int"  currency="{{item.currency}}" style="visibility: hidden; display: initial;">{{item.price}}</span>
+			</span>
+		</div>
+	</div>
+	<div class="item-status">
+		<div class="likes">
+			<div class="icon_like ic_offerlist_like"></div>
+			<span class="number r12 fix-size" style="width: 20px; height: 17px;">{{item.liked_count}}</span>
+		</div>
+
+
+<div class="item_rating" style="{{item.rating_inline_style}}"><div class="item_rating__rating-info"><div class="item_rating__rating-info__stars"><div class="item_rating__rating-info__stars__star {{item.star_cls_0}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_1}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_2}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_3}}"></div><div class="item_rating__rating-info__stars__star {{item.star_cls_4}}"></div></div><div class="item_rating__rating-info__count r10">{{item.rating_count_display}}</div></div></div>
+
+
+	</div>
+</div>
+
+</script>
+
+	
+
+	<script>
+_transify_t_["label_flashsale_n_sold"] = "__n__ terjual";
+_transify_t_["label_flashsale_selling_out"] = "segera habis";
+_transify_t_["label_flash_sale_amount_sold_out_in_1_hour"] = "__amount__ terjual dalam __n__ jam";
+_transify_t_["label_flash_sale_amount_sold_out_in_n_hours"] = "__amount__ terjual dalam __n__ jam";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/home/flash_sale_utils.js?d8f2a7250103&6"></script>
+
+	
+<script type="text/javascript" src="/static/jsutil_min/ImageViewer.js?cfa12f17dd9c&6"></script>
+
+	<script type="text/javascript" src="/static/pagejs_min/common/track_item_card_scroll-domify.js?50b6e0118f55&6"></script>
+
+	<script>
+_transify_t_["msg_server_error"] = "Server Error";
+_transify_t_["msg_item_not_available"] = "Produk yang Anda pilih belum tersedia.";
+_transify_t_["msg_cart_limit_per_shop_hit"] = "Anda tidak dapat upload produk lagi di toko ini.";
+_transify_t_["label_tag_out_of_stock"] = "STOK HABIS";
+_transify_t_["msg_msg_sent_pop"] = "Pesan Anda telah berhasil dikirimkan. Untuk menerima jawaban dari Penjual , silakan download Aplikasi Shopee.";
+_transify_t_["label_buy"] = "Beli Sekarang";
+_transify_t_["msg_item_has_been_added_to_cart"] = "Produk telah dimasukkan ke keranjang Anda";
+_transify_t_["label_add_to_cart"] = "Masukkan Keranjang";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/shop/item_web.js?666c53197ecf&6"></script>
+	
+
+<script>
+_transify_t_["msg_promotion__hint__order_total__TW"] = "__deltaPhrase__ dengan pembelanjaan min. __minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__SG__cb"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["msg_promotion__rule__order_total__simple__SG"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["msg_added_to_your_favorite"] = "Difavoritkan";
+_transify_t_["label_learn_more"] = "Pelajari Lebih Lanjut";
+_transify_t_["label_chat_to_offer"] = "Chat Sekarang";
+_transify_t_["msg_promotion__hint__order_total__TH"] = "__deltaPhrase__ with min. spend of __minOrderTotal__";
+_transify_t_["msg_promotion__delta__percentage"] = "potongan ongkir __delta__% off";
+_transify_t_["msg_lowest_price_guarantee"] = "Link Produk \u0026 Catatan Klaim telah di\u002Dcopy ke clipboard. Paste Link Produk \u0026 Catatan ke chat berikut untuk melakukan klaim voucher.";
+_transify_t_["label_mark_as_sold"] = "Tercatat Habis Terjual";
+_transify_t_["label_selected"] = "Dipilih";
+_transify_t_["label_day"] = "hari";
+_transify_t_["label_lowest_price_guarantee--SG"] = "Hi, I’ve found an item lower price than __{item}__ on a competitor platform, and would like to claim a voucher.";
+_transify_t_["msg_real_inactive_sellers_popup"] = "Produk ini tidak tersedia karena Penjual sudah tidak aktif selama lebih dari __deep_inactive__ hari. Anda dapat chat dengan Penjual terlebih dahulu sebelum membeli.";
+_transify_t_["label_address_not_supported"] = "Alamat tidak didukung";
+_transify_t_["msg_flash_deal_has_ended"] = "Flash Sale telah berakhir. Terima kasih!";
+_transify_t_["label_nationwide"] = "seluruh Indonesia";
+_transify_t_["label_ago"] = "__date__ lalu";
+_transify_t_["btn_go_back"] = "Kembali";
+_transify_t_["label_shipping_option_unsupported"] = "Jasa kirim tidak didukung";
+_transify_t_["msg_promotion__hint__order_total__TW__cb"] = "__deltaPhrase__ dengan pembelanjaan min. __minOrderTotal__";
+_transify_t_["label_you_have_n_offers"] = "Anda memiliki __number__ tawaran";
+_transify_t_["msg_promotion__hint__order_total__MY"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["msg_promotion__delta__percentage_with_cap"] = "potongan ongkir __delta__% off";
+_transify_t_["label_this_product_delete"] = "Produk ini telah dihapus";
+_transify_t_["label_lowest_price_guarantee--ID"] = "Saya menemukan produk __{item}__ dengan harga lebih murah di platform lain dan ingin mengajukan klaim.";
+_transify_t_["msg_promotion__rule__order_total__location_group__simple"] = "__deltaPhrase__ untuk pesanan diatas __minOrderTotal__ di __buyerLocationGroupName__";
+_transify_t_["label_you_have_n_offer"] = "Anda memiliki __number__ tawaran";
+_transify_t_["msg_get_up_to_number_coins_singular"] = "Beli dan dapatkan sampai __number__ Koin Shopee";
+_transify_t_["label_rating"] = "Penilaian";
+_transify_t_["label_promotion_off"] = "OFF";
+_transify_t_["label_free_shipping_cap"] = "Gratis Ongkir";
+_transify_t_["msg_shocking_sale_has_ended"] = "Shocking Sale has ended. Thanks for taking part!";
+_transify_t_["msg_flash_sale_has_ended"] = "Flash Sale telah berakhir. Terima kasih!";
+_transify_t_["msg_promotion__rule__order_total__PH"] = "__deltaPhrase__ with min. order of __minOrderTotal__ with __shopName__ via __channelNames__";
+_transify_t_["label_shipping_fee_max_discount_x_x"] = "Maks. Gratis Ongkir ke {{location}} adalah {{max_discount}}.";
+_transify_t_["msg_promotion__hint__order_total__VN"] = "Belanja min. __minOrderTotal__ dapatkan __deltaPhrase__";
+_transify_t_["msg_promotion__delta__flat_rate"] = "potongan ongkir __delta__";
+_transify_t_["label_see_more_camel"] = "Lihat Lainnya";
+_transify_t_["msg_buy_btn_pop"] = "Apakah Anda ingin membeli barang ini? Silakan download Aplikasi Shopee. Masih banyak produk lainnya menunggu Anda!";
+_transify_t_["msg_your_product_under_review"] = "Produk Anda sedang diperiksa";
+_transify_t_["label_n_sold"] = "__n__ Terjual/Bln";
+_transify_t_["msg_product_out_of_stock"] = "Produk habis terjual.";
+_transify_t_["msg_inactive_sellers_popup_buy_anyway"] = "Tetap Beli";
+_transify_t_["msg_get_number_coins"] = "Beli dan dapatkan __number__ Koin Shopee";
+_transify_t_["label_shopee_guarantee"] = "GARANSI SHOPEE";
+_transify_t_["label_from_same_shop"] = "Produk Lain Dari Toko Ini";
+_transify_t_["label_shipping_promotion_info_product_th"] = "\u003Cspan class\u003D\u0022r12\u0022\u003EGRATIS ONGKIR\u003C/span\u003E dengan \u003Cspan class\u003D\u0022r12\u0022\u003Emin. pembelanjaan __minordertotal__\u003C/span\u003E";
+_transify_t_["msg_promotion__rule__order_total__simple__TH"] = "__deltaPhrase__ with min. order of __minOrderTotal__";
+_transify_t_["msg_promotion__delta__capped"] = "potongan ongkir __delta__ off";
+_transify_t_["msg_deleted_from_your_favorite"] = "Favorit Dihapus";
+_transify_t_["label_flashsale_n_sold_item_detail"] = "__n__ \u003Cspan\u003ETerjual\u003C/span\u003E";
+_transify_t_["label_shipping_promotion_info_tw_x_x_x"] = "\u003Cspan class\u003D\u0022r14\u0022\u003E{{shopname}}\u003C/span\u003E menawarkan gratis ongkir dengan belanja \u003Cspan class\u003D\u0022r14\u0022\u003Emin.{{amount}}\u003C/span\u003E via {{logistic_name}}!";
+_transify_t_["label_lowest_price_guarantee--TH"] = "I want to claim Shopee voucher because I found a cheaper option than this product __{item}__";
+_transify_t_["msg_the_product_you_are_looking_for_does_not_exist"] = "Produk yang Anda cari tidak terdaftar";
+_transify_t_["label_share"] = "Share";
+_transify_t_["msg_promotion__delta__qualified_for_shipping_subsidy"] = "Memenuhi syarat untuk Gratis Ongkir";
+_transify_t_["label_lowest_price_guarantee--TW"] = "I want to claim Shopee voucher because I found a cheaper option than this product __{item}__";
+_transify_t_["label_unmark_as_open_to_sell"] = "Tercatat sebagai sedang dijual";
+_transify_t_["label_ok"] = "OK";
+_transify_t_["msg_promotion__rule__order_total__location_group"] = "__deltaPhrase__ untuk pesanan diatas __minOrderTotal__ di __buyerLocationGroupName__ dengan __shopName__ lewat __channelNames__";
+_transify_t_["msg_promotion__rule__order_total__ID"] = "__deltaPhrase__ dengan belanja min. __minOrderTotal__ dari toko __shopName__";
+_transify_t_["msg_upgrade_app_to_play_video"] = "Update aplikasi Anda untuk memutar video ini.";
+_transify_t_["label_available"] = "Tersedia";
+_transify_t_["msg_get_up_to_number_coins"] = "Beli dan dapatkan sampai __number__ Koin Shopee";
+_transify_t_["label_cancel"] = "Nanti Saja";
+_transify_t_["msg_promotion__delta__free_shipping"] = "Gratis ongkir";
+_transify_t_["label_you_may_also_like"] = "Kamu Mungkin Juga Suka";
+_transify_t_["msg_get_number_coins_singular"] = "Beli dan dapatkan __number__ Koin Shopee";
+_transify_t_["msg_promotion__hint__order_total__ID"] = "__deltaPhrase__ dengan belanja min. __minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__MY__cb"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["text_this_product_has_been_deleted"] = "Produk ini telah dihapus";
+_transify_t_["label_ratings"] = "Penilaian";
+_transify_t_["msg_sold_count_tooltip"] = "Penjualan dalam 30 hari terakhir";
+_transify_t_["msg_promotion__hint__order_total__TH__cb"] = "__deltaPhrase__ with min. spend of __minOrderTotal__";
+_transify_t_["msg_promotion__hint__location_not_supported"] = "__deltaPhrase__ tidak dapat didukung untuk lokasi tersebut";
+_transify_t_["label_out_of_stock"] = "Habis Terjual";
+_transify_t_["label_lowest_price_guarantee--MY"] = "I want to claim Shopee Coins because I found a cheaper option than this product __{item}__";
+_transify_t_["msg_shipping_fee_help"] = "Ongkir yang tertera di halaman produk adalah ongkir dasar. Ongkir pada saat checkout akan disesuaikan dengan berat produk dan jarak pengiriman.";
+_transify_t_["label_lowest_price_guarantee--VN"] = "I want to claim Shopee voucher because I found a cheaper option than this product __{item}__";
+_transify_t_["msg_promotion__rule__order_total__TH"] = "msg_promotion__rule__order_total__TH";
+_transify_t_["msg_promotion__delta__capped__up_to"] = "Potongan pengiriman sampai __delta__";
+_transify_t_["msg_shipping_promotion_info_min_order_total_productdetail__sgmy"] = "\u003Cspan class\u003D\u0022r12\u0022\u003EGRATIS ONGKIR\u003C/span\u003E untuk pembelanjaan min. \u003Cspan class\u003D\u0022r12\u0022__minordertotal__\u003C/span\u003E dari toko __shopname__ via __channelname__";
+_transify_t_["msg_promotion__ruleset"] = "__rulePhrases__";
+_transify_t_["msg_inactive_sellers_popup"] = "Penjual ini tidak aktif lebih dari __date__ hari. Anda dapat chat dengan Penjual terlebih dahulu sebelum membeli.";
+_transify_t_["label_unexpected_error"] = "Halaman bermasalah. Mohon coba lagi.";
+_transify_t_["msg_promotion__hint__order_total__PH__cb"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["label_response_rate_text"] = "Performa Chat adalah persentase tanggapan Anda terhadap pesan baru dalam jangka waktu 12 jam, setelah Anda menerima pesan tersebut.";
+_transify_t_["msg_promotion__hint__order_total__SG"] = "__deltaPhrase__ with min order of __minOrderTotal__";
+_transify_t_["msg_no_ratings_yet"] = "Belum ada penilaian";
+_transify_t_["msg_coin_earn_tooltip"] = "Anda dapat menukarkan Koin Shopee untuk berbelanja. Setiap __coinNo__ Koin bernilai __cashUnit__.";
+_transify_t_["label_edit_product"] = "Ubah Produk";
+_transify_t_["msg_promotion__delta__discounted_amount"] = "__delta__ untuk jasa kirim";
+_transify_t_["label_comment"] = "Komentar";
+_transify_t_["label_shipping_promotion_info_vn"] = "\u003Cspan class\u003D\u0022r14\u0022\u003EGRATIS ONGKIR\u003C/span\u003E menawarkan gratis ongkir dengan belanja \u003Cspan class\u003D\u0022r14\u0022\u003Emin. {{amount}}\u003C/span\u003E via {{logistic_name}}!";
+_transify_t_["msg_promotion__rule__order_total__simple__PH"] = "__deltaPhrase__ with min. order of __minOrderTotal__";
+_transify_t_["msg_promotion__hint__order_total__ID__cb"] = "__deltaPhrase__ dengan belanja min. __minOrderTotal__";
+_transify_t_["msg_shipping_promotion_info__fixed_deduction_with_min_order_total__delta_upto"] = "Potongan ongkir \u003Cspan class\u003D\u0022r12\u0022\u003E__delta__\u003C/span\u003E dengan \u003Cspan class\u003D\u0022r12\u0022\u003Emin. pembelanjaan __minordertotal__\u003C/span\u003E di toko __shopname__ via __channelname__";
+_transify_t_["msg_promotion__rule__order_total__SG"] = "__deltaPhrase__ with min order of __minOrderTotal__ for __channelNames__";
+_transify_t_["msg_the_quantity_bigger"] = "Jumlah barang harus lebih dari 0.";
+_transify_t_["label_report_this_product"] = "Laporkan produk ini";
+_transify_t_["msg_shopee_verified_txt"] = "Star Seller adalah fitur yang dapat digunakan oleh pengguna sebagai panduan untuk melihat daftar Penjual dengan kualitas layanan yang lebih baik.";
+_transify_t_["msg_server_error"] = "Server Error";
+_transify_t_["label_lowest_price_guarantee--PH"] = "I want to claim Shopee voucher because I found a cheaper option than this product __{item}__";
+_transify_t_["msg_promotion__ruleset__VN"] = "__rulePhrases__ (capped at d 60.000)";
+_transify_t_["label_pre_order_ships_in_n_days"] = "Pre\u002DOrder (dikirim dalam __n__ hari)";
+_transify_t_["msg_the_quantity_smaller"] = "Maaf, jumlah tidak boleh melebihi stok.";
+_transify_t_["msg_promotion__rule__order_total"] = "__deltaPhrase__ untuk pesanan min. __minOrderTotal__ pada toko __shopName__ via __channelNames__";
+</script>
+<script type="text/javascript" src="/static/pagejs_min/shop/item.js?50837f882382&6"></script>
+
+
+
+
+<script src="/static/jslib/base/ShopeeLib.priceza.js?17a194a4210c&6"></script>
+
+
+
+	
+	
+		<meta property='og:type' content=''/>
+		<meta property='og:title' content='Sagon Ngepros IBUNAFIFA Cemilan Bahan Kelapa Khas Bandung Renyah Nikmat'/>
+		<meta property='og:image' content='https://cf.shopee.co.id/file/0263479d1e58507146c87e86299709fb'/>
+		<meta property='og:description' content='Dapatkan produk ini dengan Rp 24,000.00 saja! Download aplikasinya sekarang juga: http://goo.gl/dExbFu
+'/>
+
+		
+			
+				<meta property='og:url' content='http://shopee.co.id//Sagon-Ngepros-IBUNAFIFA-Cemilan-Bahan-Kelapa-Khas-Bandung-Renyah-Nikmat-i.40222837.1026061023'/>
+			
+		
+
+		<meta property='twitter:card' content='summary_large_image'/>
+		<meta property='twitter:title' content='Sagon Ngepros IBUNAFIFA Cemilan Bahan Kelapa Khas Bandung Renyah Nikmat'/>
+		<meta property='twitter:image' content='https://cf.shopee.co.id/file/0263479d1e58507146c87e86299709fb'/>
+		<meta property='twitter:description' content='Dapatkan produk ini dengan Rp 24,000.00 saja! Download aplikasinya sekarang juga: http://goo.gl/dExbFu
+'/>
+	
+
+	
+
+
+	<link rel="alternate" href="android-app://com.shopee.id/shopeeid/home?navRoute=eyJwYXRocyI6W3sid2ViTmF2Ijp7InVybCI6Imh0dHBzOi8vc2hvcGVlLmNvLmlkL1NhZ29uLU5nZXByb3MtSUJVTkFGSUZBLUNlbWlsYW4tQmFoYW4tS2VsYXBhLUtoYXMtQmFuZHVuZy1SZW55YWgtTmlrbWF0LWkuNDAyMjI4MzcuMTAyNjA2MTAyMz9fZ3NyYz1odHRwcyUzQS8vc2hvcGVlLmNvLmlkL1NhZ29uLU5nZXByb3MtSUJVTkFGSUZBLUNlbWlsYW4tQmFoYW4tS2VsYXBhLUtoYXMtQmFuZHVuZy1SZW55YWgtTmlrbWF0LWkuNDAyMjI4MzcuMTAyNjA2MTAyMyJ9fV19" />
+	<link rel="alternate" href="ios-app://959841443/shopeeid/home?navRoute=eyJwYXRocyI6W3sid2ViTmF2Ijp7InVybCI6Imh0dHBzOi8vc2hvcGVlLmNvLmlkL1NhZ29uLU5nZXByb3MtSUJVTkFGSUZBLUNlbWlsYW4tQmFoYW4tS2VsYXBhLUtoYXMtQmFuZHVuZy1SZW55YWgtTmlrbWF0LWkuNDAyMjI4MzcuMTAyNjA2MTAyMz9fZ3NyYz1odHRwcyUzQS8vc2hvcGVlLmNvLmlkL1NhZ29uLU5nZXByb3MtSUJVTkFGSUZBLUNlbWlsYW4tQmFoYW4tS2VsYXBhLUtoYXMtQmFuZHVuZy1SZW55YWgtTmlrbWF0LWkuNDAyMjI4MzcuMTAyNjA2MTAyMyJ9fV19" />
+
+	
+	
+	<meta property="al:ios:url" content="shopeeid://home?navRoute=eyJwYXRocyI6W3sid2ViTmF2Ijp7InVybCI6Imh0dHBzOi8vc2hvcGVlLmNvLmlkL1NhZ29uLU5nZXByb3MtSUJVTkFGSUZBLUNlbWlsYW4tQmFoYW4tS2VsYXBhLUtoYXMtQmFuZHVuZy1SZW55YWgtTmlrbWF0LWkuNDAyMjI4MzcuMTAyNjA2MTAyMz9fZ3NyYz1odHRwcyUzQS8vc2hvcGVlLmNvLmlkL1NhZ29uLU5nZXByb3MtSUJVTkFGSUZBLUNlbWlsYW4tQmFoYW4tS2VsYXBhLUtoYXMtQmFuZHVuZy1SZW55YWgtTmlrbWF0LWkuNDAyMjI4MzcuMTAyNjA2MTAyMyJ9fV19" />
+    <meta property="al:ios:app_store_id" content="959841443" />
+    <meta property="al:android:url" content="shopeeid://home?navRoute=eyJwYXRocyI6W3sid2ViTmF2Ijp7InVybCI6Imh0dHBzOi8vc2hvcGVlLmNvLmlkL1NhZ29uLU5nZXByb3MtSUJVTkFGSUZBLUNlbWlsYW4tQmFoYW4tS2VsYXBhLUtoYXMtQmFuZHVuZy1SZW55YWgtTmlrbWF0LWkuNDAyMjI4MzcuMTAyNjA2MTAyMz9fZ3NyYz1odHRwcyUzQS8vc2hvcGVlLmNvLmlkL1NhZ29uLU5nZXByb3MtSUJVTkFGSUZBLUNlbWlsYW4tQmFoYW4tS2VsYXBhLUtoYXMtQmFuZHVuZy1SZW55YWgtTmlrbWF0LWkuNDAyMjI4MzcuMTAyNjA2MTAyMyJ9fV19" />
+    <meta property="al:android:package" content="com.shopee.id" />
+
+</head>
+<body>
+
+
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJZQSJF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+	
+		
+
+<div class="header ">
+	
+	<div class='inner middle-centered-div'>
+		
+		<div class='icon_left ic_icon  ic_arrow_back clickable_area'>
+		</div>
+		
+
+		
+		<div class="search-bar flex1 hidden">
+			<div class="search-bar-input-wrapper middle-centered-div flex1">
+				<div class="ic_search ic_icon"></div>
+				<form class='search_form flex1' action='.'>
+					<input class="search-input flex1 L12" type='search'>
+				</form>
+				<div class='dropdown-holder'>
+					<div class='dropdown-content one r12'>
+					</div>
+					<div class='dropdown-content two r12'>
+					</div>
+				</div>
+			</div>
+			<div class="search-bar-space-holder flex1 hidden page_name L16">
+				
+			</div>
+			<div class="ic_search_red ic_icon hidden clickable_area"></div>
+		</div>
+		<div class="no-search-bar-holder center-nav flex1">
+			<div class="search-bar-space-holder flex1 page_name L16 truncate">
+			</div>
+		</div>
+		
+
+		
+
+		
+			
+		
+		
+		<div class='second-panel'>
+			<a href='/buyer/login/signup/'>
+				<div class='signup-btn'>Daftar</div>
+			</a>
+			<a href='/buyer/login/'>
+				<div class='login-btn'>Login</div>
+			</a>
+		</div>
+		
+        <div class="clearfix"></div>
+	</div>
+</div>
+<div class='header-holder '>
+</div>
+<div class='body-mask'>
+</div>
+<div class='lure-hold'>
+	<div class='close_btn but_no_close' onclick='hideProm()'>
+	</div>
+
+    <div class='dogi-logo'>
+        <div class='ic_logo_get'></div>
+    </div>
+
+	<div class='show-text L13'>
+	</div>
+	<div class='bottom'>
+
+
+        <div class="get_app_btns_wrapper">
+            <div class="full">
+                <a id='get_app_link' target='_blank' href='' class='btn'>Download Sekarang</a>
+            </div>
+            <div class="half"><a id='get_ios_app_link' target='_blank' href='' class='btn' onclick="_track_download_ios();">
+                    <div class="ic_IPhone icon"></div>
+                    <div>iPhone</div>
+                </a>
+            </div><div class="half"><a id='get_android_app_link' target='_blank' href='' class='btn' onclick="_track_download_android();">
+                    <div class="ic_Android icon"></div>
+                    <div>Android</div>
+                </a></div>
+
+        </div>
+
+	</div>
+</div>
+
+	
+
+	<div class="shopee-confirm-modal hidden">
+</div>
+<div class="shopee-confirm hidden">
+	<div class="confirm-title">
+		<div class="content"></div>
+	</div>
+	<div class="confirm-message">
+		<div class="content"></div>
+	</div>
+	<div class="confirm-button-holder middle-centered-div">
+		<div class="confirm-button cancel" data-button-id="1"></div>
+		<div class="flex1" data-button-id="0"></div>
+		<div class="confirm-button ok" data-button-id="0"></div>
+	</div>
+</div>
+
+	<div class="shopee-action-sheet-mask"></div>
+<div class="shopee-action-sheet-container center-container isPC">
+</div>
+
+	
+
+<div id='pin-popup'>
+	<div class='popup'>
+		<div class='title r16'>
+		</div>
+		<div class='message r16'>
+		</div>
+		<div class='digit-holder'>
+			<div class='digit-input'>
+			</div><div class='digit-input'>
+			</div>
+		</div>
+		<div class='btn-holder'>
+			<div class='cancelText' data-button-id=1>
+			</div><div class='okText' data-button-id=0>
+			</div>
+		</div>
+	</div>
+	<div class='digit-keyboard'>
+		<div class='digit-row'>
+			<div class='digit r14'>1</div><div class='digit r14'>2</div><div class='digit r14'>3</div>
+		</div>
+		<div class='digit-row'>
+			<div class='digit r14'>4</div><div class='digit r14'>5</div><div class='digit r14'>6</div>
+		</div>
+		<div class='digit-row'>
+			<div class='digit r14'>7</div><div class='digit r14'>8</div><div class='digit r14'>9</div>
+		</div>
+		<div class='digit-row'>
+			<div class='digit r14'></div><div class='digit r14'>0</div><div class='delete r14'>Hapus</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+
+	<div class='page-holder center-container show-from-same-shop' id='item-page' itemscope
+			itemtype="http://schema.org/Product"><div class='top-part'><div class="top-image-container"><div class="top-image-container-inner"><div id='top-image'><div class='soldout_mask middle-centered-div flex-justify-center r18'><div><div class="badge-sold-label r18">TERJUAL</div></div></div><meta itemprop="image" content="https://cf.shopee.co.id/file/0263479d1e58507146c87e86299709fb"/><div class="swiper-container image"><div class="swiper-wrapper"><div class="swiper-slide imgs_hold"><div class='ic_default'></div></div></div><div class="swiper-pagination"></div><div class="swiper-button-prev" style="display:none;"></div><div class="swiper-button-next" style="display:none;"></div></div></div></div></div><div class="flash-sale-header hidden"><div class="left"><div class="ic_product_flashsale ic_product_flashsale--ID"></div><div class="price-wrapper"><div class="flash-sale-item__price-before-discount truncate "><span class="dollarfy_sign l12"
+								val=""></span><span class="dollarfy_ext_int l12" currency=""></span></div><div class="flash-sale-item__price"><span class="dollarfy_sign m14" val=""></span><span
+								class="dollarfy_ext_int m20" currency=""></span></div></div></div><div class="right"><div class="flash-sale-stock m14"></div><div class="count-down"><div class="count-down__label uppercase l12">Berakhir dlm</div><div class="count-down__timer timer m13" data-end-time=""><div class="timer__hours digits"><div class="digits__1 digit ic_buy_digit transit"></div><div class="digits__2 digit ic_buy_digit transit"></div></div><div class="timer__colon ic_white_dian"></div><div class="timer__mins digits"><div class="digits__1 digit ic_buy_digit up-to-5 transit"></div><div class="digits__2 digit ic_buy_digit transit"></div></div><div class="timer__colon ic_white_dian"></div><div class="timer__secs digits"><div class="digits__1 digit ic_buy_digit up-to-5 transit"></div><div class="digits__2 digit ic_buy_digit transit"></div></div></div></div></div></div><div class='lowest-price-container-flash-for'></div><div class='item-title'><div class="video-placeholder hide visibility-hidden"><span class="ic_productlist_video"></span></div><meta itemprop="name" content="Sagon Ngepros IBUNAFIFA Cemilan Bahan Kelapa Khas Bandung Renyah Nikmat"/><div id='title-name' class='title r16'><div class="official_detail_label official_detail_label--ID hidden"></div>&nbsp;
+				</div><div class='price' itemprop="offers" itemscope itemtype="http://schema.org/Offer"><meta itemprop="priceCurrency" content="IDR"/><meta itemprop="price" content="24000.0"/><link itemprop="availability" href="http://schema.org/InStock"><div class='price-inner m16 middle-centered-div' id='item-price'><div class="price-before-discount m16"></div><span class="dollarfy_sign m18" dir="ltr"></span><span class="dollarfy_val m18" currency="" val=""></span></div><div class='lowest-price-container'></div><div class="review-row L14"><div class="item_rating__rating-info"><div class="item_rating__rating-info__stars"><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div></div><div class="item_rating__rating-info__score L14"></div><div class="item_rating__rating-info__count L14"></div></div><div class="sold-info hidden truncate"><div class="table-truncate-container"><div class="table-truncate-content truncate"><span class="sold-info__content l14"></span></div><div class="table-truncate-spacer"><span class="l14"></span></div></div></div><div class="review-row__spacer"></div><div class='ic_product_details_verified ic_product_details_verified--ID hidden'></div><div class='ic_product_details_officialshop ic_product_details_officialshop--ID hidden'></div></div><div class="coin-info hide"><div class="coin-info__icon ic_coins"></div><div class="coin-info__label r14">Beli dan dapatkan sampai 200 Koin Shopee</div><div class="coin-info__tooltip"><div class="ic_help"></div></div></div><div class="official-shop-selling-points hidden"><div class="selling-point"><span class="selling-point__component selling-point__icon ic_productdetail_sellingpoint_7day_return_small ic_productdetail_sellingpoint_7day_return_small--ID"></span><span class="selling-point__component selling-point__label r12">7 Hr Pengembalian</span></div><div class="selling-point"><span class="selling-point__component selling-point__icon ic_productdetail_sellingpoint_authentic ic_productdetail_sellingpoint_authentic--ID"></span><span class="selling-point__component selling-point__label r12">100% Ori</span></div><div class="selling-point"><span class="selling-point__component selling-point__icon ic_productdetail_sellingpoint_free_shipping_id ic_productdetail_sellingpoint_free_shipping_id--ID"></span><span class="selling-point__component selling-point__label r12">Gratis Ongkir</span></div></div><div class="border-line border-line--shipping-fee-select"></div><div class='pre-order hidden'><span class="pre-order__icon ic_productdetails_preorder"></span><span class="r14 pre-order__label"></span></div><div class="slide-out-select shipping-fee-select collapsed  middle-centered-div"><div class="slide-out-select-display"><div class="shipping-promotion-info-container hide"><div class="shipping-promotion-info middle-centered-div"><span class="item_icon ic_ship_out_green"></span><span class="L14 label-shipping-fee-promotion"></span></div></div><div id="shipping-fee-with-address-picker" class="hide middle-centered-div"><div class="address-picker-container clickable_area flex1" ><div class="item_icon ic_delivery"></div><div class="flex1"><div class="middle-centered-div address-picker-address-container L14" id="shipping-fee-address-picker"><span>Kirim ke:&nbsp;</span><span class="selected-address js-selected-address r14 black87 capitalize">Alamat</span><span class="ic_orderdetails_address"></span></div><div class="address-shipping-cost"><span class="l14 black87">Ongkos Kirim:</span><span class="r14 black87 selected-shipping-fee"></span><span class="ic_arrow_down_black shipping-fee-select-arrow"></span></div></div></div></div><div id="shipping-fee-selector" class="clickable_area shipping-fee-selector-container"><div class="cross-border cross-border-shipping-fee"><div class="item_icon ic_shipping_plane"></div><div class="flex1 cross-border-shipping-fee__content"><div class="middle-centered-div L14"><span class="l14 shipping-fee-label">Dikirim dari&nbsp;</span><span class="r14 black87">Luar Negeri</span></div><div class="address-shipping-cost"><span class="l14 shipping-fee-label">Ongkos Kirim:</span><span class="r14 black87 selected-shipping-fee"></span><span class="ic_arrow_down_black shipping-fee-select-arrow hide"></span></div><div class="address-shipping-cost delivery-time-container"><span class="l14 shipping-fee-label">Waktu Pengiriman:</span><span class="r14 black87 delivery-time" style="margin-right: 7px"></span><span class="ic_arrow_down_black shipping-fee-select-arrow"></span></div></div></div><div class="non-cross-border"><div class="item_icon ic_delivery"></div><span class="l14 shipping-fee-label">Ongkos Kirim:</span>
+										&nbsp;<span class="selected-shipping-fee"></span>&nbsp;<span
+											class="ic_arrow_down_black shipping-fee-select-arrow"></span><span class="ic_help shipping-fee-help"></span></div></div></div><div class="slide-out-select-options shipping-cost-options"></div><div class="shipping-option-info hide"><div class="L12 shipping-fee-max-discount hide">Ongkir akan berubah pada saat checkout sesuai dengan alamat Pembeli.</div></div></div><div class='shipping_fee_included app_alert ' for='shipping_fee_included'><div class="item_icon ic_delivery"></div><span class="l14 shipping-fee-label">Mohon tanya Penjual untuk Ongkir</span><div class="ic_ex_enlarge"><span class='butt ic_help'></span></div></div></div></div></div><div class="user-interaction-section"><div class='actions flex-it middle-centered-div'><div id='likes' class="web flex1 middle-centered-div like clickable_area"><div id='like-icon' class='ic_icon ic_productdetails_like'></div><div class='text r14 flex1'>Favorit</div><div class='r14 number-container'><span class='number'></span></div></div><div id='comment-button' class="comment clickable_area flex1 middle-centered-div"><div class='ic_icon ic_productdetails_comment'></div><div class='text r14 flex1'>Komentar</div><div class='r14 number-container'><span class='number'></span></div></div><div id='share-button' class='share hide'><div class='ic_icon ic_productdetails_share'></div></div></div><a class="shopee-guarantee  hidden" _href="/help_center/answer/3178/"><div class="float-right vertical-align"><div class="ic_arrow_right_black "></div></div><div dir="ltr"><div class="vertical-align"><div class="ic_guarantee"></div><div class="shopee-guarantee-label L14">Garansi Shopee</div></div><div class="L12 shopee-guarantee-text">Terima pesanan dengan aman atau uang Anda akan kami kembalikan.</div></div></a><div class='shares m9 web'><a class='sharehreffb' target='_blank'><div class='share-group'><span class='share-btn fb-share'><span class='ic_icon ic_facebook'></span><span class='text'>Share</span></span><span class='share-stat'><div class='talk'>
+					◇
+				</div><div class='number'><div class='inner'>
+						◆
+					</div><span class='count'>
+						0
+					</span></div><span class='count'>
+					0
+				</span></span></div></a><a class='sharehreftw' target='_blank'><div class='share-group'><span class='share-btn tw-share'><span class='ic_icon ic_tweet'></span><span class='text'>Tweet</span></span><span class='share-stat'><div class='talk'>
+					◇
+				</div><div class='number'><div class='inner'>
+						◆
+					</div><span class='count'>
+						0
+					</span></div><span class='count'>
+					0
+				</span></span></div></a><a class='sharehrefpn' target='_blank'><div class='share-group'><span class='share-btn pn-share'><span class='ic_icon ic_pinit'></span></span><span class='share-stat'><div class='talk'>
+					◇
+				</div><div class='number'><div class='inner'>
+						◆
+					</div><span class='count'>
+						0
+					</span></div><span class='count'>
+					0
+				</span></span></div></a></div></div><div class='multi-model-selection clickable_area hidden'><div class='text'><span class='main r14'>
+				Pilih variasi
+			</span><span class='dec L14'>
+				(contoh; warna, ukuran)
+			</span></div><div class='ic_arrow_right_black '></div></div><div id='shop-part' class='shop-part-container'><div class='shop-part  ID' data-shopid=''><a _href='/shop/#shopid=' username='' userid=''><div class='top-holder'><div class='avatar-box'><img src='/static/images/ic_avatar_default@2x.png'/></div><div class='center-box'><div class='head-line m15 truncate'></div><div class='gray-line r12 '><div class="ic_exclamation_mark"></div><span class="nowrap" data-lastlogin=""></span></div></div><div class='view-box  r12' data-shopid=><span class="nowrap">Kunjungi Toko</span></div></div><ul class='bottom-holder '><li class='products-box' data-shopid=><div class='box-above'><span class='icon ic_detail_product'></span><span class='text m14'></span></div><div class='box-lower r12'>Produk</div></li><li class='border'>&nbsp;
+				</li><li class='reviews-box' data-shopid=><div class='box-above'><span class='icon ic_detail_positive'></span><span class='text m14'></span></div><div class='box-lower r12'>Ulasan Positif</div></li><li class='border'>&nbsp;
+				</li><li class='response-rate-box'><div class='box-above'><span class='icon ic_detail_response'></span><span class='text m14'></span></div><div class='box-lower r12'>Chat Dibalas</div></li></ul></a></div></div><div id='detail-part' class='info-part'><div class='detail'><div class="middle-centered-div detail-heading"><div class='heading m14 flex1'>Rincian Produk</div><div class='time middle-centered-div' id='list-time'><div class='ic_icon ic_detail_time_pc'></div><div class='text nowrap'></div></div></div><meta itemprop="description" content="Sagon Ngepros IBUNAFIFA Cemilan Bahan Kelapa Khas Bandung Renyah Nikmat  Garansi Shopee | Gratis Ongkir | 100% Bebas Biaya"/><div class='description text L14'></div><div class='product-tags'></div></div><div class='table'><div class='tr category-row middle-centered-div'><div class='r14 th'>Kategori</div><div class='heavy L14 td flex1 categroy-wrapper'><div class="middle-centered-div tr-padding item-category" itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" style="display: none"><meta itemprop="url" content="mall.shopee.co.id/Makanan-&amp;-Minuman-cat.157"/><meta itemprop="name" content="Makanan-&amp;-Minuman"/><meta itemprop="position" content="1"/></span><div class='item-category--first text L14 clickable_area'></div><div class='item-category--second ic_arrow_small'></div><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" style="display: none"><meta itemprop="url" content="mall.shopee.co.id/Makanan-Ringan-cat.157.14549"/><meta itemprop="name" content="Makanan-Ringan"/><meta itemprop="position" content="2"/></span><div class='item-category--second text L14 clickable_area'></div><div class='item-category--third ic_arrow_small'></div><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" style="display: none"><meta itemprop="url" content="mall.shopee.co.id/Makanan-Ringan-cat.157.14549.14555"/><meta itemprop="name" content="Biskuit-Kemasan"/><meta itemprop="position" content="3"/></span><div class='item-category--third text L14 clickable_area'></div></div></div></div></div><div class='table attributes-table multi-line-support-table hide'></div><div class="table multi-line-support-table"><div class='tr brand-row middle-centered-div'><div class='th r14'>Merek</div><div class='td heavy L14 flex1'><meta itemprop="brand" content="Tidak Ada Merek"/><div class='text tr-padding' id='item-brand'></div></div></div><div class='tr condition-row middle-centered-div'><div class='th r14'>Kondisi</div><div class='td heavy L14 flex1'><div class='text tr-padding' id='item-condition'></div></div></div><div class='tr model-row middle-centered-div'><div class='th r14'>Variasi</div><div class='td heavy L14 flex1'><div class='text short middle-centered-div'><div class="variation-holder flex1"><div id='item-variations'></div></div><span class='ic_icon ic_arrow_right '></span></div></div></div><div class='tr stock-row middle-centered-div'><div class='th r14'>Stok</div><div class='td heavy L14 flex1'><div class='text tr-padding' id='item-stock'></div></div></div><div class='tr shipfrom-row middle-centered-div'><div class='th r14'>Dikirim Dari</div><div class='td heavy L14 flex1'><div class='text flex-it' id="item-shipfrom-container"><p id="item-shipfrom">&nbsp;</p></div></div></div></div></div><div id='review-part' class='review-part'><span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating" style="display: none"><meta itemprop="itemReviewed" content="Sagon Ngepros IBUNAFIFA Cemilan Bahan Kelapa Khas Bandung Renyah Nikmat"/><meta itemprop="ratingValue" content="5.0"/><meta itemprop="ratingCount" content="1"/><meta itemprop="bestRating" content="5"/><meta itemprop="worstRating" content="0"/></span><div id='review-template' class='review'><div class="flex-it"><div class='left'><a><div class='image-container'><div class='image' style='background-image:url(/static/images/ic_avatar_default@2x.png)'></div></div></a></div><div class='right flex1 flex-it'><div class="flex1"><a><div class='name r12'></div></a><div class="buyer-review-part middle-centered-div hidden"><div class="ui-stars middle-centered-div"><div class="ui-star" data-star="1"></div><div class="ui-star" data-star="2"></div><div class="ui-star" data-star="3"></div><div class="ui-star" data-star="4"></div><div class="ui-star" data-star="5"></div></div></div><div class='comment text r14'></div><div class='item-images'></div><div class='param'><div class='time'><span class='timetext L12'></span><span class="variation-wrapper"><span class="separator L12">|</span><span class="variation-lable L12">Variasi:&nbsp;</span><span class="variation-name L12"></span></span></div></div></div></div></div></div><div class="reviews"><div class="reviews__header"><div class="reviews__header__content"><div class="reviews__header__content__title m14">Penilaian Produk</div><div class="item_rating__rating-info"><div class="item_rating__rating-info__stars"><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div><div class="item_rating__rating-info__stars__star ic_rating_score_hollow"></div></div><div class="item_rating__rating-info__score L14"></div><div class="item_rating__rating-info__count L14"></div></div></div><div class="reviews__header__see-all clickable_area"><span class="see-all-text">Lihat Semua</span><div class="ic_arrow_right_orange see-all-arrow"></div></div></div><div id='review-container' class="review-container"></div></div><div class='view-all-comments'><div class='no-comment r14'>Belum ada penilaian</div><div class="leave-a-comment r14">Tinggalkan komentar</div><div class='text m14'><span>Tampilkan Semua</span><span class='number'></span><span
+						class='comment_text'>Komentar</span></div></div></div><div class="from-same-shop center-container hidden"><div class="from-same-shop__header L12 middle-centered-div"><div class="flex1 m14">Produk Lain Dari Toko Ini</div><div class="middle-centered-div clickable_area see-all-wrapper hidden"><span class="see-all-text r14">Lihat Lainnya</span><span class="ic_arrow_right_orange see-all-arrow"></span></div></div><div class="from-same-shop__items hide-scrollbar"></div></div><div class="recommend-products center-container hidden"><div class="recommend-products__header L12 middle-centered-div"><div class="flex1 m14">Kamu Mungkin Juga Suka</div><div class="middle-centered-div clickable_area see-all-wrapper hidden"><span class="see-all-text r14">Lihat Lainnya</span><span class="ic_arrow_right_orange see-all-arrow"></span></div></div><div class="recommend-products__items hide-scrollbar"></div></div><div id='second-layer' class="center-container"></div><div id='cover' class='cover web_pannel__cover'></div><div class='shipping-fee-panel-mask'></div><div class='shipping-fee-panel'><div class='title r14'>
+				Informasi Ongkir
+			</div><div class='deliver-to'><div class='delivery-to-text'>
+					Kirim ke
+				</div><div class='address-name js-selected-address'></div><div class="ic_arrow_right_black"></div></div><div class='delivery-list'></div><div class='confirm-btn'>
+				KONFIRMASI
+			</div></div><div id='float-bottom' class='float-bottom center-container hidden'><div class='inner flex-it'><div class='left flex1'><div id='chat-to-offer' class='clickable_area'><div class='ic_icon ic_offer_chat'></div><div class='text m14 ID'>Chat Sekarang</div></div><div id='offer-count' class='r14'><span>Anda mempunyai</span> 0 <span>tawaran</span></div></div><div class="padding-12"></div><div class='right flex1'><div id='buy-button' class='m14 clickable_area flex1'>Beli Sekarang</div><div id='viewoffer' class="clickable_area">Tampilkan Tawaran</div></div></div><div class='snapshot_view bottom_view' style='display:none;'><div class='text'>Ini adalah foto produk</div><a class='view-href'><div class='view-butt'>Live View</div></a></div><div class='banned_view bottom_view' style='display:none;'><div class='text'>Produk ini telah diblokir</div><a class='update-href'><div class='view-butt'>Update</div></a></div></div><div id='float-bottom-for-buyer' class="center-container hidden"><div class='left'><div id='new-chat-to-offer' class="flex-col inner align-bottom clickable_area  "><div class='ic_offer_chat icon'></div><div class='text r10'>Chat Sekarang</div></div><div class="bar">&nbsp;</div><div id='new-add-to-cart' class="flex-col inner align-bottom clickable_area"><div class='ic_cart_add icon'></div><div class='text r10'>Masukkan Keranjang</div></div></div><div id='buy-button-new' class='right r14 clickable_area'><div class="buy-label">Beli Sekarang</div></div></div><div class="scroll-view-dark-cover"></div><div class="scroll-view-details official-shop-selling-points-details hidden"><div class="title m16">Jaminan Shopee Mall</div><div class="scroll-view-scroll-content points hide-scrollbar"><div class="point"><div class="point__header"><div class="header__icon ic_productdetail_sellingpoint_7day_return_small ic_productdetail_sellingpoint_7day_return_small--ID"></div><div class="header__label">7 Hr Pengembalian</div></div><div class="point__content">Untuk menjamin kepuasan Anda, Shopee Mall memberikan waktu pengembalian yang lebih panjang (7 hari setelah barang diterima). Anda dapat melakukan pengembalian gratis* (melalui Pos Kilat Khusus) dan praktis untuk pengajuan yang memenuhi Syarat dan Ketentuan kami (pengembalian karena produk tidak original, rusak, cacat atau salah) dan seluruh dana akan dikembalikan ke Anda.</div></div><div class="point"><div class="point__header"><div class="header__icon ic_productdetail_sellingpoint_authentic ic_productdetail_sellingpoint_authentic--ID"></div><div class="header__label">100% Ori</div></div><div class="point__content">Shopee menjamin bahwa produk yang terdaftar di Shopee Mall adalah 100% original. Bila produk dari Shopee Mall yang Anda terima bukan produk original, Shopee akan mengembalikan dua kali dari jumlah harga produk yang Anda bayarkan untuk produk tersebut.</div></div><div class="point"><div class="point__header"><div class="header__icon ic_productdetail_sellingpoint_free_shipping_id ic_productdetail_sellingpoint_free_shipping_id--ID"></div><div class="header__label">Gratis Ongkir</div></div><div class="point__content">Nikmati Gratis Ongkir spesial pada semua produk Shopee Mall dengan min. pembelian lebih rendah.</div></div></div><div class="scroll-view-bottom-button button button--understand">Lanjutkan Belanja</div></div></div>
+
+
+
+	<div class='web-popup-mask'></div>
+<div class='web-popup-holder center-container'>
+	<div class='title'></div>
+	<div class='image'></div>
+	<div class='text'></div>
+	<div class='button'></div>
+</div>
+
+	
+<div id="_alert_bg" class="hidden">
+	<div id="_alert_content" class="center-container">
+		<div class='img hidden'></div>
+		<span></span>
+		<div class="middle-centered-div alert-btn-group">
+			<div class="btn-dismiss-alert flex1">Tidak</div>
+			<div class="btn-confirm-alert flex1">Ya</div>
+		</div>
+	</div>
+</div>
+<div id="_alert_msg" class="center-container hidden">
+	<div class='img hidden'></div>
+	<span></span>
+	<div class="middle-centered-div alert-btn-group">
+		<div class="btn-dismiss-alert flex1">Tidak</div>
+		<div class="btn-confirm-alert flex1">Ya</div>
+	</div>
+</div>
+
+
+	
+
+	<div class='page_hide'></div>
+	<div class='general-mask'></div>
+
+
+
+
+	
+	
+
+
+
+	<script>
+{
+	var dur = (Date.now ? Date.now() : +new Date()) - QOS_PAGE_START_MS;
+	if(window._track_qos_pageload)
+		_track_qos_pageload(dur);
+	if(window.BI_ANALYTICS)
+		BI_ANALYTICS.qos(QOS_TYPE.HTML, dur);
+}
+
+if(window.__plvNeedSaveAllNodesState__)
+{
+	// __plv_saved_body__ = document.children[0].innerHTML;
+	window.__plv_saved_body__ = document.body.innerHTML;
+}
+</script>
+
+
+
+
+
+</body>
+</html>

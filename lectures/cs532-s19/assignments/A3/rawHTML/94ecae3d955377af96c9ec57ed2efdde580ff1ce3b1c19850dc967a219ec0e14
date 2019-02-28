@@ -1,0 +1,691 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
+    <meta name="google-site-verification" content="7BUFQsQMFlJd0LMx4aG9lWTdHbsjsql7hjHHrHVCPm4" />
+    <title>好きなあの人に、匿名で気持ちを伝える。ラブレター。</title>
+    
+
+
+
+            <meta name="twitter:image" content="https://love-letter.club/gcp_storage/4059491.png" />
+        <meta property="og:image" content="https://love-letter.club/gcp_storage/4059491.png" />
+
+
+        
+    
+<meta name="twitter:title" content="ㅤ𝚅𝙴𝚁𝙽𝙾𝙽 ᶠᴬᴷᴱ さんにラブレターが届いています" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content='好き ホンマに好き、' />
+
+<meta name="twitter:url" content="https://love-letter.club/suki/4059491/" />
+<meta name="twitter:site" content="@love_letter_c" />
+<meta name="twitter:domain" content="love-letter.club" />
+
+<meta property="og:title" content="ㅤ𝚅𝙴𝚁𝙽𝙾𝙽 ᶠᴬᴷᴱさんにラブレターが届いています" />
+<meta property="og:url" content="https://love-letter.club/suki/4059491/" />
+<meta property="og:site_name" content="好きなあの人に、匿名で気持ちを伝える。ラブレター。" />
+<meta property="og:description" content='好き ホンマに好き、' />
+<meta property="og:locale" content="ja_JP" />
+
+
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no">
+    <link rel="stylesheet" href="https://cdn.datatables.net/t/bs-3.3.6/jqc-1.12.0,dt-1.10.11/datatables.min.css"/>
+
+    <!-- site css -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/Okws/css/swiper.css">
+    <link rel="stylesheet" href="/Okws/css/site.min.css">
+    <link rel="stylesheet" href="/Okws/css/main.css">
+    <link rel="stylesheet" href="/css/main.css?15">
+    <link rel="stylesheet" href="/Okws/css/webfont.css">
+
+    <!--[if lt IE 9]>
+    <script src="/Okws/js/html5shiv.js"></script>
+    <script src="/Okws/js/respond.min.js"></script>
+    <![endif]-->
+
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="   crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/bs/jq-2.2.4/dt-1.10.15/datatables.min.js"></script>
+
+
+
+
+    <script type="text/javascript" src="/Okws/js/jquery.sidr.min.js"></script>
+    <script type="text/javascript" src="/Okws/js/swiper.jquery.min.js"></script>
+    <script type="text/javascript" src="/Okws/js/jquery.touchwipe.min.js"></script>
+    <script src="/Okws/js/jquery.lazyload.min.js"></script>
+
+    <script src="/Okws/js/shortcut.js"></script>
+
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="/Okws/js/moment.js"></script>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-url-parser/2.3.1/purl.min.js"></script>
+
+    <script src="/Okws/js/jquery.lazyload.min.js"></script>
+    <script src="/Okws/js/notify.min.js"></script>
+<!--    <script src="/js/footerFixed.js"></script>-->
+
+
+
+
+    <script>
+        $(function () {
+            $( "img.lazy" ).lazyload(
+                {
+                    threshold: 1000
+                }
+            );
+
+
+
+
+//        ショートカットキー
+            shortcut.add("Ctrl+Enter",function() {
+                $(".shortcut:visible").click();
+            });
+
+
+        });
+
+
+        $(document).ready(function() {
+
+            $('#right-menu').sidr(
+                {
+                    speed:100,
+                    side : 'right',
+                    //メニューを開く
+                    onOpen: function() {
+
+                        $("#sidr > div").removeClass('hide');//チラツキ防止
+
+                        $("#sidr").addClass("touchscroll");
+
+                        $("#overlay").fadeIn();//メインをクリックできないようにする
+                    }, //解除
+                    onClose: function() {
+                        $("#overlay").fadeOut();
+                    }
+                }
+            );
+
+//        黒い部分をクリックするとメニューを閉じる
+            $("#overlay").on("click", function() {
+                $("#sidr").removeClass("touchscroll");
+
+                $.sidr('close', 'sidr');
+            });
+
+            $(document).on('click', '.account-change', function() {
+                $("#sidr").removeClass("touchscroll");
+                $.sidr('close', 'sidr');
+            });
+        });
+
+
+        //        メニューを隠す
+        $(window).touchwipe({
+            wipeRight: function() {
+                // Close
+                $("#sidr").removeClass("touchscroll");
+
+                $.sidr('close', 'sidr');
+            },
+            preventDefaultEvents: false
+        });
+
+
+        $(function () {
+
+            var url = $.url();
+            soutai_link = url.attr('path');
+            $('a[href="'+soutai_link+'"]').addClass('active');
+
+
+
+
+
+
+            //経過時間を調べる
+            function parseDiffTime(date){
+
+                keika = [];
+                moment.locale('ja');
+                var now = moment();
+
+
+                //iosだとバグるるので、 スラッシュ区切りに変換
+
+
+                tmp_date = date.replace( /-/g , "/" );
+                date = moment(new Date(tmp_date)).format("YYYY/MM/DD HH:mm:ss");
+
+
+                keika['minute'] = parseInt(now.diff(date, 'minute'));
+                keika['hour'] = parseInt(now.diff(date, 'hour'));
+                keika['day'] = parseInt(now.diff(date, 'day'));
+                keika['month'] = parseInt(now.diff(date, 'month'));
+//
+                diff_time = "今";
+
+                if(keika['minute'] != 0){
+                    diff_time = keika['minute'] + " 分前";
+                }
+
+                if(keika['hour'] != 0){
+                    diff_time = keika['hour'] + " 時間前";
+                }
+
+                if(keika['day'] != 0){
+                    diff_time = keika['day'] + " 日前";
+                }
+
+                if(keika['month'] != 0){
+                    diff_time = keika['month'] + "ヶ月前";
+                }
+
+                if(keika['month'] > 6){
+                    diff_time = "半年以上前";
+                }
+
+
+                return diff_time;
+            }
+
+
+//            カンマ区切りにする
+            function addFigure(str) {
+                var num = new String(str).replace(/,/g, "");
+                while(num != (num = num.replace(/^(-?\d+)(\d{3})/, "$1,$2")));
+                return num;
+            }
+
+
+            //経過時間を調べる
+            function parseRealDiffTime(date){
+
+                keika = [];
+                moment.locale('ja');
+                var now = moment();
+
+
+                //iosだとバグるるので、 スラッシュ区切りに変換
+
+
+                tmp_date = date.replace( /-/g , "/" );
+                date = moment(new Date(tmp_date)).format("YYYY/MM/DD HH:mm:ss");
+
+                keika['day'] =  addFigure(parseInt(now.diff(date, 'day')));
+
+//
+//                diff_time = "今";
+//
+//                if(keika['minute'] != 0){
+//                    diff_time = keika['minute'] + " 分前";
+//                }
+//
+//                if(keika['hour'] != 0){
+//                    diff_time = keika['hour'] + " 時間前";
+//                }
+//
+//                if(keika['day'] != 0){
+//                    diff_time = keika['day'] + " 日前";
+//                }
+//
+//                if(keika['month'] != 0){
+//                    diff_time = keika['month'] + "ヶ月前";
+//                }
+//
+//                if(keika['month'] > 6){
+//                    diff_time = "半年以上前";
+//                }
+
+
+                diff_time = keika['day'] + "日";
+
+                return diff_time;
+            }
+
+            $.each($('.moment'),
+                function(i, v) {
+                    $(this).html(parseDiffTime($(this).text()));
+                }
+            );
+
+
+            $.each($('.real-moment'),
+                function(i, v) {
+                    $(this).html(parseRealDiffTime($(this).text()));
+                }
+            );
+
+
+            if($(".message").html()){
+                notify_type = 'success';
+                if($(".message").html().match(/Error/g)){
+                    notify_type = "error";
+                }
+
+
+                mes = $(".message").html().replace(/\n/g, "<br>");
+
+                $.notify(mes,notify_type);
+            }
+
+        });
+
+
+
+    </script>
+
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-2091651-38"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-2091651-38');
+</script></head>
+<style>
+
+    body { padding-bottom: 100px; }
+
+    .badge-red{
+        background-color: red;
+    }
+</style>
+
+<body>
+
+
+
+
+
+
+
+<header id="top">
+
+
+
+    <div class="header-menu">
+
+        <div>
+
+            <div class="col-xs-6">
+                <a href="/">
+                    <img class="media-object lazy" data-original="/img/logo.png" style="margin-top: -5px;">
+                </a>
+            </div>
+            <div class="col-xs-6 t-r">
+
+                <div class="relative">
+
+
+                    <a href="#" style="display: inline-block;">
+                        <i class="fa fa-search fa-lg" style="display: none;"></i>
+                    </a>
+
+                                            <a href="/users/oauth/" style="display: inline-block;padding-top: 10px;">
+                        <i class="fa fa-lock fa-lg"></i>
+                    </a>
+
+                        
+
+
+                </div>
+            </div>
+        </div>
+
+        <div class="clearfix"></div>
+    </div>
+
+</header>
+
+
+
+<div class="modal fade bs-account-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title">アカウント切り替え</h4>
+            </div>
+            <div class="modal-body">
+
+                <a class="btn btn-default btn-block" href="/users/oauth/"><i class="fa fa-plus" aria-hidden="true"></i> アカウント追加</a>
+                <small class="text-muted spacer" style="display: block;">
+                    ※Twitterから一度ログアウトし、連携したいアカウントでログインして下さい。
+                </small>
+
+                <hr/>
+
+                
+
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="container">
+    </div>
+
+
+
+
+
+
+
+
+
+<script>
+
+    $(function () {
+
+        $('#re-body').bind('keyup',function(){
+            message = $(this).val();
+            var ct = message.replace(/\s+/g,'').length; // ←★replace()を追加
+
+            emoji_ct = (message.match(/[\uD800-\uDBFF][\uDC00-\uDFFF]/g)||[]).length;
+
+            ct = ct-emoji_ct;
+            $("#text-count").html(ct);
+
+            if(ct > 100){
+
+                $(".mery-btn").addClass("disabled");
+
+            } else {
+                $(".mery-btn").removeClass("disabled");
+
+            }
+
+
+        });
+
+
+        //$('#modal-dummy').click(); //要素をクリックさせる
+        //動的要素に対応 keyup change
+        $(document).on('change', '#send-type', function() {
+
+            var data = {send_type:$(this).prop('checked')};
+
+//            alert($(this).prop('checked'));
+//
+            $.ajax({
+                url: "/users/sendtype/",
+                type: "POST",
+                //    dataType: 'json', //jsonで取得する場合は必須
+                data: data
+            }).done(function(res){
+//                alert('success!!');
+            }).fail(function(res){
+//                alert('error!!!');
+            });
+
+        //    $('form').submit();//フォーム送信
+        });
+
+        $(document).on('click', '#kidoku-btn', function() {
+
+            var data = {
+                id:"4059491"
+            };
+
+            $.ajax({
+                url: "/mes/kidoku/",
+                type: "POST",
+                //    dataType: 'json', //jsonで取得する場合は必須
+                data: data
+            }).done(function(res){
+
+                $("#kidoku-btn").prop("disabled",true);
+                $("#kidoku-btn").html('<i class="fa fa-envelope-open" aria-hidden="true"></i> 返信済み');
+
+
+            }).fail(function(res){
+                // alert('error!!!');
+            });
+
+
+        });
+
+    });
+
+</script>
+
+
+<div class="t-c">
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- ラブレター返信上 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:320px;height:50px"
+         data-ad-client="ca-pub-8647597541914706"
+         data-ad-slot="2407567929"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+</div>
+
+
+
+<div class="container">
+
+
+    
+
+
+
+
+    
+        
+
+                            <img alt="ホンマに好き、" data-original="/gcp_storage/4059491.png" class="img-responsive center-block lazy" />
+
+
+            
+
+
+        
+
+        
+
+    
+
+
+    <hr/>
+
+    
+
+        
+            <p>
+                ラブレターの返信はTwitterで行われます。<br>
+                Twitterでㅤ𝚅𝙴𝚁𝙽𝙾𝙽 ᶠᴬᴷᴱさんをフォローして返信を待ちましょう。
+            </p>
+
+
+            <div class="t-c">
+                <a target="_blank" href="https://twitter.com/98218bot?ref_src=twsrc%5Etfw"
+                   class="twitter-follow-button"
+                   data-show-count="false">Follow @98218bot</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </div>
+
+        
+
+
+
+        
+
+<div class="t-c" style="margin-top: 5px !important;">
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- ラブレターを送る上部 -->
+    <ins class="adsbygoogle"
+         style="display:inline-block;width:320px;height:50px"
+         data-ad-client="ca-pub-8647597541914706"
+         data-ad-slot="3856380963"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+</div>
+
+
+
+
+    <div class="container">
+        <div class="t-r" style="padding: 5px 0 ;">
+
+            <a href="/friends/show/98218bot/" class="btn btn-default">
+                <i class="fa fa-users" aria-hidden="true"></i> お友達に一括送信
+            </a>
+
+            <a href="/mes/kako/98218bot/" class="btn btn-default">
+                <i class="fa fa-envelope-open" aria-hidden="true"></i> 返信済み
+            </a>
+
+        </div>
+
+    </div>
+
+
+
+
+    <div class="media">
+        <a class="media-left" href="#">
+            <img src="https://pbs.twimg.com/profile_images/1094953992763797504/jJVplLeN_normal.jpg" class="media-object img-circle">
+        </a>
+        <div class="media-body">
+            <h4 class="mp0">ㅤ𝚅𝙴𝚁𝙽𝙾𝙽 ᶠᴬᴷᴱ <small style="color: #000;">さんへ</small><br><small style="color: #000;">@98218bot</small></h4>
+        </div>
+    </div>
+
+    <hr/>
+
+    <p class="mes">
+        ラブレターでは、誰でも匿名で "好き" を伝えることができます。<br>
+        イタズラメッセージは人工知能AIが自動で弾きます。<br>
+        イタズラや傷つける内容に限り、<br>特定されますので絶対にやめましょう。<br>
+<!--        あなたの情報 : -->    </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+        <a href="/users/oauth/" class="btn mery-btn mery-btn-blue block spacer">
+            <i class="fa fa-lock fa-fw"></i> ログイン後に送信できます
+        </a>
+
+
+
+    
+
+
+
+
+    
+
+
+
+    
+
+
+
+</div>
+
+
+
+
+<div class="spacer">
+
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <!-- ラブレター返信下 -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-8647597541914706"
+         data-ad-slot="7109230262"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+
+</div>
+
+
+
+
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+
+
+
+<style>
+
+    .navbar-fixed-bottom {
+
+        background-color:#fff;
+        border-top: 1px solid #ededed;
+    }
+
+    .navbar-fixed-bottom a {
+        display: block;
+        padding: 10px;
+        color: #666 !important;
+    }
+</style>
+
+<div class="navbar-fixed-bottom">
+
+    
+
+        <div class="container-fluid mp0">
+
+            <a href="/users/oauth/" class="btn mery-btn mery-btn-pink block" style="color: #fff !important;">
+                <i class="fa fa-heart fa-fw"></i>私もラブレターが欲しい
+            </a>
+
+        </div>
+
+
+
+
+    
+
+</div>
+
+
+
+
+
+
+</body>
+
+
+</html>

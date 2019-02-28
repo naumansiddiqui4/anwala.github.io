@@ -1,0 +1,1506 @@
+<!DOCTYPE html>
+ <html lang="ja">
+ <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+ <!-- main header start -->
+ <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+ <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+ <meta http-equiv="Content-Language" content="ja" />
+ <meta http-equiv="Content-Script-Type" content="text/javascript" />
+ <meta http-equiv="Content-Style-Type" content="text/css" />
+ <meta name="copyright" content="Copyright JIJI PRESSLTD Ltd. All Rights Reserved." />
+ <meta name="keywords" content="ニュース,時事ドットコム,時事通信社" />
+ <meta name="description" content="世耕弘成経済産業相は１５日、閣議後の記者会見で、１０月の消費税増税に合わせて実施するポイント還元制度について、クレジットカード会社などの決済事業者に対する補助を「ポイント相当額の全額」とはしない方針を明らかにした。「決済事業者がこの政策によって不当に利益を得ることがないようにする」と語った。（2019/02/15-10:44）" />
+ <meta name="title" content="決済企業に全額補助せず＝消費増税のポイント還元－世耕経産相：時事ドットコム" />
+ <meta name="robots" content="noarchive">
+ <script type="application/ld+json">
+ {
+ 	"@context": "http://schema.org",
+ 	"@type": "BreadcrumbList",
+ 	"itemListElement": [{
+ 		"@type": "ListItem",
+ 		"position": 1,
+ 		"item": {
+ 			"name": "時事ドットコム",
+ 			"@id": "/"
+ 		}
+ 	}	,{"@type": "ListItem","position": 2,"item": {"@id": "/jc/c?g=eco","name": "経済"}}
+	
+ 	]
+ }
+ </script>
+
+<script type="application/ld+json">
+ {
+ 	"@context": "http://schema.org",
+ 	"@type": "NewsArticle",
+ 	"mainEntityOfPage":{
+ 		"@type":"WebPage",
+ 		"@id":"https://www.jiji.com/jc/article?k=2019021500463&g=eco"
+ 	},
+ 	"headline": "決済企業に全額補助せず＝消費増税のポイント還元－世耕経産相",
+ 	"description": "世耕弘成経済産業相は１５日、閣議後の記者会見で、１０月の消費税増税に合わせて実施するポイント還元制度について、クレジットカード会社などの決済事業者に対する補助を「ポイント相当額の全額」とはしない方針を明らかにした。「決済事業者がこの政策によって不当に利益を得ることがないようにする」と語った。（2019/02/15-10:44）",
+ 	"url": "https://www.jiji.com/jc/article?k=2019021500463&g=eco",
+ 	"image": {"@type": "ImageObject","url": "https://www.jiji.com/img/jijicom_og_image.png", "height": 630,"width": 1200},
+ 	"thumbnailurl": "https://www.jiji.com/news2/kiji_photos/square/dummy/eco1-1.jpg",
+ 	"dateCreated": "2019-02-15T10:44:00+09:00",
+ 	"datePublished":"2019-02-15T10:44:00+09:00",
+ 	"dateModified":"2019-02-15T15:29:00+09:00",
+ 	"articleSection": "経済",
+ 	"creator": "時事通信社",
+ 	"author": { 
+ 		"@type": "Organization", 
+ 		"name": "時事通信社" 
+ 	},
+ 	"publisher": {
+ 		"@type": "Organization",
+ 		"name": "時事通信社",
+ 		"logo": {
+ 		"@type": "ImageObject",
+ 			"url": "https://www.jiji.com/img/jijicom_amp.png",
+ 			"width": 600,
+ 			"height": 60
+ 		}
+ 	}
+ }
+ </script>
+
+ <meta property="article:publisher" content="https://www.facebook.com/wwwjijicom/" />
+ <meta property="article:author" content="https://www.facebook.com/wwwjijicom/" />
+ <meta property="fb:app_id" content="2210739305919229" />
+ <meta property="fb:pages" content="1530007017305928" />
+ <meta property="og:locale" content="ja_JP" />
+ <meta property="og:site_name" content="時事ドットコム" />
+ <meta property="og:type" content="article" />
+ <meta property="og:image" content="https://www.jiji.com/news2/kiji_photos/square/dummy/eco1-1.jpg" />
+ <meta property="og:title" content="決済企業に全額補助せず＝消費増税のポイント還元－世耕経産相：時事ドットコム" />
+ <meta property="og:description" content="世耕弘成経済産業相は１５日、閣議後の記者会見で、１０月の消費税増税に合わせて実施するポイント還元制度について、クレジットカード会社などの決済事業者に対する補助を「ポイント相当額の全額」とはしない方針を明らかにした。「決済事業者がこの政策によって不当に利益を得ることがないようにする」と語った。（2019/02/15-10:44）" />
+ <meta property="og:url" content="https://www.jiji.com/jc/article?k=2019021500463&g=eco" />
+ <meta property="twitter:account_id" content="4503599627439296" />
+ <meta name="twitter:site" content="@jijicom">
+ <meta name="twitter:card" content="summary" />
+ <meta name="twitter:title" content="決済企業に全額補助せず＝消費増税のポイント還元－世耕経産相：時事ドットコム" />
+ <meta name="twitter:description" content="世耕弘成経済産業相は１５日、閣議後の記者会見で、１０月の消費税増税に合わせて実施するポイント還元制度について、クレジットカード会社などの決済事業者に対する補助を「ポイント相当額の全額」とはしない方針を明らかにした。「決済事業者がこの政策によって不当に利益を得ることがないようにする」と語った。（2019/02/15-10:44）" />
+ <meta name="twitter:image" content="https://www.jiji.com/news2/kiji_photos/square/dummy/eco1-1.jpg" />
+ <meta name="twitter:url" content="https://www.jiji.com/jc/article?k=2019021500463&g=eco" />
+ <meta name="mixi-check-robots" CONTENT="noimage">
+ <meta content="2019-02-15T10:44:00+09:00" itemprop="datePublished" name="pubdate"/>
+<meta content="eco" itemprop="outbrain:category" name="outbrain:category"/>
+<link rel="amphtml" href="/amp/article?k=2019021500463&g=eco">
+
+ <link rel="canonical" href="https://www.jiji.com/jc/article?k=2019021500463&g=eco"/>
+ <!-- moble URL start -->
+ <link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.jiji.com/sp/article?k=2019021500463&g=eco" >
+ <!-- moble URL end -->
+ <link rel="alternate" type="application/rss+xml" title="時事ドットコムアクセスランキング" href="https://www.jiji.com/rss/ranking.rdf" />
+ <link rel="shortcut icon" type="image/x-icon" href="https://www.jiji.com/favicon.ico" />
+ <link rel="preconnect" href="//www.google-analytics.com" crossorigin>
+ <link rel="preconnect" href="//pagead2.googlesyndication.com" crossorigin>
+ <link rel="preconnect" href="//tpc.googlesyndication.com" crossorigin>
+ <link rel="preconnect" href="//www.googletagservices.com" crossorigin>
+ <link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+ <link rel="preconnect" href="//yads.c.yimg.jp" crossorigin>
+ <link rel="preconnect" href="//cdn.as.amanad.adtdp.com" crossorigin>
+ 
+ <link rel="apple-touch-icon" href="https://www.jiji.com/img/top_logo_square.png" />
+ 
+ <meta name="viewport" content="width=1100, minimum-scale=0.1">
+ <title>決済企業に全額補助せず＝消費増税のポイント還元－世耕経産相：時事ドットコム</title>
+ <!-- main header end -->
+ 
+ <link href="/news2/common/css/html5reset-1.6.1.css" type="text/css" rel="stylesheet">
+ <link media="all, projection, print" href="/news2/common/css/common.css" type="text/css" rel="stylesheet">
+ <link rel="stylesheet" href="/news2/common/css/switch.css" type="text/css">
+ <link rel="stylesheet" href="/news2/common/css/sns.css" type="text/css">
+ <!--webフォント-->
+ <link rel="stylesheet" href="/news2/common/css/solid.min.css">
+ <link rel="stylesheet" href="/news2/common/css/brands.min.css">
+ <link rel="stylesheet" href="/news2/common/css/fontawesome.min.css">
+ <!--webフォント-->
+ <link rel="stylesheet" href="/news2/common/css/figure.css">
+
+ 
+ <!--&#91;if lt IE 9&#93;>
+ <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+ <!&#91;endif&#93;-->
+ <script src="/news2/common/js/jquery-2.2.4.min.js"></script>
+ <!--タブ切替-->
+ <script src="/news2/common/js/tabs.js"></script>
+ <!--タブ切替-->
+ <!--タブリスト-->
+ <script src="/news2/common/js/tablist.js"></script>
+ <!--タブリスト-->
+ <!--ヘッダー-->
+ <script src="/news2/common/js/header.js"></script>
+ <!--ヘッダー-->
+ <!--フェードイン-->
+ <script src="/news2/common/js/fadein.js"></script>
+ <!--フェードイン-->
+ <!--cookie-->
+ <script src="/news/common/js/jquery.cookie.js" type="text/javascript"></script>
+ <!--jc_common_1-->
+ <script src="/news2/common/js/jc_common_1.js" type="text/javascript"></script>
+ <script src="/news2/common/js/lazyload.min.js"></script>
+ <script src="/news2/common/js/lazyload.js"></script>
+ 
+ <!-- Google Tag Manager -->
+ <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+ })(window,document,'script','dataLayer','GTM-T9VJVBN');</script>
+ <!-- End Google Tag Manager -->
+ 
+ <!-- Optimize Start -->
+ <style>.async-hide { opacity: 0 !important} </style>
+ <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+ h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+ (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+ })(window,document.documentElement,'async-hide','dataLayer',4000,
+ {'GTM-533HPW6':true});</script>
+ <!-- Optimize End -->
+ 
+ <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+   ga('create', 'UA-1063805-1', 'auto', 'jijiga');
+   ga('jijiga.require', 'linkid');
+   ga('jijiga.require', 'GTM-533HPW6');
+   ga('jijiga.send', 'pageview');
+ 
+ </script>
+ 
+ <script>
+ $(function(){
+ 	// iPhone6 Plus Landscape Viewport
+ 	if(navigator.userAgent.indexOf('iPhone') > 0){
+ 		if(window.devicePixelRatio == 3) {
+ 
+ 			var metalist = document.getElementsByTagName('meta');
+ 			for(var i = 0; i < metalist.length; i++) {
+ 			    var name = metalist[i].getAttribute('name');
+ 			    if(name && name.toLowerCase() === 'viewport') {
+ 			        metalist[i].setAttribute('content', 'width=1000,initial-scale=0.6');
+ 			        break;
+ 			    }
+ 			}
+ 		}
+ 	}else if(navigator.userAgent.indexOf('iPad') > 0){
+  		var metalist = document.getElementsByTagName('meta');
+ 	 	for(var i = 0; i < metalist.length; i++) {
+  		    var name = metalist[i].getAttribute('name');
+  	    	if(name && name.toLowerCase() === 'viewport') {
+  	        	metalist[i].setAttribute('content', 'width=1020');
+ 				break;
+  			}
+ 	 	}
+ 	}
+ });
+ </script>
+ 
+ 
+ <!-- Google Advertisement header start -->
+ <!-- Google Advertisement header start -->
+ <script type='text/javascript'>
+  var gptadslots=[];
+  (function(){
+   var useSSL = 'https:' == document.location.protocol;
+   var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+   document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+  })();
+ </script>
+ 
+ <script type="text/javascript">
+ 
+ //Adslot 8 declaration
+ gptadslots[8]= googletag.defineSlot('/60445660/www/eco/billboard2', [[1,1],[970,250]],'eco-7').addService(googletag.pubads());
+ 
+ //Adslot 1 declaration
+ gptadslots[1]= googletag.defineSlot('/60445660/www/eco/1stRec', [[300, 250], [300, 500], [300, 600]],'eco-0').addService(googletag.pubads());
+ 
+ //Adslot 3 declaration
+ gptadslots[3]= googletag.defineSlot('/60445660/www/eco/2ndRec',[300, 250],'eco-2').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+ 
+ //Adslot 4 declaration
+ gptadslots[4]= googletag.defineSlot('/60445660/www/eco/3rdRec', [300, 250],'eco-3').addService(googletag.pubads()).setCollapseEmptyDiv(true);
+ 
+ //Adslot 5 declaration
+ gptadslots[5]= googletag.defineSlot('/60445660/www/eco/Fbc', [[490, 160], [640, 360], [680, 360],[300, 250]],'eco-4').addService(googletag.pubads());
+ 
+ //Adslot 6 declaration
+ gptadslots[6]= googletag.defineSlot('/60445660/www/eco/Rakuten',[[660, 200], [680, 200],[680, 360],[660, 280],[300, 250]],'eco-5').addService(googletag.pubads());
+ 
+ //Adslot 7 declaration
+ gptadslots[7]= googletag.defineSlot('/60445660/www/eco/Spb',[728, 90],'eco-6').addService(googletag.pubads());
+ 
+ //Adslot 9 declaration
+ gptadslots[9] = googletag.defineSlot('/60445660/www/eco/title', [[640, 70], [680, 70]], 'eco-8').addService(googletag.pubads());
+ 
+ //Adslot 10 declaration
+ gptadslots[10] = googletag.defineSlot('/60445660/www/eco/UA_1', [[680, 280], [300, 250], [336, 280], [250, 250]], 'eco-9').addService(googletag.pubads());
+ 
+ googletag.pubads().enableSingleRequest();
+ googletag.pubads().disableInitialLoad();
+ <!--async-->
+ googletag.enableServices();
+ 
+ </script>
+ 
+ <script>
+  !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+  apstag.init({
+      pubID: '3762',
+      adServer: 'googletag'
+  });
+  apstag.fetchBids({
+      slots: [
+      {
+          slotID: 'eco-7',
+          slotName: '/60445660/www/eco/billboard2',
+          sizes: [[1,1],[970,250]]
+      },
+      {
+          slotID: 'eco-0',
+          slotName: '/60445660/www/eco/1stRec',
+          sizes: [[300, 250], [300, 500], [300, 600]]
+      },
+      {
+          slotID: 'eco-2',
+          slotName: '/60445660/www/eco/2ndRec',
+          sizes: [[300,250]]
+      },
+      {
+          slotID: 'eco-3',
+          slotName: '/60445660/www/eco/3rdRec',
+          sizes: [[300,250]]
+      },
+      {
+          slotID: 'eco-4',
+          slotName: '/60445660/www/eco/Fbc',
+          sizes: [[490,160],[640,360],[680,360],[300, 250]]
+      },
+      {
+          slotID: 'eco-5',
+          slotName: '/60445660/www/eco/Rakuten',
+          sizes: [[660,200],[680,200],[680, 360],[660, 280],[300, 250]]
+      },
+      {
+          slotID: 'eco-6',
+          slotName: '/60445660/www/eco/Spb',
+          sizes: [[728,90]]
+      },
+      {
+          slotID: 'eco-8',
+          slotName: '/60445660/www/eco/title',
+          sizes: [[640, 70], [680, 70]]
+      },
+      {
+          slotID: 'eco-9',
+          slotName: '/60445660/www/eco/UA_1',
+          sizes: [[660, 280], [300, 250], [336, 280], [250, 250]]
+      },
+      ], 
+      timeout: 2e3
+  }, function(bids) {
+      // Your callback method, in this example it triggers the first DFP request for googletag's disableInitialLoad integration after bids have been set
+      googletag.cmd.push(function(){
+          apstag.setDisplayBids();
+          googletag.pubads().refresh();
+      });
+  });
+ </script>
+ <!-- Google Advertisement header end -->
+ <!-- Google Advertisement header end -->
+ 
+ </head>
+ <body>
+ 
+ 	<!-- Google Tag Manager (noscript) -->
+ 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T9VJVBN"
+ 	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ 	<!-- End Google Tag Manager (noscript) -->
+ 
+ 	<!-- Beginning Sync AdSlot 7 for Ad unit www/eco/billboard2 ### size: [[970,250]]  -->
+ 	<div id='eco-7' style="text-align: center;line-height: 0px;">
+ 	<script type='text/javascript'>
+ 	googletag.cmd.push(function() { googletag.display('eco-7'); });
+ 	</script>
+ 	</div>
+ 	<!-- End AdSlot 7 -->
+ 
+ 	<!-- header start -->
+ 	<header id="PageHeader">
+ 
+ 	<nav class="Gnav">
+ 	<div id="GnavInner">
+     	<div class="MainNav">
+         	<ul id="dropdownmenu" class="Nav clearfix">
+                 <li id="NavHome"><a class="Select Active" href="/"><i class="fas fa-home"></i>&nbsp;ニュース</a></li>
+                 <li id="NavSport"><a href="/jc/c?g=spo">スポーツ</a></li>
+                 <li id="NavPhoto"><a href="/jc/p">写真・動画</a></li>
+                 <li id="NavFeature"><a href="/jc/v">特集</a></li>
+                 <li id="NavEntertainment"><a href="/jc/c?g=ent">エンタメ･AKB48</a></li>
+                 <li id="NavArea"><a href="/jc/list?g=jfn">地域</a></li>
+                 <li id="NavLife"><a href="/jc/travel">ライフ</a></li>
+ 				<li id="Navmedi"><a href="http://medical.jiji.com/">メディカル</a></li>
+             </ul>
+         </div>
+         
+         <!--サブメニュー-->
+         <div id="sub_NavHome" class="SubDropdown">
+          	<ul class="clearfix">
+ 				<li><a href="/jc/c?g=pol" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">政治</a></li>
+ 				<li><a href="/jc/c?g=eco" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">経済</a></li>
+ 				<li><a href="/jc/market" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">マーケット</a></li>
+ 				<li><a href="/jc/c?g=soc" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">社会</a></li>
+ 				<li><a href="/jc/c?g=int" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">国際</a></li>
+                 <li><a href="/jc/list?g=afp" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">ワールドEYE</a></li>
+                 <li><a href="/jc/list?g=obt" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">訃報</a></li>
+                 <li><a href="/jc/calendar" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">予定</a></li>
+                 <li><a href="/jc/list?g=bw" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">BWリリース</a></li>
+                 <li><a href="/jc/list?g=prt" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">PRTIMES</a></li>
+                 <li><a href="/jc/r" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">アクセスランキング</a></li>
+                 <li><a href="https://jen.jiji.com/" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">ENGLISH</a></li>
+ 			</ul>
+ 		</div>
+ 
+         <div id="sub_NavSport" class="SubDropdown" style="display: none;">
+          	<ul class="clearfix">
+ 				<li><a href="/jc/c?g=spo" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">総合</a></li>
+ 				<li><a href="/jc/c?g=bsb" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">野球</a></li>
+ 				<li><a href="/jc/c?g=scr" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">サッカー</a></li>
+ 				<li><a href="/jc/pga" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">PGAツアー</a></li>
+ 				<li><a href="/jc/score" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">記録速報</a></li>
+ 				<li><a href="/jc/tsn" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">JSPOスポーツ</a></li>
+ 				<li><a href="/jc/v2?id=20151225olyparaly" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">オリパラ通信</a></li>
+ 				<li><a href="/jc/eplayer" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">スポーツ動画</a></li>
+ 				<li><a href="/jc/c?g=hsb" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">高校野球</a></li>
+ 				<li><a href="/jc/tokushu?g=rgb" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());" class="jijinavy">ラグビー</a></li>
+ 			</ul>
+ 		</div>
+         <div id="sub_NavPhoto" class="SubDropdown" style="display: none;">
+          	<ul class="clearfix">
+ 				<li><a href="/jc/p" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">写真ニュース</a></li>
+ 				<li><a href="/jc/movie?g=news" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">ニュース動画</a></li>
+ 				<li><a href="/jc/movie?g=trend" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">トレンド動画</a></li>
+ 				<li><a href="/jc/d3" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">写真特集</a></li>
+ 			</ul>
+ 		</div>
+         <div id="sub_NavFeature" class="SubDropdown" style="display: none;">
+          	<ul class="clearfix">
+ 				<li><a href="/jc/v" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">特集記事</a></li>
+ 				<li><a href="/jc/v6" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">知ってる？</a></li>
+ 				<li><a href="/jc/list?g=cyr" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">深層探訪</a></li>
+ 				<li><a href="/jc/graphics" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">図解</a></li>
+ 			</ul>
+ 		</div>
+         <div id="sub_NavEntertainment" class="SubDropdown" style="display: none;">
+          	<ul class="clearfix">
+ 				<li><a href="/jc/c?g=ent" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">ニュース･動画</a></li>
+ 				<li><a href="/jc/list?g=cnp" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">韓流</a></li>
+ 				<li><a href="/jc/ak" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">ＡＫＢ４８</a></li>
+ 			</ul>
+ 		</div>
+         <div id="sub_NavArea" class="SubDropdown" style="display: none;">
+          	<ul class="clearfix">
+ 				<li><a href="/jc/list?g=jfn" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">にっぽんもぎたて便</a></li>
+ 				<li><a href="/jc/list?g=jti" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">トップインタビュー</a></li>
+ 				<li><a href="/jc/list?g=jmp" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">自治体便り</a></li>
+ 			</ul>
+ 		</div>
+         <div id="sub_NavLife" class="SubDropdown" style="display: none;">
+          	<ul class="clearfix">
+ 				<li><a href="http://www.afpbb.com/category/jiji-trend" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">JIJI Trend</a></li>
+ 				<li><a href="/jc/travel" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">旅行</a></li>
+                 <li><a href="/jc/list?g=newitem" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">新商品</a></li>
+                 <li><a href="/jc/list?g=marketfront" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">マーケット最前線</a></li>
+                 <li><a href="/jc/v2?id=2018marine" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">お魚情報</a></li>
+                 <li><a href="/jc/car" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">クルマ</a></li>
+                 <li><a href="/jc/g" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">なんでもランキング</a></li>
+                 <li><a href="/jc/sake" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">酒あれこれ</a></li>
+ 			</ul>
+ 		</div>
+         <div id="sub_Navmedi" class="SubDropdown" style="display: none;">
+          	<ul class="clearfix">
+ 				<li><a href="http://medical.jiji.com/column/articles/?c=1" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">一流に学ぶ</a></li>
+ 				<li><a href="http://medical.jiji.com/topics/" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">ピックアップ</a></li>
+ 				<li><a href="http://medical.jiji.com/news/" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">ニュース</a></li>
+ 				<li><a href="http://medical.jiji.com/doctor/" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">ドクターズガイド</a></li>
+ 				<li><a href="http://medical.jiji.com/medical/" onclick="ga('jijiga.send', 'event' , ' global_menu_click' , 'click' , $(this).text());">家庭の医学</a></li>
+ 			</ul>
+ 		</div>
+ 
+         <!--サブメニュー-->
+         
+     </div>
+ </nav>
+ 
+ 	
+ 
+     <div id="PageHeaderInner">
+     	<div class="SiteLogo"><a href="/"><img width="" height="" alt="" src="/img/top_header_logo4.png"></a></div>
+         <div id="SuperBanner">
+ 
+ 		<!-- Google Advertisement Spb start -->
+ 			<!-- www/eco/Spb -->
+ 			<div id='eco-6' style='width:728px; height:90px;'>
+ 			<script type='text/javascript'>
+ 			googletag.cmd.push(function() { googletag.display('eco-6'); });
+ 			</script>
+ 			</div>
+ 		<!-- Google Advertisement Spb end -->
+ 
+         </div>
+         <div id="Weather">
+         	<table cellspacing="0" cellpadding="0" border="0">
+             	<tbody>
+                 	<tr><th>2019</th></tr>
+                     <tr><td>2月24日（日）</td></tr>
+                 </tbody>
+             </table>
+ 
+ 			<!-- Weather parts -->
+ 			<script language=JavaScript>
+ 			<!--
+ 			var stat = get_cookie('FORECAST');
+ 			if(stat != ''){
+ 				document.write('<script src="\/news2\/forecast\/js\/' + stat + '.js" type="text\/javascript"><\/script>');
+ 			}else{
+ 				document.write('<script src="\/news2\/forecast\/js\/4410.js" type="text\/javascript"><\/script>');
+ 			}
+ 			function get_cookie(key)
+ 			{
+ 				var temp;
+ 				var a, b, c;
+ 				var ret = "";
+ 				temp = document.cookie + ";";
+ 				c = temp.indexOf((key+"="), 0);
+ 				if (c != -1) {
+ 					temp = temp.substring(c, temp.length);
+ 					a = temp.indexOf("=", 0) + 1;
+ 					b = temp.indexOf(";", a);
+ 					if (a < b) {
+ 						ret = unescape(temp.substring(a, b));
+ 					}
+ 				}
+ 				return(ret);
+ 			}
+ 			//--->
+ 			</script>
+ 			<!-- Weather parts -->
+ 
+             <!--<div class="WeatherInner clearfix">
+             	<span class="WeatherIcon"><a href=""><img width="37" height="37" alt="" src="/news2/common/img/weather/01.png"></a></span>
+                 <div class="WeatherDate">
+                 	<p class="WeatherArea"><a href="">東京</a></p>
+                     <p class="WeatherTemperature">
+                     	<span class="TemperatureHigh">23℃</span> / <span class="TemperatureLow">20℃</span>
+                     </p>
+                     <p class="WeatherPrecipitation">降水確率：100%</p>
+                 </div>
+             </div>-->
+ 
+         </div>
+     </div>
+ </header>
+ 	<!-- header end -->
+ 
+ 	<div id="Contents">
+     	<div class="clearfix" id="ContentsInner">
+ 
+ 			<!--teads start-->
+ <script src="//a.teads.tv/page/63067/tag" async="true"></script>
+ <!--teads end-->
+ 
+ <!--フォントサイズ-->
+ <script src="/news2/common/js/textresizer.js" charset="utf-8"></script>
+ <!--フォントサイズ-->
+ <div id="Main">
+ 
+ 	<!--ぱんくず-->
+ 	<div class="BreadCrumbs clearfix">
+ 		<p><a href="/">時事ドットコムニュース</a></p>
+ 		<span>&gt;</span>
+ 		<p><a href="/jc/c?g=eco">経済</a></p>
+ 		<span>&gt;</span>
+ 		<p>決済企業に全額補助せず＝消費増税のポイント還元－世耕経産相</p>
+ 	</div>
+ 
+ 	<!--ぱんくず-->
+ 	
+ 
+ 	<div class="MainInner Individual">
+ 			<div class="SnsBtn">
+ 		<ul class="clearfix">
+ 			<li>
+ 				<a href="http://twitter.com/share?url=https%3A%2F%2Fwww.jiji.com%2Fjc%2Farticle%3Fk%3D2019021500463%26g%3Deco&lang=ja&via=jijicom&text=%E6%B1%BA%E6%B8%88%E4%BC%81%E6%A5%AD%E3%81%AB%E5%85%A8%E9%A1%8D%E8%A3%9C%E5%8A%A9%E3%81%9B%E3%81%9A%EF%BC%9D%E6%B6%88%E8%B2%BB%E5%A2%97%E7%A8%8E%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E9%82%84%E5%85%83%EF%BC%8D%E4%B8%96%E8%80%95%E7%B5%8C%E7%94%A3%E7%9B%B8%EF%BC%9A%E6%99%82%E4%BA%8B%E3%83%89%E3%83%83%E3%83%88%E3%82%B3%E3%83%A0" onClick="window.open(this.href, 'tweetwindow', 'width=650, height=470, personalbar=0, toolbar=0, scrollbars=1, sizable=1'); return false;" rel="nofollow"><img width="80" height="22" alt="" src="/news2/common/img/sns-twitter.png" alt="ツイート" width="50" height="50" /></a>
+ 			</li>
+ 			<li>
+ 				<a href="http://www.facebook.com/share.php?u=https%3A%2F%2Fwww.jiji.com%2Fjc%2Farticle%3Fk%3D2019021500463%26g%3Deco" rel="nofollow" onClick="window.open(this.href,'fbwindow','width=550, height=450, personalbar=0, toolbar=0, scrollbars=1'); return false;"><img width="80" height="22" alt="" src="/news2/common/img/sns-fb.png"></a>
+ 			</li>
+ 			<li class="hb">
+ 				<a href="//b.hatena.ne.jp/entry/https%3A%2F%2Fwww.jiji.com%2Fjc%2Farticle%3Fk%3D2019021500463%26g%3Deco" target="_blank" class="hatena-bookmark-button" data-hatena-bookmark-layout="simple" data-hatena-bookmark-initialized="1" data-snsaction="share">
+ 					<img src="/news2/common/img/hatenabookmark-logo.png" width="18" height="18">
+ 				</a>
+ 			</li>
+ 		</ul>
+ 	</div>
+ 
+ 		<div class="ArticleTitleButton">
+ 			<ul class="clearfix">
+ 				<li class="small">小</li>
+ 				<li class="middle current">中</li>
+ 				<li class="large">大</li>
+ 			</ul>
+ 		</div>
+ 		<!-- google_ad_section_start(name=s1) -->
+ 		<article>
+ 	<div class="ArticleTitle">
+ 		<h1>決済企業に全額補助せず＝消費増税のポイント還元－世耕経産相</h1>
+ 		<div class="ArticleData clearfix">
+	<p class="ArticleTitleData">2019年02月15日10時44分</p>
+</div>
+
+ 	</div>
+ 
+ 	
+ 	<aside><!--テキストAD-->
+ <div class="ArticleAd">
+ 	<!-- /60445660/www/eco/title -->
+ 	<div id='eco-8'>
+ 		<script>
+ 			googletag.cmd.push(function() { googletag.display('eco-8'); });
+ 		</script>
+ 	</div>
+ </div>
+ <!--テキストAD--></aside>
+ 	
+ 
+ 	<div class="ArticleText clearfix">
+ 		<p>
+ 		　世耕弘成経済産業相は１５日、閣議後の記者会見で、１０月の消費税増税に合わせて実施するポイント還元制度について、クレジットカード会社などの決済事業者に対する補助を「ポイント相当額の全額」とはしない方針を明らかにした。「決済事業者がこの政策によって不当に利益を得ることがないようにする」と語った。（2019/02/15-10:44）
+ 		<img src="/news2/kiji_photos/square/dummy/eco1-1.jpg" alt="" width="1" height="1"></p>
+ 		<aside>
+	<p>
+		<a href="/jc/list?g=eco" onclick="ga('jijiga.send', 'event', 'article_eco_listback_link', 'click',$('title').text());">【経済記事一覧へ】</a>
+		<a href="/jc/r#eco" onclick="ga('jijiga.send', 'event', 'article_eco_access_link', 'click',$('title').text());">【アクセスランキング】</a>
+		
+	</p>
+</aside>
+
+ 	</div>
+ </article>
+ <!-- genre:g_eco -->
+ <!-- key="news date" value="20190215104433" -->
+ <!-- key="upd_date" value="20190215152959" -->
+ <!-- key="title" value="決済企業に全額補助せず＝消費増税のポイント還元－世耕経産相" -->
+ <!-- h:1 -->
+ <!-- p:20 -->
+ <!-- r:0 -->
+ 		<!-- google_ad_section_end(name=s1) -->
+ 	</div>
+ 
+ 	<div class="Rectangle2 clearfix">
+ 		<!-- /60445660/www/eco/UA_1 -->
+ 		<div id='eco-9'>
+ 			<script>
+ 				googletag.cmd.push(function() { googletag.display('eco-9'); });
+ 			</script>
+ 		</div>
+ 	</div>
+ 
+ 	
+ 	<!-- AJA REL -->
+ 	<div class="aja_rel">
+ 		<script src="https://cdn.as.amanad.adtdp.com/tag/40632.js" data-aja-ssp-asi="0_lrd_wmg" async></script>
+ 	</div>
+ 	<!-- /AJA REL -->
+ 
+
+ 
+ 	<!--下層ページサブコンテンツ-->
+ 				<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_3" data-ob-template="jiji.com"></div>
+			<div class="OUTBRAIN" data-src="DROP_PERMALINK_HERE" data-widget-id="AR_4" data-ob-template="jiji.com"></div>
+			<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script>
+
+ 
+ 	
+ 
+ 	<!-- おすすめ -->
+ 	<section class="RecommendUnderlayer">
+ <div class="Title clearfix">
+ <p>特集</p>
+ </div>
+ <div class="RecommendUnderlayerInner">
+ <img style="width:0px;height:0px;" src="/news/kiji_photos/square/dummy/dummy.jpg" alt="時事ドットコム：時事通信社が運営するニュースサイト">
+ <ul><li>
+ <a href="/jc/v4?id=foresight_00248_201812270001" onclick="ga('jijiga.send', 'event' , ' special_click_eco' , 'click ' , $(this).text() , '1');" onclick="ga('jijiga.send', 'event' , ' recommend_eco_click' , 'click ' , $(this).text() , '1');">
+ <div class="ThumbImg"><img width="161" height="103" src="/news/handmade/file/images/ichioshi-photo4/toku-20190110hitachi.jpg" alt="「日立」英原発「3兆円」の責任" class="aovr"></div>
+ <div class="ThumbText">「日立」英原発<br />「3兆円」の責任</div></a></li><li>
+ <a href="/jc/v4?id=foresight_00245_201811260001" onclick="ga('jijiga.send', 'event' , ' special_click_eco' , 'click ' , $(this).text() , '2');" onclick="ga('jijiga.send', 'event' , ' recommend_eco_click' , 'click ' , $(this).text() , '2');">
+ <div class="ThumbImg"><img width="161" height="103" src="/news/handmade/file/images/ichioshi-photo4/toku-foresight_nichigin.jpg" alt="世界景気減速で急浮上日銀まさかの追加緩和？" class="aovr"></div>
+ <div class="ThumbText">世界景気減速で急浮上<br />日銀まさかの追加緩和？</div></a></li><li>
+ <a href="/jc/list?g=myview" onclick="ga('jijiga.send', 'event' , ' special_click_eco' , 'click ' , $(this).text() , '3');" onclick="ga('jijiga.send', 'event' , ' recommend_eco_click' , 'click ' , $(this).text() , '3');">
+ <div class="ThumbImg"><img width="161" height="103" src="/news/handmade/file/images/ichioshi-photo3/banner161-103mymarketoutlook.jpg" alt="株価の行方は" class="aovr"></div>
+ <div class="ThumbText">株価の行方は</div>
+ </a></li><li>
+ <a href="/jc/v4?id=20190206world0001" onclick="ga('jijiga.send', 'event' , ' special_click_eco' , 'click ' , $(this).text() , '4');" onclick="ga('jijiga.send', 'event' , ' recommend_eco_click' , 'click ' , $(this).text() , '4');">
+ <div class="ThumbImg"><img width="161" height="103" src="/news/handmade/file/images/ichioshi-photo3/earthcolum.jpg" alt="【地球コラム】ＩＣＢＭ放棄で手打ちか" class="aovr"></div>
+ <div class="ThumbText">【地球コラム】<br />ＩＣＢＭ放棄で手打ちか</div>
+ </a></li><li>
+ <a href="/jc/v4?id=1901cec0001" onclick="ga('jijiga.send', 'event' , ' special_click_eco' , 'click ' , $(this).text() , '5');" onclick="ga('jijiga.send', 'event' , ' recommend_eco_click' , 'click ' , $(this).text() , '5');">
+ <div class="ThumbImg"><img width="161" height="103" src="/news/handmade/file/images/ichioshi-photo4/toku-20190221sinjigenchina.jpg" alt="【新次元の中国経済】低成長にフォーカス" class="aovr"></div>
+ <div class="ThumbText">【新次元の中国経済】<br />低成長にフォーカス</div></a></li><li>
+ <a href="/jc/v4?id=201804muki0001" onclick="ga('jijiga.send', 'event' , ' special_click_eco' , 'click ' , $(this).text() , '6');" onclick="ga('jijiga.send', 'event' , ' recommend_eco_click' , 'click ' , $(this).text() , '6');">
+ <div class="ThumbImg"><img width="161" height="103" src="/news/handmade/file/images/ichioshi-photo4/toku-201804muki_195.jpg" alt="無期転換で何が起きる？非正規雇用のこれから" class="aovr"></div>
+ <div class="ThumbText">無期転換で何が起きる？<br />非正規雇用のこれから</div></a></li><li>
+ <a href="/jc/v7?id=201808otsuka" onclick="ga('jijiga.send', 'event' , ' special_click_eco' , 'click ' , $(this).text() , '7');" onclick="ga('jijiga.send', 'event' , ' recommend_eco_click' , 'click ' , $(this).text() , '7');">
+ <div class="ThumbImg"><img width="161" height="103" src="/news/handmade/file/images/ichioshi-photo4/toku-201808otsuka_195-2.jpg" alt="【大塚家具】経営再建の行方" class="aovr"></div>
+ <div class="ThumbText">【大塚家具】<br />経営再建の行方</div></a></li><li>
+ <a href="/jc/v7?id=20181101korea" onclick="ga('jijiga.send', 'event' , ' special_click_eco' , 'click ' , $(this).text() , '8');" onclick="ga('jijiga.send', 'event' , ' recommend_eco_click' , 'click ' , $(this).text() , '8');">
+ <div class="ThumbImg"><img width="161" height="103" src="/news/handmade/file/images/ichioshi-photo4/toku-tyouyoukou.jpg" alt="【徴用工問題】韓国、回答期限を拒否" class="aovr"></div>
+ <div class="ThumbText">【徴用工問題】<br />韓国、回答期限を拒否</div>
+ </a></li></ul>
+ </div>
+ </section>
+ 
+ 	<div class="RakutenAd">
+ 	<script type="text/javascript" src="https://cdn-fluct.sh.adingo.jp/f.js?G=1000083909"></script>
+ 	<script type="text/javascript">
+ 	//<![CDATA[
+ 		if(typeof(adingoFluct)!="undefined") adingoFluct.showAd('1000125444');
+ 	//]]>
+ 	</script>
+ </div>
+ 
+ 	<!-- 用語 -->
+ 	<!-- Yougo Start -->
+ <div class="BottomArticleList">
+ 	<div class="TitleBorder clearfix">
+ 		<p>経済用語</p>
+ 	</div>
+ 	<div class="RelationWord">
+ 		<ul>
+ 			<li><a href="/jc/article?k=2019022000840&g=tha">ＱＲコード決済</a><span>(02/20 15:38)</span></li><li><a href="/jc/article?k=2019021800130&g=tha">電気自動車</a><span>(02/18 05:24)</span></li><li><a href="/jc/article?k=2019021501110&g=tha">総合取引所</a><span>(02/15 18:48)</span></li><li><a href="/jc/article?k=2019021501039&g=tha">東京商品取引所</a><span>(02/15 17:47)</span></li><li><a href="/jc/article?k=2019021501030&g=tha">日本取引所グループ</a><span>(02/15 17:47)</span></li><li><a href="/jc/article?k=2019020900461&g=tha">伊藤忠商事</a><span>(02/09 18:02)</span></li>
+ <!--			<li><a href="#">尼崎連続変死事件</a><span>(11/13 06:02)</span></li>
+ 			<li><a href="#">国営諫早湾干拓事業</a><span>(11/13 06:02)</span></li>
+ 			<li><a href="#">性同一性障害 </a><span>(11/13 06:02)</span></li>
+ 			<li><a href="#">性同一性障害</a><span>(11/13 06:02)</span></li>
+ 			<li><a href="#">民法の監督責任規定</a><span>(11/13 06:02)</span></li>
+ 			<li><a href="#">放送倫理・番組向上機構</a><span>(11/13 06:02)</span></li>
+ -->
+ 		</ul>
+ 	</div>
+ </div>
+ <!-- Yougo End -->
+ 
+ 	<div class="RakutenAd">
+ 	<!-- Google Advertisement Rakuten start -->
+ 	<!-- www/eco/Rakuten -->
+ 	<div id='eco-5'>
+ 		<script type='text/javascript'>
+ 			googletag.cmd.push(function() { googletag.display('eco-5'); });
+ 		</script>
+ 	</div>
+ 	<!-- Google Advertisement Rakuten end -->
+ </div>
+ 
+ 
+ 	
+ 
+ 	<div id="Target" class="BottomArticleList">
+ 		<div class="TitleBorder clearfix">
+ 			<p>経済</p>
+ 		</div>
+ 		<div class="ArticleListMain clearfix">
+ 			<ul class="LinkList">
+ 				<li class="ThumbList"><a href="/jc/article?k=2019022300579&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="九電、２４日に出力制御＝過去最大の１３８万キロワット計画" height="65" width="65" class="lazyload"></div><p>九電、２４日に出力制御＝過去最大の１３８万キロワット計画</p><span>(02/23 18:25)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022300507&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/2019022300507.jpg" alt="１００万円超送金で規制緩和＝銀行以外にも開放－金融庁" height="65" width="65" class="lazyload"></div><p>１００万円超送金で規制緩和＝銀行以外にも開放－金融庁</p><span>(02/23 16:09)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022300492&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/2019022300492.jpg" alt="被災企業、復興へ団結＝水産物、ライバルと販路開拓－宮城・東日本大震災８年" height="65" width="65" class="lazyload"></div><p>被災企業、復興へ団結＝水産物、ライバルと販路開拓－宮城・東日本大震災８年</p><span>(02/23 14:58)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022300486&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="予算案、与党は３月１日通過目指す＝野党は厚労相不信任視野" height="65" width="65" class="lazyload"></div><p>予算案、与党は３月１日通過目指す＝野党は厚労相不信任視野</p><span>(02/23 14:37)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022300043&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="アマゾン、全商品にポイント１％以上＝「地位乱用」で議論も" height="65" width="65" class="lazyload"></div><p>アマゾン、全商品にポイント１％以上＝「地位乱用」で議論も</p><span>(02/23 01:00)</span></a></li><!-- fluct start -->
+ <div id="logly-lift-4273483"></div>
+ <script charset="UTF-8">
+   (function(){
+     var _lgy_lw = document.createElement("script");
+     _lgy_lw.type = "text/javascript";
+     _lgy_lw.charset = "UTF-8";
+     _lgy_lw.async = true;
+     _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4273483";
+     var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+     _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+   })();
+ </script>
+ <!-- fluct end --><li class="ThumbList"><a href="/jc/article?k=2019022201295&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-1.jpg" alt="アイスコーヒー容器、紙製に＝脱プラへ採用検討－ローソン" height="65" width="65" class="lazyload"></div><p>アイスコーヒー容器、紙製に＝脱プラへ採用検討－ローソン</p><span>(02/22 22:27)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022200788&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/2019022200788.jpg" alt="豚コレラ、車の泥で感染拡大か＝消毒不十分－農水省専門家会合" height="65" width="65" class="lazyload"></div><p>豚コレラ、車の泥で感染拡大か＝消毒不十分－農水省専門家会合</p><span>(02/22 21:55)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201233&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco2.jpg" alt="日銀短観に問題なし＝必要な精度維持－定例点検" height="65" width="65" class="lazyload"></div><p>日銀短観に問題なし＝必要な精度維持－定例点検</p><span>(02/22 20:56)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022200839&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/2019022200839.jpg" alt="格安スマホ、接続料見直し提言＝値下げ、サービス充実狙う－総務省会議" height="65" width="65" class="lazyload"></div><p>格安スマホ、接続料見直し提言＝値下げ、サービス充実狙う－総務省会議</p><span>(02/22 20:53)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201226&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/2019022201226.jpg" alt="「天然水」と「炭酸水」、計５８万本回収＝発がん性物質検出－良品計画" height="65" width="65" class="lazyload"></div><p>「天然水」と「炭酸水」、計５８万本回収＝発がん性物質検出－良品計画</p><span>(02/22 20:42)</span></a></li><!-- fluct start -->
+ <div id="logly-lift-4273483"></div>
+ <script charset="UTF-8">
+   (function(){
+     var _lgy_lw = document.createElement("script");
+     _lgy_lw.type = "text/javascript";
+     _lgy_lw.charset = "UTF-8";
+     _lgy_lw.async = true;
+     _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4273483";
+     var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+     _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+   })();
+ </script>
+ <!-- fluct end --><li class="ThumbList"><a href="/jc/article?k=2019022201206&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-1.jpg" alt="６０年ぶり「芝浦」復活＝来年４月に社名変更－東芝機械" height="65" width="65" class="lazyload"></div><p>６０年ぶり「芝浦」復活＝来年４月に社名変更－東芝機械</p><span>(02/22 20:22)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201152&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/2019022201152.jpg" alt="７月２２日から交通量抑制試行＝五輪混雑対策で企業に－東京都" height="65" width="65" class="lazyload"></div><p>７月２２日から交通量抑制試行＝五輪混雑対策で企業に－東京都</p><span>(02/22 19:33)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201124&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-1.jpg" alt="野村ＨＤ、英ベンチャーに出資＝ＡＩ活用した業務ツール開発" height="65" width="65" class="lazyload"></div><p>野村ＨＤ、英ベンチャーに出資＝ＡＩ活用した業務ツール開発</p><span>(02/22 19:05)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201128&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-1.jpg" alt="滋賀銀行、１９年度からの新中期計画策定＝課題解決ビジネス支援に軸足" height="65" width="65" class="lazyload"></div><p>滋賀銀行、１９年度からの新中期計画策定＝課題解決ビジネス支援に軸足</p><span>(02/22 19:04)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201119&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="三菱ＵＦＪ銀に改善措置要請＝「マネロン対策不十分」－米当局" height="65" width="65" class="lazyload"></div><p>三菱ＵＦＪ銀に改善措置要請＝「マネロン対策不十分」－米当局</p><span>(02/22 19:00)</span></a></li><!-- fluct start -->
+ <div id="logly-lift-4273483"></div>
+ <script charset="UTF-8">
+   (function(){
+     var _lgy_lw = document.createElement("script");
+     _lgy_lw.type = "text/javascript";
+     _lgy_lw.charset = "UTF-8";
+     _lgy_lw.async = true;
+     _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4273483";
+     var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+     _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+   })();
+ </script>
+ <!-- fluct end --><li class="ThumbList"><a href="/jc/article?k=2019022201107&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/2019022201107.jpg" alt="実質賃金、検討会が初会合＝「参考値」公表、結論見えず－厚労省" height="65" width="65" class="lazyload"></div><p>実質賃金、検討会が初会合＝「参考値」公表、結論見えず－厚労省</p><span>(02/22 18:53)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022200149&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/2019022200149.jpg" alt="東海第２原発の再稼働表明＝原電社長、茨城知事らに" height="65" width="65" class="lazyload"></div><p>東海第２原発の再稼働表明＝原電社長、茨城知事らに</p><span>(02/22 18:45)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201103&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="伊藤忠、米ライクラに２００億円出資＝ポリウレタン繊維製造" height="65" width="65" class="lazyload"></div><p>伊藤忠、米ライクラに２００億円出資＝ポリウレタン繊維製造</p><span>(02/22 18:39)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201085&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="携帯利用料、総額明示を＝利用者の分かりやすさ優先－総務省" height="65" width="65" class="lazyload"></div><p>携帯利用料、総額明示を＝利用者の分かりやすさ優先－総務省</p><span>(02/22 18:31)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201047&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="刑事罰、常習ＤＬに限定＝海賊版対策改正案－文化庁" height="65" width="65" class="lazyload"></div><p>刑事罰、常習ＤＬに限定＝海賊版対策改正案－文化庁</p><span>(02/22 18:04)</span></a></li><!-- fluct start -->
+ <div id="logly-lift-4273483"></div>
+ <script charset="UTF-8">
+   (function(){
+     var _lgy_lw = document.createElement("script");
+     _lgy_lw.type = "text/javascript";
+     _lgy_lw.charset = "UTF-8";
+     _lgy_lw.async = true;
+     _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4273483";
+     var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+     _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+   })();
+ </script>
+ <!-- fluct end --><li class="ThumbList"><a href="/jc/article?k=2019022201034&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco5.jpg" alt="円小動き、１１０円台後半＝東京市場" height="65" width="65" class="lazyload"></div><p>円小動き、１１０円台後半＝東京市場</p><span>(02/22 17:55)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201026&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco5.jpg" alt="デサントＯＢ会、伊藤忠のＴＯＢに反対表明" height="65" width="65" class="lazyload"></div><p>デサントＯＢ会、伊藤忠のＴＯＢに反対表明</p><span>(02/22 17:45)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022101302&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="厚労省、ＡＤＨＤ新薬を承認へ＝覚せい剤原料含有「厳重管理を」" height="65" width="65" class="lazyload"></div><p>厚労省、ＡＤＨＤ新薬を承認へ＝覚せい剤原料含有「厳重管理を」</p><span>(02/22 17:36)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201012&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-1.jpg" alt="統合、来月合意＝ＪＰＸと東商取" height="65" width="65" class="lazyload"></div><p>統合、来月合意＝ＪＰＸと東商取</p><span>(02/22 17:27)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022201005&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="パナソニック、家庭用燃料電池の生産１５万台突破" height="65" width="65" class="lazyload"></div><p>パナソニック、家庭用燃料電池の生産１５万台突破</p><span>(02/22 17:20)</span></a></li><!-- fluct start -->
+ <div id="logly-lift-4273483"></div>
+ <script charset="UTF-8">
+   (function(){
+     var _lgy_lw = document.createElement("script");
+     _lgy_lw.type = "text/javascript";
+     _lgy_lw.charset = "UTF-8";
+     _lgy_lw.async = true;
+     _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4273483";
+     var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+     _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+   })();
+ </script>
+ <!-- fluct end --><li class="ThumbList"><a href="/jc/article?k=2019022200999&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="関電、ネパールの水力発電事業で助言業務受託＝民間企業の参入障壁など調査" height="65" width="65" class="lazyload"></div><p>関電、ネパールの水力発電事業で助言業務受託＝民間企業の参入障壁など調査</p><span>(02/22 17:19)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022200993&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-1.jpg" alt="みずほ銀とクレディセゾンが提携解消＝１０月、友好関係は維持" height="65" width="65" class="lazyload"></div><p>みずほ銀とクレディセゾンが提携解消＝１０月、友好関係は維持</p><span>(02/22 17:17)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022200982&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco5.jpg" alt="円相場、１１０円７４～７６銭＝２２日午後５時現在" height="65" width="65" class="lazyload"></div><p>円相場、１１０円７４～７６銭＝２２日午後５時現在</p><span>(02/22 17:09)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022200979&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="金の密輸量６割減＝消費増税控え、対策奏功か－財務省" height="65" width="65" class="lazyload"></div><p>金の密輸量６割減＝消費増税控え、対策奏功か－財務省</p><span>(02/22 17:06)</span></a></li><li class="ThumbList"><a href="/jc/article?k=2019022200966&g=eco" class="clearfix"><div class="NewsThumb"><img src="/news2/kiji_photos/square/dummy/dummy.jpg" data-src="/news2/kiji_photos/square/2019022200966.jpg" alt="有害物質含む焼却灰販売＝日本紙パ商事、民家が使用" height="65" width="65" class="lazyload"></div><p>有害物質含む焼却灰販売＝日本紙パ商事、民家が使用</p><span>(02/22 16:53)</span></a></li><!-- fluct start -->
+ <div id="logly-lift-4273483"></div>
+ <script charset="UTF-8">
+   (function(){
+     var _lgy_lw = document.createElement("script");
+     _lgy_lw.type = "text/javascript";
+     _lgy_lw.charset = "UTF-8";
+     _lgy_lw.async = true;
+     _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4273483";
+     var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+     _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+   })();
+ </script>
+ <!-- fluct end -->
+ 			</ul>
+ 		<div class="LinkListMore"><a href="/jc/list?g=eco">もっと見る</a></div>
+ 		</div>
+ 	</div>
+ 
+ 		<div id="Target" class="BottomArticleList">
+ 		<div class="TitleBorder clearfix">
+ 			<p>ビジネスワイヤ</p>
+ 		</div>
+ 		<div class="ArticleListMain clearfix">
+ 			<ul class="LinkList">
+ 				<li><a href="/jc/article?k=2019022200664&g=bnw"><p>オーストラリアが農業４．０を推進＝豪貿易投資促進庁〔ＢＷ〕</p><span>(19/02/22)</span></a></li>
+<li><a href="/jc/article?k=2019022200660&g=bnw"><p>ダブルベリファイがゼントリックを買収〔ＧＮＷ〕</p><span>(19/02/22)</span></a></li>
+<li><a href="/jc/article?k=2019022200657&g=bnw"><p>日本でも台湾エバーライト製ＬＥＤ製品が販売中止＝ソウル半導体〔ＢＷ〕</p><span>(19/02/22)</span></a></li>
+<li><a href="/jc/article?k=2019022200656&g=bnw"><p>ヘクサウェアが新コンサルティング・パートナーに＝米ガイドワイア〔ＢＷ〕</p><span>(19/02/22)</span></a></li>
+<li><a href="/jc/article?k=2019022200654&g=bnw"><p>音楽ライセンス会社を買収＝Ｓｏｎｇｔｒａｄｒ〔ＢＷ〕</p><span>(19/02/22)</span></a></li>
+
+ 			</ul>
+ 		<div class="LinkListMore"><a href="/jc/list?g=bnw">もっと見る</a></div>
+ 		</div>
+ 	</div>	<div id="Target" class="BottomArticleList">
+ 		<div class="TitleBorder clearfix">
+ 			<p>PR TIMES</p>
+ 		</div>
+ 		<div class="ArticleListMain clearfix">
+ 			<ul class="LinkList">
+ 				<li><a href="/jc/article?k=000004817.000001355&g=prt"><p>2018年にデビュー35周年を迎え、オリジナルメンバーによる奇跡の再結成を果たした杉山清貴＆オメガトライブ。彼らの全国ツアー最終公演をWOWOWで生中継！</p><span>(19/02/24)</span></a></li>
+<li><a href="/jc/article?k=000000355.000026760&g=prt"><p>機能性と利便性を両立したQI対応の10Wワイヤレス充電器「AUKEY LC-Q6」が37%オフ♪</p><span>(19/02/24)</span></a></li>
+<li><a href="/jc/article?k=000000352.000036635&g=prt"><p>G123『グローリーサッカー』月末盛宴イベントを開催！ </p><span>(19/02/24)</span></a></li>
+
+ 			</ul>
+ 		<div class="LinkListMore"><a href="/jc/list?g=prt">もっと見る</a></div>
+ 		</div>
+ 	</div>
+ 
+ 	<!-- popIn script start-->
+ 	<script type="text/javascript" charset="UTF-8">
+ 	<!--
+ 	var _popIn_js = "https://api.popin.cc/searchbox/jiji.js";
+ 	document.write('<script type="text/javascript" charset="UTF-8" src="' + _popIn_js + '"></scr' + 'ipt>');
+ 	//-->
+ 	</script>
+ 	<!-- popIn script end -->
+ 
+ 	<!--特集-->
+ 	<!--編集部セレクション-->
+ <section class="Feature BoxGenreBlock">
+ <div class="Title clearfix">
+ <p>編集部セレクション</p>
+ </div>
+ <div id="Jslider">
+ <ul class="slide">
+ 
+ 
+ <li><a href="/jc/v4?id=1902nte0001">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/toku-shinnkan.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">南海トラフ小説<br />「半割れ」</div></a></li>
+ 
+ 
+ <li><a href="/jc/v4?id=201902figurejump0001">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/tok-jpp029434251.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">10代前半フィギュア女子<br />過熱するジャンプ</div></a></li>
+ 
+ 
+ <li><a href="/jc/v4?id=201902tnc050001">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/toku-201902tnc05-jpp029481127.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">波紋広げる二階派入り<br />細野氏「いばらの道」</div></a></li>
+ 
+ 
+ <li><a href="/jc/article?k=2019021401246&amp;g=soc">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/tok-movie021601.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">「寝たきり歌人」と<br />若者たちの日々</div></a></li>
+ 
+ 
+ </ul>
+ <ul class="slide">
+ 
+ 
+ <li><a href="/jc/v4?id=201901egp0001">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/201901egp-d9.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">多彩な魅力味わえる<br />一生に一度はエジプトへ</div></a></li>
+ 
+ 
+ <li><a href="/jc/v4?id=201812shouyu0001">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/toku-petsyouyu.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">ペットになった元実験犬<br />獣医大生が願い出る</div></a></li>
+ 
+ 
+ <li><a href="/jc/v4?id=201809figure0001">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/tok-jpp026256273.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">ＩＳＵ技術委員に聞く<br />フィギュア　ルール改正</div></a></li>
+ 
+ 
+ <li><a href="/jc/v4?id=201812geshounen0001">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/toku-1812jou_195-2.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">更生の現場を訪ねる<br />八王子少年鑑別所</div></a></li>
+ 
+ 
+ </ul>
+ <ul class="slide">
+ 
+ 
+ <li><a href="/jc/v2?id=fumikiri201806_03">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/toku-fumikiri_161-1.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">【なくせ！第４種踏切】<br />女児ら死亡で１種化へ</div></a></li>
+ 
+ 
+ <li><a href="/jc/v4?id=201812sdc0001">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/sel-201812sdc_161.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">記者が体験<br />自動運転で何が変わる？</div></a></li>
+ 
+ 
+ <li><a href="/jc/v4?id=201810postpartum_depression0001">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/201810postpartum_depression-181.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">「産後うつ」と戦う<br />１０人に１人が経験</div></a></li>
+ 
+ 
+ <li><a href="/jc/v4?id=footballtenbyou-01401_201812110001">
+ <div class="ThumbImg"><img src="/news/handmade/file/images/ichioshi-photo4/tok-jpp029071493.jpg" alt="" width="151" height="97" class="aovr"></div>
+ <div class="ThumbText">帰ってきた<br />「オズの魔法使い」</div></a></li>
+ 
+ 
+ </ul>
+ </div>
+ </section>
+ <!--編集部セレクション-->
+ 	<!--特集-->
+ 
+ 	<div class="ArticleAd">
+ 	<div class="BigAd">
+ 		<!-- Google Advertisement Fbc start -->
+ 			<!-- www/eco/Fbc -->
+ 			<div id='eco-4'>
+ 			<script type='text/javascript'>
+ 			googletag.cmd.push(function() { googletag.display('eco-4'); });
+ 			</script>
+ 			</div>
+ 		<!-- Google Advertisement Fbc end -->
+ 	</div>
+ </div>
+ 
+ 
+ </div>
+ 
+             <!-- right start -->
+ 			<div id="Sub" class="Normal">
+ 	<aside class="Search clearfix">
+     	<form id="" class="clearfix" name="" method="" action="/jc/search" autocomplete="">
+ 			<input type="text" maxlength="128" size="" onclick="if(this.value == '記事／キーワード') { this.value = ''; }" onfocus="if(this.value == '記事／キーワード') { this.value = ''; }" onblur="if(this.value == '') { this.value = '記事／キーワード'; }" value="記事／キーワード" name="q" class="" id="">
+ 			<input type="submit" onmousedown="" value="検索" class="" id="">
+ 		</form>
+ 
+ 		<!-- Office cookie -->
+ 		<script language="JavaScript">
+ 			<!--
+ 			function OfficeCookieRedirect(){
+ 				$.cookie( "jijicom_page_style" , "office" ,{ expires: 1000 , path: '/'});
+ 				window.location.reload( true );
+ 			}
+ 			//-->
+ 		</script>
+ 		<!-- Office cookie -->
+ 		<a class="Switch" href="javascript:void(0)" onclick="OfficeCookieRedirect(); return false;">オフィス版</a>
+ 	</aside>
+ 
+     <div class="ArticleAdSide">
+ 
+ 		<!-- Google Advertisement 1stRec start -->
+ 		<!-- www/eco/1stRec -->
+ 		<div id='eco-0'>
+ 			<script type='text/javascript'>
+ 				googletag.cmd.push(function() { googletag.display('eco-0'); });
+ 			</script>
+ 		</div>
+ 		<!-- Google Advertisement 1stRec end -->
+ 
+ 		<!--criteo start-->
+ 		<script type="text/javascript" src="//static.criteo.net/js/ld/publishertag.js"></script>
+ 		<div id="1364363"></div>
+ 		<script type="text/javascript">
+ 			Criteo.DisplayAcceptableAdIfAdblocked({"zoneid": 1364363,"containerid": "1364363"});
+ 		</script>
+ 		<!--criteo end-->
+ 
+ 	</div>
+ 
+     <!--フォーカス-->
+ 	<aside class="Focus Pattern6">
+ 	<div class="AsideTitle">
+ 		<h3 class="Title clearfix">
+         	<p class="fleft">フォーカス</p>
+         </h3>
+ 	</div>
+     <div class="FocusInner">
+     	<ul class="clearfix">
+ 
+ 
+ <li><a href="/jc/d4?p=tit019&amp;d=d4_ftcc" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '1');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-jpp029686548.jpg">
+ <span>モンキーズ<br />一員天国へ</span></a></li>
+ 
+ <li><a href="/jc/v7?id=201808hayabusa2" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '2');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-jpp029687545_65.jpg">
+ <span>はやぶさ２<br />着陸成功</span></a></li>
+ 
+ <li><a href="/jc/d4?p=mao505&amp;d=d4_asa" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '3');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-mao505_65.jpg">
+ <span>食べること<br />が大好き</span></a></li>
+ 
+ <li><a href="/jc/d4?p=ftw927&amp;d=d4_mili" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '4');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-ftw927_65.jpg">
+ <span>Ｆ２戦闘機<br />山口沖墜落</span></a></li>
+ 
+ 
+ 
+ <li><a href="/jc/d4?p=mot400&amp;d=d4_car" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '5');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-mot400_65.jpg">
+ <span>クールな<br />オートバイ</span></a></li>
+ 
+ <li><a href="/jc/d4?p=osn161&amp;d=d4_zz" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '6');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-osn161_65.jpg">
+ <span>格下に完敗<br />大坂なおみ</span></a></li>
+ 
+ <li><a href="/jc/d6?id=ots902&amp;p=ots902-jpp029676767&amp;g=eco" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '7');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-ots902_65-3.jpg">
+ <span>折り畳み式<br />スマホ登場</span></a></li>
+ 
+ <li><a href="/jc/d4?p=but218&amp;d=d4_bb" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '8');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-but218_65-3.jpg">
+ <span>世界の<br />美しい顔</span></a></li>
+ 
+ 
+ 
+ <li><a href="/jc/v4?id=201902ege020001" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '9');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-201902ege02-jpp029487765.jpg">
+ <span>米中覇権<br />争いの行方</span></a></li>
+ 
+ <li><a href="/jc/d6?id=BANGLADESHFIRE&amp;p=BANGLADESHFIRE-jpp029677137&amp;g=int" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '10');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-BANGLADESHFIRE_65-22222.jpg">
+ <span>ダッカでアパート火災</span></a></li>
+ 
+ <li><a href="/jc/calendar" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '11');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus_yotei02.jpg">
+ <span>★予定★<br />チェック！</span></a></li>
+ 
+ <li><a href="http://www.afpbb.com/category/jiji-trend" onclick="ga('jijiga.send', 'event' , ' focus_click' , 'click ' , $(this).text() , '12');">
+ <img width="65" height="65" class="aovr" alt="" src="/news/handmade/file/images/focus-photo/focus-sra902_65.jpg">
+ <span>西武の新型特急車両</span></a></li>
+ 
+ 
+ 
+ 
+ 
+ </ul>
+ </div>
+ </aside>
+     <!--フォーカス-->
+ 
+     <div class="ArticleAdSide">
+ 
+ 		<!-- Google Advertisement 2ndRec start -->
+ 		<!-- www/eco/2ndRec -->
+ 			<div id='eco-2'>
+ 				<script type='text/javascript'>
+ 					googletag.cmd.push(function() { googletag.display('eco-2'); });
+ 				</script>
+ 			</div>
+ 		<!-- Google Advertisement 2ndRec end -->
+ 
+ 	</div>
+ 
+ 	<aside class="SideSns">
+ 		<ul class="shareBOX">
+ 			<a href="https://www.facebook.com/wwwjijicom/" target="_blank" title="Facebook">
+ 				<li class="shareBT fbl"><i class="fab fa-facebook-f"></i></li>
+ 			</a>
+ 			<li class="shareBT crcl">時事通信<span style="font-size:70%;">の</span>SNS</li>
+ 			<a href="https://twitter.com/jijicom" target="_blank" title="Twitter">
+ 				<li class="shareBT twitt"><i class="fab fa-twitter"></i></li>
+ 			</a>
+ 		</ul>
+ 	</aside>
+ 
+ 	<aside class="SideRanking3" style="">
+ <div class="AsideTitle">
+ <h3 class="Title clearfix">
+ <p class="fleft"><i class="fa fa-check fa-1x"></i>読まれています</p>
+ </h3>
+ </div>
+ <div class="AsideInnerBox Red">
+ <ul>
+ <li data-title="auto"><a href="/jc/article?k=2019022300223&g=soc" onclick="ga('jijiga.send', 'event' , ' right_recommend_click' , 'click ' , $(this).text() , '1');"><p>「パンプス強制は苦痛」＝足腰に負担、仕事に支障－「＃ＫｕＴｏｏ」じわり拡大</p></a><a class="cat" href="/jc/list?g=soc" onclick="ga('jijiga.send', 'event' , ' right_recommend_click' , 'click ' , $(this).text() , '2');"><span>社会</span></a></li>
+ <li data-title="auto"><a href="/jc/article?k=2019022201238&g=pol" onclick="ga('jijiga.send', 'event' , ' right_recommend_click' , 'click ' , $(this).text() , '3');"><p>「虚偽答弁」「だまされた」＝厚労省メールの内容に野党反発</p></a><a class="cat" href="/jc/list?g=pol" onclick="ga('jijiga.send', 'event' , ' right_recommend_click' , 'click ' , $(this).text() , '4');"><span>政治</span></a></li>
+ <li data-title="auto"><a href="/jc/article?k=2019022300195&g=soc" onclick="ga('jijiga.send', 'event' , ' right_recommend_click' , 'click ' , $(this).text() , '5');"><p>ニシキゴイ、アジアで人気＝「泳ぐ宝石」、１匹２億円も</p></a><a class="cat" href="/jc/list?g=soc" onclick="ga('jijiga.send', 'event' , ' right_recommend_click' , 'click ' , $(this).text() , '6');"><span>社会</span></a></li>
+ <li data-title="auto"><a href="/jc/article?k=2019022201033&g=prk" onclick="ga('jijiga.send', 'event' , ' right_recommend_click' , 'click ' , $(this).text() , '7');"><p>そっくりさん、またも登場＝一足お先に「米朝友好」－ベトナム</p></a><a class="cat" href="/jc/list?g=prk" onclick="ga('jijiga.send', 'event' , ' right_recommend_click' , 'click ' , $(this).text() , '8');"><span>北朝鮮</span></a></li>
+ <li data-title="auto"><a href="/jc/article?k=2019022201075&g=soc" onclick="ga('jijiga.send', 'event' , ' right_recommend_click' , 'click ' , $(this).text() , '9');"><p>北海道の地震でデマ相次ぐ＝鳩山元首相アカウントも－道警</p></a><a class="cat" href="/jc/list?g=soc" onclick="ga('jijiga.send', 'event' , ' right_recommend_click' , 'click ' , $(this).text() , '10');"><span>社会</span></a></li>
+ </ul>
+ </div>
+ </aside>
+ 
+ 
+ 	<aside class="SpecialBox Pattern5">
+ <div class="AsideTitle">
+ 	<h3 class="Title clearfix">
+ 		<p class="fleft">人気記事アーカイブ</p>
+ 		<a class="fright" href="/jc/v" onclick="ga('jijiga.send', 'event' , ' right_v_click' , 'click ' , $(this).text() , '1');">特集トップ</a>
+ 	</h3>
+ </div>
+ <div class="AsideInnerBox">
+ 	<ul class="clearfix">
+ 		<li>
+ <a class="clearfix" href="/jc/v7?id=201812brexit" onclick="ga('jijiga.send', 'event' , ' right_v_click' , 'click ' , $(this).text() , '2');">
+ 	<img width="126" height="" src="/news/handmade/file/images/ichioshi-photo4/arc-0221-1.jpg" alt="" class="aovr">
+ 	<p>与党から３人離党</p>
+ 	<p>英ＥＵ離脱問題</p>
+ </a>
+ </li>	
+ <li>
+ <a class="clearfix" href="/jc/v4?id=2019ssc0005" onclick="ga('jijiga.send', 'event' , ' right_v_click' , 'click ' , $(this).text() , '3');">
+ 	<img width="126" height="" src="/news/handmade/file/images/ichioshi-photo4/toku-2019ssc-05jpp029231545.jpg" alt="" class="aovr">
+ 	<p>副大統領の出番？</p>
+ 	<p>昇格した２人は…</p>
+ </a>
+ </li>	
+ <li>
+ <a class="clearfix" href="/jc/v4?id=2019chinawatch0003" onclick="ga('jijiga.send', 'event' , ' right_v_click' , 'click ' , $(this).text() , '4');">
+ 	<img width="126" height="" src="/news/handmade/file/images/ichioshi-photo4/toku-2019chinawatch0003.jpg" alt="" class="aovr">
+ 	<p>内憂外患の習政権</p>
+ 	<p>「カラー革命」警戒</p>
+ </a>
+ </li>	
+ <li>
+ <a class="clearfix" href="/jc/v4?id=1902ziggy0001" onclick="ga('jijiga.send', 'event' , ' right_v_click' , 'click ' , $(this).text() , '5');">
+ 	<img width="126" height="" src="/news/handmade/file/images/ichioshi-photo4/izon0221-2.jpg" alt="" class="aovr">
+ 	<p>ZIGGY森重さん</p>
+ 	<p>アルコール依存克服</p>
+ </a>
+ </li>	
+ 	</ul>
+ </div>
+ </aside>
+ 
+ 
+ </div>
+ <div class="sticky">
+ 
+ 	<div class="ArticleAdSide">
+ 		<!-- Google Advertisement 3rdRec start -->
+ 		<!-- www/eco/3rdRec -->
+ 			<div id='eco-3'>
+ 				<script type='text/javascript'>
+ 					googletag.cmd.push(function() { googletag.display('eco-3'); });
+ 			</script>
+ 		</div>
+ 		<!-- Google Advertisement 3rdRec end -->
+ 	</div>
+ 
+     <!--アクセスランキング-->
+ 	<aside class="SideRanking2">
+ <div class="AsideTitle">
+ 	<h3 class="Title clearfix">
+      		<p class="fleft">アクセスランキング&nbsp;経済</p>
+  		<a href="/jc/r" class="fright" onclick="ga('jijiga.send', 'event' , ' rank_eco_click' , 'click ' , $(this).text() , '1');">一覧へ</a>
+ 		</h3>
+ </div>
+ <div class="AsideInnerBox Red">
+ 		<ul>
+ 		<li>
+ <span>1</span>
+ <a href="/jc/article?k=2019022200788&g=eco" onclick="ga('jijiga.send', 'event' , ' rank_eco_click' , 'click ' , $(this).text() , '2');">
+ 	<p>豚コレラ、車の泥で感染拡大か＝消毒不十分－農水省専門家会合</p>
+ 	<img src="/news2/kiji_photos/square/2019022200788.jpg" alt="豚コレラ、車の泥で感染拡大か＝消毒不十分－農水省専門家会合" width="60" height="60">
+ </a>
+ </li>
+ <li>
+ <span>2</span>
+ <a href="/jc/article?k=2019022300507&g=eco" onclick="ga('jijiga.send', 'event' , ' rank_eco_click' , 'click ' , $(this).text() , '3');">
+ 	<p>１００万円超送金で規制緩和＝銀行以外にも開放－金融庁</p>
+ 	<img src="/news2/kiji_photos/square/2019022300507.jpg" alt="１００万円超送金で規制緩和＝銀行以外にも開放－金融庁" width="60" height="60">
+ </a>
+ </li>
+ <li>
+ <span>3</span>
+ <a href="/jc/article?k=2019022300492&g=eco" onclick="ga('jijiga.send', 'event' , ' rank_eco_click' , 'click ' , $(this).text() , '4');">
+ 	<p>被災企業、復興へ団結＝水産物、ライバルと販路開拓－宮城・東日本大震災８年</p>
+ 	<img src="/news2/kiji_photos/square/2019022300492.jpg" alt="被災企業、復興へ団結＝水産物、ライバルと販路開拓－宮城・東日本大震災８年" width="60" height="60">
+ </a>
+ </li>
+ <li>
+ <span>4</span>
+ <a href="/jc/article?k=2019022300043&g=eco" onclick="ga('jijiga.send', 'event' , ' rank_eco_click' , 'click ' , $(this).text() , '5');">
+ 	<p>アマゾン、全商品にポイント１％以上＝「地位乱用」で議論も</p>
+ 	<img src="/news2/kiji_photos/square/dummy/eco1-2.jpg" alt="アマゾン、全商品にポイント１％以上＝「地位乱用」で議論も" width="60" height="60">
+ </a>
+ </li>
+ <li>
+ <span>5</span>
+ <a href="/jc/article?k=2019022201295&g=eco" onclick="ga('jijiga.send', 'event' , ' rank_eco_click' , 'click ' , $(this).text() , '6');">
+ 	<p>アイスコーヒー容器、紙製に＝脱プラへ採用検討－ローソン</p>
+ 	<img src="/news2/kiji_photos/square/dummy/eco1-1.jpg" alt="アイスコーヒー容器、紙製に＝脱プラへ採用検討－ローソン" width="60" height="60">
+ </a>
+ </li>
+ 	</ul>
+ </div>
+ </aside>
+ 
+     <!--アクセスランキング-->
+ 
+     <!--きょうは何の日？-->
+ 	<aside class="Whatday">
+  	<div class="AsideTitle">
+  		<h3 class="Title clearfix">
+          	<p class="fleft">今日は何の日？</p>
+          </h3>
+  	</div>
+      <div class="AsideInnerBox Brown">
+  		<a class="clearfix" href="/jc/daily">
+          	<img class="aovr" alt="" src="/news/daily_contents/02/image/120/0540213.jpg">
+              <p><span>1989年</span>昭和天皇の「大喪の礼」</p>
+          </a>
+      </div>
+  </aside>
+ 
+     <!--きょうは何の日？-->
+ 
+     <!--ふるさと納税関連ニュース-->
+ 	<!--
+ <html>
+ <head>
+ 
+ 	
+ <title>yayoi</title>
+ <style>
+ .yayoi_ad_box {
+ 	width:300px;
+ 	height:210px;
+     border: 1px solid #ddd;
+ 	text-align:center;
+ 	padding:15px;
+     padding-bottom: 0px;
+     margin-bottom: 20px;
+ }
+ .yayoi_ad_title {
+ 	height: 30px;
+     	color: #1e1e17;
+     	line-height: 30px;
+     	padding-left: 0px;
+     	font-size: 90%;
+ 	font-weight:bold;
+ }
+ 
+ .yayoi_ad_title a {
+ 	text-decoration:none;
+ }
+ .yayoi_ad_box img a:hover {
+ 	width:250px;
+ 	padding:5px;
+ }
+ .yayoi_ad_box img:hover {
+ 	opacity: 0.7;
+ }
+ .yayoi_ad_unit {
+ 	padding-left:120px;
+     	font-size: 88%;
+ 	font-weight:bold;
+ 	color:#ddd;		
+ }	
+ </style>	
+ </head>
+ 
+ 
+ <body>
+ 	
+ <div class="yayoi_ad_box">
+ 
+ <div class="yayoi_ad_title"><a href="/jc/v4?id=201902vism0001" target="_blank" onclick="ga('jijiga.send', 'event' , ' 6f_click' , 'click ' , $(this).text() , '1');">【PR】確定申告が憂鬱な彼女を助けたのは&amp;hellip;</a></div>
+ 	
+ <a href="/jc/v4?id=201902vism0001" target="_blank" onclick="ga('jijiga.send', 'event' , ' 6f_click' , 'click ' , $(this).text() , '2');"><img src="/news/handmade/file/images/VISM/VISM(YAYOI)1.JPG" alt="yayoi"></a>
+ 	
+ <div class="yayoi_ad_unit">提供：弥生株式会社</div>	
+ 	
+ </div>	
+ 	<!-- Begin 33Across SiteCTRL -->
+ 	<script>
+ 	var Tynt=Tynt||[];Tynt.push('bvV1TsJIKr6j04aKlId8sQ');
+ 	(function(){var h,s=document.createElement('script');
+ 	s.src=(window.location.protocol==='https:'?
+ 	'https':'http')+'://cdn.tynt.com/ti.js';
+ 	h=document.getElementsByTagName('script')[0];
+ 	h.parentNode.insertBefore(s,h);})();
+ 	</script>
+ 	<!-- End 33Across SiteCTRL -->
+ </body>
+ </html>
+ -->
+     <!--ふるさと納税関連ニュース-->
+ 
+     <!--日本語検定-->
+     <aside class="Nihongokentei">
+ <div class="AsideTitle">
+ 	<h3 class="TitleBlue">きょうの日本語検定&#12288;正しいのはどれ？</h3>
+ 	</div>
+ <div class="NihongokenteiInner">
+     	<h4>【（　）部分を漢字で書くと？】<br/>あの作家は（カサク）ながら良い作品が多い。[2級]</h4>
+ 	<ol>
+ 		<li class="NihongokenteiA"><a href="/jc/e?g=e07&d=20190224&ans=1" onclick="ga('jijiga.send', 'event' , ' goken_click' , 'click ' , $(this).text() , '1');">佳作</a></li>
+ 		<li class="NihongokenteiB"><a href="/jc/e?g=e07&d=20190224&ans=2" onclick="ga('jijiga.send', 'event' , ' goken_click' , 'click ' , $(this).text() , '2');">家作</a></li>
+ 		<li class="NihongokenteiC"><a href="/jc/e?g=e07&d=20190224&ans=3" onclick="ga('jijiga.send', 'event' , ' goken_click' , 'click ' , $(this).text() , '3');">寡作</a></li>
+ 	</ol>
+ </div>
+ </aside>
+ 
+     <!--日本語検定-->
+ 
+ 	<!--pr bottom-->
+ 	
+ 	<!--pr bottom-->
+ 
+ 	
+ 
+ </div>
+ 
+             <!-- right end -->
+ 
+         </div>
+     </div>
+ 
+ 	<!-- footer start -->
+ 		<div id="ContentEnd">
+ 	<div class="clearfix" id="ToTop"><a href="#PageHeader">ページの先頭へ</a></div>
+ 	<div id="ContentEndTop">
+ 		<div class="ContentEndTopInner clearfix">
+ 			<div class="Book">
+ 	            	<a href="http://www.jaro.or.jp/">
+ 	                    <dl>
+ 	                        <dt>【JAROは創立４５年目】</dt>
+ 	                        <dd>JAROは、これからも広告・表示のフェアプレイを推進してます。詳しくはこちら。</dd>
+ 	                    </dl>
+ 	                </a>
+ 			</div>
+ 			<div class="Book">
+ 	            	<a href="/service/e-world/">
+ 	                    <dl>
+ 	                        <dt>【デジタル国際情報誌】</dt>
+ 	                        <dd>「e-World Premium vol.61」<br />特集Ⅰは「混迷の移民対策　日本の針路」。英移民問題と日本の政策を探った。特集Ⅱは「マティス辞任と同盟国の憂鬱」
+ </dd>
+ 	                    </dl>
+ 	                </a>
+ 			</div>
+ 			<div class="Book">
+ 	            	<a href="/service/agrio/">
+ 	                    <dl>
+ 	                        <dt>【農林水産業のデジタル情報誌】</dt>
+ 	                        <dd>デジタル情報誌「Agrio」は２０１４年３月創刊。「６次産業化」「輸出」「ＴＰＰ対策」などをテーマに週１回発行。農林水産ビジネスのヒントも満載です。</dd>
+ 	                    </dl>
+ 	                </a>
+ 			</div>
+ 			<div class="Book mr0">
+ 	            	<a href="https://medical.jiji.com/">
+ 	                    <dl>
+ 	                        <dt>【時事メディカル】</dt>
+ 	                        <dd>医療情報サイト「時事メディカル」が伝える最新の医療ニュースに加え、気になる慢性疾患や流行中の感染症など時宜にかなった情報を日々、紹介します。</dd>
+ 	                    </dl>
+ 	                </a>
+ 			</div>
+ 			<div class="Book">
+ 	            	<a href="https://bookpub.jiji.com/book/b383104.html">
+ 	                    <dl>
+ 	                        <dt>【新刊】「学校の「当たり前」をやめた。」</dt>
+ 	                        <dd>宿題。クラス担任。中間期末テスト。服装指導。みんなやめてしまった公立中校長がいる。「当たり前」ばかりをやっている学校がつくる「ダメな大人」は？ </dd>
+ 	                    </dl>
+ 	                </a>
+ 			</div>
+ 			<div class="Book">
+ 	            	<a href="/service/file/">
+ 	                    <dl>
+ 	                        <dt>【新刊】</dt>
+ 	                        <dd>社団法人・地方行財政調査会の「全国知事・市町村長ファイル2017-2018」発売開始！</dd>
+ 	                    </dl>
+ 	                </a>
+ 			</div>
+ 			<div class="Book">
+ 	            	<a href="/service/senmon/">
+ 	                    <dl>
+ 	                        <dt>【専門情報誌】</dt>
+ 	                        <dd>教育・福祉・地方行政・税務・ビジネスの最前線にいるあなたに新聞が書かない情報を！</dd>
+ 	                    </dl>
+ 	                </a>
+ 			</div>
+ 			<div class="Book mr0">
+ 	            	<a href="/service/c_finance/#09">
+ 	                    <dl>
+ 	                        <dt>【重要事実情報】</dt>
+ 	                        <dd>「売買管理支援情報」とも呼ばれる当情報サービスは、インサイダー取引の防止や、株式投資情報として活用できます。Webサービスの他、データ提供サービスも。</dd>
+ 	                    </dl>
+ 	                </a>
+ 			</div>
+ 
+ 			<div class="Img">
+ 				<a href="/jc/v?p=ov-ijampseminar20181129_subject01-p1">
+ 					<img src="/ad/img/20181129ijampsrport300-60b.jpg" width="235">
+ 				</a>
+ 			</div>
+ 
+ 			<div class="Img">
+ 				<a href="/service/agrio/">
+ 					<img src="/ad/img/agrio_300_60.png" width="235">
+ 				</a>
+ 			</div>
+ 
+ 			<div class="Img">
+ 				<a href="/jc/ti?p=oc2018&amp;g=kanagawa2018">
+ 					<img src="/ad/img/kanagawa2018-3_300_60.jpg" width="235">
+ 				</a>
+ 			</div>
+ 
+ 			<div class="Img mr0">
+ 				<a href="/jc/ti?p=izonsho&amp;g=izonsho">
+ 					<img src="/ad/img/izon_300_60.jpg" width="235">
+ 				</a>
+ 			</div>
+ 
+ 		</div>
+ 	</div>
+             
+ 	<div id="ContentEndBottom">
+ 		<dl>
+ 			<dt>時事通信の商品・サービス　ラインナップ</dt>
+ 			<dd>
+ 				<ul class="clearfix">
+ 					<li><a href="/hall/">時事通信ホール</a></li>
+ 					<li><a href="http://naijyo.or.jp/">内外情勢調査会</a></li>
+ 					<li><a href="/service/yoron/index.html">世論調査・内閣支持率</a></li>
+ 					<li><a href="https://bookpub.jiji.com/">時事通信出版局</a></li>
+ 					<li><a href="http://jijiweb.jiji.com/info/asia_info.html">時事速報</a></li>
+ 					<li><a href="/topseminar/">時事トップセミナー</a></li>
+ 					<li><a href="http://kouensupport.jiji.com/">講演サポート.com</a></li>
+ 					<li><a href="/service/senmon/">専門情報誌</a></li>
+ 					<li><a href="http://jamp.jiji.com/info/">iJAMP時事行政情報モニター</a></li>
+ 
+ 				</ul>
+        		</dd>
+        	</dl>
+ 	</div>
+ </div>
+ <!-- DISPLAY on SP ICON -->
+ <script type="text/javascript">
+ 	$(document).ready(function(){
+ 		var mobile_url = '/sp/article?k=2019021500463&g=eco';
+ 		var m_url = mobile_url.substr(0,6);
+ 		var dmmy_tmplvar = '<tmpl_';
+ 		//UA check
+ 		if (jijicom_UA_check() == 'SP'){
+ 			if ( m_url != dmmy_tmplvar ) {
+ 				if ( mobile_url != '' ) {
+ 					$('.SwitchSP').show();
+ 				}
+ 			}
+ 		}
+ 	});
+ 	function SwitchSp(){
+ 		$.cookie( "jijicom_device_cookie" , "SP" ,{ expires: 1000 , path: '/'});
+ 		//window.location.reload( true );
+ 		location.href = '/sp/article?k=2019021500463&g=eco';
+ 	}
+ </script>
+ 
+ <!-- DISPLAY on SP ICON -->
+ <div class="SwitchSP" style="display:none;">
+ 	<a href="javascript:void(0)" onclick="SwitchSp(); return false;">スマートフォン版へ</a>
+ </div>
+ 
+ <footer>
+ 	<div class="FooterInner clearfix">
+         <div id="FooterLogo"><a href="/"><img width="212" height="72" alt="" src="/news2/common/img/footer-logo.gif"></a></div>
+         <ul class="clearfix">
+             <li><a href="javascript:footerwin('/reference/index.html')">お問い合わせ</a></li>
+             <li><a href="javascript:footerwin('/policy/rss.html')">RSS規約</a></li>
+             <li><a href="javascript:footerwin('/policy/link.html')">リンク</a></li>
+             <li><a href="javascript:footerwin('/policy/disclaimer.html')">著作権・免責</a></li>
+             <li><a href="javascript:footerwin('/policy/privacy.html')">個人情報保護方針</a></li>
+             <li><a href="/jinji/">採用情報</a></li>
+             <li><a href="/service/">個人・法人向けサービス</a></li>
+             <li><a href="/c_profile/">会社案内</a></li>
+         </ul>
+     </div>
+ </footer>
+ 
+ 	<!-- footer end -->
+ 
+ 	<!--slider start-->
+ 	<link rel="stylesheet" type="text/css" href="/news2/common/css/slick.css" media="screen" />
+ 	<script src="/news2/common/js/slick.min.js"></script>
+ 	<script src="/news2/common/js/slider.js"></script>
+ 	<!--slider end-->
+ 
+ 	<!--rubiconproject.com start-->
+ 	<iframe id="multisync-iframe" height="0" width="0" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://secure-assets.rubiconproject.com/utils/xapi/multi-sync.html?p=dfp&endpoint=apac" style="border: 0px; display: none;"></iframe>
+ 	<!--rubiconproject.com end-->
+ 
+ 	<!--chatbeat start-->
+ 	<script src="/news2/common/js/chartbeat.js"></script>
+ 	<!--chatbeat end-->
+ 
+ 	<!--aja start-->
+ 	<script src="https://cdn.as.amanad.adtdp.com/tag/40548.js" data-aja-ssp-asi="Z6xhEyBmR" async></script>
+ 	<!--aja end-->
+ 
+ </body></html>

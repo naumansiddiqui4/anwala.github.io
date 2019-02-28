@@ -1,0 +1,614 @@
+<!doctype html>
+
+<html lang="en-GB" prefix="og: http://ogp.me/ns#" class="no-js">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<meta name="viewport" content="width=device-width">
+
+	<link rel="pingback" href="https://emmalouisesmith.com/xmlrpc.php">
+
+	<!-- wordpress head functions -->
+	<title>It&#039;s time to say NO to working nine-to-five | Emma-Louise Smith</title>
+
+<!-- Social Warfare v3.4.2 https://warfareplugins.com --><style>@font-face {font-family: "sw-icon-font";src:url("https://emmalouisesmith.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.4.2");src:url("https://emmalouisesmith.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=3.4.2#iefix") format("embedded-opentype"),url("https://emmalouisesmith.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=3.4.2") format("woff"),
+	url("https://emmalouisesmith.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=3.4.2") format("truetype"),url("https://emmalouisesmith.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=3.4.2#1445203416") format("svg");font-weight: normal;font-style: normal;}</style>
+<!-- Social Warfare v3.4.2 https://warfareplugins.com -->
+
+
+<!-- This site is optimized with the Yoast SEO plugin v9.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="It&#039;s time to #beboldforchange this International Women&#039;s Day and say NO to working nine-to-five. The outdated model of the working day is on its way out."/>
+<link rel="canonical" href="https://emmalouisesmith.com/working-nine-to-five/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="It&#039;s time to say NO to working nine-to-five | Emma-Louise Smith" />
+<meta property="og:description" content="It&#039;s time to #beboldforchange this International Women&#039;s Day and say NO to working nine-to-five. The outdated model of the working day is on its way out." />
+<meta property="og:url" content="https://emmalouisesmith.com/working-nine-to-five/" />
+<meta property="og:site_name" content="Emma-Louise Smith" />
+<meta property="article:tag" content="beboldforchange" />
+<meta property="article:tag" content="flexible working" />
+<meta property="article:tag" content="International Women&#039;s Day" />
+<meta property="article:tag" content="nine-to-five" />
+<meta property="article:section" content="Feminism" />
+<meta property="article:published_time" content="2017-03-07T15:05:28+00:00" />
+<meta property="og:image" content="https://i1.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/no-to-nine-to-five.png?fit=1024%2C512&#038;ssl=1" />
+<meta property="og:image:secure_url" content="https://i1.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/no-to-nine-to-five.png?fit=1024%2C512&#038;ssl=1" />
+<meta property="og:image:width" content="1024" />
+<meta property="og:image:height" content="512" />
+<meta property="og:image:alt" content="It&#039;s time to say no to working nine-to-five" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="It&#039;s time to #beboldforchange this International Women&#039;s Day and say NO to working nine-to-five. The outdated model of the working day is on its way out." />
+<meta name="twitter:title" content="It&#039;s time to say NO to working nine-to-five | Emma-Louise Smith" />
+<meta name="twitter:site" content="@smithemmal" />
+<meta name="twitter:image" content="https://i1.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/no-to-nine-to-five.png?fit=1024%2C512&#038;ssl=1" />
+<meta name="twitter:creator" content="@smithemmal" />
+<script type='application/ld+json'>{"@context":"https://schema.org","@type":"Person","url":"https://emmalouisesmith.com/","sameAs":["http://smithemmal","http://smithemmal","https://twitter.com/smithemmal"],"@id":"#person","name":"Emma-Louise Smith."}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//static.mailerlite.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Emma-Louise Smith &raquo; Feed" href="https://emmalouisesmith.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Emma-Louise Smith &raquo; Comments Feed" href="https://emmalouisesmith.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Emma-Louise Smith &raquo; It&#8217;s time to say NO to working nine-to-five Comments Feed" href="https://emmalouisesmith.com/working-nine-to-five/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v7.4.2 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.4.2';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-42824217-5';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-42824217-5', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('require', 'displayfeatures');
+		__gaTracker('require', 'linkid', 'linkid.js');
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/emmalouisesmith.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.3"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='social-warfare-block-css-css'  href='https://emmalouisesmith.com/wp-content/plugins/social-warfare/assets/js/post-editor/dist/blocks.style.build.css?ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.0.3/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailerlite_forms.css-css'  href='https://emmalouisesmith.com/wp-content/plugins/official-mailerlite-sign-up-forms/assets/css/mailerlite_forms.css?ver=1.3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='social_warfare-css'  href='https://emmalouisesmith.com/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=3.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tweakme2-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Fjalla+One%3A400%7CLora%3A400%7CCantarell%3A400%2C400italic%2C700%2C700italic%7COpen+Sans%3A700&#038;ver=5.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://emmalouisesmith.com/wp-content/themes/tweakme2/assets/css/bootstrap.min.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://use.fontawesome.com/releases/v5.5.0/css/all.css?ver=5.5.0' type='text/css' media='all' />
+<link rel='stylesheet' id='tweakme2-css'  href='https://emmalouisesmith.com/wp-content/themes/tweakme2/style.css?ver=2.2.2' type='text/css' media='all' />
+<style id='tweakme2-inline-css' type='text/css'>
+@media (min-width: 992px) { #main_content_wrap > .col-md-8 { width: 70%; } #main_content_wrap > .col-md-4 { width: 30%; } }
+</style>
+<link rel='stylesheet' id='tweakme2-custom-css-css'  href='https://emmalouisesmith.com/wp-content/uploads/tweakme2/custom-css.css?ver=1550977574' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/7.0.1/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.0.3/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.0.3/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var related_posts_js_options = {"post_heading":"h4"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.0.1/_inc/build/related-posts/related-posts.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/emmalouisesmith.com","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://emmalouisesmith.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.4.2'></script>
+<script type='text/javascript' src='https://static.mailerlite.com/js/jquery.validate.min.js?ver=5.0.3'></script>
+<link rel='https://api.w.org/' href='https://emmalouisesmith.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://emmalouisesmith.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://emmalouisesmith.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.0.3" />
+<link rel='shortlink' href='https://wp.me/p6M15a-6N' />
+<link rel="alternate" type="application/json+oembed" href="https://emmalouisesmith.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femmalouisesmith.com%2Fworking-nine-to-five%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://emmalouisesmith.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Femmalouisesmith.com%2Fworking-nine-to-five%2F&#038;format=xml" />
+    <!-- MailerLite Universal -->
+    <script>
+        (function (m, a, i, l, e, r) {
+            m['MailerLiteObject'] = e;
+
+            function f() {
+                var c = {a: arguments, q: []};
+                var r = this.push(c);
+                return "number" != typeof r ? r : f.bind(c.q);
+            }
+
+            f.q = f.q || [];
+            m[e] = m[e] || f.bind(f.q);
+            m[e].q = m[e].q || f.q;
+            r = a.createElement(i);
+            var _ = a.getElementsByTagName(i)[0];
+            r.async = 1;
+            r.src = l + '?' + (~~(new Date().getTime() / 10000000));
+            _.parentNode.insertBefore(r, _);
+        })(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+
+        var ml_account = ml('accounts', '963818', 'o5a8z1o9a1', 'load');
+    </script>
+    <!-- End MailerLite Universal -->
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+<link rel='dns-prefetch' href='//c0.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+					<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<link rel="icon" href="https://i2.wp.com/emmalouisesmith.com/wp-content/uploads/2019/01/cropped-ELS-favicon.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i2.wp.com/emmalouisesmith.com/wp-content/uploads/2019/01/cropped-ELS-favicon.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://i2.wp.com/emmalouisesmith.com/wp-content/uploads/2019/01/cropped-ELS-favicon.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i2.wp.com/emmalouisesmith.com/wp-content/uploads/2019/01/cropped-ELS-favicon.png?fit=270%2C270&#038;ssl=1" />
+			<style type="text/css" id="wp-custom-css">
+				#footer .textwidget {
+    text-align: center;
+}
+.video-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.video-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+.btn-block+.btn-block {
+    margin-top: 5px;
+} 			</style>
+			<!-- end of wordpress head -->
+
+</head>
+
+<body data-rsssl=1 class="post-template-default single single-post postid-421 single-format-standard">
+
+
+<div id="wrap">
+
+		<nav id="navbar-wrap-1" class="navbar navbar-creativewhim navbar-fixed-top" role="navigation">
+		<div class="container">
+			<div class="navbar-header nomargin">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar_1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+			</div>
+			<div id="navbar_1" class="collapse navbar-collapse">
+				<ul id="menu-navigation" class="nav navbar-nav"><li id="menu-item-1497" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1497"><a href="https://emmalouisesmith.com">Home</a></li>
+<li id="menu-item-2030" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2030"><a href="https://emmalouisesmith.com/about/">About</a></li>
+<li id="menu-item-2032" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2032"><a href="https://emmalouisesmith.com/work-with-me/">Work with me</a></li>
+<li id="menu-item-2031" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2031"><a href="https://emmalouisesmith.com/contact/">Contact</a></li>
+</ul>	<ul class="tweakme2-social-media">
+		<li><a href="https://twitter.com/smithemmal" target="_blank"><i class="fab fa-twitter"></i></a></li>
+<li><a href="https://www.instagram.com/smithemmal" target="_blank"><i class="fab fa-instagram"></i></a></li>
+<li><a href="https://pinterest.com/smithemmal" target="_blank"><i class="fab fa-pinterest"></i></a></li>	</ul>
+				</div>
+		</div>
+	</nav>
+						<header role="banner" id="top-header" class="text-center">
+													<div class="site-logo text-center">
+								<a href="https://emmalouisesmith.com"><img src="https://emmalouisesmith.com/wp-content/uploads/2019/02/ELS-savvy-solo-mama.png" alt="Emma-Louise Smith"></a>
+							</div>
+												</header>
+					
+	<div id="content" class="container">
+
+
+	<div class="row nomargin" id="main_content_wrap">
+
+		
+		<main id="main" class="col-md-8 clearfix" role="main">
+
+			
+				<article id="post-421" class="clear overflow-hidden single_post_page full-post post-421 post type-post status-publish format-standard has-post-thumbnail hentry category-feminism category-flexible-work category-selfemployment tag-beboldforchange tag-flexible-working tag-international-womens-day tag-nine-to-five">
+							<header class="post_header">
+						<h1 class="post-title entry-title">It&#8217;s time to say NO to working nine-to-five</h1>
+					</header>
+					<p class="meta">Posted by <a href="https://emmalouisesmith.com/author/vstxkw/">Emma</a> on 7th March 2017 / <a href="https://emmalouisesmith.com/working-nine-to-five/#comments">6 Comments</a>
+</p>					<div class="post_content">
+						<div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color scale-100  scale-" data-min-width="1100" data-float-color="#ffffff" data-float="bottom" data-float-mobile="bottom" data-transition="slide" ><div class="nc_tweetContainer swp_twitter" data-network="twitter"><a rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=It%27s+time+to+say+NO+to+working+nine-to-five&url=https%3A%2F%2Femmalouisesmith.com%2Fworking-nine-to-five%2F&via=smithemmal" data-link="https://twitter.com/intent/tweet?text=It%27s+time+to+say+NO+to+working+nine-to-five&url=https%3A%2F%2Femmalouisesmith.com%2Fworking-nine-to-five%2F&via=smithemmal" class="nc_tweet"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet noPop" onClick="var e=document.createElement('script');
+						   e.setAttribute('type','text/javascript');
+						   e.setAttribute('charset','UTF-8');
+						   e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+						   document.body.appendChild(e);
+						" ><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div><div class="nc_tweetContainer swp_facebook" data-network="facebook"><a rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Femmalouisesmith.com%2Fworking-nine-to-five%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Femmalouisesmith.com%2Fworking-nine-to-five%2F" class="nc_tweet"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer total_shares total_sharesalt" ><span class="swp_count ">163 <span class="swp_label">Shares</span></span></div></div><p><em><strong>Tomorrow it’s International Women’s Day. This post is a call-to-arms for equality in the workplace &#8211; #BeBoldForChange.</strong></em></p>
+<p><em><strong><img class="alignnone wp-image-424 size-large jetpack-lazy-image" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin-683x1024.png?resize=683%2C1024" alt="It&#039;s time to say NO to working nine-to-five | flexible working hours, work from home, work from home and get paid, work from home with kids, freelance jobs, self-employment ideas, freelance business, freelance tips, working mother tips, working mother guilt" width="683" height="1024" data-recalc-dims="1" data-lazy-srcset="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin.png?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin.png?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin.png?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin.png?w=800&amp;ssl=1 800w" data-lazy-sizes="(max-width: 683px) 100vw, 683px" data-lazy-src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin-683x1024.png?resize=683%2C1024&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img class="alignnone wp-image-424 size-large" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin-683x1024.png?resize=683%2C1024" alt="It's time to say NO to working nine-to-five | flexible working hours, work from home, work from home and get paid, work from home with kids, freelance jobs, self-employment ideas, freelance business, freelance tips, working mother tips, working mother guilt" width="683" height="1024" srcset="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin.png?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin.png?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin.png?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/say-no-nine-to-five-pin.png?w=800&amp;ssl=1 800w" sizes="(max-width: 683px) 100vw, 683px" data-recalc-dims="1" /></noscript></strong></em></p>
+<p>When I returned to work after I had my daughter, I decided to work part-time. I was demoted. My responsibilities were slashed and a childless colleague with very little communications experience was given my job.</p>
+<p>It was humiliating. I&#8217;d worked full-time in mostly female dominated industries and believed we lived in more enlightened times. I couldn&#8217;t have been more wrong.</p>
+<p>As a mother I was no longer prime employee real estate. Welcome to the reality of inequality in the workplace.</p>
+<p><strong>And I&#8217;m FAR from alone.</strong></p>
+<p>Nearly EVERY mother I know has a similar tale to tell of either blatant discrimination or the dawning realisation that the career they once thrived in is incompatible with being a mum.</p>
+<p><strong>Every year 54,000 women are forced out of their jobs by unsympathetic employers after maternity leave.</strong></p>
+<h1>The reality of inequality in the workplace</h1>
+<p>It’s not only that mothers don’t want to commute for two hours and put in a 15 hour shift at the office. They can’t.</p>
+<p>The main responsibility for childcare &#8211; and most other forms of care for that matter &#8211; still lies with women. And the reason for this lies squarely with the outdated notion of working nine-to-five.</p>
+<p><span style="font-weight: bold;">The traditional workplace is a toxic environment for mothers.</span></p>
+<hr />
+<p>	<span class="label label-primary">Related:</span>
+	 <a href="https://emmalouisesmith.com/freedom-flexible-working/" target="_blank" rel="noopener noreferrer">Bye bye nine-to-five, hello freedom and flexible working</a></p>
+<hr />
+<p>This working world we&#8217;ve inherited became the norm when 99% of the workforce were men with wives at home taking care of the home and the children. Times have changed, but our working life hasn&#8217;t.</p>
+<p>Despite the lip service paid to &#8216;flexible working&#8217; by many employers, working nine-to-five still remains the norm. And while it does anyone who has the audacity to request more flexibility ends up being viewed as less committed. This couldn’t be further from the truth.</p>
+<p><span style="font-weight: bold;">One in five new mums experience harassment or negative comments from their colleagues, employer or manager when pregnant or returning from maternity leave.</span></p>
+<p>Just because you don’t want to work 15 hour days  and can’t go for spontaneous after work drinks anymore doesn’t mean you aren’t a dedicated, loyal and high performing employee.</p>
+<p>As a part-time working mother I was ten times more productive than I ever was when I worked full-time. With limited time to get everything done I powered through and ditched the time-wasting.</p>
+<p>Yet, my absence from the office two days a week and the fact I had to leave at 5pm on the dot left me with the distinct impression that others felt I wasn&#8217;t pulling my weight.</p>
+<h1>The stark choice mothers face</h1>
+<p>Despite the circumstances I was lucky to have an employer who even considered allowing me to work part-time. After having kids most women face two stark choices:</p>
+<ol>
+<li>Struggle on in a full-time role desperately trying to keep all the balls in the air – OR</li>
+<li>Give up work because the hours, commuting and childcare costs make it not worth your while.</li>
+</ol>
+<p>I’d like to think there was a third option but flexible, part-time roles that are both rewarding and well-paid are a bit of an urban myth.</p>
+<p>Outside London the vast majority of part-time work is unskilled and poorly paid. If you don’t believe me do a quick search on any local jobs site. There&#8217;s a dearth of appealing options.</p>
+<p><strong>A shocking 54% of women who work part-time are doing jobs below their experience and qualifications.</strong></p>
+<h1><span style="font-weight: bold;">It’s a shocking waste of talent</span></h1>
+<p>As if that wasn’t ridiculous enough, here&#8217;s what&#8217;s REALLY absurd:</p>
+<ul>
+<li>This isn’t a challenge facing a tiny minority of our society. It’s an issue nearly EVERY woman in this country faces when she has children.</li>
+</ul>
+<ul>
+<li>Forcing us all to pile onto the same trains, buses and roads every morning so we can sit behind a desk in a soulless, natural light-starved office is COMPLETELY UNNECESSARY.</li>
+</ul>
+<p>Most of us have all the technology and equipment we need to work from wherever we darn well please in our back pockets – or our handbags!</p>
+<p>Armed with a smartphone, or perhaps a laptop and a wifi connection, you can work from wherever you please, whenever you please.</p>
+<p><span style="font-weight: bold;">We’re not ploughing fields, or on the production line in factories anymore so why are we clinging on to working the same eight hours, Monday to Friday?</span></p>
+<p>It’s not even productive. You lose the ability to concentrate effectively after staring at a computer screen for two hours. Regular breaks, as well as working at times that suit you &#8211; we’re not all the same! &#8211; increase your productivity.</p>
+<p>So does the feeling of having some control over your life.</p>
+<p>Two thirds of MPs believe it would boost the economy if employees could work more flexibly.</p>
+<h1><span style="font-weight: bold;">So why does the nine-to-five survive?</span></h1>
+<p>Because most of us simply accept what we&#8217;re used to. But the days of sheep like acceptance are coming to an end.</p>
+<p><span style="font-weight: bold;">Between 2008 and 2015 the number of mothers working as freelancers increased by a massive 70%.</span></p>
+<p><span style="font-weight: bold;">70%! That’s HUGE!</span></p>
+<hr />
+<p>	<span class="label label-primary">Related:</span>
+	 <a href="https://emmalouisesmith.com/advantages-of-self-employment/" target="_blank" rel="noopener noreferrer">18 advantages of self-employment for single mums</a></p>
+<hr />
+<p>Determined not to waste their talent, education and ambition professional mothers are voting with their feet, and seeking a better way. And I unashamedly encourage you to do the same.</p>
+<h1><span style="font-weight: bold;">JUST SAY NO.</span></h1>
+<ul>
+<li>No to being a bum on a seat between nine and five, being judged by your visibility instead of your ability.</li>
+<li>No to spending two hours of your day packed into public transport like a sardine in a can.</li>
+<li>No to an outdated, unproductive model of working life that piles unnecessary amounts of stress and guilt onto your shoulders.</li>
+</ul>
+<p>Until we start saying no, loudly and firmly, employers won&#8217;t listen. Until then they have carte blanche to carry on expecting us to work in an outdated, unproductive way that is toxic to family life.</p>
+<p><strong>The lip service they pay to flexible work as a &#8216;benefit&#8217; isn&#8217;t enough.</strong></p>
+<p>It&#8217;s not a benefit. It&#8217;s how we should all live. A genuinely flexible approach to working hours would create a level playing field where both parents would be able to fit work around the school run and administer the Calpol in flu season. Not just mothers.</p>
+<p>But until then it will always be predominantly mothers who choose to opt out. Because someone has to.</p>
+<p>So I choose not to miss out on my daughter’s childhood or sacrifice my ambitions, because my employer refuses to allow me some control over my life.</p>
+<p>I deserve more, my daughter certainly does – and so do you.</p>
+<h4>Got questions? Leave a comment, let’s chat!</h4>
+<p><a href="http://honestmum.com/category/brilliant-blog-posts/"><img style="margin-left: auto; margin-right: auto; display: block;" src="https://i1.wp.com/i.imgur.com/fJzNWoE.jpg?resize=301%2C189" alt="Brilliant blog posts on HonestMum.com" width="301" height="189" data-recalc-dims="1" data-lazy-src="https://i1.wp.com/i.imgur.com/fJzNWoE.jpg?resize=301%2C189&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img style="margin-left: auto; margin-right: auto; display: block;" src="https://i1.wp.com/i.imgur.com/fJzNWoE.jpg?resize=301%2C189" alt="Brilliant blog posts on HonestMum.com" width="301" height="189" data-recalc-dims="1" /></noscript></a></p>
+<div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color scale-100  scale-" data-min-width="1100" data-float-color="#ffffff" data-float="bottom" data-float-mobile="bottom" data-transition="slide" ><div class="nc_tweetContainer swp_twitter" data-network="twitter"><a rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=It%27s+time+to+say+NO+to+working+nine-to-five&url=https%3A%2F%2Femmalouisesmith.com%2Fworking-nine-to-five%2F&via=smithemmal" data-link="https://twitter.com/intent/tweet?text=It%27s+time+to+say+NO+to+working+nine-to-five&url=https%3A%2F%2Femmalouisesmith.com%2Fworking-nine-to-five%2F&via=smithemmal" class="nc_tweet"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Tweet</span></span></span></span></a></div><div class="nc_tweetContainer swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet noPop" onClick="var e=document.createElement('script');
+						   e.setAttribute('type','text/javascript');
+						   e.setAttribute('charset','UTF-8');
+						   e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+						   document.body.appendChild(e);
+						" ><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div><div class="nc_tweetContainer swp_facebook" data-network="facebook"><a rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Femmalouisesmith.com%2Fworking-nine-to-five%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Femmalouisesmith.com%2Fworking-nine-to-five%2F" class="nc_tweet"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Share</span></span></span></span></a></div><div class="nc_tweetContainer total_shares total_sharesalt" ><span class="swp_count ">163 <span class="swp_label">Shares</span></span></div></div><div class="swp-content-locator"></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div>					</div>
+					<div class="divider"><hr></div><p class="meta"><i>THIS POST MAY CONTAIN AFFILIATE LINKS. PLEASE READ MY <a href="http://selfemployedsinglemum.com/site-policies/">SITE POLICIES</a> FOR MORE INFO.</i></p>	</article>
+
+		<section id="respond" class="respond-form">
+
+				<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/working-nine-to-five/#respond" style="display:none;">Cancel reply</a></small></h3>			<form action="https://emmalouisesmith.com/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate>
+				<div class="form-group"><textarea name="comment" id="comment" class="form-control" placeholder="Your Comment Here..." aria-required="true" rows="5"></textarea></div><div class="row form-group"><div class="col-md-4"><label for="author">Name <span class="required">*</span></label> <input type="text" class="form-control" name="author" id="author" value="" placeholder="Your Name" aria-required="true"></div>
+<div class="col-md-4"><label for="email">Email <span class="required">*</span></label> <input type="text" class="form-control" name="email" id="email" value="" placeholder="Your Email" aria-required="true"></div>
+<div class="col-md-4"><label for="url">Website</label> <input type="text" class="form-control" name="url" id="url" value="" placeholder="Your Website"></div></div>
+<div class="form-group"><input type="text" class="form-control" id="tweakme2_twitter_handle" name="tweakme2_twitter_handle" placeholder="Your Twitter handle"></div>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='421' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="abb23d806d" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="230"/></p>			</form>
+			</div><!-- #respond -->
+	<p class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p>
+		</section>
+
+	
+	<h3 id="comments">
+		6 responses to &ldquo;<span>It&#8217;s time to say NO to working nine-to-five</span>&rdquo;	</h3>
+
+	<ol class="commentlist">
+			<li class="comment even thread-even depth-1">
+	<article id="comment-82" class="comment-wrap">
+
+		
+		<div class="comment-avatar-wrap alignleft"><img alt src="https://secure.gravatar.com/avatar/9221de0548329ceb06ced3bc91feae55?s=50&#038;d=mm&#038;r=g" class="avatar avatar-50 photo jetpack-lazy-image" height="50" width="50" data-lazy-srcset="https://secure.gravatar.com/avatar/9221de0548329ceb06ced3bc91feae55?s=100&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/9221de0548329ceb06ced3bc91feae55?s=50&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='https://secure.gravatar.com/avatar/9221de0548329ceb06ced3bc91feae55?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/9221de0548329ceb06ced3bc91feae55?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /></noscript></div>					<div class="commenter_name">
+						<a href='http://savvymumsbusiness.org.uk' rel='external nofollow' class='url'>Rebecca Claxton</a>					</div>
+					<p>Brilliant article Emma. I&#8217;m happy to say I&#8217;m doing my own thing now, but disappointed that staying in a career I loved just didn&#8217;t work around family life once I was a single parent!<br />
+Here&#8217;s to women changing the face of business and becoming the employers of the future 🙂</p>
+					<time class="comment_time" datetime="2017-03-8">
+						<a href="https://emmalouisesmith.com/working-nine-to-five/#comment-82">8th March 2017, 10:16 am</a>
+					</time>
+										<div class="comment_reply_wrap alignright">
+						<a rel='nofollow' class='comment-reply-link' href='#comment-82' onclick='return addComment.moveForm( "comment-82", "82", "respond", "421" )' aria-label='Reply to Rebecca Claxton'>Reply</a>					</div>
+						</article>
+	<!-- </li> is added by wordpress automatically -->
+	<ul class="children">
+	<li class="comment byuser comment-author-vstxkw bypostauthor odd alt depth-2">
+	<article id="comment-83" class="comment-wrap">
+
+		
+		<div class="comment-avatar-wrap alignleft"><img alt src="https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=50&#038;d=mm&#038;r=g" class="avatar avatar-50 photo jetpack-lazy-image" height="50" width="50" data-lazy-srcset="https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=100&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=50&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /></noscript></div>					<div class="commenter_name">
+						<a href='http://selfemployedsinglemum.com' rel='external nofollow' class='url'>Emma</a>					</div>
+					<p>Hear, hear Rebecca! We&#8217;re doing our bit to make that happen. But yes it&#8217;s hugely disappointing and the fact it makes NO SENSE makes it even harder to live with. Thank you so much for reading and commenting. I really appreciate it.</p>
+					<time class="comment_time" datetime="2017-03-8">
+						<a href="https://emmalouisesmith.com/working-nine-to-five/#comment-83">8th March 2017, 11:44 am</a>
+					</time>
+										<div class="comment_reply_wrap alignright">
+						<a rel='nofollow' class='comment-reply-link' href='#comment-83' onclick='return addComment.moveForm( "comment-83", "83", "respond", "421" )' aria-label='Reply to Emma'>Reply</a>					</div>
+						</article>
+	<!-- </li> is added by wordpress automatically -->
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1">
+	<article id="comment-84" class="comment-wrap">
+
+		
+		<div class="comment-avatar-wrap alignleft"><img alt src="https://secure.gravatar.com/avatar/5560a6c3d1c13dc7dae14b7b133eeea7?s=50&#038;d=mm&#038;r=g" class="avatar avatar-50 photo jetpack-lazy-image" height="50" width="50" data-lazy-srcset="https://secure.gravatar.com/avatar/5560a6c3d1c13dc7dae14b7b133eeea7?s=100&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/5560a6c3d1c13dc7dae14b7b133eeea7?s=50&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='https://secure.gravatar.com/avatar/5560a6c3d1c13dc7dae14b7b133eeea7?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/5560a6c3d1c13dc7dae14b7b133eeea7?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /></noscript></div>					<div class="commenter_name">
+						Sarah					</div>
+					<p>I&#8217;m not a single mother but I am definitely facing an impending decision from my employer to work 5 days full time hours or nothing with a raft of water tight reasons for anything else not working. Anything else that isn&#8217;t being stressed to the max and never good enough, never ending high workload expectations and a two hour commute and a toddler. Exhausting. Loyalty and working your socks off as a childless professional for a decade doesn&#8217;t seem to get you anywhere! #fedup #excitedfornew possibilities</p>
+					<time class="comment_time" datetime="2017-03-8">
+						<a href="https://emmalouisesmith.com/working-nine-to-five/#comment-84">8th March 2017, 1:22 pm</a>
+					</time>
+										<div class="comment_reply_wrap alignright">
+						<a rel='nofollow' class='comment-reply-link' href='#comment-84' onclick='return addComment.moveForm( "comment-84", "84", "respond", "421" )' aria-label='Reply to Sarah'>Reply</a>					</div>
+						</article>
+	<!-- </li> is added by wordpress automatically -->
+	<ul class="children">
+	<li class="comment byuser comment-author-vstxkw bypostauthor odd alt depth-2">
+	<article id="comment-85" class="comment-wrap">
+
+		
+		<div class="comment-avatar-wrap alignleft"><img alt src="https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=50&#038;d=mm&#038;r=g" class="avatar avatar-50 photo jetpack-lazy-image" height="50" width="50" data-lazy-srcset="https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=100&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=50&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /></noscript></div>					<div class="commenter_name">
+						<a href='http://selfemployedsinglemum.com' rel='external nofollow' class='url'>Emma</a>					</div>
+					<p>Sarah &#8211; I hear you. It&#8217;s flippin&#8217; tough, and there&#8217;s no easy option. And yes, it&#8217;s a shock after years of hard work to find you&#8217;re cast aside simply because you chose to give birth to another human being. Choose yourself. Choose your family. Choose what feels good. and ps. while this site is called Self-Employed SINGLE Mum because I am one, the content applies equally to all mums &#8211; or to anyone else who wants more from life than life as an employee has to offer. Thank you so much for reading and commenting, I really appreciate it.</p>
+					<time class="comment_time" datetime="2017-03-8">
+						<a href="https://emmalouisesmith.com/working-nine-to-five/#comment-85">8th March 2017, 2:25 pm</a>
+					</time>
+										<div class="comment_reply_wrap alignright">
+						<a rel='nofollow' class='comment-reply-link' href='#comment-85' onclick='return addComment.moveForm( "comment-85", "85", "respond", "421" )' aria-label='Reply to Emma'>Reply</a>					</div>
+						</article>
+	<!-- </li> is added by wordpress automatically -->
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1">
+	<article id="comment-86" class="comment-wrap">
+
+		
+		<div class="comment-avatar-wrap alignleft"><img alt src="https://secure.gravatar.com/avatar/598c03330272520ca2b6e7e188711dc8?s=50&#038;d=mm&#038;r=g" class="avatar avatar-50 photo jetpack-lazy-image" height="50" width="50" data-lazy-srcset="https://secure.gravatar.com/avatar/598c03330272520ca2b6e7e188711dc8?s=100&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/598c03330272520ca2b6e7e188711dc8?s=50&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='https://secure.gravatar.com/avatar/598c03330272520ca2b6e7e188711dc8?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/598c03330272520ca2b6e7e188711dc8?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /></noscript></div>					<div class="commenter_name">
+						Elizabeth					</div>
+					<p>Thanks Emma for being courageous &amp; facing up to the work/life juggling act with determination to create better options. I am not a single mum in the true sense as my &#8220;baby&#8221; is old enough to have flown the nest; however I do have responsibilities for older relatives &amp; had to leave my job because it was incompatible with issues like helping someone frail in their 80&#8217;s attend outpatients appointments. Of course, this has had a negative impact on my finances &amp; morale. So I really appreciate finding you on social media, your upbeat and caring attitude is very helpful. You are giving women who are struggling with their circumstances some hope &amp; encouragement, and that&#8217;s a wonderful gift to the community.</p>
+					<time class="comment_time" datetime="2017-04-14">
+						<a href="https://emmalouisesmith.com/working-nine-to-five/#comment-86">14th April 2017, 2:41 pm</a>
+					</time>
+										<div class="comment_reply_wrap alignright">
+						<a rel='nofollow' class='comment-reply-link' href='#comment-86' onclick='return addComment.moveForm( "comment-86", "86", "respond", "421" )' aria-label='Reply to Elizabeth'>Reply</a>					</div>
+						</article>
+	<!-- </li> is added by wordpress automatically -->
+	<ul class="children">
+	<li class="comment byuser comment-author-vstxkw bypostauthor odd alt depth-2">
+	<article id="comment-87" class="comment-wrap">
+
+		
+		<div class="comment-avatar-wrap alignleft"><img alt src="https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=50&#038;d=mm&#038;r=g" class="avatar avatar-50 photo jetpack-lazy-image" height="50" width="50" data-lazy-srcset="https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=100&#038;d=mm&#038;r=g 2x" data-lazy-src="https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=50&amp;is-pending-load=1#038;d=mm&#038;r=g" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"><noscript><img alt='' src='https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=50&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/ccf682bfc2232c1e7aa5612f3ce95961?s=100&#038;d=mm&#038;r=g 2x' class='avatar avatar-50 photo' height='50' width='50' /></noscript></div>					<div class="commenter_name">
+						<a href='http://selfemployedsinglemum.com' rel='external nofollow' class='url'>Emma</a>					</div>
+					<p>Oh gosh Elizabeth thank you SO much for this comment. Hoping to be able to impact people&#8217;s lives in the way you describe is exactly why I started this blog, so it means a great deal to hear this from you. As you say, while this blog is called Self-Employed Single Mum &#8211; the content is relevant in so many different circumstances. Self-employed or not, single or not, mum or not. We&#8217;re all striving to create a life that we love, has meaning and allows us to be who we want to be. Thank you so much for taking the time to be here and to leave this lovely comment 🙂</p>
+					<time class="comment_time" datetime="2017-04-14">
+						<a href="https://emmalouisesmith.com/working-nine-to-five/#comment-87">14th April 2017, 4:23 pm</a>
+					</time>
+										<div class="comment_reply_wrap alignright">
+						<a rel='nofollow' class='comment-reply-link' href='#comment-87' onclick='return addComment.moveForm( "comment-87", "87", "respond", "421" )' aria-label='Reply to Emma'>Reply</a>					</div>
+						</article>
+	<!-- </li> is added by wordpress automatically -->
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	</ol>
+
+
+			
+		</main>
+
+				<aside id="right_sidebar" class="sidebar col-md-4" role="complementary">
+
+			
+			<div id="media_image-2" class="widget widget_media_image"><h4 class="widgettitle widget-title">Hi, I&#8217;m Emma</h4><a href="https://emmalouisesmith.com/about"><img width="300" height="300" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/12/emma-louise-smith-rnd1.png?fit=300%2C300&amp;ssl=1" class="image wp-image-1442  attachment-full size-full jetpack-lazy-image" alt="" style="max-width: 100%; height: auto;" data-lazy-srcset="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/12/emma-louise-smith-rnd1.png?w=300&amp;ssl=1 300w, https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/12/emma-louise-smith-rnd1.png?resize=150%2C150&amp;ssl=1 150w" data-lazy-sizes="(max-width: 300px) 100vw, 300px" data-lazy-src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/12/emma-louise-smith-rnd1.png?fit=300%2C300&amp;ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" /></a></div><div id="text-2" class="widget widget_text">			<div class="textwidget"><p><small>I&#8217;m a single mother by choice from Surrey in the UK. Back in 2010, I found myself still single at 38 so I decided to use a sperm donor to have a baby. I hope this blog helps other single women make motherhood a reality, and show anyone who chooses single motherhood that while it may not be Plan A, Plan B (or is Y or Z !?) can be bloody brilliant. <strong><a href="https://emmalouisesmith.com/about/">Find out more&#8230;</a></strong></small></p>
+</div>
+		</div><div id="text-3" class="widget widget_text">			<div class="textwidget"><script type="text/javascript" src="https://app.mailerlite.com/data/webforms/637204/s0h0j6.js?v=1550977575"></script>
+</div>
+		</div><div id="custom_html-2" class="widget_text widget widget_custom_html"><h4 class="widgettitle widget-title">Read about&#8230;</h4><div class="textwidget custom-html-widget"><a class="btn btn-primary btn-block" href="https://emmalouisesmith.com/category/singleparenting/">Single parenting</a>
+<a class="btn btn-primary btn-block" href="https://emmalouisesmith.com/category/health/">Self-care</a>
+<a class="btn btn-primary btn-block" href="https://emmalouisesmith.com/category/money/">Money</a>
+<a class="btn btn-primary btn-block" href="https://emmalouisesmith.com/category/living/">Life hacks</a>
+<a class="btn btn-primary btn-block" href="https://emmalouisesmith.com/category/work/">Work</a>
+</div></div><div id="search-3" class="widget widget_search"><h4 class="widgettitle widget-title">Find what you need&#8230;</h4>	<div class="search_form_container">
+		<form action="https://emmalouisesmith.com/" method="GET" class="relative">
+			<label for="search" class="screen-reader-text">Enter a search query</label>
+			<i class="fa fa-search"></i>
+			<input type="search" id="search" name="s" placeholder="type &amp; press enter to search" value="">
+		</form>
+	</div>
+	</div><div id="swp_popular_posts_widget-2" class="widget widget_swp_popular_posts_widget"><div class="widget-text swp_widget_box" style="padding:15px;background:#ffffff;"><h4 class="widgettitle widget-title"><span class="widgettitle widget-title swp_popular_posts_title" style="color:#b3466e;">Popular Posts</span></h4><div class="swp_popular_post"><a href="https://emmalouisesmith.com/love-being-a-single-mum/"><img style="width:100px;height:100px;" class="swp_pop_thumb" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/02/love-being-a-single-mum.png?resize=150%2C150&ssl=1" title="11 reasons to LOVE being a single mum" alt="11 reasons to LOVE being a single mum" nopin="nopin" /></a><a style="font-size:80%;color:#b3466e;" class="swp_popularity" href="https://emmalouisesmith.com/love-being-a-single-mum/"><b>11 reasons to LOVE being a single mum</b></a></div><div class="swp_clearfix"></div><div class="swp_popular_post"><a href="https://emmalouisesmith.com/caravan-park-holiday-in-devon/"><img style="width:100px;height:100px;" class="swp_pop_thumb" src="https://i2.wp.com/emmalouisesmith.com/wp-content/uploads/2017/04/caravan-park-holiday-devon.png?resize=150%2C150&ssl=1" title="A cheap and cheerful caravan park holiday in Devon #singleparentholidays" alt="A cheap and cheerful caravan park holiday in Devon #singleparentholidays" nopin="nopin" /></a><a style="font-size:80%;color:#b3466e;" class="swp_popularity" href="https://emmalouisesmith.com/caravan-park-holiday-in-devon/"><b>A cheap and cheerful caravan park holiday in Devon #singleparentholidays</b></a></div><div class="swp_clearfix"></div><div class="swp_popular_post"><a href="https://emmalouisesmith.com/being-a-single-mum-on-mothers-day/"><img style="width:100px;height:100px;" class="swp_pop_thumb" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/03/being-a-single-mum-on-mothers-day.png?resize=150%2C150&ssl=1" title="The truth about being a single mum on Mother&#8217;s Day" alt="The truth about being a single mum on Mother&#8217;s Day" nopin="nopin" /></a><a style="font-size:80%;color:#b3466e;" class="swp_popularity" href="https://emmalouisesmith.com/being-a-single-mum-on-mothers-day/"><b>The truth about being a single mum on Mother&#8217;s Day</b></a></div><div class="swp_clearfix"></div><div class="swp_popular_post"><a href="https://emmalouisesmith.com/blogging-process-dare-to-grow/"><img style="width:100px;height:100px;" class="swp_pop_thumb" src="https://i1.wp.com/emmalouisesmith.com/wp-content/uploads/2017/10/blog-consistently-dare-to-grow.png?resize=150%2C150&ssl=1" title="How to create a blogging process you actually stick to (Dare to Grow review)" alt="How to create a blogging process you actually stick to (Dare to Grow review)" nopin="nopin" /></a><a style="font-size:80%;color:#b3466e;" class="swp_popularity" href="https://emmalouisesmith.com/blogging-process-dare-to-grow/"><b>How to create a blogging process you actually stick to (Dare to Grow review)</b></a></div><div class="swp_clearfix"></div><div class="swp_popular_post"><a href="https://emmalouisesmith.com/online-courses/"><img style="width:100px;height:100px;" class="swp_pop_thumb" src="https://i1.wp.com/emmalouisesmith.com/wp-content/uploads/2017/08/online-courses-for-selfemployed-single-mums.png?resize=150%2C150&ssl=1" title="5 awesome online courses that will sky-rocket your self-employment savvy" alt="5 awesome online courses that will sky-rocket your self-employment savvy" nopin="nopin" /></a><a style="font-size:80%;color:#b3466e;" class="swp_popularity" href="https://emmalouisesmith.com/online-courses/"><b>5 awesome online courses that will sky-rocket your self-employment savvy</b></a></div><div class="swp_clearfix"></div></div></div><div id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="http://blog.feedspot.com/single_mom_blogs/" title="Single Mom blogs"><img src="https://i1.wp.com/blog-cdn.feedspot.com/wp-content/uploads/2017/06/Single-Mom-transparent_216px.png?ssl=1" alt="feedspot" data-recalc-dims="1" data-lazy-src="https://i1.wp.com/blog-cdn.feedspot.com/wp-content/uploads/2017/06/Single-Mom-transparent_216px.png?ssl=1&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img src="https://i1.wp.com/blog-cdn.feedspot.com/wp-content/uploads/2017/06/Single-Mom-transparent_216px.png?ssl=1" alt="feedspot" data-recalc-dims="1"></noscript></a></div></div><div id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.mumsnet.com/bloggers-network"><img src="https://i2.wp.com/www.mumsnet.com/images/bloggers_network/MN-blognetwork-174-final.png?resize=206%2C174&#038;ssl=1" width="206" height="174" alt="mumsnet" data-recalc-dims="1" data-lazy-src="https://i2.wp.com/www.mumsnet.com/images/bloggers_network/MN-blognetwork-174-final.png?resize=206%2C174&amp;is-pending-load=1#038;ssl=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img src="https://i2.wp.com/www.mumsnet.com/images/bloggers_network/MN-blognetwork-174-final.png?resize=206%2C174&#038;ssl=1" width="206" height="174" alt="mumsnet" data-recalc-dims="1" /></noscript></a></div></div>
+		</aside>
+	
+	</div>
+
+
+</div> <!-- end #content -->
+
+
+	<footer id="footer">
+		<div class="container">
+
+			
+				<div id="footer_widgets" class="footer-widget-columns-1">
+					<div id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="http://www.twitter.com/smithemmal" target="_blank" rel="noopener"><img style="margin-right: 20px;" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/07/iconmonstr-twitter-4-48.png?resize=48%2C48" alt="Twitter" width="48" height="48" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/07/iconmonstr-twitter-4-48.png?resize=48%2C48&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img style="margin-right: 20px;" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/07/iconmonstr-twitter-4-48.png?resize=48%2C48" alt="Twitter" width="48" height="48" data-recalc-dims="1" /></noscript></a><a href="http://www.pinterest.com/smithemmal" target="_blank" rel="noopener"><img style="margin-right: 20px;" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/07/iconmonstr-pinterest-4-48.png?resize=48%2C48" alt="Pinterest" width="48" height="48" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/07/iconmonstr-pinterest-4-48.png?resize=48%2C48&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img style="margin-right: 20px;" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/07/iconmonstr-pinterest-4-48.png?resize=48%2C48" alt="Pinterest" width="48" height="48" data-recalc-dims="1" /></noscript></a><a href="http://www.instagram.com/smithemmal" target="_blank" rel="noopener"><img style="margin-right: 5px;" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/07/iconmonstr-instagram-9-48.png?resize=48%2C48" alt="Instagram" width="48" height="48" data-recalc-dims="1" data-lazy-src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/07/iconmonstr-instagram-9-48.png?resize=48%2C48&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class=" jetpack-lazy-image"><noscript><img style="margin-right: 5px;" src="https://i0.wp.com/emmalouisesmith.com/wp-content/uploads/2017/07/iconmonstr-instagram-9-48.png?resize=48%2C48" alt="Instagram" width="48" height="48" data-recalc-dims="1" /></noscript></a></div></div><div id="custom_html-7" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><h4 style="text-align: center;"><span style="color: #ffffff;"><a href="https://emmalouisesmith.com/about/">ABOUT</a>   |   <a href="https://emmalouisesmith.com/work-with-me/">WORK WITH ME</a>   |   <a href="https://emmalouisesmith.com/privacy-policy/">PRIVACY POLICY</a>   |   <a href="https://emmalouisesmith.com/contact/">CONTACT</a></span></h4></div></div><div id="eu_cookie_law_widget-2" class="widget widget_eu_cookie_law_widget"><div
+	class="hide-on-button"
+	data-hide-timeout="30"
+	data-consent-expiration="180"
+	id="eu-cookie-law"
+>
+	<form method="post">
+		<input type="submit" value="Close and accept" class="accept" />
+	</form>
+
+	Privacy &amp; Cookies: This site uses cookies. By continuing to use this website, you agree to their use. <br />
+To find out more, including how to control cookies, see here:
+	<a href="https://emmalouisesmith.com/privacy-policy/" >
+		Privacy policy	</a>
+</div>
+</div><div id="search-4" class="widget widget_search"><h4 class="widgettitle widget-title">Find what you need&#8230;</h4>	<div class="search_form_container">
+		<form action="https://emmalouisesmith.com/" method="GET" class="relative">
+			<label for="search" class="screen-reader-text">Enter a search query</label>
+			<i class="fa fa-search"></i>
+			<input type="search" id="search" name="s" placeholder="type &amp; press enter to search" value="">
+		</form>
+	</div>
+	</div>				</div>
+
+			
+			
+						<div class="text-center">
+							</div>
+
+			<div class="attribution attribution-grouped">
+				<span id="tweakme2-copyright">Copyright © 2019 Emma-Louise Smith  |  </span>				<span id="tweakme2-credits">
+					<a href="https://shop.nosegraze.com/product/tweak-me-v2/?ref=225" target="_blank" rel="nofollow">Tweak Me theme</a> by <a href="https://shop.nosegraze.com?ref=225" target="_blank" rel="nofollow">Nose Graze</a>				</span>
+
+							</div>
+		</div>
+	</footer>
+
+
+</div> <!-- end #wrap -->
+
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.0.1/_inc/build/photon/photon.min.js'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201908'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var socialWarfare = {"addons":[],"floatBeforeContent":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://emmalouisesmith.com/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=3.4.2'></script>
+<script type='text/javascript' src='https://emmalouisesmith.com/wp-content/themes/tweakme2/assets/js/bootstrap.min.js?ver=3.0'></script>
+<script type='text/javascript' src='https://emmalouisesmith.com/wp-content/themes/tweakme2/assets/js/scripts.js?ver=2.2.2'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.0.3/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.0.1/_inc/build/widgets/eu-cookie-law/eu-cookie-law.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/7.0.1/_inc/build/lazy-images/js/lazy-images.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.0.3/wp-includes/js/wp-embed.min.js'></script>
+<script async="async" type='text/javascript' src='https://emmalouisesmith.com/wp-content/plugins/akismet/_inc/form.js?ver=4.1.1'></script>
+<script type="text/javascript">var swpFloatBeforeContent = false;var swpClickTracking = false;</script><script type='text/javascript' src='https://stats.wp.com/e-201908.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:7.0.1',blog:'100101924',post:'421',tz:'0',srv:'emmalouisesmith.com'} ]);
+	_stq.push([ 'clickTrackerInit', '100101924', '421' ]);
+</script>
+
+</body>
+
+</html>

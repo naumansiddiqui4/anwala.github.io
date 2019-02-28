@@ -1,0 +1,36 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="cache-control" content="no-cache" />
+        <meta http-equiv="refresh" content="1;URL='http://t.irtyf.com/aff_ad?campaign_id=3850&aff_id=48760&aff_sub=SNAPSEXT&aff_sub2=&aff_sub3=&aff_sub4=&aff_sub5=&source=&transaction_id=102014d158a10523ca2a2bd4b11132'" />
+        <title>Redirecting</title>
+        <script type="text/javascript" src="//ckstatic.com/js/historyjs/history.js"></script>
+        <script type="text/javascript">
+            var hash = (window.location && window.location.hash) ? window.location.hash : "";
+            var dest = "http://t.irtyf.com/aff_ad?campaign_id=3850&aff_id=48760&aff_sub=SNAPSEXT&aff_sub2=&aff_sub3=&aff_sub4=&aff_sub5=&source=&transaction_id=102014d158a10523ca2a2bd4b11132" + hash;
+            var boDest = "/s4ba27t2ip?nopop=1&url_id=0&aff_id=48760&offer_id=69&aff_sub=SNAPSEXT&bo=2754%2C2755%2C2756&campaign_id=2753";
+            var moveToBO = 0;
+            window.addEventListener(
+                "pageshow",
+                function () {
+                    if (moveToBO != 0) {
+                        moveToBO = 0;
+                        window.location.href = boDest;
+                    }
+                }
+            );
+            window.addEventListener("pagehide", function() {
+                moveToBO = 1;
+            });
+
+            History.replaceState({"data": "0"}, boDest, boDest);
+
+            setTimeout(function() {
+                window.location.href = dest;
+            }, 100);
+        </script>
+    </head>
+    <body></body>
+</html>

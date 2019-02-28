@@ -1,0 +1,1303 @@
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/Blog">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=1190">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<link rel="stylesheet" href="http://parts.blog.livedoor.jp/css/template.css?v=201811061019" type="text/css" />
+<link rel="stylesheet" href="http://parts.blog.livedoor.jp/css/comment2/heart.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://parts.blog.livedoor.jp/css/comment2/icon.css?v=20180704" type="text/css" />
+<link rel="stylesheet" href="http://kagayakubihatu.blog.jp/site.css?_=20181211150710" type="text/css" /><link rel="alternate" type="application/rss+xml" title="RSS" href="http://kagayakubihatu.blog.jp/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://kagayakubihatu.blog.jp/atom.xml" /><link rel="canonical" href="http://kagayakubihatu.blog.jp/archives/15560186.html" /><link rel="openid.server" href="http://auth.livedoor.com/openid/server" /><link rel="openid.delegate" href="http://profile.livedoor.com/beutyparlor/" />
+<link rel="mixi-check-alternate" media="mixi-device-mobile" type="text/html" href="http://kagayakubihatu.m.blog.jp/article/15560186" />
+<link rel="mixi-check-alternate" media="mixi-device-smartphone" type="text/html" href="http://kagayakubihatu.blog.jp/archives/15560186.html" />
+<script type="text/javascript" src="http://parts.blog.livedoor.jp/js/jquery-1.11.1.min.js"></script>
+
+<meta name="description" content="                                                            院内感染    べて、病院内は感染症や伝染病の集団発生のリスクが高い。院内における感染は、病院外でおこる感染症とは、病原体も対策も異なる点が多いため、病院内で発生するこれらの感染を、とくに院内感染と" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="【HIV】歯科治療と院内感染【肝炎】 : 輝くもっと美容！もっと健康！" />
+<meta property="og:description" content="                                                            院内感染    べて、病院内は感染症や伝染病の集団発生のリスクが高い。院内における感染は、病院外でおこる感染症とは、病原体も対策も異なる点が多いため、病院内で発生するこれらの感染を、とくに院内感染と" />
+<meta property="og:url" content="http://kagayakubihatu.blog.jp/archives/15560186.html" />
+<meta property="og:site_name" content="輝くもっと美容！もっと健康！" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:image" content="http://livedoor.blogimg.jp/beutyparlor/imgs/3/1/31b1f7ad.jpg" />
+
+<meta name="twitter:site" content="@FN9tHwL26XUWP5J" />
+<meta name="twitter:title" content="【HIV】歯科治療と院内感染【肝炎】 : 輝くもっと美容！もっと健康！" />
+<meta name="twitter:description" content="                                                            院内感染    べて、病院内は感染症や伝染病の集団発生のリスクが高い。院内における感染は、病院外でおこる感染症とは、病原体も対策も異なる点が多いため、病院内で発生するこれらの感染を、とくに院内感染と" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image:src" content="http://livedoor.blogimg.jp/beutyparlor/imgs/3/1/31b1f7ad.jpg" />
+<link rel="alternate" media="handheld" type="application/xhtml+xml" href="http://kagayakubihatu.m.blog.jp/" />
+
+<title>【HIV】歯科治療と院内感染【肝炎】 : 輝くもっと美容！もっと健康！</title>
+<script src="http://parts.blog.livedoor.jp/js/emoji.js"></script>
+<script src="http://parts.blog.livedoor.jp/js/misc.js"></script>
+<!--[if lt IE 9]>
+<script src="http://parts.blog.livedoor.jp/js/html5.js"></script>
+<![endif]-->
+<script src="http://parts.blog.livedoor.jp/js/usr/import.js"></script>
+
+
+</head>
+<body class="default_2012 page-article"><script type="text/javascript"><!--
+var ld_blog_vars = {
+  provider_id : '1',
+  provider_name : 'livedoor',
+  id : '8036655',
+  name : 'beutyparlor',
+  charset : 'utf8',
+  url : 'http://kagayakubihatu.blog.jp/',
+  title : '輝くもっと美容！もっと健康！',
+  blog_design: {
+      version: 1
+  },
+  blog_category: {
+    id: '103',
+    permalink: 'http://blog.livedoor.com/category/103/',
+    name: 'ヘルス・ビューティ(総合) > ヘルス・ビューティ',
+    is_adult : 0,
+    is_gambling : 0,
+    hierarchy: [{ id: '102', name: 'ヘルス・ビューティ(総合)', permalink: 'http://blog.livedoor.com/category/102/' },{ id: '103', name: 'ヘルス・ビューティ', permalink: 'http://blog.livedoor.com/category/103/' }]
+  },
+  current_page : {
+    type : 'article',    page : ''
+  },
+  articles : [ {
+       id : '15560186',
+       permalink : 'http://kagayakubihatu.blog.jp/archives/15560186.html',
+       title : '【HIV】歯科治療と院内感染【肝炎】',
+       categories : [ { id:'323486', name:'輝く健康', permalink:'http://kagayakubihatu.blog.jp/archives/cat_323486.html' }, { id:'323489', name:'医療一般', permalink:'http://kagayakubihatu.blog.jp/archives/cat_323489.html' } ],
+       date : '2019-02-15 11:00:48'
+}   ]
+};
+//-->
+</script><div id="analyzer_tags" style="display:none">
+<script type="text/javascript" src="http://parts.blog.livedoor.jp/js/c2.js"></script>
+<script type="text/javascript">blog_counter('beutyparlor', 8036655, 'http://kagayakubihatu.blog.jp/')</script>
+</div><script type="text/javascript" src="http://parts.blog.livedoor.jp/js/smartphone.js?v=20131007"></script>
+<script type="text/javascript" src="http://kagayakubihatu.blog.jp/settings/header.js"></script><script type="text/javascript" src="http://kagayakubihatu.blog.jp/settings/ad.js"></script>
+<script type="text/javascript">
+var palette_src = 'http://parts.blog.livedoor.jp/img/emoji/3/palette.png';
+if (typeof IMAGE_CACHE == 'object' && IMAGE_CACHE['emoji_palette']) IMAGE_CACHE['emoji_palette'].src = palette_src;
+</script>
+
+
+<!-- Blog Common Header // -->
+<!-- // Blog Common Header -->
+<!-- 共通ヘッダー表示 -->
+
+
+<!-- ブログタイトル、ヘッダー広告 はじまり-->
+<header id="blog-header">
+    <div id="blog-header01">
+        <div class="header-inner01">
+            <hgroup>
+                <!--ブログタイトル　はじまり-->
+                <h1 id="blog-title"><a href="http://kagayakubihatu.blog.jp/">輝くもっと美容！もっと健康！</a></h1>
+                <!--ブログタイトル　ここまで-->
+                <!--ブログ説明　はじまり-->
+                <h2 id="blog-description">【「美容・健康」と「食（料理）」は繋がっています！】</br>
+当ブログでは、出来るだけより多くの方々に</br>
+もっと美しく、もっと健康になって頂ける様に</br>
+あらゆる面から「美容・健康・料理」に関する</br>
+ネット上の話題を収録してある、欲張りブログです。</br>
+
+</h2>
+                <!--ブログ説明　ここまで-->
+            </hgroup>
+            <aside class="ads01">
+                <!-- 広告タグが入る　728px X 90px はじまり-->
+                    <!-- admax -->
+<script src="//adm.shinobi.jp/s/10c8194d6d7b75b751107280a21dd709"></script>
+<!—admax -->
+                <!-- 広告タグが入る　728px X 90px ここまで-->
+            </aside>
+        </div>
+    </div>
+    <div id="blog-header02">
+        <div class="header-inner02">
+            <ul class="header-menu">
+                <li><a href="http://kagayakubihatu.blog.jp/">ホーム</a></li><!--メニューを入れてください-->
+                <li><a href="http://twitter.com/FN9tHwL26XUWP5J">Twitter</a></li><!--メニューを入れてください-->
+                <li><a href="http://kagayakubihatu.blog.jp/archives/13916556.html">当ブログについて</a></li><!--メニューを入れてください-->
+                <li><a href="#">アバウト</a></li><!--メニューを入れてください-->
+            </ul>
+            <ul class="header-sarch">
+                <li><a href="http://twitter.com"><img src="http://parts.blog.livedoor.jp/img/usr/ver06_km_matomeyellow_3c/icon_twitter.png" alt="Twitter" /></a></li><!--Twitter-->
+                <li><a href="http://kagayakubihatu.blog.jp/index.rdf"><img src="http://parts.blog.livedoor.jp/img/usr/ver06_km_matomeyellow_3c/icon_rss.png" alt="RSS" /></a></li><!--RSS-->
+                <li>
+                <form action="http://kagayakubihatu.blog.jp/search" method="GET" style="padding:0;margin:0px;">
+                <input type="TEXT" name="q" class="sf">
+                <input type="SUBMIT" value="検索" class="sfbtn">
+                </form>
+                </li><!--検索窓-->
+            </ul>
+        </div>
+    </div>
+</header>
+<!-- /ブログタイトル、ヘッダー広告 ここまで-->
+
+
+
+
+<!-- コンテンツエリア はじまり-->
+<div id="wrapper">
+
+    <!-- コンテンツ全体 はじまり-->
+    <div id="container">
+
+        <!-- 画像付きRTorコメントリスト はじまり-->
+        <div class="listWithImage"><!-- 件数 --><!-- RT(0)かコメント(1) --><!-- 集計範囲：今週(week0) 今月(month0) --><!-- 文字色 --><!-- 背景色 -->
+            <div class="popularArticlesWithImage tag A"
+     id="popularArticlesWithImageTagOf1kwStCI9W0ftNF">
+<ul></ul>
+<script type="text/javascript" src="http://parts.blog.livedoor.jp/plugin/popular_articles_with_image_plugin.js?v=20130911"></script>
+<script type="text/html" id="tmpl-popularArticlesWithImageTagOf1kwStCI9W0ftNF">
+<li class="popularArticleWithImage">
+<div>
+<a href="<%= article.url %>" title="<%= article.title %>">
+<div class="image <%= article.image.thumbnail ? '' : 'noimage' %>">
+<% if (article.image.thumbnail) { %>
+<img id="image-popularArticlesWithImageTagOf1kwStCI9W0ftNF-<%= article.id%>"
+     src="<%= article.image.thumbnail %>"
+     alt="" />
+<% } %>
+</div>
+<% if (comment) { %>
+<div class="comment" id="comment-popularArticlesWithImageTagOf1kwStCI9W0ftNF-<%= article.id%>"></div>
+<% } else if (pv) { %>
+<div class="pv"><%= article.count %>PV</div>
+<% } else if (retweet) { %>
+<div class="retweet" id="retweet-popularArticlesWithImageTagOf1kwStCI9W0ftNF-<%= article.id%>"></div>
+<% } %>
+<div class="title" id="title-popularArticlesWithImageTagOf1kwStCI9W0ftNF-<%= article.id%>"><%= article.title %></div>
+</a>
+</div>
+</li>
+</script>
+
+<script type="text/javascript">
+(function(){
+var opts = {
+id:      'popularArticlesWithImageTagOf1kwStCI9W0ftNF',
+asPlugin: false,
+type:    'A',
+offset:  Number('0'),
+count:   Number('6'),
+width:   Number('') || null,
+comment: false,
+pv: false,
+retweet: false,
+color: {
+ foreground:'#0132cc',
+ background:'#ebebeb'
+},
+imageWidth:   Number('184'),
+imageHeight:   Number('150'),
+
+rangeType:'month0' || null,
+
+
+
+lastProperty: null
+};
+(new LDBlogPopularArticlesWithImagePlugin(opts)).init();
+})();
+</script>
+</div>
+<!-- 人気記事 -->
+        </div>
+        <!-- 画像付きRTorコメントリスト  ここまで-->
+
+
+
+        <!-- コンテンツの箱の中　左側200px はじまり-->
+        <aside class="left-container">
+        
+
+
+
+<div class="plugin-recent_comments sidewrapper" id="recent_comments_763377">
+<div class="sidetitlebody">
+<div class="sidetitle">最新コメント</div>
+</div>
+<div class="sidetop"></div>
+<div class="side" id="recent_comments_763377_list" data-rows="" data-order="">
+<script type="text/html" id="recent_comments_763377_tmpl">
+  <style>div.recent-comment-oneline div { display: inline-block }</style>
+<% for(var i=0,l=comments.length;i<l;i++) {%><% var n=(order==='ASC')?(l-1-i):i; %>
+<div class="sidebody">
+  <div class="recent-comment">
+    <div class="recent-comment-title"><a href="<%=comments[i].permalink%>#comments"><%==comments[n].title%></a></div>    <div class="recent-comment-author"><%==comments[n].author%></div>  </div>
+</div>
+<% } %>
+</script>
+</div>
+<div class="sidebottom"></div>
+<script type="text/javascript" src="http://parts.blog.livedoor.jp/js/recent_comments.js"></script>
+<script type="text/javascript">
+ var rc = new RecentComments('recent_comments_763377');
+ rc.render();
+</script>
+</div><!-- // plugin-recent_comments -->
+
+
+<div class="plugin-message sidewrapper">
+    <div class="sidetitlebody">
+        <div class="sidetitle">メッセージ</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+        <div class="message-box">
+            <p class="message-properties"></p>
+            <form method="post" action="http://message.blogcms.jp/livedoor/beutyparlor/message2">
+                <dl class="message-name">
+                    <dt>名前</dt><dd><input type="text" name="sender" /></dd>
+                </dl>
+                <dl class="message-address">
+                    <dt>メール</dt><dd><input type="text" name="address" /></dd>
+                </dl>
+                <dl class="message-detail">
+                    <dt>本文</dt><dd><textarea name="content"></textarea></dd>
+                </dl>
+                <div align="center"><input type="submit" value="確認する" /></div>
+            </form>
+        </div>
+    </div>
+    <div class="sidebottom"></div>
+</div><!-- // plugin-message -->
+
+<div class="plugin-recent_articles_image sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">更新記事</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<ul class="recent-article-image">
+<li>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15792936.html"><img src="http://resize.blogsys.jp/59cd35be08d34f5064e76dfb3c751115b2100b59/crop1/60x60/http://livedoor.blogimg.jp/beutyparlor/imgs/7/e/7e483c2a.jpg" alt="" /></a>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15792936.html">若ハゲ・薄毛 ～２０代が語る～</a>
+</li>
+
+<li>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15792673.html"><img src="http://resize.blogsys.jp/d08b3cb6647b30290cff776958d07cfb8ce8646e/crop1/60x60/http://livedoor.blogimg.jp/beutyparlor/imgs/2/8/281e00ea.png" alt="" /></a>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15792673.html">【育毛・発毛】女性限定版</a>
+</li>
+
+<li>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15792269.html"><img src="http://resize.blogsys.jp/574c18664cf024b28cde8ec24e8b967f2ab6105e/crop1/60x60/http://livedoor.blogimg.jp/beutyparlor/imgs/3/9/39e3fcad.jpg" alt="" /></a>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15792269.html">パソコン・スマホを長時間使い続けていると薄毛になる？</a>
+</li>
+
+<li>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15791959.html"><img src="http://resize.blogsys.jp/ef3689b65724464784c81d8f792d3a174b47c071/crop1/60x60/http://livedoor.blogimg.jp/beutyparlor/imgs/0/7/074ed1f5.jpg" alt="" /></a>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15791959.html">【薄毛】豆腐と唐辛子の同時摂取が薄毛予防に効果？　育毛を促す成長因子IGF-1を増やす方法</a>
+</li>
+
+<li>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15791428.html"><img src="http://resize.blogsys.jp/818050e7161c1c7d0376ac9b0b38e035c1695808/crop1/60x60/http://livedoor.blogimg.jp/beutyparlor/imgs/1/8/189334b4.jpg" alt="" /></a>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15791428.html">どうしよう！２０代で育毛剤買ったわ</a>
+</li>
+
+<li>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15791193.html"><img src="http://resize.blogsys.jp/694d77c9bc9daa77736f387221d7ee4c910c5d01/crop1/60x60/http://livedoor.blogimg.jp/beutyparlor/imgs/2/7/2787a17f.jpg" alt="" /></a>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15791193.html">育毛剤って何使ってる？効果ある？</a>
+</li>
+
+<li>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15790670.html"><img src="http://resize.blogsys.jp/d9e0ac49a94219e77c7ae0527c744bf6e4f46d27/crop1/60x60/http://livedoor.blogimg.jp/beutyparlor/imgs/c/c/ccb634a9.jpg" alt="" /></a>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15790670.html">【コレステロール、中性脂肪】脂質異常症 その32</a>
+</li>
+
+<li>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15790400.html"><img src="http://resize.blogsys.jp/7afbba4eb7488006cc91b9b8cc47e2194a069c31/crop1/60x60/http://livedoor.blogimg.jp/beutyparlor/imgs/2/f/2f731b34.png" alt="" /></a>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15790400.html">【内臓脂肪】脂肪を落としたぁーい‼ 人々の語り合い【皮下脂肪】</a>
+</li>
+
+<li>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15790072.html"><img src="http://resize.blogsys.jp/935fff74d1704e3f68da875668feda25ccc741cc/crop1/60x60/http://livedoor.blogimg.jp/beutyparlor/imgs/5/6/566adc73.jpg" alt="" /></a>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15790072.html">【脂肪肝・肝機能障害】食事制限と運動は必須‼</a>
+</li>
+
+<li>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15789793.html"><img src="http://resize.blogsys.jp/6ae9aab2c6cae3fb0c2c577c8608f19163a6d1c6/crop1/60x60/http://livedoor.blogimg.jp/beutyparlor/imgs/6/0/60b78906.jpg" alt="" /></a>
+
+<a href="http://kagayakubihatu.blog.jp/archives/15789793.html">脂肪肝にステビアって有効なの？</a>
+</li>
+</ul>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_articles_image -->
+
+<div class="plugin-twitter_profile sidewrapper"><div class="sidetitlebody"><div class="sidetitle">Twitter プロフィール</div></div>
+<div class="sidetop"></div>
+<div class="side">
+
+
+
+<div class="profile-header"><a href="https://twitter.com/FN9tHwL26XUWP5J" target="_blank"><span class="profile-avatar"><img src="http://pbs.twimg.com/profile_images/1082142901348401152/Y7Djl_zP_bigger.jpg"></span><span class="profile-name">輝くもっと美容！もっと健康！</span><span class="profile-screen-name">@FN9tHwL26XUWP5J</span></a></div>
+<div class="profile-body">【「美容・健康」と「食（料理）」は、繋がっています！】
+当ブログでは、出来るだけより多くの方々に
+もっと美しく・もっと健康になって頂けるように
+あらゆる面から「美容・健康・料理」に関する
+ネット上の話題を収録してある、欲張りブログです。</div>
+
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-twitter_profile -->
+
+<div class="plugin-recent_images sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">ギャラリー</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<ul class="galleryThumbnail">
+<li><a href="http://kagayakubihatu.blog.jp/archives/15792936.html"><img src="http://resize.blogsys.jp/2420b85127578a00a2c7683d372c42218b121053/crop1/60x60_ffffff/http://livedoor.blogimg.jp/beutyparlor/imgs/7/e/7e483c2a.jpg" width="60" height="60" alt="若ハゲ・薄毛 ～２０代が語る～"></a></li>
+<li><a href="http://kagayakubihatu.blog.jp/archives/15792936.html"><img src="http://resize.blogsys.jp/0f05e72bbf69e4d7b039ff106cd692622e08a5ce/crop1/60x60_ffffff/http://livedoor.blogimg.jp/beutyparlor/imgs/5/b/5bac1e65.jpg" width="60" height="60" alt="若ハゲ・薄毛 ～２０代が語る～"></a></li>
+<li><a href="http://kagayakubihatu.blog.jp/archives/15792936.html"><img src="http://resize.blogsys.jp/01f9dc88a199cddbd227dffe6bd0279d26291681/crop1/60x60_ffffff/http://i.ytimg.com/vi/4WpzVvU-QIY/hqdefault.jpg" width="60" height="60" alt="若ハゲ・薄毛 ～２０代が語る～"></a><br /></li>
+<li><a href="http://kagayakubihatu.blog.jp/archives/15792673.html"><img src="http://resize.blogsys.jp/c9f2f8d3f6450001f1c92f880e674c7bb63729b5/crop1/60x60_ffffff/http://livedoor.blogimg.jp/beutyparlor/imgs/2/8/281e00ea.png" width="60" height="60" alt="【育毛・発毛】女性限定版"></a></li>
+<li><a href="http://kagayakubihatu.blog.jp/archives/15792673.html"><img src="http://resize.blogsys.jp/46b868d357c7d166b488cc79e1debc910c91d27d/crop1/60x60_ffffff/http://livedoor.blogimg.jp/beutyparlor/imgs/4/5/45472b85.jpg" width="60" height="60" alt="【育毛・発毛】女性限定版"></a></li>
+<li><a href="http://kagayakubihatu.blog.jp/archives/15792673.html"><img src="http://resize.blogsys.jp/ff012b038e841ec2b761ac54b78731d0f157bd0f/crop1/60x60_ffffff/http://i.ytimg.com/vi/MmQQaYptdWA/hqdefault.jpg" width="60" height="60" alt="【育毛・発毛】女性限定版"></a><br /></li>
+<li><a href="http://kagayakubihatu.blog.jp/archives/15792269.html"><img src="http://resize.blogsys.jp/c52796cbd35f46987ad3bf89bc125ef286f9a4bd/crop1/60x60_ffffff/http://livedoor.blogimg.jp/beutyparlor/imgs/3/9/39e3fcad.jpg" width="60" height="60" alt="パソコン・スマホを長時間使い続けていると薄毛になる？"></a></li>
+<li><a href="http://kagayakubihatu.blog.jp/archives/15792269.html"><img src="http://resize.blogsys.jp/1d27efe0469575ba563885574cea05e7a11aeb8a/crop1/60x60_ffffff/http://livedoor.blogimg.jp/beutyparlor/imgs/6/a/6a2d7901.png" width="60" height="60" alt="パソコン・スマホを長時間使い続けていると薄毛になる？"></a></li>
+<li><a href="http://kagayakubihatu.blog.jp/archives/15792269.html"><img src="http://resize.blogsys.jp/aa18e93fa4328d779f4a1990306f09b297bdf72b/crop1/60x60_ffffff/http://livedoor.blogimg.jp/beutyparlor/imgs/8/4/8456e35b.jpg" width="60" height="60" alt="パソコン・スマホを長時間使い続けていると薄毛になる？"></a><br /></li>
+</ul>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-recent_images -->
+
+<div class="plugin-link sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">リンク集</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<div class="sidebody"><a href="http://2chnavi.net/">2chnavi</a></div>
+
+<div class="sidebody"><a href="http://iwashi.biz/">いわしアンテナ</a></div>
+
+<div class="sidebody"><a href="http://twobeko.com/">つべこアンテナ</a></div>
+
+<div class="sidebody"><a href="http://2chnandemo.atna.jp/">なんでもまとめアンテナ</a></div>
+
+<div class="sidebody"><a href="http://trendkeyword.doorblog.jp/">急上昇ワードまとめブログ速報</a></div>
+
+<div class="sidebody"><a href="http://matome-crawler.com/">まとめクロラ</a></div>
+
+<div class="sidebody"><a href="http://matome100.warotamaker2.com/">あんてぃな</a></div>
+
+<div class="sidebody"><a href="http://antennach.com/sabakan/">サバ缶あんてな</a></div>
+
+<div class="sidebody"><a href="http://blue-a.org/feeds/show_feeds/">ブルーアンテナ</a></div>
+
+<div class="sidebody"><a href="http://2ch.warotamaker2.com/">2chアンテナんです～！</a></div>
+
+<div class="sidebody"><a href="http://2chmatomespecialantenna.warotamaker2.com/">2ちゃんねるまとめスペシャル</a></div>
+
+<div class="sidebody"><a href="http://killing-time.biz/">暇つぶしアンテナ</a></div>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-link -->
+<script type="text/javascript" src="http://parts.blog.livedoor.jp/plugin/ldblog_calendar_plugin.js"></script>
+<script type="text/javascript">var calendar_url_pattern_hash_761888='3367761713'</script>
+<script type="text/html" id="ldblog_calendar_default_template-761888">
+<% month_names = ['','1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月']; %>
+<% month_names_long = ['','一月','二月','三月','四月','五月','六月','七月','八月','九月','十月','十一月','十二月']; %>
+<% wdays = ['日','月','火','水','木','金','土']; %>
+<% month_format = function(year, month){ return(year.toString() + "年" + month.toString() + "月"); }; %>
+<div class="calendarheadbody"><div class="calendarhead" id="calendarhead-761888">
+  &nbsp;&nbsp;<%= month_format(year, month) %>&nbsp;&nbsp;
+</div></div>
+<div class="caltop"></div>
+<div class="calbody">
+<table cellpadding="0" cellspacing="0" border="0" class="caltbl calendartable">
+<tr> 
+  <td width="100%" class="caltblwkbg calendarwd">
+    <table cellpadding="2" cellspacing="0" width="100%" border="0" class="caltblwk">
+      <tr>
+      <% for ( var i = 0; i < 7; i++ ) { %>
+        <td width="14%" align="center" class="<% if (i == 0) { %>sun<% } else if (i == 6) { %>sat<% } else { %>weekday<% } %>"><span class="calendarweek"><%= wdays[i] %><span></td>
+      <% } %>
+      </tr>
+    </table>
+  </td>
+</tr>
+<tr>
+  <td width="100%" class="caltbldaybg">
+    <table cellpadding="2" cellspacing="0" width="100%" border="0" class="caltblday">
+      <% for ( var i = 0; i < cal.length; i++ ) { %>
+      <tr class="<% if (i % 2) { %>even<% } else { %>odd<% } %>">
+        <% for ( var j = 0; j < cal[i].length; j++) { %>
+        <td width="14%" align="center" class="caloff calendard"><span class="calendar"<% if (cal[i][j] > 0) { %> id="calendar-761888-day-<%= cal[i][j]%>"<% } %>><%= cal[i][j] %></span></td>
+        <% } %>
+      </tr>
+    <% } %>
+  </table></td>
+</tr>
+</table>
+</div>
+<div class="calbottom"></div>
+</script>
+
+<div class="plugin-calendar_default sidewrapper" id="calendarplugin-761888">
+<script type="text/javascript">(function () { var ldcal = new ldBlogCalendarPlugin(761888); ldcal.init(); })();</script>
+</div><!-- // plugin-calendar_default -->
+
+
+
+
+
+        </aside>
+        <!-- コンテンツの箱の中　左側200px ここまで-->
+
+
+
+        <!-- コンテンツの箱の中　真ん中650px はじまり-->
+        <div class="main-container">
+
+            <!-- 相互RSS はじまり-->
+            <div class="rss-blogroll">
+
+                <!-- 相互RSSを設置する場合の注意事項
+                    コードに含まれる以下のCSSは外して設置してください
+                    http://blogroll.livedoor.net/css/default2.css -->
+
+                <!-- 相互RSSのコード ひとつ目-->
+                <script type="text/javascript">
+                <!--
+                       var blogroll_channel_id =  277787;
+                // -->
+                </script>
+                <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+
+                <!-- 相互RSSのコード ふたつ目-->
+                <script type="text/javascript">
+                <!--
+                     var blogroll_channel_id =  277790;
+                 // -->
+                </script>
+                <script type="text/javascript" charset="utf-8" src="http://blogroll.livedoor.net/js/blogroll.js"></script>
+
+            </div>
+            <!-- 相互RSS ここまで-->
+
+
+            <!-- メッセージボード -->
+             
+
+
+
+
+            <!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://kagayakubihatu.blog.jp/archives/15560186.html"
+    trackback:ping="http://trackback.blogsys.jp/livedoor/beutyparlor/15560186"
+    dc:title="【HIV】歯科治療と院内感染【肝炎】"
+    dc:identifier="http://kagayakubihatu.blog.jp/archives/15560186.html"
+    dc:subject="輝く健康,医療一般"
+    dc:description="                                                            院内感染    べて、病院内は感染症や伝染病の集団発生のリスクが高い。院内における感染は、病院外でおこる感染症とは、病原体も対策も異なる点が多いため、病院内で発生するこれらの感染を、とくに院内感染と"
+    dc:creator="beutyparlor"
+    dc:date="2019-02-15T11:00:48+09:00" />
+</rdf:RDF>
+-->
+<div id="ad_rs" class="ad_rs_b"></div><!-- 記事のトラックバック・オートディスカバリー -->
+
+
+            <!-- 記事 はじまり-->
+            <article class="article first-article" itemscope itemtype="http://schema.org/BlogPosting">
+
+                <!-- 記事タイトル　記事下の情報　はじまり-->
+                <header class="article-header">
+
+                    <h1 class="article-title" itemprop="name"><a href="http://kagayakubihatu.blog.jp/archives/15560186.html" itemprop="url">【HIV】歯科治療と院内感染【肝炎】</a></h1><!-- 記事のタイトル -->
+
+                        <!-- 記事下の記事情報 はじまり-->
+                        <div class="article-header-inner">
+
+                            <!-- 記事情報の上の行 はじまり-->
+                            <div class="article-header-top">
+                            <p class="article-header-date"><time datetime="2019-02-15T11:00:48+09:00" pubdate="pubdate">2019年02月15日</time></p>
+                            
+                            <ul class="article-header-category">
+                                <li>
+                                    <dl><dt>カテゴリ:</dt><dd class="article-category1"><a href="http://kagayakubihatu.blog.jp/archives/cat_323486.html">輝く健康</a></dd><dd class="article-category2"><a href="http://kagayakubihatu.blog.jp/archives/cat_323489.html">医療一般</a></dd></dl>
+                                </li>
+                            </ul>
+                            
+                            </div>
+                            <!-- 記事情報の上の行 ここまで-->
+                            <!-- ソーシャルボタン　はじまり -->
+                            <ul class="article-social-btn">
+<a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-url="http://kagayakubihatu.blog.jp/archives/15560186.html" data-text="【HIV】歯科治療と院内感染【肝炎】 - 輝くもっと美容！もっと健康！" data-lang="ja">Tweet</a><script charset="utf-8" type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fkagayakubihatu.blog.jp%2Farchives%2F15560186.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:20px;" allowTransparency="true"></iframe>
+        <iframe src="http://clap.blogcms.jp/livedoor/beutyparlor/15560186/button" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:22px;" allowTransparency="true" width="500px" data-article-id="15560186"></iframe>
+        <script type="text/javascript">if (!window['flgAddMessageListener']) { (function() { window.addEventListener('message', function(message) { if (message.origin !== 'http://clap.blogcms.jp') { return; } var tmp = message.data.split(/:/);var articleId = tmp[0]; var width = tmp[1]; var iframes = document.getElementsByTagName('iframe'); for (var i = 0; i < iframes.length; i++) { var iframe = iframes[i]; if (iframe.getAttribute('data-article-id') !== articleId) { continue; } iframe.setAttribute('width', width+'px'); } }, false); })(); flgAddMessageListener = true; }</script>
+
+                            </ul>
+                             <!-- ソーシャルボタン　ここまで -->
+                        </div>
+                        <!-- 記事下の記事情報 ここまで-->
+
+                        <!-- 記事の評価アイコン はじまり-->
+                        
+                        <!-- 記事の評価アイコン ここまで-->
+                </header>
+                <!-- 記事タイトル　記事下の情報　ここまで-->
+
+
+
+                <!-- 記事本文 はじまり-->
+                <div class="article-body">
+                    <div class="article-body-inner">
+<!-- 参加している共通テーマの表示 -->
+                    <br /><div  id="preview_dispGoogle"></div><div  id="preview_dispWiki">    <div  align="left" style="padding: 10px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 90%;">        <table  width="100%" style="table-layout: fixed;" border="0" cellspacing="0" cellpadding="10">            <tbody><tr>                <td  align="left" valign="top">                    <div  class="mw-search-result-heading"><a  title="院内感染" href="https://ja.wikipedia.org/wiki/%E9%99%A2%E5%86%85%E6%84%9F%E6%9F%93" target="_blank" data-serp-pos="0"><span  style="font-weight: bold;">院内感染</span></a>    </div><div  class="searchresult">べて、病院内は感染症や伝染病の集団発生のリスクが高い。<span  style="font-weight: bold;">院内</span>における<span  style="font-weight: bold;">感染</span>は、病院外でおこる感染症とは、病原体も対策も異なる点が多いため、病院内で発生するこれらの感染を、とくに<span  style="font-weight: bold;">院内感染</span>と呼び、医学分野でも市中感染と区別して扱うことが多い。 <span  style="font-weight: bold;">院内感染</span>は、易感染宿主が発病した場合や高度薬剤耐性菌による場合</div> <div  class="mw-search-result-data">9キロバイト (1,329 語) - 2018年12月19日 (水) 04:01</div>                </td>            </tr>        </tbody></table>    </div><br /><br /></div><div  id="preview_dispImage">    <div  align="left" style="padding: 10px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 90%;">        <table  width="100%" style="table-layout: fixed;" border="0" cellspacing="0" cellpadding="10">            <tbody><tr>                <td  align="left" valign="top"><div><a  href="http://livedoor.blogimg.jp/beutyparlor/imgs/3/1/31b1f7ad.jpg" target="_blank"><img  style="max-width: 100%;" src="http://livedoor.blogimg.jp/beutyparlor/imgs/3/1/31b1f7ad.jpg" rel="http://livedoor.blogimg.jp/beutyparlor/imgs/3/1/31b1f7ad.jpg"></a><br /><span  style="color: rgb(153, 153, 153); font-size: 9px;">（出典 toha.sakura.ne.jp）</span></div>                </td>            </tr>        </tbody></table>    </div><br /><br /></div><div  id="preview_dispMovie">    <div  align="left" style="padding: 10px; border: 1px solid rgb(204, 204, 204); border-image: none; width: 90%;">        <table  width="100%" style="table-layout: fixed;" border="0" cellspacing="0" cellpadding="10">            <tbody><tr>                <td  align="left" valign="top"><div><a  href="https://www.youtube.com/watch?v=2m64i9i3gZc" target="_blank"><b>院内感染関連微生物（新しい話題の感染症の種類と特徴を含む）　松本 哲哉</b></a><br /><iframe  width="100%" height="500" src="https://www.youtube.com/embed/2m64i9i3gZc" frameborder="0" allowfullscreen=""></iframe><br /><em  class="syutten" style="color: rgb(153, 153, 153); font-size: small;">（出典 Youtube）</em><br /><em></em></div>                </td>            </tr>        </tbody></table>    </div><br /><br /></div><div  id="preview_comment" style="color: rgb(39, 78, 19); font-size: 18px; font-weight: 400; background-color: rgb(255, 229, 153);">病院は、信頼して通うのだからやはり色々な面からの衛生を怠ってほしくないですね。</div><br /><div  id="preview_syutten_top" style="text-align: right; display: none;"><a  style="color: rgb(153, 153, 153); font-size: small;" href="http://2ch.sc/test/read.cgi/doctor/1274278185" target="_blank"><em>（出典 【HIV】歯科治療と院内感染【肝炎】）</em></a><br /><br /></div><div  id="preview"><div  class="selectionsure ui-sortable-handle" id="sure1" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>1</em> <span  style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em  id="resutime1" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/19(水) 23:09:45 </em><em  class="resuid_6ZqICeG7net" id="resuid1" style="color: rgb(111, 168, 220); font-size: 12px;">ID:6ZqICeG7.net</em><p  class="surebody_6ZqICeG7net" id="surebody1" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; font-weight: bold; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">出血を伴うにもかかわらず感染防止の意識が低い <br /> 肝炎患者とわかっている者だけに対策を行なうのでは不十分 <br /> 感染者（特にHIV）はたいてい自己申告なんてしない <br /> もし感染しても自覚症状に乏しくAIDS発症で気がつくまで他人に移す危険がある <br /> 日本は先進国なのに歯科領域では途上国並みです </p><br /><div  id="syutten_middle" style="text-align: right; display: block;"><a  style="color: rgb(153, 153, 153); font-size: small;" href="http://2ch.sc/test/read.cgi/doctor/1274278185" target="_blank"><em>（出典 【HIV】歯科治療と院内感染【肝炎】）</em></a><br /><br /><br /></div></div></div><!-- 本文 --><div class="article-body-more" id="more"><div id="headerafficode" style="width:100%;text-align:center;"><br><br><br></div><div id="preview"><div class="selectionsure ui-sortable-handle" id="sure3" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>3</em> <span id="resuname3" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime3" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/21(金) 01:24:26 </em><em class="resuid_xxxnet" id="resuid3" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody3" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">HIV感染者、患者数ともに過去最高-日本人男性が大半  <br> <a href="http://jp.ibtimes.com/article/biznews/090618/36246.html" target="_blank">http://jp.ibtimes.com/article/biznews/090618/36246.html</a>  <br> <a href="http://www2.ttcn.ne.jp/honkawa/2250.html" target="_blank">http://www2.ttcn.ne.jp/honkawa/2250.html</a>  <br>  </p><br></div><div class="selectionsure ui-sortable-handle" id="sure8" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>8</em> <span id="resuname8" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime8" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/22(土) 00:57:59 </em><em class="resuid_RGsWH8Onet" id="resuid8" style="color: rgb(111, 168, 220); font-size: 12px;">ID:RGs+WH8O.net</em><p class="surebody_RGsWH8Onet" id="surebody8" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;3</span> <br> 2008年度末でHIV陽性者・AIDS発症数は累計約1万5000名 <br> ただし実際にはこの数倍はいる </p><br></div><div class="selectionsure ui-sortable-handle" id="sure7" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>7</em> <span id="resuname7" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime7" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/21(金) 23:56:18 </em><em class="resuid_xxxnet" id="resuid7" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody7" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">一杯五百円のラーメン屋行って、「ドンブリは使い捨てにしろ」だの <br> 「チャーシュー等の具は客ごとにパックしたヤツを使え」とか <br> 「椅子には客ごとに使い捨てのカバーをかけてカウンターにも使い捨てのランチョンマットを置け」とか <br> そんなことしてたらラーメン屋潰れます。 <br>  <br> そういう事を要求するなら一杯五千円のラーメン屋に行ってください。 <br>  <br> 五百円のラーメン屋が使い捨てに出来るのは，せいぜい割り箸と紙ナプキンくらいです。 <br>  <br> ただし、割り箸や紙ナプキンまで乾かして再利用するなんてのはもってのほかです。 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure9" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>9</em> <span id="resuname9" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime9" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/22(土) 01:00:21 </em><em class="resuid_RGsWH8Onet" id="resuid9" style="color: rgb(111, 168, 220); font-size: 12px;">ID:RGs+WH8O.net</em><p class="surebody_RGsWH8Onet" id="surebody9" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;7</span> <br> 歯科治療はラーメン屋と同じなのですか？ <br> 出血を伴なう医療行為ですよ </p><br></div><div class="selectionsure ui-sortable-handle" id="sure11" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>11</em> <span id="resuname11" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime11" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/22(土) 08:44:33 </em><em class="resuid_xxxnet" id="resuid11" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody11" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;9</span> <br> 感染予防費が含まれるとされる再診料は、420円しかないんだよ。 <br> その中で出来る事は、滅菌した器具を使い，グローブを取り替える事、 <br> そして問診をしっかりして，その疑いがある患者に関してはドレーピングやラッピングをして感染を防ぐ、その程度だ。 <br>  <br> 問診に対して正直に答えないのは患者側の問題じゃないか。 <br>  <br> 全ての患者にオペ室並みの予防処置をとるのが理想じゃあるが、 <br> 現実問題として無理だろ？ <br>  <br> 出すもの出してから文句言えっての。 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure10" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>10</em> <span id="resuname10" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime10" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/22(土) 01:50:47 </em><em class="resuid_xxxnet" id="resuid10" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody10" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">歯科治療でAIDSは移らないか <br> <a href="http://www.kobayashi.co.th/Kaicho-shitsu/dental/dental-10.htm" target="_blank">http://www.kobayashi.co.th/Kaicho-shitsu/dental/dental-10.htm</a> <br> <a href="http://www.kobayashi.co.th/Kaicho-shitsu/dental/dental-2.htm" target="_blank">http://www.kobayashi.co.th/Kaicho-shitsu/dental/dental-2.htm</a> <br>  <br> タイにすら劣る日本って・・・ </p><br></div><div class="selectionsure ui-sortable-handle" id="sure16" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>16</em> <span id="resuname16" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime16" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/23(日) 23:22:35 </em><em class="resuid_fPJQUZ2nnet" id="resuid16" style="color: rgb(111, 168, 220); font-size: 12px;">ID:fPJQUZ2n.net</em><p class="surebody_fPJQUZ2nnet" id="surebody16" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;10</span> <br> 比較するときは、同じ条件でないとね <br> そのブログには大きな勘違いがある、総割合で比較すれば <br> 日本の医院の方が滅菌しているのは多いだろう <br>  <br> 保険で完全を求めるには、まず正解的に低すぎる診療報酬 <br> をあらためなきゃ無理 <br> 報酬がそのまま、最新設備は欲しい、患者の要望には応えて・・ <br>  <br> そりゃ無理だろ </p><br></div><div class="selectionsure ui-sortable-handle" id="sure18" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>18</em> <span id="resuname18" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime18" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/24(月) 09:03:54 </em><em class="resuid_xxxnet" id="resuid18" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody18" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;16</span> <br> &gt;保険で完全を求めるには、まず正解的に低すぎる診療報酬 <br> &gt;をあらためなきゃ無理 <br>  <br> 完全を求める人は完全自費で完全滅菌の医院に行けばいい。 <br>  <br> 先進国中最低の保険報酬で、低い報酬の中で歯科後進国より遥かに高度な滅菌消毒を行っている。 <br> そこんとこを忘れないで欲しいね。 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure12" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>12</em> <span id="resuname12" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime12" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/22(土) 09:00:06 </em><em class="resuid_Kn28tTInet" id="resuid12" style="color: rgb(111, 168, 220); font-size: 12px;">ID:Kn28/tTI.net</em><p class="surebody_Kn28tTInet" id="surebody12" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">患者側に責任転嫁ですか。 <br> 必要性があるなら日本歯科医師会が国に働きかけるべきでしょう。 <br> 現実には逆のようですが。 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure13" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>13</em> <span id="resuname13" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime13" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/22(土) 23:45:56 </em><em class="resuid_xxxnet" id="resuid13" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody13" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;12</span> <br> それやっても過去に信用を失う事やってるからダメなんだって。 <br> むしろ、患者側というか国民から厚労省に文句言う方が良いと思う。 <br> 歯科医師会は保険制度で生殺与奪の権を厚労省に握られているから強く出られないんだよ。 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure14" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>14</em> <span id="resuname14" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime14" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/23(日) 00:14:58 </em><em class="resuid_xxxnet" id="resuid14" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody14" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">日本歯科医師会の長年にわたる莫大な献金を忘れてはならない </p><br></div><div class="selectionsure ui-sortable-handle" id="sure15" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>15</em> <span id="resuname15" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime15" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/23(日) 00:19:50 </em><em class="resuid_xxxnet" id="resuid15" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody15" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;14</span> <br> 金だけ出して口は出さない </p><br></div><div class="selectionsure ui-sortable-handle" id="sure20" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>20</em> <span id="resuname20" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime20" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/25(火) 14:27:02 </em><em class="resuid_6LZnIEWAnet" id="resuid20" style="color: rgb(111, 168, 220); font-size: 12px;">ID:6LZnIEWA.net</em><p class="surebody_6LZnIEWAnet" id="surebody20" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><a href="http://www.epochtimes.jp/jp/2009/06/html/d68015.html" target="_blank">http://www.epochtimes.jp/jp/2009/06/html/d68015.html</a> <br>  <br> 「未知のウィルス」＝エイズに似た怪病、中国で急速に拡散か <br>  <br> 【大紀元日本6月7日】中国でエイズによく似た症状を見せる怪病が急速に広 <br> がっている。続々と死亡者も出ているようだが、病原菌やウィルス源が究明され <br> ないまま、感染経路も極めて多様で、そのスピードの速さには広範囲の感染被害 <br> が憂慮される。 <br>  <br> 　1.微熱が続く（37度前後）、多発性リンパ種 <br>  <br> 　2.舌の先に赤い斑点、厚いこけと感染症状 <br>  <br> 　3.下痢が続き、便がゆるい。腹鳴と発汗 <br>  <br> 　4.鼻がつまり、頻繁に上部呼吸器が感染 <br>  <br> 　5.歯茎が腫れ、炎症が起こりやすい <br>  <br> 　6.皮膚の押し痕が長く続き、筋肉の痙攣が頻繁 <br>  <br> 　最近の感染者らの報告によると、性行為以外にも、唾液、汗などの経路からも <br> 感染するという。感染者らは正確な情報が発表されていないため、家族や職場の <br> 同僚のほとんどが感染し、中国全域に感染者が蔓延していると見ている。 <br>  <br> 　ある感染者は、「私たちを診療した医者が感染した可能性もあり、感染者自身 <br> が感染を知らず献血や唾液を通じ、他に広めている可能性が高い」と指摘し、中 <br> 国だけでなく、全世界に被害を与えると憂慮している。 <br>  </p><br></div><div class="selectionsure ui-sortable-handle" id="sure21" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>21</em> <span id="resuname21" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime21" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/05/25(火) 14:34:10 </em><em class="resuid_SZryxFNinet" id="resuid21" style="color: rgb(111, 168, 220); font-size: 12px;">ID:SZryxFNi.net</em><p class="surebody_SZryxFNinet" id="surebody21" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;20</span> <br> ソレって一年前の記事だけれど今だにそんな病気のこと日本では耳にしませんが？ｗ <br>  <br>  </p><br></div><div class="selectionsure ui-sortable-handle" id="sure30" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>30</em> <span id="resuname30" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime30" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/07/12(月) 03:02:01 </em><em class="resuid_xxxnet" id="resuid30" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody30" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">発症　投稿者：ぱん (6月14日（月）00時52分14秒)  <br>  <br> 相方が発症した。  <br> あっという間に、脳症が進み、痴呆のような症状となってきている。  <br> 痩せこけた顔を涙でグズグズにしながら、てすけて、てすけて、って小さく叫んでいた。  <br> もちろんそれが、助けて、と言っていることは分かる。  <br> でも僕は分からないふりをする。  <br> だって、あまりにも、辛すぎる。  <br>  <br> 今日、入院して１年が経った。。。  <br>  <br> リスクの高い＊をする人は、よくよく想像してみた方が良い。  <br> それが、どんなことか。  <br>  </p><br></div><div class="selectionsure ui-sortable-handle" id="sure31" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>31</em> <span id="resuname31" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime31" style="color: rgb(164, 164, 164); font-size: 12px;">：2010/07/12(月) 16:34:16 </em><em class="resuid_xxxnet" id="resuid31" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody31" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;30</span> <br> クルマだっていつ事故るかわからないわけだし、自分が悪くなくても＊事だってある。 <br> だからってクルマに乗るのをやめようとは思わないわけで。 <br>  <br> 高速で事故ると悲惨だからって一般道しか走らないって人も居ないよなぁ。 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure45" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>45</em> <span id="resuname45" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime45" style="color: rgb(164, 164, 164); font-size: 12px;">：2011/01/23(日) 20:21:45 </em><em class="resuid_xxxnet" id="resuid45" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody45" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">あと交通事故とかに遭遇しても、出血している人にうっかり触らない事。  <br> 鼻血を流している人を見つけてもとっさにおさえてあげたりしないこと。  <br> 人助けがしたかったらビニール手袋とかしてから。  <br>  <br> 歯医者はちゃんと信頼できる所へ行こう。器具の使い回しとかいてない所ね。  <br>  <br>  </p><br></div><div class="selectionsure ui-sortable-handle" id="sure69" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>69</em> <span id="resuname69" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime69" style="color: rgb(164, 164, 164); font-size: 12px;">：2012/06/07(木) 13:59:13.24 </em><em class="resuid_T2kcPgKnet" id="resuid69" style="color: rgb(111, 168, 220); font-size: 12px;">ID:T2kcPg/K.net</em><p class="surebody_T2kcPgKnet" id="surebody69" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;45</span>　「あと交通事故とかに遭遇しても、出血している人にうっかり触らない事。」 <br>  <br> 　　長野県民なのだが、国立・県立じゃない大病院で5-6年ほど前に <br> 　成人男性が交通事故（恐らく二輪）で大腿骨開放骨折にて手術・・ <br> 　しかし、術後のしばらく（伝聞なのでスマン）経過で意識不明の <br> 　重態でICU送り。　これが一年間で三件連続で発生したところあり。 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure47" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>47</em> <span id="resuname47" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime47" style="color: rgb(164, 164, 164); font-size: 12px;">：2011/02/08(火) 17:00:26 </em><em class="resuid_qOpMxfBnet" id="resuid47" style="color: rgb(111, 168, 220); font-size: 12px;">ID:qOp+MxfB.net</em><p class="surebody_qOpMxfBnet" id="surebody47" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">一体、スタンダードプリコーションをすると幾ら必要なんだろう。 <br> 勿論、タービン類は滅菌し、それによって起こると思われる機材の修理代、人件費を含んでの話である。 <br> そこから、再診料の値上げ交渉が始まるべきで、「2点上がった・3点上がった」で浮かれていてはお話にならない。 <br>  <br> 逆に現在の低点数では、この程度の事しか出来ないと国民に知らせるべきと思う。 <br> 下らない8020の新聞1面の記事より、歯科は低点数の為、滅菌消毒はおざなりです。 <br> 申し訳ないが、感染されたくない方は、別料金が必要です。の方が余程、国民に優しいと思う。 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure49" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>49</em> <span id="resuname49" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime49" style="color: rgb(164, 164, 164); font-size: 12px;">：2011/02/09(水) 11:51:46 </em><em class="resuid_pnOjWxnet" id="resuid49" style="color: rgb(111, 168, 220); font-size: 12px;">ID:p++nOjWx.net</em><p class="surebody_pnOjWxnet" id="surebody49" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">ラーメン屋、牛丼屋の箸、最近プラスチック？になってるよ、 <br> 滅菌消毒してるのかね、煮沸ぐらいだったらインプラントも煮沸して使いまわしＯＫ？ <br> 俺インプラントやってないけど、、 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure55" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>55</em> <span id="resuname55" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime55" style="color: rgb(164, 164, 164); font-size: 12px;">：2011/03/03(木) 23:12:08.26 </em><em class="resuid_GiWvyFsknet" id="resuid55" style="color: rgb(111, 168, 220); font-size: 12px;">ID:GiWvyFsk.net</em><p class="surebody_GiWvyFsknet" id="surebody55" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">先日、一般病院で入院中の方が「歯科治療で、肝炎って移るの？」と聞いて来た。 <br> 何かあったの？と聞くと「同室の方が、半年くらい歯科治療に通っていたら肝炎になったそうだ」 <br> 一応、「歯科治療でもちゃんと消毒してないと移るかもしれないが、実際、その患者さんの感染源は何処かは判らないですよ」と答えた。 <br> この患者さんは、病院で検査してるので、注射等は入院している病院と通院した歯科でしかしてないので、どちらかと思っているらしい。 <br> 医者に相談しているが解決していない様子。　 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure57" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>57</em> <span id="resuname57" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime57" style="color: rgb(164, 164, 164); font-size: 12px;">：2011/04/10(日) 16:48:45.67 </em><em class="resuid_xxxnet" id="resuid57" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody57" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">注射でしか感染しないと思ってね？ </p><br></div><div class="selectionsure ui-sortable-handle" id="sure59" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>59</em> <span id="resuname59" style="color: rgb(0, 102, 0);">よく 耳にする話 </span><em id="resutime59" style="color: rgb(164, 164, 164); font-size: 12px;">：2011/09/07(水) 04:31:22.94 </em><em class="resuid_4AbTrp2net" id="resuid59" style="color: rgb(111, 168, 220); font-size: 12px;">ID:/4AbTrp2.net</em><p class="surebody_4AbTrp2net" id="surebody59" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">HIV患者は遠方の通院を嫌い拠点病院ではなく、近所の歯科を受診する。他人の目を気にし、HIVだと告知できるわけもなく… </p><br></div><div class="selectionsure ui-sortable-handle" id="sure60" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>60</em> <span id="resuname60" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime60" style="color: rgb(164, 164, 164); font-size: 12px;">：2011/09/07(水) 22:22:49.30 </em><em class="resuid_dorjkAw5net" id="resuid60" style="color: rgb(111, 168, 220); font-size: 12px;">ID:dorjkAw5.net</em><p class="surebody_dorjkAw5net" id="surebody60" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">アルコール綿でしかタービン消毒しない歯科ばかり <br> バーでさえ、そんな有様 <br>  <br> 早く告発されたらいいのに <br> こんな「病院の体を成していない」歯科界なんて <br> 潰れてしまえ <br>  <br> 医療を名乗る資格無し！ </p><br></div><div class="selectionsure ui-sortable-handle" id="sure62" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>62</em> <span id="resuname62" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime62" style="color: rgb(164, 164, 164); font-size: 12px;">：2012/03/10(土) 11:14:29.53 </em><em class="resuid_H4a2PMDXnet" id="resuid62" style="color: rgb(111, 168, 220); font-size: 12px;">ID:H4a2PMDX.net</em><p class="surebody_H4a2PMDXnet" id="surebody62" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;60</span> <br> 整体こそ害悪だろ <br> あれであいつら保険診療なんだぜ？ </p><br></div><div class="selectionsure ui-sortable-handle" id="sure61" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>61</em> <span id="resuname61" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime61" style="color: rgb(164, 164, 164); font-size: 12px;">：2012/03/10(土) 05:11:37.96 </em><em class="resuid_baWIloTLnet" id="resuid61" style="color: rgb(111, 168, 220); font-size: 12px;">ID:baWIloTL.net</em><p class="surebody_baWIloTLnet" id="surebody61" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">患者ごとに手袋を交換している医師は新品という安心感から <br> 手洗いがおろそかになるから <br> 逆に素手で一回一回手を洗っている医師の方がいいという意見もあるけど <br> 実際どうなのだろう </p><br></div><div class="selectionsure ui-sortable-handle" id="sure64" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>64</em> <span id="resuname64" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime64" style="color: rgb(164, 164, 164); font-size: 12px;">：2012/04/12(木) 10:32:09.09 </em><em class="resuid_xxxnet" id="resuid64" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody64" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain"><span style="color: rgb(1, 1, 223); font-weight: bold;">&gt;&gt;61</span> <br> かなり厳密な滅菌を要求される手術なら手洗いもきちんとする必要があるかもしれんが、 <br> 通常の歯科治療なら、患者から患者への感染予防が大事で、 <br> 手袋を患者ごとに交換するだけで充分だろう。 <br> コスト的には大変だが、うちでは衛生士も患者ごとに交換しているよ。 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure70" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>70</em> <span id="resuname70" style="color: rgb(0, 102, 0);">69 </span><em id="resutime70" style="color: rgb(164, 164, 164); font-size: 12px;">：2012/06/07(木) 14:05:39.59 </em><em class="resuid_T2kcPgKnet" id="resuid70" style="color: rgb(111, 168, 220); font-size: 12px;">ID:T2kcPg/K.net</em><p class="surebody_T2kcPgKnet" id="surebody70" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">　交通事故なので、損害保険会社扱いでICU送りは1000万円突破コース。　ここを周辺に支店を置く <br> 損保や生保では「重症の事故負傷者はT・N病院に搬送して欲しくねーよ、迷惑だ」との評判。　ここを <br> 覗いている方には原因は明白。　術後の機材やｶﾞｰｾﾞ等の、医療材料の交換や洗浄を行う看護婦も医師も <br> 手洗い消毒がでたらめ。　知り合いで勤務している方が居たので、　以上　↑　の事情を話し、手洗いや <br> 感染防御意識のレベルを観察してもらった。　予想通りだった。 </p><br></div><div class="selectionsure ui-sortable-handle" id="sure85" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>85</em> <span id="resuname85" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime85" style="color: rgb(164, 164, 164); font-size: 12px;">：2013/02/20(水) 11:45:54.28 </em><em class="resuid_xxxnet" id="resuid85" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody85" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">歯医者怖くて今日キャンセルしちゃった！ </p><br></div><div class="selectionsure ui-sortable-handle" id="sure91" style="margin: 0px; padding: 0px; border: currentColor; border-image: none;"><em>91</em> <span id="resuname91" style="color: rgb(0, 102, 0);">名無しさん＠おだいじに </span><em id="resutime91" style="color: rgb(164, 164, 164); font-size: 12px;">：2013/12/21(土) 18:37:48.37 </em><em class="resuid_xxxnet" id="resuid91" style="color: rgb(111, 168, 220); font-size: 12px;">ID:???.net</em><p class="surebody_xxxnet" id="surebody91" style="padding: 10px; color: rgb(76, 17, 48); font-size: 18px; -ms-word-break: break-all; background-color: rgb(244, 204, 204);" name="surebodymain">院内感染でシャレに成らないのは抗生物質が効かない多剤耐性菌だろ </p><br></div><div id="preview_syutten_bottom" style="text-align: right; display: none;"><br><a style="color: rgb(153, 153, 153); font-size: small;" href="http://2ch.sc/test/read.cgi/doctor/1274278185" target="_blank"><em>（出典 【HIV】歯科治療と院内感染【肝炎】）</em></a></div><div id="footerafficode" style="width:100%;text-align:center;"><br><br></div></div>
+
+</div>
+                    
+<!-- タグのリスト表示セット -->
+                    </div>
+                </div><!-- ブログロール -->
+<h3><font color=ff0000>こちらもおすすめ！</font></h3>
+<iframe width="650" scrolling="yes" height="370" frameborder="0" src="http://kagayakubihatu.blog.jp/kagayakubihatu.blog.jp.html"></iframe>
+ 
+<!-- /ブログロール-->
+
+                <!-- 記事本文 ここまで-->
+
+
+
+                <!-- 記事フッター、コメント、ソーシャルボタン -->
+                <footer class="article-footer">
+                    <div class="article-footer-comment">
+                        
+                            <a href="http://kagayakubihatu.blog.jp/archives/15560186.html#comments">0コメント</a>
+                        
+                    </div>
+                    <div class="article-social-btn">
+<a href="https://twitter.com/share" class="twitter-share-button" data-count="none" data-url="http://kagayakubihatu.blog.jp/archives/15560186.html" data-text="【HIV】歯科治療と院内感染【肝炎】 - 輝くもっと美容！もっと健康！" data-lang="ja">Tweet</a><script charset="utf-8" type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
+<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fkagayakubihatu.blog.jp%2Farchives%2F15560186.html&amp;send=false&amp;layout=button_count&amp;width=110&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:20px;" allowTransparency="true"></iframe>
+        <iframe src="http://clap.blogcms.jp/livedoor/beutyparlor/15560186/button" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:22px;" allowTransparency="true" width="500px" data-article-id="15560186"></iframe>
+        <script type="text/javascript">if (!window['flgAddMessageListener']) { (function() { window.addEventListener('message', function(message) { if (message.origin !== 'http://clap.blogcms.jp') { return; } var tmp = message.data.split(/:/);var articleId = tmp[0]; var width = tmp[1]; var iframes = document.getElementsByTagName('iframe'); for (var i = 0; i < iframes.length; i++) { var iframe = iframes[i]; if (iframe.getAttribute('data-article-id') !== articleId) { continue; } iframe.setAttribute('width', width+'px'); } }, false); })(); flgAddMessageListener = true; }</script>
+
+                    </div>
+                </footer>
+                <!-- /記事フッター、コメント、ソーシャルボタン -->
+
+
+
+                <!-- カテゴリの最新記事表示 はじまり-->
+                <div class="article-sub-category">
+                    <div id="ldblog_related_articles_f9348310">
+
+<div class="related-articles ldblog_related_articles_f9348310" data-category-id="323486" data-article-rows="5">
+<h3>「輝く健康」カテゴリの最新記事</h3>
+<ul id="ldblog_related_articles_f9348310_323486"></ul>
+</div>
+</div>
+<script type="text/html" id="ldblog_related_articles_f9348310_tmpl">
+<% for(var i=0,l=articles.length;i<l;i++) {%><% if(i>=rows) break; %>
+<li><a href="<%=articles[i].permalink%>"><%=articles[i].title%></a></li>
+<% } %>
+</script>
+<script type="text/javascript" src="http://parts.blog.livedoor.jp/js/related_articles.js?t=20180221"></script>
+<script type="text/javascript">
+(function(){
+RelatedArticles.load('ldblog_related_articles_f9348310', '15560186');
+})();
+</script>
+<!-- 関連記事の表示 -->
+                </div>
+                <!-- /カテゴリの最新記事表示 ここまで-->
+
+
+
+                <!-- 人気記事ランキング はじまり-->
+                <div class="article-sub-popular">
+                    <h3>人気記事ランキング</h3>
+                    <div class="listWithImage"><!-- 件数 --><!-- RT(1)かコメント(o) --><!-- 集計範囲：今週(week0) 今月(month0) --><!-- 文字色 --><!-- 背景色 -->
+                        <div class="popularArticlesWithImage tag A"
+     id="popularArticlesWithImageTag5UVQWK9RC3mWQy8N">
+<ul></ul>
+<script type="text/javascript" src="http://parts.blog.livedoor.jp/plugin/popular_articles_with_image_plugin.js?v=20130911"></script>
+<script type="text/html" id="tmpl-popularArticlesWithImageTag5UVQWK9RC3mWQy8N">
+<li class="popularArticleWithImage">
+<div>
+<a href="<%= article.url %>" title="<%= article.title %>">
+<div class="image <%= article.image.thumbnail ? '' : 'noimage' %>">
+<% if (article.image.thumbnail) { %>
+<img id="image-popularArticlesWithImageTag5UVQWK9RC3mWQy8N-<%= article.id%>"
+     src="<%= article.image.thumbnail %>"
+     alt="" />
+<% } %>
+</div>
+<% if (comment) { %>
+<div class="comment" id="comment-popularArticlesWithImageTag5UVQWK9RC3mWQy8N-<%= article.id%>"></div>
+<% } else if (pv) { %>
+<div class="pv"><%= article.count %>PV</div>
+<% } else if (retweet) { %>
+<div class="retweet" id="retweet-popularArticlesWithImageTag5UVQWK9RC3mWQy8N-<%= article.id%>"></div>
+<% } %>
+<div class="title" id="title-popularArticlesWithImageTag5UVQWK9RC3mWQy8N-<%= article.id%>"><%= article.title %></div>
+</a>
+</div>
+</li>
+</script>
+
+<script type="text/javascript">
+(function(){
+var opts = {
+id:      'popularArticlesWithImageTag5UVQWK9RC3mWQy8N',
+asPlugin: false,
+type:    'A',
+offset:  Number('0'),
+count:   Number('6'),
+width:   Number('') || null,
+comment: false,
+pv: false,
+retweet: false,
+color: {
+ foreground:'#0132cc',
+ background:'#ebebeb'
+},
+imageWidth:   Number('204'),
+imageHeight:   Number('150'),
+
+rangeType:'month0' || null,
+
+
+
+lastProperty: null
+};
+(new LDBlogPopularArticlesWithImagePlugin(opts)).init();
+})();
+</script>
+</div>
+<!-- 人気記事 -->
+                    </div>
+                </div>
+                <!-- /人気記事ランキング ここまで-->
+
+
+
+                <!-- 記事オプション はじまり-->
+                <div class="article-option" id="article-options">
+
+                    <!-- コメントエリア　はじまり -->
+                    
+                    <section id="comments">
+                        <h1 class="article-option-title">コメント</h1>
+
+                        <ol>
+                        <!-- コメント繰り返し はじまり-->
+                        
+                            <!-- コメント繰り返し　ここまで -->
+                        </ol>
+
+                    <h1 class="comment-form-title">コメントする</h1>
+<div class="article-option" id="comment-form">
+    <form
+      action="http://comment.blogcms.jp/livedoor/beutyparlor/15560186/post"
+      method="post"
+      name="comment_form"
+          id="comment-form-body"
+      onsubmit="setCommentAuthor(this); return submitOnce(this.button);"
+    >
+    <fieldset>
+        <legend>コメントフォーム</legend>
+    <dl class="comment-form-author">
+        <dt><label for="comment-form-author">名前</label></dt>
+        <dd id="comment-author-form"><input type="text" class="text" id="comment-form-author" name="author" required="required" value="名無しさん" /></dd>
+    </dl>
+  <dl class="comment-form-body">
+    <dt><label for="comment-form-textarea">コメント</label></dt>
+    <dd>
+      <textarea id="comment-form-textarea" name="body" rows="7" required="required"></textarea>
+      <div id="comment-form-tools">
+        <span class="facemark"><a href="javascript:void(0);" id="emojiLink1" onClick="showEmojiPanel(this.id, 'comment-form-textarea')"><img src="http://parts.blog.livedoor.jp/img/usr/default_2012/common/icon_facemark.png" /></a></span>
+        <span class="rating">
+                    <input type="hidden" name="rating" value="">
+                    <input type="hidden" name="rating_icon" value="star">
+                    <div class="rating-value">
+                        <span id="default-rating-value">評価する</span>
+                        <div class="caret"><span></span></div>
+                        <ul>
+                            <li data-value="1"><img src="http://parts.blog.livedoor.jp/img/face/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="http://parts.blog.livedoor.jp/img/face/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="http://parts.blog.livedoor.jp/img/face/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="http://parts.blog.livedoor.jp/img/face/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="http://parts.blog.livedoor.jp/img/face/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                        <ul>
+                            <li data-value="1"><img src="http://parts.blog.livedoor.jp/img/star/1.gif" alt="1"></li>
+                            <li data-value="2"><img src="http://parts.blog.livedoor.jp/img/star/2.gif" alt="2"></li>
+                            <li data-value="3"><img src="http://parts.blog.livedoor.jp/img/star/3.gif" alt="3"></li>
+                            <li data-value="4"><img src="http://parts.blog.livedoor.jp/img/star/4.gif" alt="4"></li>
+                            <li data-value="5"><img src="http://parts.blog.livedoor.jp/img/star/5.gif" alt="5"></li>
+                            <li data-value="">リセット</li>
+                        </ul>
+                    </div>
+                    <div class="rating-icon">
+                        <div data-value="face">顔</div>
+                        <div class="selected" data-value="star">星</div>
+                    </div>
+        </span>
+        <span class="submit"><button type="submit">投稿する</button></span>
+        <span class="memorize"><label for="bake"><input type="checkbox" id="bake" name="cookie" /> 情報を記憶</label></span>
+      </div>
+    </dd>
+  </dl>
+  </fieldset>
+  </form>
+  <script type="text/javascript" src="http://parts.blog.livedoor.jp/js/comment.0.2.js?v=20130430"></script>
+  <script type="text/javascript">
+    loadCommentAuthor(document.comment_form);
+    ldblogComment.init();
+  </script>
+<!-- /#comment-form --></div><!-- コメント投稿フォーム -->
+
+
+                    </section>
+                    
+                    <!-- コメントエリア　ここまで -->
+
+
+                    <!-- トラックバック受け付け　はじまり -->
+                    
+                    <!-- トラックバック受け付け　ここまで -->
+
+                </div>
+                <!-- 記事オプション ここまで-->
+
+            </article>
+            <!-- 記事　ここまで -->
+
+
+            <div id="ad2"></div><!-- 広告表示 -->
+
+
+            <!-- ページ送り はじまり-->
+<!-- Article Pager // -->
+  <div class="pager article-pager-type2">
+    <div class="pager-inner">
+    <div class="article-pager-outer">
+    <ul class="article-pager"><li class="prev"><a href="http://kagayakubihatu.blog.jp/archives/15560020.html" title="B型肝炎について27">&nbspB型肝炎について27</a></li><li class="next both"><a href="http://kagayakubihatu.blog.jp/archives/15560278.html" title="Ｃ型肝炎について Part38">Ｃ型肝炎について Part38&nbsp</a></li>    </ul>
+    </div>
+    </div>
+  </div>
+<!-- // Article Pager -->
+
+            <!-- /ページ送り ここまで-->
+
+
+        </div>
+        <!-- コンテンツの箱の中　真ん中650px ここまで-->
+
+
+        <!-- コンテンツの箱の中　右側300px はじまり-->
+        <aside class="right-container">
+
+            <!-- サイドカラム右上　広告コード　300px X 250px はじまり-->
+            <div class="right-container-ads">
+                   <!-- admax -->
+<script src="//adm.shinobi.jp/s/2e53d72f28f1182c67fbac60632c9735"></script>
+<!—admax -->
+            </div>
+            <!-- サイドカラム右上　広告コード　300px X 250px ここまで-->
+
+            
+
+
+
+<div class="plugin-monthly sidewrapper" id="plugin-monthly-763373">
+<div class="sidetitlebody">
+<div class="sidetitle">月別アーカイブ</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+
+<div class="sidebody"><a href="http://kagayakubihatu.blog.jp/archives/2019-02.html">2019年02月</a></div>
+
+<div class="sidebody"><a href="http://kagayakubihatu.blog.jp/archives/2019-01.html">2019年01月</a></div>
+
+<div class="sidebody"><a href="http://kagayakubihatu.blog.jp/archives/2018-12.html">2018年12月</a></div>
+
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-monthly -->
+
+<div class="plugin-categorize sidewrapper" id="plugin-categorize-763374">
+    <div class="sidetitlebody">
+        <div class="sidetitle">カテゴリ別アーカイブ</div>
+    </div>
+    <div class="sidetop"></div>
+    <div class="side">
+
+
+      
+
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_292598.html">輝く美髪 (6)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_326207.html">頭皮ケア関係 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_326212.html">養毛剤＆育毛剤関係 (4)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_293348.html">料理（飲み物含）関係 (59)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323465.html">食材 (2)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323497.html">飲み物一般 (27)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323464.html">グルメ (17)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323449.html">輝く美容 (25)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323452.html">化粧品 (17)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323453.html">基礎化粧品 (5)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323463.html">フェイス＆ボディケア (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323467.html">サプリメント (1)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-parent"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323486.html">輝く健康 (52)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323488.html">薬＆サプリメント (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323489.html">医療一般 (16)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323493.html">医療一般 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323520.html">医療一般 (1)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323521.html">医療一般 (2)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_323522.html">医療一般 (12)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_325963.html">医療一般 (2)</a>
+          
+        </div>
+        
+    
+        
+        
+        <div class="sidebody category-child"
+             
+          ><a href="http://kagayakubihatu.blog.jp/archives/cat_325078.html">アレルギー・アトピー (15)</a>
+          
+        </div>
+        
+    
+        
+        
+    
+        
+        
+    
+    
+
+    </div>    
+    <div class="sidebottom"></div>
+</div><!-- // plugin-categorize -->
+
+<div class="plugin-popular_articles_with_image sidewrapper">
+  <div class="sidetitlebody">
+    <div class="sidetitle">人気記事</div>
+  </div>
+  <div class="sidetop"></div>
+  <div class="side">
+
+<div class="popularArticlesWithImage plugin A"
+     id="popularArticlesWithImagePlugin-763376">
+<ul></ul>
+<script type="text/javascript" src="http://parts.blog.livedoor.jp/plugin/popular_articles_with_image_plugin.js?v=20160803"></script>
+<script type="text/html" id="tmpl-popularArticlesWithImagePlugin-763376">
+<li class="popularArticleWithImage">
+<div>
+<a href="<%= article.url %>" title="<%= article.title %>">
+<div class="image <%= article.image.thumbnail ? '' : 'noimage' %>">
+<% if (article.image.thumbnail) { %>
+<img id="image-popularArticlesWithImagePlugin-763376-<%= article.id%>"
+     src="<%= article.image.thumbnail %>"
+     alt="" />
+<% } %>
+</div>
+<% if (comment) { %>
+<div class="comment" id="comment-popularArticlesWithImagePlugin-763376-<%= article.id%>"></div>
+<% } else if (retweet) { %>
+<div class="retweet" id="retweet-popularArticlesWithImagePlugin-763376-<%= article.id%>"></div>
+<% } else if (pv) { %>
+<div class="pv"><%= article.count %>PV</div>
+<% } %>
+<div class="title" id="title-popularArticlesWithImagePlugin-763376-<%= article.id%>"><%= article.title %></div>
+</a>
+</div>
+</li>
+</script>
+
+<script type="text/javascript">
+(function(){
+var opts = {
+id:      'popularArticlesWithImagePlugin-763376',
+asPlugin: true,
+type:    'A',
+offset:  Number('0'),
+count:   Number('5'),
+
+rangeType:'week0',
+
+
+
+width: null,
+retweet: false,
+comment: false,
+pv: false,
+color: {
+ foreground:'' || null,
+ background:'' || null
+},
+imageWidth:  Number('150' || 0) || null,
+imageHeight: Number('112' || 0) || null,
+categoryId: Number('292598' || 0) || null,
+lastProperty: null
+};
+(new LDBlogPopularArticlesWithImagePlugin(opts)).init();
+})();
+</script>
+</div>
+
+</div>
+<div class="sidebottom"></div>
+</div>
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">綺麗な髪を作ろう</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+・取り上げてほしい記事などありましたらお気軽にメッセージください。<br>
+・記事やツイートの削除依頼などありましたらこちらからお願いします。<br>
+<br>
+【著作権について】<br>
+当ブログで掲載されている画像及び動画等の著作権・肖像権等は各権利所有者に帰属致します。<br>
+著作権を侵害する意図は全くございません。<br>
+掲載に問題がある物がありましたらお手数ですがメール・メールフォームから御一報下さい。<br>
+<br>
+また、メールでのご連絡は下記メールフォームかこちらのアドレスまで↓<br>
+<br>
+（◆を@に変換して下さい）<br>
+<br>
+salone11305@rj9.so-net.ne.jp
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">逆アクセスランキング</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script type="text/javascript" src="https://rranking9.ziyu.net/rank.php?beutyhome"></script><A href="http://www.ziyu.net/" target=_blank><IMG SRC="https://rranking9.ziyu.net/rranking.gif" alt="アクセスランキング" border="0" width="35" height="11"></A><NOSCRIPT><A href="http://www.ziyu.net/" target=_blank>アクセスランキング</A></NOSCRIPT>
+<script type="text/javascript" src="https://rranking9.ziyu.net/js/beutyhome.js" charset="shift_jis"></script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+<div class="plugin-memo sidewrapper">
+<div class="sidetitlebody">
+<div class="sidetitle">人気ブログランキング</div>
+</div>
+<div class="sidetop"></div>
+<div class="side">
+<script type="text/javascript" src="//blog.with2.net/parts/2.0/?id=1988620:zbSn.tMtgnY"></script>
+</div>
+<div class="sidebottom"></div>
+</div><!-- // plugin-memo -->
+
+
+
+
+<!-- 「B」設定のブログパーツ表示 -->
+            <!-- ブログパーツのギャラリーのサイズは91pxにすると綺麗に表示されます-->
+
+            
+
+<ul id="ld-services">
+<li id="blog-powered"><a href="http://blog.livedoor.com/"><img src="http://parts.blog.livedoor.jp/img/usr/cmn/logo_blog_premium.png" width="114" height="24" alt="ライブドアブログ" /></a></li>
+</ul>
+<!-- LDR・RSSリンクとブログのロゴ表示 -->
+
+        </aside>
+        <!-- コンテンツの箱の中　右側300px ここまで-->
+
+        <!-- このページのトップヘ　はじまり -->
+        <p class="to-pagetop"><a href="#"><img src="http://parts.blog.livedoor.jp/img/usr/default_2012/common/to_pagetop.png" width="70" height="70" alt="このページのトップヘ" /></a></p>
+        <!-- このページのトップヘ ここまで -->
+
+    </div>
+    <!-- コンテンツ全体 ここまで-->
+
+    <!-- ブログのフッター はじまり-->
+    <footer id="blog-footer">
+    <!-- Blog Common Footer // --><div id="footer"><p>Powered by <a href="http://blog.livedoor.com/" title="ライブドアブログ">ライブドアブログ</a></p></div><!-- // Blog Common Footer --><!-- 共通フッター表示 -->
+    </footer>
+    <!-- /ブログのフッター ここまで-->
+
+</div>
+<!-- コンテンツエリア ここまで-->
+
+
+<!-- Add Body Tag // --><script type="text/javascript">
+(function(){
+  var traq = document.createElement('script'); traq.type = 'text/javascript'; traq.async = true;
+  traq.src = 'http://t.blog.livedoor.jp/u.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(traq, s);
+})();
+</script>
+<noscript>
+<img src="http://t.blog.livedoor.jp/u.gif" alt="traq">
+</noscript>
+<!-- // Add Body Tag -->
+
+</body>
+</html>

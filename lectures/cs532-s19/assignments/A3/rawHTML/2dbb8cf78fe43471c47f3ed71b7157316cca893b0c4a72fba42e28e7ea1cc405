@@ -1,0 +1,204 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta charset="utf-8">
+
+<title>:: bbangya tv :: </title>
+
+<meta name="title" content="bbangya tv" />
+<meta name="keywords" content="video" />
+<meta name="Description" content="다양한 웹드라마와 라이브 공연을 실시간으로 감상할 수 있습니다.">
+
+<meta property="og:title" content="bbangya tv"/>
+<meta property="og:description" content="다양한 웹드라마와 라이브 공연을 실시간으로 감상할 수 있습니다."/>
+<meta property="og:url" content="bbangyatv.com"/>
+<meta property="og:image" content="https://image.bbangyatv.com/resources/images/mobile_og_img.png"/>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<!-- ios meta start -->
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="white">
+<link rel="apple-touch-icon" href="/images/logo_bbangyatv.png">
+<link href="/images/startup_bbangyatv.png" rel="apple-touch-startup-image">
+<!-- ios meta end -->
+<link rel="shortcut icon" href="/images/favicon_bbangya.ico">
+<link rel="stylesheet" href="/css/common.css">
+<link rel="stylesheet" href="/css/reset.css">
+<script type="text/javascript" src="/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery.bpopup.min.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/moment.min.js"></script>
+<script type="text/javascript" src="/js/basic/images.js"></script>
+<script type="text/javascript" src="/js/jquery.number.min.js"></script>
+<!--[if lt IE 9]>
+		<script src="/js/html5shiv.js"></script>
+		<script src="/js/respond.min.js"></script>
+		<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+	<![endif]-->
+<!--[if lte IE 7]> 
+ 		<link rel="stylesheet" href="/css/ie7.css">
+ 	<![endif]-->
+<!--[if IE]>
+		<script type="text/javascript">
+			document.createElement('header');
+			document.createElement('nav');
+			document.createElement('article');
+			document.createElement('section');
+			document.createElement('aside');
+			document.createElement('footer');
+		</script>
+	<![endif]-->
+<script type="text/javascript">
+	var blockType = "LOGIN";
+
+	$(document).ready(function() {
+		
+		alertPopupVisible();
+		
+		
+		if(blockType.substr(0, 5) == "EMBED"){
+			$("#moveButton").addClass("off");
+		}
+	});
+
+	function alertPopupVisible() {
+		//$("#alertMsgRedirect").removeClass("off");
+		$('#alertMsgRedirectPopup').bPopup({
+            modalClose : false
+        });
+	}
+
+	function okNext() {
+		switch (blockType) {
+		case "LOGIN":
+			goLogin();
+			break;
+		case "EMBED_LOGIN":
+			goTopLogin();
+			break;
+		case "GEO":
+		case "OUTSIDE": // embed 플레이어에서 이전 페이지 주소 확인 후 도메인이 다를 경우
+		default:
+			goBack();
+		}
+	}
+
+	function goLogin() {
+		var $form = $('<form></form>');
+
+		$form.attr('action', "/login");
+		$form.attr('method', 'post');
+		$form.appendTo('body');
+
+		var example_1 = $('<input type="hidden" name="returnUrl" value="' +location.href+ '">');
+
+		$form.append(example_1);
+		$form.submit();
+	}
+
+	function goTopLogin() {
+		//1
+		/* var $form = $('<form></form>');
+
+		$form.attr('action', "/login");
+		$form.attr('method', 'post');
+		
+		$form.appendTo($("parent.document.body"));
+
+		var example_1 = $('<input type="hidden" name="returnUrl" value="' +top.location.href+ '">');
+		$form.append(example_1);
+		
+		$form.submit(); */
+		
+		//2
+		top.location.href = "/login?returnUrl="+top.location.href;
+	}
+	
+	function goBack() {
+		window.location.href = "/";
+	}
+</script>
+</head>
+<body>
+
+
+	<div id="alertMsgRedirectPopup" class="layer-popup_style01 large">
+		<!-- 결제 완료 시작 -->
+		<div id="alertMsgRedirect" class="layer-popup_content" style="height: auto; width: auto;">
+			<div class="popup_content">
+				<p class="result_text">Available to Only BBangyaTV's members.</p>
+				<div class="btn_area">
+					<button id="moveButton"onclick="javascript:okNext();" class="btn btn_point w-size_s h-size_l b-close">
+						OK
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

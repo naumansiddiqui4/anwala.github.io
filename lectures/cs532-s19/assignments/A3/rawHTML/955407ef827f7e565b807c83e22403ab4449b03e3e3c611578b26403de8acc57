@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="2;url=https://www.youtube.com/watch?v=x-x-eyZf8Ko&amp;feature=youtu.be"/>
+    <title>smartURL</title>
+</head>
+<body>
+
+    <script src="/_static/scripts/compiled/retargeting.js?v=2.2.87" type="text/javascript"></script>
+    <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
+    <script type="text/javascript">
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){
+        n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s);
+        }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+    </script>
+    <script type="text/javascript">
+        var retargetingFired = true;
+        var initRetargeting = function (trackingConsentPermission) {
+            if (window.Retargeting) {
+                window.renderInfo = {"renderId":"1099506866725847041","smartUrlId":4509274,"timestamp":1550977839534,"requestUrl":"\u002FNx6Kwvz\u002Fyoutube","params":"{}","userAgent":"python-requests\u002F2.18.4","responseTimeNanos":320065,"responseCode":200,"destinationUrl":"https:\u002F\u002Fwww.youtube.com\u002Fwatch?v=x-x-eyZf8Ko&feature=youtu.be","requestMethod":"GET","quiet":false,"codeOrAlias":"Nx6Kwvz","requesterId":1099506866725847043,"clickDelta":0,"retailerId":8,"callToAction":"Watch","replaceId":0,"dispatchProperty":"RET","ipAddress":"128.82.7.26","countryCode":"US","lat":37.751007,"lng":-97.822,"locationType":1,"deviceCategory":"UNKNOWN","deviceOS":"UNKNOWN","browser":"UNKNOWN","browserVersion":"UNKNOWN"};
+                Retargeting.init([{"id":29,"platform":"Google","account":{"id":29,"platform":"Google","externalId":"1523465721","name":"RCA Records","managed":true,"conversionIdentifiers":[]},"externalId":"993583143","conversionType":"Universal","displayName":"Conversion ID"},{"id":138,"platform":"Facebook","account":{"id":137,"platform":"Facebook","externalId":"1377217462493790","name":"RCA Records Retargeting","managed":true,"conversionIdentifiers":[]},"externalId":"457646594335935","conversionType":"Universal"}], {
+                    alias: "Nx6Kwvz",
+                    user_country: "US" || 'unknown',
+                    user_province: null || 'unknown',
+                    user_city: null || 'unknown',
+                    user_postal_code: null || 'unknown'
+                }, [{"attrName":{"name":"smarturl_code"},"value":"cs6ldn","startEpoch":0,"endEpoch":1000000000000,"displayOrder":0},{"attrName":{"name":"artist"},"value":"normani & 6lack","startEpoch":0,"endEpoch":1000000000000,"displayOrder":0},{"attrName":{"name":"album"},"value":"waves - single","startEpoch":0,"endEpoch":1000000000000,"displayOrder":0},{"attrName":{"name":"genre"},"value":"r&b\u002Fsoul","startEpoch":0,"endEpoch":1000000000000,"displayOrder":0}], trackingConsentPermission);
+            }
+        };
+        var firePageView = function() {
+            if (window.Retargeting) {
+                Retargeting.trackEvent('PageView', null, []);
+            }
+        };
+
+        initRetargeting(true);
+
+    </script>
+    <noscript>
+        
+        
+    </noscript>
+
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        var trackerName = 'tracker_smarturl_ga';
+        ga('create', "UA-58554536-1", 'auto', {'allowLinker': true, 'name': trackerName});
+
+        ga('require', 'displayfeatures');
+        ga(trackerName + '.send', 'pageview', {
+            'hitCallback': function () {
+                
+            }
+        });
+    </script>
+
+
+    <script type="text/javascript">
+        function LinkDecorator() {};
+        LinkDecorator.prototype.decorate = function (url) {
+            return url;
+        };
+        window.linkDecorator = new LinkDecorator();
+
+        window.checkIfChrome = function () {
+            return (!!window.chrome && !!window.chrome.webstore) || (/Chrome/.test(navigator.userAgent) && /Google Inc/.test(navigator.vendor));
+        };
+
+        window.checkIfSafari = function () {
+            return /constructor/i.test(window.HTMLElement) || (function (p) { return p.toString() === "[object SafariRemoteNotification]"; })(!window['safari'] || (typeof safari !== 'undefined' && safari.pushNotification));
+        };
+
+        window.smartURL = {
+            navigateTo: function (url) {
+                var deeplink = this.checkSupportedDeepLinks(url);
+                if (deeplink === null || this.isIOS()) {
+                    this.openURL(linkDecorator.decorate(url));
+                } else {
+                    this.openDeepLink(deeplink);
+                }
+            },
+            openURL: function (url) {
+                if (this.isIE8()) {
+                    var link = document.createElement('a');
+                    link.href = url;
+                    document.body.appendChild(link);
+                    link.click();
+                } else {
+                    window.top.location.href = url;
+                }
+            },
+            openDeepLink: function (deeplink) {
+                var leftPage = false, timeStarted = new Date(), iframe;
+                window.onblur = function () {
+                    leftPage = true;
+                };
+                window.onfocus = function () {
+                    // if user returns after waiting a while (10 seconds),
+                    // then do nothing
+                    var now = new Date();
+                    var leftPageForWhile = (now.getTime() - timeStarted.getTime()) > 10000;
+                    if (leftPageForWhile) {
+                        return;
+                    }
+                    // if user left the page but returned quickly
+                    // this likely means the user said no or the app did not open
+                    if (leftPage) {
+                        this.openURL(deeplink.web);
+                    }
+                }.bind(this);
+                window.setTimeout(function () {
+                    // didnt open anything (prompt, app, etc), so use the web url
+                    if (leftPage === false) {
+                        this.openURL(deeplink.web);
+                    }
+                }.bind(this), 500);
+                iframe = document.getElementById('deep-link-test');
+                if (iframe) {
+                    // set the iframe to trigger the browser prompt
+                    // or open the app;
+                    // either will trigger window blur
+                    iframe.setAttribute('src', deeplink.deep);
+                } else {
+                    this.openURL(deeplink.deep);
+                }
+            },
+            retailerSelected: function (internalName, destUrl, imageUrl) {
+                var handleNavigation = function () {
+                    smartURL.navigateTo(destUrl);
+                };
+                if (window.Retargeting) {
+                    Retargeting.trackEvent('SelectedRetailer', {
+                        selected_retailer: internalName
+                    }, [imageUrl]).then(handleNavigation);
+                } else {
+                    handleNavigation();
+                }
+            },
+            offerSelected: function (offerId, destUrl, imageUrl) {
+              var handleNavigation = function () {
+                  smartURL.navigateTo(destUrl);
+              };
+
+              if(window.Retargeting) {
+                  Retargeting.trackEvent('SelectedOffer', {
+                      selected_offer: offerId
+                  }, [imageUrl]).then(handleNavigation);
+              } else {
+                  handleNavigation();
+              }
+            },
+            outboundClick: function (destUrl, imageUrl) {
+                var handleNavigation = function () {
+                    smartURL.navigateTo(destUrl);
+                };
+                if (window.Retargeting) {
+                    Retargeting.trackEvent('OutboundClick', {
+                        outbound_url: destUrl
+                    }, [imageUrl]).then(handleNavigation);
+                } else {
+                    handleNavigation();
+                }
+            },
+            socialClick: function (destUrl, imageUrl) {
+                if (window.Retargeting) {
+                    Retargeting.trackEvent('SocialClick', {
+                        social_url: destUrl
+                    }, [imageUrl]);
+                }
+            },
+            checkSupportedDeepLinks: function (url) {
+                var tests = [this.spotifyDeepLinkTest];
+                for (var i=0; i < tests.length;i++) {
+                    var test = tests[i], result = test.call(this, url);
+                    if (result !== null) {
+                        // return the deeplink object
+                        return result;
+                    }
+                }
+                return null;
+            },
+            spotifyDeepLinkTest: function (url) {
+                if (url.indexOf('//open.spotify.com') >= 0 || url.indexOf('//play.spotify.com') >= 0) {
+                    // using a regular spotify link,
+                    // create a deeplink
+                    return {deep: this.mapSpotifyUrlToDeepLink(url), web: url};
+                } else if (url.indexOf('spotify:') === 0) {
+                    return {deep: url, web: this.mapSpotifyDeepLinkToUrl(url)};
+                }
+                return null;
+            },
+            mapSpotifyUrlToDeepLink: function (url) {
+                var newLink = 'spotify';
+                var suffix = (url.slice(url.indexOf('.com') + 4)).replace(/\//g, ':');
+                return newLink + suffix;
+            },
+            mapSpotifyDeepLinkToUrl: function (url) {
+                var suffix = (url.slice(url.indexOf('spotify:') + 8)).replace(/\:/g, '/');
+                return 'https://open.spotify.com/' + suffix;
+            },
+            isIOS: function () {
+                return !!navigator.userAgent.match(/iPhone|iPad|iPod/i);
+            },
+            isIE8: function () {
+                var ua = navigator.userAgent.toLowerCase(),
+                    isIE = ua.indexOf('msie') !== -1,
+                    version = parseInt(ua.substr(4, 2), 10);
+                return isIE && version <= 8;
+            },
+            setCookie: function (name, value, secondsToLive) {
+                var lifetime = secondsToLive || 60 * 60 * 24 * 30; // 30 days default
+                var d = new Date();
+                d.setTime(d.getTime() + lifetime * 1000);
+                var cookie = name + '=' + value + ';domain=' + window.location.hostname + ';path=/;max-age=' + lifetime + ';expires=' + d.toGMTString();
+                document.cookie = cookie;
+            },
+            clearCookie: function (name) {
+                this.setCookie(name, '', -1);
+            }
+        };
+    </script>
+
+<script type="text/javascript">
+    var redirect = function () {
+        var dest = "https:\u002F\u002Fwww.youtube.com\u002Fwatch?v=x-x-eyZf8Ko&feature=youtu.be";
+        window.smartURL.navigateTo(dest);
+    };
+    if (window.Retargeting) {
+        var p = [];
+        p.push(Retargeting.trackEvent('PageView', null, []));
+        
+        p.push(Retargeting.trackEvent('SelectedRetailer', {selected_retailer: "youtube" }));
+        
+        Retargeting.trackEvents(p).then(redirect);
+    } else {
+        redirect();
+    }
+</script>
+</body>
+</html>

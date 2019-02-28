@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8" />
+
+<script>
+        var dataLayer = window.dataLayer || [];
+    </script>
+
+<script>(function(a,s,y,n,c,h,i,d,e)
+
+        {s.className+=' '+y;h.start=1*new Date; h.end=i=function()
+
+        {s.className=s.className.replace(RegExp(' ?'+y),'')};
+            (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document.documentElement,'async-hide','dataLayer',4000, {'GTM-T2ZJWHJ':true});
+    </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-79139220-1"></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-79139220-1');
+    </script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-TS5ZLGV');</script>
+
+<meta name="robots" content="index, follow" />
+<meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; connect-src * 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src *; style-src * 'unsafe-inline';">
+<meta name="apple-touch-fullscreen" content="yes" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="Cache-control" content="public">
+<meta name="expires" content="24 April 2019">
+<meta name="last-modified" content="2019-02-21">
+<title>CMG</title>
+<meta name="Description" content="CMG is the US leader in eSports. We provide excellent possibility to play tournaments and ladders. Play with us" />
+<meta name="Keywords" content="CMG, tournaments, ladders, events" />
+<meta http-equiv="content-language" content="en" />
+<meta name="format-detection" content="telephone=yes" />
+<meta property="og:image" content="https://www.checkmategaming.com/images/cmg1200.jpg" />
+<meta property="og:image:secure_url" content="https://www.checkmategaming.com/images/cmg1200.jpg" />
+<meta property="twitter:image" content="https://www.checkmategaming.com/images/cmg1200.jpg" />
+<meta property="og:url" content="https://www.checkmategaming.com" />
+<meta property="og:title" content="CMG" />
+<meta property="og:site_name" content="CMG" />
+<meta property="og:description" content="CMG is the US leader in eSports. We provide excellent possibility to play tournaments and ladders. Play with us" />
+<link rel='shortcut icon' type='https://www.checkmategaming.com/theme/cmgtheme/common/image/x-icon' href='https://www.checkmategaming.com/theme/cmgtheme/common/images/uploaded_favicons/favicon-2.ico' />
+<link href="https://www.checkmategaming.com/theme/cmgtheme/common/images/apple-touch-icon.png" rel="apple-touch-icon">
+<link href="https://www.checkmategaming.com/theme/cmgtheme/common/css/entypo.css" rel="stylesheet">
+<link href="https://www.checkmategaming.com/theme/cmgtheme/common/css/font-awesome.min.css" rel="stylesheet">
+<link href="https://www.checkmategaming.com/theme/cmgtheme/common/css/bootstrap.css" rel="stylesheet">
+<link href="https://www.checkmategaming.com/theme/cmgtheme/common/css/core.css?v=201902181705" rel="stylesheet">
+<link href="https://www.checkmategaming.com/theme/cmgtheme/common/css/forms.css?v=201801091201" rel="stylesheet">
+<link href="https://www.checkmategaming.com/theme/cmgtheme/common/css/style.css?v=201802051717" rel="stylesheet">
+<link href="https://www.checkmategaming.com/theme/cmgtheme/common/css/extra.css?v=201809091013" rel="stylesheet">
+<link href="https://www.checkmategaming.com/theme/cmgtheme/common/select2/select2.min.css" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Orbitron" rel="stylesheet">
+
+<link href="https://www.checkmategaming.com/theme/cmgtheme/common/css/croppie.css" rel="stylesheet" type="text/css">
+
+<script src="//unpkg.com/navigo@6"></script>
+
+<!--[if lt IE 7]>
+		<script type="text/javascript" src="https://www.checkmategaming.com/theme/cmgtheme/common/js/DD_belatedPNG_0.0.8a-min.js"></script>
+		<script type="text/javascript">DD_belatedPNG.fix('div, li, img, a');</script>
+	<![endif]-->
+<!--[if lt IE 9]>
+	    <script type="text/javascript" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	    <script type="text/javascript" src="https://www.checkmategaming.com/theme/cmgtheme/common/js/html5.js"></script>
+	<![endif]-->
+<!--[if gt IE 8]>
+	    <style type="text/css">
+		* {filter:none !important;}
+	    </style>
+	<![endif]-->
+<script type="application/ld+json">
+	{
+	    "@context" : "http://schema.org",
+	    "@type" : "Organization",
+	    "url" : "https://www.checkmategaming.com",
+	    "contactPoint" : [
+		{
+		    "@type" : "ContactPoint",
+		    "email" : "",
+		    "contactType" : "customer service",
+		    "telephone" : ""
+		}
+	    ]
+	}
+	</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+</head>
+<body data-root-path="https://www.checkmategaming.com/">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TS5ZLGV"
+                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<script src="https://www.checkmategaming.com/theme/cmgtheme/common/js/routing.js"></script>
+<div class="wrapper">
+
+<div class="main-header">
+<div class="col-xs-3 col-sm-4 col-md-4 col-lg-4 menu1">
+<mainmenu>
+<ul id="menu">
+<li><a href="https://www.checkmategaming.com"><i class="fa fa-home"></i> Home</a></li>
+<li><a href="https://www.checkmategaming.com/search"><i class="fa fa-search"></i> Search</a></li>
+<li><a href="https://www.checkmategaming.com/leaderboards"><i class="fa fa-list-ol"></i> Leaderboards</a></li>
+<li><a href="https://www.checkmategaming.com/elite"><i class="fa fa-star"></i> Elite</a></li>
+<li><a href="https://www.checkmategaming.com/free-tournaments"><i class="fa fa-trophy"></i> Free Entry</a></li>
+<li><a href="https://www.checkmategaming.com/freeagents"><i class="fa fa-users"></i> Free Agents</a></li>
+<li class="divider"></li>
+<li><a href="/login"><i class="fa fa-shopping-cart"></i> Shop</a></li>
+<li class="divider"></li>
+<li><i class="fa fa-list"></i> Ladders
+<ul>
+<li>
+<a href="/ladder/ps4">PS4</a>
+</li>
+<li>
+<a href="/ladder/xbox-one">XBOX ONE</a>
+</li>
+<li>
+<a href="/ladder/cross-console">CROSS-CONSOLE</a>
+</li>
+<li>
+<a href="/ladder/pc">PC</a>
+</li>
+</ul>
+</li>
+<li class="divider"></li>
+<li><i class="fa fa-dollar"></i> Wagers
+<ul>
+<li>
+<a href="/wager/ps4">PS4</a>
+</li>
+<li>
+<a href="/wager/xbox-one">XBOX ONE</a>
+</li>
+<li>
+<a href="/wager/cross-console">CROSS-CONSOLE</a>
+</li>
+<li>
+<a href="/wager/pc">PC</a>
+</li>
+</ul>
+</li>
+<li class="divider"></li>
+<li><i class="fa fa-trophy"></i> Tournaments
+<ul>
+<li><a href="https://www.checkmategaming.com/tournaments">Tournaments List</a></li>
+<li><a href="/tournaments-in-progress">In progress </a></li>
+<li><a href="https://www.checkmategaming.com/tournament-leaderboard">Leaderboard</a></li>
+<li><a href="/tournament/ps4">PS4</a></li>
+<li><a href="/tournament/xbox-one">XBOX ONE</a></li>
+<li><a href="/tournament/cross-console">CROSS-CONSOLE</a></li>
+<li><a href="/tournament/pc">PC</a></li>
+</ul>
+</li>
+</ul>
+</mainmenu>
+</div>
+<div class="col-xs-3 col-sm-4 col-md-4 col-lg-4 menu2">
+<a href="https://www.checkmategaming.com"><img id="top-logo" src="https://www.checkmategaming.com/theme/cmgtheme/common/images/uploaded_logos/cmg-logo-2.png" /></a>
+</div>
+<div class="col-xs-6 col-sm-4 col-md-4 col-lg-4 menu3">
+
+<ul class="user-info">
+<li class="profile-info dropdown">
+<img width="44" class="img-circle avatar" alt="" src="https://www.checkmategaming.com/theme/cmgtheme/common/images/profile.png" />
+<a class="login-link" href="https://www.checkmategaming.com/register">Register</a>&nbsp;<span style="color: white;">/</span>&nbsp;<a class="login-link" href="https://www.checkmategaming.com/login">Log&nbsp;in</a>
+</li>
+</ul>
+
+</div>
+</div>
+
+
+<div class="page-container">
+
+<div class="main-container">
+
+<div class='alert alert-danger page-header AverageSans'>
+<button type='button' class='close' data-dismiss='alert'>&times;</button>
+<h3><b>ERROR!</b></h3>
+<p class='f16'><b>MISSING TEAM ID</b></p>
+</div>
+<script>
+                var COOKIE_SETTINGS_AJAX_UPDATE_PATH = '/cookie-settings-ajax';
+            </script>
+<div class="cookieDisclaimer">
+<h3>Cookie Disclaimer<button class="close">&times;</button></h3>
+<p class="hidden-xs">
+CMG uses cookies to collect and use certain information for advertising, personalisation, measurement and analytics. By continuing without changing your settings, you consent to such use.
+</p>
+<p class="visible-xs text-center">
+CMG uses cookies. By continuing, you consent to such use for advertising, personalisation, measurement and analytics.
+</p>
+<p class="text-center">
+<button class="btn btn-success ok">OK</button>
+<a href="/cookie-settings" class="btn btn-info">More information</a>
+</p>
+</div>
+<script>
+                $(document).ready(function() {
+                    function closeCookieDisclaimer() {
+                        $('.cookieDisclaimer').addClass('cookieDisclaimer-hidden');
+                        setTimeout(function () {
+                            $('.cookieDisclaimer').remove();
+                        },200);
+                    }
+                    $('.cookieDisclaimer .close').on('click', function(){
+                        closeCookieDisclaimer();
+                    });
+                    $('.cookieDisclaimer .ok').on('click', function(){
+                        closeCookieDisclaimer();
+                        updateCookieSettingsSection(true, true);
+                    });
+                });
+            </script>
+</div>
+
+</div>
+<div id="advertiseWithUsModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+<h3 id="myModalLabel">Advertise with Us</h3>
+</div>
+<form id="contact-form" method="post">
+<div class="modal-body">
+<div class="form-group">
+<label for="name">Name</label>
+<input class="form-control required" id="name" placeholder="Your name" title="Your name here" data-placement="top" data-trigger="manual" required>
+</div>
+<div class="form-group">
+<label for="email">E-mail</label>
+<input type="email" class="form-control email" id="email" placeholder="Your e-mail" title="Your e-mail here" data-placement="top" data-trigger="manual" data-content="Must be a valid e-mail address" required>
+</div>
+<div class="form-group">
+<label for="message">Message</label>
+<textarea type="text" class="form-control" id="message" rows="5" placeholder="Your message here.." title="Your message here" data-placement="top" data-trigger="manual" required></textarea>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" id="sendModalFormButton" class="btn btn-success">Send It!</button>
+</div>
+</form>
+</div>
+</div>
+</div>
+
+<footer class="footer-main">
+<div class="container">
+<div class="col-md-2 col-sm-6" style="line-height:30px;">
+<h4>COMMUNITY</h4>
+<a href="/register" rel="nofollow">Create Account</a><br />
+<a href="/account-manage" rel="nofollow">Manage Account</a><br />
+<a href="/account" rel="nofollow">My Profile</a><br />
+<a href="/mailbox" rel="nofollow">Mailbox</a><br />
+<a href="/mailbox-invites" rel="nofollow">Team Invites</a><br />
+</div>
+<div class="col-md-2 col-sm-6" style="line-height:30px;">
+<h4>COMPETITIONS</h4>
+<a href="/ladder/ps4">PS4</a><br />
+<a href="/ladder/xbox-one">XBOX ONE</a><br />
+<a href="/ladder/cross-console">CROSS-CONSOLE</a><br />
+<a href="/ladder/pc">PC</a><br />
+<a href="https://www.checkmategaming.com/tournaments">Tournaments</a><br />
+<a href="https://www.checkmategaming.com/fortnite-tournament">Fortnite Tournament</a><br />
+<a href="https://www.checkmategaming.com/articles">Latest News</a><br />
+
+</div>
+<div class="col-md-2 col-sm-6" style="line-height:30px;">
+<h4>SUPPORT</h4>
+<a href="/tickets" rel="nofollow">Ticket Center</a><br />
+<a href="/faq">FAQ</a><br />
+<a href="/staff">Contact Us</a><br />
+<a href="/about">About CMG</a><br />
+<a href="" id="advertiseWithUsModalLink" data-toggle="modal" data-target="#advertiseWithUsModal">Advertise with Us</a><br />
+</div>
+<div class="col-md-3 footer-about">
+<div class="footer-paypal-badge">
+<table border="0" cellpadding="10" cellspacing="0" align="center"><tr><td align="center"></td></tr><tr><td align="center"><a href="https://www.paypal.com/webapps/mpp/paypal-popup" rel="nofollow" title="How PayPal Works" onclick="javascript:window.open('https://www.paypal.com/webapps/mpp/paypal-popup','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=1060, height=700'); return false;"><img src="/theme/cmgtheme/common/images/paypal.png" border="0" alt="PayPal Acceptance Mark"></a></td></tr></table>
+<p>All content, games titles, trade names and/or trade dress, trademarks, artwork and associated imagery are trademarks and/or copyright material of their respective owners.</p>
+</div>
+</div>
+<div class="clearfix visible-sm-block"></div>
+<div class="col-md-3 footer-about">
+<div style="text-align:center;">
+<img id="footer-logo" src="https://www.checkmategaming.com/theme/cmgtheme/common/images/uploaded_logos/cmg-logo-2.png" />
+</div>
+<div class="social-links social-icons" style="text-align:center;">
+<a href="https://facebook.com/CMGEsports" target="_blank"><img class="social-icon" src="https://www.checkmategaming.com/images/social/facebook.png" /></a>
+<a href="https://twitter.com/CMG_eSports" target="_blank"><img class="social-icon" src="https://www.checkmategaming.com/images/social/twitter.png" /></a>
+<a href="https://twitch.tv/" rel="nofollow" target="_blank"><img class="social-icon" src="https://www.checkmategaming.com/images/social/twitch.png" /></a>
+<a href="https://youtube.com/channel/UCqlQmQZTAMCl6FTGEY60MNg" target="_blank"><img class="social-icon" src="https://www.checkmategaming.com/images/social/youtube.png" /></a>
+<a href="https://www.instagram.com/Cmg_esports/" target="_blank"><img class="social-icon" src="https://www.checkmategaming.com/images/social/insta.png" /></a>
+</div>
+<p style="text-align:center;"> © 2016-2019 CheckMate Gaming LLC. <br />
+All Rights Reserved. <a href="/terms">Terms of Service.</a><br /> <a href="/privacy">Privacy Policy.</a></p>
+</div>
+</div>
+</footer>
+<div class="floating-support">
+<script type="text/javascript">
+            window.lhnJsSdkInit = function () {
+                lhnJsSdk.setup = {
+                    application_id: "d2308430-437a-48c1-bd24-00aef9eb3a40",
+                    application_secret: "76410399de2d4b45bdaa03bbd1cd4f3e2f1689dc3c4c491db7"
+                };
+                lhnJsSdk.controls = [{
+                    type: "hoc",
+                    id: "eb5eb742-63d6-4309-9937-5be5d32344ef"
+                }];
+                lhnJsSdk.options = {
+                    custom1: "Member Name: not logged in",
+                    custom2: "Activity Status: not logged in, Player Status: not logged in",
+                    custom3: "Life Stage: not logged in",
+                }
+            }; (function (d, s) {
+                var newjs, lhnjs = d.getElementsByTagName(s)[0];
+                newjs = d.createElement(s);
+                newjs.src = "https://developer.livehelpnow.net/js/sdk/lhn-jssdk-current.min.js";
+                lhnjs.parentNode.insertBefore(newjs, lhnjs);
+            }(document, "script"));
+        </script>
+</div>
+
+
+
+
+
+<section style="display: none;">
+
+<script src="https://www.checkmategaming.com/theme/cmgtheme/common/js/jquery.min.js"></script>
+<script src="/theme/cmgtheme/common/js/Sortable.min.js"></script>
+<script src="https://www.checkmategaming.com/theme/cmgtheme/common/js/bootstrap.min.js"></script>
+<script src="https://www.checkmategaming.com/theme/cmgtheme/common/js/custom.js?v=201811061315"></script>
+<script src="https://www.checkmategaming.com/theme/cmgtheme/common/js/bracket.js?v=201807121137"></script>
+<script src="https://www.checkmategaming.com/theme/cmgtheme/common/js/jquery.slicknav.js"></script>
+<script type="text/javascript">
+        $(document).ready(function(){
+	    $('#menu').slicknav({
+                init: function(){
+                    $('.slicknav_btn').addClass('turn');
+                    $("div, html").on("click", function (event) {
+                        if(!$(event.target).hasClass("#menu a") &&
+                            !$(event.target).hasClass("ul.slicknav_nav li a") &&
+                            !$(event.target).hasClass("slicknav_menutxt") &&
+                            !$(event.target).hasClass("slicknav_icon") &&
+                            !$(event.target).hasClass("slicknav_icon-bar") &&
+                            !$(event.target).hasClass("slicknav_item") &&
+                            !$(event.target).hasClass("slicknav_row") &&
+                            !$(event.target).hasClass("slicknav_parent") &&
+                            !$(event.target).hasClass("slicknav_collapsed") &&
+                            !$(event.target).hasClass("li") &&
+                            !$(event.target).hasClass("i") &&
+                            !$(event.target).hasClass("span") &&
+                            !$(event.target).hasClass("slicknav_btn") &&
+                            !$(event.target).hasClass("slicknav_arrow") &&
+                            !$(event.target).hasClass("fa-dollar") &&
+                            !$(event.target).hasClass("fa-trophy") &&
+                            !$(event.target).hasClass("fa-list")) {
+                            $("#menu").slicknav('close');
+                        }
+                    });
+                },
+                beforeOpen: function(trigger){
+                    $('.slicknav_btn').removeClass('turn');
+                },
+                beforeClose: function(trigger){
+                    $('.slicknav_btn').addClass('turn');
+                }
+              });
+        });
+        </script>
+<script>
+            var MATCH_POST_MAX_TIME_MINUTES = 20;
+            var MATCH_POST_INTERVAL_MINUTES = 10;
+        </script>
+<link rel="stylesheet" href="https://www.checkmategaming.com/match_finder/common/css/datetimepicker/bootstrap-datetimepicker.css" type="text/css">
+<script type="text/javascript" src="https://www.checkmategaming.com/match_finder/common/js/moment.js"></script>
+<script type="text/javascript" src="https://www.checkmategaming.com/match_finder/common/js/custom.js?v=201811061315"></script>
+<script type="text/javascript" src="https://www.checkmategaming.com/match_finder/common/js/datetimepicker/bootstrap-datetimepicker.min.js"></script>
+<script type="text/javascript" src="https://www.checkmategaming.com/match_finder/common/js/transition.js"></script>
+<script type="text/javascript" src="https://www.checkmategaming.com/match_finder/common/js/collapse.js"></script>
+<script type="text/javascript" src="https://www.checkmategaming.com/match_finder/matchfinder.js?v=201812041259"></script>
+<script type="text/javascript" src="https://www.checkmategaming.com/theme/cmgtheme/js/croppie.min.js"></script>
+
+
+<link href="https://www.checkmategaming.com/admin/bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css" rel="stylesheet" type="text/css">
+<link href="https://www.checkmategaming.com/admin/bower_components/datatables-responsive/css/dataTables.responsive.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" language="javascript" src="//cdn.datatables.net/1.10.3/js/jquery.dataTables.min.js"></script>
+<script src="https://www.checkmategaming.com/admin/bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min.js"></script>
+<script src="//cdn.datatables.net/responsive/1.0.6/js/dataTables.responsive.js"></script>
+<script src="https://www.checkmategaming.com/theme/cmgtheme/common/select2/select2.min.js"></script>
+<script src="https://www.checkmategaming.com/theme/cmgtheme/js/main.js?v=201901181133"></script>
+<script src="https://www.gstatic.com/firebasejs/5.4.2/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.4.2/firebase-messaging.js"></script>
+<script>firebase.initializeApp({
+    apiKey: "AIzaSyC3Rsh71UqViMQWYMBTOI2zXbb87qRgaJ8",
+    authDomain: "cmg-prod.firebaseapp.com",
+    databaseURL: "https://cmg-prod.firebaseio.com",
+    projectId: "cmg-prod",
+    storageBucket: "cmg-prod.appspot.com",
+    messagingSenderId: "515633092896"
+});
+</script>
+<script>var PUSH_NOTIFICATION_TOKEN_UPDATE_AJAX = '/api/core/push-notification-token-update';</script>
+<script src="https://www.checkmategaming.com/theme/cmgtheme/js/push-notifications.js"></script>
+</section>
+</div>
+</body>
+</html>

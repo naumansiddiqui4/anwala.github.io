@@ -1,0 +1,1644 @@
+<!DOCTYPE html>
+<html lang="ja"
+    xmlns:og="http://ogp.me/ns#"
+    xmlns:fb="http://ogp.me/ns/fb#">
+<head prefix="article: http://ogp.me/ns/article#">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<title>マイナンバーカードが保険証に＝利便性高め普及促進－健保法改正案（時事通信） - Yahoo!ニュース</title>
+<meta name="description" content="　政府は15日の閣議で、マイナンバーカードを健康保険証として使えるようにすることを">
+<meta name="keywords" content="ニュース,国内,政治">
+<meta name="robots" content="noarchive">
+<link type="text/css" rel="stylesheet" href="https://s.yimg.jp/images/jpnews/cre/common/pc/css/common_pc_v3.css?20180411" media="all">
+<link rel="stylesheet" href="https://s.yimg.jp/images/jpnews/cre/article/pc/css/article_pc_v6.css" type="text/css" media="all">
+<script type="text/javascript" src="https://s.yimg.jp/images/ds/ult/rapidjp-1.0.2.js"></script>
+<meta property="al:ios:app_name" content="Yahoo!ニュース" />
+<meta property="al:ios:app_store_id" content="407906756" />
+<meta property="al:ios:url" content="yjtrend://d/hdl/20190215-00000024-jij-pol" />
+<meta property="al:android:app_name" content="Yahoo!ニュース" />
+<meta property="al:android:package" content="jp.co.yahoo.android.news" />
+<meta property="al:android:url" content="yjnews://d/hdl/20190215-00000024-jij-pol" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="マイナンバーカードが保険証に＝利便性高め普及促進－健保法改正案（時事通信） - Yahoo!ニュース" />
+<meta property="og:description" content="政府は15日の閣議で、マイナンバーカードを健康保険証として使えるようにすることを盛 - Yahoo!ニュース(時事通信)" />
+<meta property="og:image" content="https://s.yimg.jp/images/jpnews/cre/common/all/images/fbico_ogp_600x600.png" />
+<meta property="og:image:width" content="600" />
+<meta property="og:image:height" content="600" />
+<meta property="og:url" content="https://headlines.yahoo.co.jp/hl?a=20190215-00000024-jij-pol"/>
+<meta property="og:site_name" content="Yahoo!ニュース">
+<meta property="og:locale" content="ja_JP" />
+<meta property="fb:app_id" content="276725822409153"/>
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="マイナンバーカードが保険証に＝利便性高め普及促進－健保法改正案（時事通信） - Yahoo!ニュース">
+<meta name="twitter:description" content="政府は15日の閣議で、マイナンバーカードを健康保険証として使えるようにすることを盛 - Yahoo!ニュース(時事通信)">
+<meta name="twitter:image" content="https://s.yimg.jp/images/jpnews/cre/common/all/images/fbico_ogp_600x600.png">
+<meta name="twitter:image:width" content="600">
+<meta name="twitter:image:height" content="600">
+<meta name="twitter:site" content="@YahooNewsTopics">
+<meta name="twitter:app:country" content="jp">
+<meta name="twitter:app:name:iphone" content="Yahoo!ニュース" />
+<meta name="twitter:app:id:iphone" content="407906756" />
+<meta name="twitter:app:url:iphone" content="yjtrend://d/hdl/20190215-00000024-jij-pol" />
+<meta name="twitter:app:name:googleplay" content="Yahoo!ニュース" />
+<meta name="twitter:app:id:googleplay" content="jp.co.yahoo.android.news" />
+<meta name="twitter:app:url:googleplay" content="yjnews://d/hdl/20190215-00000024-jij-pol" />
+<script type="text/javascript" src="https://s.yimg.jp/images/jpnews/js/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://s.yimg.jp/images/jpnews/js/libs/json/2.0.0/json.min.js"></script>
+<script type="text/javascript" src="https://s.yimg.jp/images/ycd/lib/ycdloader/4.0.2/ycdloader.min.js"></script>
+<script type="text/javascript">
+var jsonRapid = '{"keys":{"service":"news","pagetype":"detail","apptype":"web","opttype":"pc","vtgrpid":"hdl","nonepv":1,"status":"logout"},"spaceId":2078709492}';
+
+YAHOO.JP.Ycd.recommend.loader.configure({
+    useYcdn: true,
+    url: 'https://headlines.yahoo.co.jp/hl?a=20190215-00000024-jij-pol',
+    article: '20190215-00000024-jij',
+    rapid: JSON.parse(jsonRapid),
+});
+</script>
+<script type="text/javascript" src="https://s.yimg.jp/images/ds/ult/jp/useraction-1.0.2.js"></script>
+
+<script>
+var Rapid3Impl = function() {
+    return this.initialize.apply(this, arguments);
+};
+
+Rapid3Impl.prototype = {
+    rapid: null,
+    isInitRapid: false,
+    modules: [],
+
+    /**
+     * コンストラクタ
+     */
+    initialize : function(spaceId){
+        this.rapid = new YAHOO.i13n.JP.simpleRapid();
+
+        this.rapid
+            .setSpaceid(spaceId)
+            .setNonepv(1)
+            .setService('news')
+            .setPagetype('detail')
+            .setApptype('web')
+            .setVtgrpid('hdl')
+            .setOpttype('pc');
+
+        this.rapid.addPageParam('conttype', 'article');
+
+        this.rapid.addPageParam('contid', '22e79cc902084003c55ee78fed062eb0e68cb55e');
+
+
+        this.rapid
+            .setViewableModule(["view-timeline1","view-timeline5","view-timeline10","view-timeline15","view-timeline20","view-timeline25","view-timeline30"])   // 計測するモジュールを指定
+            .startViewable()                                                                   // 計測を有効化
+            .setViewableTime(1000);                                                            // 判定時間を指定
+
+    },
+
+    track: function() {
+        this.rapid = this.rapid.trackedClass().initRapid();
+        this.isInitRapid = true;
+        for (var i = 0, len = this.modules.length; i < len; i += 1) {
+            this.addModules(this.modules[i]);
+        }
+    },
+
+    addModules: function(sec) {
+        if (!!!this.isInitRapid) {
+            this.modules.push(sec);
+            return;
+        }
+
+        this.rapid.addModules(sec, false);
+    },
+};
+
+if (typeof YJNEWS === 'undefined') {
+    YJNEWS = {};
+}
+
+YJNEWS.Rapid3 = new Rapid3Impl('2078709492');
+</script>
+
+<script>
+(function() {
+    // Rapid3 の設定を反映する。
+    // 全てのHTMLを読み込んだ後に実行。
+    document.addEventListener('DOMContentLoaded', function() {
+        YJNEWS.Rapid3.track();
+    });
+})();
+</script>
+
+<script type="text/javascript" src="//yads.c.yimg.jp/js/yads-async.js"></script>
+<script type="text/javascript" src="//s.yimg.jp/images/listing/tool/yads/yads-timeline-ex.js"></script>
+<script type="text/javascript">
+(function() {
+    // checkPositionセット
+    $(window).load(function() {
+        // windowsだと計算が遅いため、scrollイベントのみだと右カラムがフッターに被ることがあるため、setIntervalにて常時再計算
+        // スクロール、リサイズ時に即時にポジション確認するためにイベント取得
+        $(window).on('scroll resize', checkPosition);
+        setInterval(checkPosition, 100);
+    });
+
+    var checkPosition = function() {
+        var main = $('#main');
+        var rightColumn = $('#sub');
+        var fixedArea = $('#fixedArea');
+        var contentsFooter = $('#contentsFooter');
+
+        // mainカラムより右カラムの方が長い場合は何もしない
+        if (main.height() <= rightColumn.height()) {
+            return false;
+        }
+
+        // フッター上部の座標と固定開始位置
+        // 高さや位置はJSの実行タイミングによって変わるので毎度計算する
+        var footerTop = contentsFooter.offset().top;
+        var fixStart = rightColumn.offset().top + rightColumn.height();
+
+        // 表示領域高さ
+        var windowHeight = $(window).innerHeight();
+
+        // 画面スクロール領域を取得
+        var windowPos = $(window).scrollTop() + windowHeight;
+        var documentHeight = $(document).height();
+        // 画面スクロール領域がドキュメントの高さより大きい場合は領域をドキュメントの高さに
+        if (windowPos > documentHeight) {
+            windowPos = documentHeight;
+        }
+
+        // 縦方向の制御
+        var baseSelector = '#sub';
+        var fixingSelector = baseSelector + ' #fixedArea';
+        var fixed = fixingSelector + '.fixed';
+
+        // 固定開始位置に画面が差し掛かってない場合
+        if (windowPos <= fixStart) {
+            $(fixingSelector).removeClass('fixed');
+            $(baseSelector).height('auto');
+            $(fixingSelector).width('auto');
+
+        // 画面がフッターまで到達していない場合
+        } else if (windowPos <= footerTop) {
+            $(fixingSelector).addClass('fixed');
+            $(baseSelector).height($(fixingSelector).outerHeight());
+            $(fixed).css('bottom',0);
+            $(fixingSelector).width($(baseSelector).width());
+
+        // 画面がフッターに到達した場合
+        } else {
+            $(fixingSelector).addClass('fixed');
+            $(baseSelector).height($(fixingSelector).outerHeight());
+            $(fixed).css('bottom',(windowPos - footerTop));
+            $(fixingSelector).width($(baseSelector).width());
+        }
+    };
+}());
+</script>
+<!-- SpaceID=0 robot -->
+</head>
+<body class="yj950-2">
+
+<div id="wrapper">
+<div id="main_cnt_wrapper">
+<div id="header">
+<span class="yj-guid"><a name="pagetop" id="pagetop"></a><img src="https://s.yimg.jp/images/clear.gif" width="1" height="1" alt="このページの先頭です"></span>
+<span class="yj-skip"><a href="#contents-start"><img src="https://s.yimg.jp/images/clear.gif" alt="このページの本文へ" width="1" height="1" ></a></span>
+<script type="text/javascript">
+miffy_bucket_id = '';
+</script>
+<!-- SpaceID=0 robot -->
+<script type="text/javascript" src="https://s.yimg.jp/images/security/pf/pcore-1.0.2.min.js"></script>
+<!-- SpaceID=0 robot -->
+<!-- SpaceID=0 robot -->
+<!-- SpaceID=0 robot -->
+</div>
+
+<hr class="separation">
+<div id="rma-pdv"></div><!--PushDownVision Ad-->
+
+<!--contents start-->
+<div id="contents">
+<div id="contentsHeader">
+
+<div id="headerSearch">
+
+<div class="searchWrapper">
+<form action="https://news.yahoo.co.jp/search/" method="get" id="searchNewsForm" class="current">
+<div class="inputWrapper">
+<input class="searchInput" type="text" name="p" placeholder="キーワードを入力">
+<input type="hidden" value="UTF-8" name="ei">
+<input type="hidden" value="news_sw" name="fr">
+</div><!-- /.inputWrapper -->
+<span class="searchButton"><input type="submit" value="検索"></span>
+<!-- 条件指定ボタン -->
+<p class="advanced"><a href="https://news.yahoo.co.jp/search/advanced">条件指定</a></p>
+</form>
+</div><!-- /.searchWrapper -->
+
+<ul class="personalInfo">
+<li class="myPage"><a href="https://news.yahoo.co.jp/profile/login" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3Byb2ZpbGUvbG9naW4-/RS=^ADAEoZ65bSqPsnBneZqg7eeH_E2zIY-'"><span class="myName">ユーザーページ</span></a>
+</li>
+<li class="purchase"><a href="https://headlines.yahoo.co.jp/purchase/" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvcHVyY2hhc2Uv/RS=^ADA2KzgXQsRhxirGhXoC6YEi9mKBgY-'">購読一覧</a></li>
+<li class="setting"><a href="https://news.yahoo.co.jp/profile/settings/" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3Byb2ZpbGUvc2V0dGluZ3Mv/RS=^ADApCbRk6oE0qXekC3ZMqAU0t0g2Ps-'">設定</a></li>
+</ul><!-- /.personalInfo -->
+
+</div><!-- /#search -->
+<!--グローバルナビ-->
+<div id="globalNav">
+<ul id="gnPri"><!-- global nav primary -->
+<li id="gnPriHeadlines" class="current"><a href="https://news.yahoo.co.jp" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpw/RS=^ADALN5R_9VI6SUArBmh7GmfN6SQN7Y-'" >トップ</a></li>
+<li id="gnPriFlash" ><a href="https://news.yahoo.co.jp/flash" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2ZsYXNo/RS=^ADAPzpaa3wdbwDzkhVn_scs1cu8wCQ-'" >速報</a></li>
+<li id="gnPriPhoto" ><a href="https://news.yahoo.co.jp/photo" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3Bob3Rv/RS=^ADAvRo8f4Gr7Zanp5rIYrVHd6I1W2Y-'" >写真</a></li>
+<li id="gnPriVideo" ><a href="https://headlines.yahoo.co.jp/videonews/" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvdmlkZW9uZXdzLw--/RS=^ADA14ACQCdaNC2.dW20R9aZZVKDLu8-'" >映像</a></li>
+<li id="gnPriZasshi" ><a href="https://news.yahoo.co.jp/zasshi" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3phc3NoaQ--/RS=^ADAudvUZhUow0L4ickiOecO2VJ1Wxg-'" >雑誌</a></li>
+<li id="gnPriBylines" ><a href="https://news.yahoo.co.jp/byline/" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2J5bGluZS8-/RS=^ADAgYqr_4jDrMEi8XGxvWU.d400PdI-'" >個人</a></li>
+<li id="gnPriFeature" ><a href="https://news.yahoo.co.jp/feature" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2ZlYXR1cmU-/RS=^ADAxO3EXaZEbM6YN_vCoD2Xg.i8U.s-'" >特集</a></li>
+<li id="gnPriResearch" ><a href="https://news.yahoo.co.jp/polls/" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3BvbGxzLw--/RS=^ADAgjU02ytr6B0gRabMBdJvJGTN.cE-'" >意識調査</a></li>
+<li id="gnPriRanking" ><a href="https://news.yahoo.co.jp/ranking" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3Jhbmtpbmc-/RS=^ADAnA.fFKoYwzRcsEI1mVz4vfLO4EU-'" >ランキング</a></li>
+<li id="gnPriPaid" ><a href="https://news.yahoo.co.jp/paidnews" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3BhaWRuZXdz/RS=^ADABxGyivw7D0_Q7iulnl7z5zX1VDg-'" >有料</a></li>
+</ul>
+
+<div class="gnSecWrap">
+<ul id="gnSec"><!-- global nav secondaly -->
+<li ><a href="https://news.yahoo.co.jp">主要</a></li>
+<li class="current"><a href="https://news.yahoo.co.jp/hl?c=dom">国内</a></li>
+<li ><a href="https://news.yahoo.co.jp/hl?c=c_int">国際</a></li>
+<li ><a href="https://news.yahoo.co.jp/hl?c=bus">経済</a></li>
+<li ><a href="https://news.yahoo.co.jp/hl?c=c_ent">エンタメ</a></li>
+<li ><a href="https://news.yahoo.co.jp/hl?c=c_spo">スポーツ</a></li>
+<li ><a href="https://news.yahoo.co.jp/hl?c=c_sci">IT・科学</a></li>
+<li ><a href="https://news.yahoo.co.jp/hl?c=c_life">ライフ</a></li>
+<li ><a href="https://news.yahoo.co.jp/hl?c=loc">地域</a></li>
+</ul>
+<ul id="gnSecSub">
+<li ><a href="https://news.yahoo.co.jp/list">アーカイブ</a></li>
+</ul>
+</div>
+</div><!-- /.globalNav -->
+<!--/グローバルナビ-->
+<div id="cat-pass"></div><!--/#cat-pass-->
+</div><!--/#contentsHeader-->
+
+<div id="contentsBody">
+<span class="yj-guid"><a name="contents-start" id="contents-start"></a><img src="https://s.yimg.jp/images/clear.gif" alt="ここから本文です" width="1" height="1"></span>
+
+<!--main start-->
+<div id="main">
+<div class="mainBox">
+<noscript>
+<div class="alertBox">
+<div class="alert">
+<i></i><p>現在<em>JavaScriptが無効</em>になっています。Yahoo!ニュースのすべての機能を利用するためには、JavaScriptの設定を有効にしてください。<br>JavaScriptの設定を変更する方法は<a href="https://www.yahoo-help.jp/app/noscript">こちら</a>。</p>
+</div>
+</div>
+</noscript>
+<div class="alertBox alertforIE" style="display:none">
+    <div class="alert">
+        <i></i>
+        <p>お使いのInternet Explorerは古いバージョンのため、正しく表示されない可能性があります。最新のバージョンにアップデートするか、別のブラウザーからご利用ください。<br>
+            <a href="https://about.yahoo.co.jp/info/msiesp/">Internet Explorerのアップデートについて</a>
+        </p>
+    </div>
+</div>
+<script type="text/javascript">
+    var isOldIE = false;
+    /*@cc_on
+        @if (@_jscript_version == 10)
+            isOldIE = 10;
+        @elif (@_jscript_version == 9)
+            isOldIE = 9;
+        @elif (@_jscript_version == 5.8)
+            isOldIE = 8;
+        @else
+            isOldIE = false;
+        @end
+    @*/
+    if (isOldIE === 10 || isOldIE === 9) {
+        document.getElementsByClassName("alertforIE")[0].style.display = "block";
+    } else if (isOldIE === 8) {
+        var allElements = document.getElementsByTagName("div");
+  
+        for (var i = 0;  i < allElements.length; i += 1){
+            if (allElements[i].className == "alertBox alertforIE"){
+                allElements[i].style.display = "block";
+                break;
+            }
+        }
+    }
+</script>
+<script type="text/javascript" language="JavaScript">
+yads_ad_ds = '55033_33065';
+yads_bucket_id = miffy_bucket_id;
+</script>
+<div class="adTtlYdn">
+<script type="text/javascript" language="JavaScript" src="//yads.c.yimg.jp/js/yads.js"></script>
+</div>
+
+<div class="article">
+<div id="ym_newsarticle">
+<!--- interest_match_relevant_zone_start --->
+    <div class="hd">
+    <h1>マイナンバーカードが保険証に＝利便性高め普及促進－健保法改正案</h1>
+    <div class="hdLogoWrap">
+    <p class="source">2/15(金) 8:49配信
+    </p>
+    <p class="ynCobrandBanner"><a href="https://rdsig.yahoo.co.jp/media/news/cobrand/jij/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly93d3cuamlqaS5jb20v/RS=^ADA__IB6j2TUwo0Py7G3AQssSx8vtg-"><img src="https://s.yimg.jp/images/news/cobranding/jij.png" alt="時事通信" width="170" height="40"></a></p>
+    </div>
+    </div>
+
+<div class="articleMain" data-ual-view-type="detail" data-ual="contid:22e79cc902084003c55ee78fed062eb0e68cb55e">
+<div class="paragraph">
+<p class="ynDetailText yjDirectSLinkTarget">
+　政府は15日の閣議で、マイナンバーカードを健康保険証として使えるようにすることを盛り込んだ健康保険法などの改正案を決定した。<br>
+<br>
+　カードの利便性を高めて普及を促すとともに、受診時の本人確認を確実にし、医療保険の不正利用を防ぐ狙いだ。2021年3月からの施行を目指す。<br>
+<br>
+　新たな仕組みでは、医療機関の窓口に設置する専用機器でマイナンバーカードの裏側のICチップを読み込む。専用機器は、保険診療の支払い審査を行う「社会保険診療報酬支払基金」などとつながっていて同基金がカードの所持者の健康保険証の情報を送信、医療機関が保険資格を確認できるようになる。これまで通り健康保険証も使用できる。　</p><!-- /.ynDetailText --></div><!-- /.paragraph -->
+
+
+<div class="ynDetailRelArticle">
+<div class="listTitle">【関連記事】</div>
+<ul>
+<li><a href="https://rdsig.yahoo.co.jp/media/news/rd_tool/jij/articles/pol/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly93d3cuamlqaS5jb20vamMvYXJ0aWNsZT9rPTIwMTgxMTMwMDA5OTcmZz1lY28mdXRtX3NvdXJjZT15YWhvbyZ1dG1fbWVkaXVtPXJlZmVycmFsJnV0bV9jYW1wYWlnbj1saW5rX2JhY2tfZWRpdF92Yg--/RS=^ADAdqe59fpdklWSQfSidOh5jVk7xhY-"> 「カード取得せず」過半数＝マイナンバー施行３年で </a></li>
+<li><a href="https://rdsig.yahoo.co.jp/media/news/rd_tool/jij/articles/pol/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly93d3cuamlqaS5jb20vamMvZ3JhcGhpY3M_cD12ZV9wb2xfc2Vpc2FrdS1rb3VzZWlyb3Vkb3UyMDE5MDEyMmotMDQtdzQyMCZ1dG1fc291cmNlPXlhaG9vJnV0bV9tZWRpdW09cmVmZXJyYWwmdXRtX2NhbXBhaWduPWxpbmtfYmFja19lZGl0X3Zi/RS=^ADAmhCz0kzKGjoWlTx3IoN8F9HP9Ac-"> 【図解】10連休に伴う厚労省通知 </a></li>
+<li><a href="https://rdsig.yahoo.co.jp/media/news/rd_tool/jij/articles/pol/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly93d3cuamlqaS5jb20vamMvZ3JhcGhpY3M_cD12ZV9wb2xfc2Vpc2FrdS1zeWFrYWlob3N5bzIwMTkwMjE1ai0wMS13MzYwJnV0bV9zb3VyY2U9eWFob28mdXRtX21lZGl1bT1yZWZlcnJhbCZ1dG1fY2FtcGFpZ249bGlua19iYWNrX2VkaXRfdmI-/RS=^ADAa7.XIjxp1QCWnakrxNlxAmdM8FU-"> 【図解】マイナンバーカードを保険証に </a></li>
+<li><a href="https://rdsig.yahoo.co.jp/media/news/rd_tool/jij/articles/pol/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly93d3cuamlqaS5jb20vamMvYXJ0aWNsZT9rPTIwMTgxMjE5MDU2MTImZz1wb2wmdXRtX3NvdXJjZT15YWhvbyZ1dG1fbWVkaXVtPXJlZmVycmFsJnV0bV9jYW1wYWlnbj1saW5rX2JhY2tfZWRpdF92Yg--/RS=^ADACfL7cxqQiDcGwzMoXm5bTHT1mNM-"> 凍結に医師会は不満も＝自民・小泉氏「よかった」 </a></li>
+<li><a href="https://rdsig.yahoo.co.jp/media/news/rd_tool/jij/articles/pol/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly93d3cuamlqaS5jb20vamMvYXJ0aWNsZT9rPTIwMTgxMTIxMDExODQmZz1lY28mdXRtX3NvdXJjZT15YWhvbyZ1dG1fbWVkaXVtPXJlZmVycmFsJnV0bV9jYW1wYWlnbj1saW5rX2JhY2tfZWRpdF92Yg--/RS=^ADAUoZmhRbq_i5yvrYs_FIAqr_rSc0-"> ポイント加算、２０年度実施へ＝マイナンバーカード使い－消費増税対策で政府 </a></li>
+</ul>
+</div>
+<!--- interest_match_relevant_zone_end --->
+</div><!-- /.articleMain -->    <div class="bottomLogoWrap">
+<ul class="bottomYjnSnsBtn">
+<li class="yjnSnsBtn"><a href="https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly90d2l0dGVyLmNvbS9pbnRlbnQvdHdlZXQ_b3JpZ2luYWxfcmVmZXJlcj1odHRwcyUzQSUyRiUyRmhlYWRsaW5lcy55YWhvby5jby5qcCUyRmhsJTNGYSUzRDIwMTkwMjE1LTAwMDAwMDI0LWppai1wb2wmdGV4dD0lRTMlODMlOUUlRTMlODIlQTQlRTMlODMlOEElRTMlODMlQjMlRTMlODMlOTAlRTMlODMlQkMlRTMlODIlQUIlRTMlODMlQkMlRTMlODMlODklRTMlODElOEMlRTQlQkYlOUQlRTklOTklQkElRTglQTglQkMlRTMlODElQUIlRUYlQkMlOUQlRTUlODglQTklRTQlQkUlQkYlRTYlODAlQTclRTklQUIlOTglRTMlODIlODElRTYlOTklQUUlRTUlOEYlOEElRTQlQkYlODMlRTklODAlQjIlRUYlQkMlOEQlRTUlODElQTUlRTQlQkYlOUQlRTYlQjMlOTUlRTYlOTQlQjklRTYlQUQlQTMlRTYlQTElODglRUYlQkMlODglRTYlOTklODIlRTQlQkElOEIlRTklODAlOUElRTQlQkYlQTElRUYlQkMlODklMjAtJTIwWWFob28lMjElRTMlODMlOEIlRTMlODMlQTUlRTMlODMlQkMlRTMlODIlQjklMjBodHRwcyUzQSUyRiUyRmhlYWRsaW5lcy55YWhvby5jby5qcCUyRmhsJTNGYSUzRDIwMTkwMjE1LTAwMDAwMDI0LWppai1wb2wlMjAlNDBZYWhvb05ld3NUb3BpY3MmdHdfcD10d2VldGJ1dHRvbiZyZWxhdGVkPVlhaG9vTmV3c1RvcGljcw--/RS=^ADAZcYRK2dlDflP8Expc3fsJnoeSyA-" target="_blank"><div class="twBtn"><span>ツイート</span></div></a></li>
+<li class="yjnSnsBtn"><a href="https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3NoYXJlci9zaGFyZXIucGhwP3U9aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIxNS0wMDAwMDAyNC1qaWotcG9s/RS=^ADAfNLVS14dzmUk3RxwfBiuG8CVlPk-" onclick="window.open(this.href, 'FBwindow', 'width=650, height=450, menubar=no, toolbar=no, scrollbars=yes'); return false;"><div class="fbBtn"><span>シェアする</span></div></a></li>
+</ul>
+        <p class="ynCpName">
+        <span class="date">最終更新:2/15(金) 18:22</span><br>
+        <a href="https://headlines.yahoo.co.jp/list/?m=jij" style="font-size: 92%;" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/medianame/articles/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvbGlzdC8_bT1qaWo-'">時事通信</a>
+        </p>
+    </div>
+</div><!-- /#ym_newsarticle -->
+</div><!-- /.article -->
+
+
+<script type="text/javascript" language="JavaScript">
+yads_ad_ds = '38649_31304';
+yads_bucket_id = miffy_bucket_id;
+</script>
+<div class="adTextYdn">
+<script type="text/javascript" language="JavaScript" src="//yads.c.yimg.jp/js/yads.js"></script>
+</div>
+<div id="taboola-below-article-thumbnails-p4"></div>
+<script type="text/javascript">
+ YAHOO.JP.Ycd.recommend.loader.showModule({
+    dirName: 'yahoojp-p4-c3-dl',
+    mode: 'organic-thumbnails-C3-PC2-Org',
+    placement: 'Below Article Thumbnails-p4',
+    container: 'taboola-below-article-thumbnails-p4',
+    rapid: {"sec":"smlr","slk":"title"}});
+</script>
+<div id="taboola-below-article-thumbnails-p4-sc"></div>
+<script type="text/javascript">
+ YAHOO.JP.Ycd.recommend.loader.showModule({
+    dirName: 'yahoojp-p4-c3-dl',
+    mode: 'thumbnails-C3-PC2-SC',
+    placement: 'Below Article Thumbnails-p4-sc',
+    container: 'taboola-below-article-thumbnails-p4-sc',
+    rapid: {"sec":"sc","slk":"title"},
+    sponsored_contents: true
+});
+</script>
+<div class="mainYdn">
+<script type="text/javascript" language="JavaScript">
+<!--
+yads_ad_ds = '20806_10381';
+yads_bucket_id = miffy_bucket_id;
+//-->
+</script>
+<script type="text/javascript" language="JavaScript" src="//yads.c.yimg.jp/js/yads.js"></script>
+</div>
+<div id="yjSLink"></div>
+<script type='text/javascript' src="https://s.yimg.jp/images/search/slink/1/slink.js"></script>
+<script type='text/javascript'>
+YAHOO.JP.srch.slink.onLoad(function(sl) {
+ sl.setParams({
+   serviceCode: 'nws',
+   appID: 'dj0zaiZpPWx1NTNzY1hnbUVoRCZzPWNvbnN1bWVyc2VjcmV0Jng9NGI-',
+   articleID: '20190215-00000024-jij',
+   spaceID: '2078709492',
+   linkCount: 5 });
+});
+</script>
+
+
+<script type="text/javascript" src="https://s.yimg.jp/lib/news/json/jsr_class_1_1.js"></script>
+<script type="text/javascript" src="https://s.yimg.jp/lib/news/socialModule/tab_1_10-min.js"></script>
+<div class="ynCtsSelectNav">
+    <div id="commentTab"></div>
+</div>
+<div class="commentBox" id="commentTabContents" style="display:none;">
+<script type="text/javascript" src="https://s.yimg.jp/images/news/v2/comment/js/commentloader/commentloader-6.2.0.min.js" charset="UTF-8"></script>
+
+<div class="news-comment-plugin"
+      data-defer
+      data-page-type="short"
+      data-device-type="pc"
+      data-opttype="pc"
+      data-grp="hdl"
+      data-keys="NM.xiIyDKGD13PgLFbAGJOszpsVJj0fVLScQY7lrIB31WFpmCJvUSYIBW5U18eeUzGkNTnXJsT1fimJFGjb9nwroCh3NFl8Pz.9IrDTLkGW10h6kPX3LtDn54tZekGxsA.s5sg--"
+      data-full-page-url="https://headlines.yahoo.co.jp/cm/main?d=20190215-00000024-jij-pol"
+      data-reply-num="0"
+      data-comment-num="3"
+      data-display-author-banner="on"
+            data-flt="">
+<div id="loading-comment" class="loadingWrap">
+<div class="loadingIcon"><img src="https://s.yimg.jp/images/news/v2/loading_32_b_2x.gif" width="32" height="32"></div>
+<p>読み込み中…</p>
+</div>
+</div>
+<ul class="commentNotice">
+<li class="notice">※コメントは個人の見解であり、記事提供社と関係はありません。</li>
+<li class="hidden"><input type="checkbox" id="commentChk"><label for="commentChk">コメント非表示</label></li>
+</ul>
+<script type="text/javascript" src="https://s.yimg.jp/lib/news/socialModule/comment-3_1-min.js"></script>
+</div>
+
+<script type="text/javascript">
+if (YJNEWS && YJNEWS.TAB) {
+    YJNEWS.TAB.setTabProperty({
+        'tabId'         : 'commentTab',
+        'contentsId'    : 'commentTabContents',
+        'prefunc'       : getComment,
+        'owner'         : window,
+        'rdLabelCngTab' : '/media/news/tab/click/comment/pc/textnews/',
+        'rdLabelImp'    : '/media/news/tab/imp/comment/pc/textnews/'
+    });
+}
+</script>
+
+<div class="stream_title">あなたにおすすめの記事</div>
+<div class="viewableWrap">
+    <div id="view-timeline1" class="setViewable">
+        <a data-ylk="rsec:v_hdltl;slk:stream;pos:1;"></a>
+    </div>
+</div>
+<ul class="listFeed">
+<script type="text/javascript">
+    var yt = new YadsTimelineManager({
+        'yads_ad_ds' : '71913_258678',
+        'yads_bucket_id' : miffy_bucket_id,
+    });
+</script>
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190217-00010003-friday-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjE3LTAwMDEwMDAzLWZyaWRheS1zb2Np'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggo17vWyT2eSazme3alEh80g---x264-y264-xc0-yc44-wc600-hc600-q90-exp3h-pril/amd/20190217-00010003-friday-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">女子薬科大生殺害事件・キモオタ落ち武者男「すべてのナゾを解く」                    </dt>
+                    <dd><p class="source"><span>FRIDAY</span><span class="separate">2/17(日) 13:01</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap listFeedWrap_large">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190224-00010000-flash-peo" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjI0LTAwMDEwMDAwLWZsYXNoLXBlbw--'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://giwiz-tpc.c.yimg.jp/q/iwiz-tpc/images/tpc/2019/02/24/1550961093_20190224-00010000-flash-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">激痛に耐え…執念の二刀流「大谷翔平」全長17cmの手術痕                    </dt>
+                    <dd><p class="source"><span>SmartFLASH</span><span class="separate">2/24(日) 6:00</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190130-00000010-sasahi-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMTMwLTAwMDAwMDEwLXNhc2FoaS1wb2w-'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggZpiIvvnC8tfhcQPLPnuwyA---x264-y264-xc0-yc0-wc413-hc413-q90-exp3h-pril/amd/20190130-00000010-sasahi-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">室井佑月「ほんとうにワルですね」〈週刊朝日〉                    </dt>
+                    <dd><p class="source"><span>AERA dot.</span><span class="separate">1/31(木) 7:00</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190223-00000054-asahi-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMy0wMDAwMDA1NC1hc2FoaS1zb2Np'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://amd.c.yimg.jp/im_siggUgG263NwkHb28EGcHzHtuA---x264-y264-q90-exp3h-pril/amd/cate_image/soci.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">路上でポケモンＧＯ、職務質問され警官殴った疑いで逮捕                    </dt>
+                    <dd><p class="source"><span>朝日新聞デジタル</span><span class="separate">2/23(土) 19:51</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+    <li class="listFeedWrap">
+        <div id="ad1"></div>
+        <script type="text/javascript">
+            yt.insertAd('ad1');
+        </script>
+    </li>
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190220-00000594-san-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMC0wMDAwMDU5NC1zYW4tcG9s'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggnhHYYnz_SmRZhJVJ_fzcMQ---x264-y264-xc0-yc19-wc313-hc313-q90-exp3h-pril/amd/20190220-00000594-san-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">国民民主、藤田氏を除籍へ　アントニオ猪木氏が会派入り                    </dt>
+                    <dd><p class="source"><span>産経新聞</span><span class="separate">2/20(水) 20:44</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+<div class="viewableWrap">
+    <div id="view-timeline5" class="setViewable">
+        <a data-ylk="rsec:v_hdltl;slk:stream;pos:5;"></a>
+    </div>
+</div>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190215-00010712-bunshun-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjE1LTAwMDEwNzEyLWJ1bnNodW4tcG9s'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_sigg4R0_TZfEzssEs52hj3moEA---x264-y264-xc212-yc0-wc853-hc853-q90-exp3h-pril/amd/20190215-00010712-bunshun-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">「SMAP解散」連続記録を抜いた！ 夕刊フジの「韓国一面祭り」が意味するもの                    </dt>
+                    <dd><p class="source"><span>文春オンライン</span><span class="separate">2/15(金) 7:00</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap listFeedWrap_large">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00000004-mai-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAwMDAwNC1tYWktcG9s'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://giwiz-tpc.c.yimg.jp/q/iwiz-tpc/images/tpc/2019/02/24/1550962530_20190224-00000004-mai-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">辺野古移設、沖縄県民投票始まる　埋め立て賛否問う                    </dt>
+                    <dd><p class="source"><span>毎日新聞</span><span class="separate">2/24(日) 7:06</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190220-00000106-jij-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMC0wMDAwMDEwNi1qaWotcG9s'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_sigglUrJ8_JVR.ysyiHYHpE3ZQ---x264-y264-xc0-yc0-wc835-hc835-q90-exp3h-pril/amd/20190220-00000106-jij-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">東京新聞反論に違和感＝菅官房長官                    </dt>
+                    <dd><p class="source"><span>時事通信</span><span class="separate">2/20(水) 17:28</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00000010-mai-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAwMDAxMC1tYWktcG9s'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://amd.c.yimg.jp/im_sigg5xAa8J2jYGVb4ZNEvsvQjQ---x264-y264-q90-exp3h-pril/amd/cate_image/pol.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">函館市長選、戦後初の無投票も　立憲、候補者の擁立断念                    </dt>
+                    <dd><p class="source"><span>毎日新聞</span><span class="separate">2/24(日) 11:06</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+    <li class="listFeedWrap">
+        <div id="ad2"></div>
+        <script type="text/javascript">
+            yt.insertAd('ad2');
+        </script>
+    </li>
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00010000-wordleaf-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAxMDAwMC13b3JkbGVhZi1wb2w-'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggzuyxkfX4K7v1QPHY65Zt9g---x264-y264-xc214-yc0-wc853-hc853-q90-exp3h-pril/amd/20190224-00010000-wordleaf-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">沖縄で2度目、米軍基地めぐる「県民投票」とは？ 坂東太郎のよく分かる時事用語                    </dt>
+                    <dd><p class="source"><span>THE PAGE</span><span class="separate">2/24(日) 8:00</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+<div class="viewableWrap">
+    <div id="view-timeline10" class="setViewable">
+        <a data-ylk="rsec:v_hdltl;slk:stream;pos:10;"></a>
+    </div>
+</div>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190221-00267204-toyo-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjIxLTAwMjY3MjA0LXRveW8tc29jaQ--'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggUgkTv51a_HvMbh_sy6aggQ---x264-y264-xc124-yc0-wc253-hc253-q90-exp3h-pril/amd/20190221-00267204-toyo-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">堀ちえみの舌がんが早期発見できなかったワケ                    </dt>
+                    <dd><p class="source"><span>東洋経済オンライン</span><span class="separate">2/21(木) 17:00</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap listFeedWrap_large">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00000003-mai-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAwMDAwMy1tYWktc29jaQ--'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://giwiz-tpc.c.yimg.jp/q/iwiz-tpc/images/tpc/2019/02/24/1550963407_20190224-00000003-mai-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">勤労統計で組織的隠蔽認めず　室長個人に焦点　監察委が最終調整                    </dt>
+                    <dd><p class="source"><span>毎日新聞</span><span class="separate">2/24(日) 7:01</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190220-00000062-sasahi-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjIwLTAwMDAwMDYyLXNhc2FoaS1zb2Np'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggoTF7v62ScRWAD9AumMUWsQ---x264-y264-xc0-yc0-wc353-hc353-q90-exp3h-pril/amd/20190220-00000062-sasahi-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">元力士を殴り、死亡させた元世界チャンピオンの井岡の愛弟子のパンチ力と転落人生〈dot.〉                    </dt>
+                    <dd><p class="source"><span>AERA dot.</span><span class="separate">2/20(水) 14:15</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00000024-jij-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAwMDAyNC1qaWotc29jaQ--'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggM_1fyklu8cmNy3PBFSscHA---x264-y264-xc0-yc75-wc815-hc815-q90-exp3h-pril/amd/20190224-00000024-jij-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">ドナルド・キーン氏死去＝日本文学研究、96歳                    </dt>
+                    <dd><p class="source"><span>時事通信</span><span class="separate">2/24(日) 10:20</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+    <li class="listFeedWrap">
+        <div id="ad3"></div>
+        <script type="text/javascript">
+            yt.insertAd('ad3');
+        </script>
+    </li>
+<li class="listFeedWrap mov ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190223-00010009-houdoukvq-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMy0wMDAxMDAwOS1ob3Vkb3VrdnEtc29jaQ--'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggbbKmBjZ6druoEcOv2X2n4w---x264-y149-q90-exp3h-pril/amd/20190223-00010009-houdoukvq-000-thumb.jpg" alt=""><span class="pbTime" aria-hidden="true">0:23</span></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">いじめうかがわせる遺書　高3男子死亡 自殺か</dt>
+                    <dd><p class="source"><span>ホウドウキョク</span><span class="separate">2/23(土) 14:59</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+<div class="viewableWrap">
+    <div id="view-timeline15" class="setViewable">
+        <a data-ylk="rsec:v_hdltl;slk:stream;pos:15;"></a>
+    </div>
+</div>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190222-00027632-president-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjIyLTAwMDI3NjMyLXByZXNpZGVudC1zb2Np'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_sigg3epj4p3Yyevu7g8zjwEyMw---x264-y179-q90-exp3h-pril/amd/20190222-00027632-president-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">眞子さまの結婚問題に誰もが口を挟むワケ                    </dt>
+                    <dd><p class="source"><span>プレジデントオンライン</span><span class="separate">2/22(金) 9:15</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap listFeedWrap_large">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00000003-asahi-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAwMDAwMy1hc2FoaS1zb2Np'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://giwiz-tpc.c.yimg.jp/q/iwiz-tpc/images/tpc/2019/02/24/1550956963_20190224-00000003-asahi-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">心愛さん「帰りたくない」涙で訴え　父親が腹立て暴行か                    </dt>
+                    <dd><p class="source"><span>朝日新聞デジタル</span><span class="separate">2/24(日) 6:00</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190223-00027792-president-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjIzLTAwMDI3NzkyLXByZXNpZGVudC1wb2w-'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggy7uZycfdvnWi1YRGvpzK_w---x264-y207-q90-exp3h-pril/amd/20190223-00027792-president-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">やはり安倍首相はトランプ氏の「愛犬」だ                    </dt>
+                    <dd><p class="source"><span>プレジデントオンライン</span><span class="separate">2/23(土) 11:15</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190214-10000595-bunshuns-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjE0LTEwMDAwNTk1LWJ1bnNodW5zLXNvY2k-'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggZy6qjQ004LhKrRLQK8QFJQ---x186-y264-q90-exp3h-pril/amd/20190214-10000595-bunshuns-000-thumb.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">小室圭さん黒縁メガネで猛ダッシュ〈NY緊急報告 髪は伸び、装いを変え〉【全文公開】                        <span class="icPay">有料</span>
+                    </dt>
+                    <dd><p class="source"><span>文春オンライン</span><span class="separate">2/14(木) 11:00</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+    <li class="listFeedWrap">
+        <div id="ad4"></div>
+        <script type="text/javascript">
+            yt.insertAd('ad4');
+        </script>
+    </li>
+<li class="listFeedWrap mov ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190223-00010010-houdoukvq-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMy0wMDAxMDAxMC1ob3Vkb3VrdnEtc29jaQ--'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggcjZFyAI9fSRIfcxQ1pKnnA---x264-y149-q90-exp3h-pril/amd/20190223-00010010-houdoukvq-000-thumb.jpg" alt=""><span class="pbTime" aria-hidden="true">0:25</span></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">警察官 ひき逃げされ死亡　定年退職の直前...</dt>
+                    <dd><p class="source"><span>ホウドウキョク</span><span class="separate">2/23(土) 14:59</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+<div class="viewableWrap">
+    <div id="view-timeline20" class="setViewable">
+        <a data-ylk="rsec:v_hdltl;slk:stream;pos:20;"></a>
+    </div>
+</div>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190223-00000535-san-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMy0wMDAwMDUzNS1zYW4tcG9s'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggRFp8Y1FwFYHp8pW3eopHXg---x264-y264-xc0-yc82-wc286-hc286-q90-exp3h-pril/amd/20190223-00000535-san-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">自民・二階幹事長夫人を偲ぶ会　菅長官や王氏ら各界著名人が多数参列                    </dt>
+                    <dd><p class="source"><span>産経新聞</span><span class="separate">2/23(土) 17:13</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap listFeedWrap_large">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00000000-mai-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAwMDAwMC1tYWktc29jaQ--'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://giwiz-tpc.c.yimg.jp/q/iwiz-tpc/images/tpc/eternal/2017/11/10/1510287232_1488972559_767117507.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">小学校女性講師、指導に従わない4年生児童に「障害者か」と暴言                    </dt>
+                    <dd><p class="source"><span>毎日新聞</span><span class="separate">2/24(日) 0:38</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190224-00186487-hbolz-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjI0LTAwMTg2NDg3LWhib2x6LXNvY2k-'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_sigg4eMQCbbDfwrGE6mbN9j.HQ---x264-y264-xc107-yc0-wc426-hc426-q90-exp3h-pril/amd/20190224-00186487-hbolz-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">地元住民の間に漂う「腑に落ちない」感覚。石垣島陸自配備の奇々怪々＜菅野完＞                    </dt>
+                    <dd><p class="source"><span>HARBOR BUSINESS Online</span><span class="separate">2/24(日) 8:32</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00000011-asahi-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAwMDAxMS1hc2FoaS1zb2Np'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggemtiC3rt40H5IlMAV512Qw---x264-y264-xc0-yc20-wc402-hc402-q90-exp3h-pril/amd/20190224-00000011-asahi-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">日本文学研究者のドナルド・キーンさん死去　９６歳                    </dt>
+                    <dd><p class="source"><span>朝日新聞デジタル</span><span class="separate">2/24(日) 9:54</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+    <li class="listFeedWrap">
+        <div id="ad5"></div>
+        <script type="text/javascript">
+            yt.insertAd('ad5');
+        </script>
+    </li>
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190208-01081390-playboyz-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjA4LTAxMDgxMzkwLXBsYXlib3l6LXBvbA--'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggnpoYEl9TU_Ud73hUdvLPew---x264-y264-xc0-yc29-wc459-hc459-q90-exp3h-pril/amd/20190208-01081390-playboyz-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">外国人記者が斬る！ 多くの納税者が知らない「国際捕鯨委員会」脱退の政治的背景                    </dt>
+                    <dd><p class="source"><span>週プレNEWS</span><span class="separate">2/8(金) 10:00</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+<div class="viewableWrap">
+    <div id="view-timeline25" class="setViewable">
+        <a data-ylk="rsec:v_hdltl;slk:stream;pos:25;"></a>
+    </div>
+</div>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/article?a=20190218-00027716-president-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjE4LTAwMDI3NzE2LXByZXNpZGVudC1wb2w-'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggSlJ4nnqthKFHVVQCmbm.Og---x264-y264-xc424-yc0-wc895-hc895-q90-exp3h-pril/amd/20190218-00027716-president-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">"首相候補"石破氏の存在感が薄すぎるワケ                    </dt>
+                    <dd><p class="source"><span>プレジデントオンライン</span><span class="separate">2/18(月) 15:15</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap listFeedWrap_large">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190223-00000053-asahi-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMy0wMDAwMDA1My1hc2FoaS1wb2w-'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://giwiz-tpc.c.yimg.jp/q/iwiz-tpc/images/tpc/2019/02/23/1550926058_20190223-00000053-asahi-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">「官邸関与、メール出た。虚偽答弁だった可能性」玉木氏                    </dt>
+                    <dd><p class="source"><span>朝日新聞デジタル</span><span class="separate">2/23(土) 19:17</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190212-00000002-withnews-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIxMi0wMDAwMDAwMi13aXRobmV3cy1zb2Np'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_sigg9biOodefgAUumoMGl3Twzw---x264-y264-xc111-yc0-wc439-hc439-q90-exp3h-pril/amd/20190212-00000002-withnews-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">慶応出てトラックの運転手に……稼いだ金で通う「消えゆくムラ」　24歳が「遠い親戚」づくりに励む理由                    </dt>
+                    <dd><p class="source"><span>withnews</span><span class="separate">2/18(月) 7:00</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+<li class="listFeedWrap mov ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190223-00010008-houdoukvq-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMy0wMDAxMDAwOC1ob3Vkb3VrdnEtc29jaQ--'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggHoyxZRU0HU73ydruoWEUhQ---x264-y149-q90-exp3h-pril/amd/20190223-00010008-houdoukvq-000-thumb.jpg" alt=""><span class="pbTime" aria-hidden="true">0:33</span></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">就活アプリ会社が新たな指針　「OB訪問は会社内で」</dt>
+                    <dd><p class="source"><span>ホウドウキョク</span><span class="separate">2/23(土) 14:58</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+</li><!-- /.listFeedWrap-->
+    <li class="listFeedWrap">
+        <div id="ad6"></div>
+        <script type="text/javascript">
+            yt.insertAd('ad6');
+        </script>
+    </li>
+<li class="listFeedWrap ">
+    <a href="https://headlines.yahoo.co.jp/hl?a=20190217-00050137-yom-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIxNy0wMDA1MDEzNy15b20tcG9s'">
+        <div class="listFeedWrapBox">
+            <div class="thum"><img src="https://lpt.c.yimg.jp/im_siggMnbfioJMQ28RGAifqcszaw---x264-y264-xc0-yc0-wc344-hc344-q90-exp3h-pril/amd/20190217-00050137-yom-000-view.jpg" alt=""></div>
+            <div class="listFeedWrapCont">
+                <dl>
+                    <dt class="titl">小泉元首相が熱弁「なぜ政府は立ち上がらぬ」                    </dt>
+                    <dd><p class="source"><span>読売新聞</span><span class="separate">2/17(日) 12:43</span></p>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </a>
+<div class="viewableWrap">
+    <div id="view-timeline30" class="setViewable">
+        <a data-ylk="rsec:v_hdltl;slk:stream;pos:30;"></a>
+    </div>
+</div>
+</li><!-- /.listFeedWrap-->
+</ul>
+
+</div><!-- /#mainBox-->
+
+<script type="text/javascript" language="JavaScript">var msc_sqb_type = 'news_sqb_reserved';</script><!-- SpaceID=0 robot -->
+
+</div><!--/#main-->
+<!--main end-->
+
+<!--sub start-->
+<div id="sub">
+<div id="fixedArea">
+<script type="text/javascript" language="JavaScript">var msc_lrec_type = 'news_lrec_reserved';</script><!-- SpaceID=0 robot -->
+
+
+<!-- SpaceID=0 robot -->
+
+<script type="text/javascript" language="JavaScript">
+<!--
+yads_ad_ds = '30357_208277';
+yads_bucket_id = miffy_bucket_id;
+//-->
+</script>
+<div class="textCenter marB10">
+<script type="text/javascript" language="JavaScript" src="//yads.c.yimg.jp/js/yads.js"></script>
+</div>
+
+
+<div class="subListMod ranking">
+    <div class="hd">
+        <h3 class="ttl">
+            <a href="https://news.yahoo.co.jp/ranking/access?ty=t&c=dom" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/accr/article/headlines/more/RV=1/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3JhbmtpbmcvYWNjZXNzP3R5PXQmYz1kb20-'">
+                アクセスランキング
+                （国内）
+            </a>
+        </h3><!-- /.ttl -->
+    </div><!-- /.hd -->
+    <ol class="listModBox">
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00000003-asahi-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/accr/article/headlines/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAwMDAwMy1hc2FoaS1zb2Np'">
+                <span class="rankNum">1</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggLzRUcd3Jz3qayr3HpufKVg---x160-y200/amd/20190224-00000003-asahi-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            心愛さん「帰りたくない」涙で訴え　父親が腹立て暴行か                        </dt><!-- /.ttl -->
+                        <dd class="source">
+                            <span>朝日新聞デジタル</span>
+                            <time>2/24(日) 6:00</time>
+                        </dd><!-- /.source -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00000005-asahi-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/accr/article/headlines/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAwMDAwNS1hc2FoaS1zb2Np'">
+                <span class="rankNum">2</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggzLYlqG_.f8JzaQSJ_Sx2OA---x200-y134/amd/20190224-00000005-asahi-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            踏切内に女性…見ず知らずの高校生男女が連携、救うまで                        </dt><!-- /.ttl -->
+                        <dd class="source">
+                            <span>朝日新聞デジタル</span>
+                            <time>2/24(日) 6:37</time>
+                        </dd><!-- /.source -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190223-00010009-fnnprimev-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/accr/article/headlines/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMy0wMDAxMDAwOS1mbm5wcmltZXYtcG9s'">
+                <span class="rankNum">3</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_sigg1m15lkCELrgTq459LXgS0g---x200-y108/amd/20190223-00010009-fnnprimev-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            竹島問題「日本は賽の河原の石積み」 研究者が語った対韓国“今なすべきこと”                        </dt><!-- /.ttl -->
+                        <dd class="source">
+                            <span>FNN PRIME</span>
+                            <time>2/23(土) 18:30</time>
+                        </dd><!-- /.source -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190223-00000053-asahi-pol" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/accr/article/headlines/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMy0wMDAwMDA1My1hc2FoaS1wb2w-'">
+                <span class="rankNum">4</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggaIuSwMJF9MEJec6CJoibuA---x184-y200/amd/20190223-00000053-asahi-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            「官邸関与、メール出た。虚偽答弁だった可能性」玉木氏                        </dt><!-- /.ttl -->
+                        <dd class="source">
+                            <span>朝日新聞デジタル</span>
+                            <time>2/23(土) 19:17</time>
+                        </dd><!-- /.source -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00000001-yonnana-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/accr/article/headlines/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAwMDAwMS15b25uYW5hLXNvY2k-'">
+                <span class="rankNum">5</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggS9pOKusvljZWmUvxltNuAg---x200-y150/amd/20190224-00000001-yonnana-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            旧車ブームの陰、マツダの「試行錯誤」　レストア事業１年余でようやく３台目                        </dt><!-- /.ttl -->
+                        <dd class="source">
+                            <span>47NEWS</span>
+                            <time>2/24(日) 7:17</time>
+                        </dd><!-- /.source -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+    </ol><!-- /.rankingContents -->
+<script type="text/javascript" language="JavaScript">
+yads_ad_ds = '99604_135693';
+yads_parent_element = 'yads_ad_position_99604_135693';
+yads_bucket_id = miffy_bucket_id;
+</script>
+<script type="text/javascript" language="JavaScript" src="//yads.c.yimg.jp/js/yads.js"></script>
+<div id="yads_ad_position_99604_135693"></div>
+</div><!-- /.subListMod -->
+
+<!-- SpaceID=0 robot -->
+
+    <div id="ycd-module"></div>
+    <script type="text/javascript">
+        YAHOO.JP.Ycd.recommend.loader.showModule({
+            into: 'ycd-module',
+            dirName: 'yahoojp-p4-c3-dl',
+            mode: 'organic-thumbnails-pc-paidnews-ex',
+            placement: 'Below Article Thumbnails-rc-paidnews-ex',
+            container: 'taboola-below-article-thumbnails-rc-paidnews-ex',
+            rapid: {"sec":"ycd_spdl","slk":"title"},
+            sponsored_contents: true        });
+    </script>
+    <script type="text/javascript" language="JavaScript">
+<!--
+yads_ad_ds = '26744_15363';
+yads_bucket_id = miffy_bucket_id;
+//-->
+</script>
+<div class="textCenter marB10">
+<script type="text/javascript" language="JavaScript" src="//yads.c.yimg.jp/js/yads.js"></script>
+</div>
+
+
+<div class="subListMod ranking">
+    <div class="hd">
+        <h3 class="ttl">
+            動画アクセスランキング
+            （国内）
+        </h3><!-- /.ttl -->
+    </div><!-- /.hd -->
+    <ol class="listModBox">
+        <li class="listModBoxWrap mov">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190222-00010016-houdoukvq-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMi0wMDAxMDAxNi1ob3Vkb3VrdnEtc29jaQ--'">
+                <span class="rankNum">1</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggynvY7jUWdafqiufCKm3e9w---x200-y113/amd/20190222-00010016-houdoukvq-000-thumb.jpg" alt="">
+                        <span class="pbTime" aria-hidden="true">0:36</span>
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            “合体フィギュア”販売で49歳男を逮捕　約3900万円荒稼ぎか                        </dt><!-- /.ttl -->
+                        <dd class="source">
+                            <span>ホウドウキョク</span>
+                            <time>2/22(金) 17:11</time>
+                        </dd><!-- /.source -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap mov">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00026723-mbsnewsv-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAyNjcyMy1tYnNuZXdzdi1zb2Np'">
+                <span class="rankNum">2</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggHMJnmsw5K6UyjjWB82Hffw---x200-y113/amd/20190224-00026723-mbsnewsv-000-thumb.jpg" alt="">
+                        <span class="pbTime" aria-hidden="true">0:42</span>
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            淡路島　道の駅の駐車場で車両転落                        </dt><!-- /.ttl -->
+                        <dd class="source">
+                            <span>MBSニュース</span>
+                            <time>2/24(日) 0:44</time>
+                        </dd><!-- /.source -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap mov">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190219-00010008-houdoukvq-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIxOS0wMDAxMDAwOC1ob3Vkb3VrdnEtc29jaQ--'">
+                <span class="rankNum">3</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggBVjbTyFyezACbxXTYcfahA---x200-y113/amd/20190219-00010008-houdoukvq-000-thumb.jpg" alt="">
+                        <span class="pbTime" aria-hidden="true">0:26</span>
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            収納袋投げつけられ中学生重傷　“指導中”のサッカー監督を逮捕                        </dt><!-- /.ttl -->
+                        <dd class="source">
+                            <span>ホウドウキョク</span>
+                            <time>2/19(火) 15:35</time>
+                        </dd><!-- /.source -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap mov">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190223-00010010-houdoukvq-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMy0wMDAxMDAxMC1ob3Vkb3VrdnEtc29jaQ--'">
+                <span class="rankNum">4</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggS_VuX52wiYLj1nyg_lC25w---x200-y113/amd/20190223-00010010-houdoukvq-000-thumb.jpg" alt="">
+                        <span class="pbTime" aria-hidden="true">0:25</span>
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            警察官 ひき逃げされ死亡　定年退職の直前...                        </dt><!-- /.ttl -->
+                        <dd class="source">
+                            <span>ホウドウキョク</span>
+                            <time>2/23(土) 14:59</time>
+                        </dd><!-- /.source -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap mov">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190224-00010000-houdoukvq-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyNC0wMDAxMDAwMC1ob3Vkb3VrdnEtc29jaQ--'">
+                <span class="rankNum">5</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggCmd6M83XIz9c3imCsGPUWQ---x200-y113/amd/20190224-00010000-houdoukvq-000-thumb.jpg" alt="">
+                        <span class="pbTime" aria-hidden="true">0:11</span>
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            『10秒でふりかえる10年前』【ユニフォームを大量に盗んでいた大学生を逮捕(2009年2月24日)】                        </dt><!-- /.ttl -->
+                        <dd class="source">
+                            <span>ホウドウキョク</span>
+                            <time>2/24(日) 6:01</time>
+                        </dd><!-- /.source -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+    </ol><!-- /.listModBox -->
+
+<script type="text/javascript" language="JavaScript">
+yads_ad_ds = '91302_196830';
+yads_bucket_id = miffy_bucket_id;
+</script>
+<script type="text/javascript" language="JavaScript" src="//yads.c.yimg.jp/js/yads.js"></script>
+
+</div><!-- /.subListMod -->
+<div class="subListMod">
+    <div class="hd">
+        <h3 class="ttl">あわせて読みたい</h3>
+    </div><!-- /.hd -->
+    <ul class="listModBox">
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190215-00000031-kyodonews-soci&pos=1" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/affinity/pc/article/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIxNS0wMDAwMDAzMS1reW9kb25ld3Mtc29jaSZwb3M9MQ--'">
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggDvoN1lgHEy3qZ4huoEoNZQ---x160-y136-q90-exp3h-pril/amd/20190215-00000031-kyodonews-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+ケフィア関連会社を捜索、警視庁　かぶちゃん農園、出資法違反容疑                        </dt>
+                        <dd class="source">
+                            <span>共同通信</span>
+                            <span>2/15(金) 8:48</span>
+                        </dd><!-- /.sourse -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190215-00000037-kyodonews-soci&pos=2" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/affinity/pc/article/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIxNS0wMDAwMDAzNy1reW9kb25ld3Mtc29jaSZwb3M9Mg--'">
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_sigg.NIJy2p9UI_s1oqpJmUsUQ---x98-y160-q90-exp3h-pril/amd/20190215-00000037-kyodonews-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+医療保険、国内居住者に限定　外国人労働者増に対応、閣議決定                        </dt>
+                        <dd class="source">
+                            <span>共同通信</span>
+                            <span>2/15(金) 9:07</span>
+                        </dd><!-- /.sourse -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190221-00000016-mai-pol&pos=3" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/affinity/pc/article/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIyMS0wMDAwMDAxNi1tYWktcG9sJnBvcz0z'">
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggy1KDBdkfbSNscXNxvZrRig---x160-y104-q90-exp3h-pril/amd/20190221-00000016-mai-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+桜田五輪担当相が衆院予算委に遅刻　質疑中断                        </dt>
+                        <dd class="source">
+                            <span>毎日新聞</span>
+                            <span>2/21(木) 11:06</span>
+                        </dd><!-- /.sourse -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190208-00000058-reut-bus_all&pos=4" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/affinity/pc/article/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIwOC0wMDAwMDA1OC1yZXV0LWJ1c19hbGwmcG9zPTQ-'">
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggs9EttgoDmC1doopWbLNDgA---x160-y107-q90-exp3h-pril/amd/20190208-00000058-reut-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+独政府、ファーウェイを5Ｇ網構築から除外しない意向＝独紙                        </dt>
+                        <dd class="source">
+                            <span>ロイター</span>
+                            <span>2/8(金) 11:30</span>
+                        </dd><!-- /.sourse -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/hl?a=20190215-00000084-kyodonews-bus_all&pos=5" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/affinity/pc/article/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvaGw_YT0yMDE5MDIxNS0wMDAwMDA4NC1reW9kb25ld3MtYnVzX2FsbCZwb3M9NQ--'">
+                <div class="listModBoxBody">
+                    <dl>
+                        <dt class="ttl">
+「ココイチ」がカレー値上げ                        </dt>
+                        <dd class="source">
+                            <span>共同通信</span>
+                            <span>2/15(金) 11:57</span>
+                        </dd><!-- /.sourse -->
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+    </ul><!-- /.listModBox -->
+<script type="text/javascript" language="JavaScript">
+yads_ad_ds = '37849_42562';
+yads_bucket_id = miffy_bucket_id;
+</script>
+<script type="text/javascript" language="JavaScript" src="//yads.c.yimg.jp/js/yads.js"></script>
+
+</div><!-- /.subListMod -->
+
+<!-- SpaceID=0 robot -->
+<!-- SpaceID=0 robot -->
+
+
+<!-- SpaceID=0 robot -->
+
+
+<div class="subListMod ranking">
+    <div class="hd">
+        <h3 class="ttl">
+            <a href="https://news.yahoo.co.jp/ranking/access?ty=z&c=dom" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/zasshi/news/m/accr/a/more/RV=1/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3JhbmtpbmcvYWNjZXNzP3R5PXomYz1kb20-'">
+                雑誌アクセスランキング
+                （国内）
+            </a>
+        </h3><!-- /.ttl -->
+    </div><!-- /.hd -->
+    <ol class="listModBox">
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/article?a=20190224-00186568-hbolz-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/zasshi/news/m/accr/a/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjI0LTAwMTg2NTY4LWhib2x6LXNvY2k-'">
+                <span class="rankNum">1</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_sigg1RrP3wLLWNW.je7BJE7KeA---x200-y134/amd/20190224-00186568-hbolz-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            なぜ、トラックはエンジンを切らずに休憩していることが多いのか？                        </dt>
+                        <dd class="source">
+                            <span>HARBOR BUSINESS Online</span>
+                            <time>2/24(日) 8:31</time>
+                        </dd>
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/article?a=20190224-00034289-otonans-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/zasshi/news/m/accr/a/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjI0LTAwMDM0Mjg5LW90b25hbnMtc29jaQ--'">
+                <span class="rankNum">2</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_sigg4JXUMI_CNmof9QttPOcCOQ---x200-y134/amd/20190224-00034289-otonans-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            妻と不倫相手の子を“自分の子”として育てることにした、36歳男性の決断（下）                        </dt>
+                        <dd class="source">
+                            <span>オトナンサー</span>
+                            <time>2/24(日) 6:40</time>
+                        </dd>
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/article?a=20190224-00267405-toyo-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/zasshi/news/m/accr/a/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjI0LTAwMjY3NDA1LXRveW8tc29jaQ--'">
+                <span class="rankNum">3</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_sigg0AfG0Qp_Uo7f0L.FHLRBYQ---x200-y113/amd/20190224-00267405-toyo-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            広島カープの「キャンプ戦略」は何が違うのか                        </dt>
+                        <dd class="source">
+                            <span>東洋経済オンライン</span>
+                            <time>2/24(日) 5:50</time>
+                        </dd>
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/article?a=20190224-00266488-toyo-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/zasshi/news/m/accr/a/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjI0LTAwMjY2NDg4LXRveW8tc29jaQ--'">
+                <span class="rankNum">4</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggvV6Znj82WCTd7G1h6pEfpw---x200-y113/amd/20190224-00266488-toyo-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            「結婚話を避ける恋人」はリスクでしかない                        </dt>
+                        <dd class="source">
+                            <span>東洋経済オンライン</span>
+                            <time>2/24(日) 5:10</time>
+                        </dd>
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+        <li class="listModBoxWrap">
+            <a href="https://headlines.yahoo.co.jp/article?a=20190224-00194972-diamond-soci" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/zasshi/news/m/accr/a/RV=1/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvYXJ0aWNsZT9hPTIwMTkwMjI0LTAwMTk0OTcyLWRpYW1vbmQtc29jaQ--'">
+                <span class="rankNum">5</span>
+                <div class="listModBoxBody">
+                    <div class="thum">
+                        <img src="https://lpt.c.yimg.jp/im_siggQJM1A0E7q26K12RfkD9gow---x200-y112/amd/20190224-00194972-diamond-000-view.jpg" alt="">
+                    </div><!-- /.thum -->
+                    <dl>
+                        <dt class="ttl">
+                            片づけ上手な人を真似してなぜ失敗？自分に合う収納術の見つけ方                        </dt>
+                        <dd class="source">
+                            <span>ダイヤモンド・オンライン</span>
+                            <time>2/24(日) 6:00</time>
+                        </dd>
+                    </dl>
+                </div><!-- /.listModBoxBody -->
+            </a>
+        </li><!-- /.listModBoxWrap -->
+    </ol><!-- /.rankingContents -->
+</div><!-- /.subListMod -->
+<div id="taboola-below-article-thumbnails-rc-paidnews-m2c"></div>
+<script type="text/javascript">
+ YAHOO.JP.Ycd.recommend.loader.showModule({
+    dirName: 'yahoojp-newspaidcontent',
+    mode: 'organic-thumbnails-pc-paidnews-rc',
+    placement: 'Below Article Thumbnails-rc-paidnews-m2c',
+    container: 'taboola-below-article-thumbnails-rc-paidnews-m2c',
+    rapid: {"sec":"ycd_spm2c","slk":"title"}});
+</script>
+<script type="text/javascript" language="JavaScript">
+yads_ad_ds = '57876_31261';
+yads_bucket_id = miffy_bucket_id;
+</script>
+<div class="textCenter marB10">
+<script type="text/javascript" language="JavaScript" src="//yads.c.yimg.jp/js/yads.js"></script>
+</div>
+
+<!--subMod start-->
+<div class="subMod">
+    <p><a class="goTopSide btnView" id="pageTopButton" href="#"><span>ページ上部に戻る</span></a></p>
+</div><!--/.subMod-->
+<!--subMod end-->
+
+<script type="text/javascript">
+// ページ上部へスクロール
+$('#pageTopButton').on('click', function() {
+    $('html,body').animate({ scrollTop: 0 }, 'normal', 'swing');
+});
+</script>
+</div><!--/#fixedArea-->
+</div><!--/#sub-->
+<!--sub end-->
+
+</div><!--/#contentsBody-->
+
+<div id="contentsFooter">
+<span class="yj-guid"><img src="https://s.yimg.jp/images/clear.gif" width="1" height="1" alt="本文はここまでです"></span>
+<span class="yj-skip">
+<a href="#pagetop"><img src="https://s.yimg.jp/images/clear.gif" alt="このページの先頭へ" width="1" height="1"></a></span>
+
+<!-- SpaceID=0 robot -->
+
+<div id="cfInner">
+<div class="cfNavColumn">
+<ul>
+<li><a href="https://news.yahoo.co.jp/promo/app/yjnews/" onmousedown="this.href='https://rdsig.yahoo.co.jp/media/news/app/promo/pc_news/bigfooter/RV=1/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3Byb21vL2FwcC95am5ld3Mv'" rel="nofollow">
+<div class="iconAPP"><span>アプリ</span></div>
+<p><em>アプリ</em><span>データ先読みで、電車でもサクサク</span></p>
+</a></li>
+<li><a href="https://www.facebook.com/yjnews" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3lqbmV3cw--/RS=^ADApcBtZV3zCIIOEWcVmZ_CDEfi4LU-'" rel="nofollow">
+<div class="iconFB"><span>Facebook</span></div>
+<p><em>Facebook</em><span>編集部による厳選記事を毎日配信</span></p>
+</a></li>
+<li><a href="https://twitter.com/YahooNewsTopics" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly90d2l0dGVyLmNvbS9ZYWhvb05ld3NUb3BpY3M-/RS=^ADADF3.ZvWVi5x_7vMhBbzssYcO9qs-'" rel="nofollow">
+<div class="iconTW"><span>Twitter</span></div>
+<p><em>Twitter</em><span>リアルタイムでニュースを配信</span></p>
+</a></li>
+<li><a href="https://news.yahoo.co.jp/newshack/" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL25ld3NoYWNrLw--/RS=^ADAWVg0kjvFeP0McdHdUcrgP_W8w_Y-'">
+<div class="iconSB"><span>news HACK</span></div>
+<p><em>news HACK</em><span>Yahoo!ニュースのオウンドメディア</span></p>
+</a></li>
+</ul>
+</div><!-- /.cfNavColumn -->
+<div class="cfNavList">
+<ul>
+<li><a href="https://news.yahoo.co.jp" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpw/RS=^ADALN5R_9VI6SUArBmh7GmfN6SQN7Y-'">トップ</a></li>
+<li><a href="https://news.yahoo.co.jp/flash" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2ZsYXNo/RS=^ADAPzpaa3wdbwDzkhVn_scs1cu8wCQ-'">速報</a></li>
+<li><a href="https://news.yahoo.co.jp/photo" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3Bob3Rv/RS=^ADAvRo8f4Gr7Zanp5rIYrVHd6I1W2Y-'">写真</a></li>
+<li><a href="https://headlines.yahoo.co.jp/videonews/" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvdmlkZW9uZXdzLw--/RS=^ADA14ACQCdaNC2.dW20R9aZZVKDLu8-'">映像</a></li>
+<li><a href="https://news.yahoo.co.jp/zasshi" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3phc3NoaQ--/RS=^ADAudvUZhUow0L4ickiOecO2VJ1Wxg-'">雑誌</a></li>
+<li><a href="https://news.yahoo.co.jp/byline/" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2J5bGluZS8-/RS=^ADAgYqr_4jDrMEi8XGxvWU.d400PdI-'">個人</a></li>
+<li><a href="https://news.yahoo.co.jp/feature" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2ZlYXR1cmU-/RS=^ADAxO3EXaZEbM6YN_vCoD2Xg.i8U.s-'">特集</a></li>
+<li><a href="https://news.yahoo.co.jp/polls/" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3BvbGxzLw--/RS=^ADAgjU02ytr6B0gRabMBdJvJGTN.cE-'">意識調査</a></li>
+<li><a href="https://news.yahoo.co.jp/ranking" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3Jhbmtpbmc-/RS=^ADAnA.fFKoYwzRcsEI1mVz4vfLO4EU-'">ランキング</a></li>
+<li class="last"><a href="https://news.yahoo.co.jp/paidnews" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL3BhaWRuZXdz/RS=^ADABxGyivw7D0_Q7iulnl7z5zX1VDg-'">有料</a></li>
+</ul>
+</div><!-- /.cfNavList -->
+<div class="cfSubNavList">
+<dl class="subNavL">
+<dt>ニュースカテゴリ：</dt>
+<dd><a href="https://news.yahoo.co.jp/hl?c=dom" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2hsP2M9ZG9t/RS=^ADArXfcRHUlSKI5VlKcVU0SezmP50U-'">国内</a></dd>
+<dd><a href="https://news.yahoo.co.jp/hl?c=c_int" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2hsP2M9Y19pbnQ-/RS=^ADA23G660j7wFul8raJWKieXONe34M-'">国際</a></dd>
+<dd><a href="https://news.yahoo.co.jp/hl?c=bus" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2hsP2M9YnVz/RS=^ADAcJ.S5xzjTbLBoLZfvwCegRyFOzI-'">経済</a></dd>
+<dd><a href="https://news.yahoo.co.jp/hl?c=c_ent" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2hsP2M9Y19lbnQ-/RS=^ADAKVyZ8eGNq8LexsPY1ysRt5tUBgU-'">エンタメ</a></dd>
+<dd><a href="https://news.yahoo.co.jp/hl?c=c_spo" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2hsP2M9Y19zcG8-/RS=^ADA7z9iYs7MqgDTyuAasAYaOrWb84s-'">スポーツ</a></dd>
+<dd><a href="https://news.yahoo.co.jp/hl?c=c_sci" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2hsP2M9Y19zY2k-/RS=^ADAnf6URZf7d0iDK3KO7catcm0ftRg-'">IT・科学</a></dd>
+<dd><a href="https://news.yahoo.co.jp/hl?c=c_life" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2hsP2M9Y19saWZl/RS=^ADA2xNKQwGe21gYdzt3yXFOQfY7FmU-'">ライフ</a></dd>
+<dd><a href="https://news.yahoo.co.jp/hl?c=loc" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9uZXdzLnlhaG9vLmNvLmpwL2hsP2M9bG9j/RS=^ADA4e2NPZPskoc217EJiTwWDZsgfRw-'">地域</a></dd>
+</dl>
+<dl class="subNavR">
+<dt>その他：</dt>
+<dd><a href="https://headlines.yahoo.co.jp/rss/list" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvcnNzL2xpc3Q-/RS=^ADAwAaGx9Nk_G5imfcJ0c2Hy4UqCt0-'">RSS</a></dd>
+<dd><a href="https://headlines.yahoo.co.jp/docs/copyright.html" onmousedown="this.href='https://rdsig.yahoo.co.jp/RV=1/RE=1552187363/RH=cmRzaWcueWFob28uY28uanA-/RB=/RU=aHR0cHM6Ly9oZWFkbGluZXMueWFob28uY28uanAvZG9jcy9jb3B5cmlnaHQuaHRtbA--/RS=^ADA8gPZ6gFW69_16_FCinog8Ycc9ZA-'">ニュース提供社</a></dd>
+</dl>
+</div><!-- /.cfSubNavList -->
+</div><!-- /#cfWrap -->
+
+</div><!--/#contentsFooter-->
+
+</div><!--/#contents-->
+<!--contents end-->
+
+<!--<hr class="separation">-->
+
+<!--footer start-->
+<div id="footer">
+
+    <address>
+        <a href="https://privacy.yahoo.co.jp/" rel="nofollow">プライバシー</a> - <a href="https://about.yahoo.co.jp/docs/info/terms/" rel="nofollow">利用規約</a> - <a href="https://about.yahoo.co.jp/info/mediastatement/" rel="nofollow">メディアステートメント</a> -
+        <a href="https://headlines.yahoo.co.jp/docs/copyright.html" rel="nofollow">著作権</a>  - 
+        <a href="https://headlines.yahoo.co.jp/docs/tokuteisho.html" rel="nofollow">特定商取引法の表示</a> - <a href="https://rdsig.yahoo.co.jp/media/news/footer/feedback/RV=1/RU=aHR0cHM6Ly9mZWVkYmFjay5tcy55YWhvby5jby5qcC92b2MvbmV3cy12b2MvaW5wdXQ-" rel="nofollow">ご意見・ご要望</a> - <a href="https://www.yahoo-help.jp/app/home/p/575/" rel="nofollow">ヘルプ・お問い合わせ</a>
+        <br>
+Copyright (C) 2019 時事通信社 無断転載を禁じます。 <br>
+        Copyright (C) 2019 Yahoo Japan Corporation. All Rights Reserved.
+    </address>
+</div><!--/#footer-->
+<!--footer end-->
+<!-- SpaceID=0 robot -->
+</div><!-- /#main_cnt_wrapper-->
+
+</div><!--/#wrapper-->
+<div id="fb-root"></div>
+<script type="text/javascript" src="https://s.yimg.jp/images/security/pf/pcore-1.0.2.min.js"></script>
+<script type="text/javascript" src="https://s.yimg.jp/lib/news/common_1_3-min.js"></script>
+
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script type="text/javascript" language="javascript" src="https://s.yimg.jp/lib/news/top/common_pc-1.0.0.min.js"></script>
+<script type="text/javascript" language="javascript">
+<!--
+$(function() {
+    // グロナビ
+    YAHOO.JP.News.globalNav.init();
+});
+//-->
+</script>
+<script>
+YAHOO = window.YAHOO || {};
+YAHOO.JP = YAHOO.JP || {};
+YAHOO.JP.srch = YAHOO.JP.srch || {};
+YAHOO.JP.srch.popSearchSetting = {
+    service_code: 'nws',
+    space_id: '2078709492'
+};
+s = document.createElement('script');
+s.src = 'https://s.yimg.jp/images/search/slink/popup/pc/1.0.0/js/popsearch.min.js?' + Math.floor(new Date().getTime() / (10 * 60 * 1000));
+s.charset = 'UTF-8';
+document.body.appendChild(s);
+void(0);
+</script>
+<script>
+(function(){
+  var userAction = YAHOO.i13n.JP.UserAction();
+  userAction
+    .addModules(["ym_newsarticle"])
+    .addPageParam({
+      opttype: 'pc',
+      service: 'news',
+      apptype: 'web',
+      idtype: 'shannon'
+    })
+    .enableAutoOffset()
+    .start();
+})();
+</script>
+<script src="https://s.yimg.jp/images/search/slink/direct/pc/1.0.0/js/directlink.min.js" charset="utf-8"></script>
+<script type="text/javascript">
+YAHOO.JP.srch.dlink.onLoad(function(sl) {
+    sl.setParams({"serviceCode":"nws","appID":"dj0zaiZpPWlzQ3RiOHo1cGxBNSZzPWNvbnN1bWVyc2VjcmV0Jng9ODQ-","articleID":"20190215-00000024-jij","category":"dom","mediaID":"jij","spaceID":2078709492,"linkCount":"5","launchAfterDocLoad":false});
+});
+</script>
+<script id="tagjs" type="text/javascript">
+(function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=8P8rc6G";
+    s.parentNode.insertBefore(tagjs, s);
+}());
+</script>
+<noscript>
+    <iframe src="//b.yjtag.jp/iframe?c=8P8rc6G" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+</body>
+</html>

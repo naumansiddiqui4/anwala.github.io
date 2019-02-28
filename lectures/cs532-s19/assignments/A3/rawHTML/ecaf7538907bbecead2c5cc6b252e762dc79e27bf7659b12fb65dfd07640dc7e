@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html>
+<html class="pl"
+  lang="en"
+  dir="ltr" version="HTML+RDFa+MathML 1.1"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:mml="http://www.w3.org/1998/Math/MathML">
+  <head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book#">
+    <link type="text/css" rel="stylesheet" href="//science.sciencemag.org/sites/default/files/advagg_css/css__F4-OCWbNhE6xeJ7aSfPhPCmzR85_Y1I0voq8bwkMa20__AGjbX_eMpFNwlyrWItXEl7YLvUfb4KfgjYbIQJW8sSw__bX1PuAbjEiP8xpBaG7xlVckmV_dD9U3XsMJF21tMakE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//science.sciencemag.org/sites/all/modules/highwire/highwire/highwire.style.highwire.css?pmw703" media="all" />
+<link type="text/css" rel="stylesheet" href="//science.sciencemag.org/sites/default/files/advagg_css/css__KPgiwEdjo5O9HdRryHqQs1TpsV-PeBb9B7sGBvwM9FQ__opzZWgPNgQzoEgfATRS5qCKwBw_6XcNjDHoDVOzQv8M__bX1PuAbjEiP8xpBaG7xlVckmV_dD9U3XsMJF21tMakE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//science.sciencemag.org/sites/default/files/advagg_css/css__0noWCZfafe9G2x2aueLIWi5NDKV336pysYDBYIgssCM__CtlVYFpZNSyfOISXi1YtIsPiS8M55sf_dWTd2-CBAVQ__bX1PuAbjEiP8xpBaG7xlVckmV_dD9U3XsMJF21tMakE.css" media="all" />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+.panels-flexible-region{padding:0}.panels-flexible-region-inside{padding-right:.5em;padding-left:.5em}.panels-flexible-region-inside-first{padding-left:0}.panels-flexible-region-inside-last{padding-right:0}.panels-flexible-column{padding:0}.panels-flexible-column-inside{padding-right:.5em;padding-left:.5em}.panels-flexible-column-inside-first{padding-left:0}.panels-flexible-column-inside-last{padding-right:0}.panels-flexible-row{padding:0 0 .5em 0;margin:0}.panels-flexible-row-last{padding-bottom:0}.panels-flexible-column-new-main{float:left;width:99.0000%}.panels-flexible-new-inside{padding-right:0}.panels-flexible-new{width:auto}.panels-flexible-region-new-center{float:left;width:99.0000%}.panels-flexible-row-new-main-row-inside{padding-right:0}
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="//science.sciencemag.org/sites/default/files/advagg_css/css__0I9AOSaW4eHOR7a2-6zwSXubBIFmWvf1_FEzImFWox0__a1YSGtVcYyqCbaP5IlambPrgZhdGKw11WJ3vYFDqIw4__bX1PuAbjEiP8xpBaG7xlVckmV_dD9U3XsMJF21tMakE.css" media="all" />
+<style type="text/css" media="all">
+/* <![CDATA[ */
+.panels-flexible-region{padding:0}.panels-flexible-region-inside{padding-right:.5em;padding-left:.5em}.panels-flexible-region-inside-first{padding-left:0}.panels-flexible-region-inside-last{padding-right:0}.panels-flexible-column{padding:0}.panels-flexible-column-inside{padding-right:.5em;padding-left:.5em}.panels-flexible-column-inside-first{padding-left:0}.panels-flexible-column-inside-last{padding-right:0}.panels-flexible-row{padding:0 0 .5em 0;margin:0}.panels-flexible-row-last{padding-bottom:0}.panels-flexible-column-new-main{float:left;width:99.0000%}.panels-flexible-new-inside{padding-right:0}.panels-flexible-new{width:auto}.panels-flexible-region-new-center{float:left;width:99.0000%}.panels-flexible-row-new-main-row-inside{padding-right:0}
+/* ]]> */
+</style>
+<link type="text/css" rel="stylesheet" href="//science.sciencemag.org/sites/default/files/advagg_css/css__8eVsfcKA8uMjN8U2VYrF8_zEGHTtLpILvLWMgopmBFg__9_6JWt1ussoSKXDgB9dfhBZuMiQLP7OxnrKa-nEKPQ0__bX1PuAbjEiP8xpBaG7xlVckmV_dD9U3XsMJF21tMakE.css" media="all" />
+    <title>Dietary modulation of T cell immunity | Science</title>
+    <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="dns-prefetch" href="//scholar.google.com" />
+<link rel="dns-prefetch" href="//stats.g.doubleclick.net" />
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com" />
+<link rel="dns-prefetch" href="//www.google-analytics.com" />
+<meta name="issue_cover_image" content="http://science.sciencemag.org/sites/default/files/highwire/sci/363/6428.cover-source.gif" />
+<meta name="type" content="article" />
+<meta name="category" content="in-brief" />
+<meta name="HW.identifier" content="/sci/363/6428/703.21.atom" />
+<meta name="HW.pisa" content="sci;363/6428/703-u" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Language" content="en" />
+<meta name="DC.Title" content="Dietary modulation of T cell immunity" />
+<meta name="DC.Identifier" content="10.1126/science.363.6428.703-u" />
+<meta name="DC.Date" content="2019-02-15" />
+<meta name="DC.Publisher" content="American Association for the Advancement of Science" />
+<meta name="DC.Rights" content="Copyright © 2019 The Authors, some rights reserved; exclusive licensee American Association for the Advancement of Science. No claim to original U.S. Government Works" />
+<meta name="DC.AccessRights" content="restricted" />
+<meta name="DC.Description" content="Mucosal Immunology
+Commensal intestinal bacteria respond to dietary changes by modifying gene expression, leading to shifts in the amounts of bacterial antigens encountered by the intestinal immune system. Wegorzewska et al. developed a mouse model system to investigate whether CD4+ T cell recognition of antigens of the gut symbiont Bacteroides thetaiotaomicron is subject to dietary modulation. T cell receptor–transgenic T cells that recognized a bacterial outer-membrane vesicle protein differentiated into both regulatory and effector T cells, and colitis emerged after selective depletion of the regulatory T cells. Dietary glucose strongly repressed the T cell–detected antigen. Thus, dietary modifications that reduce bacterial expression of immunodominant antigens targeted by T cells could ameliorate some forms of human inflammatory bowel disease.
+
+Sci. Immunol. 4 , eaau9079 (2019)." />
+<meta name="DC.Contributor" content="Stella Hurtley" />
+<meta name="DC.Contributor" content="Ifor Williams" />
+<meta name="og:title" property="og:title" content="Dietary modulation of T cell immunity" />
+<meta name="og:url" property="og:url" content="http://science.sciencemag.org/content/363/6428/703.21" />
+<meta name="og:site_name" property="og:site_name" content="Science" />
+<meta name="og:image" content="http://science.sciencemag.org/content/363/6428/F1.medium.gif" />
+<meta name="og:description" property="og:description" content="Mucosal Immunology
+Commensal intestinal bacteria respond to dietary changes by modifying gene expression, leading to shifts in the amounts of bacterial antigens encountered by the intestinal immune system. Wegorzewska et al. developed a mouse model system to investigate whether CD4+ T cell recognition of antigens of the gut symbiont Bacteroides thetaiotaomicron is subject to dietary modulation. T cell receptor–transgenic T cells that recognized a bacterial outer-membrane vesicle protein differentiated into both regulatory and effector T cells, and colitis emerged after selective depletion of the regulatory T cells. Dietary glucose strongly repressed the T cell–detected antigen. Thus, dietary modifications that reduce bacterial expression of immunodominant antigens targeted by T cells could ameliorate some forms of human inflammatory bowel disease.
+
+Sci. Immunol. 4 , eaau9079 (2019)." />
+<meta name="og:type" property="og:type" content="article" />
+<meta name="article:published_time" content="2019-02-15" />
+<meta name="citation_title" content="Dietary modulation of T cell immunity" />
+<meta name="citation_journal_title" content="Science" />
+<meta name="citation_publisher" content="American Association for the Advancement of Science" />
+<meta name="citation_publication_date" content="2019/02/15" />
+<meta name="citation_mjid" content="sci;363/6428/703-u" />
+<meta name="citation_id" content="363/6428/703-u" />
+<meta name="citation_public_url" content="http://science.sciencemag.org/content/363/6428/703.21" />
+<meta name="citation_abstract_html_url" content="http://science.sciencemag.org/content/363/6428/703.21.abstract" />
+<meta name="citation_full_html_url" content="http://science.sciencemag.org/content/363/6428/703.21.full" />
+<meta name="citation_pdf_url" content="http://science.sciencemag.org/content/sci/363/6428/703.21.full.pdf" />
+<meta name="citation_issn" content="0036-8075" />
+<meta name="citation_issn" content="1095-9203" />
+<meta name="citation_doi" content="10.1126/science.363.6428.703-u" />
+<meta name="citation_volume" content="363" />
+<meta name="citation_issue" content="6428" />
+<meta name="citation_article_type" content="In Brief" />
+<meta name="citation_firstpage" content="703" />
+<meta name="citation_lastpage" content="705" />
+<meta name="citation_author" content="Ifor Williams" />
+<meta name="citation_editor" content="Stella Hurtley" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://science.sciencemag.org/content/363/6428/703.21.full" />
+<link rel="alternate" type="application/pdf" title="Full Text (PDF)" href="/content/363/6428/703.21.full.pdf" />
+<link rel="alternate" type="text/plain" title="Full Text (Plain)" href="/content/363/6428/703.21.full.txt" />
+<link rel="shortcut icon" href="http://science.sciencemag.org/sites/all/themes/shared/science_jcore/favicon.ico" type="image/vnd.microsoft.icon" />
+    <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cleartype" content="on">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <script src="/sites/all/themes/shared/science_jcore/js/modernizr.js?version=3.3.1"></script>
+    <script type="text/javascript" src="//assets.adobedtm.com/926659a1689cc9fca96760b67cca714ae48f0584/satelliteLib-a9d46808a35b7b8034adfab1d8207407222304d5.js"></script>
+    <link rel="preload" href="/sites/all/themes/shared/science_jcore/library/css/style-jcore.css?pmw703" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700,700i|Roboto:400,400i,700&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" as="style" onload="this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet" href="/sites/all/themes/shared/science_jcore/library/css/style-jcore.css?pmw703">
+      <link rel="preload" href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700,700i|Roboto:400,400i,700&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese">
+    </noscript>
+    <script>
+      /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+      !function(a){"use strict";var b=function(b,c,d){function e(a){return h.body?a():void setTimeout(function(){e(a)})}function f(){i.addEventListener&&i.removeEventListener("load",f),i.media=d||"all"}var g,h=a.document,i=h.createElement("link");if(c)g=c;else{var j=(h.body||h.getElementsByTagName("head")[0]).childNodes;g=j[j.length-1]}var k=h.styleSheets;i.rel="stylesheet",i.href=b,i.media="only x",e(function(){g.parentNode.insertBefore(i,c?g:g.nextSibling)});var l=function(a){for(var b=i.href,c=k.length;c--;)if(k[c].href===b)return a();setTimeout(function(){l(a)})};return i.addEventListener&&i.addEventListener("load",f),i.onloadcssdefined=l,l(f),i};"undefined"!=typeof exports?exports.loadCSS=b:a.loadCSS=b}("undefined"!=typeof global?global:this);
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+!function(a){if(a.loadCSS){var b=loadCSS.relpreload={};if(b.support=function(){try{return a.document.createElement("link").relList.supports("preload")}catch(b){return!1}},b.poly=function(){for(var b=a.document.getElementsByTagName("link"),c=0;c<b.length;c++){var d=b[c];"preload"===d.rel&&"style"===d.getAttribute("as")&&(a.loadCSS(d.href,d,d.getAttribute("media")),d.rel=null)}},!b.support()){b.poly();var c=a.setInterval(b.poly,300);a.addEventListener&&a.addEventListener("load",function(){b.poly(),a.clearInterval(c)}),a.attachEvent&&a.attachEvent("onload",function(){a.clearInterval(c)})}}}(this);
+    </script>
+    <script id="loadcss">
+      /*! CSS rel=preload polyfill. Depends on loadCSS function. [c]2016 @scottjehl, Filament Group, Inc. Licensed MIT  */
+(function( w ){
+  // rel=preload support test
+  if( !w.loadCSS ){
+    return;
+  }
+  var rp = loadCSS.relpreload = {};
+  rp.support = function(){
+    try {
+      return w.document.createElement( "link" ).relList.supports( "preload" );
+    } catch (e) {
+      return false;
+    }
+  };
+
+  // loop preload links and fetch using loadCSS
+  rp.poly = function(){
+    var links = w.document.getElementsByTagName( "link" );
+    for( var i = 0; i < links.length; i++ ){
+      var link = links[ i ];
+      if( link.rel === "preload" && link.getAttribute( "as" ) === "style" ){
+        w.loadCSS( link.href, link );
+        link.rel = null;
+      }
+    }
+  };
+
+  // if link[rel=preload] is not supported, we must fetch the CSS manually using loadCSS
+  if( !rp.support() ){
+    rp.poly();
+    var run = w.setInterval( rp.poly, 300 );
+    if( w.addEventListener ){
+      w.addEventListener( "load", function(){
+        w.clearInterval( run );
+      } );
+    }
+    if( w.attachEvent ){
+      w.attachEvent( "onload", function(){
+        w.clearInterval( run );
+      } )
+    }
+  }
+}( this ));
+    </script>
+  </head>
+  <body class="not-front no-sidebars node-type-highwire-article path-content-363-6428-70321"  id="page-top">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+        <header class="sticky-header sticky-header-is-hidden">
+  <div class="container--sticky-header">
+    <div class="sticky-header__logo sticky-header--science">
+      <a href="/" class="sticky-header__link" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/themes/shared/science_jcore/library/images/logo-science.svg" alt="Science Logo" /></a>    </div>
+          <nav class="sticky-header__nav">
+        <ul class="sticky-header__navlist"><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Home</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/news" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">News</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/journals" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sci scitransmed sigtrans advances" data-icon-position="">Journals</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/topics" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Topics</a></li><li class="sticky-header__navitem"><a href="http://www.sciencemag.org/careers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Careers</a></li></ul>      </nav>
+        <div class="sticky-header__controls">
+              <form class="highwire-quicksearch form-search--sticky form-inline" action="/content/363/6428/703.21?rss=1&amp;utm_source=dlvr.it&amp;utm_medium=twitter" method="post" id="highwire-search-quicksearch-form--2" accept-charset="UTF-8"><form class="highwire-quicksearch form-search--sticky form-inline" action="/content/363/6428/703.21?rss=1&amp;utm_source=dlvr.it&amp;utm_medium=twitter" method="post" id="highwire-search-quicksearch-form--2" accept-charset="UTF-8"><div class="field-container--inline">  <label class="element-invisible" for="edit-keywords--2">Search</label>
+ <input placeholder="Search" class="search-field form-text" type="text" id="edit-keywords--2" name="keywords" value="" maxlength="128" />
+<button data-font-icon="icon-search" data-icon-position="after" class="btn search-submit" type="submit" id="edit-submit--4" name="op" value="&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt;&lt;span class=&quot;element-invisible&quot;&gt;Search&lt;/span&gt;"><i class="fa fa-search"></i><span class="element-invisible">Search</span></button><input type="hidden" name="form_build_id" value="form-xW_J7s8yxQl9evkeu3-c6w5vO6b7UczQo-nkKRSpIcw" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form" />
+</div></form></form>            <label class="search-toggler__trigger" for="search-toggler">
+        <i class="fa fa-search"></i>
+      </label>
+      <label class="menu-toggler__trigger" for="menu-toggler">
+        <i class="fa fa-bars"></i>
+        <span class="element-invisible">Toggle menu</span>
+      </label>
+    </div>
+  </div>
+</header>
+
+<div class="search-form-mobile is-hidden">
+      <form class="highwire-quicksearch form-search--sticky form-inline" action="/content/363/6428/703.21?rss=1&amp;utm_source=dlvr.it&amp;utm_medium=twitter" method="post" id="highwire-search-quicksearch-form--2" accept-charset="UTF-8"><form class="highwire-quicksearch form-search--sticky form-inline" action="/content/363/6428/703.21?rss=1&amp;utm_source=dlvr.it&amp;utm_medium=twitter" method="post" id="highwire-search-quicksearch-form--2" accept-charset="UTF-8"><div class="field-container--inline">  <label class="element-invisible" for="edit-keywords--2">Search</label>
+ <input placeholder="Search" class="search-field form-text" type="text" id="edit-keywords--2" name="keywords" value="" maxlength="128" />
+<button data-font-icon="icon-search" data-icon-position="after" class="btn search-submit" type="submit" id="edit-submit--4" name="op" value="&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt;&lt;span class=&quot;element-invisible&quot;&gt;Search&lt;/span&gt;"><i class="fa fa-search"></i><span class="element-invisible">Search</span></button><input type="hidden" name="form_build_id" value="form-xW_J7s8yxQl9evkeu3-c6w5vO6b7UczQo-nkKRSpIcw" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form" />
+</div></form></form>  </div>
+
+<input type="checkbox" id="menu-toggler" class="menu-toggler" />
+
+<header class="row row--header">
+  <div class="container container--header">
+      <div  class="region region-header-leaderboard header--leaderboard">
+    <div  class="leaderboard__banner" id="block-panels-mini-science-leaderboard-banner">
+      
+    <div id='aaas-oas_Top'></div></div><div  class="leaderboard__sitelicense" id="block-panels-mini-science-leaderboard-site-license">
+      
+    <div class="panel-pane pane-panels-mini pane-jnl-sci-uid-strng user-block">
+  
+        
+        <div class="user-block__institution">
+  
+        
+      <p>Institution: Old Dominion University</p>
+  
+</div>
+<nav class="panel-pane pane-block pane-system-user-menu pane-system user-block__nav">
+  
+        
+      <ul><li><a href="/user/login?destination=/front" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Log in </a></li>
+<li><a href="http://www.sciencemag.org/subscribe/my-account" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">My account</a></li>
+<li><a href="http://www.sciencemag.org/about/contact-us" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Contact Us</a></li>
+</ul>  
+</nav>
+  
+</div>
+<div class="panel-pane pane-highwire-inst-branding sitelicense__logo">
+  
+        
+      <div id="highwire-inst-branding-0" class="highwire-inst-branding"></div>  
+</div>
+</div><div  class="leaderboard__promo" id="block-panels-mini-jnl-sci-promo-subscribe">
+      
+    <div class="promo-subscribe"><div class="promo__mag">
+  
+        
+      <div class="highwire-article-citation highwire-citation-type-highwire-issue" data-pisa="sci;363/6429" data-pisa-master="sci;363/6429" data-apath="/sci/363/6429.atom" id="sci3636429atom"><img class="promo__mag__cover" src="http://science.sciencemag.org/sites/default/files/styles/sci_footer_promo_cover/public/externals/b1db3a1c8200b9d302b1c0e0638ddd65.gif?itok=_NWNty3w" alt="Magazine Cover" /></div>  
+</div>
+<div class="panel-pane pane-block pane-menu-menu-subscribe pane-menu promo__offers">
+  
+        
+      <ul><li class="expanded"><h3><a href="http://promo.aaas.org/science/join/?CTC=SMURJN" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Become a member</a></h3> <ul><li><a href="https://pubs.aaas.org/MembershipRenewal/new_ren_setup_rd.asp" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Renew my subscription</a></li>
+<li><a href="http://www.sciencemag.org/subscribe/get-our-newsletters" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Sign up for newsletters</a></li>
+</ul></li>
+</ul>  
+</div>
+</div></div>  </div>
+    <div  class="region region-header-primary header--primary">
+  <div class="container--menu">
+    <div class="header__header">
+      <div class="site-logo--header site-logo--science">
+        <a href="/" class="link--journal" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/themes/shared/science_jcore/library/images/logo-science.svg" alt="Science Logo" /></a>        <a href="http://aaas.org/" class="link--aaas" data-icon-position="" data-hide-link-title="0"><img class="logo--aaas" src="http://science.sciencemag.org/sites/all/themes/shared/science_jcore/library/images/logo-aaas.svg" alt="AAAS Logo" /></a>      </div>
+      <div class="menu-toggler">.</div>
+    </div>
+          <div  class="header__aux" id="block-panels-mini-jnl-science-header-aux">
+      
+    <div class="social">
+  
+        
+      <ul class="social__list"><li><a href="https://www.facebook.com/ScienceMagazine" data-is-collapsible="0" data-is-collapsed="1" title="Facebook" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-facebook fa-lg"></i> <span class="title element-invisible">Facebook</span></a></li>
+<li><a href="https://twitter.com/sciencemagazine" title="Science Magazine on Twitter" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-twitter fa-lg"></i> <span class="title element-invisible">Twitter</span></a></li>
+<li><a href="https://plus.google.com/104077269810469435941/posts" data-is-collapsible="0" data-is-collapsed="1" title="Google+" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-google-plus fa-lg"></i> <span class="title element-invisible">Google+</span></a></li>
+<li><a href="http://www.sciencemag.org/about/email-alerts-and-rss-feeds" class="social__icon link-icon-only link-icon"><i class="fa fa-rss fa-lg"></i> <span class="title element-invisible">Rss</span></a></li>
+</ul>  
+</div>
+<nav class="auxnav">
+  
+        
+      <ul class="auxnav__list"><li><a href="http://www.sciencemag.org/authors/contributing-science-family-journals" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Authors</a></li>
+<li><a href="https://www.aaas.org/membercentral" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Members</a></li>
+<li><a href="http://www.sciencemag.org/librarian" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Librarians</a></li>
+<li><a href="http://www.sciencemag.org/advertisers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Advertisers</a></li>
+</ul>  
+</nav>
+</div><div  class="header--nav" id="block-panels-mini-jnl-science-header-nav">
+      
+    <nav class="nav-primary">
+  
+        
+      <ul class="topnav topnav--option-3"><li class="topnav__item"><a href="http://www.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Home</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/videos" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Recent Videos</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/podcasts" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Latest Podcasts</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/slideshow" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Photo Galleries</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/projects/dance-your-phd" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Dance Your Ph.D. Contest</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/projects/data-stories" class="" data-icon-position="" data-hide-link-title="0">Data Stories Contest</a></li></ul></li><li class="topnav__item"><a href="http://www.sciencemag.org/news" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">News</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/news/latest-news" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Latest News</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/scienceinsider" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">ScienceInsider</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/scienceshots" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">ScienceShots</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/sifter" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Sifter</a></li><li class="subnav__item"><a href="/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">From the Magazine</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/about-news-science" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">About News</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/news/quiz" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Quizzes</a></li></ul></li><li class="current topnav__item"><a href="http://www.sciencemag.org/journals" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sci scitransmed sigtrans advances" data-icon-position="">Journals</a><ul class="subnav"><li class="current subnav__item"><a href="/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sci" data-icon-position="">Science</a></li><li class="subnav__item"><a href="http://advances.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="advances" data-icon-position="">Science Advances</a></li><li class="subnav__item"><a href="http://immunology.sciencemag.org/" class="" data-icon-position="" data-hide-link-title="0">Science Immunology</a></li><li class="subnav__item"><a href="http://robotics.sciencemag.org" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Science Robotics</a></li><li class="subnav__item"><a href="http://stke.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="sigtrans" data-icon-position="">Science Signaling</a></li><li class="subnav__item"><a href="http://stm.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="scitransmed" data-icon-position="">Science Translational Medicine</a></li><li class="subnav__item"><a href="http://www.sciencepartnerjournals.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Science Partner Journals</a></li></ul></li><li class="topnav__item"><a href="http://www.sciencemag.org/topics" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Topics</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/topics" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">All Topics</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/journals/science-special-issues" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Special Issues</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/custom-publishing" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Custom Publishing</a></li></ul></li><li class="topnav__item"><a href="http://www.sciencemag.org/careers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Careers</a><ul class="subnav"><li class="subnav__item"><a href="http://www.sciencemag.org/careers/articles" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Articles</a></li><li class="subnav__item"><a href="http://jobs.sciencecareers.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Find Jobs</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/career-resources" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Career Resources</a></li><li class="subnav__item"><a href="http://scforum.sciencecareers.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Forum</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/for-employers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">For Employers</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/employers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Employer Profiles</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/graduate-programs" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Graduate Programs</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/careers/booklets" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Booklets</a></li><li class="subnav__item"><a href="http://www.sciencemag.org/features" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Advertising Features</a></li><li class="subnav__item"><a href="https://advertising.sciencemag.org/science-careers/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">About Careers</a></li></ul></li><li class="topnav__item"><form class="highwire-quicksearch form-search--nav form-inline" action="/content/363/6428/703.21?rss=1&amp;utm_source=dlvr.it&amp;utm_medium=twitter" method="post" id="highwire-search-quicksearch-form" accept-charset="UTF-8"><form class="highwire-quicksearch form-search--nav form-inline" action="/content/363/6428/703.21?rss=1&amp;utm_source=dlvr.it&amp;utm_medium=twitter" method="post" id="highwire-search-quicksearch-form" accept-charset="UTF-8"><div class="field-container--inline">  <label class="element-invisible" for="edit-keywords">Search</label>
+ <input placeholder="Search" class="search-field form-text" type="text" id="edit-keywords" name="keywords" value="" maxlength="128" />
+<button data-font-icon="icon-search" data-icon-position="after" class="btn search-submit" type="submit" id="edit-submit--3" name="op" value="&lt;i class=&quot;fa fa-search&quot;&gt;&lt;/i&gt;&lt;span class=&quot;element-invisible&quot;&gt;Search&lt;/span&gt;"><i class="fa fa-search"></i><span class="element-invisible">Search</span></button><input type="hidden" name="form_build_id" value="form-ok23oj7dg5Wu9t8qC9pMb8Dg9HRowXmC5Wbudk0PbiA" />
+<input type="hidden" name="form_id" value="highwire_search_quicksearch_form" />
+</div></form></form></li></ul>  
+</nav>
+</div>      </div>
+</div>
+  </div>
+</header>
+<div role="main">
+          <div  class="region region-content content">
+    <a id="main-content"></a>
+    <div  class="" id="block-system-main">
+      
+  <div class="row">
+  <div class="container container--content">
+    <div class="tertiary">
+      <div class="social-sidebar fixedsticky">
+  
+            <h4 class="share-title">
+          share        </h4>
+          
+      <ul class="socialshares"><li class="first"><a href="http://www.facebook.com/sharer/sharer.php?u=http://science.sciencemag.org/content/363/6428/703.21" class="social__icon" target="_blank" data-icon-position="" data-hide-link-title="0"><i class="fa fa-facebook fa-lg"></i></a><span class="social__count facebook__count"></span></a></li>
+<li><a href="https://twitter.com/share?url=http://science.sciencemag.org/content/363/6428/703.21&amp;text=Dietary modulation of T cell immunity" class="social__icon" target="_blank" data-icon-position="" data-hide-link-title="0"><i class="fa fa-twitter fa-lg"></i></a><span class="social__count"></span></a></li>
+<li class="last"><a href="https://plus.google.com/share?url=http://science.sciencemag.org/content/363/6428/703.21" class="social__icon" target="_blank" data-icon-position="" data-hide-link-title="0"><i class="fa fa-google-plus fa-lg"></i></a><span class="social__count googleplus__count"></span></a></li>
+</ul>  
+</div>
+    </div>
+    <article class="primary primary--content">
+      <div class="panel-pane pane-highwire-article-citation" id="sci-article-author-list">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="722703" id="node722703" data-pisa="sci;363/6428/703-u" data-pisa-master="sci;363/6428/703-u" data-apath="/sci/363/6428/703.21.atom" data-hw-author-tooltip-instance="highwire_author_tooltip"><div class="highwire-cite highwire-cite-highwire-article highwire-citation-jnl-sci-article clearfix has-author-tooltip">
+  <header class="article__header">
+        <div class="overline"><span class="overline__section"></span><span class="overline__subject">Mucosal Immunology</span></div>
+            <h1 class="article__headline"><div class="highwire-cite-title">Dietary modulation of T cell immunity</div></h1>
+            <div class="article__expandable-area collapsed">
+      <div class="article byline byline--article"><div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" id="content-block-markup" xmlns:xhtml="http://www.w3.org/1999/xhtml"><div xmlns:xhtml="http://www.w3.org/1999/xhtml" class="contributors"><ol class="contributor-list" id="contrib-group-1"><li class="last" id="contrib-2"><span class="name">Ifor Williams</span></li></ol></div></div></div></div>
+    </div>
+    <p class="contributor-list__reveal">
+      <span class="contributor-list__toggler"><b></b> <span class="collapsed-text">See all</span><span class="expanded-text">Hide</span> authors and affiliations</span>
+    </p>
+      </header>
+
+  <div class="meta-line">
+    <cite>Science&nbsp;</cite> 15 Feb 2019:<br />Vol. 363, Issue 6428, pp. 703-705<br />DOI: 10.1126/science.363.6428.703-u      </div>
+</div>
+<div id="hw-article-author-popups-node722703" style="display: none;"><div class="author-tooltip-0"><div class="author-tooltip-name">Stella Hurtley</div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=S.%2BHurtley" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Hurtley%20S&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AStella%2BHurtley" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div><div class="author-tooltip-1"><div class="author-tooltip-name">Ifor Williams</div><ul class="author-tooltip-find-more"><li class="author-tooltip-gs-link first"><a href="/lookup/google-scholar?link_type=googlescholar&amp;gs_type=author&amp;author%5B0%5D=I.%2BWilliams" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on Google Scholar</a></li>
+<li class="author-tooltip-pubmed-link"><a href="/lookup/external-ref?access_num=Williams%20I&amp;link_type=AUTHORSEARCH" target="_blank" class="" data-icon-position="" data-hide-link-title="0">Find this author on PubMed</a></li>
+<li class="author-site-search-link last"><a href="/search/author1%3AIfor%2BWilliams" rel="nofollow" class="" data-icon-position="" data-hide-link-title="0">Search for this author on this site</a></li>
+</ul></div></div></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-highwire-panel-tabs pane-panels-ajax-tab-tabs tabbed tabbed--article">
+  
+        
+      <ul class="tabs inline panels-ajax-tab tabbed__list"><li class="first"><a href="/content/363/6428/703.21" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_art" data-target-id="highwire_article_tabs" data-entity-context="node:722703" data-trigger="" data-url-enabled="1">Article</a><a href="/panels_ajax_tab/jnl_sci_tab_art/node:722703/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li><a href="/content/363/6428/703.21/tab-article-info" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_info" data-target-id="highwire_article_tabs" data-entity-context="node:722703" data-trigger="tab-article-info" data-url-enabled="1">Info & Metrics</a><a href="/panels_ajax_tab/jnl_sci_tab_info/node:722703/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li><a href="/content/363/6428/703.21/tab-e-letters" class="panels-ajax-tab-tab" data-panel-name="article_tab_eletters" data-target-id="highwire_article_tabs" data-entity-context="node:722703" data-trigger="tab-e-letters" data-url-enabled="1">eLetters</a><a href="/panels_ajax_tab/article_tab_eletters/node:722703/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+<li class="last"><a href="/content/363/6428/703.21/tab-pdf" class="panels-ajax-tab-tab" data-panel-name="jnl_sci_tab_pdf" data-target-id="highwire_article_tabs" data-entity-context="node:722703" data-trigger="tab-pdf" data-url-enabled="1"><i class="fa fa-file-pdf-o"></i> PDF</a><a href="/panels_ajax_tab/jnl_sci_tab_pdf/node:722703/1" rel="nofollow" style="display:none" class="js-crawler-link"></a></li>
+</ul>  
+</div>
+<div class="panel-pane pane-highwire-panel-tabs-container article__body">
+  
+      
+  
+  <div class="pane-content">
+    <div data-panels-ajax-tab-preloaded="jnl_sci_tab_art" id="panels-ajax-tab-container-highwire_article_tabs" class="panels-ajax-tab-container"><div class="panels-ajax-tab-loading" style ="display:none"><img class="loading" src="http://science.sciencemag.org/sites/all/modules/contrib/panels_ajax_tab/images/loading.gif" alt="Loading" title="Loading" /></div><div class="panels-ajax-tab-wrap-jnl_sci_tab_art"><div class="panel-display panel-1col clearfix" >
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-highwire-markup">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-markup"><div xmlns="http://www.w3.org/1999/xhtml" id="content-block-markup" data-highwire-cite-ref-tooltip-instance="highwire_reflinks_tooltip" data-highwire-glossary-tooltip-instance="highwire_reflinks_tooltip" xmlns:xhtml="http://www.w3.org/1999/xhtml"><div class="article fulltext-view nonresearch-content"><span class="highwire-journal-article-marker-start"></span><p id="p-1">Commensal intestinal bacteria respond to dietary changes by modifying gene expression, leading to shifts in the amounts of bacterial antigens encountered by the intestinal immune system. Wegorzewska <em>et al.</em> developed a mouse model system to investigate whether CD4<sup>+</sup> T cell recognition of antigens of the gut symbiont <em>Bacteroides thetaiotaomicron</em> is subject to dietary modulation. T cell receptor–transgenic T cells that recognized a bacterial outer-membrane vesicle protein differentiated into both regulatory and effector T cells, and colitis emerged after selective depletion of the regulatory T cells. Dietary glucose strongly repressed the T cell–detected antigen. Thus, dietary modifications that reduce bacterial expression of immunodominant antigens targeted by T cells could ameliorate some forms of human inflammatory bowel disease.</p><p id="p-2"><em>Sci. Immunol.</em> <strong>4</strong>, eaau9079 (2019).</p><span class="highwire-journal-article-marker-end"></span></div><span id="related-urls"></span></div></div>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-highwire-article-trendmd">
+  
+      
+  
+  <div class="pane-content">
+    <div id="trendmd-suggestions"></div>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+    </article>
+        <div class="secondary">
+      <div id='aaas-util-side-1'></div><div class="panel-pane pane-panels-mini pane-jnl-sci-art-issue box-standout priority-2">
+  
+        
+        <div class="panel-pane pane-highwire-article-citation">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-issue" data-node-nid="722547" id="node722547" data-pisa="sci;363/6428" data-pisa-master="sci;363/6428" data-apath="/sci/363/6428.atom"><article class="highwire-cite highwire-cite-highwire-issue highwire-citation-jnl-sci-issue clearfix media media--var">
+      <div class="highwire-cite-highlight media__icon"><a href="/content/363/6428"  class="highlight-image-linked"><img class="highlight-image" src="http://science.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/sci/363/6428.cover-source.gif?itok=HQsT2Pcs" alt="Science: 363 (6428)" /></a></div>
+    <div class="media__body">
+        <h3 class="highwire-cite-title-wrapper media__headline"><a href="/content/363/6428" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Science</span></a></h3>
+                <p  class="highwire-cite-metadata minor">Vol 363, Issue 6428<br />15 February 2019 </p>
+                <ul class="priority-2 variant-list"><li class="toc first"><a href="/content/363/6428.toc" class="highwire-variant-link variant-toc " title="Table of Contents" rel="alternate" type="text/html" data-icon-position="" data-hide-link-title="0">Table of Contents </a></li>
+<li class="tocpdf"><a href="/content/363/6428.toc.pdf" class="highwire-variant-link variant-tocpdf " title="Print Table of Contents" rel="alternate" type="application/pdf" data-icon-position="" data-hide-link-title="0">Print Table of Contents </a></li>
+<li class="enclosure-advertising"><a href="/content/sci/363/6428/local/advertising.pdf" class="highwire-variant-link variant-enclosure" title="Advertising (PDF)" rel="alternative" data-icon-position="" data-hide-link-title="0">Advertising (PDF)</a></li>
+<li class="enclosure-classified"><a href="/content/sci/363/6428/local/classified.pdf" class="highwire-variant-link variant-enclosure" title="Classified (PDF)" rel="alternative" data-icon-position="" data-hide-link-title="0">Classified (PDF)</a></li>
+<li class="enclosure-masthead last"><a href="/content/sci/363/6428/local/masthead.pdf" class="highwire-variant-link variant-enclosure" title="Masthead (PDF)" rel="alternative" data-icon-position="" data-hide-link-title="0">Masthead (PDF)</a></li>
+</ul>  </div>
+</article></div>  </div>
+
+  
+  </div>
+  
+</div>
+<div class="panel-pane pane-panels-mini pane-jnl-sci-art-tools nav-interior">
+  
+            <h3 class="overline">
+          Article Tools        </h3>
+          
+        <ul class="article__tools"><li class="first"><div class="panel-pane pane-minipanel-dialog-link pane-jnl-sci-art-email">
+  
+      
+  
+  <div class="pane-content">
+    <div class='minipanel-dialog-wrapper'><div class='minipanel-dialog-link-link'><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Email This Article"><i class="fa fa-lg fa-envelope"></i> <span class="title">Email</span></a></div><div class='minipanel-dialog-link-mini' style='display:none'><div class="empty_placeholder ui-helper-hidden-accessible"><input autofocus="autofocus" type="hidden"/></div>
+<div class="panel-display panel-1col clearfix" id="mini-panel-jnl_sci_art_email">
+  <div class="panel-panel panel-col">
+    <div><div class="panel-pane pane-block pane-forward-form pane-forward">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/content/363/6428/703.21?rss=1&amp;utm_source=dlvr.it&amp;utm_medium=twitter" method="post" id="forward-form" accept-charset="UTF-8"><div id="edit-instructions" class="form-item form-type-item">
+ <p>Thank you for your interest in spreading the word about Science.</p><p>NOTE: We only request your email address so that the person you are recommending the page to knows that you wanted them to see it, and that it is not junk mail. We do not capture any email address.</p>
+</div>
+<div class="form-item field-container form-type-textfield form-item-email form-required">
+  <label class="required" for="edit-email">Your Email</label>
+ <input type="text" id="edit-email" name="email" value="" size="58" maxlength="256" class="form-text required" />
+</div>
+<div class="form-item field-container form-type-textfield form-item-name form-required">
+  <label class="required" for="edit-name">Your Name</label>
+ <input type="text" id="edit-name" name="name" value="" size="58" maxlength="256" class="form-text required" />
+</div>
+<div class="form-item form-type-textarea form-item-recipients form-required">
+  <label class="required" for="edit-recipients">Send To</label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-recipients" name="recipients" cols="50" rows="5" class="form-textarea required"></textarea></div>
+
+<small class="description">Enter multiple addresses on separate lines or separate them with commas.</small>
+</div>
+<div id="edit-page" class="form-item form-type-item">
+  <label for="edit-page">You are going to email the following</label>
+ <a href="/content/363/6428/703.21" class="active" data-icon-position="" data-hide-link-title="0">Dietary modulation of T cell immunity</a>
+</div>
+<div id="edit-subject" class="form-item form-type-item">
+  <label for="edit-subject">Message Subject</label>
+ (Your Name) has forwarded a page to you from Science
+</div>
+<div id="edit-body" class="form-item form-type-item">
+  <label for="edit-body">Message Body</label>
+ (Your Name) thought you would like to see this page from the Science web site.
+</div>
+<div class="form-item form-type-textarea form-item-message">
+  <label for="edit-message--2">Your Personal Message</label>
+ <div class="form-textarea-wrapper resizable"><textarea id="edit-message--2" name="message" cols="50" rows="10" class="form-textarea"></textarea></div>
+</div>
+<input type="hidden" name="path" value="node/722703" />
+<input type="hidden" name="path_cid" value="" />
+<input type="hidden" name="forward_footer" value=" " />
+<input type="hidden" name="form_build_id" value="form-Ch4UlWnsJvhwNen_S6U6QqOb5gs5wjiCOrKzNTnXVyQ" />
+<input type="hidden" name="form_id" value="forward_form" />
+<div class="form-actions form-wrapper" id="edit-actions"><button type="submit" id="edit-submit" name="op" value="Send Message">Send Message</button></div></form>  </div>
+
+  
+  </div>
+</div>
+  </div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-highwire-variant-link">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/content/sci/363/6428/703.21.full.pdf" target="_blank" class="link-icon"><i class="fa fa-lg fa-print"></i> <span class="title">Print</span></a>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-minipanel-dialog-link pane-alerts-login-button">
+  
+      
+  
+  <div class="pane-content">
+    <div class='minipanel-dialog-wrapper'><div class='minipanel-dialog-link-link'><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Login and then click &quot;Save to my folders&quot; again"><i class="fa fa-lg fa-folder-open-o"></i> <span class="title">Save to my folders</span></a></div><div class='minipanel-dialog-link-mini' style='display:none'><div class="empty_placeholder ui-helper-hidden-accessible"><input autofocus="autofocus" type="hidden"/></div>
+<div class="panel-flexible panels-flexible-new clearfix" id="mini-panel-alerts_login_button">
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-custom pane-1">
+  
+      
+  
+  <div class="pane-content">
+    <p><a class="btn" href="/user/login?destination=content/363/6428/703.21">Log In with your AAAS Login</a></p>
+
+<p>&nbsp;</p>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-minipanel-dialog-link pane-jnl-sci-art-alert">
+  
+      
+  
+  <div class="pane-content">
+    <div class='minipanel-dialog-wrapper'><div class='minipanel-dialog-link-link'><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Alerts"><i class="fa fa-lg fa-bullhorn"></i> <span class="title">Alerts</span></a></div><div class='minipanel-dialog-link-mini' style='display:none'><div class="empty_placeholder ui-helper-hidden-accessible"><input autofocus="autofocus" type="hidden"/></div>
+  <div class="panel-pane pane-custom pane-2">
+  
+      
+  
+  <div class="pane-content">
+    <p>Please log in to add an alert for this article.</p>  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-panels-mini pane-alerts-login-button">
+  
+      
+  
+  <div class="pane-content">
+    <div class="panel-flexible panels-flexible-new clearfix" id="mini-panel-alerts_login_button-1">
+<div class="panel-flexible-inside panels-flexible-new-inside">
+<div class="panels-flexible-region panels-flexible-region-new-center panels-flexible-region-first panels-flexible-region-last">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-new-center-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+<div class="panel-pane pane-custom pane-3">
+  
+      
+  
+  <div class="pane-content">
+    <p><a class="btn" href="/user/login?destination=content/363/6428/703.21">Log In with your AAAS Login</a></p>
+
+<p>&nbsp;</p>
+  </div>
+
+  
+  </div>
+  </div>
+</div>
+</div>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-separator"></div><div class="panel-pane pane-alerts-login-form">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/content/363/6428/703.21?rss=1&amp;utm_source=dlvr.it&amp;utm_medium=twitter" method="post" id="highwire-alerts-email-login-form" accept-charset="UTF-8"><div id="alerts_email">Sign In to Email Alerts with your Email Address</div><div class="form-item field-container form-type-textfield form-item-highwire-alerts-email form-required">
+  <label class="required" for="edit-highwire-alerts-email">Email</label>
+ <input type="text" id="edit-highwire-alerts-email" name="highwire_alerts_email" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+<button type="submit" id="edit-submit--2" name="op" value="Log in">Log in</button><input type="hidden" name="form_build_id" value="form-dsupgkFL57l-zhJvFKFrzN1iXhYj8zOcInXxoDAO66M" />
+<input type="hidden" name="form_id" value="highwire_alerts_email_login_form" />
+</form>  </div>
+
+  
+  </div>
+</div></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-panels-ajax-pane-content pane-highwire-permission-link">
+  
+        <h2 class="pane-title"><span class='panels-ajax-pane-title' data-pid='new-45'></span></h2>
+    
+  
+  <div class="pane-content">
+    <div class='panels-ajax-pane panels-ajax-pane-new-45' data-pid='new-45'></div>  </div>
+
+  
+  </div>
+</li>
+<li><div class="panel-pane pane-minipanel-dialog-link pane-jnl-sci-cite-tool">
+  
+      
+  
+  <div class="pane-content">
+    <div class='minipanel-dialog-wrapper'><div class='minipanel-dialog-link-link'><a href="/" oncontextmenu="javascript: return false;" class="minipanel-dialog-link-trigger link-icon" title="Citation Tools"><i class="fa fa-lg fa-globe"></i> <span class="title">Citation tools</span></a></div><div class='minipanel-dialog-link-mini' style='display:none'><div class="empty_placeholder ui-helper-hidden-accessible"><input autofocus="autofocus" type="hidden"/></div>
+  <div class="panel-pane pane-highwire-citation-export">
+  
+      
+  
+  <div class="pane-content">
+    <div>  
+  <div class="highwire-citation-info">
+      <div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="722703" id="node722703--2" data-pisa="sci;363/6428/703-u" data-pisa-master="sci;363/6428/703-u" data-apath="/sci/363/6428/703.21.atom"><article class="highwire-cite highwire-cite-highwire-article highwire-citation-jnl-sci-toc clearfix media media--citation">
+    <div class="media__body">
+        <h3 class="highwire-cite-title-wrapper media__headline"><div class="highwire-cite-title media__headline__title">Dietary modulation of T cell immunity</div></h3>
+            <p  class="highwire-cite-authors byline">By <span  class="highwire-citation-authors"><span class="highwire-citation-author" data-delta="1">Ifor Williams</span></span></p>
+            <p  class="highwire-cite-metadata byline"><em>Science</em><time>15 Feb 2019</time> : 703-705 </p>
+                  </div>
+</article></div>  </div>
+  <div class="highwire-citation-formats">
+  	      <h2>Citation Manager Formats</h2>
+        <div class="highwire-citation-formats-links">
+      <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.spage=703&amp;rft.epage=705&amp;rft.atitle=Dietary%20modulation%20of%20T%20cell%20immunity&amp;rft.volume=363&amp;rft.issue=6428&amp;rft.date=2019-02-15%2000%3A00%3A00&amp;rft.stitle&amp;rft.jtitle=Science&amp;rft.au=Williams%2C+Ifor"></span><ul class="hw-citation-links inline"><li class="bibtext first"><a href="/highwire/citation/722703/bibtext" class="" data-icon-position="" data-hide-link-title="0">BibTeX</a></li>
+<li class="bookends"><a href="/highwire/citation/722703/bookends" class="" data-icon-position="" data-hide-link-title="0">Bookends</a></li>
+<li class="easybib"><a href="/highwire/citation/722703/easybib" class="" data-icon-position="" data-hide-link-title="0">EasyBib</a></li>
+<li class="endnote-tagged"><a href="/highwire/citation/722703/endnote-tagged" class="" data-icon-position="" data-hide-link-title="0">EndNote (tagged)</a></li>
+<li class="endnote-8-xml"><a href="/highwire/citation/722703/endnote-8-xml" class="" data-icon-position="" data-hide-link-title="0">EndNote 8 (xml)</a></li>
+<li class="medlars"><a href="/highwire/citation/722703/medlars" class="" data-icon-position="" data-hide-link-title="0">Medlars</a></li>
+<li class="mendeley"><a href="/highwire/citation/722703/mendeley" class="" data-icon-position="" data-hide-link-title="0">Mendeley</a></li>
+<li class="papers"><a href="/highwire/citation/722703/papers" class="" data-icon-position="" data-hide-link-title="0">Papers</a></li>
+<li class="refworks-tagged"><a href="/highwire/citation/722703/refworks-tagged" class="" data-icon-position="" data-hide-link-title="0">RefWorks Tagged</a></li>
+<li class="reference-manager"><a href="/highwire/citation/722703/reference-manager" class="" data-icon-position="" data-hide-link-title="0">Ref Manager</a></li>
+<li class="ris"><a href="/highwire/citation/722703/ris" class="" data-icon-position="" data-hide-link-title="0">RIS</a></li>
+<li class="zotero last"><a href="/highwire/citation/722703/zotero" class="" data-icon-position="" data-hide-link-title="0">Zotero</a></li>
+</ul>    </div>
+  </div>
+</div>
+  </div>
+
+  
+  </div>
+</div></div>  </div>
+
+  
+  </div>
+</li>
+<li class="last"><div class="panel-pane pane-panels-mini pane-jnl-sci-share">
+  
+      
+  
+  <div class="pane-content">
+      <div class="panel-pane pane-highwire-share-link highwire_clipboard_link_ajax" id="shareit">
+  
+      
+  
+  <div class="pane-content">
+    <a href="/" class="link-icon"><i class="fa fa-lg fa-share"></i> <span class="title">Share</span></a>  </div>
+
+  
+  </div>
+  <div class="highwire_clipboard_form_ajax_shareit"><div class="panel-pane pane-highwire-article-citation">
+  
+      
+  
+  <div class="pane-content">
+    <div class="highwire-article-citation highwire-citation-type-highwire-article" data-node-nid="722703" id="node722703--2" data-pisa="sci;363/6428/703-u" data-pisa-master="sci;363/6428/703-u" data-apath="/sci/363/6428/703.21.atom"><article class="highwire-cite highwire-cite-highwire-article highwire-citation-jnl-sci-toc clearfix media media--citation">
+    <div class="media__body">
+        <h3 class="highwire-cite-title-wrapper media__headline"><div class="highwire-cite-title media__headline__title">Dietary modulation of T cell immunity</div></h3>
+            <p  class="highwire-cite-authors byline">By <span  class="highwire-citation-authors"><span class="highwire-citation-author" data-delta="1">Ifor Williams</span></span></p>
+            <p  class="highwire-cite-metadata byline"><em>Science</em><time>15 Feb 2019</time> : 703-705 </p>
+                  </div>
+</article></div>  </div>
+
+  
+  </div>
+<div class="panel-pane pane-highwire-article-clipboard-copy">
+  
+      
+  
+  <div class="pane-content">
+    <div class = "clipboard-copy">
+  <span class="label-url">
+    <label for="dynamic">Share This Article:</label>
+  </span>
+  <span class="input-text-url">
+    <input type="text" id="dynamic" value="http://science.sciencemag.org/content/363/6428/703.21" size="50"/>
+  </span>
+  <span class="copy-button button">
+    <button id="copy-dynamic" class="clipboardjs-button" data-clipboard-target="#dynamic" data-clipboard-alert-style="tooltip" data-clipboard-alert-text="Copied!">Copy</button>
+  </span>
+</div>
+  </div>
+
+  
+  </div>
+<div class="panel-pane pane-service-links">
+  
+      
+  
+  <div class="pane-content">
+    <div class="service-links"><a href="http://www.citeulike.org/posturl?url=http%3A//science.sciencemag.org/content/363/6428/703.21&amp;title=Dietary%20modulation%20of%20T%20cell%20immunity" id="citeulike" title="Share on CiteULike" class="service-links-citeulike" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/modules/highwire/highwire/images/citeyoulike.png" alt="CiteULike logo" /></a> <a href="http://www.connotea.org/add?uri=http%3A//science.sciencemag.org/content/363/6428/703.21&amp;title=Dietary%20modulation%20of%20T%20cell%20immunity" id="connotea" title="Share on connotea" class="service-links-connotea" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/modules/highwire/highwire/images/connotea.png" alt="Connotea logo" /></a> <a href="http://del.icio.us/post?url=http%3A//science.sciencemag.org/content/363/6428/703.21&amp;title=Dietary%20modulation%20of%20T%20cell%20immunity" id="delicious" title="Bookmark this post on del.icio.us" class="service-links-delicious" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/modules/highwire/highwire/images/delicious-32.png" alt="del.icio.us logo" /></a> <a href="http://digg.com/submit?phase=2&amp;url=http%3A//science.sciencemag.org/content/363/6428/703.21&amp;title=Dietary%20modulation%20of%20T%20cell%20immunity" id="digg" title="Digg this post on digg.com" class="service-links-digg" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/modules/highwire/highwire/images/digg.png" alt="Digg logo" /></a> <a href="http://www.facebook.com/sharer.php?u=http%3A//science.sciencemag.org/content/363/6428/703.21&amp;t=Dietary%20modulation%20of%20T%20cell%20immunity" id="facebook" title="Share on Facebook" class="service-links-facebook" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/modules/highwire/highwire/images/fb-blue.png" alt="Facebook logo" /></a> <a href="http://www.google.com/bookmarks/mark?op=add&amp;bkmk=http%3A//science.sciencemag.org/content/363/6428/703.21&amp;title=Dietary%20modulation%20of%20T%20cell%20immunity" id="google" title="Bookmark this post on Google" class="service-links-google" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/modules/highwire/highwire/images/google-32.png" alt="Google logo" /></a> <a href="http://www.mendeley.com/import/?url=http%3A//science.sciencemag.org/content/363/6428/703.21&amp;title=Dietary%20modulation%20of%20T%20cell%20immunity" id="mendeley" title="Share on Mendeley" class="service-links-mendeley" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/modules/highwire/highwire/images/mendeley.png" alt="Mendeley logo" /></a> <a href="http://reddit.com/submit?url=http%3A//science.sciencemag.org/content/363/6428/703.21&amp;title=Dietary%20modulation%20of%20T%20cell%20immunity" id="reddit" title="Submit this post on reddit.com" class="service-links-reddit" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/modules/highwire/highwire/images/reddit.png" alt="Reddit logo" /></a> <a href="http://twitter.com/share?url=http%3A//science.sciencemag.org/content/363/6428/703.21&amp;text=Dietary%20modulation%20of%20T%20cell%20immunity" id="twitter" title="Share this on Twitter" class="service-links-twitter" rel="nofollow" target="_blank" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/modules/highwire/highwire/images/twitter.png" alt="Twitter logo" /></a></div>  </div>
+
+  
+  </div>
+</div>  </div>
+
+  
+  </div>
+</li>
+</ul>  
+</div>
+<div id='aaas-util-side-2'></div><div id='aaas-oas_Right2'></div><div id='aaas-util-side-3'></div><div class="panel-pane pane-panels-ajax-pane-content pane-highwire-related-articles pane-list">
+  
+            <h3 class="overline">
+          Related Content        </h3>
+          
+      <div class='panels-ajax-pane panels-ajax-pane-new-22' data-pid='new-22'></div>  
+</div>
+<div class="panel-pane pane-panels-ajax-pane-content pane-highwire-related-articles nav-interior">
+  
+            <h3 class="overline">
+          Similar Articles in:        </h3>
+          
+      <div class='panels-ajax-pane panels-ajax-pane-new-24' data-pid='new-24'></div>  
+</div>
+<div class="ctools-collapsible-container ctools-collapsed pane-list"><h2 class="pane-title ctools-collapsible-handle"><span class='panels-ajax-pane-title' data-pid='new-25'></span></h2><div class="ctools-collapsible-content"><div class='panels-ajax-pane panels-ajax-pane-new-25' data-pid='new-25'></div></div></div><div class="panel-pane pane-panels-ajax-pane-content pane-highwire-cited-by nav-interior">
+  
+            <h3 class="overline">
+          Citing Articles in:        </h3>
+          
+      <div class='panels-ajax-pane panels-ajax-pane-new-26' data-pid='new-26'></div>  
+</div>
+<div id='aaas-oas_x51'></div><div class="panel-pane pane-highwire-article-nav nav-sidebar fixedsticky nav-interior nav-interior--nested">
+  
+            <h3 class="overline">
+          Navigate This Article        </h3>
+          
+      <div class="highwire-article-nav"><ul class="highwire-list"><li class="first odd"><a href="/content/363/6428/703.21" class="highwire-article-nav-jumplink" data-panel-ajax-tab="jnl_sci_tab_art" data-is-tab-link="true" data-icon-position="" data-hide-link-title="0">Article</a></li><li class="even"><a href="/content/363/6428/703.21/tab-article-info" class="highwire-article-nav-jumplink" data-panel-ajax-tab="jnl_sci_tab_info" data-is-tab-link="true" data-icon-position="" data-hide-link-title="0">Info & Metrics</a></li><li class="odd"><a href="/content/363/6428/703.21/tab-e-letters" class="highwire-article-nav-jumplink" data-panel-ajax-tab="article_tab_eletters" data-is-tab-link="true" data-icon-position="" data-hide-link-title="0">eLetters</a></li><li class="last even"><a href="/content/363/6428/703.21/tab-pdf" class="highwire-article-nav-jumplink" data-panel-ajax-tab="jnl_sci_tab_pdf" data-is-tab-link="true" data-icon-position="" data-hide-link-title="0"><i class="fa fa-file-pdf-o"></i> PDF</a></li></ul></div>  
+</div>
+    </div>
+      </div>
+</div></div>  </div>
+  </div>
+<div class="row row--alt row--promo">
+    <div  class="region region-pre-footer pre--footer container--promo container">
+    
+  <div class="primary"><h2 class="subsection-title heading--block"><a href="https://pubs.aaas.org/Promo/promo_setup_rd.asp?dmc=P5XPZ" target="_blank">Science</a></h2>  <div class="primary__main promo-foot--mag"><div class="promo-foot--current">
+  
+        
+      <div class="highwire-article-citation highwire-citation-type-highwire-issue" data-pisa="sci;363/6429" data-pisa-master="sci;363/6429" data-apath="/sci/363/6429.atom" id="sci3636429atom"><h3>22 February 2019</h3>
+<p class="promo-foot__meta">Vol 363, Issue 6429</p>
+<a href="https://pubs.aaas.org/Promo/promo_setup_rd.asp?dmc=P5XPZ" target="_blank" class="" data-icon-position="" data-hide-link-title="0"><img class="promo-foot__cover" src="http://science.sciencemag.org/sites/default/files/styles/sci_footer_promo_cover/public/externals/b1db3a1c8200b9d302b1c0e0638ddd65.gif?itok=_NWNty3w" alt="Magazine Cover" /></a></div>  
+</div>
+<div class="promo-foot--heds">
+  
+        
+      <ul class="media-grid media-grid--2 media-grid--minor"><li class="first"><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;363/6429/806" data-pisa-master="sci;363/6429/806" data-apath="/sci/363/6429/806.atom" id="sci3636429806atom"><h3 class="overline">Feature</h3>
+  <a href="/content/363/6429/806" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">The little reactors that could</span></a></div></li>
+<li><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;363/6429/810" data-pisa-master="sci;363/6429/810" data-apath="/sci/363/6429/810.atom" id="sci3636429810atom"><h3 class="overline">Technology and Regulation</h3>
+  <a href="/content/363/6429/810" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Regulation of predictive analytics in medicine</span></a></div></li>
+<li><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;363/6429/822" data-pisa-master="sci;363/6429/822" data-apath="/sci/363/6429/822.atom" id="sci3636429822atom"><h3 class="overline">Gerontology</h3>
+  <a href="/content/363/6429/822" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">In search of an aging antidote</span></a></div></li>
+<li><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;363/6429/796" data-pisa-master="sci;363/6429/796" data-apath="/sci/363/6429/796.atom" id="sci3636429796atom"><h3 class="overline">SCI COMMUN</h3>
+  <a href="/content/363/6429/796" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">News at a glance</span></a></div></li>
+<li><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;363/6429/813" data-pisa-master="sci;363/6429/813" data-apath="/sci/363/6429/813.atom" id="sci3636429813atom"><h3 class="overline">Neurodegeneration</h3>
+  <a href="/content/363/6429/813" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">Sleep well to slow Alzheimer's progression?</span></a></div></li>
+<li class="last"><div class="highwire-article-citation highwire-citation-type-highwire-article" data-pisa="sci;363/6429/898" data-pisa-master="sci;363/6429/898" data-apath="/sci/363/6429/898.atom" id="sci3636429898atom"><h3 class="overline">Working Life</h3>
+  <a href="/content/363/6429/898" class="highwire-cite-linked-title" data-icon-position="" data-hide-link-title="0"><span class="highwire-cite-title">The courage to leave</span></a></div></li>
+</ul><p><a href="http://science.sciencemag.org/content/363/6429" class="btn--cta btn--cta--small" data-icon-position="" data-hide-link-title="0">Table of Contents</a></p>  
+</div>
+</div><div class="primary__secondary">
+  
+        
+      <div id='aaas-util-foot-1'></div>  
+</div>
+</div>  <div class="secondary"><div id='aaas-util-foot-2'></div></div>  </div>
+</div>
+
+  <div class="row row--footnav">
+      <div  class="region region-footer-nav footer--nav container">
+    <footer  class="site-footer" id="block-menu-menu-footer-nav" role="contentinfo">
+      
+  <ul class="nav-footer"><li class="expanded"><a href="http://www.sciencemag.org/about/about-us" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">About us</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/journals/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Journals</a></li>
+<li><a href="http://www.sciencemag.org/about/leadership" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Leadership</a></li>
+<li><a href="http://www.sciencemag.org/about/team-members" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Team members</a></li>
+<li><a href="http://www.aaas.org/page/employment-aaas" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Work at AAAS</a></li>
+</ul></li>
+<li class="expanded"><a href="https://advertising.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Advertise</a><ul class="nav-footer__subnav"><li><a href="https://advertising.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Advertising kits</a></li>
+<li><a href="http://www.sciencemag.org/custom-publishing" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Custom publishing</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/subscribers" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">For subscribers</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/librarian" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Site license info</a></li>
+<li><a href="http://www.sciencemag.org/members" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">For members</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/about/international-versions" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">International</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemagchina.cn/" class="" data-icon-position="" data-hide-link-title="0">Chinese</a></li>
+<li><a href="http://www.sciencemag.jp/" class="" data-icon-position="" data-hide-link-title="0">Japanese</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/help" class="" data-icon-position="" data-hide-link-title="0">Help</a><ul class="nav-footer__subnav"><li><a href="http://www.sciencemag.org/subscriptions" class="" data-icon-position="" data-hide-link-title="0">Access &amp; subscriptions</a></li>
+<li><a href="https://backissues.sciencemag.org/" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Order a Single Issue</a></li>
+<li><a href="http://www.sciencemag.org/help/reprints-and-permissions" class="" data-icon-position="" data-hide-link-title="0">Reprints &amp; permissions</a></li>
+<li><a href="http://www.sciencemag.org/about/contact-us" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Contact us</a></li>
+<li><a href="http://www.sciencemag.org/about/accessibility" data-hide-link-title="0" data-is-collapsible="0" data-is-collapsed="1" class="" data-icon-position="">Accessibility</a></li>
+</ul></li>
+<li class="expanded"><a href="http://www.sciencemag.org/about/email-alerts-and-rss-feeds" data-hide-link-title="0" class="" data-icon-position="">Stay Connected</a><div class="nav-footer__subnav"><ul class="social__list"><li><a href="https://www.facebook.com/ScienceMagazine" title="Facebook" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-facebook fa-lg"></i> <span class="title element-invisible">Facebook</span></a></li>
+<li><a href="https://twitter.com/sciencemagazine" title="Twitter" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-twitter fa-lg"></i> <span class="title element-invisible">Twitter</span></a></li>
+<li><a href="https://plus.google.com/104077269810469435941/posts" title="Google+" class="social__icon link-icon-only link-icon" target="_blank"><i class="fa fa-google-plus fa-lg"></i> <span class="title element-invisible">GooglePlus</span></a></li>
+<li><a href="http://www.sciencemag.org/about/email-alerts-and-rss-feeds" data-is-collapsible="0" data-is-collapsed="1" title="RSS Feeds" class="social__icon link-icon-only link-icon"><i class="fa fa-rss fa-lg"></i> <span class="title element-invisible">RSS Feeds</span></a></li>
+</ul></div></li>
+</ul></footer>  </div>
+  </div>
+
+<div id="sci-footer-end" class="row row--footer">
+  <div class="container container--footer">
+  <div class="footer__header">
+    <div class="site-logo--footer">
+      <a href="http://aaas.org" class="" data-icon-position="" data-hide-link-title="0"><img src="http://science.sciencemag.org/sites/all/themes/shared/science_jcore/library/images/logo-aaas.svg" alt="Science/AAAS" /></a>    </div>
+  </div>
+      <div  class="footer__body" id="block-panels-mini-science-footer-body">
+      
+    <div class="panel-pane pane-snippet pane-science-copyright-text copyright-statement">
+  
+      
+  
+  <div class="pane-content">
+    <div class="science-copyright-text" id="science-copyright-text">
+  
+      
+  <div class="snippet-content">
+    <p>&copy; 2019 <a href="https://www.aaas.org">American Association for the Advancement of Science</a>. All rights reserved. AAAS is a partner of&nbsp;<a href="http://www.who.int/hinari/en/">HINARI</a>,&nbsp;<a href="http://www.fao.org/agora/en/">AGORA</a>, <a href="http://web.unep.org/oare/">OARE</a>, <a href="https://www.chorusaccess.org">CHORUS</a>,&nbsp;<a href="https://www.clockss.org">CLOCKSS</a>,&nbsp;<a href="http://www.crossref.org">CrossRef</a>&nbsp;and&nbsp;<a href="https://www.projectcounter.org">COUNTER</a>.&nbsp;<em>Science</em> ISSN 1095-9203.</p>
+  </div>
+
+</div>
+  </div>
+
+  
+  </div>
+<div class="">
+  
+        
+      <ul class="footlinks"><li><a href="http://www.sciencemag.org/about/terms-service" class="" data-icon-position="" data-hide-link-title="0">Terms of Service</a></li>
+<li><a href="http://www.sciencemag.org/about/privacy-policy" class="" data-icon-position="" data-hide-link-title="0">Privacy Policy</a></li>
+<li><a href="http://www.sciencemag.org/about/contact-us" class="" data-icon-position="" data-hide-link-title="0">Contact Us</a></li>
+</ul>  
+</div>
+<div id='aaas-oas_x30'></div></div>  </div></div>
+    <script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/misc/drupal.js?pmw703"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _prum=[['id', '568d96eaabe53dc70c276890'], ['mark', 'firstbyte',
+      (new Date()).getTime()]]; (function() {
+      var s=document.getElementsByTagName('script')[0],
+      p=document.createElement('script');
+      p.async='async'; p.src='//rum-static.pingdom.net/prum.min.js';s.parentNode.insertBefore(p,s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.tooltip.min.js?v=1.10.2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.createElement( "picture" );
+//--><!]]>
+</script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/js/highwire.equal-heights.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/js/highwire.panels-ajax-tab.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/shared/jnl_sci_styles/js/jnl_sci_script.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/libraries/colorbox/jquery.colorbox-min.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/colorbox/js/colorbox.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/colorbox/styles/default/colorbox_style.js?pmw703"></script>
+<script type="text/javascript" async="async" src="https://scholar.google.com/scholar_js/casa.js"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/highwire_log/highwire_log.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/highwire_user/js/highwire_user_meta.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/panels/js/panels.js?pmw703"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/qtip2/2.2.1/jquery.qtip.min.js"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/panels_ajax_tab/js/panels_ajax_tab.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_article_reference_popup.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_article_glossary_popup.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_at_symbol.js?pmw703"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.MathJax = { menuSettings: { zoom: "Click" } };
+//--><!]]>
+</script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/themes/shared/science_jcore/library/js/swfobject.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/misc/textarea.js?v=7.60"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/highwire_citation/plugins/content_types/js/highwire_citation_export.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/content_types/js/minipanel_dialog_link.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_share_dialog.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/js/highwire.article-citation-author-tooltip.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/content_types/js/clipboard.min.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_clipboard.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/ctools/js/collapsible-div.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/shared/jnl_sci_styles/js/jnl_sci_social_icons.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/highwire.javascript.ahah.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/google_analytics/googleanalytics.js?pmw703"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-189672-10", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/shared/jnl_sci_styles/js/jnl_sci_user_data.js?pmw703"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ally.js/1.4.1/ally.min.js"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/contrib/panels_ajax_pane/panels_ajax_pane.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_article_nav.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/themes/shared/science_jcore/library/js/fontfaceobserver.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/themes/shared/science_jcore/library/js/jquery.sticky.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/themes/shared/science_jcore/library/js/jquery.stickyHeader.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/themes/shared/science_jcore/library/js/jquery.switchPng.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/themes/shared/science_jcore/library/js/mediaelement-and-player.min.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/themes/shared/science_jcore/library/js/respondTable.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/themes/shared/science_jcore/js/script.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/highwire_responsive/js/highwire-mediaqueries.js?pmw703"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"science_jcore","theme_token":"afVS_ksA1XbaXFkXpsrYJXDKKQDbyzHWL5dyw45aabU","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"misc\/ui\/jquery.ui.tooltip.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_draw\/css\/highwire-draw.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_folders\/highwire_folders.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/css\/highwire-responsive.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_saved_searches\/highwire_saved_searches.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_user\/highwire_user.css":1,"sites\/all\/modules\/shared\/jnl_sci_styles\/css\/jnl_sci_styles.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire.style.highwire.css":1,"sites\/all\/modules\/highwire\/highwire\/css\/nlm-elements.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"public:\/\/ctools\/css\/263bfdb18936424f0ade19d6bd885f37.css":1,"sites\/all\/modules\/contrib\/panels_ajax_tab\/css\/panels_ajax_tab.css":1,"\/\/cdn.jsdelivr.net\/qtip2\/2.2.1\/jquery.qtip.min.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire.style.markup.css":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/onecol\/onecol.css":1,"sites\/all\/modules\/contrib\/forward\/forward.css":1,"0":1,"sites\/all\/modules\/contrib\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"1":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/css\/highwire_share_link.css":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/css\/highwire_copy_permalink.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/collapsible-div.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_theme_tools\/css\/font-hwicons.css":1,"sites\/all\/modules\/highwire\/highwire\/highwire_theme_tools\/css\/font-hwicons-glyphs.css":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/css\/highwire_corrections.css":1,"sites\/all\/themes\/shared\/science_jcore\/library\/css\/critical-jcore.css":1,"sites\/all\/themes\/shared\/science_jcore\/library\/css\/drupal-specific.css":1,"sites\/all\/themes\/shared\/science_jcore\/css\/global.css":1,"sites\/all\/themes\/shared\/science_jcore\/css\/temp.css":1,"sites\/all\/themes\/shared\/science_jcore\/system.theme.css":1,"sites\/all\/themes\/shared\/science_jcore\/system.base.css":1,"sites\/all\/themes\/shared\/science_jcore\/system.menus.css":1,"sites\/all\/themes\/shared\/science_jcore\/system.messages.css":1,"sites\/all\/themes\/shared\/science_jcore\/field.css":1,"sites\/all\/themes\/shared\/science_jcore\/date.css":1,"sites\/all\/themes\/shared\/science_jcore\/datepicker.1.7.css":1,"sites\/all\/themes\/shared\/science_jcore\/search_api_page.css":1,"sites\/all\/themes\/shared\/science_jcore\/jquery.ui.theme.min.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_lens.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_issue_archive.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire-article-citation-list.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_search.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_search_results_tool.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_user.css":1,"sites\/all\/themes\/shared\/science_jcore\/highwire_folders.css":1,"sites\/all\/modules\/highwire\/highwire\/css\/highwire-forms.css":1},"js":{"sites\/all\/libraries\/enquire.js\/enquire.min.js":1,"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_panels_ajax_tab.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_openurl.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_google_scholar_sprinkle.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_article_trendmd.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tooltip.min.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.equal-heights.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.panels-ajax-tab.js":1,"sites\/all\/modules\/shared\/jnl_sci_styles\/js\/jnl_sci_script.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"https:\/\/scholar.google.com\/scholar_js\/casa.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_log\/highwire_log.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_user\/js\/highwire_user_meta.js":1,"sites\/all\/modules\/contrib\/panels\/js\/panels.js":1,"\/\/cdn.jsdelivr.net\/qtip2\/2.2.1\/jquery.qtip.min.js":1,"sites\/all\/modules\/contrib\/panels_ajax_tab\/js\/panels_ajax_tab.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_article_reference_popup.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_article_glossary_popup.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/highwire_markup_process\/js\/highwire_at_symbol.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/swfobject.js":1,"misc\/textarea.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_citation\/plugins\/content_types\/js\/highwire_citation_export.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/minipanel_dialog_link.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_share_dialog.js":1,"sites\/all\/modules\/highwire\/highwire\/js\/highwire.article-citation-author-tooltip.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/clipboard.min.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_clipboard.js":1,"sites\/all\/modules\/contrib\/ctools\/js\/collapsible-div.js":1,"sites\/all\/modules\/shared\/jnl_sci_styles\/js\/jnl_sci_social_icons.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire.javascript.ahah.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/shared\/jnl_sci_styles\/js\/jnl_sci_user_data.js":1,"https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/ally.js\/1.4.1\/ally.min.js":1,"sites\/all\/modules\/contrib\/panels_ajax_pane\/panels_ajax_pane.js":1,"sites\/all\/modules\/highwire\/highwire\/plugins\/content_types\/js\/highwire_article_nav.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/fontfaceobserver.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/jquery.sticky.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/jquery.stickyHeader.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/jquery.switchPng.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/mediaelement-and-player.min.js":1,"sites\/all\/themes\/shared\/science_jcore\/library\/js\/respondTable.js":1,"sites\/all\/themes\/shared\/science_jcore\/js\/script.js":1,"sites\/all\/modules\/highwire\/highwire\/highwire_responsive\/js\/highwire-mediaqueries.js":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"highwire":{"nid":"722703","apath":"\/sci\/363\/6428\/703.21.atom","pisa":"sci;363\/6428\/703-u","markup":[{"requested":"short-text","variant":"full-text","view":"full","pisa":"sci;363\/6428\/703-u"},{"requested":"long","variant":"full-text","view":"full","pisa":"sci;363\/6428\/703-u"},{"requested":"full-text","variant":"full-text","view":"full","pisa":"sci;363\/6428\/703-u"}],"ac":{"\/sci\/363\/6428\/703.21.atom":{"access":{"full":true},"pisa_id":"","apath":"\/sci\/363\/6428\/703.21.atom","jcode":"sci"}},"processed":["highwire_math"],"trendmd":{"trendmd-suggestions":"{\u0022element\u0022:\u0022#trendmd-suggestions\u0022,\u0022track_id\u0022:\u0022null\u0022}"},"modal_window_width":"560","share_modal_width":"560","share_modal_title":"Share this Article","digitalData":"{\u0022page\u0022:{\u0022pageInfo\u0022:{\u0022pageID\u0022:\u002210.1126\\\/science.363.6428.703-u\u0022,\u0022pageName\u0022:\u0022Dietary modulation of T cell immunity\u0022,\u0022destinationURL\u0022:\u0022http:\\\/\\\/science.sciencemag.org\\\/content\\\/363\\\/6428\\\/703.21\u0022,\u0022author\u0022:\u0022Ifor Williams\u0022,\u0022issueDate\u0022:\u00222019-02-14\u0022},\u0022category\u0022:{\u0022primaryCategory\u0022:\u0022in-brief\u0022},\u0022attributes\u0022:{\u0022Access_type\u0022:\u0022Paywall\u0022,\u0022Access_method\u0022:\u0022Guest\u0022,\u0022Open_access\u0022:\u0022no\u0022,\u0022ISSN_online\u0022:\u00221095-9203\u0022,\u0022ISSN_print\u0022:\u00220036-8075\u0022,\u0022Volume\u0022:\u0022363\u0022,\u0022Issue\u0022:\u00226428\u0022,\u0022Field_code\u0022:\u0022;\u0022,\u0022Overline\u0022:\u0022in-brief\u0022,\u0022OAS_subject\u0022:\u0022;\u0022},\u0022member\u0022:{\u0022memberID\u0022:\u0022\u0022,\u0022groupName\u0022:\u0022Guest\u0022}}}"},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"panels_ajax_pane":{"new-22":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022JqjTnPpegMCzKMHX2GKS6qNUNnkJ5Ua3Mgyh\\\\\\\/wO\\\\\\\/XKr7n8hMnvFZlyXB3JDtJ30faHCayiMeQ+0Avpz1gT3mgok8AlnusPyNHEkZ5AcigJICACzlNampX01pDT69kUCqiei5sH59GJGR4aDTPC5wvhLSDuVEHH1GtCVQLqIV+CfZq\\\\\\\/mHGkOWgfIRvShonnFAXmJ26043+KxanqLGHzaUQWr6TWKHeEfFxT7ELFkLyrNdpXsVe3GV4JD5oEqn96nVcSWks68RnyCuYgzbaHQlelfktNdXQdMfonMVxCwIDDj8kjDx+3wUbwTZcke1YO30pm8BKDPsFrHdfkAYF2A7Y6ZCiIa6cFTIIaLJiNnY+\\\\\\\/u4lhZEUaSwwe1ChQOqdC9jhFdDDmqZ7GjxFZ5isKw03AT9XbAWCjR05Pu3MjdPMyo4yw72rBk+SUxTjbY45hxljaEMHYm43rZfq\\\\\\\/vipbXlmjkaMt+DJRMDLG9UXlFrVq\\\\\\\/3JwgvvuzjXMe+8LQEL4H+TwkgzCkXqcwuQAq+4g6zzLvZ2NYO1E3xZHlATTHcOQ9lCa80ULqJwbdjxutokdQMFX6GGAyQ4I7w8oJ4OLn+SNzHnLNWnIWVrbcc+VbfuXxSFtP1IA\\\\\\\/RfV29Hw3gVOQbk4oRjvBPfYwz2rwch8lbp7ozHGoKE+2KW\\\\\\\/UYGqYq2XOMZN8hfvrdCmsWK10PF2R+j\\\\\\\/P2IH0930juw+PLLsk+E6zwejP6Q2is1oJqBD2PZ4VC\\\\\\\/3MjiECndNuDaCV5c\\\\\\\/\\\\\\\/qrf\\\\\\\/rN+yQzS\\\\\\\/2OHeaHL7h7RHXBLRS0wC79geZNvFfWFeHVmnCXdSWUQmZeWfmOEB\\\\\\\/M0Vrnglgy8pyfdV0tLVLssMpKFipVfXj\\\\\\\/Jyq5ntdAxgNX9VOXG4OoNjzzJaR6np6AIzFPeqQO0Iv09eX5z2yfQM92TapZWZXMXjLW\\\\\\\/MvjUF\\\\\\\/sGtMRjCKjOi4NlmGDTPY+n26LT3bXFuPD3ZMlzpqbCBOZZdgP6s3PVrjZeSaGd9L4RPCoR\\\\\\\/B0VskXRROrfdcojGigYm4\\\\\\\/3gT4VH6cyEXYnOHfewwZ8lYKvNP+EFTTlxPRHjQkAFy1x4jSoaQyYSHeO8nlyj2rnVNV8ux7WvE593v2ahyEQHhbKjmPQTxZitpwF48mfmnTPbf0c3mKzLzLozSQHdCrYRMvRnAGFZMPeD1R8Xs+9xBTtcQF6iuP4V0dG\\\\\\\/bgGBY3aqaZES28+yxY7iZWaEhMsaKtuUSJCmjvVYQKivgRcscvnEBSq\\\\\\\/mlrLeZ6nahonRFTJp5HQnlx+I8TCx5AxdnSXO0SBswO3O5tNcwhCv+U4PI0i7kN9GogaNi0Kgz0Iq\\\\\\\/MU9kCqzDN\\\\\\\/BmC4vk2MhWuOSBOnIvydbQGpHbgrALcoJmgehzj\\\\\\\/k2xRB8JhIHSoQh89PSDdmtFcaKOEuZtepb4iS0sHz1qC7TrQWHELM6ZKcFFF1U+afb9xhF2Qbt3cDdjLXaqn48mxZKSgv53hKcjnqol1c5\\\\\\\/Xa1GOzixZivGoMrF5JlsuQnl6moQgg2HjRPuyMToqna6ocDcGuiSRPBSQctPzVGJlbw9xls0i+5pg9Ov6ZVNRIYTDXwIHTAdDFpjB+QVLiSonxZSLSAa+Ypx7x0EDsjA\\\\\\\/cvLJthpFSmy3u3L55uh1G6hHTaq0uzXn3DA3JCwm8MfaamOn4B0SFFA8dEOYNkXBvbbjMlqL5erA+wx7H9tCnZeaTU0TbVhNXmOgYeM5iMeK2nuK5T5cPq7dUb43vtE1WCXFyZR+odHvV3tPAYiwnOn+qgXYhOsr0VxpzO34Z\\\\\\\/Tr3KrbT+HW0r8ENi\\\\\\\/rewYLcYr2A37lSAzY3Wt4HGpTh749akh7VrQBwbjaj3yPbEo6SOoc53fVMRigFF+eyGJkgwoFxkjhzQlcnMB3GCLqxzVigZFrcCE4obH2TTXz3aUqpiSMXqGcuf0Xpf4l44AgrMYqj5H9iTfvJqmffLczDnvMXbQ6X\\\\\\\/NQazoaGUEkBsowAhF7mdY0w\\\\\\\/fRcxHcS\\\\\\\/44u7DiAzROYEqBmcJbXHqThb+AhSZKdz0xS2FVeb\\\\\\\/rQYacwE7Fg+3J6tHP9aY0C0GOA3lN9ONg+6GQENz5dTMHKxczywDAtJl7UqF0m9B5m9Cj73+AX25NbZxghvS\\\\\\\/OqGavt4D4dCGIE6B7QbnRtNFJ0aHJhSMIoUIPmCxDjF7iNQQ\\\\\\\/Yv2V4zcJX5Z53m9ZT9qw\\\\\\\/1zECqcFG3hZE8DtGkVvFXVmwCiX4L49LDnySDVLg14acK+1+GIKMbpgxTPRyIfxi66RJpCFJEGz6ASmC+a5xiEZbz2Y\\\\\\\/2Ovn+wj5ur6v8ZFo7H4bAo1fXChqv3wHKw90kAns\\\\\\\/oGKbAqdtyjHUSh0xtfHEzavDle13ym4402I+D+bEYFTGmyOpPl5skBbpsyUvdCUFQypOA+C75wE7UoKuwfbujT8RCTV0lUV4SV81P7iAoZ8PWEpuYIDejTj4gWxojGzeqLE\\\\\\\/ldQZx7YCc8FFxpqt17a33RyJ8US5XIlDWp+EzqdNee6wHbtN789gdefhqmFcNl1gv0eFm+6eGmj2T7wvUb\\\\\\\/Mv6RolkC\\\\\\\/xLFJFhPhC7VjZsSAPadPImedf0j5hPl6cl28enYnEEQRcTc6RfmfDavIJB9DgHjpBUGoMZQXXzR9z26yRbx3WpKEMUQd+qYMf4m1ETnLRpMhTzMif3WAOwS0UeuIgbvZvVUauCe5CNr1tDS56y0F7QTR8Qj2VT+QIHgkXSTFFZp5FrNp8OJfPc8DvGdTavEE6ykz\\\\\\\/W3x9dvyfOfvBbqUBUY6gRsTS0o5WLVzmKs48uaeKWSL4mG5wyHvHEKPa3HKIWsh\\\\\\\/+jhcDL1vBAy79kewPNbyGoBkpslCHvj03v+JRRJThUfJqqCgjcjckIFF0u67w484Q4Fewui0kQY20wy5+bngH\\\\\\\/GBUcsOLYvQiRscU4uRDstuOPkbeUwrJ3IuVnH0P66zj4K9lCy6CW0EcKBP5OPRwz3SHQjUU3g53bpAHDGRL1aTWB\\\\\\\/iWxc9avpO++rsvVIJNerQpjwAE+4roqK4AQCHd75XXBIw9LjW2uRlLrK1EZzBBqn4\\\\\\\/cBZM+QYsRoi5auiNhBvQ2BQNrhFc6OmhKpkZlecVbStDE0PSiDgVujBcv8Q5d1I4+L\\\\\\\/yaZrc\\\\\\\/K\\\\\\\/GJPCE7rgIXzdjPbkSFxZLKLgELpja2zSPCSf4m6PfKHwDbbVzE2C1cPB0efvHNRBvvPTZeKH44J1t3pdHcjz4AlBG0wE64vcIVJ+FD7+LS\\\\\\\/UOzSPolAqp+nn\\\\\\\/RHkV3M2BeYavlQQdgS1kW8i1KZ17J2CTFMPJER9umRDFuZb0GBPuyN0MxUNXLyylDvPlRkQ8lB1RwD348jPB+hmSheaWJo3eCZHDdH3VC1PNy0OSrN0dHnWbEcPP63BpXvXy9qTSJK7UCADGgrstdQT8aYYmJkGQnRgxK\\\\\\\/TpK1dpviLiftdNvDPACEZiOkTP0RQHGsdXSfUF4\\\\\\\/Om\\\\\\\/zcbQ6hsSopRWZpadWsf0dqF\\\\\\\/4WSjzOkuk6GqU2NHhyPr9AqbBsrnosC9+cejPHtk6WJJq8MqgYpOXJZhH+iTTex\\\\\\\/3uEmBD\\\\\\\/GNBpXJzqps77JfphCea5npdEKUHYaLmKfmTHmSa\\\\\\\/IXHmriJeHqG7vPdhOvdpNf4Y452yD\\\\\\\/HusnHbCwUoAVll85\\\\\\\/VG0LZMoyOopNpT\\\\\\\/BAagiHg\\\\\\\/r3mts\\\\\\\/pWADWa1Blcq2pk0o9e8mT0asRrMPuC\\\\\\\/fG3hTUjjVMs0Dt2TwlHY\\\\\\\/GXi2O0tFxR3mTQAjhoWRbCfSpmpzs+X3am4DcdLDKOS+WRi6qJGr3XSvd0ZvtrDH1sxzo2VPN5TRH9qgvEmi+pw5\\\\\\\/bVLlvKhsdUxsRYtTNE52s3+hDnouwspaKkETcvH61f8KrzOFpbh6FDE1J0Yz3LhN11zPIeqEOduVpATrAq8pJflgdaO0CbwYedkgl8tFDefloaI1fukdkUYCwVcVPhyxMkOwygeRcyVJvac0pkrqYYoDyHtbgaXeB+XbbzEHUKIPJtu8DVNGmnXIU+KgmuO50F4pZk5BGfz49eM\\\\\\\/MtYiebkWG+Xr9p03yzYtxaV79evaPqgs\\\\\\\/yN8QzY\\\\\\\/6\\\\\\\/Q+tvIfEw5aWs3aS3h\\\\\\\/\\\\\\\/f0QapKAEAe2qJ8ci1reBcjCG58QY8qv6r\\\\\\\/sWY6x3CVUIHsRTEf+4knwnDalZmVxfnmz7Isink8c2ssKfDV5SeaS4TceQ5i2WNTxn1SyIv5YklnlLY\\\\\\\/naZydMCLvqksMbNMIoFK+p3QErNfwYeP9mtkj9Ap+3bTQU6ljettJ+zs4sdzX+36EN9E70aIKcbArnHkbHSf5q1P9e8SlX+uXS97mc9HI8hZhgVQs9I0ly0Mgr\\\\\\\/8Olf\\\\\\\/58xiyZVh9+iYN+HjysgtQGkQlbDUOQXFecM7BaxcAbnFqXQmGuTwiytVQwdBiO\\\\\\\/3z1RiKSxvLjCfcW6JgDOThqvJjhptthyIHoJ1Fh6nCAQADI2KlVyCLG1nSwH6V91SrmNgUWA1Hvs5bIQSNhM2vuYZI1jrWvKZV71e8HYwvp6RYya5L5VJfaBDftFK98fDH0uVb5bqkR4ceNGHdnpXJcj3iLH9SUZMwyhU9qiSZzet94KtY4XBt4Q0i0Jt2FoH3swiBEMZSkCth97GS\\\\\\\/jaYRXgjHrMjsVhRjkMVac0VBAXgtwsmFEnAG6qoDc3mwUXadvB5TwCGfnLParznG4VM\\\\\\\/E3USpAOp0Sd6Wjye9Ei7dUJWoRO655khtNfAQGYdBirnlIkXicCVpS1X+38kknGXOPIb7GuvcG9sv5rK2M+y2tz43XtEQ8JJ4mPdemm5WtEKE4VBD3AXGGdTI9m0pMXS2\\\\\\\/9nnkXEnXphLo6iytMLrs\\\\\\\/MEynND7M2KDY4Rl++oUXWpICgI3B+3KSg7WI6xFmxODk9yCFOuPXQcIETgRxl56\\\\\\\/MQl\\\\\\\/gO1R+ZyP9aonbeYCYg\\\\\\\/QLgLaTelNzKsn7rRsuMM3br\\\\\\\/shaQSJoJhZbLHHdzBJtAsUAtbrOYSZqN+VwwPEToqqY5yqyvSeODUV8FVMsQQRMUWm3h\\\\\\\/v3E8g\\\\\\\/IhYiLPVaQliO2U7aXIsQPay+rJCj3baAqQ03pC+iZh9ukHMerr5qsat1Poer2qOJngzsy4sSOu3oTKgSLl9CDexUpR4ekmBF340KK9mkvtbFbf6Lfzh5fPda5lYvYEoEqJnaTKb6C1rUHUnNk+pjxeSmTcNn\\\\\\\/e7pV1QKynG2Z70HPccpJavbZCx27xjPwSxTYlIQB\\\\\\\/oFb0IsBFwJt99SZsnFJ11NAzbTZODR72qmbulIE3Jbpj7EL7oRI6AAny1BYKue4UBUg8N37mog9iVzjr78BY9Wkdv88vz\\\\\\\/TInhI2YGVsigOx3mePFHDRw8+HkA\\\\\\\/XqtgzSGLmX\\\\\\\/Ql25k0nadMUnPnGDoRKsSv3oOdTz06W2vdNNmaZ0ucfMcFUMQkh7Jee\\\\\\\/JFQFZcAbgdngK97VmohcU7a1LgQHH+rUyHLyYI+ClBuUjatSzVoPRU8o+agZAtBhGKL43bizr6C0P60VnVK\\\\\\\/ITe0BiX9xXmGYsNBq4Sw7GcpyTZh9Ns9LqHDS1HAyEQ1O0bPRQYFJVnvR1uC9rUjsbN8GpPWYzI+p\\\\\\\/EVwGgLNiEAHvPAcFzg3iZjS9qXzWCVP8yvLuUudn2oEbiKEKBOQEx16bkFyTjkgf8lQnkQESRJUePFGTJBWpHnwD7foAyTMIM1sLSkx3Q7bWUJF9rBJYYK0mzUAAOWkiLSZwGp+\\\\\\\/SnEPbQj4O+6X1XqyCk9f\\\\\\\/rZLQn5rO5U3fhHZyQCtg9QCKw59vxheFBbUvonTXCfHxeZ\\\\\\\/erHxrMW7CuEIJiyghmuF+Fy+WgcLsDeXqzWcwKDOW29I6IC9VdQti9cCTnmK9QKNMcswuOfE9jHaUS\\\\\\\/T91cf9bCEcv1znnmHDFUPtLDFdXzCxspfARwUxC4mr7tUWkfVenDt6vPYJN4z1fa7j1doFIxWqNgm\\\\\\\/Lbr4iZwdBHdB8L5dhctN0o9Ch3aobODCRUFaSF9jSWx+x28UFGeIZ5XscpebWO\\\\\\\/QA1iNuDRtdgGWlrvjuosAR3Xk326VXmntOaOZ1Kp4o5n0FZ3pe86d2CFpxz98WLAT0fz0yQI6aeJLhoc3VmlR9Qzbw8\\\\\\\/f+GANFF39aeigQPlVTKbfeRSFfJlwmvxUb1H\\\\\\\/xXRhJi4zP5aQjNEAuJv2QQ6i5ZHEyGUSYxoVFDVAlJJ1pGUS\\\\\\\/adXAc5Kpp8paki9XIgCcUHTQV9zrmYJ8OjNw7YSNe\\\\\\\/P5M6zG5IUTsnLucsmYgfQzK26Sojf4srAPLJHUKJbv87P2ECpQdrE8eWE7u4x8wgOjRIiXbIiDDM+FP7yPD8EpOpL0t2KCAxi1oGRkjv58Jg6Omt9DFdU5SIWqdTHvMqSEkfL2+plBuShl\\\\\\\/D6omVayiy4jiMgMQhXcgc+YoV1rOtOR6vn21lcYyYVZu68aJRgo72XNjDErQQXxsDm+iwusxS+RWOzv65cIHCRQx2O4oSYoypYtj\\\\\\\/gf\\\\\\\/FyYmA7R0vTdWrT2Llj79tDmaL0bthkRLNR4qViQeLAMTT1JNAD0dkvXQ765Jr6OSZX+Np21qpSWqq1\\\\\\\/0VQBBFo2MBhMDqDakVaBV2dGKjMACP6W+THwWukmT7bfQ5YpPD5ZCDyM08NuH3VWpe77+iUmehrOq57JFsatc+oFHfE38L9fvXVzpRgSWr1zZAkFM4qj4hxzp9AFGoWC883O4FNgISj1puPApio0MjB4V1Oa3FF1prZ3I6wSI\\\\\\\/L1\\\\\\\/mzJ90qegxmRR5sMlUwvPM2aXy6NNIjootq7PLQwrqXCEgDYrNGdJBg0QD\\\\\\\/\\\\\\\/3A7\\\\\\\/An4R2CP\\\\\\\/jeXnk6B7wYR\\\\\\\/zNF5s9rkPqKXTG4VfkKQR8UIRj5daonu\\\\\\\/oQ2gTcP3CP3Hy3mhcqzaEkY12vuzbnsaWiv37tBR6icJXsmjMya8DoKqIOZtJkDxICQvM\\\\\\\/0crvXl2DlyDbKq8CSw8Tc9h\\\\\\\/hmbLR+ym\\\\\\\/8laWqsbcrDmsE+Gfe7qAaONJmzDZnx6G\\\\\\\/mZI+mucgNuQYLWzkPOSv\\\\\\\/vANc70eJnVkQ0KUS8LFahGytkLJA5YHkiV\\\\\\\/exzyDKJzI0WpTvWtYObmcKJWF4+ApJohXWA\\\\\\\/bQ5SWP1ilElzkRpUUZ6CdYwUGwjx44xcNpJBNkivGVy0cjsqh2tHupNPhDuT5Ep4NryJmtIMg6BMaLlzvOBu1rEzP9b0L5RF\\\\\\\/XN5RX7GN+p9AZgZeL2XSw0qSTAsTQ8IbqPC2WFd7XSUCWokyNVPL1j2ZFHwWlgGtQi1QsthVAUdGpXwzyYDKK52HOym5SjnYQCvsgxSx0CyHSEXVyuLUh8X26p2Bk6PQ098ssc6OQqqdSvIRCYELikBsalwGEoch8+3MFjOqCCnHZtY28p0YGZ5huONyHYfjLameyAEeSd1VhXLlQBItjXBc2RiRR7oev3wgwfNdK2+1P3Ser5a42U3DdCpoFvvmPmHm\\\\\\\/ylpZnlufpNo1kVPmD\\\\\\\/ppP+yOyqhKQFh70jyJsN9Vati\\\\\\\/STy1gIvhtMQfoxY4lKFslMJphJHK1q2ZY6Nz7mooPsuvxW62sIQakKk+CW6x\\\\\\\/7c1QDncFWok\\\\\\\/BIp\\\\\\\/5NZMb6jj2WGRIi\\\\\\\/\\\\\\\/C7oRu30DA5jb1sa\\\\\\\/dpyYJnUgoCiI0rkn+J5Bl+41b2sY3ZA+kAIpvdQ1cLbgHKI0B0JgqpyPUH\\\\\\\/CejBIbm+teXD5USJVxsnl0LZD+p1XEI9XbLI3FptVgeE\\\\\\\/NMAjF8CuajjbcVtCOD25iHKFFXYA5rLzLqZvmHDvyTIJ7EkrHC3U5qIR82IkXSO1oP6sDuXGPr4+SaeveySh8yatKcuNKWkvhZ32Jcgpsm++rBu1JbDB+bZM\\\\\\\/Bn7dhJhSi6MRxpPQ31E1MvEkmMjgyNuA3ML9GHwtyMMe29M3SBPBvQKlf11vA7LPwJT\\\\\\\/DAoIs\\\\\\\/+o8CTBeLBRMXUXidLPAs\\\\\\\/lgtqpukoBc\\\\\\\/jBf2aSMuha\\\\\\\/8vtRi73YbTMh1SMZyoSxRg\\\\\\\/D9kjdsJGKen1KMJaK79nkLLCFqBnocrWSeqmr\\\\\\\/rN6xuUW1\\\\\\\/eudLjOQcyXSg7M6ixiViylGqx4b7DKnzwQe3Sv92jZ\\\\\\\/9Iim+VAg\\\\\\\/mQMIp9uwVpros7tQlTHHVlkSOahabE0RlOjDYwoQXSed0IB\\\\\\\/bWbW+NoICiEys8mSLWu8dNLr0RN1h8m5lPnpPLDgqg4r1JCyxsTnvBjO8kwn6n6hSwOQhrcWESd4FFfhhBDMK3Z92eag\\\\\\\/1GWM3XMB2kzLsP4M2DoOJm\\\\\\\/\\\\\\\/xX\\\\\\\/+jfT4D+7L65UYWMNG1y1eNQzvptZ\\\\\\\/4wuNOOOXOfRtOaw6vecvouY9sCvOvchFAPnwA5YYgc0pTGwWBdYFHVlgd4+zuDTPf27bt+flmltG\\\\\\\/OTGbo2XP\\\\\\\/IyUZG3sJYVtOsbaoJSvZjD9\\\\\\\/lFphg+95TNkNtNOTp4t42gEIs3sh72D9gC6mHOCOPrT4VFqimwcYv0DbBa5ctjZcqMxsPu2yeD8CpF6CGRccO25u3jRsKgPM\\\\\\\/T2PLlgn6677qzGzoAcEqnNPKBp0Mu+b3ZXvlZXUwPKmaLcKu0Q9sHQ6Ljgy3Fmk8D3Zoj6LNkaHD8oTO9nGUE0Xzv3TZaXoMRvQBtEu3zUOt10iOSDJV5D\\\\\\\/j2UVdHhBrvFoGU9emSM8we5sZwTS0e+mJfoClmD72lkD92M4o\\\\\\\/OxBENwdixcs\\\\\\\/FWMbiEsvV1wZXuiCJGonkYjpxV45W8Q2NhWMdjvu+D3QTvSQvqGn9zpAvsaBzpbEuir4HmtdyHydXyw2KxoTAEzEEWMsbfNXDoXndu7zcIUK55uohexwl94eHB29kbk++aC7yWf80t\\\\\\\/DA9KvNtpbIVo9bXzyP2ioCT6MSQe7kwXiTFabhYiRz2ghwTurfUkleWuOMy2wo+YWIq0rYVFZpPMnuE1OgbOTp7L3mnNDbNLo5TVuFt9wgRHE5sw9h4qJvAcGXtZDWUdPd6NCwJnMvwVc3BwydP86YXaE2nFr9TpB4kRxb7JGcdHYKKF0bgiB7pWGcFsBxPMPJFvTIEBp9VA3hd1nFpIFWHAEVyYXkEmjIF\\\\\\\/ndHCHKDijrXXPDF5ChOlYVdHoUCVHCV1Yxp1GpYsbxY6FW\\\\\\\/ywsHhNp38fjfDa5\\\\\\\/JbiYEng4RwwpUYj3YcUZpUgdNqxR30YHHeqpvgxByCR8pNJadnxrG\\\\\\\/TRCnpWAAe+OYhRpif0Br3S7WAcyNCbXqTImefpC9FlOF0VS+1zMuuPOHd0dTAr9SrY9zXKImzcBM7fce9P6TvNhsoe0POLa1x\\\\\\\/u61VRXTEYL3owDQZm0osS62Q2yBSW9eaw4oqTgeBbbiFiKw8yxys3c3yDpYVkotZWI1HwYlUIO5j73uSzMEBjQX18zsU8AifkUP4tXffNq8Idly6K+Sr\\\\\\\/i4+x7eChEtp2gkvgXolW8rvzAWULfg6xfxSome3Y62paz5pHOgYuWwKVG1eOQARkF\\\\\\\/OH+zverg0RVKto6Ox3rA+p02K\\\\\\\/MPbuUCeGTwiughgKaAnb8FbnUEVrWpt\\\\\\\/Z2Lfx2sWDKgUmBEn82Isu847+NKlneydJ2a6CeOtjLnnk2Jh2sfeLFYbX3qh+Cl1S22IHUXdxIotTlwhRpHubS8bwB1pAKwHXpaZ7aB1\\\\\\\/DtxuM39T5RfcILLelSIdt4lzBVyk4wRZOh9BVuJPWzGvOAvpOD0mkUWmdBqKUK6+sN3IpkFNu8s\\\\\\\/uiKY7XBrzeK9KYINhugfWIF62Yop\\\\\\\/5eFkmgBtED60q5EKuTuUETe5GYEw2MlibVT0DhUXozT7dtwwzJhg\\\\\\\/5MXizjUBbZzj3nGVtUuWyE5z\\\\\\\/jAJBlHJy272rr73Ev35dD6vzEL0nH1qXABQKi6EksmywvlIVjDqK0Gg8OLbnwFd0WJ8Az7PWngOoo3VWepX3lK6B2sK4FymnLay8caapN2DC+JMJAvBgYovOn\\\\\\\/Ae6F6zfLvlAM\\\\\\\/bD6u9WhNv5h4oYH0cCiUI439yQu1+8+hCz5zKQfpz9go6nCPAdE2gMJAYO\\\\\\\/U341a1dLoZoua\\\\\\\/8QgcJmSdX\\\\\\\/7SMi8\\\\\\\/7K+Q1VHslb5ou1ROdQzPfvk4mvErpZe7P891EE8zCtzNzQVyAbOVLJK\\\\\\\/Tu\\\\\\\/1afobWXL2n6DRqBagkC\\\\\\\/7lB2ymmkhyqIIIAXxcbU4T9h7tvkDZla4z\\\\\\\/iarrsYwIi+fuu8ZBxiQXYtMuhIHpg0rgwRb+HiMFpxyqmFjCPwZ0S8LEbfmcSxaxZvI2hbSrg8udD7V4uHWbJQ4z2AFURaUwhIYgU3ypf3gutZ3CogjhMUUsINmcVC16f41hjouIVi2x2Tlgj+Fda9cjDt2aPrpy8KXFH\\\\\\\/a1a\\\\\\\/FXcd6dyFWSqu7GxnEgk7ySHPUJh78O0Y0ie7zo4cjs4o9W066VrhAMZUGws7zEFtbKGXu61WY3eqK6YdhOpFMO4YcRsCRRqMfkPFKQDz1yqWLgvSTd2MxJKJC+aRSNL37vw\\\\\\\/4SvHhTw+YsiLSXQVbMrw6eUuFWgwUGWJH446GWZBc42coaNv\\\\\\\/vczI2Phc6PA8z2q9u37xEhGRZU6ug+URVqVTiufrcLC6kgeyTxnA8ol0EE7yYQxcLksWyItmgxjmJ8riMAZ8cnGd\\\\\\\/CHT40bRLbiN4rW4DxcxWK9EKzR48ZesGoMcyST2YJefVvuAbJFUQykb52D7CrB3t5N8juX+pKGrq6wsW7Z4WUCKnnBZDRu9+WQrMOaFsnKGj37BviePwFh3VjwIlUJsRxVqZNHbde9jfZCu1EbX7CY2V\\\\\\\/F2u1tFmzqiSv\\\\\\\/hkzTIoC6vEHX6VDL2tk2hb\\\\\\\/WNLzU1UVhShEc8yU3QUOlOgxSS9umZ2YGdB2pOiknoXvabzdPKnSukExKfT3BzSJcRQUi2x+MRJE3BdE\\\\\\\/hOxbK22ehrCmdJeoEdF5TdHWBRt9l4twBcY1Id4MgCVdnUZcy9I9n1+p\\\\\\\/ap5TM8gDAO6rAE13WGDdUtcS0EIOz5ukh\\\\\\\/WILBtravoIqnqmOp4cH4q\\\\\\\/ispR\\\\\\\/5JOy7XGT3x44ieAhP8W5wWqKRIDLB6fVJM+Upd6fu1yRJl3zWZtu3Oz6mYQEHM3eegH\\\\\\\/8HICS8Byy0jSRYw2rBZPlaLs0+Vk4f8NVavK\\\\\\\/La6sFnH4DQ0zWweUqIJRsyUuljyNz3sU\\\\\\\/0PVzT2FJ23mvDuZ+FMK0+5gH\\\\\\\/M8GV6IbikQ2u33klT9prEt\\\\\\\/lRiKxedqqNjetkAnXHhFjXrwTFrQ7FdkUr8Df2lSOI7v0SPvbTs\\\\\\\/sjUqV3Q\\\\\\\/86ACd1xI0H8pu\\\\\\\/10ADuNhFpdnVBqUSKr77Ef16dtUgrmh8ZyAzxp82FicEdye3nmmwb63udIJCvw48TuFHrUdL2IPCIhCRcWMwIEpwxV7FUOdnidl7jVh3YQp\\\\\\\/M5znZUKK\\\\\\\/WSiSRL5fYvMHwMgxQRfg+J9AeVVDMwsFWkxEVuMsUh\\\\\\\/\\\\\\\/TP5b3nb1O+4cuEtKUEuTy0iz\\\\\\\/FbtneQxFCUmvTe\\\\\\\/qAlAYWQK6lQEORAnYi6J6q9eLtEFKpOk93JZxdFUG+lHwU8BP3wzKxr4rpj\\\\\\\/hgMmC5+VNfc9b6v3any\\\\\\\/EiiY4Li7qU8LmERWFASPRYu6FQVYEGDgDyLjc8qq90XPfozlL3MvyJAFnVQG7n97ZXZb5RUt+x+7fwm6EOLMnFcBWsMFLDqb5bKrwzGLo3H7crTL3+G2gT9Os7D+Rf8Tv3z3lK64\\\\\\\/BkwKskBcYn1eaU22Ob+GVx2ImKrMElMolmwR1HgpuT1HvXdBUrYerbcNPBKxloBfqGnfyM6bHxBC+d6GPSmMTzicsXz5Fr1AwAarXGliLfnh2Mf1Kb1Y5FI5V80ZhnOSYGoMVyNaAiXMXyQo41C+p1nPsWH04MenqV4oWUPaytAizB02RdaeCR7m4iIW2YyE7mhtAOUwG2Rmb7P21eCFiPJxG5p4GAkTH6DY6qPPY557gvmo9cXEwfDzborZSfeA4saIvF4PmZvXOVum0jaNJWv4VtTSzUWQIWCLixSu+SiDEhQpjlUWEzGif0plKXf7D0al0dEd8Q\\\\\\\/FXrdxvNaVlSvnDCEDb1uEtXCm5PjVKYYx5zZ6jLDdlweE6cT6RfQ5xB0N6Cly\\\\\\\/G5EeKpGOPRTrZEcLXKfSwPIetCEByEgJWtbE8ViTS7QgyjrD3jFr9ABlEn7uJFFQu7WMLHP361VwbzZbEYa+rkBKxQcVtuJYy8uWvcJbHL67iwPWT5NLyHi+wuDyBESJSOF09GLO6KcgAilVJ7mK9MTAivkKDFkpqsdmyPNI2Z7SBIXleyaX9A7ryozUHd80l2GmdlkCgArqixnZYIvL0Asqy48th+HF6rO03FDF3yB5lNU3HCZtJ4Wqz0nSsbTy74qCba145CPoAEOe\\\\\\\/ecTUmgapF9udrmeI30hzrFtee4hzRDrGSOUGsSJxZWrAd\\\\\\\/OudNQiqd5eMsPV0CA7zhVgZn1sedtQ4Luh3aA2tpOkNognOC9dUw6ThXKCfkvcx4FfAT97uL2N4hGbfvtHzA6n20H3uH8iJ2uKeS225Oo\\\\\\\/qM1qV63f5dTWfGAN6mgqgAS7C6nTjdMXgp423Oi46f3QX\\\\\\\/dKeOPoiZ2wswn3jxJRd\\\\\\\/iennCYo0mkp2PERVHaEFj4y71QpMbHsG2+ol+Tt6bSxWO\\\\\\\/n0X45TKGjnJvtms2KvmE5p7Fk8USZiDpZZfaZnuo+0xtIH9wwWuh2YzXvE6WPQyzGu5VuNvPcxQgFE1pk5DEGF3EUw1Fiybjwc4yJYggD60HD6u71EmB+DlqnzKr5Ajly3rLrQHAlWibGDHlV47vReWNSixEuoE+lzIr5+KX7ezpvy+qyhD13BGdUBJPJjYMigNbRq+9qxFjoK8SmC7kq4i1dP4aT5saIvzIMm\\\\\\\/\\\\\\\/eXUIDmFcqOv8EFzckatNcWXbuq+B0OFnYSiBL5kBoXkamx9LMCF9Q2+P4xbTllf7DR19c+4lPPaNoLdfwfYLMnGc+zzUpBS35F4dYCB9Yn34NAFEaB5rMeNdyHozfv9JWaI6bpUGlrnyylGz2YBsIURAXwz3m2wrTKGS\\\\\\\/ppYwCO4Rz\\\\\\\/64PlEm+hp7xOO4YMqg5lymePUN\\\\\\\/YWTYLwC8UmTNUZY2ReeXwqOR8XamJij9myTmE15KLTip\\\\\\\/a8dsjZrZdMVTSkmDB1GQtbjXRsze5OHLlckCFkP95DQcQiTDosOYIz304ksufGMJBnKIaSzzSRSx\\\\\\\/oXrWhi8\\\\\\\/QKDEy4wVCzzXt2OMbVZqnfV1HGldVGfDy0cqL2yDmjTbKkAaXdkpCgR0e1lfGlqzjnyBbYVcJiTgf998TreMf4TFvv7fg4eD4ov\\\\\\\/GIK9JkZ86IK6bWnF544Jw\\\\\\\/qfO0rxnrIxjugtbMl3zTIa5Wquu1Of5b831XEVWr5G71es\\\\\\\/eIJB8E43EXZ2t2syl08eKHNPrqTaqiTZ89xSe9hN\\\\\\\/O0RUw1+bx+RbTN51lyU4xDhfVLrRRQLRJW42FGzvyRT2\\\\\\\/5bgFFd\\\\\\\/afNvmyftVnMAKCgCcG3LfNNfYcEMQHU1Fdk5XLwicadH39B8h+yybOT9bAYZiy7OBlM9cimz4UORD1OmS8IGiaUNa8jO140Wgl+UajnOoYe6LCBnJBPdeN5Ih2cRIef3XlSTMBuJnULiAYsFEMre3QjnfQukRHex2X\\\\\\\/vcs\\\\\\\/oNw+g+S2dQFNkMBBwutgX3BuC01ss\\\\\\\/vunBLN7JylnJmGhreFlj2CEc0kaRG9VJgSlAJdqpCyKeyhve02LkvswzbcK31pf6EjH9bqpxdZ8I0RrxDRnE6eBwIEfaa3vXLTTgP419Xj463OTvIs8boEiSLF5\\\\\\\/d\\\\\\\/HvMPkPEN6F+xhOYaQmSc1TiZCBT5TISt5Ws3t26kq9EBVZi80s9QDMVp93iJ2P7yMH8fst8caKUKNQinNsK9Yh9XCu2+oHda0fSAOdem5qAFCveIOXTk9mRjBgrPrixNt+y8CmjXNwI4wxP9kHl2w6yROMe\\\\\\\/2\\\\\\\/OoAgJ3fDIWkGSaPsG7x8HjfWGhpah7wMnyduQVxgxzjCBu\\\\\\\/huHiZdd1Nz9LjV4vVe9+FEYgKrnoCOModzgH5nLs5Qr\\\\\\\/r\\\\\\\/Sx5k6caeCYZKjx\\\\\\\/awBA39KWm2Z0SfJiHREj1nlSUJUAMvgJMK3SZ\\\\\\\/pVhmG6AltOxdaQ0BrOgYxnQbW2Xm1zBheR+z7VpPqJhNIqaECtejPMHGvNmC1YgSGOLOHUDUPg5hPoNijgVBArpDbTL6HlJ3n4GHd2U8FAEiGDaBLZTTw3NSiUBCnvmdJp5GFh5vVbebtnAiUe+pHAsXOwHmimsXzsPTNjgPSfGd238ZGtckKuK7j1YF3KnFxACM47B5pmID9eJ2Tl0G4BvvhwKgzJsrdHj+1SYVx8m50qi233EZlLwK6KnHzQql8KZvrdFLZ5Jqi5zWjCtG02Vl8S6iDYsN+VngoWuzIz82O1FrUs5ZcvlcTT\\\\\\\/0Pxj26JQ+JdfaxWln4POiZ0x9tdFqda0mBj1DrfYDgno779skkwVfjnRnM1x54BTwo+wPm\\\\\\\/6bcvEK\\\\\\\/inofWmr3Fwre0VHaHRVnTbkCtHDlDRN3WEv1iWRAny1gRnX51IGsXz73nryzYFKXXW8nPNWJ161ZXMhQUXtVDMsFPTudhJntwi+EIKz9fWirTazlUjHp3PeQoi5tpbJPjjPJd818WyFGCvxt8KgYYBAPU8vD6NZ5z2\\\\\\\/dluCZLq0IuwurMemuWYTOyEnD4I77NyUug+8bhGk4adHDoNsAIsZ268mqHZqtQwSpIEITS0\\\\\\\/eOWNigo5Ncn3Ynu3SL9HAJlwToKkGl1IKf2t2n\\\\\\\/UuSKCrF\\\\\\\/6DZ3MVDtlCMOzwt9ht80FT2riPF7jGv25pnAyo5Rbiu+KR5ud+xMe+6WNwNnUvcUlU+q+5t+WQCnWphhzmDWhW715ijDqZajsJhwUy13+zXBMZauLTo9qZmH+JPrP1ly2asUmSFRq2NfILdsfClsqjQ+vQq09qbdiIGLxaezeUEtbhUUkRT9qxeTQa+XiSIW6UvB59ZJHCFp37kxxK+o3bQ7OCwV1ycSvbDgDtNKLRvRmde+GbvpGMF3P\\\\\\\/wgrXsDfubb3Q7d05XeAX99DXjlElXQQ69IGzKMHnvSLWeHmTFxLFaI3ZU6OIaqiGWuyLCpg0VCbOX96hY1CW3DH1a5jOfN7aHKZ0LrrSArbq2sj\\\\\\\/4ptsWHmY7SEfbHKGFI1vGRomsqdpTFWa5C0d4jdmYzV5l14W5OKzOyneOJOMAjveB\\\\\\\/SWdJWAIBytclGMQKO5\\\\\\\/Fn\\\\\\\/65QXL65WS79mIvRKWh++uSc4RyUbBR+Wluz9Dn\\\\\\\/g82JX\\\\\\\/w\\\\\\\/+ndM\\\\\\\/XXa9\\\\\\\/TCvn41j\\\\\\\/iLywxG40l8xO39a9I6km6roK+XOqPx1nhsEfiolRYwhccvTCqWJGEEVyxTCwz9HzuRf9heV7JnjsuyOotnkKlPN1JqAdbx9TptZIDBFIhlLvkKpBrt\\\\\\\/aRP0PLBCdpUAkgtr68EOzJuXrxyUOVzB52p0kQzI04jWrfMwhn8ufDzxDiyU1xNRolipc1oJYv4WqNb8HPrxUbNVsP6AwzLlDKL6p7Umxt6IBlcJkltPv\\\\\\\/91Hub\\\\\\\/kawPNqCI6RyEfDEYJi6MnTr9w9QwMH3SG7RZuTwigNkr2CjqeTGm8OYt2V+XjzThHOhTFyRC1smpgu7MPGunzyuclvcnuy5wcM3+pQgebMKSxnPRpCFEXqBpffjiD1IlTFutczxbNAkIMz9IbEMjSrlfu2SyofOTldZulB0FZqgC9pRqidMCGC2OzwYkDVgzEZxCUd\\\\\\\/BCliaopKdZRiAWHrbVYcc1qaqylY5R0lXKJFO+h4DlWKTJDrfAi725r5RdqyErBJHxzLz\\\\\\\/01sPMNSXDrcML3UtI5xYKdbMnopyJKxIv9f+Lwq9XPIR5FJsEB6oYxOXlOSubE\\\\\\\/TZqU7TrpwoF5OmcqdVvAi+qYGqe7DvD\\\\\\\/1HSOjKuDNQ\\\\\\\/NTiwUnUYqbWdguq7FLoeYh9qDNLkR38mWwXhDfdSV4oBiETJFiuP5+ZYbZT08YMK7psEx0D2592+RpKfQ6wr\\\\\\\/zx2PThwE+nJzaQ7Fmu1QCjIcIK3c4BAl6gPzEy6PFZtgimT6\\\\\\\/C1lUjHPhbjpjGZp6hwOFfvfdWSjXlw4YbwZJRV8GMVewZP3\\\\\\\/bPYq4RI2PfU8CAnh0KPDYVt1Y6Xd28JCE33sHb6i1gKx\\\\\\\/xW07k3lYOkVcw6YJ7st3k4pHZGSp+nx++CumuSReRSnKxwLho2LEZ2ZrYEl+tKUHkXoiW18gz8nKaueCvd6vImGS\\\\\\\/1ZZKPBnYIujgF79NeqHfyoJSDEvyqnt\\\\\\\/8ha3J3XC+x6LrDwA\\\\\\\/Gxo3lFisDFDxGuAZEgI6KlwVWas\\\\\\\/GUIes3TLDBeuhFE8JqI7HVm7VFtmgf1qAUBi4PGho\\\\\\\/Cqy9Yw4TU\\\\\\\/kKecR0pnb8gaZMdKrxAMHsCx5u42Fthxa\\\\\\\/\\\\\\\/EunX\\\\\\\/Zrz+k8r14VY5CF3KL7IjVDdWPtcYj82fBMIxCaOHYF6EunbkwxbD9Kw3OyAJp97oZeEkZHdvBEnfxx1noett30edJE9ejyDEO5Ylfcdy\\\\\\\/YdY9QhxHeEcxLT3L6x023zHTRy5osEuhuKGo1nBkgWqxaLO6bWailG0JaBXnvTazRR+etjCGvLj4MSJ7\\\\\\\/qxsEMk+4DdUQrtfhf+RItca02Ii5\\\\\\\/zjNdRjJcfHanLCQpwtU8\\\\\\\/EOivBARCj9\\\\\\\/cA\\\\\\\/KC60tRFaJ7U5LUtQrNabsZ0T1MsLwMdH0eQ7h93BTCAAHUUjwchtVVTKSNr0EzwofkJSdrtO8HWuoCkV9w6Sg+Bj9FrHN\\\\\\\/\\\\\\\/TwGpBvoFgX3Dqz13ueCJMd2aEmFt\\\\\\\/lRmiLDigLc+m5A5L65elUznIPq7Z7YwKSmbmtgdT2t6bUIOSKrkqen5HqxJDAzLtHXvpjlS1X0PsX+kGUofk8sVKHsTPg+ChviO4OAwF92YLeGOB+O6MPj4FJ6erfNB1GESb\\\\\\\/3PBIVaM62mGvAztAaSo4fu7XQOSIhcdC0fyNQ7tqXrWTw7V0qkmaYM3d6Fko+zl9R3U4KO554Wqts9JtNcd1llDuHaMD4a7AmpmSfhIW0D6Fdie\\\\\\\/Eflsz3lW2d+7C58M72VqxwJtn375DrDGJAe14lAiEomGYvrMwm9qnbY6eH8IHOiLjGmvp8uqJKBrGscSrba8wE6vYaMp+vCCtg3HL7OZzNHVLSUQeMZn0gIUL+HeYLWiyJ9fj0NvJB6lUjNzKSXXprH6uMCuQKpXFBaVKwKSVqlNn4ynZ1oJQbQJaiHWD+vGoW4Tik05xjMDigfKkEcZiDpA5syMWx7qE3CjCs2wRSZpWHL7999NZQV596bRRJCBpNNG7eClQLsTxVtWGgaACDTwT3wYOacoDdxdI6QK8BFzFy6iNFohNlwNNy00dhly0IpHeDhY+kIhS9JjOvY2IGT7Cqknh1gwuaVUkhGkVzXts7zDYK2d4Ksw3HyS8POP8f8UqipuXqOivp2sWNX+dNRInHQNEqyupwVnlFWDFA6L2Rjw+wqiP4AwIxBW2vsqG2SXDbNP1p7jsjq0Uca6rup9DwLngTkJ0vI3BOgAvZ8Z6cbTeFuwI6jT3CM9W+iaV9U3PZfmhrAq9LFoqUj6jG\\\\\\\/gAXJZMzcYoQ3JhbbQVtZi84jYR8Te2m6Q4TY0c9ndOvkeJbpa0F9ncYCkydLK6HSdTQz\\\\\\\/CDsPq2AswExPkM8wM6qAERYcvPSCPUN62oha2zlg5Xt+LbGp\\\\\\\/cdTdUgfQ6RYJlmff\\\\\\\/tL9IGQOuEQeginKmzYl6KQHVRtZIGkLD603fQe0UBEHjQxHnHOPfxI49j2Uql4ajh5jkAm8XyrtIR5bHv6WrL3O1XCwMd2y0HlGQ0Axwjq0eUP17v5hYURRyz+TgeGUPI8wb\\\\\\\/rd8I2ZatGMsO5+VoZYafLkULGN+eVHQzuxwfNarXVgG4Plm9rB33yqLG2lnz32WKMqomiXTRiKIMaAyDWjD3df+7xkap\\\\\\\/2NbDnpIntfOkjp+Cq1A+PGl\\\\\\\/CynSssQ6jrWcM459usedrQpwJqDpw7jyXP1CITVXM6PVf6DNPmPLv4PUTjISkd14FEjbouwoErQA49bsiuyNugqrfuMVEWdEjKqynlAHMd2hIcvCzvQEOhEkcrCVjj9b2rRg4ZnWvLCtlhzjZk\\\\\\\/KJgmS0kalwyrxAkAqDRD+CjaDTyA2Rj8Xq5SNOpk6qyAMuTYe5rvcB+1dlzwSGyXdiJJMGVx7VcIIvxceS4S8YqfxQmk6yU\\\\\\\/v\\\\\\\/MyNBjLUVm9BxjU2UWxWCMCiA2kiOIpN2daVzg+7v\\\\\\\/DL0Dvxn6Q+a3VeJMKsxK5OZQ5a1JBCblteZKE86dvTLuapfd4F\\\\\\\/eN4C7OZ3pihz\\\\\\\/KRwQXac5NHKQS+kjiQc+1AWcQSlAcoq+o4MwStE+7M4Qi2vfMLvk\\\\\\\/aojuEysuLAbn808PnNQ0VlJfSRE6lEwRqCU5BhiPrdsA0c6eyb3NTq0c8Fj0MBEUVHngFvwrmgQCK9ni9di55P7V4WzxjGrwiK32NswOznFlxjcQPn8+Rb0L3hWVT7eEDopBukXyR2ny132nE5EgzAM+xR2zEM623mYcjcIFJoXgSFue8wvIb2vmRAqTIbhp3zyvwNhfP2jx7\\\\\\\/0aXuOz50mcLc6Klhn2vjjUdYyIDNtrlmOSI4Ler1hythDSRZ5fyEf4xVAgXeUlnQMRF7MM\\\\\\\/YLIIimRADsKUbVusiSFVxNxQPRdCCtT3Gds4dVpU3FRMV8ty3AuGLfJCUFrJkyDRw8EaBxjoXSycic8JDlt9ICjlNFnWQK6V9Hr\\\\\\\/5Qckhvs\\\\\\\/W+cnEyLrMtGkJdfUgXzwyTv+pdaQHfLQPE3cUyYBIyGx11lVvWQaqaEH\\\\\\\/RcZHPeBmBTlH3+fAVuLsxx3bZ3Fd0dgCGuYviRmJYSx7Zf3\\\\\\\/aArPq0UQGWEW9EruSM6xJ29baFEA96wbB8\\\\\\\/iUoChe8iYNXv+bK9SQU6ASk06aeTuDjW4ciGTo4HeAMIZa1KuKhY0VbOTcGYaW3hHiGQAknfm5ewZiun\\\\\\\/t2L13t4IMjrwTYEweH+kmcqoSz6FXuUlVjoAdF0rc8JzrAzjqx578imsKdfBLaTplrCgO6qJ3A17KOQx3GgBFCpEihCbzi+yvkIGgC4Jthi+J+o3ANyLtnWMUVzXNlN4vVTnoPb5NBkY9XxDZX\\\\\\\/qnjY6ESurmlJ4UD0mJjwEox1Uy2g1JAHv0hhULZ6lM1fWq+QTXbFJehtHC1mB0GWH5Np5F+OWqMihUd6QiUAdEuOoM\\\\\\\/cg8g+kc1B5AkE9lD3QIZ4sc02OD+mPD\\\\\\\/EAJ9YXyoQxLUJijmorvA08\\\\\\\/AtOxBl7XxPyHMG0SPOgi1xtn8WMBB7uFPEA8v3EIIAAHekvVlL+tajyWY66uz199afcxWesXAXfjCRC2Xvv3L2DlDAc09JfBTfl+6pAbs3H9TSIjgY7KmrBYTXn4Jkt1zogxOWueJgdKl9j6H9lhTvTBSPUTQXkGytLHBzcfYEY5zKraLVcXDW+mOnFCcgduGGm7jz6AZMPUFsswuGOVRQUXRr3s79CtBJ+OwX5F4yunyHxIYZlM1n6O4QOXbMSYpqrZd2r\\\\\\\/M\\\\\\\/1sENFocGV3UIwKKLogiP2ZyRTnLcwpKIpYcOoHXJun0JXw2qWVLNbAYuRku1FYJHyU3AXZsdiFnd3qGUyLMIgT2hoGrkV6+r0mw625H0PcsbWlaSuC\\\\\\\/rlqt2r7ud90WKrQtzqz809aGRlA8B3VMQ63LibuKysaUkwideBIAZggKGzQ\\\\\\\/4n0mWJmpeTz3ZtWaYApgraNDZDgusQEN5SuZdPZmPWUb\\\\\\\/m2iPhYgYFePyTiJcUQ1DjbVdRSh3qhwTGE6q8VnO6RAw15JA1L8GB8JmcrSSBfu178Uee2\\\\\\\/Jz8\\\\\\\/+R+tDQIVlimE1ywCz4xZNOflDG3M+oReReAmzzS51\\\\\\\/WUJ0l09CErRF2F1DqbOVNBV9eBcNDe9Ypf4xPmlGInj9r8NeEy0kduxcs+snVYIug82BDVgW\\\\\\\/EcTV2deXSV\\\\\\\/ImKtavMSC0Wm5N9s0bAGs\\\\\\\/W0BR03g4cGRwzt0WTTaF1Se4mKRiMpPAmPNsJvzRSBsYLAo09mpS7oWUTZLfq1vFAhDmMjLK9lupBhltQ9TmH+dTKqAWTXH8t\\\\\\\/eD5Q40uU2jtJ3ksmgpaR\\\\\\\/LIxt8kQNWrCcwVfVOZIrViXl4Ga+uFq3kt\\\\\\\/Zx3zsaAoLSx5z6E+dWd+9DdTCzZ59CUrThTxP0eRC1kMQKlocBbvoO6EWXLw01NgWLKeFDPg8LFDxxhOsGRFjGH\\\\\\\/lhSxpwAYYdjMtYe8tpgyiWTGyWihS4csjVDUZe0VU62ZC3z1cAzoC7Lh8vl6QA\\\\\\\/qWBjfUIjyDwasVhIA7P48OWLXTzjuMf+b\\\\\\\/NuufyCtlXl0VUMlbquLZ69aNYXDIVIzEqiAGhjA02zoJX7h8aTDoxdxMwO4Rt0alWKobgpjSMzKkXcEy2rAaOJKcsSWSKnuZ+m3HzKTE1rX3z7kw4QhEjozGbgQCj10XZFpgtmtyBcb964PKjWUz\\\\\\\/cX7wcDm5A2HhQTlIztzd6Jt6Btktl365m7Z3+\\\\\\\/rheMBvZV1Jm07561BNj5MvoMEBSRooxy0FCq2kJ6zIh\\\\\\\/TyPpvsx12UekIeoaCG9XfiqTwsg9sX2E0dyfDxtb\\\\\\\/chfVMySnIDk0FpJ\\\\\\\/destZ7EnOyqmeRE3el57thdDG8m0pOIlTMVsJUWrGA2bVOxaqJ6ZuxDlAexGltiYAUE7IJPyCBtb9HirzuD0zMQ6M5AiZLuT6R9qFVk\\\\\\\/gMPK3gQLeXy9ZYs9V\\\\\\\/4MwY1A7TnzVoYd3SiVf375b89FvmDM2E5QZD0sbLZ1VWC6TwoSmKy9B+Ewe124NDLKIp4F6mOiKyYXc09UxSoyVTgMKAW53U85+aY7rJGS1fBFK8+F0s1SulLEJ7svHoey1Xt9trNccgwsS06PyXe2fFOQThUDBGuwT06B9fZPTdu9EKgxH0k8ZhGg3FKpJMpEVZopK00FhIseOCdL7yS4fiB\\\\\\\/W\\\\\\\/S+oxfaNXRbD\\\\\\\/PT+pJ7J3Xq3V7N+FVhGmT5RSPWMe+SIkEcWjX60bO+hFv\\\\\\\/Pgvt+kN\\\\\\\/QBxc4vxDtPP9E5MddSFepCH49yEVS4M7Hn82HIKSRSfLKSUKmTnCVK1x4P0jDmd\\\\\\\/LzdicvWWnx1skDzVnJNmKvD05yMCAAZqCED0xbmLpkEXdIu01xC2WCOrZI2V8MCZT0J8ji+IEFWT+BwFFggAFmrcgtKW3FOnBAIJshhB\\\\\\\/I4o3bXhy5DCf\\\\\\\/b588J+25+oqweq+A4V5aCYPE+A3r0dzf2PJ1zTPr8\\\\\\\/tP8RMBD98iCB8zHZsucTIp1LhzhWYO+UJ13G1kAJMmMpGChVPS1pJzTDla9nlbeu38lIe70ameoyI4L1Bmzhcy42Et1m7n+TGuyxKtJZe2PRKUoqGtDdSOaDxJXUn2QmnIbXBalNc7nsGPdk1ns72KigBtU+M5kmVKP9q+PUw6\\\\\\\/XBKS9Uq2oQUer7ssIgx4n5cEOkzDrsQQq0uXvQGlzPndHq5OmADInq+Fg+dr3A8cruLZkgS2wmBlhx7vKZzb2SeveZhCyl2Z0RikARupgIr\\\\\\\/RuNoyX4ZBM7v4SkKB6S2unDbO2nXCkBbpkw4hVlRKIMqDqqSNo7Bw8iO2KQRLrnbvdSmR6fS7XwFFrblc76BGZ6T2U27kL+ERDDnSR8t8K8ip8mxjHKYzz8x0bf1idFiqNYL3hMDWd\\\\\\\/z2V0TWXyYJHd3ksHcv70w6Nm9ar0q9wCJrFhQxZM9DceULHXN3KqCcVZZCPkYxhd5qKWbR9hhdo2\\\\\\\/O1\\\\\\\/k25au7L0+jypbk7Kbeps0iM231GcM2o7GmwYfjbJS8JkWB+ZGsApx\\\\\\\/2DceDBoZcQbHbfDRHg0iGY1KzF79uCbD6RMRyo\\\\\\\/Pq0QRwbLRDsq7D1AV3p2gNP2KfpCHMNBwJZ6JlTlQsXmkQEfs+\\\\\\\/SNGjyl9CJjdmMLsnjKRsRTrmhBwk++VDzQxdYXQuj28YZi93Kb\\\\\\\/xh1Jx73LgNhebIksJZV6KQONjFAnbBWH4GPFXWK7IXsKoUuRexsQCuRsnDf0472ume7HyXK2ugxmcR5on97qoFaGPEbd\\\\\\\/chrDKn\\\\\\\/dwneE+VZCPdK+zW3RBfxGR3QTo2FDr+kgALGmspPTq2whd1cOzS+u5gvfM5r4QcakyQFZ5Ojx3O19yhKtTL8Rt0pkoM6vf0IlQual0uEtE695oq\\\\\\\/pIGvIS21lCbpPEMcuNjpaVsRMZWG5RW656jBA5zN8ygfdNp43\\\\\\\/xDiXcgw\\\\\\\/G4h9dWHf03eW2KbGsnB3xIpA3rY\\\\\\\/cxCc0UvDAFqgtSqXs8TYih7LFfSOCWH4Cc+m7YcL3HGSTUicy5UEfEsTJSRiLOED4B5uO+pqGqDnTYxWZ9NlE3AaVmEdgmL5msCOYxjmDJTwAB4ZrVLoEuU4zGKUi0Yhp50TM5c5G1kEyCzP11XPl2zfbFhxz942+t87fyJv8Sx6M1gdYAef4Y0pWwavW\\\\\\\/KbZiTM1TnzMjEE5ycjvNwPovTmw0PwqDsDSQanNKcsA3K3jPMub7gpKlRrhDKjomlO8G7356v3Zwejzertj+6Bv411\\\\\\\/7KIZqnT\\\\\\\/Ri5fFkos3MXmuJz2alcK9JY6iejGEB0ZipbNSynlw925oAb0IeOuhn8DVklxfNKCvGWRUyXV7N4+mp8YS0YCl50Lhdw0EZQEqYhb1ON8PPRchiv8BlYwUPYydd5b2fiTndGG24wPs9rA\\\\\\\/EK9vuYRoFqXSzjoG0yrKoke16HQjclQkNcoFb0foGXD\\\\\\\/ggb5MkGM9d2uTjRlO8eDxWJ5s+kbGJM1Jtw8X39Vd3\\\\\\\/2Sbr+8XoGR4GRr7XchT8GjccwU2IpO\\\\\\\/l+rHzu8\\\\\\\/rzkMNBf9BUPE8jEoPoijFTUxlO\\\\\\\/7dmhnJiRUI7yL2zEBJizzoSDtBjde8q64O8UbX8LmKanX6XNwqU5atZJz442P2U5G1fj1HQI8dgpQKgrTM6avawsP1XGjlm8WTkEb4lzzQVSuoIgBuaHjTzlE77ss\\\\\\\/muTMMgeX5Grq9xaz6chxLRGSzWs3IBmsvwk0yrxeScqDu3g3y6KKLZU8UzUsF7OP5PFWmEWdcrlffjq+JZaOpgj3isZN5OnT\\\\\\\/XfSXvvUaLcYi8AT0qGLOwQDWPPt8Lv3uRs2Kcc22omhPzZ1+oCZacqa7Gz77RcH4oAhc\\\\\\\/yWbr4r36qXPMOsa2m4gNupl\\\\\\\/skCFtVHxY1LDNdhlqRkz7ml+fDGYoxtySpIcxsow4sLdD0ZTBGxPx06q36mc2ZJCuOQlRAjLXH3yPnfvmeRqFRcKSj5\\\\\\\/CVXXDwD3IvrZwPIxYeZ4spkOribPhzyTaTvFXKSSnPteVmjP3EFkQnoxYmvutT727hAAYorUC4Aiv93WsjD3wd+NAeXzTPNFzLFZqKXnby1rkDy9BY0r7eSoYncDlkUlHZj9sGtF3kRwT4zUS3w8BvQKR3WtDBNr1ytjt3YQ2dUpA4T3qj8FdZ9HnwDNkqJJN38SJxngE1gHy3WI5BLw2nyddlOG1zyJqFgksV+jkkInwfpOAUDEEVOp3CN\\\\\\\/LKaW\\\\\\\/uAv48yzaDorAJZ3xP8zNPMNZsT41iF2jmwJltkLr9U8iP\\\\\\\/odQpimPvzo9+KYrmo6RFrHwaRwCfRVJwrFZznH2MIMAyPYLyFp2oTCvhKOHbhS8TRxoV7+Mmb96ZyRliTMhc6HIN9AVz9CExmuX6ARCJ+3hasfdVz1aylHNBoMvlEbiGTD3hymXiZMJVryPzhKyS7hQ9POV8TI2iYRB8uC5sYKwi0fq8AURRpO0a8QCZ2Rl0osLvGg2I3OmRAHyAF\\\\\\\/KmK+rBGxld2ObHPBspPKIBml3RitS\\\\\\\/ZKavvVOr\\\\\\\/o7YtPuYHs7HrJkVskIw4rUcmC9DR1nGs8gPwZ3TG3U14pFR48xUYhbcPZFBng7WAIzSOgRSAl0wratgrVHOgte45OWJuOxlvawQg1w41VO9YLqyHs\\\\\\\/SzgRrFndbEkpn\\\\\\\/3+k\\\\\\\/aDQqy6E25unk5L+WdrQCK+LJ0lDTTZSau\\\\\\\/GiaK5+bPe\\\\\\\/cjIWrcc4nMvjBMZWm570\\\\\\\/lBuR6JjfOcMHDx6ulzgNOUcw7p3+H+M0GWf8uYMWgW6QMI0FRpVBdLRO44kUfcoazBJlGYCCCAyH6nyGSXHmeaU9zXRTOxavahhNon20fctRSPqi6HiEesOuIInYhOaMPPNintUZekUo2TcAT88T7ncOr97v1vTl2kzK+07U64xt\\\\\\\/TOAiIZXKpBRp9jPXEDsKZ9KzEbQcTB8j4z4YCL1hcDP+WmDHfJyOAh54aI1qDBTPltBChVo2GsLr0OoozXYn+05lDw2GegainJWXN0+m0BDMi7atvRlGw\\\\\\\/MlvfJuGL9+Wpo\\\\\\\/2ZWYi439Oy3R68TbH\\\\\\\/\\\\\\\/VLvNS4emRQ0I92TH90g4IYTAbwoVqqSbq1xLbl12H+D8XIUMXql9caik7Y+YtDbBasGp5KzpcjmqJU8LYLvNijSup6W2vAmWhkzNslnYN8NE\\\\\\\/i1eEKx3gTxmB1dhn0Cg6wmf3Tu3rxbKkBrTsLJDrB8CJgnOYUMVBRDaZ7dgkB+kc5E6z3fJhFmPmC3RDx7ofKjc4idw\\\\\\\/CclvvOv\\\\\\\/bv32EDAR3csqfX\\\\\\\/S0AwbEsXEd73\\\\\\\/DVtCjRSN1zYVu3+6CwOZV17wVgQ1LHOoyEcjDqHf6Tw6PjADvEwk45esRpCU7NEwK7fE9E12BSkZ7s6W3fprzbObXbdi59sVkO6DN\\\\\\\/9fnw+DfEzTYXe1pUK7QHnlLjru1Cw\\\\\\\/M\\\\\\\/Q8KBIc88Rz9uuKqTamRNYaBDabuMhSxz3+zIQaN0kEiZkxxRa1J8QFx6dboSKFv27cr8Mwm2vlrrUZmGghIjjrpinZYZtbwiuNdiG9EQFmWtQhVR\\\\\\\/\\\\\\\/htviW32mTTjymMdYIo6IfJNHN21GSQZwBNnRAAfupSRbxb9rWZ0N+ol7e6cVAJd4r04PbG+Ud8fXWt9tZT5Ytibrga53opx+ErkK2dV7hMD+HINcK\\\\\\\/Y8HBQuRBxiz0BPGv+6jAvZCHX6O3BRGnpyHM44UykTK4zt+fbfbZZLoS9zmIBp4ASkUpFW3lh4rm96RGedJHBPhxGAAszZTENI9qC00UjeGQ976q\\\\\\\/U4WTO\\\\\\\/5XFJoQ+Dtqx6jbEtq3fd1ZaJBcBhgGTUOr0br5TaCTfkwEiIZzoUcBVY\\\\\\\/njzGwJwXfsx67UCs4+YmaiCxkdn34c+Gn61zTVJIE0peyDxU13NNISg1ONwxwNCZW8uO43xPhuGQeLDbN7W7v+4nsukJgHd2ndi\\\\\\\/t3R6\\\\\\\/aaUEAcoPp8t7QKH8SepsJXJ8pjhYXNLYbfvJwB02upDVuukUtKTIHIAvsVOVx5yuxmkRjb71NwSY4LcQTOunR2c00ycl7\\\\\\\/U8lfCpqrhyqnaJu0XynTRFXkPY28fdV5X9oKmsam5VyUq1v+Mw63Rca2vub37LJC+BmcQwMg3h6Us9ucXuZdT2AKncqeoIEKuQuSpG\\\\\\\/arb+seJIKyIvi3SE0cK0oZ5esrJnGnmJgRgXA3lS7qQOJGMnISapReXQrGl1AwUJUcRdSwML94HFIoaTu\\\\\\\/PcQf81XRwcuSNvR8k8sAvGkvEhBkOFQy7t5mYRM9mmeoYE+LMkIY677Fz08cOtHZXnHsj36oEyqFhQnheNESi+976uyj04vv6Nc0yzIL3tdH5EFzecJOfHEI+zp3GCCxM5UK3I\\\\\\\/\\\\\\\/cxepJaR6Xwzv3NI24KR3Y0+l8ioEYL2qjdShtKNUPtiFLgJ+o0lwS\\\\\\\/42ABadpfMi\\\\\\\/GP8tXkx0fabIzGWGyJHgGHdgvBrzQZBCvRiPO7V8nprcUEEKXWQ\\\\\\\/0WCmYZAgfpNbdn7udftX\\\\\\\/Nzoxq\\\\\\\/TifVUfWRPw3ZgVKprDs8AqvhSvHnO+Vd7B\\\\\\\/6FtJqC9mQlB\\\\\\\/Kuivz2KJGhJkcTVAzvZULJiRyu3cMMLMGA1OXpfmZupG\\\\\\\/f1pyp+Mi+pl0OzjLD3peE8v56MwHwgsCwU0gMpvae52pfAfgB6oVeX0PQ5cWgpNvYXV3fN3RE+ApbIj44mqJ7BTYd3\\\\\\\/nnZvDfUtDg6MUE3Chye1wIpjS6FlSDqr2UFeQPOWcwP5pEuQv07+TI+Hm\\\\\\\/JfnUmABbb2BEhHQWZ9pov1FnA9zkq6r6hUorih5Qv7cRup9DRTwWbZAuEolt7Fgy1oZPFltXY4MGvZLiZks8iEj6AliAVMFmCtKWrLuqX93DcxZ7z+vzSqWZ3li9eGdpuSzk6fOemrDbwoQhmpkolZgjS7ByWxDhCJKViSSmcVX6p8y\\\\\\\/YnPQksnaLbD6L6zICrwmpP4JhFa5CSPMRVlkMTlzmJTSmixJaxoCPqf\\\\\\\/fzNIKFu+AcFwT79MWYH6a036vK6hYDlAN6BfxpeaEqzVsaUYCQZJnp1SIe\\\\\\\/UKZ54xQUmYs4JIiK8Z7kEwxn53UTXKnvGO6XGHoo9hm5TF9epiGLQG9E+qJJeEnloYAybH5XgfIS9zRj2FLsNfJKUxuCcTaaGMKgR+xaiR6HMH+4qaAZbVzIqOsUAOmP+AvGLuaOFr6yPRGICJIlxPXKLDZaQpHxMlfulQnYYutCsRCE6UEGRPBBSA5SjIh3sO3++I1PeZPGLBSGJHHMmkkbKE1BW9WbKiLtbCtiojIEV1PqWmAbHod++SN+IGrHDk0YrogYHkIO977I43B4rR37NgroNWQLujXANu3m3vVgQf\\\\\\\/XXpvIe60yJlWWHzlPTL1xrWmbb9WPujjWbdSvcYVrAZI8VukByuoz5q3a8LZVcOnI8vWggQJJQLMJw0qTR7gQTQplq3Uu4X8rEKozXcYZiJ6jAwCLkAvySxgbJfdweZjHQSZBoip3Az+7laqF4zeS6Zk4I4D1XTEZSBm4ZTN6AsM8BMu31VTu2J6TCqRqpY97HnTgPvJlSEgLx7orMD8qbwjmxrJgCzDYRW+7OovOQAzP8=\\\u0022,\\\u0022iv\\\u0022:\\\u0022LJGR7no9lNJXNeHvO79keA==\\\u0022,\\\u0022salt\\\u0022:\\\u0022f4d040311b2fd2429a61a615cefc1b83\\\u0022}\u0022,\u0022hmac\u0022:\u002248673e2d36c7365ac4cac15969cbba0b1e015081ee6cbf19e8a39fc61adba50d\u0022}","new-24":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022FNKY4QeP64py6HE66wXsVZt\\\\\\\/eaZ2yA9ASHfb+vhR5hEw11o9l\\\\\\\/9bzRx7Dq4dLOOV\\\\\\\/M9J94QnE6aCs\\\\\\\/3D6pxYzJlKiPHVBMYqrbSV+Y37mL7Dg3099XNL\\\\\\\/wbgtOx836AHxG1aNmwtG6laYA2Mx3IbGGI0wu26MTKL\\\\\\\/zeVYnQUow43pMLxQNHE1MfNGxa44khFhAyWfc6NSv8JZU4Yh45IpNPJKiqdPcfDMzPUbQ5hWhTbDZSefRM7QrxiOkYqxgt\\\\\\\/yJKa64LL4zzHQpcql6p7Red7MSHN9qXDaIpPRSKvsKGh0SFnhpH08Ls+GIFxanyEMk6BMsYFpKSz9oK4vjwhaHwsTUk\\\\\\\/Nt6jlbwjKa2Nk4zux3O7Wmjnlv01dI3wdPO25FLaYoAzjI569U4bGegOttQVctZrYT05SVs5izYN5biU6abDPuSW3jvp6Ssel36DdxTebEsPvwx5PbYjmz4tq5FuATxcFehWYzJyJ2FpaVKX+pG+thYnKVsi8ljvU2NfQElcR3Bmkwv8ZzDqU\\\\\\\/LGzkCRhVNQ\\\\\\\/ppkHuNcXsB+ClrVaLHc4qg8MhelQ\\\\\\\/y0o0sl9N9mN\\\\\\\/ITRlOJG+I4VWrrWlVdIOjuajZzcwA0iep458E2qNgJ8NvlIxyaf6IrtTCdYtasaCrmDMWWsXeIdXyaXKL4icPenGcARw9CL\\\\\\\/vZu9rTs+JShXuf85ZV0ukgOElrQ9K0ySW4PihuKDtSUSKaeKTwMDn2K8Neb0e3E7BFQNbleA5cJiAQXhjHnU45J\\\\\\\/u\\\\\\\/ZpzCI\\\\\\\/LUmCrjpiXZ\\\\\\\/B0ABoNvB3NaWpHceqGFGH7KVo+9jO3IcuLpRv6lzQUeRZ0Pe1ZhmhGornrpTOgoBK03gUT8PTK90ztLlNg\\\\\\\/SgmFr1OCp89Z6eNGgHAYm5Kv3zmYgTJuJbeiHUfh76NnIfeXbnE+V40UyfuFZjXqQ9HS0FrzDJ6KU12cpRcS\\\\\\\/oEuz2OmBKhXznVDceaN+MMX3m+4fjUt9udckqJVjXIS1S6awSNhlL5tSW1+R0GvVnLyTN7qxKuE1dnzJyDaXYT8JzSohI+z9+\\\\\\\/FeAfORGZMkW\\\\\\\/7R\\\\\\\/uFbljzbT3oDxfgsLmb6OVL+C9RXTsawy0OC0iBh8m0A1W122lrWgA0lxQLCEs74EDjQezOVXD0bYLFrCHZHkS36kalv\\\\\\\/+YaSk5hqUi3b3Jb89Uzf+TVdKp8B0zOrh1qMazEeLIKVYty2g15Ji9ydB32jjVwZhjnGoZkqxI6Su9oWbfzWgZvRM4aakXcVQ3TXvowWRmFHzqMkz60YQdNFr4faocAIWsonFEwsEsjCBR48e\\\\\\\/utGuz5quba\\\\\\\/Xhq8dC8oT89RE7O099aFnazmTJIobltdNXt\\\\\\\/c0212VfGO0yd8r1XX1M\\\\\\\/Th4ELZtFSeA0O8LsGwWFNWFQTwMuupyoGomDvWwDyZ0F2ZUflXS7oDmKndymRDRLZHelrCzHRHDcOKRfVkl3o4XmilrMTL96tiOkWLHfT8KphdfjHuvEPIV3FMUmAuxW2IXk8T5w8hXdY3ol8KQE+Q3nt2u+qb8O9UMf1uOPuTrP0zouwHAyDfshv51RoKLOHlJYpzulOZtYCsOrS77ezCpuDlGy\\\\\\\/\\\\\\\/1vaudd1PaUWo53paEaEs9Mf8nDYMdqugwq9bhoPW\\\\\\\/CRyXMPyBjlJ5UaxHDGIFVtc3nvznJ7pY1jxiIP9QmnRuV+4ASF61G2MKx95pIWS3I7TPu\\\\\\\/eICFyLE5fOcP9k5oDdVKNg9E7lYOhJiqVpgkdhS3OSdaMSCEStYHU3Nh892NHSRL46YuEv\\\\\\\/dteS1KurkHQNOhNf7CCYoPlfIvf2IwmGkBcOlhL+WO0mVRbATFnfZzYQuseZoYcfGy8iLj0srEi7kxeAtZIoikGqySJL2tO4ScRwe7PEUq6taQu83unj\\\\\\\/lsFZvomQE1vFAxDjRT1sLDZblPQ9MCqCBTBO2u56WN\\\\\\\/opdo\\\\\\\/oyIPuSNcoDCrLLOha7c4JWnNZ5R+vSdHAc0kkizFmt5AgtzhLBhwUBu5jSNAnoyswkGgO8J77+gTsLNt8\\\\\\\/5t50knVE73gGXIlcceCMf+fkY9oJteSzSkD3IUBxJjnpMpzNUCRiDQZd7mnXYS\\\\\\\/nBC1b2m5rirRASIhxdQcYmqKdYPhUXCKZ5EKgBfZ1BJXbyVfqq7enA1+mmQHuaOc7yFhJvmqJi706PCrtA81Wfkxw\\\\\\\/p2QBD0RCUhpPpzCiKIvFvcezf4Ux5QaVJteIN3GIhBgZqmOi0Nf2LZweUWXZzrA+fJOWwfEJPZ26O3wGSQObk4cLqObcL1hQKmz1Fa6UTFiKp2bgyGcRu1+uRNHkQe4F8qTaM4WI1KUjnw3b2BCyri47e6Deioi3sADPz+ro2a4S61b4jzBweo9i3mRtWTVQIOeu1K5nWoJEIus5w4WMi5TWH1cDSraWODhu9+ZrXCi3SW0vKB3VVYuNdizW\\\\\\\/Qb2KOTYmvtkESa1fkImKDUJMkCp57+KCWpfJlxBdXiolugAtxFGnzxN39kzqB2CMNLLj4wrPSiJEUKZxyL2x32mA3YcigC4OmxJ3OTDDFMl2PXZhp4uRa4kJC1aTNfdQCRoum5jHAACek1fU+O6pTPNlcWBnqTDy+w4wcSFGsiXmNannC1AvOXDFWLC4QLOxrqs4lqONZL4udIl8Y18ZFU6vQXrajxY29Z86Oo\\\\\\\/+keeDRA6T6TnYmqCLal+Cu\\\\\\\/8\\\\\\\/6EXJr3abyxidIivMEFZbiEDC7qTnKxHQ9sAvNRztOXx7Erq0fnwGH4Z9knmhodyNxs8gUrae3HBjj3WROIz4ESm43KNKy9zJPv+dpeJa37iN2IM5kSCbYN3Vvu1au\\\\\\\/YVpA53V1cOIbg\\\\\\\/RxSPQ5pIQicaqUr8C7y6xSrHCxT4\\\\\\\/mVhTZcTbXu50EHBWM+TQ24PzW6S2yeACiTtzifrsXgvpz+hLuLWyR4sdfaDXTzx1Jk8+T3bvq\\\\\\\/5muFQO3rSUBghHydBJpz2VgGZ+ttfxe7AXJF0ssvp3ZIW0pBhOtNGRWto2TBDQoKE7tSYhOrUtmA+2PqmQBsuqpzlBbnqSBoMvjaZ5adWKKHF6t9fe4rJOdXgt7OIIlcko1KEV1LEhr\\\\\\\/gpRoccqWCDRQbY72O6DewEAefCJOpyp+qhhZ1FsqTwc1kEGjyFaxZpn78mu+E22xUo\\\\\\\/ddp0PfuDb9XDml4\\\\\\\/Ize+7l1ho5Iygz5B7+eIcnk4U46cUMFa\\\\\\\/zwqWizT+GaciiPMyMA6QBwdFhnokMIVr61QnoHa7Dj3f6GFMaRJJ7wi7\\\\\\\/eRCA\\\\\\\/lCDKDJFifLg8zJ36eT5FxGOqm2nF7jQH0OnIqRRJfkHx6QN23jwPpKb3uyHjqjBu2IDT5DuvYxuE2vCp76R0XNPNWkj1mTpHbc+x\\\\\\\/iXrZaM62RJ9nHSBZh68M2MfKBiI2n3ehnMu0navpGQaWgST7eV20UuHtRtNtwkK3YvGDhuNc5fpVWztyBy0r+2d8dddVSw4T9Q4Ag3dpBKLE5CvkbKoTe5ItC5FKvQTvxDM0ojuZtEAn\\\\\\\/yNpyIBlGEssSqUTYTIWxJPoXV34SS3rQ3FlSqR8INskHWXwLg547RhCKSoezzPSsHjyIBeybapu1OMZ\\\\\\\/y8VQwvmKhEVhiM8R3EVoFb59BEtGMubVtyC8UIJsFfw4DkOrBVPsXgSXLyCWhPyAGQy53PvbUhxIOyBeRmHpe+x26o3ItrCOi8sBtQEiD22C6uvuhmeao13di4OQj\\\\\\\/No+5RyUnbz4E6Vk2lcWSSyrr6P1o+AGZFAv64U2+Kb+kdJZHDiokaCkuX2jhFgjo0fnurYrU7bgwIUPvGVXoli\\\\\\\/EDamDo+ynKFjdRfeZPKHAyyvirQh9zBPRiHzIzOstOd1FQf2Hm8zOdhVd4ZSwBgzT6kP7nJrtbfLggbo1IjY61fE5cdou3LFXMhBvGBu\\\\\\\/ovI1e3m8IR3rv+iSMjYDsz260272vtXseKZS3HgrExS6ZvSpLdI7YuDtBuBpCakHQmFK2smStlhEfTE5zq8XOvHGY\\\\\\\/z8kyYNco+Jbkiz655\\\\\\\/PNymIVWGffZKoMwv5NWGj\\\\\\\/l9CQLNa2gYN9TVFJHZhDNWzPXsdFE7PO8it3yK5DLZcYuPz02JR0buXQwQmtjXL8NxcoNxAEUBtirw\\\\\\\/XAJ4h\\\\\\\/y3KKHTt4xi0HNrDJOB4n6+8jVJK5cDBttzTxNhGLjSbmbXZXKcxxzaAb6I1lINht7XyC0V3iWUoC1YsUTY94KjeF9xxAtkHWe3kHre1ltHEUEMvcIracjpmVCnhm\\\\\\\/XUpt7yXmqj\\\\\\\/QBJC4MMk\\\\\\\/FmGNpCfy+ac3BNcjjbW\\\\\\\/OosTWU48Jc7vnoH6M7Kp5wQRGyh2okxMOec35aSUEcB\\\\\\\/Pz1Ov4qJBhtnXbvRFGdAKEFLLsIMx+oSMIgpZsb+xINmrJKGXKSruUN4MxSd8knpuYZBVb6zzFoT+GMDra0uUvTZuspsMnkBwBj3xg14UXhivmio3n+MCVlYby3i6OrTJ3BxY4jOvO0Z9JwtZ5Ci5ttQmb7k0op5+IR9tR+O+XJJILcIYvsUp75gm9YxqmHLN\\\\\\\/OGsXOx459iHU6KY5BiuuhRTTvc5mBm\\\\\\\/qvBM3a6qQnrsSEW1NTs5Biq5WZtmoQMYwbl8bXAilHN6YTnqPF8zQgTMGX23S8AQESGzfI1GYfVfrISG3VhjCgfywnA0KmWKQxZ1EKXUHgjHCIlIBtYDn7XkPKTBKsY7R6oKOIv+nZHK8Q413XrTZXVuTPtwOwGTrJSaN\\\\\\\/SzYNVlAjkOUNyVWqGbC1rqNqCqiZPcO37cNVBEBUbhh6R3DJZvX3C3q+Ibf3uVtZriX1U3swowdmk9XZ8pOoB4\\\\\\\/\\\\\\\/du1tDCqxXyRkRnLoSK3jYw1eZco5WEVuwDvTu2Pyvw5zRqa1\\\\\\\/DB96yak1C8H\\\\\\\/sXphsRXL7qRfiZsZQeJR7ELBD75jDLv4o4B6VJr6lTChQAe4FoQ4zA\\\\\\\/fVC2mHUuOxhUYpFNW1wFM5zPdC1TGzzkFR1zN7eawVVwo2lDFAud1bmmWS48kECu56YFK8yjfKDfkPkKKp0Xlg1eTunj3+EtGtwEtpQM1HwOueP\\\\\\\/qgF5RzQ6hwuutxaa4jAxWACY\\\\\\\/xR089pkHysJBLbKl\\\\\\\/EICRStDEHqIUCLpacnIL1aJRn0rnIPv\\\\\\\/kk8RFy6oWCOMdA97DMyOJDwrZDROrwCuYwUWbeXTcq3SaaeEgQwTsLOZIi8vhASj9g+OipVMi8frXy6Q1i5nRGavb1yqH4QkImjvNBjH4\\\\\\\/enwOvNFR9uG+oL+1P+5WhK6ZuJvt2hQ87RDoxKuCbsPvZao+364XmUIcKeVOvwpHy3DHz7\\\\\\\/\\\\\\\/E62FobkeUhPG20g5UZB\\\\\\\/+0+uzSXNSeKGU2Kqk6Y4ZLgsSpjQzpXdYze9jQGbJS+hmF9Z3gXB15LtZQ9hR8RcoYdXgvRrFIq4Hh6SWLV9NLlYjBYH7yOGCMKvBs9FY14KQUrzICipArz0O\\\\\\\/RZjk9wOePGJVau9jjKYpn0SGRM1rjRCKcVq3GLI2fvCgmuD+KizxFrETmrAZ7+2yGPYQ87b7gJkMw9yM8bF7VphVoei9Ug4bwXCwoT5g3zJFwg4OQakxsB3qrvlN6m7BLA+0SgzqZrcnL17ZdahBLYker4KPnsNLunr8HZrCFTfJdaA6mvx1QeO0pjkOJ1v2PBxPwDihdh6J37gJ1eKhow4sGXw5b4i9NeuXW0zKcHK65dntI\\\\\\\/pfsmUbiquR4BJsv4B0QDF89WSf72pGxUCht01GjAEQi3kgnCvA+59qVh58ZfBMWTQOpAh1FcxVhfEWO6pN4ppiH\\\\\\\/tKPQEloNpxJk6n2YYsLeQpZ4yvBU9BORE1Qa8P6ceubUW0FrwmJGUHlmweSe\\\\\\\/lB4JSMTZrsvuLFpxB7Y7wXWqjjuiZWWFBQ\\\\\\\/dTzJ0hKEzMkPNFgHUvreRlCLfB2dy1r\\\\\\\/XpkM61FwZLCoxQkI0CRnuTz84MkcPCWeXM6qnhMmVu0whwZfSIWf8WEGy8sykkLC3xUrCiSbsn+1ONill72O1fRDObULkCIgPgElUZJ04RgcS58o32hyx8CfYIz37d9h1Cyh\\\\\\\/9AHn7DuVvTir59qLGsSgVZMq25kQqLB2b\\\\\\\/Y3II3YJiZSRvI81fELIsuxvP0Mr+W9dOH2IUiW8t0f2YUeV9P2yBO8NOE+E524C2OMDgEddtIfr4Nh\\\\\\\/1NtaOQFoZSOy7Ubg78o\\\\\\\/HCfImMEppkeyYwFbOWDTt5Y+OVWV7jLw+9HhjZMJesLvBVG4uj8XQ1jwi99YoWN5YwRGK13Bovg6su77yEpbWTYIRRxb8SPTk8o0GDAuWJVM9jsSVVBkIFyWZ\\\\\\\/aaRRCTdS03zDcJ12FSQuK1GocLXqIkhGkZkouIbtH6iMnKSJEbmDSpGS+amy31w\\\\\\\/StGgi3zn\\\\\\\/FTTJThftbWvvgSkxcoJLE8Frrklf8\\\\\\\/y5D9L86F6hGsb2OZKG43Bz8aOZ2o1mYTxQFTSwTjZkIYTnfwhRqGjW6dcBwQMHWFTMTq1Zm6PupzpRX0sAlEI8Bkk0zrqOqR4kg2I8NQ\\\\\\\/ymbD9aEYFPepiLmaC\\\\\\\/kjGgrwpqoX\\\\\\\/2kcNw9pDSrX8eSrHJaCKmwb8KWn5eTnMPVHizAcrr8Uq\\\\\\\/vvhWhlqF76LRzBKLES0dHqbRe1XBxky4VqBHK8HDLAvoUWc6mY\\\\\\\/EQB\\\\\\\/3xz48dQPoPRfncWIdXdBVB2LYpJR7xz9cZr8GsBs\\\\\\\/r3Iv9h2cr65bIRgeK6mTTidk9umm++yJ6oIt4qg5oCRR5bH0xRt447VSlJkgv2eMa0FX2WYonjR73QEeo86SIiI4r8c83BCKCMeVHXKrJa83M871mPZmpFPpZbNA9kXhKEsSBCybTn2D\\\\\\\/jN97jQX\\\\\\\/AFDLtHvRbNR9Ni7kYscapL5PiSOIWMoJZpvVh\\\\\\\/Z45N+C21K5dlXgZBLyaxcVDryfdFSinpdBjwSXqIFFRniFDsejR6+ItHu+rEaxwMN66wRH8Mrgk2KBddS1QNs\\\\\\\/f35ZVsyuFeijhnWnckN1vd6nXcgaCHq1ku\\\\\\\/L2nyMWow4jBRIZtBlnTxxm443IKJGE9+J3xC+IB5S08s7oWOAbclOdqdfcWrHIDLQELclZU30RV4MzVdg3R0ez6mUV+6hTqp8ZrL9xuUYbeVCQ2\\\\\\\/R7PPzTZaxlKQoq4wM+7j0pScrrF6MtiB42VOuJhE+fiGmQ1j7Q8A27TzK1gQv6ScTCcSIoLhuA973x2u+BaRT6Efv7RXLULftCr5jX5PZtmVwXncXzDDWzjOgZ0Voht+JGkhJn0tQMq2S7Rp7FMChJnkhbrfn7bCEym9a60YsTPHGBFGBQNHGMeC2iB8SUoUvUEfEDdknx2GfrZFtgPWTLk7GyOJ60rZy0EmsDMJAY73yVONkwox4pzQBq86b8OQBqegpeKtz7sh28LsLCQwSv1t4f3Rc35AiTc4yN2jCTLOCHiu1YmLsoy6Gi03Q4xYMrbOKf06vMDzTcs6i+YA4LF+9DKYqkL0EdJ4+T1cK49ppDkQ0emFOzhnnYVHZrIY4mcU1gf64Otr+xJIaginzsrbu6mu76wyLhYjzlVI0T81pmSk9EERKdKwQT4GnTw8QuIfDn9v0WUv5th1GAACe9o38d1NSjkNk3uK4DzVbbtUBpOy5HUEBmwya31ep\\\\\\\/SCFpVg\\\\\\\/2k\\\\\\\/zRk7xtiphXFc4N+o\\\\\\\/3sI7vSDNQ+QACAU7ukJDxNN1Uv86NqOZO5XN1jxK0qKLgqBImJnd7VyjQHuC\\\\\\\/HvQiz5HKkCjuajsHOOvKhjmIaDOEvfN4hd9Fp9AJoUcrf6orWAvnQIiEWHSk9ublMSBfUauougyF36WkUica+TN7uSiRtEFgNTxqG9xKkTYuJ0xFiAlzrlpjLRb+aS4ND9eNs6IoDlToVK1dfhklvSWLezVeIPFlXhxgyY3MS7sLXDcFdKM1ZiL7mLUcXBA7YsKxTgWq+O165rFbaU9HIfgiUGUyoqar3UzWuS4\\\\\\\/pYrW5WyOtB9zyFh0xqMzC3TmTlQlccLLiuV+6f9EUSjztbtRLsOGMziWXLJroPgyi0\\\\\\\/fcRwlYmHUrEkfOaPZV3BbIoe+dQ1qD+jKUVoOec2Rf8hNlrP4wrhToPLA1c2FgeEBxZnixyrjIwSzFxVBQZX429s2FA9LcSP9hQ1jWNG6p+eE7dppCXX9cTm3KoJSVfPL4i5WWEBFiHTY+y0Q+5WeWaQf590cuYqqrE2KJqa64t7gE5vx8XckINOfISJtjOaLiNJhUeomiYDAF+ENcDOBrc\\\\\\\/BVz+mxFKMGpOyd\\\\\\\/R\\\\\\\/\\\\\\\/o0hXct6gGo+drfSNsuztVGFS\\\\\\\/S4EVAek0TSidy7AhowxamDWcUGC1UkM6d7QWuHTv7gsRLW7WBQy7RSqg\\\\\\\/aR0Xhm1yn+G2OnxC0AAkYxMcxM3uQTx0+bHZ1cODBDNtGmgJ\\\\\\\/uxnyBA2Wr\\\\\\\/i35u8CkR\\\\\\\/meme2YIY7cPDbB+fjiX9vjtky7BYFxKBprJcMll4f38AwHxID6RVCqzSxnXc31JDSIGK8bwzqEyJlPmUuZ5vWgYfO7X6G+DHOXnc6k6N9qddw\\\\\\\/nZLSWDEgMoIh08PLXl7wSF4on1xbQ41Npnuzlw9aH8\\\\\\\/\\\\\\\/qEhza0leqQTCHdf\\\\\\\/u48Sizy6ir7JAZ1ig0Y\\\\\\\/acFiXkFQZkzw7WYonjs9eFVjOjD1d2jGXr1xje+\\\\\\\/pv5mHMzJ7jv8PljNv9HLobeupVVjz\\\\\\\/lmWOzwZNVTxP5eUEbPoQbnbT85UT4yDyd60vuPugFOyyRKCGRKoCjTN33UbfVFr28v3bj\\\\\\\/TCP5GCETtPYn\\\\\\\/KRFqWdI6sF3bBRGU9M+5sr8ISQuDIorXSPdmjnscB7Lj1CwXVSt9rINTykmzYPcETRC6QGqs2FGNWwKQ1OQ3FwJkWS4azU4eqTorQNnu2Rd6DyAOP8u6OXpt19zWokTprkOwcSGfo2jYjPCSQbX\\\\\\\/UcFAYvgKsccvMPGpBP1Kyxdl1ZjjdCNt5rvhALANh+8SKEzQwyRzpwF9kF2E2R4JU2dAiwQg4jQ+6sLK3mIYLe9Zqb1f6KCWW95TZy5y7ktarLS\\\\\\\/ikfAo\\\\\\\/UIw70jxEPEFlT1WXM9NFOcsse49T1BY1INmawsv5rxfKz6dbE7ehu47KLoTXYMcPGYuV64ZsfsvWEgOXZIBn9qsadEOjKR+xbxkCV1HwxhbmqAKaRArP\\\\\\\/1jE5JftCSF1oy3T62yWYBGbyCui2NhqH958X9hBtGUUp76yotRX0ND3tiaiMH6ZknOOQijHCBE8IPhQzse7z0yDgX1032BQkUtqdIjB9TTPNxyzg7frQ9zATTjqzKr2jvSlmHNsChaQWBMDfraXDCDoV2bFvliQAXvZakXkr0qymQtzKwNehezj7KNjj4G27qUctR2\\\\\\\/eLR6cl8Dd1l2kgobLTj5M8Jg\\\\\\\/A3NdwuI6RUgmA3YeXgXgkxyqVU5ObrIYKFEkqCXObP4\\\\\\\/2e\\\\\\\/nK\\\\\\\/HHNckOdeNZPY6TSvc+\\\\\\\/P8BpfMsA9PvsvBNH79CwpVPU8CornPdvPBdC2dnLvo50QxJW7mFkipFJm+22ouXAMLNSGtegGOo87GstQGGCOSJ21JMi5aogkErXLm+wSKo9Hf9AuP01vMG2mkA+CMlKCND0LB3t0XfkNUXwdJhjMDN56E9Q0\\\\\\\/VaSp+0lgWf99yaFnLKIPbJ+P0hu\\\\\\\/9OX+OCz5vi8l0AmunY7ENuis1iPRECv\\\\\\\/KiNuFXdTg9SrO5Bc0hBVS3DxH+0Txz763x4ojJ3CK3VpbUW9xYpNJRVPKaH\\\\\\\/xuS4A64mxoP7QLdGPM2wWFCgtGXAAPAGwR77tmNcZ7rLGPxPt8yvHEV5KLvNgea+CPOLp\\\\\\\/8W1svSCA1wMJEmVUmiKApRaHH8\\\\\\\/8M7Kd5Q2PN+zfyYBDjQFkdQHt2JJom+wHQudj+YqfObYvryzWmAMwPdd2giHH+9ziny+T4\\\\\\\/YI5k7fWg8R6ykAZukU4bRBIk3yq3YheOP9ytDQmMnNbi8jzSE4i4EIIsfnc2e+YMVwe9gg+H6IyWIEZVtC+MPtmTuodUHaFcTdE7z+\\\\\\\/u\\\\\\\/9jtIMSxuWnWY2QqLd1yYU6gYKBTBL4vjBSHQDWSqh6CpAgYBOX7nvk4jSZ0MLh96u8FO4DceiyQRL1IOqzHQDJKSECY53y7U5fKjbjSOh4ch\\\\\\\/WDLHFnkZh3FtqrfCjON2qEw5z5fTAuBcLdjQDM6t\\\\\\\/UMDvVEk\\\\\\\/LIA6WfuyMxsC\\\\\\\/6Ts+85uIbJaorGJK8bJ9KiFEngGVEfoGEY2FIyaxolhVCwd2N3C9vjl8Jo7nG61FOEnBpo+pYeBtrIpvim6YcbM6YtdDV8y9+e1vWcuVeJhIsZYtsUzkqdQ2pfgTDuZBd2TdTynUewXLcwizW4ZyZJp8BMOqokzT3mk+x0P45suzf6+q0e+D1mah\\\\\\\/TKCH9PsyF3OQzmrlaWRi+JG+OlkhwFd27MXPoB90dmgJLHWC3AO4QZCpuLccG8JNNoKsdkipBry6D4F1Tw1RRmBMSS\\\\\\\/t1d+vqXbfwKVfrCdpMmFCO00AmQOYOJUngMo3OSK04fiinaGNN\\\\\\\/3lBVytw9UJeTJ0Y9EXSsi907leQkkj7tsMMcB13gx9QFlyNhi+2Qo5VlXz5blR8WVnI1yDpNj3AJUVUI8Nb4aOCAb7zzF2S8ClYkrN1JLiRiPcHecA\\\\\\\/fFilM9IihclqyjjYBVFKHvWs6gdoocLUTGCD+7FUqXVqjHLIMhnn9k\\\\\\\/vsY526fRqkXpoKUg4005c7CafiALqrk9yJZu2TDmA4bgP0KWM+Zp0ZpufT3+cOZ\\\\\\\/\\\\\\\/JfzjzH4UayPD\\\\\\\/3C9EVx0u6qOgXP2ngtDhquCJ+\\\\\\\/0efIRpEgPu0whgWLZDysOMTJEKwvgLN9Jd65DRakG82QmzY7o4V9bbKMUlNjlgxZRcAvxeSmEBtzKm89YcClvmoHLNYjm+OfzJ3EtJ+ZGVlJ0RYyDjnPW8gZ20CWKuv209\\\\\\\/Q8tHyYCvBwYAfLYQrgTLgkXXx1di+1wzlRbOFQ1h1Z0KBgjzMxN89y25lZJxfX9Qx5QYEj2VqWtY0ircVJPUan4gXC6FfJBLRRab1W9lxONg384cUuXt9hifiGOJP0O2TB5xCkwkgpsSdSANR2Z4w68uKhGKW1KbjDqZ6JryYNmUk5XG3nIRvFnnVgJUN7COfgq9cVRokiSvTiZdeAW6LojYoRbQu5r1ttQSCHEQTnF\\\\\\\/P693HlEvJ9gDLwuKQcSHZ8I072179T9WfU+P7LxrI1DDUHCgEgjeRk2KznNlFWwBTQt8oeiaFPLNQU4wPoRzxXvxH1TNInOR9ExHnzch3MrIhT6EDH83Dc9LqB8agLpkGpu7ag5ir30vCJmzSlUC9tio452V2kTQvkW1bKFnKh3met+s5UaZEyxzrzZEqPkh\\\\\\\/kNgquVhF2U\\\\\\\/6WyyCcR9iuc9DPE1WRKX3FPYwtm0sjPKEqJcwniGneTAhzgsoSPDD\\\\\\\/5V68NbkzODiSlDY51i6yQW5\\\\\\\/wnHZfNxdDS0nPuu0mvl7EZUPKftVmfcb7IKrc9U71JpE7mnOPKVYtNMap4hkQy5GmNdCGvzT7zFeS1vsa6bhl6sSXx7qbWwo86SQr8qpnOqukjgPnC7DGc+YW0SNOU804eZlf0rwEaxJ4Uv+ObjW6hReDiGq0vI8biUzUi32JsaDBtusGFkZO+cZ\\\\\\\/hv\\\\\\\/ucT64opKOPiJmO97XCzdqNcHOsTmIc4i0MkxuhvPVDy4uAwjPtBGpjvIuma13Z0IcsXKzmJpLZsZowqJUqOjC0zH7+veVfyZNx+nVEaGhLlfbUsA08WEODPkb\\\\\\\/Xt43xK+I6LLvOljbt8smGZ3ismjByPcF\\\\\\\/+IMWcHW5rtx2NQ4NCtJ3WGBY5T3A9X2R6anvUJ4cBaqu+bs5k\\\\\\\/iWgOM8ZB44uGweSBynsqc+6PYo26Djkku3cFnTU05uz+0vRFw8qPsKoAagEyBtwcQZB9TI5H\\\\\\\/GOfUKP5VuVV1ppXg04g3JyrY4h83dCvZ4HHIIK5Ki\\\\\\\/bqQR3MTTZUTzTG\\\\\\\/KWQK4Nt1UfzOkIlPD2psdus\\\\\\\/rNF+uoMoPS\\\\\\\/jiOycxeERT7GZkMQXgsWDj\\\\\\\/+t+2YQ0O5Q4MSPmqgHHRIgM+C\\\\\\\/lcHYpiGj9UkfI1QRCr5lrUkJg5MvQTshgmCxjOZAjuPhpJHtrEVJeu510d+m948HEQAkmrEm\\\\\\\/RZilr9dm5Wy0IaiufgSAQCtCLo1vzkc+rnQ8dQZq7HdcxTG\\\\\\\/QSnuGumje6xiuQYbjrVBBggwmtoxyrFqwgI2yQwF8L4O0HhzP0JRx84dY+i7L4d2e96wtXEBypVpDfVKzQNWJR3MTSST7zukXivmeKbAJPT1bW6U\\\\\\\/dUU\\\\\\\/RVuoXfuY+UWYBbeG8qI6GP\\\\\\\/r9COZkYDNw2cwEcnqpet4nwJ4WBDauVxYjOwsfaOOnm5Jfi8n1uEC+tqY2z3xHL1bwF1gikkXvT5gmdGxMuvt0xsVtxpTq33uLIWZ\\\\\\\/W6M6qf+IhTf6Xg4fx4bDRXhc9ulMWJb+PpbH+5zzhrfPEP5m6sJCtDm8rR27J73sfSBTTup8Bt3RLR+KHAWhp4vBtcbJilAuzBnTA9gKq+ZWjqjgLUs+K\\\\\\\/FJ8yc8wr3\\\\\\\/FWBkzH19CAYTCs0Z6NMWTFr8Rybb6HcakRphHLEnCfSzh+cWfN7UT0yTGpWTjvMmsXuygZlp9nROJMw5BIaxkWdi2Ai1Y2ohqfSCsSYxkLUH5OgEj1BgfL5oIn8FZxHgRDPS111v4PQhIcuxCvixc3xm\\\\\\\/ZTIM963jOwvrXVSKhNV6TEWACPlrjENHzKfahnEcp5Fs3i16HypIzLAPX21ILDLV7iV4gLcrLSfIvy8FzhMeRpCifdrKl8IK9ldJUbG3nZaJKOFbgvLn1tVNvD8EyG5640cHlc3KrOGVsYdZpx2uxvB99zBENiKVXr5ThWWB2hxDzsdFfeCIYkOtaDRHXBK6g8e\\\\\\\/NxwbUKS8w4Wvzij5wDO0DrTabJbJEZfncA1yVf4Xxf+mW14486lF3jknSbhwrstC8ybcU9KaTbUxriSDR6REVMSLwY3OBo\\\\\\\/\\\\\\\/W1Y1evsVj00+Ul6jWS+b7b\\\\\\\/zO\\\\\\\/eJ99WojqkKSynz4RpX4CIDd1K80oBgN8q7A6rYl8e3t8KeZDbXQuQw4d0lFejrG0\\\\\\\/5EfGz6099Y3WdASlSy5eJfLIwqiWIhmtrsQI2POvMQIWhZ96kFP3fvn6mXsdTDBidNgMz1fQBM9B+eiw7ofsclTctKNHjsUudDovaJszJGqw+7zfdAA+INRNctw99NwsQhxg5RZ6E53zRrsQTNicn6TxScUz2WtI8xcEBtipBWbS81DELdOBdKR+CUouOUxmFfD2zEoXeOinP0mqHIxt83CBt0mR1pgQ3qBA\\\\\\\/iLevx\\\\\\\/vXa6JJYRbRTJbQGLdZ4HJVxS9CmrQOaxxwxICRN0hmnOUpdbsSgCPCym\\\\\\\/mKdo2HSGHAOD8HdTSjlO9820aY4\\\\\\\/s\\\\\\\/KInDB1vPotkwl+UuGTdACLy7XICoVkNiE8cvgC0SvTyFgw1Jef+0rNOEWv7cuWnWwGR0NrIDQroJFSHgnOB+gsv7Vf59pkJBi7nbWw5lx\\\\\\\/XL0gw+A1OQHnZUIxueeNxXquPg2r6LNhaku8YG+eXfDvYIBVHrQJOjv\\\\\\\/4kTramsmd0lcN\\\\\\\/zENYqCnvqk+nS4ZKvio9jGW6eUwUnPEcGmXX6ie\\\\\\\/0L+UNAccU3q\\\\\\\/Cr3kPtuaibGBbSjYu\\\\\\\/Z1gKefi5mibiZpYlvA3jii93rjxaPhbMOZAhB3axd00jhOeX9HphsLErvgO4zkO+D8uiFAresJ05Nn6UO3\\\\\\\/XbILkfLQZQ245or5vqhJ8Dm2nGgeOcwHuhU3PLaJZ13LLttBhGn8wcm94y1i\\\\\\\/urX7yXXERi8CUqOAkAWvQUc1lGj2m9Z6n0itPuuqko2Lg1XqNFxqc5SBUaNp\\\\\\\/HQRcC+fuJGnLTwx2lJ9ddKJIcY\\\\\\\/inDfj66DMljQJHTPYRWFtGA6nZ0X20wr5X6a1HT4naHvyKEnLYDSyYb7+wnWOCn+L+k516\\\\\\\/b1D27ouaShBm7TSYNWSqDQbQ9FxHS29D0xKnljE2OWIsSuG+ONFg+qWdMvmih4Pag1cCAJ7fJnuTaVdGc9j1P41saIaLOGmxJD3kJTd31cXkY5MxKBPc8MaLQ+Ctbk41riEWO5N3w7mpr9oWrPKWvR6vDXH+sbzCE3aC4rYsmum7gTWW+ZeL70LtpaAudqR\\\\\\\/l0tARu1AGJt+mtjowDQGqtgD6U8Iy+QuGPO5kXhydbWXVRSSg4H2bYbHpnIRLpMURZCoGPfhWfada0WT\\\\\\\/+FWdeIFonaBntqPcR2exQQ9tfNUoV47TWO8VY9g\\\\\\\/AiTXiklNb7Xl6Zv9ivPVvhpUYUWkixO8EK4RoADXEOXu43qXryxzkIpl2hBs4o5TRqASMwOHaxxi+ziRau8l7Q7SBz+wajLGSwdOmUOz5sbF+S+mlVaX\\\\\\\/NE89Man52d0Qu0Tflw3WNiQe+Ol0CZFqQNf3fJDXS1fCHrVFyWa3YwuViGO9ZZMs\\\\\\\/q7QK47DsADLhXhRqnvnhybyOTILSNo2RwCwZRi\\\\\\\/mw6iRXrUKg8WbvIO9h9nOWlyvIuANvBx0tbTM9v79YaS9K3h8TjvCOYa\\\\\\\/e7PI558N0lqW2OMR37oUiS+vTgibq92kTYeKv8VRizl1jx+a9YzbhxdUjnWPZC19VXmqrKqSLeLl0ClxsGq\\\\\\\/CCNFnS0eRSNlzsjfbvcpj3o4\\\\\\\/BsEMilBpHUIX8Y+Enz06r831uOgNFox5ZAYsrRVEWLvihIm4JeMp+VKiFUx3ZlM0sSTy3yZ5Pqs\\\\\\\/oMMN392iJNx0sl+POsxjODXerPk4rXg9w3K6Y5Tg2PdcENDKQdjPrD7bxGsdQ1QUR80\\\\\\\/l7rDt3OnJhaHEHwPRFRJmotA1xe6qqTv35UU\\\\\\\/bwKyDouKn50OhstAVPIIU4NQUdDuB5xJEaKfkrV36R+M9AOcMMLcz\\\\\\\/+8EU3DtCDM4LmFY8WQ\\\\\\\/AxZJ0MxLwTRpYrPOUFPZU8sa7BFjXgw8i0vuD3zgt6sygTmdTZF+wcK1jvjvS5J6t\\\\\\\/J8X93KW6rWrL9u6imQA4YoHRUHLs+UI\\\\\\\/3MqYue6SXUzvZZuqV2f4\\\\\\\/MX4e1+v8vHs8Re+nJ2v02l9kNhJTDiBbioGyTO55Z16ss3Qkpj99CEL9GTEuWV20QglAh6wvrBZJOQHmTZE4HJm\\\\\\\/hnIXP0Bzv8h7d79kCU\\\\\\\/NyTjhAe1CKdPK7YHNwbcc9UibSxrl+2064O4S1Sn2TivQEhHtlEwHcjwR1taLdzzPB2nDhxfYcjs2rqI6bhSeuBmTo6XV1AuCdrdx5tzzAQ9UmZPz9BezQS4hjEWNPCxKaVktsXhELH6qeRz+Z0eWc5YdTrWbvNQ1C81jiqR6Bi41Y2Bt6XIXEEnvmtALR0+JqwfWmsNEDfeRrG6og8C5+je1l+20rTu0mkhz0dCOeXspHQvJ4Fiq8Dixgb7psxRK+4OO9fLxXnuFhxYea1XDcVUTWnByDOk17aplNeQxY4rqhDjrnwvP4M+DIhbiv\\\\\\\/OCglMphDDA6fzL6aT9ZqmHA6RNvltrAFP1tcpZaSejVkBLUxYryLbO4ZYjZbNWFkSzToxq1iPn+zVReBLCxIeHhUZlxIPJ6oK8lTBV9A+DEkEEqyY15EoZoboJ3oELuJi0WUCaNwHdbX+Qyj2y+Uz5PXN9shM1BPrtsCojiTN7TqkovkzAA5wVBFCvsIBiWdpfi24fXtW0PsFeE0WHlXhGCmnM\\\\\\\/KtZ5Jj8lX+CLcgPIeR\\\\\\\/PtPejYvsIlUQGO96OEOxXWU2a4AhV+vumnzPyH63A2jW\\\\\\\/1y1jComztu+FxXKQpyZ\\\\\\\/1wxLftKj51LQSDLK3ChNJZjZIKG0TFYCjrw0zMlwLOr\\\\\\\/txzPpRJHla2NR0GXCptB8OyO7pswFhPS5NdRMSyDLAGIMkGFzeQvVkBuBUg2DHs5J\\\\\\\/iJVZ4Xz3SXe90ZTnjhWazJBIB+Ogn6o+8mhK6KHOkqU3Uo6iHKCB2g3zOZRntKd+OF7d+L203zI+s8FuM\\\\\\\/Ga9Qq9Y8D1z6NBH4ywMlvGr0u5b7+1poy4k\\\\\\\/XV4xLSj\\\\\\\/b4RjHQNT6cfMdA6R3AtMz9OVHbHqwTcIgypYJhJ2XLun\\\\\\\/W4sBbjtEvL+8z1JFLR1zscbnljcj+sis5ZdYcyA5FbIRhvt7Y6lQNKboSYU2zb4372HQiefmwKsl8QcBZwgZ3BX6KddNUP2+q7yS0GM5j\\\\\\\/NySv6ar8yc4DfiUqCWXNLXHPmXp7b0xfupc4JfdPhnJ\\\\\\\/Dw\\\\\\\/T3REdIi5KNrKs74htBABbAhJISdEQ2FPiR99uNHwP75gZtlwSNdMsKfJoXUtxO5CjwNFwquMlPNmi9tM0vmDV5BS1a4OM45Fq1\\\\\\\/UW\\\\\\\/kM46Xl\\\\\\\/HtP+SG\\\\\\\/wR9PDZa7M\\\\\\\/\\\\\\\/IyL91qLgtk\\\\\\\/nv\\\\\\\/j4c5A38FdbWq8RRYib6keE8+aRJ\\\\\\\/s7Kw\\\\\\\/6jbQt1XyhkJryTKkua9L74Sd7R8MSduk7y7ik6fF6obu0cB3Ng1wpuSK8wXLbyjQzQCPVAyPK4YAei2mSVpXULA5Tc0B2Kb9qh5vaLTOceiqVPICfC4vfOG6B0YPmL\\\\\\\/XqtukLL3KNGLG5ilUYHYD9dwo9ZhABsW89ibYUDqPusuxZrQrRKZaNl++Iw0OUymXzV1jT30xcn01aKpOmydM3FCJtMkO+ap\\\\\\\/aWlk18RMHrwv4SUjok\\\\\\\/19XtVqbFJskHXUdfU81kR5dk+CvDImihrBULH5k04bsmZDeXkldczm2wkiWaRUFCsgLuTWzJDGZdmBcGgA9h2RTynNqRGht5Q5EgrLBoZBLuPu8ditXc1AnZSRo8EGRYJtcPjAK4fFt7aCkD7wxv1DlPFZrocctd4ymOmZ4gKfHaLjoB1c4HSIPIaz11JFOquDky7O13o4WN\\\\\\\/vAbHH3ul7Vxk5xQIG1Q4RXlNSytvFjieiNwK9TCm++aCzvHxapoClHLvgpz8p5sXk0Sd+5qP8fg+4uGcgXKPKw\\\\\\\/n+TqUy6PUsXIXQKMeBAA0TCa1rP\\\\\\\/slybBLcKA9WCrIodISJRJtuNGQGoNmToOJRA9TsnNgIdEhjoXjfkG44QSocHgMI2CONgxfF9P688xWB8OA0n3RpzKVJEsklsgD+HINsHZCrAMjHhXSr\\\\\\\/rwd4QgRjxyLu9fdEUz0YjwBIl2LTpryysIIizo7dP2C2LsfSQj6IaimpSNjkwt44cy1Uk4oHbuv+vovjq3UlbKCUN+TXuLe+XpgonVegqIQLWOX\\\\\\\/hYe40lZb8NhYVB82nXpri3Zb+c4UWMZTocyZeqzbrlHb+UuojjEj6+WxYm4J0jxfHqwjAOAFu4IBcDmmmwNznUfcRdMwEoUbjZZDyuGUDIOFo5nwyYz9mLf80\\\\\\\/td1g31A9KgGIUUtpokE77MBEynqfTh4oE9R0P7mqFODswCp+Ei3Jf0WVLnzYkYXQ9gIloTarFo+gfjUk\\\\\\\/k5xb\\\\\\\/bFHCCtwsRql9+dwGnK3HP+krKATvSye1qILLj2hKPhhUK6s1cNAFOFNsHVuk3KubkEoxmHlstAnH4414upit2sYLln8pX6jGC1t05vR7rFg6zBk9OUCovirK1u+OidW7pjyzRLruirW8Q4asHntw5h9h6zysv2MDzHDczRa5Z3y0eYwZxf3qKmiSSxcvJgS9OaH9zWND2qsR6LLX8emT+ZmgGGV1M6xzX6YorekQZO5BdPoceUa0mlP4BZlO2qoRIq6wC76WNLCoyV6xSquf7g1dqBDqVSbhBQHx7pwqDcXQNU\\\\\\\/XpTefnE6\\\\\\\/BEd1Y6A6yf7pHGFUSHftiO+hZsMX+FihLMiQI0o3u5XOjHQiK2yXEiCOPoSbugS4TsMJGXj2V97qC2\\\\\\\/LKboibM8KRL+77MQsoCatSVr85S2TqH28RFmw\\\\\\\/GSLKuS9QSMsEzBK1nbMDBuTZX0UAoCNUQRjPJWSo3tGXI8ocIoBanEgAnG59X\\\\\\\/UpJ\\\\\\\/CaapgzPpdH5aJXfmjGvR1JfUzyXUleIZmVFjZc+zFOLovJfSRt3CiDGhO4a8+WjPrMhoVjbg+ei7AWdtV8WCHZ+PXLdvPRJrq5FxSmpREuD+zhvr6P7xcthYcSzVgHpha2jdgE67yw9wpy3UUZzQSbTRQ1rOs4zpfK9jvh9hV56i8njzvM1X4Mlv0PB3Epn\\\\\\\/qk3Rm6ulDTWS93lzVtl0ifpNM187MNvBwzvsbWynZy3brX0BeiU4uPvwnjc7AWoCxL2Di0pbCB7vlkDI\\\\\\\/OAvCtJ\\\\\\\/\\\\\\\/jbNVDSWHJTw17M8agT\\\\\\\/Kbk+gxr9ugXKeGw42CcHrhSY5vUFPmnP60XzxW9t+YucNVZYud4hlu3M6oBB3z373zB0YxUoiSksD7n7N1f0er7PuS9OdnGecZjAlU25DICys8HO8bRL+AhzEnU4kk4pygDykqy4oJQ0zpaI537Ow3N\\\\\\\/NGxCCeEgqsCGJMWcMV59QlieiCPmuZxlyKtovz4WrmvO+sww2Jw89CZ\\\\\\\/Yxr3jequc4\\\\\\\/Ys74EoNN+aPX\\\\\\\/JoXHbKDyVtR7bTbraJH3vJtEAaFz47LFcsWnpPEuN6HV6UVAwpWCdshme7WlotusWedW5RQMBkZkGMWbe66IsOzj\\\\\\\/GWAT339LwENHT5MkTIABeTPEJNE\\\\\\\/gzs2HkrjyojQFfX2BO32GnlkcgcilT55E\\\\\\\/OdiTGIBBWzdL+gx0OEAYlEyegUYh1jf0TjkNjjkfhS1RnfiRXOxNdvCOk1Cs7KzlRCvmco+YYQGEMOaN5+2tKnH9u5ms0wtiq01CY+JeW9NLAdfCQz2fqoQ70VH+h2e++tmyYqNBAgs59ZqeQmyqFIaO7sXmVUXY5kyL5a+W4Pd6mU\\\\\\\/mUWW3qq8kIxaErQ90sqADeyCrQH4KBQzdgc1nP9UVnoJJhrBlfZBl2VV8Ginxh+rrnd0u+Km1NeCCl3ikMMlvi9qMGTXl780kSakPEVymbnVRZgBbue8dk2mZKJEP3bAzNJt4a+JW9giBewPVsojBKQcyjrvG5MhXTvvWFjaX5H8ymR\\\\\\\/+Ga3FnVEcf4W9BUk1qkDII0hUyAsJ0tWay9Ip5D0RCdwyXfLcfEK7IKi6nveulCtQjqJ20SxsxakWTgcZdxNv8\\\\\\\/DfpIW7d\\\\\\\/vzZmK6PbO9bSCzsP7hOSm3YEVWSHxNNVVdNi0Ti41a9NkS8PGsEa0Y3KqV072yvNWKg\\\\\\\/rPKVsYpM9qxsvYcyw0N4+GQAgb\\\\\\\/pyk7xvik1BYXq18LQ3JbrAu0tX6oXwfDB5psFPV9p+UHIwbHpEfDYfJwrRCZSnGiDg+opS9vyVU1BSmxzJHCA7GnHJaJC7qpu5Z9PvbU+4YxvdvPxv4xpq37gZJ6Epe2vkBlnmvM5m11zu+vivD+N3NVwBLHyy3m6n1zlW83jPSk1GY+M7Sw0pcPm+NELhzZuRU1sNLd01qcJvbuH+K3JlGBzcGG0jvoxf7p8nii4D\\\\\\\/NabbYmSIXAFGTwtm4dWyFC6CaGDVjOXGBixULcNaOBdPedHl3KijM+2bqpwslUrXlLS26cbVx29cb18Quc1enqm5WlTgQRpeNGS5BzG129f2Usp9l0aAcgAdiceqomQwSQoWovevAZkwA2L9EQ2zTBh6XWyIZAwCUjbsmFLeKhdGMX4Vu3OrZ2eKBpBS0efgjVGALYlxTU063x5Gfys6+jP2MOfSqT2aeJH3mKdr8+BwvJiJ7OFOMPTSi26mOSw6gTMQ8hQ0fXD0DZusnFH1Y93H9GQvwtlLJgEvKS32nIcvcfNsyWYwe++wAnRb4CHIwxLXFNZ\\\\\\\/1s4Vn+xxAvy1pIFhMjGWcPCyrwAzUov88bs5ccpfYQSzMQEVYuyoboPmeZ44grf+vsI87oPZpgRx2qFFDCb2B6RktF2hg1m4yBQ8lksSjfuqdZKuok18I4V46L5BlB6BoDp6V56+UrcgGYwMzASkMdK1Xki4MDbs7H2RlgP5H\\\\\\\/o+iP0\\\\\\\/MVz6MmAN4WIfwAM2tb89JvR84KSpiQImEsN7pCbbUYStyfWZD352Phlk2sW727wygNjjxe\\\\\\\/WhXZMFiGMcbe9um2pSwFNjnupmKwCD0vzp5bZdJEcDCHM1VMsZG2YgifF6bakxtv3IP2NsNBErhhunWC\\\\\\\/zc\\\\\\\/Jb1rJUEQ9XNv4bKKtDtfApBHk9FLeCYIyI08pMjp9ljqRXi36jDvHtFEF1nzr\\\\\\\/ouwvWFwMBKehP+0aTn3ehsNoXMSrWPzPCUGVlrOY4xCXFR7krHStciw+bcXKarqj+muQ\\\\\\\/JhTEILAcoEzxlLvVBw0E8e3Ein608ZQCUib6OyhGwC4oBwEtRxdcmZkxCrCDqKn9EwpfC5asrvDhAbucsfBGhJwaWbuj4qkvTNYeyWubK+5T6MYIDwrfQnyZNqsxSmq2XMiKGj29W3W+XiDSlmaiftcRePJl3kfBwkJNFzcnygbO9tNKy+Chh3I58acePUDvKQtoe9\\\\\\\/mD9QxCPQPuFav82PZcddzq9LsOGH+rJY\\\\\\\/9OKcnhggYWj7\\\\\\\/isM+iULI2i\\\\\\\/hF+9Jjb9ZZTyoIZTIPKlmugw6gKd3CNllCg5ANYsCYozbnehipeInjMO\\\\\\\/RWY4pASrCFmpZSyoq5gc8HBOkSF0rnR8PuNuuUlIx\\\\\\\/RRJBwSpzuFu8+WCTxKEnvX8E4Vmq\\\\\\\/h2LOldW30A6eImNtxBvyodmaip08rJQ0yXRFYJpuLIqhrdW+2JUmSDhwGRlbyA4PJhw6XNKE3MEoujwsyfSSYEmUW+VUs0KGVZiV5iKCbLZWamFBFdv686gN3fO7HS43XSGiiJnuPqaDpa5u6Xx0lqbtsgnIXlCscWv52FQPcSaVdcodk5nRKmiTH2Gn4FWKnS6aSfWtNlH5IjZphUVTYmrux3JZ0insuxnh0lfm+jXz2ig65SZI8i+SkiGzTQGR\\\\\\\/YWcdlG+4NmyawW3saegpCLC2AcUFSFjxJkTop2ZnlpAvGMeuDaLmtewa6RE0ZGx26V93SucTc+rAG38XWa66A6NMCZk4\\\\\\\/gF65j6ygZa\\\\\\\/1hRiDLzICBcYU5dhwgA0ASSWBznTET0tAPdRnD5k7CLtV0aspi\\\\\\\/yKIR5u2mWvFpbpogL\\\\\\\/RP82acMDRapE70YNJxaLnsR3wob6rd\\\\\\\/7WuLv+k7fUkx3A\\\\\\\/J1K0bIvt84XRSLJAh+3fK6Z7Jcj1ckTld12eadtAaT95TCUZG+uYd3ATX7bwm0JCQDxMPo7rcQ\\\\\\\/DFgT26aukv3jiHVtJ2xiyzQFyor\\\\\\\/RDOu1KHGp9qWiv9GS1fshQCR\\\\\\\/x2D92EI\\\\\\\/JZRxYniXEcrdm\\\\\\\/jqOk7oMFYYVXym9xEMk92xVF5LkTHJMhoMaV5X\\\\\\\/zn2\\\\\\\/8aWFGDBwx67xS74mlV88b\\\\\\\/dv4c2li\\\\\\\/lr+\\\\\\\/UFAd+HY1JeDIgkh0hFAZD318Ws8\\\\\\\/FPYxe5kYMCWsF9pzJ9Taea9mOwTZqFkEgGnuREWWlnS7vvoGet0ioHzum8dS9u19SHfu8zKmByXKWv4+SvRvgKPQlbXHtu2CTP+6Z7OlmdB2XW6yWrii0KSXu4cOVWmKPdVw5hgOaxJsrvnxNLzY8pv\\\\\\\/sTFozopWoybijakPerRWcQqdUY3HDb6nZtj9IqjOoKjzFz0mA0mAtx7e33ezMK99CAQpo+pC5jXRdVapR8sdBhnS31hTB\\\\\\\/jyQ6Pb\\\\\\\/mT02ArIQJk8+di0pHWKjyKYZA9cMs6BbmnbcvqxTT+4RkmKKWliCUtAV+W+uasFOR1aJimosER7COeJk89WcCrvvTOOBxhriOWoK3Qf1ySgWwAAUKJInFJWzk8p1\\\\\\\/F02RKcB0PQDCuYE2acbhZVp0P3oKY+SoptXDhwBpT9sAxRxwDiktT0sF4sObj4LheA2a5bXxryHglsK\\\\\\\/SXGIZaz1Ya00rxeZdKm4o\\\\\\\/RleliB9DXt05zioDJDnUCZMwKrnl0v7QtlP828vbu320JAxLCVUDk0Uv04gHDYPQQ8AahF9MvkyhUp6brK8L7VN3jPr24ZwFU4K+BY1fZ9YeP3dAday8tArIpsQVAP2QMGF2JX70OjQCNBCtQJ1U\\\\\\\/KicXI+6oVaMz7GWG9rPhUdGETbsOgdC2CceJh\\\\\\\/y2M9vRf7w60ZcXQnb+YIha34CM97hF1hxPBDXif\\\\\\\/V25LfS4sZWTwfd0GfG2hx\\\\\\\/X5g3m56RkOhZ9qJuyGCX4A1FdIPFG0Zs5HNX0zOWf8Qj4t2hDfdmGD7pWXLmXU2fZpFvBDqIWGZqMlTxFwyqQiLrWTiu39BZH5hXEudYVBRtZzuaeSFnuXiTjv5CBD4khyjyquustjGbjKQrkzZrk7f\\\\\\\/jWe96BJmQCzeEtn48IjWiJsnGmB1DCD62C+Dt6o\\\\\\\/VgHhspJLFsOiVlbs19xf9Ce\\\\\\\/R3EzskrRGDAZy6M5yzTrSCP7m78HCr0qoSFuumCr8dlucPSaaiszcEPCORUldLGzeOGKi7vk\\\\\\\/gh\\\\\\\/2fNGbjeOcRNZegnaJ5yd3CkoRTQLXMjm2Wd6D05\\\\\\\/G6+K379ffj4FfYrCTsWlKKfVkdWvT9xClKtCAxLvuZy2syAS1AEWewohcaaxZv+klfFfHva3K30+M37Wi8A+6egD9O3cwRz6BOnq7KS9VwkkDCdWNm7gvNzzzvuCw\\\\\\\/xE\\\\\\\/CoOqKpXGyxhl9Hdi63sg2IsCXxXBe5I0qFUSLWWTJ2G+lulCtLWiaN+Doft5mCSw6+Cr+JL8JBw1ndLPaCwAKumje6e6Q4cDKkU06p1MixtV9F6TJNoqI7UZGDfGjDkmEDkpuyw0+oieEjQVLFZ5EjV228bOSMzfZBBE54eVT9LtEfiPqLvegIAK1GS00BBhu5LrdknXBSXyYLl1+kS1OWbTKEEwv995OFu6RBi1cDZakSao7mqWkDZxX3gGC3TrwFbLf7ljR+bEIhDB1N4b\\\\\\\/fxSGHHEbIpg1FjfmXD4BAIorwOvr3U6IM914oIXc70HOzwg40Bw0L79S8UkRN4CQRpripnCvXn5LBQHpyozn\\\\\\\/a9YL16aIsmGdYLkK7AqQJK8bxNPrbw34Q4eC4tQguJGb+z+pebqv00ooH+mWRcXvRaUypg9Bf51J\\\\\\\/62SdrS+HxjGc\\\\\\\/eCxNPYIqn+vPPtehaKi7WcJLLdU89Ia6cuGRwwSwV8WjjqZlCwYYBuhsa6Rr6JTeXKM2fTaFgGLOThmkk3Gmx+l73+CJb7q9IWsf0QSN40FUjIFfC61UcAm1XjhanVNqLuKlZiDDdBqg7phD1r+enRaMl+EhsihxIkZugG3B+tfYsSthbRxQCPHBVaSktc8NiBsX3Le8DeslZGE0UJfi557vNo20IoR9jH0hW+l9lyezkiAmYwWCl7p5XP+PIOY35H14Pn+kbESOnG5WR9iCK3v++lVuNQp7h4e7MIOiSUqYiMdhnpWvoCfh8vGiaVwbbmUci5Z8Bea+Pb8bMkNmfuoOlQmpzDtrAj97\\\\\\\/EKaawwbKKpXhEfjzAI8ZxoqRqWIUMi3JYfbFU4m37UfOnmB+c693bKrEOauA9\\\\\\\/BphjbRsEEu4zS9SsToENonyMEVt8GGOLzKNBzhWRrexSXqseddYRvwmgoCLOoyF7Ewb5rzd7UVTgAAxLp0BID41isrd4VSrQIA\\\\\\\/y90NdY3HgzXF9xhlwIdYHYmt\\\\\\\/MGGw\\\\\\\/DTNV1TiP7nhc\\\\\\\/k7beAa6sU51EH4FBxCau8IvoiwmsRM0GenuDyYaF7rGyxPnn6EMSn98GGOeMJLvx9FlyNdVXBCg6fz521vIFBDIkwJ5T4qznT+7HZ2QtieIIqvX4jrgzLflx1R6sgRtP+yrYca4mtT1YO3XGYp7oCOzvCnRwd4tiVHosJLS2Fsvt4XtjKvMN4gKDLqP8tB\\\\\\\/ZBKQ51M965\\\\\\\/GXktlQ3KHNr\\\\\\\/JkReli9yRGHVwiz3HanGwa\\\\\\\/TGfQzHSNjszrYBeRTDkccqqv2ZWbfbnhPqlH4VIfCz5qd6C01fF31qKRTHWIMzICgRu7bGSOKGuoNI13WYUOFGsf2SqZ0HGHuxtK\\\\\\\/0FqAa6Fm7J+\\\\\\\/jh5FWRsfIC2O0ZncMWbCGpxb27SpegVpbJ7t3Kged02KM++Nh4yFrIEFxr1BQe4Fy61rrg22AGEN8aIJlwtz\\\\\\\/VD\\\\\\\/iNpLfOsa5kX0DBTFA6n4eI3mwlzk6HVcDkSox2BqITIYoAvARJ5gdJNmUKIroIzDN+niPm73mATs2zDnguZ7iQHnOBqHXc0BQpUmlooCvV+s\\\\\\\/f\\\\\\\/5JO1zEKbKh2BGAXf5pnrpEp\\\\\\\/qR9rL08to6i\\\\\\\/ARLRXhJ5MQ4\\\\\\\/21U10aFIPvck03DzisphOUs1gOFgwUAsdyroJzNW52FexGgmCAWysktCSpjL1VLvummWc4aioMRastOAKnI0e1UrlwQy5cgvyAybIbzXV9fYnShsYgW7uoNqLDBB5wOoWnOkX+FD\\\\\\\/2axSViQdyhTAq9iRE6rVYAVMAgcqomem8N\\\\\\\/JZkphCU+jAEJK64i3Kgo5IhvS8SOVql2LcfuOIrwhOE\\\\\\\/zA8yfJ0q7Rjol0nM4OGx8o4Euilo2uTei0qMCnZkcmzs79ZGpMYmCqsD56\\\\\\\/AAQ\\\\\\\/tP9X3tf5SokJUI2EgLB2ybd7sLwCgSzkYe\\\\\\\/A0zX7vpjBEAnlRnJU7HkgrDMcpBsWNsKFf1nWnD8cKs1gpdXNeWdO\\\\\\\/uGwokCRRkWjN31yfhAZJ0LeX3ShaQCaIi56cLuHNHiwTMfJ7XuOHt9VDVqTYXuSrlu0lqZeKUqPG1BKGwsn1sRPW4U+kD7iRrlUTC9\\\\\\\/OjbrLI+K0RknDNdUKEbK\\\\\\\/CEjzc+BrC5yPn9xEesXFYBFLfSY2kwCUcU4ra1VIZguvhEokTUqlc1bxjpb7ZTvTYx6AR8pr4MrlrUtVq5fIzYoAfjvs2ej4FjDeW1M1SxeGKcw83lgQnM\\\\\\\/tko1hbs+TzyEpc4OBsSIXkGLe8muzJ4MPLGjLhKZCBDEvHAvBnbaQXsvlCxVwboNXNPnsrR6ctYAKcTtKOQewhP8w9YdIWjOBOZC2K4svs5dwYcOFmp9fUnVCSKkpOdxIZn1SXJItKca+i4H7TiB5v+eUpHF0ZmJ\\\\\\\/Vm+XPh1JoevX25lwNgyAxyDo\\\\\\\/TZ0JFxMDD0GkPYjOsczv4GSkJiqAlGsh9ZybYwO4rSanRUlbZtgdU6r2XWtkILQibJxicghWauYx3FtIElhpCbcqWoOPD6ZbEhQmvigjQLzG45ynyOw5SfhqRLbBwLBijp5v\\\\\\\/9lhY1dVyBtMLzChW9QK1rVCvCiY8IRmTm8EmYKllcQcL7eF7q1qlE+3STcq0N\\\\\\\/XcjaSXxp2omJ+Y7pN9yWC9B4XkJ5se53PYuy1a\\\\\\\/3zhTw+60EFZQIR5x6Np+j8DdlAJEuMH+b8cWJ2b2Fh7bbx1GIY9ozRNyT\\\\\\\/apMs57Wz2o1\\\\\\\/29FpeYdajRXszb0bYPRtfrD7xZLxeubC5ZsX9Ac1Acs\\\\\\\/iPmV9kiO+GxsxPceehESEuMAU9vmm2XoG5reDXrlhxKnwn13EKh6S3+wTbR91D41bXX6aFbgEi4jcqL6ZtXvbChg3haer5kGzclh\\\\\\\/HTJGaeGnfUuc4UD+J3I3u2kSUX1rx4a3wc8UFm9tcMbz8rkPSIcm1h0e+689H5jjcPeY5fLZXiMja1h6p2JiD\\\\\\\/hIZeUdWyqBVhxOWkcuJs0A1xA57tkdf+DtIzKXv\\\\\\\/n+eJNDNyq98hbTns1Nx4EVldWynraZMCEHTS8E3E6b\\\\\\\/HWMt8bWQR5UH\\\\\\\/TjLxdYqW4IeprlJMlYREXs0nqqBZF1b4db4qeeYxcxagoNpDXeHdPJqZ8kVHrrsJE9YHltCkSX0Mzfg+08x2JneKwK1ZAQylYBQ3Jt+3Gtyi0ElxyTFKABFot+MlHeRTH2pzRF8r+MrzlnXb9kb4lekE5HRTuieu7DCzE82Ar+EuutrakVNjpufpBUUtqm1rtDefFrcPRwEQWWa2MrKZAeBJ56BvS+ofnsdLTuAcVd2ipfCDjweDyIyCjVE9268czVwjNms+qjWdKstfEHZJv7\\\\\\\/hl9aG9t5fwSm9i24A642KlokcaXGRtBsrUpD+fmnPFL7w4VbCodvylBGEgULlRf0zFt3ctzQue5N9\\\\\\\/d9wwk+hAGVs39spXVAPAaXq5lCJUrkvaYX2ySpd6GKM\\\\\\\/IIRt5Thur8ENY4tzYSxoXL84akSyVjP2IZ\\\\\\\/LjbhaqfhZADYHyKa5hfBPBjBajQWlKICb256vYXBtruA5g7J6B9RJdvc\\\\\\\/mkt3ut2pBZLP3ubaP60p3fDuVgXkmCjnhbH27wp0bIA5eBoH8wiP22U6eJlDeTd231euNrVAS9\\\\\\\/2edL8OGwGKiLnwPP3Hiy8x5QXdvIXoYAlsVIeAsZO5CUgQfB6p8x8An16s8VhvmjAoLQuGA9tAd8OpopfsJbFi4yHz3EJnb+IPhYrd4n49CkyeV06LPAVK3VIg8BXXSAQERC86yMhvE5GptKr\\\\\\\/Z8E0R\\\\\\\/Ds2GXAmjpvax3WjtCxSHQc+pKcAjK43bhdWIgkrr7XgSuMVP0LDzpp05p26ItGuJnR3nv6UINTyHcKVCA3jQ+FgyP05t0IDIOQFJaRwVu2bl2aNkeHdtFlFYbQp\\\\\\\/DMbzeP8mEwIB2sYKzdsujXiewBgldIjDyU6amknpIo\\\\\\\/QRB7iMNPa9i4uB8snDb4eydEBnC76HrCDmQjJ2iCGFQ\\\\\\\/P3nTFvtp2RvByBouc+S1xn4a8Cq3iSh6fTNNiuYjIDQNkRa9uSFafiZ6yuxwuWoT8caQWwACf2zZq198CazX9JhqVouv4HXDGefB4EBa7ZZG0t\\\\\\\/HxWFRZojzxSET2E4\\\\\\\/7YVIBNW52eElw02QPeyTKlpXwOE2Whg8OGPVAZL4RaXDKeGt\\\\\\\/DtQ427Hi4WsCfoeo0JVztEjxjE+udT8zK9uAZIfGOZGg6kXYKBXa3OGG8nc13Le+Ks35Bv3lFKo6V8Z2ZEsSoj3NlmVW0EyflMG9pDkfGgN3hx5tAg4kevnjt6jNNb554u9GDpsZ\\\\\\\/FGOA9OSYQFIE6\\\\\\\/xH7OpDLn9VQA9DERyZ9Jdb6EbpowVDHdDbaRFG+8aiFk8Ju11FjwdrebV64Fsegq4mmpj\\\\\\\/007wJafQXbY=\\\u0022,\\\u0022iv\\\u0022:\\\u0022V3NaQ9vcYpQTyy6zNTdttw==\\\u0022,\\\u0022salt\\\u0022:\\\u0022f4d040311b2fd2429a61a615cefc1b83\\\u0022}\u0022,\u0022hmac\u0022:\u0022e32b1e260a9a557a5366ca5e73b5f47eef9a89f5ae0e1b3af21564677fc85b0b\u0022}","new-25":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022K35I4QtOXeWyS6JJa+51mtT0vQR0vuTy2D+\\\\\\\/AB8Q4pj5RsrFpCINiDUVJohRmgfMHEQWToiALlLYu9W61aFlEQ70ZRivoOJaph3qurNHYLCBhDwvMPhzhOkcdZmMnSM4gDAFZEMlA0aFcLEm4gRdvh7aQtR2e9iPrRYX9WLodIFs+kIDElyRwQ7FMZ6q5om+HYr+4TJPsq+qm0BO30A\\\\\\\/r551XofDsrN8Mr5+qed8GCzpC50EIsyqOdUd1zN2VqLBEAm+Et7V0T+1TDaBU4jmGQoj0gxvR244NJMWDg28Zej1tN\\\\\\\/ZdDeCoQT+yVA167TRcNSOFyM2Nf6cH83UIEjdNwWlMdBU32LHGFyW2NxbWUKfvp+PhgKO4lSyay8ZrO0PCd8cnBGFCl9KkwQHf\\\\\\\/8mq3VVglL5lw8xYt\\\\\\\/YBVd0aJA9QRI4qpTprJzktEFW9CIoqVYG4VFaN4bdquZ3ki1DAbip6qnd6qsCtuP3T\\\\\\\/QtMWOZ9LlaMsCoYrH4UgY7aJYGR4HnHXPHbsuCIw1V1vd9he+a24L8CuU1FIWYJwP++AFq7h483a4a4v9hzYo1ugjHeJNETkJIZdDZs+MujHvn4848q09cyv2tiTBf\\\\\\\/1S8pVJjT6yTj8ohPANQsijHLkczxeM3dGT6aIi5l\\\\\\\/vJ6HGJRW+eJVlT3k3SL+RmSbrHElYucWX1\\\\\\\/L7HGIUjZMndv5u4mND1jnjXuh3INFPHt2o02s4xvjzOf9IRHPeESDie\\\\\\\/9WDIqY3xhi+2uUR4wCEahSCvM9gYi13dTPTC2htHS\\\\\\\/jQ+auDmcHqUXptwq6DGevQMDE8SZi+YfIpCkcrRBrshOPKhSDZwPgIgOKOnW+XCEIwwDo3WXhQJn9PrWUOhdsEqyoU0get1LCjbyei5iJBsooAQea5TcIFChUogHegTzqr72vAhNWifPQylS3oEwegYNBMCeSuJFJV51G\\\\\\\/tLGeOOQyI0xoN+U8gpIX3A1e\\\\\\\/0y+rMgFIz5OZl1AvvOxhfkNbcJXan53XWYBwioIOvZCZ+YFL8m9VO9QWQnUlQQczG7qZXvE4MIzi1ZF1wGp2mxf83SbCB9EqDhNcMNJq2wyOMtLwN0USobcSKaae4ELXAKs5UTtZNT2fIKMFrPuWZ2UKRni+7TuoW0r\\\\\\\/HWJNpmUl\\\\\\\/ln75pvQvpiYo23qls2ejPAqAXn4yuzUSqOVa2a8LX0OQe0B5VizfENjCuTft\\\\\\\/8UIx8GYZUB5bx4Sm4X970KAatoWlhEsFB8s2\\\\\\\/+BbPrSas4EYGc20GYG1JurWu6xiduG\\\\\\\/SeUIrgVnkBHVn1yNsVzlDUtmjccEgsWJpmoKygp6RiO+P1ezYJRjSN05+csDu+BvTEMe9NgtO1uJTQZVm1s10pneJLaWu0JPb91peSL7ZRENyb71t\\\\\\\/Tli33y15MSbATxKvNFh3Vc9Oc1sDl+XrWF2MV8DqZufMP05ZoYoGvs\\\\\\\/GHuC3ZzwrUMeeFGeLifJdY6nIY5hUGIvT\\\\\\\/P+j+mSDcc+7OZ0oDRb07Ag\\\\\\\/iv\\\\\\\/2MhA8ihKl2NR0c0yXUNvCrCSWPuNQHkQLfi2\\\\\\\/yf5Yod1LVWGAJ9N7VwlFfhPj8fJV5Wd\\\\\\\/zQe9rZaLw2eG8QvDM0heFioFY3C1CJIjHEYZy7HHOQtdqwecl7vo4mhYGwy8kNm9zewK1AN6j8UmCUL0i7xjXpBL2Qc1\\\\\\\/EUuDZ6j1wz6Wttd2jKsvvgG3m3foEjrKhzSwpMBjwlycJ1Th8fH2+89xF5RJUWZmSn7zzlxPxkt9XP1M7dnfSCRZ1xReu+cS2qtw8MjReSn4yMluzzABF2F6bwHH85DundnfwlG1JIORs9wf4P9DBNKcWtwMbnFV6DjzLZXbyj54qMwuy7UjsSsDovPdQBC\\\\\\\/gvCm+ijARjjFoit3xS7xB7ooxgifhKMev8Jxep44wVWYqzhRMYOVV4pZ1y5vbCpjpof6ZjZTsmFNnaYDL\\\\\\\/CsbcwCn3+VPhNh7+39bcJrijK5frG5M1SJM4KzyrDT4BYDDKx4MsVKUP0lCDg9fILirEPpD7iGYNRXAMMI+fYJmpiYNrF\\\\\\\/x2Q9Ae8hHAR74ne\\\\\\\/jueNTH5rS\\\\\\\/aUINoaKFJK0Oair8sSq4bAZfcojRE7Ug7jOSOdiqDLO9Vh9YLuZvFJ3m0KTYMH0LSK4lR6MoP+FOrObw96PVsuadwnbZ4\\\\\\\/VlgR0MfmSVVwkybWeQZdkb0JABwkFb6rUqgC5uWGdS6KmzJZ33cIZbyq6Jf+DhotpesrHgebZBkO5AsFDPw4C7xyj4y\\\\\\\/Eeto37KfxkNuJh\\\\\\\/kxJitZ7n4P8LF5NKUhr3s62+tpxaW2IRuSlVawqiDQqqy+bkhKtc7ju0lQRAQ52IZPKRIlDwz+K\\\\\\\/Bh2Sirek1VlfHuoFhX4PUZHRLNwknCIB5fymtSDqHKb6yWgXR9fFD6AQ9TdsnJDcZKKtQ=\\\u0022,\\\u0022iv\\\u0022:\\\u0022b5LpOF58E+x50ODsCX2Arg==\\\u0022,\\\u0022salt\\\u0022:\\\u0022f4d040311b2fd2429a61a615cefc1b83\\\u0022}\u0022,\u0022hmac\u0022:\u0022a0659e1b382b7b0a932e874b45f4344fef2fbed347ffda99ba526a05a8049e26\u0022}","new-26":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u00228J+AF86YRi1OAEfUix\\\\\\\/BUGvopny\\\\\\\/G9F3l8g0tkXIhLIMB6ThvOu1iOVoQ4KT+Je4MN5zKXf4GSSI+k+dEOE7cEfcgPlMK37wWRyEQjU38wkLSlVwWZiQYyrUm0QdfaKh\\\\\\\/0edxXSibYqyLFX6QNmQU5L0keLC6Tk8XprgNcdjT0Oln0PojMAHfXovOwLTFReMj9dyaSzUqtKlYAigDoJzPyyX8DaNCFWnBP2vQYz1WYX+75YdL+RkLYO1aF4oIb4G79625g2WeC06PM6jeL6UNdWFTj33fUN9z5qhI6cRrWYSiBLDQ4XfdM2ecrlsobRTeqxdnBHHE3++apWGY2KhIwZj4DtsIq5Q4gL7xTWv3CLT5vtkuGlSMLOD5uU\\\\\\\/Ugr7Wpygyw78SklqGJqjYnu6Um29Kra4ZpucksFilWIBLM\\\\\\\/oIRRIZS27hyxts8mbucwxNSf7anKYqPKOrjnOO0MRYxjivAUBkIM5YCt\\\\\\\/qXY2+6MJ+6kqmbCeOaA6jMvYeQdu7hHS2gRnZNsBmD+g2Xw7\\\\\\\/ajQmSEloTRxj2dK9h\\\\\\\/pv309MohAIcxw4+lvLMKuJ+t0ojokUhK9wah7if7tBK8ue5dOLFnaMpFRH4FymCnQbZQDQ+rUODXQkM\\\\\\\/edImwYot27+R7c5MSm\\\\\\\/2TSVy1LdqNjy\\\\\\\/qPqzWaTh9qz\\\\\\\/0flmeCpV6IIMFC+OKag50eKaVNSvePhsDBIixayZx5nCXrCToMVKV7Z1+5leV3PW6dvrZGMhrebQJs+koFWiEfyRk7FSY97eMqH8Vox52nMQ3Npm0FX4HaGY5nm\\\\\\\/m83GwruPAN3fqe3bgdczw9jNVdc1Nz1LYzQLsMflYD\\\\\\\/FDeJZTE1uoHQr0F0yNmXPwyYnzikpraKwRaICZGRwq1wk\\\\\\\/3D4Xt5VLdp3ek+rvz5eAKqPyCfyKx\\\\\\\/GdnVicGW9tZqSV7uxgV9DW8EsZNX+zsUlKO1XGfj7oMUnHlzasIJwM7B09VgTW1UH7Q3qsDj3Zqai9PFXoWidHHDqSHIzhGPj\\\\\\\/VowaPXEVV50iOmvy3a4YhF6mt38TZ4XNEYnqNcIlHn9UT2UurwqFuJnojpv2S+bqx\\\\\\\/hH+Qs4HnLKsdJ5dA7Zj4hIMpotSYFc1qjEG6o2xkn9Xj4CRPBlbg284w9NoRVII1HofLtwm8VODJ2ybK5GOyHAn\\\\\\\/3Zby8sUjVz5g75I0bWtD6KE6WPl1l+OGHajxrnastiQKCf5joKAsUoZN0EVMK8iMcK7sQcRqcvGXBEWuSw77LtXEzRHYhZSPoEBS+LJEsV3x0AmjmUNHwXvGZkjE+Xwfh2ymCa+zRrCMITx8ebCdGMLplT+py88\\\\\\\/fDlO5sLpFZ526IjU19m+tCBYP\\\\\\\/or4DRNLY\\\\\\\/FgC2hQ1Sogg6jPjV7bGFNNJl0dW3RHw2dWzE6B2\\\\\\\/jWI6VWM26M2xNwlokSkxgX9Tp1O4yWXlvtqDwjbMAvxh7vvBWTdp9cqR4K\\\\\\\/+nnXMUsOVZlO3rEe2HbIHc3OhPm0jhGemsNFHY4qtO85vgu0WoQsXSo4aBJUVYddy30p9Fmxd88raYFN8IO3uSbRe+HMC9aXkmZVtgDjfHg5xvrgdhbQ809OevESm1mItkABOtogSI9vuG3wLEXHzHfa9X8+Ga0mgWx0dVvLDcKuYmr9SmnC5xlrdsDFe\\\\\\\/tm0gzHoPVPQSMR2WkG32QkX2YtDuBGtAegLnblN9ir6r8P4ozQAgDtPgm8mf5\\\\\\\/WTLJbWk9duC8An630zhXKxuxcI0r\\\\\\\/snJNlj5whT1j5eXf\\\\\\\/2arnkSOohphdvWNumaflKSWyGMW9H8JHL1DBpe2JGM2p4bkM4KjN41xQ3KvAFwEr2gJ+FrWJXKsX8dc3gDLtD0vWaiZoDPfgo\\\\\\\/VoCsypeQrI2PD6EBgWEsHRb8CzkSIaJjZBlImJVGW6kLVhWatBLvKhZaDMc+EPmVSIDWiSJ\\\\\\\/fmzmrxDnSf5tw7ZKHCssEJYc+b\\\\\\\/aqQSGKKH1Ei0dsAa8\\\\\\\/FGUiaa59JYjQx6NadT1mMZK6fqaU2Aaxbi9rq14OBqsY5ipV3LzDYIZ5r5tK6xRVXpHSJfAw5os\\\\\\\/zx3iArVOhSj11gBU0A5jARskb8ZzNEO3bBPseEsXBb4qIDsGz+h7m45iMZOz7zQiX912jveqHXCfc6y9FLISFxwKvU9WMjsoFdvohR8CXMPTqdzqvd4aaRi2Frqz\\\\\\\/5eUx2p8S7T6G81TdbdE9t1A\\\\\\\/W7rl+aIeW17i6EF2pb0f7Dw7E95mQ0rdDjEtvHJbODYX8M5BBWqtYas6xGC9erWp\\\\\\\/bKpAjDyA2hxoLh+e12b+kuYOHuq7uxJDopdZmxYolFfVdxJb3MFcqdXlm6Txyj4I+506PoXOLDSr+AKmkQ6z6h8uHhuO+\\\\\\\/P447Muxny5fewxnevhMWe45pV4P4C6tuhM5bFI5FyUV2L+HtfOCWw2n8bIbigyjo0C1PukVPbpDEq+yiBiKoP9COopsj9tmT9dLBgCeme+0xUcQ6RveDhRAFvMU1rc6lwQAexK7VwRME0Po6sV2171DJvXUCA==\\\u0022,\\\u0022iv\\\u0022:\\\u0022gKWK+PDA\\\\\\\/C97HIZE6indfQ==\\\u0022,\\\u0022salt\\\u0022:\\\u0022f4d040311b2fd2429a61a615cefc1b83\\\u0022}\u0022,\u0022hmac\u0022:\u002242bafa630fa6034095eee21f4842df7e7be30f107fab144cbe94146845e04903\u0022}","new-45":"{\u0022encrypted\u0022:\u0022{\\\u0022encrypted\\\u0022:\\\u0022o+8RioXbhULf+aXB1RqXy10o2hApa6QuzxZ+J6BbIMCTznESEmVLE6pIxlgc7Z7iY5CfFvIp+5pCVy7z5Euv02D2RPSDhbVJIcEh6v+YA6l4V+siWZsHIbG2QDPn0KMsxJ0S3XNSi546SuIe6Ix4qdqIIlsJWbPtVNGJgUwQg5k1A+LUw6KIeTpRXh5O9KcrXE9FEhvQ1LhWDWX8ZmEualcJZ7uXLXrW9\\\\\\\/f5\\\\\\\/SclrmApR7InxbuGr7KM7fhVwQI1tVQCeilxnT0PoQOhXC1cPPFbbbwHQhNM9Mmr\\\\\\\/QzVRgtOIGiuKhmvnaGXf482BoZoxmFpuz6Bhmb5deUez9VXC0BNcmuIMtt\\\\\\\/FebPgXDZ2cpS62Lpx32VnNGiz79+nuAK4aBFogvenUzDIZ9t+ewDWxqm8tjvBl6RYdXfO\\\\\\\/t4\\\\\\\/giw30W1xXnk4Z4ZKn5bO4uHtGoyZVcmc2VPQjkEbMsvOpHKm72bLZtb794r6IA1s9M4B+xA\\\\\\\/Rry3Kd8SWqablx+50NfuQzQKxlPpfv169y0ThARbcK2IxrXG2WwAWX13w5BeTR1JLonJcxqbEERM6cvV03mQmdwiI4KdEWG9gQSlHTE70d5j2hzySQgZCFsNX0JLAQDA46k91Z4cJ8r6WJCAITBvEm+U44f3Ks\\\\\\\/\\\\\\\/XlQnomuOIupmwL8LAuLs0hVMrGdYZ+WgxNEsstsEmKzXPm+SXhHHRDTulZIr4Wq1cHlw0znB1Zc0bbAaVhJ77jyc+gTdIIYSWilK9uWckNBjJeNiQmapSik3I9cCOXmkm9qs+5JcEGhc3\\\\\\\/SmobB10EpDIy8gXHRWnAdIkSgoOXr98T6IvtyM9wCVhUkv20gqexBDawfJDkBs4EtmsrFWmKGDet5OVxM6QMFJ2H78LOLUk2vIWgUJnGlcGfXeyGFtunbZGJ86VIvpz5pru64usocLo7Y08Wil\\\\\\\/\\\\\\\/fQrgV4wZSuk4Rah7Yltmm+mTPzQ5tku59KuEFqhLlwUfBF2QkwFJRQcuIFnFNa7tj\\\\\\\/AjZI7xENI2CsU6S9LfXVtMRmqJbGsjhP+GHqLUdczvgafoJPYjjqGsVvxshLJ08Y4InG8B4w6wJAjO\\\\\\\/5OVjUwFCGdo2dqoaZSyrnG7SusvXjB5UqQH9OxO7s3TJNRzM\\\\\\\/ElZoMybtkj3MDN\\\\\\\/5GXhbdsaD5IsPSMYmdfJuARjFlH9tXGXSg0sLPwc7wijRcMWJl\\\\\\\/dec1\\\\\\\/x6i7xFvwM7evaILX6cnIiIcr9+aVVRzKF1XOkLh3CAk7aXLtWesjp0c8a6CrfxnpdSvNuglML6VTwX2yT4Vc7jhLdDWuUqRSb1CcQlh1U7O\\\\\\\/IJoIn7g0b7nR4ToIxX9SgjaaOLf1FWCPi+IyZxiNOrse5ESP2vVsaUIiYOvVYJFD0smhwVNvQSet1SivavbF\\\\\\\/VcFtSmh7Hp+LqTA2TTNeIW57rFC1ha+NiZpgs9B43Vm0aVUf1ukmy4i9FTDuvv7EydaZLqgSoA9sI2UBBkb15Pbv8pnjilK80vqI7CuU\\\\\\\/1odC97pVwhuwa1Pe6Lrv5Ns+kZc1kvqopz7aXajlGJn+L+3QVe0GH3tmMVzv9YNj+dW0j2ZzyeY53Mj3wigQBveRyjNi5ursYsj6DiK0eeU2hZX8X2K4b394ftDsVjooBGTr79oiO33z6jFUOkq8whax7nr61COsGfNz6ciRNfdKLQRnFlA3PG4WHfE0eona8OepTKHrKR1YGU\\\\\\\/r52CME9ZUjy29Vnvebi4xrWsdxcij2+0a8\\\\\\\/mg952t8pm+ZBb1t6o7mzVlA8IjEL1xvebG3NO+T3GEZvjf7VdVvVLa55PjUUNkIC6dIH3GLinplM6Aa9eMXdSulBIRj1tlCh0f2AnGIaM3tyLIHG0hagZqkLLqeFOrTNbQgWG\\\\\\\/rnsAFKAAxNYuAHb+4jtfr15U2nqoKBpq9gkZiUoLztTOzp1WTnkChTqM9vhImiLvgWT3U7i3ZTz8nUTa0chAc4QECigC0sttWiNbKQnIldMCGg\\\\\\\/tH7GDVP+TFuHGbACBWudXLtuh0J275bdrp4d60D9Wi7WaSWeRTsX8uJXsL4fdc6N7YxvSjJ\\\\\\\/3KHWE6UjgSMbWndnvP6f3IGT0CLvWMCNUa6\\\\\\\/K8lazkuMmbBQ8dnmREkWN5bVr\\\\\\\/YT60nTqqek5rwGYTO4Jui2VSZklNPXkKcWKttcXtcXDrPqVj0Hrb3I25Z2iEYn4vLr9aB1qRjcuxbvrNWuzdl22TiwiHucefEPBEEk8DJ\\\\\\\/LVkFyhtg8O17dO6jYXfeLySptsRxMERYn8jMBNTOuUWW2+ayUA9iwqJrzbO7AROW9mxzuohstpuM61cqd0gvI+w\\\\\\\/INDe0Jo\\\\\\\/eOrJb84Suo0CMEyHvaeSQyN+1iaVqo5vhrVR2VSA9+vn1SUs+uSa1m2HDZeqqRmLPlUZovC\\\\\\\/UiTZ6uheuRYxhqs4Rv0yfxZirBYtf5KKLlzgLKA52j76xjTTBEeraI0QKAjBqtrpiOs8e43pyS33S0M4C5cQIq6zMDTiaS\\\\\\\/QlIVkNo1++6BnMZ8jsirjONwu3WK3Taopfru\\\\\\\/\\\\\\\/ykD9FZBubaml2WW8qB7V20iN3fT6Byr\\\\\\\/\\\\\\\/37lYHIbbDBxM+f56trPhXCIG6YcY\\\\\\\/098s8Tv0E72c0ohtQLdwWdel2NKfnNv3Ulv4y0iUFxPwFg==\\\u0022,\\\u0022iv\\\u0022:\\\u0022y\\\\\\\/v1X0ILoErzUzE6CUuSNw==\\\u0022,\\\u0022salt\\\u0022:\\\u0022f4d040311b2fd2429a61a615cefc1b83\\\u0022}\u0022,\u0022hmac\u0022:\u002265606518b5667403310af9f99df57d29cf24d98f0cedd872b8849e59f5576a25\u0022}"},"instances":"{\u0022highwire_abstract_tooltip\u0022:{\u0022content\u0022:{\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:{\u0022width\u0022:20,\u0022height\u0022:20,\u0022border\u0022:1,\u0022offset\u0022:0,\u0022corner\u0022:true},\u0022classes\u0022:\u0022qtip-custom hw-tooltip hw-abstract-tooltip qtip-shadow qtip-rounded\u0022,\u0022classes_custom\u0022:\u0022hw-tooltip hw-abstract-tooltip\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022right center\u0022,\u0022my\u0022:\u0022left center\u0022,\u0022viewport\u0022:true,\u0022adjust\u0022:{\u0022method\u0022:\u0022shift\u0022}},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter click \u0022,\u0022solo\u0022:true},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022,\u0022fixed\u0022:1,\u0022delay\u0022:\u0022100\u0022}},\u0022highwire_author_tooltip\u0022:{\u0022content\u0022:{\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:{\u0022width\u0022:15,\u0022height\u0022:15,\u0022border\u0022:1,\u0022offset\u0022:0,\u0022corner\u0022:true},\u0022classes\u0022:\u0022qtip-custom hw-tooltip hw-author-tooltip qtip-shadow qtip-rounded\u0022,\u0022classes_custom\u0022:\u0022hw-tooltip hw-author-tooltip\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022top center\u0022,\u0022my\u0022:\u0022bottom center\u0022,\u0022viewport\u0022:true,\u0022adjust\u0022:{\u0022method\u0022:\u0022\u0022}},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter \u0022,\u0022solo\u0022:true},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022,\u0022fixed\u0022:1,\u0022delay\u0022:\u0022100\u0022}},\u0022highwire_reflinks_tooltip\u0022:{\u0022content\u0022:{\u0022text\u0022:\u0022\u0022},\u0022style\u0022:{\u0022tip\u0022:{\u0022width\u0022:15,\u0022height\u0022:15,\u0022border\u0022:1,\u0022mimic\u0022:\u0022top center\u0022,\u0022offset\u0022:0,\u0022corner\u0022:true},\u0022classes\u0022:\u0022qtip-custom hw-tooltip hw-ref-link-tooltip qtip-shadow qtip-rounded\u0022,\u0022classes_custom\u0022:\u0022hw-tooltip hw-ref-link-tooltip\u0022},\u0022position\u0022:{\u0022at\u0022:\u0022bottom left\u0022,\u0022my\u0022:\u0022top left\u0022,\u0022viewport\u0022:true,\u0022adjust\u0022:{\u0022method\u0022:\u0022flip\u0022}},\u0022show\u0022:{\u0022event\u0022:\u0022mouseenter \u0022,\u0022solo\u0022:true},\u0022hide\u0022:{\u0022event\u0022:\u0022mouseleave \u0022,\u0022fixed\u0022:1,\u0022delay\u0022:\u0022100\u0022}}}","qtipDebug":"{\u0022leaveElement\u0022:0}","panel_ajax_tab":{"path":"sites\/all\/modules\/contrib\/panels_ajax_tab"},"urlIsAjaxTrusted":{"\/content\/363\/6428\/703.21?rss=1\u0026utm_source=dlvr.it\u0026utm_medium=twitter":true},"highwire_ahah":{"highwire-inst-branding-0":"\/highwire\/inst_branding\/markup\/inst_name_logo"},"highwireResponsive":{"enquire_enabled":1,"breakpoints_configured":1,"breakpoints":{"zero":"(min-width: 0px)","small":"(min-width: 480px)","med":"(min-width: 768px)","med2":"(min-width: 900px)","med3":"(min-width: 1025px)","large":"(min-width: 1100px)"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":1}});
+//--><!]]>
+</script>
+    <script type="text/javascript" src="//science.sciencemag.org/sites/all/libraries/enquire.js/enquire.min.js?pmw703"></script>
+<script type="text/javascript" async="async" src="//science.sciencemag.org/sites/all/modules/contrib/picture/picturefill2/picturefill.min.js?v=2.3.1"></script>
+<script type="text/javascript" async="async" src="//science.sciencemag.org/sites/all/modules/contrib/picture/picture.min.js?v=7.60"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_panels_ajax_tab.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_openurl.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/highwire_markup_process/js/highwire_google_scholar_sprinkle.js?pmw703"></script>
+<script type="text/javascript" src="//science.sciencemag.org/sites/all/modules/highwire/highwire/plugins/content_types/js/highwire_article_trendmd.js?pmw703"></script>
+    <script type="text/javascript">_satellite.pageBottom();</script>
+  </body>
+</html>

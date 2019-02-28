@@ -1,0 +1,443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja"> 
+
+	<head> 
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script> 
+		<title>＜パチソン・スロソン　オンリーDJイベント＞P/S Rush!! RUSH.14 - TwiPla</title>
+		<meta property='og:title' content='＜パチソン・スロソン　オンリーDJイベント＞P/S Rush!! RUSH.14 - TwiPla' />
+		<meta name="keywords" content="イベント告知,DM一斉,DM一括,出欠管理,日程調整,予定,出欠確認,出席確認,オフ会,ついぷら" />
+		
+<meta name='description' content='イラスト by 香取その ( @katosono )みんなで集まって、大音量でパチスロ・パチンコの音楽を聞きながらワイワイしよう!!        と言ったイベントの        第14弾     ' />
+<meta property='og:description' content='イラスト by 香取その ( @katosono )みんなで集まって、大音量でパチスロ・パチンコの音楽を聞きながらワイワイしよう!!        と言ったイベントの        第14弾     ' />
+<meta name="twitter:card" content="summary"/>
+<meta property='og:image' content='https://twipla.jp/img/thumbnail.png'/>
+<meta property="og:url" content="https://twipla.jp/events/355853"/>
+<meta property="fb:app_id" content="554659581264557"/>
+<meta property="og:type" content="article"/><link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" /><link rel="stylesheet" type="text/css" href="/css/default.css?20180625" /><link rel="stylesheet" type="text/css" href="/css/smoothness/jquery-ui-custom.css" /><link rel="stylesheet" type="text/css" href="/css/theme1.css" id="themecss" /><script type="text/javascript">
+	var webroot = '/';
+	window.google_analytics_uacct = "UA-4378558-10";
+</script>
+		
+	</head>
+
+<body>
+<div id="header_bg"></div>
+<div id="centered_container">
+	<div id="header">
+		<div id="headerlogo">
+		<a href="/" target="_self"><div class="header_logo"></div></a>
+		</div>
+
+
+	</div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript">
+	jQuery.noConflict();
+	var j$ = jQuery;
+</script>
+<script type="text/javascript" src="/js/jquery-ui-1.8.20.custom.min.js"></script>
+<script type="text/javascript" src="/js/twipla.js"></script>
+<script type="text/javascript" src="/js/jquery.jgrowl_minimized.js"></script>
+<script type="text/javascript" src="/js/jquery.tagsinput.min.js"></script>
+<script type="text/javascript" src="/js/lazyload.min.js"></script>
+
+	<table id="container" class="shadow clear_both"><tr>
+	<td  class="left_col pad20">
+
+<!--
+<div style="background:#fff;color:#f00;font-size:120%;font-weight:bold;padding:5px;line-height:150%">
+【TwiPlaからお知らせ】現在TwiPlaのサイトの表示が遅くなっております。大変申し訳ありませんが時間をおいてアクセスお願いします。
+</div>
+-->
+
+		
+<div class='arrow_box'><span class='largetext'>2019<span class='size24'>年</span>2<span class='size24'>月</span>16<span class='size24'>日</span><span class='size24'>[土]</span> 15:00</span><br/><h1 class='largetext2'><a href='/events/search/target~3/keyword~%E3%81%A9%E3%81%AA%E3%81%9F%E3%81%A7%E3%82%82'><span class='tag_red'>どなたでも</span></a><a href='/events/search/target~3/keyword~%E5%88%9D%E5%8F%82%E5%8A%A0%E6%AD%93%E8%BF%8E'><span class='tag_red'>初参加歓迎</span></a><a href='/events/search/target~3/keyword~%E9%80%94%E4%B8%AD%E5%8F%82%E5%8A%A0OK'><span class='tag_red'>途中参加OK</span></a><a href='/events/search/target~3/keyword~%E3%83%91%E3%83%81%E3%83%B3%E3%82%B3'><span class='tag_red'>パチンコ</span></a><a href='/events/search/target~3/keyword~%E3%82%B9%E3%83%AD%E3%83%83%E3%83%88'><span class='tag_red'>スロット</span></a><a href='/events/search/target~3/keyword~%E9%9F%B3%E6%A5%BD'><span class='tag_red'>音楽</span></a><a href='/events/search/target~3/keyword~DJ'><span class='tag_red'>DJ</span></a><a href='/events/search/target~3/keyword~%E3%82%A2%E3%83%8B%E3%82%BD%E3%83%B3'><span class='tag_red'>アニソン</span></a><a href='/events/search/target~3/keyword~J-POP'><span class='tag_red'>J-POP</span></a><a href='/events/search/target~3/keyword~%E6%B4%8B%E6%A5%BD'><span class='tag_red'>洋楽</span></a><a href='/events/search/target~3/keyword~%E5%85%AC%E5%8B%9F'><span class='tag_red'>公募</span></a><br class='clear_both' />＜パチソン・スロソン　オンリーDJイベント＞P/S Rush!! RUSH.14</h1></div><p><a href="/users/psr_dj" title="psr_dj" target="_self"><img src="//pbs.twimg.com/profile_images/995664285693968385/fC6DJttQ_normal.jpg" width="46" height="46" alt="" class="circle" style="vertical-align:middle;padding:5px" onerror="this.src=&#039;/img/egg.png&#039;;" />P/S Rush!! 2/16PSR14</a></p><p class='clear_both' /><div class="shares">[3319views]</div><div class="shares"><iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Ftwipla.jp%2Fevents%2F355853&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;font&amp;colorscheme=light&amp;action=like&amp;height=21&amp;appId=554659581264557" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe></div><div class="shares"><a href="https://twitter.com/share" class="twitter-share-button" data-text="[TwiPla] ＜パチソン・スロソン　オンリーDJイベント＞P/S Rush!! RUSH.14" data-related="twipla:TwiPlaの最新情報をお知らせしています。" data-lang="ja" data-count="none">ツイート</a></div><div class="shares"><a href="http://www.google.com/calendar/event?action=TEMPLATE&text=%EF%BC%9C%E3%83%91%E3%83%81%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%AD%E3%82%BD%E3%83%B3%E3%80%80%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BCDJ%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%EF%BC%9EP%2FS+Rush%21%21+RUSH.14&details=https%3A%2F%2Ftwipla.jp%2Fevents%2F355853&dates=20190216T060000Z%2F20190216T060000Z&location=%E6%9C%88%E3%81%82%E3%81%8B%E3%82%8A%E5%A4%A2%E3%81%A6%E3%82%89%E3%81%99&sprop=website%2C" target="_blank" class="basic_btn"><div class="sprite icon_calendar"></div> Googleカレンダー登録</a><a href="/events/355853/.ics" target="_self" class="basic_btn"><div class="sprite icon_calendar"></div> iCal登録</a></div><br class='clear_both' /><br/><div class='bluetext'>詳細</div><div class='desc content_width' id='desc'><img src="/imgs/1901/592684065882606.jpg" alt="592684065882606.jpg" width="586" /><div style="text-align:right;"><strong style="letter-spacing:.24px;color:rgb(255,0,51);font-size:x-large;line-height:1.5;"><span style="letter-spacing:.24px;text-align:right;line-height:1.5;font-size:x-large;"><span style="letter-spacing:.24px;line-height:1.5;"><span style="text-align:left;color:rgb(41,47,51);letter-spacing:normal;line-height:23px;background-color:rgb(252,252,252);font-size:small;font-family:arial, verdana, sans-serif;">イラスト by </span></span></span><strong style="letter-spacing:.24px;text-align:right;line-height:1.5;"><span style="text-align:left;color:rgb(41,47,51);letter-spacing:normal;line-height:23px;background-color:rgb(252,252,252);font-size:small;font-family:arial, verdana, sans-serif;"><strong><strong>香取その </strong></strong>( </span><a href="https://twitter.com/katosono" target="_blank" style="letter-spacing:.24px;text-align:left;font-size:small;"><span style="color:rgb(43,123,185);font-family:arial, verdana, sans-serif;"><span style="letter-spacing:normal;line-height:23px;background-color:rgb(252,252,252);">@</span></span>katosono</a><span style="text-align:left;color:rgb(41,47,51);letter-spacing:normal;line-height:23px;background-color:rgb(252,252,252);font-size:small;font-family:arial, verdana, sans-serif;"> )<br /></span></strong></strong></div><div><strong><br /></strong></div><div><span style="font-size:x-large;color:#ff0000;"><strong>みんなで集まって、大音量でパチスロ・パチンコの音楽を聞きながらワイワイしよう!!</strong></span></div>
+        <span style="font-size:medium;color:#333333;">と言ったイベントの</span><span style="color:#ff0000;">
+        <strong style="font-size:x-large;">第14弾</strong></span>
+        <span style="font-size:medium;color:#333333;">です!!</span>
+    <div>
+        今回も川崎にあります、「
+        <strong>
+            <span style="font-size:xx-large;color:#0077dd;">
+                <a href="http://tsukiyume.com/" target="_blank">月あかり夢てらす</a>
+            </span>
+        </strong>
+        」さんでの開催になります。いつもお世話になっております。<br /><br /></div>
+    <div><strong><span style="font-size:medium;">14回目の開催です<br />おかげさまで月あかり夢てらす様で開催してから3年経ちました!!<br />あれから色々ありました。<br />あんなことやこんなこと。<br />何を浮かべるかは皆様におまかせします。<br />色々浮かびました？それだけ色々ありました。<br />そんなこんなでRUSH.14を迎えます。<br />そして、今回新たな試みをします。<br />それは・・・ </span><br /></strong></div><div><br /></div><div><strong style="color:#ff0000;font-size:large;">月あかり夢てらす様での開催3周年記念</strong><br /><span style="font-size:large;"><strong style="color:#ff0000;font-size:xx-large;">ゲストDJ公募します!!  </strong></span><br /></div><div><br /></div><div>前回に引き続き、でも前回とは違う新しい風を吹かせたいということで<span style="font-size:large;"><strong>2名公募</strong></span>しました！ <br /></div><div><br /></div><div><span style="font-size:large;color:#ff0000;"><strong>結果発表</strong></span></div><div><span style="font-size:large;color:#ff0000;"><strong><br /></strong></span></div><div><span style="font-size:x-large;color:#ff0000;"><strong>築地しらす さん <br /></strong></span></div><div><span style="font-size:x-large;color:#ff0000;"><strong>ぴろぴろ♪ さん</strong></span></div><div><span style="font-size:small;"><br /></span></div><div><span style="font-size:small;">となりました。</span></div><div><span style="font-size:small;">みなさま楽しみにしていてください！！<br /></span></div><div><br /></div><div><hr /><span style="color:#cc0000;"><strong><span style="font-size:medium;"><br /></span></strong></span></div><div><span style="font-size:large;color:#cc0000;"><strong>リクエストありがとうございました！！</strong></span></div><div style="color:rgb(255,0,0);"><span style="font-size:x-small;"><strong>当日のリクエストタイムをお楽しみに♪♪</strong></span></div><br /><div><br /></div><div>当イベントに関してのつぶやきにハッシュタグ「<a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23PSR_DJ&amp;src=typd" target="_blank" style="color:#0077dd;">#PSR_DJ</a>」を付けていただけると、主催であるBONたん始め運営陣が喜びます。</div><div>(上記タグをクリックするとタグ検索できます)<br />
+        過去の様子も上記タグで見ていただけます</div><div><span style="font-size:medium;"><strong><span style="color:rgb(204,0,153);">当日もタグを付けてつぶやくと会場内の画面に流れるかも!？</span></strong></span></div><div><strong>(復活しました!!）</strong></div><div><hr /></div><div><br /></div><div><strong>＜会場＞</strong><br />
+    <div>
+        <a href="http://tsukiyume.com/" target="_blank">月あかり夢てらす</a>
+    </div>
+    </div><div>神奈川県川崎市川崎区砂子2-6-4<br />
+      第四ニッセイビル4F</div><div>JR線 川崎駅東口より徒歩5分</div><div>京浜急行線 京急川崎駅より徒歩7分
+      </div><div><br />
+    <strong>＜日時＞</strong><br />
+    <div>
+        日程：2019年2月16日(土)<br />
+        開場：14時50分<br />
+        開演：15時00分<br />
+        終演：21時00分(予定)<br />
+        （途中までの参加・途中からの参加OK!!）</div><div><br />
+    </div>
+    <strong>＜料金＞</strong><br />
+        ・基本料金 <strong><span style="font-size:medium;">2500円</span></strong> (1drink付き ＊オリカク等、一部追加料金貰うドリンクもあります)<br />
+        ・割引料金 (同じく1drink付き ＊オリカク等、一部追加料金貰うドリンクもあります)<br />
+        前日までに「参加する」にした人 → <strong><span style="font-size:large;color:#ff0033;">2000円</span></strong>(同行者も)<br />
+        コスプレで参加する人 → <strong><span style="font-size:large;color:#ff0033;">2000円</span></strong><br />
+        前日までに「参加する」にして、更にコスプレ参加の人 → <strong><span style="font-size:large;color:#ff6699;">1500円</span></strong><br />
+        （受付時の混雑緩和の為、<strong><span style="color:#3300cc;">コスプレされる方は表明コメントに「コスプレします」</span></strong>だけでも書いてください)</div><div><br /></div><div><strong>＜予約特典＞</strong></div><div>前日までのツイプラ表明で<strong>オリジナルステッカー（3枚組）</strong>プレゼント!!</div><div>（2枚目の7図柄の色はランダムになります）<br /></div><div><img src="/imgs/1902/430352064117451.jpg" alt="430352064117451.jpg" width="389" /></div><div><br /></div><div><strong>＜追加特典＞</strong></div><div>・過去に配布したアクリルキーホルダー持参の方（入場時に見せてください）<br /></div><div>もしくは</div><div>・物販のPSRオリジナルタオル購入の方</div><div>に<strong>PSR金7ステッカー</strong>プレゼント</div><img src="/imgs/1902/141973514468677.jpg" width="379" alt="141973514468677.jpg" /><br /><div><br /></div><div><hr /></div><div><br /></div><div><strong><span style="font-size:large;color:#ff0000;">＜今回参加してくれるDJ＞</span></strong></div><div><span style="font-size:medium;"><strong>築地しらす </strong>(<a href="https://twitter.com/sirasu1129" target="_blank">@sirasu1129</a>)<strong><br /></strong></span></div><div><span style="font-size:medium;"><strong>ぴろぴろ♪</strong> (<a href="https://twitter.com/Piro_Piro_69" target="_blank">@Piro_Piro_69</a>)</span><br /></div><div><br /></div><div><span style="font-size:large;color:#0000cc;"><strong>＜いつものDJ＞</strong></span></div><div><div>
+        <strong><span style="color:#292f33;">BONたん</span></strong> (<a href="https://twitter.com/bondizm" target="_blank"><span class="ProfileHeaderCard-screennameLink u-linkComplex js-nav username u-dir">@<span class="u-linkComplex-target">bondizm</span></span></a>)<br />
+        <strong><span style="color:#292f33;">おつさん</span></strong> (<a href="https://twitter.com/otsu6251" target="_blank"><span class="ProfileHeaderCard-screennameLink u-linkComplex js-nav username u-dir">@<span class="u-linkComplex-target">otsu6251</span></span></a>) ＜ <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23JAC_IN&amp;src=typd" target="_blank">JAC-IN</a> ＞<br />
+        <strong><span style="color:#292f33;">もぐ</span></strong> (<a href="https://twitter.com/hi_mogu" target="_blank"><span class="ProfileHeaderCard-screennameLink u-linkComplex js-nav username u-dir">@<span class="u-linkComplex-target">hi_mogu</span></span></a>) &lt; <a href="https://twitter.com/CLUB_AQUAS" target="_blank">CLUB AQUAS</a> / <a href="https://twitter.com/supernova_dj_" target="_blank">supernova</a> &gt;<br />
+        <strong><span style="color:#292f33;">518くらい</span></strong> (<a href="https://twitter.com/about518" target="_blank"><span class="ProfileHeaderCard-screennameLink u-linkComplex js-nav username u-dir">@<span class="u-linkComplex-target">about518</span></span></a>) &lt; <a href="https://twitter.com/CLUB_AQUAS" target="_blank">CLUB AQUAS</a> / <a href="https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23JAC_IN&amp;src=typd" target="_blank">JAC-IN</a> &gt;<br />
+        <strong><span style="color:#292f33;">まりかる</span></strong> (<a href="https://twitter.com/marical777" target="_blank"><span class="ProfileHeaderCard-screennameLink u-linkComplex js-nav username u-dir">@<span class="u-linkComplex-target">marical777</span></span></a>) &lt; <a href="https://twitter.com/CLUB_AQUAS" target="_blank">CLUB AQUAS</a> &gt;<br />
+    </div>
+    </div><div><strong><span style="color:#292f33;">てみ</span></strong> (<a href="https://twitter.com/temi_cure" target="_blank"><span class="ProfileHeaderCard-screennameLink u-linkComplex js-nav username u-dir">@<span class="u-linkComplex-target">temi_cure</span></span></a>) <br /></div><div><br /></div><div><strong><span style="font-size:large;color:#ff00cc;">＜STAFF＞</span></strong></div><div><strong><span style="color:#292f33;">Chico</span></strong> (<a href="https://twitter.com/chico310s" target="_blank"><span class="ProfileHeaderCard-screennameLink u-linkComplex js-nav username u-dir">@<span class="u-linkComplex-target">chico310s</span></span></a>)　<strong>今回お休み</strong><br /><strong>こむこむ</strong> (<a href="https://twitter.com/komugi_twinkle">@komugi_twinkle</a>)</div><div><strong>氷室</strong>(<a href="https://twitter.com/nokiaofduality" target="_blank">@nokiaofduality</a>)<strong><br /></strong></div><div><br /></div><div><hr /></div><div><br /></div><div><strong>&lt;タイムテーブル</strong>＞<br /></div><img src="/imgs/1902/48849600469290.jpg" alt="48849600469290.jpg" width="586" /><div><hr /></div><div><br /></div><div><span style="color:#ff0000;"><strong class="undefined" style="font-size:xx-large;">最後に注意事項（必ず読んでください）</strong><br />
+        <span style="font-size:large;">楽しい時間を過ごす為に下記事項についてのご理解ご協力お願いします。<br />
+        「参加する」にされた方は下記事項に承諾していただいたものとします。<br /></span>
+        <span style="font-size:large;">※表明されていないお連れ様がいる場合であってもその方も承諾していただいたものとします。</span></span></div><div><span class="undefined" style="font-size:small;color:#ff0000;">    ・パチンコ・スロットのイベントですので18歳未満の方のご入場はお断りしています<br />    ・当日、年齢確認のため本人確認書類のご提示をして頂く場合があります<br />    ・未成年の方の飲酒・喫煙は当然ですが禁止しております<br />    ・喫煙は所定の位置でのみお願いします。指定場所以外での喫煙、歩きたばこは禁止しています（iQOS、VAPE等の電子たばこ類も同様です）<br />   ・ 貴重品・荷物の管理は、各自の責任で行ってください（店内コインロッカー推奨）盗難、紛失等に関しましては、一切責任を負いませんので、予めご了承お願いします<br />    ・他参加者にご迷惑をかけられる方、及び危険行為等を発見及び通報を受けた場合、即刻退場の処置をとらさせて頂きます。なお、そういう方を発見された場合には運営陣もしくは入り口にいます受付スタッフまでお知らせください<br />    ・店舗スタッフの指示に従っていただけない場合は、いかなる理由でも退場となります</span></div><div><img src="/imgs/1812/137457233872915.jpg" alt="137457233872915.jpg" width="586" /><img src="/imgs/1812/515054313316041.jpg" alt="515054313316041.jpg" width="586" /></div><br /><div><hr /></div>  </div><br/><div class='bluetext'>場所</div><div class='content_width'>月あかり夢てらす<br /><a href="http://www.google.co.jp/maps?ie=UTF8&f=d&dirflg=r&saddr=&daddr=35.529236%2C139.699875+%28%E6%9C%88%E3%81%82%E3%81%8B%E3%82%8A%E5%A4%A2%E3%81%A6%E3%82%89%E3%81%99%29&date=&time=&ttype=dep&sort=time" target="_blank"><div class="sprite icon_popup"></div>道順を調べる</a></div><br /><div class="event_view_map"><iframe width="588" height="150" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCWBBVq-lwZLVfsMivwh-DiMGB_Ts6ZTNE&q=35.529236,139.699875&zoom=15" allowfullscreen></iframe></div><br /><div class="round_border join_div"><strong>このイベントに参加しますか？</strong><br />まずは<a href="/accounts/login/events/355853" target="_self">Twitterにログイン</a>しよう！<span style="font-size:12px;font-weight:normal"><br />※ログインする際、TwiPlaが勝手にツイートやフォローする事はありません。</span></div><div class='clear_both'></div><div class='float_left member_list round_border'>参加者 (71人) <br/><ul><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;まりかるＪ</li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/954717056330432512/0_YeaE4w_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/bondizm" class="card namelist" n="BONたん PSR14 ありがとう" s="bondizm" title="@bondizm" target="_self">BONたん PSR14 ありがとう</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/925919275964964865/7Noo9sru_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/mohumohu_FGO" class="card namelist" n="モフモフ" s="mohumohu_FGO" title="@mohumohu_FGO" target="_self">モフモフ</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/444683278562250752/g1i9bOJe_normal.jpeg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/nisken0101" class="card namelist" n="にしけん" s="nisken0101" title="@nisken0101" target="_self">にしけん</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/344513261566217313/21f63f59a655aff6fff7467ccd1a4838_normal.jpeg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/kakashi250" class="card namelist" n="kakashi" s="kakashi250" title="@kakashi250" target="_self">kakashi</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1091572307506548736/f2OTfCyG_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/takimotopontaki" class="card namelist" n="本炊" s="takimotopontaki" title="@takimotopontaki" target="_self">本炊</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/959059620571463680/1NN0a3Cd_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/nice_bloomers" class="card namelist" n="つきよみ★乳恵姫大神ぶるま" s="nice_bloomers" title="@nice_bloomers" target="_self">つきよみ★乳恵姫大神ぶるま</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/425929497133588480/mx-RoeBe_normal.jpeg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/wakky_destiny" class="card namelist" n="wakkie" s="wakky_destiny" title="@wakky_destiny" target="_self">wakkie</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1036078475063349248/wmU-SnVP_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/CHAOS_YUSUKE" class="card namelist" n="YUSUKE" s="CHAOS_YUSUKE" title="@CHAOS_YUSUKE" target="_self">YUSUKE</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/830987519139328000/wmxWR7L5_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/gb_masa28" class="card namelist" n="ねこぱんちベルガー" s="gb_masa28" title="@gb_masa28" target="_self">ねこぱんちベルガー</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1097042825630212096/5-k1kPuP_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/asreiyar" class="card namelist" n="あすう れいや" s="asreiyar" title="@asreiyar" target="_self">あすう れいや</a></li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;K</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;くらいG</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;くらいH</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;Y</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;ボンT</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;ボンC</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;ボンD</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;ボンO</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;ボンK</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;ボンM</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;ボンY</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;てみE</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;てみD</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;てみC</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;てみB</li><li><img src="/img/hatena_avatar.gif" width="16" height="16" alt="" />&nbsp;てみA</li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/743073891/42726_1923389382_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/akitaka3" class="card namelist" n="AKITAKA" s="akitaka3" title="@akitaka3" target="_self">AKITAKA</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1017383647601545216/0zahsrnk_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/mokomoko65536" class="card namelist" n="もこっち" s="mokomoko65536" title="@mokomoko65536" target="_self">もこっち</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1065339305583828993/b11JoO2i_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/kureno073O" class="card namelist" n="紅乃" s="kureno073O" title="@kureno073O" target="_self">紅乃</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1067789092493000704/Dxwrdj8l_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/tsubakitigai" class="card namelist" n="つばきち" s="tsubakitigai" title="@tsubakitigai" target="_self">つばきち</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/750080180681453568/JIHG7vo5_normal.png" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/hiro_taka__" class="card namelist" n="ひろたか" s="hiro_taka__" title="@hiro_taka__" target="_self">ひろたか</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1053970383760576512/X5xieV5j_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/f57_shoji" class="card namelist" n="@ショウジ３" s="f57_shoji" title="@f57_shoji" target="_self">@ショウジ３</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/918437573994848256/cFQyEXTb_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/takasyunta" class="card namelist" n="たかしゅんた" s="takasyunta" title="@takasyunta" target="_self">たかしゅんた</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/861911813264482305/0jT81Z3-_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/hentaipineapple" class="card namelist" n="Mr.チョロい　ﾛﾘﾎﾟｯﾌﾟハメしぃ" s="hentaipineapple" title="@hentaipineapple" target="_self">Mr.チョロい　ﾛﾘﾎﾟｯﾌﾟハメしぃ</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1089012208594411520/sO0OwGWk_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/PPP12x21" class="card namelist" n="幸運艦ゆき風＠ぶん回し風　勝利のフレンズ" s="PPP12x21" title="@PPP12x21" target="_self">幸運艦ゆき風＠ぶん回し風　勝利のフレンズ</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/990745514248318977/vloMrajX_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/amatsusae" class="card namelist" n="アマツサエ" s="amatsusae" title="@amatsusae" target="_self">アマツサエ</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/711962186453659648/pbSMcw_H_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/syohanabi" class="card namelist" n="大さじ一杯" s="syohanabi" title="@syohanabi" target="_self">大さじ一杯</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/990899657462071296/tiQmid-o_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/loveliveda56" class="card namelist" n="佐賀山 敦　wug推し" s="loveliveda56" title="@loveliveda56" target="_self">佐賀山 敦　wug推し</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/378800000002104304/20d2bce2eb12a5238dea2d0c03e55055_normal.jpeg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/toyo_toyo_58" class="card namelist" n="とよ(｀･ω･´)" s="toyo_toyo_58" title="@toyo_toyo_58" target="_self">とよ(｀･ω･´)</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/909914763739652097/4h5GtlJ4_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/heppokoDANCER" class="card namelist" n="Nicro" s="heppokoDANCER" title="@heppokoDANCER" target="_self">Nicro</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/995077794022354948/D-nnoAYv_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/youbun_shiina" class="card namelist" n="しーな@( &#039;ω&#039; )" s="youbun_shiina" title="@youbun_shiina" target="_self">しーな@( &#039;ω&#039; )</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1071050143992971265/9kgH7CGR_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/chantaka33" class="card namelist" n="ちゃんタカ" s="chantaka33" title="@chantaka33" target="_self">ちゃんタカ</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1090593884311146496/4I8Jc3Vm_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/ren_3373" class="card namelist" n="mayu♡3/9は全員deepaに集合" s="ren_3373" title="@ren_3373" target="_self">mayu♡3/9は全員deepaに集合</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1045667064701054977/xnhBhUdV_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/soramamekunGP" class="card namelist" n="そらまめくん" s="soramamekunGP" title="@soramamekunGP" target="_self">そらまめくん</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/982503732570042368/jZLBzzfM_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/kasumi__p" class="card namelist" n="かすみ@OL" s="kasumi__p" title="@kasumi__p" target="_self">かすみ@OL</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1084815478638276608/pJpKGC02_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/wakos10" class="card namelist" n="wakos" s="wakos10" title="@wakos10" target="_self">wakos</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1068167428075483136/VvX65a1R_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/A_SlotMoePig" class="card namelist" n="ツインうつ豚" s="A_SlotMoePig" title="@A_SlotMoePig" target="_self">ツインうつ豚</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1087733464122773505/_EB8bWN__normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/keitajg" class="card namelist" n="けーた" s="keitajg" title="@keitajg" target="_self">けーた</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1044574189607301120/DcifAE6v_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/megumijo" class="card namelist" n="めぐ76" s="megumijo" title="@megumijo" target="_self">めぐ76</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1093783199094722560/rZ0simhA_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/reddevil013" class="card namelist" n="タッチ赤悪マミさん（課金無効）" s="reddevil013" title="@reddevil013" target="_self">タッチ赤悪マミさん（課金無効）</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1042105271424704512/otQcZEis_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/starship1996" class="card namelist" n="もすくわ" s="starship1996" title="@starship1996" target="_self">もすくわ</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1089907056163807232/A0EQs3Sd_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/temi_cure" class="card namelist" n="てみ" s="temi_cure" title="@temi_cure" target="_self">てみ</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1083648615241768961/bYrbzRMi_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/takamsa31" class="card namelist" n="じぇふ" s="takamsa31" title="@takamsa31" target="_self">じぇふ</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1091588483007672321/wBg2w5ZF_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/echigoyaaa" class="card namelist" n="越後屋a.k.aおいたん生涯握り手" s="echigoyaaa" title="@echigoyaaa" target="_self">越後屋a.k.aおいたん生涯握り手</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1097676795598364672/FZ8iQNcp_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/sakura_shizuku_" class="card namelist" n="さくたん@3/30 supernova" s="sakura_shizuku_" title="@sakura_shizuku_" target="_self">さくたん@3/30 supernova</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1077271416850898945/WouEZWtw_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/dymagician" class="card namelist" n="どいつ村" s="dymagician" title="@dymagician" target="_self">どいつ村</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1067042126997803009/qXL2MgMC_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/Ruis_Twin_Angel" class="card namelist" n="勇者葉月Ruis" s="Ruis_Twin_Angel" title="@Ruis_Twin_Angel" target="_self">勇者葉月Ruis</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1066197335397478401/gw-0u4hB_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/marical777" class="card namelist" n="まりか/る(20)🤭2/16PSR!" s="marical777" title="@marical777" target="_self">まりか/る(20)🤭2/16PSR!</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1091354619509276672/-xKPvASq_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/Piro_Piro_69" class="card namelist" n="ぴろぴろ♪" s="Piro_Piro_69" title="@Piro_Piro_69" target="_self">ぴろぴろ♪</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1003982247530151936/Yc5xXCtE_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/sirasu1129" class="card namelist" n="🐏築地しらす🐏" s="sirasu1129" title="@sirasu1129" target="_self">🐏築地しらす🐏</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1084834939961397250/DCmPWO6D_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/c_pi_man" class="card namelist" n="pi-man@どえむさんチーム" s="c_pi_man" title="@c_pi_man" target="_self">pi-man@どえむさんチーム</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/892787443279187968/-zBqnQBn_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/robokabuto" class="card namelist" n="ろ●かぶと@しばらくなんもない（" s="robokabuto" title="@robokabuto" target="_self">ろ●かぶと@しばらくなんもない（</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1098068492702478337/yHWaNx1d_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/komugi_twinkle" class="card namelist" n="回胴ウィッチこむぎちゃん🎠🍬" s="komugi_twinkle" title="@komugi_twinkle" target="_self">回胴ウィッチこむぎちゃん🎠🍬</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1027457007677128704/Ao2Qo_8n_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/Hanyu_" class="card namelist" n="さ子" s="Hanyu_" title="@Hanyu_" target="_self">さ子</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/965194440276033537/-nrYpsqJ_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/tama_ani" class="card namelist" n="タマ兄" s="tama_ani" title="@tama_ani" target="_self">タマ兄</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/957819210125623297/02Whbh3Z_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/hi_mogu" class="card namelist" n="もぐ（おっさんの方）" s="hi_mogu" title="@hi_mogu" target="_self">もぐ（おっさんの方）</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/817232900701626368/H5izGOwM_normal.png" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/about518" class="card namelist" n="518くらい" s="about518" title="@about518" target="_self">518くらい</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/791609147384995840/9-HOl1uR_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/otsu6251" class="card namelist" n="おつさん" s="otsu6251" title="@otsu6251" target="_self">おつさん</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/997829761446461440/e5zCGTfk_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/mnmsyan" class="card namelist" n="みなみ" s="mnmsyan" title="@mnmsyan" target="_self">みなみ</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/995664285693968385/fC6DJttQ_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/psr_dj" class="card namelist" n="P/S Rush!! 2/16PSR14" s="psr_dj" title="@psr_dj" target="_self">P/S Rush!! 2/16PSR14</a></li></ul></div><div class='float_left member_list round_border'>興味あり (4人) <br/><ul><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/879317333868662784/o7VngArH_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/nokiaofduality" class="card namelist" n="氷室🍤🍣そして🍚＆🍚" s="nokiaofduality" title="@nokiaofduality" target="_self">氷室🍤🍣そして🍚＆🍚</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/643079435898372096/dwGC2iLE_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/tuihousya" class="card namelist" n="追放者a.k.a.ついちゃん@体調不良" s="tuihousya" title="@tuihousya" target="_self">追放者a.k.a.ついちゃん@体調不良</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1092202652434280449/hTPugcIe_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/2CB0FJfS4VxN7Nz" class="card namelist" n="コロ" s="2CB0FJfS4VxN7Nz" title="@2CB0FJfS4VxN7Nz" target="_self">コロ</a></li><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1051480592464863232/fRiLxNjD_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/lDiUpyb3GoxQ8nh" class="card namelist" n="AKIRA@とある三期面白い" s="lDiUpyb3GoxQ8nh" title="@lDiUpyb3GoxQ8nh" target="_self">AKIRA@とある三期面白い</a></li></ul></div><div class='float_left member_list round_border'>不参加 (1人) <br/><ul><li><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/952154372061855744/v1cHN0Jz_normal.jpg" width="16" height="16" alt="" class="lazyload circle" onerror="this.src=&#039;/img/egg.png&#039;;" />&nbsp;<a href="/users/motipon0720" class="card namelist" n="おが" s="motipon0720" title="@motipon0720" target="_self">おが</a></li></ul></div><div class='clear_both' style='padding-top:10px'><a href="/events/printlist/355853" target="_blank" class="basic_btn"><div class="sprite icon_print"></div> 名簿印刷用ページを開く</a><br/><a href="javascript:togglename();" target="_self" class="basic_btn"><div class="sprite icon_update"></div> <span id="togglename_span">名前をID表示に</span></a></div>
+<br class='clear_both' /><br/><div class='bluetext' id='commentHeader'>コメント</div>
+最新の20件を表示中　<a href="/events/355853?comment" target="_self">[すべて表示する]</a><ol id='comment_list'>
+
+<li>
+<div class="icon"><a href="/users/reddevil013"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1093783199094722560/rZ0simhA_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">タッチ赤悪マミさん（課金無効）　33日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/keitajg"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1087733464122773505/_EB8bWN__normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">けーた　30日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/A_SlotMoePig"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1068167428075483136/VvX65a1R_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">飛び入りですがお願いします！@psr_dj 参加します！</div>
+<span class="graysmall">ツインうつ豚　29日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/kasumi__p"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/982503732570042368/jZLBzzfM_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">お仕事終わってから参加しますっ！！@psr_dj </div>
+<span class="graysmall">かすみ@OL　23日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/f57_shoji"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1053970383760576512/X5xieV5j_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 興味あり！</div>
+<span class="graysmall">@ショウジ３　19日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/heppokoDANCER"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/909914763739652097/4h5GtlJ4_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">Nicro　18日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/soramamekunGP"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1045667064701054977/xnhBhUdV_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！まめ</div>
+<span class="graysmall">そらまめくん　18日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/Ruis_Twin_Angel"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1067042126997803009/qXL2MgMC_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 今回もコスプレができるのでコスプレで参加します！</div>
+<span class="graysmall">勇者葉月Ruis　17日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/chantaka33"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1071050143992971265/9kgH7CGR_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">ちゃんタカ　16日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/youbun_shiina"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/995077794022354948/D-nnoAYv_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">しーな@( &#039;ω&#039; )　14日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/loveliveda56"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/990899657462071296/tiQmid-o_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">佐賀山 敦　wug推し　14日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/PPP12x21"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1089012208594411520/sO0OwGWk_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！勝ってたら遅刻します</div>
+<span class="graysmall">幸運艦ゆき風＠ぶん回し風　勝利のフレンズ　11日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/f57_shoji"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1053970383760576512/X5xieV5j_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">@ショウジ３　10日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/kureno073O"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1065339305583828993/b11JoO2i_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj コスプレしますー</div>
+<span class="graysmall">紅乃　9日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/mokomoko65536"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1017383647601545216/0zahsrnk_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">もこっち　9日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/akitaka3"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/743073891/42726_1923389382_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">AKITAKA　9日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/gb_masa28"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/830987519139328000/wmxWR7L5_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 産科します！ばぶばぶー</div>
+<span class="graysmall">ねこぱんちベルガー　9日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/nice_bloomers"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/959059620571463680/1NN0a3Cd_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">つきよみ★乳恵姫大神ぶるま　9日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/takimotopontaki"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/1091572307506548736/f2OTfCyG_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">本炊　9日前</span>　
+</span>
+</li>
+<li>
+<div class="icon"><a href="/users/bondizm"><img src="/img/egg.png" data-src="//pbs.twimg.com/profile_images/954717056330432512/0_YeaE4w_normal.jpg" height="36" width="36" class="lazyload circle" alt="" onerror="this.src='/img/egg.png';" /></a></div>
+<span class="status-body2">
+	<div class="comment_span">@psr_dj 参加します！</div>
+<span class="graysmall">BONたん PSR14 ありがとう　9日前</span>　
+</span>
+</li>
+
+</ol>
+
+<a href="/accounts/login/events/355853" target="_self">ログインしてコメントする</a><br/><br class='clear_both' /><br />
+<script type="text/javascript">
+<!--
+	function activateCmtCnt(){
+		j$('#CommentComment').NobleCount('#count1',{on_negative: 'go_red',max_chars:100});
+	}
+	function focusCmt(){
+		cmtbox=document.getElementById('CommentComment');
+		cmtbox.focus();
+		tr = cmtbox.createTextRange(); 
+		tr.move("character",cmtbox.value.length); 
+		tr.select(); 
+	}
+	var replyyes="@bondizm @mohumohu_FGO @nisken0101 @kakashi250 @takimotopontaki @nice_bloomers @wakky_destiny @CHAOS_YUSUKE @gb_masa28 @asreiyar @akitaka3 @mokomoko65536 @kureno073O @tsubakitigai @hiro_taka__ @f57_shoji @takasyunta @hentaipineapple @PPP12x21 @amatsusae @syohanabi @loveliveda56 @toyo_toyo_58 @heppokoDANCER @youbun_shiina @chantaka33 @ren_3373 @soramamekunGP @kasumi__p @wakos10 @A_SlotMoePig @keitajg @megumijo @reddevil013 @starship1996 @temi_cure @takamsa31 @echigoyaaa @sakura_shizuku_ @dymagician @Ruis_Twin_Angel @marical777 @Piro_Piro_69 @sirasu1129 @c_pi_man @robokabuto @komugi_twinkle @Hanyu_ @tama_ani @hi_mogu @about518 @otsu6251 @mnmsyan @psr_dj ";
+	var replaymaybe="@nokiaofduality @tuihousya @2CB0FJfS4VxN7Nz @lDiUpyb3GoxQ8nh ";
+	var replyno="@motipon0720 ";
+	function changeDMReply(id){
+		if(id>=1 && id<=3){
+			var namebox=document.getElementById('AccountNames');
+			if(id==1){
+			namebox.value=replyyes;
+			}else if(id==2){
+			namebox.value=replaymaybe;
+			}else{
+			namebox.value=replyno;
+			}
+		}
+	}
+	
+	function changeReply(id){
+		if(id>=1 && id<=3){
+			cmtbox=document.getElementById('CommentComment');
+			if(id==1){
+			cmtbox.value=replyyes;
+			}else if(id==2){
+			cmtbox.value=replaymaybe;
+			}else{
+			cmtbox.value=replyno;
+			}
+			activateCmtCnt();
+			focusCmt();
+		}
+	}
+	j$(document).ready(function () {
+		lazyload();
+		activateCmtCnt();
+		j$('#AccountComment').NobleCount('#count2',{on_negative: 'go_red',max_chars:500});
+		j$('#li4').hide();
+		dwidth=616;
+		j$('.ui-widget-overlay').live("touchend click", function() {
+		    j$("#rsvpdialog").dialog("close");
+		}); 
+		j$('#rsvpdialog').dialog({
+			autoOpen: true,
+			width:dwidth,
+			modal:true,
+			position:["center", 60],
+			open: function(e, ui) { j$("#reply_select").hide();focusCmt();},
+		   close: function(e, ui) { j$("#reply_select").show();document.getElementById("commentform").appendChild(document.getElementById("rsvpdialog")) ;activateCmtCnt(); }
+		});
+
+		j$('span .comment_span').each(function(){
+			var comm=j$(this).text();
+			j$(this).html(comm.replace(/(^@[a-zA-Z0-9_]{1,15})/g, ''));
+		});
+	});
+	var sn_flag=false;
+	if(document.cookie.indexOf("sn_flag=true", 0)!=-1){
+		sn_flag = true;
+		updateName();
+	}
+	function togglename(){
+		sn_flag=!sn_flag;
+		updateName();
+		document.cookie = "sn_flag="+sn_flag;
+	}
+	function updateName(){
+		var attr=sn_flag?'s':'n';
+		j$('.namelist').each(function(){
+			j$(this).text(j$(this).attr(attr));
+		});
+		if(sn_flag){
+			j$('#togglename_span').text('ID表示を名前に');
+		}else{
+			j$('#togglename_span').text('名前をID表示に');
+		}
+	}
+	function gotoDM(){
+	
+		var id=1;
+		if(j$('#AccountStatus option:selected').val()){
+			id=j$('#AccountStatus option:selected').val();
+		}
+		/**/
+		if(id==1){
+			j$("#AccountNames").val(replyyes);
+		}else if(id==2){
+			j$("#AccountNames").val(replaymaybe);
+		}else{
+			j$("#AccountNames").val(replyno);
+		}
+		
+		return true;
+	}
+//-->
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+	</td>
+
+	<td class="right_col" id ="right_col">
+
+<div class="shadow">
+<ul id="header_menu"><li><a href="/accounts/login">Twitterアカウントでログイン</a></li></ul></div>
+
+<ul class="right_list clear_both">
+	<li id="li4" style="display:none"><span id="name_container">　</span></li>
+<li id="li3"><a href="/all"><div class="sprite menu_icon icon4"></div>みんなのイベント</a></li>
+<li id="li6"><a href="/map"><div class="sprite menu_icon icon5"></div>地図から探す</a></li>
+<li id="li9"><a href="/events/search"><div class="sprite menu_icon icon8"></div>検索</a></li>
+<li id="li8"><a href="/dm"><div class="sprite menu_icon icon7"></div>DM一斉送信</a></li>
+<li id="li7"><a href="/pages/guide"><div class="sprite menu_icon icon6"></div>使い方ガイド</a></li></ul>
+</ul>
+<br class="shadow clear_both" />
+
+
+<div class='right_recommend'>
+
+<div class="round_border" style="margin-top:20px;padding:10px;background:#fcfcfc;">
+<ol class="links">
+<li><strong>近日開催のイベント</strong></li><li><a href="/events/366337">
+<span class="icon"><img src="//pbs.twimg.com/profile_images/721989378260598784/RNUQkaPT_normal.jpg" height="48" width="48" class="circle" onerror="this.src='/img/egg.png';" /></span>
+<span class="status-body">
+	<span><strong class="black">2019/02/27 17:00</strong><br />田村ゆかり　生誕祭２０１９</span><br />
+	<span class="graysmall">
+電気ねこさんが主催	</span>
+</span></a>
+</li>
+<li><a href="/events/365456">
+<span class="icon"><img src="//pbs.twimg.com/profile_images/1010377939223961601/D9i1JqQ2_normal.jpg" height="48" width="48" class="circle" onerror="this.src='/img/egg.png';" /></span>
+<span class="status-body">
+	<span><strong class="black">2019/02/27 18:00</strong><br />【日本ワイン会】持寄りでドメーヌ・タカヒコ飲みませんか？</span><br />
+	<span class="graysmall">
+フジヤマワインさんが主催	</span>
+</span></a>
+</li>
+<li><a href="/events/365579">
+<span class="icon"><img src="//pbs.twimg.com/profile_images/508974661476966400/DoCBNjKt_normal.jpeg" height="48" width="48" class="circle" onerror="this.src='/img/egg.png';" /></span>
+<span class="status-body">
+	<span><strong class="black">2019/02/27 18:30</strong><br />2/27(水)ルビー:Re：あにはぴ! vol.54　アニソン原曲DJパーティat #nagomix　#あにはぴ</span><br />
+	<span class="graysmall">
+あにはぴ！さんが主催	</span>
+</span></a>
+</li>
+</ol>
+
+</div>
+
+</div>
+	</td>
+	
+
+
+	</tr></table>
+
+<div id="menu_div"></div>
+
+	<div id="footer" class="all_corner shadow">
+
+<ul class="footer_list">
+	<li>イベント告知･出欠管理サービス<a href="/pages/about">「TwiPla」について</a></li>
+	<li>&copy; 2018 kyucon.com , <a href="https://twitter.com/twipla" target="_blank">@twipla</a></li>
+</ul>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4378558-10']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+		
+
+<!--
+-->
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc037a124f","applicationID":"108813668","transactionName":"YwRSZxEAXkAABU1YWlpOcVAXCF9dTgNPVFtAEh9FCgRH","queueTime":0,"applicationTime":120,"atts":"T0NREVkaTU4=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+

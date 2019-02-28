@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="ie lt-ie9 lt-ie8 lt-ie7" lang="ja-JP"><![endif]-->
+<!--[if IE 7]><html class="ie lt-ie9 lt-ie8" lang="ja-JP"><![endif]-->
+<!--[if IE 8]><html class="ie lt-ie9" lang="ja-JP"><![endif]-->
+<!--[if IE 9]><html class="ie ie9 lt-ie10" lang="ja-JP"><![endif]-->
+<!--[if (gt IE 9)]> <!--><html lang="ja-JP" class="ie  gt-ie9"> <!--<![endif]-->
+<head>
+<meta charset="UTF-8">
+<!-- GA-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-89658208-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-89658208-2', {
+    'custom_map': {'dimension1': 'IPaddress'}
+  });
+  gtag('event', 'IPaddress_send', {'IPaddress': '128.82.7.26'});
+</script>
+<!--
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-89658208-1', 'auto');
+  ga('set', 'dimension1', '128.82.7.26');
+  ga('send', 'pageview');
+</script>
+-->
+<!--/GA--><meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta name="author" content="Waseda Investigative Journalism Project" />
+<meta http-equiv="content-language" content="ja" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="copyright" content="Copyright  Waseda Investigative Journalism Project All Rights Reserved." />
+<meta name="robots" content="index,follow">
+<meta name="format-detection" content="telephone=no,address=no,email=no" />
+
+<!--ICON-->
+<link rel="shortcut icon" href="http://db.wasedachronicle.org/shared/favicons/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="http://db.wasedachronicle.org/shared/favicons/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" sizes="57x57" href="http://db.wasedachronicle.org/shared/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="http://db.wasedachronicle.org/shared/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://db.wasedachronicle.org/shared/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="http://db.wasedachronicle.org/shared/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://db.wasedachronicle.org/shared/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="http://db.wasedachronicle.org/shared/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://db.wasedachronicle.org/shared/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="http://db.wasedachronicle.org/shared/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://db.wasedachronicle.org/shared/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="http://db.wasedachronicle.org/shared/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="http://db.wasedachronicle.org/shared/favicons/favicon-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="http://db.wasedachronicle.org/shared/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="http://db.wasedachronicle.org/shared/favicons/favicon-160x160.png" sizes="96x96">
+<link rel="icon" type="image/png" href="http://db.wasedachronicle.org/shared/favicons/favicon-196x196.png" sizes="96x96">
+<link rel="icon" type="image/png" href="http://db.wasedachronicle.org/shared/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="http://db.wasedachronicle.org/shared/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="manifest" href="http://db.wasedachronicle.org/shared/favicons/manifest.json">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="http://db.wasedachronicle.org/shared/favicons/mstile-144x144.png">
+
+<!--SEO-->
+<meta name="description" content="マネーデータベース『製薬会社と医師』～あなたの医者をみつけよう" />
+<link rel="canonical" href="http://db.wasedachronicle.org/" />
+
+<!--Social-->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@WasedaChronicle" />
+<meta property="fb:app_id" content="1356077181144987" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:site_name" content="ワセダクロニクル" />
+<meta property="article:publisher" content="https://www.facebook.com/WasedaChronicle/" />
+<link rel="start" href="http://db.wasedachronicle.org/" title="ワセダクロニクル" />
+<meta property="og:title" name="twitter:title" content="マネーデータベース『製薬会社と医師』～あなたの医者をみつけよう" />
+<meta property="og:description" name="twitter:description" content="マネーデータベース『製薬会社と医師』～あなたの医者をみつけよう" />
+<meta property="og:image" content="http://db.wasedachronicle.org/shared/images/logo_1200x630.png" />
+<meta property="og:url" content="http://db.wasedachronicle.org/" />
+<meta property="og:type" content="website" />
+
+<!--JS-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<!--CSS-->
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700i,700,900" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="http://db.wasedachronicle.org/shared/css/reset.css" media="screen,print" />
+
+<link rel="stylesheet" type="text/css" href="http://db.wasedachronicle.org/shared/css/style.css" media="screen,print" />
+<link rel="stylesheet" type="text/css" href="http://db.wasedachronicle.org/shared/css/sp.css" media="only screen and (min-width: 0px) and (max-width: 768px)" >
+<title>マネーデータベース『製薬会社と医師』～あなたの医者をみつけよう</title>
+</head>
+
+
+<body id="">
+<!-- header -->
+<header>
+	<span>
+		<a target="_blank" href="//www.wasedachronicle.org/"><img class="wsd_logo" src="http://db.wasedachronicle.org/shared/images/title_chara.svg" alt="ワセダクロニクル"/></a>
+		<span class="logo_x">x</span>		
+		<a target="_blank" href="//www.megri.or.jp/"><img class="megri_logo" src="http://db.wasedachronicle.org/shared/images/title_megri.png" alt="医療ガバナンス研究所"/></a>
+	</span>
+</header>
+<!-- / header -->
+<section id="top" class="index">
+
+<h1>マネーデータベース<br>『製薬会社と医師』<br><span>～あなたの医者をみつけよう</span></h1>
+<p class="banner">
+    <a href="https://jp.surveymonkey.com/r/J7R8MNH" target="_blank">アンケートご協力のお願い</a>
+  </p>
+<form action="./search/" method="POST" id="form" class="form">
+	<input type="text" name="doctor" id="log" value="" class="name" placeholder="医師名・製薬会社名で検索（部分検索可）" />
+	<input type="submit" name="Submit" value="" class="buttons" />
+</form>
+
+</section>
+
+<section id="sentence">
+	<div>
+		<h2><span>患者とその家族、友人のみなさまへ</span></h2>
+		<p>
+			かかりつけ医がいつも処方している薬は、効果と安全性の面で自分にとって最良なのだろうか。著名な医師が薬や病気についてメディアで語る内容は信じられるのだろうかーー。
+		</p>
+		<p>
+			そんな疑問を持ったことはありませんか。
+		</p>
+		<p>
+			米国では、製薬会社から医師への2,000円ほどの飲食の提供で、その医師の処方が変わるという研究もあります。医師による薬の処方やメディアでの発信を監視するには、医師と製薬会社との利害関係を「透明化」することが重要です。
+		</p>
+		<p>
+			ジャーナリズムNGOのワセダクロニクルと特定非営利活動法人の医療ガバナンス研究所は、製薬会社から医師個人に支払われた金銭を誰もが調べられるデータベースを作成しました。土台になったのは、製薬会社が自らのホームページで公開しているデータです。全社のデータが出揃っている最新の2016年度版です。このデータベースを私たちは「マネーデータベース『製薬会社と医師』」と名付けました。
+		</p>
+		<p>
+			みなさんへの適切な薬の処方に役立つことを私たちは期待し、このデータベースを公開します。
+		</p>
+		<a href="/about/" class="btn">&raquo; Read more</a>
+	</div>	
+</section>
+
+<!-- 製薬会社 -->
+<section id="ranking_company" class="ranking">
+<script type="text/javascript">
+	function companyPost(val){
+		
+		var form = document.createElement('form');
+	    var request = document.createElement('input');
+	 
+	    form.method = 'POST';
+	    form.action = '../company/';
+	 
+	    request.type = 'hidden';
+	    request.name = 'name';
+	    request.value = val;
+	 
+	    form.appendChild(request);
+	    document.body.appendChild(form);
+	 
+	    form.submit();
+	    
+	}	
+</script>	
+	<div>
+		<h2>全製薬会社別 <span class="br">支払額ランキング</span></h2>
+		<ol>
+<li><span class="left"><a href="javascript:companyPost('第一三共')">第一三共</a></span><span>2,015,000,000円</span>
+		        </li><li><span class="left"><a href="javascript:companyPost('中外製薬')">中外製薬</a></span><span>1,182,818,918円</span>
+		        </li><li><span class="left"><a href="javascript:companyPost('田辺三菱')">田辺三菱</a></span><span>1,171,000,000円</span>
+		        </li><li><span class="left"><a href="javascript:companyPost('武田薬品工業')">武田薬品工業</a></span><span>1,161,601,266円</span>
+		        </li><li><span class="left"><a href="javascript:companyPost('大塚製薬')">大塚製薬</a></span><span>1,145,410,749円</span>
+		        </li><li><span class="left"><a href="javascript:companyPost('MSD')">MSD</a></span><span>1,072,598,490円</span>
+		        </li><li><span class="left"><a href="javascript:companyPost('日本ベーリンガーインゲルハイム')">日本ベーリンガーインゲルハイム</a></span><span>1,071,910,000円</span>
+		        </li><li><span class="left"><a href="javascript:companyPost('ファイザー')">ファイザー</a></span><span>974,472,908円</span>
+		        </li><li><span class="left"><a href="javascript:companyPost('小野薬品')">小野薬品</a></span><span>917,115,852円</span>
+		        </li><li><span class="left"><a href="javascript:companyPost('協和発酵キリン')">協和発酵キリン</a></span><span>866,535,432円</span>
+		        </li>		</ol>
+		<a href="/ranking/" class="btn">&raquo; Read more</a>
+	</div>
+</section>
+<!-- /製薬会社 -->
+
+<!-- 医師 -->
+<section id="ranking_society" class="ranking">
+	<div>
+		<h2>主要20学会別 <span class="br">理事平均受領額ランキング</span></h2>
+		<ol>
+			<li><span class="left">日本内科学会</span><span>6,056,879円</span></li>
+			<li><span class="left">日本泌尿器科学会</span><span>4,999,549円</span></li>
+			<li><span class="left">日本皮膚科学会</span><span>4,578,681円</span></li>
+			<li><span class="left">日本眼科学会</span><span>2,512,485円</span></li>
+			<li><span class="left">日本精神神経学会</span><span>1,986,443円</span></li>
+			<li><span class="left">日本整形外科学会</span><span>1,978,945円</span></li>
+			<li><span class="left">日本外科学会</span><span>1,791,935円</span></li>
+			<li><span class="left">日本産婦人科学会</span><span>1,381,252円</span></li>
+			<li><span class="left">日本耳鼻咽喉科学会</span><span>1,298,968円</span></li>
+			<li><span class="left">日本脳神経外科学会</span><span>1,232,890円</span></li>
+			<li><span class="left">日本小児科学会</span><span>912,476円</span></li>
+			<li><span class="left">日本リハビリテーション医学会</span><span>865,129円</span></li>
+			<li><span class="left">日本病院総合診療医学会</span><span>796,519円</span></li>
+			<li><span class="left">日本医学放射線学会</span><span>650,533円</span></li>
+			<li><span class="left">日本救急医学会</span><span>634,990円</span></li>
+			<li><span class="left">日本病理学会</span><span>624,098円</span></li>
+			<li><span class="left">日本麻酔学会</span><span>619,422円</span></li>
+			<li><span class="left">日本臨床検査医学会</span><span>574,266円</span></li>
+			<li><span class="left">日本プライマリ・ケア連合学会</span><span>412,058円</span></li>
+			<li><span class="left">日本形成外科学会</span><span>387,741円</span></li>
+			<li><span class="left">医師平均</span><span>265,927円</span></li>
+		</ol>
+	</div>
+</section>
+<!-- /医師 -->
+
+<section id="donate">
+	<div>
+		<h2><span>本調査に対するご支援のお願い</span></h2>
+		<p>探査ジャーナリズムには、多くの時間と費用と労力を要します。独立したジャーナリスト集団であるワセダロニクルには広告収入もなく、取材費も給料もありません。あるのは、私たちと同じように、今の日本にこそ探査ジャーナリズムが重要なジャーナリズムだと考えるみなさま一人一人のご支援です。</p>
+		<a target="_blank" href="//www.wasedachronicle.org/donate/" class="btn">&raquo; Read more</a>
+	</div>
+</section>
+<section>
+<div id="socialbox">
+<div id="facebook_follow" class="mb15">
+<div class="fb-page" data-href="https://www.facebook.com/WasedaChronicle" data-tabs="timeline" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/WasedaChronicle" class="fb-xfbml-parse-ignore" ><a href="https://www.facebook.com/WasedaChronicle">WasedaChronicle</a></blockquote></div>
+</div>
+<div id="twitter_follow" class="mb15">
+<a href="https://twitter.com/WasedaChronicle" class="twitter-follow-button" data-show-count="false">Follow @WasedaChronicle</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+</div>
+</section>
+<footer>
+
+<div id="wijp">
+    <a href="//www.wasedachronicle.org/"><img src="http://db.wasedachronicle.org/shared/images/logo_400x400.png" alt="waseda chronicle" width="110"></a><br>
+    <a href="https://gijn.org/member/waseda-chronicle-japan/" target="_blank">世界探査ジャーナリズムネットワーク(GIJN)オフィシャルメンバー</a><br>
+ジャーナリズムNGO(特定非営利活動法人)ワセダクロニクル<br><br>
+        <a target="_blank" href="http://www.wasedachronicle.org/editor-in-chief/">編集長 - 渡辺 周</a>
+	    <ul id="footersocial">
+	        <li><a href="javascript:void(0);" target="_blank"  id="fb_share"><img src="http://db.wasedachronicle.org/shared/images/icon-facebook_gray.png" alt="facebook" width="40" height="40"></a></li>
+	        <li><a href="javascript:void(0);" target="_blank" id="tw_share"><img src="http://db.wasedachronicle.org/shared/images/icon-twitter_gray.png" alt="twitter" width="40" height="40"></a></li>
+	    </ul>        
+</div>
+
+<div id="otherlinks">
+	<ul>
+		<li><a href="http://gijn.org/" target="_blank"><img src="http://db.wasedachronicle.org/shared/images/gijn-horizontal-logo_little.png" alt="Global Investigative Journalism Network" height="50"></a></li>
+	</ul>
+</div>
+
+<div id="bottom">
+<address>
+<div id="countactinfo">
+<p>105-0013 東京都港区浜松町2-2-15浜松町ダイヤビル2F<br>特定非営利活動法人ワセダクロニクル<p>
+<p><a href="m&#97;i&#108;t&#111;:&#99;o&#110;&#116;&#97;c&#116;@&#119;i&#106;&#112;&#46;o&#114;&#103;">&#99;o&#110;&#116;&#97;c&#116;@&#119;i&#106;&#112;&#46;o&#114;&#103;</a></p>
+</div>
+</address>
+<div id="copyright">
+<p>Copyright &copy; Waseda Chronicle, All Rights Reserved.</p>
+</div>
+
+</div>
+<div id="pagetop">
+<img src="http://db.wasedachronicle.org/shared/images/icon-pagetop.png" alt="ページトップへ"  height="23" width="16"/>
+</g>
+</svg>
+</div>
+</div>
+</footer>
+
+
+<script src="http://db.wasedachronicle.org/shared/js/common.js"></script>
+
+<!-- facebook-->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1356077181144987',
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/ja_JP/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+<!-- /facebook--><script src="http://db.wasedachronicle.org/shared/js/ticker.js"></script>
+<script src="http://db.wasedachronicle.org/shared/js/home.js"></script>
+
+</body>
+</html>

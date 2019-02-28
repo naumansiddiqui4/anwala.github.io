@@ -1,0 +1,172 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="robots" content="index,follow,noodp,noydir" />
+<meta name="description" content="「コルムオンライン」はサービス終了しました。無料ゲーム・オンラインゲームのNEXON（ネクソン）公式サイト。" />
+<meta name="keywords" content="オンラインゲーム,ゲーム,無料ゲーム,無料オンラインゲーム,ネクソン,NEXON" />
+<title>「コルムオンライン」サービス終了のお知らせ | NEXON（ネクソン）</title>
+
+<link rel="stylesheet" href="https://imgfiles.nexon.co.jp/nxqj/gnb/css/gnb.css" />
+<link rel="stylesheet" href="/include/css/common.css" />
+
+<link rel="shortcut icon" href="/include/img/common/nexon_favi.ico" />
+
+<script type="text/javascript" src="/include/js/jquery-1.8.1.min.js"></script>
+<script type="text/javascript" src="/include/js/jquery-ui-1.8.17.min.js"></script>
+<script type="text/javascript" src="/include/js/jquery.colorbox-min.js"></script>
+<script src="/scripts/jquery.unobtrusive-ajax.js"></script>
+<script type="text/javascript" src="https://imgfiles.nexon.co.jp/nxqj/gnb/js/gnb.js"></script>
+<script type="text/javascript" src="/include/js/common.js"></script>
+<link rel="stylesheet" href="/include/css/end.css" />
+<link rel="stylesheet" href="/include/css/common_sub.css" />
+
+</head>
+
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TFJ25H"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TFJ25H');</script>
+<!-- End Google Tag Manager -->
+
+<!-- 2018/11/14 新規追加GTMタグ -->
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TT89PKW"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || []; w[l].push({ 'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+        }); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TT89PKW');</script>
+<!-- End Google Tag Manager -->
+<!-- End 2018/11/14 -->
+<!-- Add 2018/11/20 -->
+<!-- End 2018/11/20 -->
+	
+
+
+
+
+	<div class="container-width type-c">
+		<div class="container">
+			<div class="cnt-mid">
+				<div class="cnt-top">
+					<div class="cnt-bottom">
+						<div class="title">
+							<h1>「コルムオンライン」サービス終了のお知らせ</h1>
+						</div>
+						<div class="txt-area">
+							<h2><span>日頃はネクソンをご愛顧いただき、誠にありがとうございます。</span></h2>
+							<p class="txt1">永らく皆様にお楽しみいただいておりました「コルムオンライン」は、<br />
+							<strong>2013年3月27日（水）11:00</strong>をもちまして、サービスを終了させていただきました。</p>
+							<p class="txt1">ネクソンは、「コルムオンライン」で培ったゲーム運用経験のノウハウを、<br />
+							魅力あふれるコンテンツ開発に生かしてまいります。</p>
+							<p class="txt1">皆様には、長きに渡りお楽しみくださいましたことを心より御礼申し上げます。<br />
+							今後ともネクソンをどうぞよろしくお願いいたします。</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="btn-nexontop"><a href="https://www.nexon.co.jp/" target="_self">無料ゲーム・オンラインゲームをNEXONで遊ぼう！</a></div>
+		</div>
+	</div>
+
+
+
+
+	<!-- 下部共通コンテンツ -->
+	<div class="footer">
+		<div class="foot-link">
+			<ul>
+				<li><a href="http://company.nexon.co.jp/" target="_blank">運営会社</a></li>
+				<li><a href="https://www.nexon.co.jp/rule/agreement.aspx">利用規約</a></li>
+				<li><a href="http://company.nexon.co.jp/support/privacypolicy.aspx" target="_blank">プライバシーポリシー</a></li>
+				<li><a href="https://www.nexon.co.jp/rule/tokusyo.aspx">特定商取引法に基づく表記</a></li>
+				<li><a href="https://www.nexon.co.jp/rule/settlement.aspx">資金決済法に基づく表記</a></li>
+				<li><a href="https://www.nexon.co.jp/rule/copyright.aspx">著作権ガイドライン</a></li>
+				<li><a href="http://ir.nexon.co.jp/" target="_blank">IR情報</a></li>
+				<li><a href="https://www.nexon.co.jp/rule/data/">ゲーム基本情報</a></li>
+                                <li><a href="https://recruit.nexon.co.jp/" target="_blank">採用情報</a></li>			</ul>
+			<div class="copyright-cnt">
+				<p><a href="https://www.nexon.co.jp/">無料ゲーム・オンラインゲームはNEXON（ネクソン）</a></p>
+				<p class="eng">Copyright &copy; 2011 NEXON Korea Corporation and NEXON Co., Ltd. All Rights Reserved.</p>
+			</div>
+		</div>
+	</div>
+	<!-- /下部共通コンテンツ -->
+<!-- NGM -->
+<script src="//platform.nexon.co.jp/Auth/NGM/JS/NGMModuleInfo.js" type="text/javascript"></script>
+<script src="//platform.nexon.co.jp/Auth/NGM/JS/npf_ngm.js" type="text/javascript"></script>
+<script src="//platform.nexon.co.jp/Auth/js/npf_auth_c2.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+    var NgbCookie = new function __NgbCookie() {
+        this.GetCookie = function (nameVal) {
+            var numCookie = document.cookie.length;
+            var oven = document.cookie.split('; ');
+
+            for (var i = 0; i < oven.length; i++) {
+                if (oven[i].indexOf('=') != -1) {
+                    cookieName = oven[i].substring(0, oven[i].indexOf('='));
+                } else {
+                    cookieName = oven[i];
+                }
+
+                if (cookieName == nameVal) {
+                    if (oven[i].indexOf('=') != -1) {
+                        cookieVal = oven[i].substr(oven[i].indexOf('=') + 1);
+                    } else {
+                        cookieVal = '';
+                    }
+                    return cookieVal;
+                }
+            }
+            return '';
+        }
+    }
+
+    function doUpdateSession() {
+        if (NgbCookie.GetCookie('NPP') != '') {
+
+            AuthSystem.UpdateSession(onUpdateResponse);
+        }
+    }
+
+    var objUpdateInterval = null;
+    function onUpdateResponse(resultObject, responseXML) {
+        if (resultObject.ErrorCode == undefined) {
+            alert('一定の時間が経過したため、\n公式サイトからログアウトします');
+            window.location.href ="/common/logout";
+        } else if (resultObject.ErrorCode == CommonError.NoError) {
+            window.clearInterval(objUpdateInterval);
+            objUpdateInterval = setInterval("doUpdateSession()", resultObject.UpdateInterval * 1000);
+        } else if (resultObject.ErrorCode == AuthSystemError.Disconnected) {
+            alert("別のパソコンでログインされたため、\n公式サイトからログアウトしました。");
+            window.location.href ="/common/logout";
+        } else {
+            //alert("ゲームにログイン中のアカウントです。\nゲーム内で別のマップに移動すると、\n接続が切断されます。");
+        }
+    }
+
+    setTimeout("doUpdateSession()", 1);
+
+//-->
+</script>
+
+</body>
+</html>

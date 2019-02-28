@@ -1,0 +1,744 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN""http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<title>KKB鹿児島放送｜イベント試写会｜</title>
+<script type="text/javascript">function backToTop() {
+	var x1 = x2 = x3 = 0;
+	var y1 = y2 = y3 = 0;
+	if (document.documentElement) {
+		x1 = document.documentElement.scrollLeft || 0;
+		y1 = document.documentElement.scrollTop || 0;
+	}
+	if (document.body) {
+		x2 = document.body.scrollLeft || 0;
+		y2 = document.body.scrollTop || 0;
+	}
+	x3 = window.scrollX || 0;
+	y3 = window.scrollY || 0;
+	var x = Math.max(x1, Math.max(x2, x3));
+	var y = Math.max(y1, Math.max(y2, y3));
+	window.scrollTo(Math.floor(x / 2), Math.floor(y / 2));
+	if (x > 0 || y > 0) {
+		window.setTimeout("backToTop()", 25);
+	}
+}
+</script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="/oricon_style/js/jquery.colorbox.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	//Examples of how to assign the ColorBox event to elements
+	$(".group1").colorbox({rel:'group1'});
+	$(".group2").colorbox({rel:'group2', transition:"fade"});
+	$(".group3").colorbox({rel:'group3', transition:"none", width:"75%", height:"75%"});
+	$(".group4").colorbox({rel:'group4', slideshow:true});
+	$(".ajax").colorbox();
+	$(".youtube").colorbox({iframe:true, innerWidth:425, innerHeight:344});
+	$(".iframe").colorbox({iframe:true, width:"90%", height:"90%"});
+	$(".inline").colorbox({inline:true, width:"50%"});
+	$(".callbacks").colorbox({
+		onOpen:function(){ alert('onOpen: colorbox is about to open'); },
+		onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
+		onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
+		onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
+		onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
+	});
+	
+	//Example of preserving a JavaScript event for inline calls.
+	$("#click").click(function(){ 
+		$('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+		return false;
+	});
+});
+</script>
+<SCRIPT language="JavaScript">
+<!--
+var rclickmsg ="無断複製・使用はご遠慮ください。"
+
+var ie=!!document.all
+var n4=!!document.layers
+var gk=(navigator.userAgent.match(/Gecko/i)!=null)
+
+function mousedown(e){
+	if(navigator.platform.indexOf("Mac")!=-1){
+		if((ie&&event.ctrlKey)||((n4||gk)&&e.modifiers==2)){
+			alert(rclickmsg)
+			return false
+		}
+	}else{
+		if(ie){
+			e=event
+			if(e.button>=2){
+			if(event.type=="mouseup"){document.body.createTextRange().select()}
+				alert(rclickmsg)
+				return false
+			}
+		}else{
+			if(n4||gk){
+				if(e.which==3){
+				alert(rclickmsg)
+				return false
+				}
+			}
+		}
+	}
+}
+
+function keydown(){
+if(ie){
+if(event.keyCode==93){alert(rclickmsg)}
+if(event.shiftKey&&event.keyCode==121){alert(rclickmsg)}
+}
+}
+
+if(n4){
+document.captureEvents(Event.MOUSEDOWN)
+}
+document.onkeydown=keydown
+document.onmousedown=mousedown
+//-->
+</SCRIPT>
+<style type="text/css">
+</style>
+<link href="/top_page.css" rel="stylesheet" type="text/css">
+<link href="/css/event.css" rel="stylesheet" type="text/css">
+<link href="/oricon_style/css/colorbox.css" rel="stylesheet" type="text/css" />
+<link rel="apple-touch-icon" href="http://www.kkb.co.jp/iphone.png">
+<!-- DFP用start -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/193632318/LMC/LMC_TV/kkb/PC_inside/superbanner', [[1, 1], [728, 90]], 'div-gpt-ad-1538727867693-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- DFP用end -->
+</head>
+
+<body>
+<div id="all-content">
+<table width="0" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="margin:0px auto;">
+<!-- ヘッダ開始 -->
+<tr>
+<td width="901" align="left" colspan="2">
+
+<!-- ヘッダ開始 -->
+<!--【■■■■■■■■■■■【ヘッダー始まり】■■■■■■■■■■■■■】-->
+<div id="header-box">
+<!--div class="top-logo"><a href="/index.php"><img src="/img/kkb-logo.gif" alt="KKB鹿児島放送・ＫＫＢの地上デジタル放送は５チャンネル！" width="329" height="83" style="border:0px;"></a></div>
+<div class="top-bana1">
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="500" height="70" id="top" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="movie" value="/flash/banner/top.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/flash/banner/top.swf" quality="high" bgcolor="#ffffff" width="500" height="70" name="top" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</div-->
+<script type="text/javascript" src="/flash/banner/banner.js"></script>
+<script language="javascript">
+	var wkWEEK = new Array("日","月","火","水","木","金","土");
+	var wkDATE_HEAD = new Date();
+	var wkYMD_HEAD;
+	
+	wkYMD_HEAD = "<font style=\"color:orange;font-size:12pt;font-weight:bold;\">" + wkDATE_HEAD.getFullYear() + "</font>年";
+	wkYMD_HEAD+= "<font style=\"color:orange;font-size:12pt;font-weight:bold;\">" + Number(wkDATE_HEAD.getMonth() + 1) + "</font>月";
+	wkYMD_HEAD+= "<font style=\"color:orange;font-size:12pt;font-weight:bold;\">" + wkDATE_HEAD.getDate() + "</font>日";
+	wkYMD_HEAD+= " <font style=\"font-size:11pt;\">(" + wkWEEK[wkDATE_HEAD.getDay()] + ")</font>";
+
+	var bnr_s=0;
+	var bnr_t01;
+	if (bnr_cnt > 1){
+		setTimeout("bnr_che()",6000);
+	}
+	function bnr_che(){
+		bnr_s+=1;
+		if(bnr_s>=bnr_cnt) bnr_s=0;
+//		document.flash_banner.src=bnr_ga[bnr_s];
+		document.getElementById("flash_banner").src = bnr_ga[bnr_s];
+		//--------- jquery ----------
+//		$(document).ready(function(){
+//				$("#flash_banner").ImageSwitch({Type:"ScrollIn", 
+//					NewImage:bnr_ga[bnr_s],	
+//					Direction:"FlyOut"
+//					});
+//		});
+		//---------------------------
+		bnr_t01=setTimeout("bnr_che()",5000);
+	}
+	function bnr_ten(){
+		if (bnr_url[bnr_s] != ""){
+			if (bnr_wn[bnr_s] != ""){
+				window.open("/kkb_banner_link3.php?bno="+bnr_url[bnr_s],bnr_ta[bnr_s],bnr_wn[bnr_s]); 
+			}
+			else{
+				window.open("/kkb_banner_link3.php?bno="+bnr_url[bnr_s],bnr_ta[bnr_s]); 
+			}
+		}
+}
+
+</script>
+	<div>
+		<ul style="width:900px;height:85px;">
+		<li style="float:left;width:350px;">
+		<div style="position:absolute; visibility:visible;z-index:1;filter:">
+		<img src="/img/spacer.gif" width="80" height="20"><script language="javascript">document.write(wkYMD_HEAD);</script>
+		</div>
+		<a href="/index.php">
+		<img src="/img/kkb-logo.gif" alt="KKB鹿児島放送・ＫＫＢの地上デジタル放送は５チャンネル！" width="329" style="border:0px;">		</a>
+		</li>
+		<li style="float:left;">
+		<a href="JavaScript:bnr_ten();"><img src="/img/spacer.gif" name="flash_banner" id="flash_banner" width="500" height="70" style="border:0px;padding:5px 12px;"></a>
+		</li>
+		</ul>
+	</div>
+	<div>
+		<span id="navi">
+		<ul>
+		<li class="home" title="KKBトップページへ戻る"><a href="/index.php">KKBトップページへ戻る</a></li>
+		<li class="news" title="鹿児島県内のニュース"><a href="/news_move/jchan_move_detail.php?news_flg=0&param1=0">鹿児島県内のニュース</a></li>
+		<li class="weather" title="天気予報"><a href="/weather/weather/kkb/weather_report.php">天気予報</a></li>
+		<li class="tv" title="番組表"><a href="/epgdata/Weekly1.php">番組表</a></li>
+		<li class="kkbtv" title="KKB番組"><a href="/bangumi/bangumi.php">KKB番組</a></li>
+		<li class="ichioshi" title="イチオシ番組"><a href="/ichioshi/ichioshi.php">イチオシ番組</a></li>
+		<li class="event" title="イベント・試写会"><a href="/event.php">イベント・試写会</a></li>
+		<li class="announcer" title="アナウンサー紹介"><a href="/ana.php">アナウンサー紹介</a></li>
+		</ul>
+		</span>
+	</div>
+<!--
+<table border="0" cellspacing="0" cellpadding="0">
+	<tr><td>
+	<div>
+		<table border="0" cellspacing="0">
+			<tr>
+				<td width="360" align="left">
+					<div style="position:absolute; visibility:visible;z-index:1;filter:">
+					<table border="0" cellspacing="0" cellpadding="0"><tr><td><img src="/img/spacer.gif" width="80" height="20"></td><td valign="bottom"><script language="javascript">document.write(wkYMD_HEAD);</script></td></tr></table>
+					</div>
+					<a href="/index.php"><img src="/img/kkb-logo.gif" alt="KKB鹿児島放送・ＫＫＢの地上デジタル放送は５チャンネル！" width="329" style="border:0px;" /></a></td>
+				<td>
+					<div><a href="JavaScript:bnr_ten();"><img src="/img/spacer.gif" name="flash_banner" id="flash_banner" width="500" height="70" border="0" style="border:0px;"></a></div>
+				</td>
+			<tr>
+		</table>
+	</div>
+	</td></tr>
+	<tr><td>
+	<div>
+		<span id="navi">
+		<ul>
+		<li class="home" title="KKBトップページへ戻る"><a href="/index.php">KKBトップページへ戻る</a></li>
+		<li class="news" title="鹿児島県内のニュース"><a href="/news_move/jchan_move_detail.php?news_flg=0&param1=0">鹿児島県内のニュース</a></li>
+		<li class="weather" title="天気予報"><a href="/weather/weather/kkb/weather_report.php">天気予報</a></li>
+		<li class="tv" title="番組表"><a href="/bangumihyo/data/Weekly1.php">番組表</a></li>
+		<li class="kkbtv" title="KKB番組"><a href="/bangumi/bangumi.php">KKB番組</a></li>
+		<li class="ichioshi" title="イチオシ番組"><a href="/ichioshi/ichioshi.php">イチオシ番組</a></li>
+		<li class="event" title="イベント・試写会"><a href="/event.php">イベント・試写会</a></li>
+		<li class="announcer" title="アナウンサー紹介"><a href="/ana.php">アナウンサー紹介</a></li>
+		</ul>
+		</span>
+	</div>
+	</td></tr>
+</table>
+-->
+<script language="javascript">
+	if (bnr_cnt > 0){
+//		document.flash_banner.src=bnr_ga[bnr_s];
+		document.getElementById("flash_banner").src = bnr_ga[bnr_s];
+	}
+</script>
+</div><!--【■■■■■■■■■■■【ヘッダーここまで】■■■■■■■■■■■■■】-->
+<!--div class="panks-link"><ul><li title="中途採用正社員募集について"><a href="/company/company-4.php" target="_self">中途採用正社員募集について</a></li></ul></div-->
+<!--div class="panks-link"><ul><li title="平成31年度採用 社員募集について"><a href="/company/company-4.php" target="_self">平成31年度採用 社員募集について</a></li></ul></div-->
+<!--div class="panks-link"><ul><li title="平成29年度採用社員募集 一次選考通過者について"><a href="/company/company-4.php" target="_self">平成29年度採用社員募集 一次選考通過者について</a></li></ul></div-->
+
+</td>
+</tr>
+<!--tr>
+<td><img src="/img/spacer.gif" width="1" height="10"></td>
+</tr-->
+<tr><td align="center">
+<!-- /193632318/LMC/LMC_TV/kkb/PC_inside/superbanner -->
+<div id='div-gpt-ad-1538727867693-0'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1538727867693-0'); });
+</script>
+</div>
+</td></tr>
+<tr>
+<td><img src="/img/spacer.gif" width="1" height="5"></td>
+</tr>
+<tr>
+<td><div id="bg-img">
+<!--■■■■■【left】■■■■■-->
+<div id="event-left">
+<!--h3><img src="/img/client-link.jpg" width="160" height="35" alt="クライアントリンク"></h3-->
+<table width="0" border="0" cellspacing="0" cellpadding="0" width="150">
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=49" target="_blank" title="「イケダパン」"><img src="/banner/client/ikedapan_152500.gif" alt="「イケダパン」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=52" target="_blank" title="「ECCジュニア」"><img src="/banner/client/ecc_220719.jpg" alt="「ECCジュニア」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=48" target="_blank" title="「違法配信撲滅キャンペーン」"><img src="/banner/client/ihoubokumetsu_195705.gif" alt="「違法配信撲滅キャンペーン」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=20" target="_blank" title="「ＪＲ九州鹿児島支社」"><img src="/banner/client/jr_183949.gif" alt="「ＪＲ九州鹿児島支社」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=5" target="_blank" title="「川商ハウス」"><img src="/banner/client/KKB_kawa_reg_154809.jpg" alt="「川商ハウス」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=43" target="_blank" title="「はぴねすくらぶ」"><img src="/banner/client/e-hapi_100650.jpg" alt="「はぴねすくらぶ」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=7" target="_blank" title="「ミンク・インターネット」"><img src="/banner/client/minc-logo_144628.gif" alt="「ミンク・インターネット」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=8" target="_blank" title="「シナプス」"><img src="/banner/client/synapse-logo_144739.gif" alt="「シナプス」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=9" target="_blank" title="「鹿児島西ロータリークラブ」"><img src="/banner/client/rc_baner_j_144851.gif" alt="「鹿児島西ロータリークラブ」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=10" target="_blank" title="「生協コープかごしま」"><img src="/banner/client/t2a_144934.gif" alt="「生協コープかごしま」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=11" target="_blank" title="「フォーエバー」"><img src="/banner/client/f-bana20040_145010.jpg" alt="「フォーエバー」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=12" target="_blank" title="「JAグループかごしま」"><img src="/banner/client/banner-ja_145053.gif" alt="「JAグループかごしま」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+									<tr>
+										<td align="center"><a href="/event/kkb_banner_link.php?bno=63" target="_blank" title="「エムフルール」"><img src="/banner/client/mfleur_160916.jpg" alt="「エムフルール」" width="140" hspace="0" vspace="0" class="img-border"></a></td>
+									</tr>
+				          			<tr>
+				          			  <td align="center"><img src="/img/spacer.gif" width="1" height="5" alt=""></td>
+		   	          			    </tr>
+</table>
+<br>
+		            				<table border="2" bordercolor="#FFBB77">
+		              					<tr>
+		                					<td>
+											<script type="text/javascript"><!--
+											google_ad_client = "pub-1908136923260267";
+											/* イベント&amp;試写会 */
+											google_ad_slot = "7860162264";
+											google_ad_width = 150;
+											google_ad_height = 90;
+											//-->
+											</script>
+											<script type="text/javascript"
+											src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+											</script>
+											</td>
+										</tr>
+									</table>
+</div>
+<!--■■■■■【center】■■■■■-->
+<div id="event-center">
+<div id="move-list">
+<ul>
+</ul>
+</div>
+<h3><img src="/img/event_1.jpg" width="530" height="30" alt="イベント情報"></h3>
+<div id="event-list">
+<table>
+<th class="event-midashi-title">イベント</th>
+<th class="event-midashi-day">日&nbsp;&nbsp;&nbsp;程</th>
+<th class="event-midashi-place">場&nbsp;&nbsp;&nbsp;所</th>
+<tr>
+<td class="event-title"><a href='event_detail.php?seq_id=1393' class="iframe">黎明館企画特別展　「華麗なる薩摩焼−万国博覧会の時代のきらめき−」</a></td>
+<td class="event-day">2/24(日)まで</td>
+<td class="event-place">鹿児島県歴史資料センター黎明館　2階　第2・3特別展示室</td>
+</tr>
+<tr>
+<td class="event-title"><a href='event_detail.php?seq_id=1410' class="iframe">かごしまデザインフェア2019「デザイン百覧会」</a></td>
+<td class="event-day">2/24(日)まで</td>
+<td class="event-place">かごしま県民交流センター　大ホール・中ホール</td>
+</tr>
+<tr>
+<td class="event-title"><a href='event_detail.php?seq_id=1415' class="iframe">第31回鹿児島県子ども芸術祭典</a></td>
+<td class="event-day">6/8(土)まで</td>
+<td class="event-place">鹿児島県内各地域小学校体育館・公民館　ほか</td>
+</tr>
+<tr>
+<td class="event-title"><a href='event_detail.php?seq_id=1398' class="iframe">第36回吉井淳二記念展</a></td>
+<td class="event-day">3/10(日)まで</td>
+<td class="event-place">曽於市末吉総合体育館</td>
+</tr>
+</table>
+</div>
+<div id="btn-list">
+<p><a href="event2.php" target="_self"><img src="event/img/event_btn.gif">&nbsp;[今後のイベントを見る]</a></p>
+</div>
+
+<!-- オリコンエンタメ(Oricon Style) 開始 -->
+<a name="oricon_style" id="oricon_style"></a>
+<h3><img src="/oricon_style/img/oricon_entme.jpg" alt="オリコンエンタメ"></h3>
+<div id="oricon-entme">
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129981" class="iframe">
+        <font style="font-size:14pt;">
+            親友コンビのメイキング映像解禁
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2129981_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　女優・戸田恵梨香と歌手としても活動する大原櫻子がW主演する映画『あの日のオルガン』で大原と佐久間由衣が演じる“親友保母さんコンビ”のメイキング映像が「世界友情の日」で公開日のきょう22日に解禁した。
+
+
+
+　同作は、太平洋戦争末期、日本初の保育園を疎開させる・・・<br>
+            (2/22)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129981" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130048" class="iframe">
+        <font style="font-size:14pt;">
+            アンカー＆SUPERNOVAコラボの狙い
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2130048_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　時代とともに音楽の楽しみ方が変容するなか、昨年新たに立ち上がったアンカー・ジャパンのオーディオブランド「Soundcore」は、新しい音楽体験を届けることをモットーに、ユニバーサルミュージックとのコラボなど音楽業界との関係性を深めている。そんな同社の猿渡 歩・・・<br>
+            (2/22)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130048" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130050" class="iframe">
+        <font style="font-size:14pt;">
+            アムロの“帰還”をジオラマ再現
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2130050_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　昨年末、1958年12月に誕生した国産プラモデルの歴史が60周年を迎えた。“日本最初のプラモデル・ノーチラス号（マルサン商店）から始まったその歴史は、戦車や軍艦などのスケールモデルで人気を帯び、1980年代前半のガンプラブームによって沸点を迎えた。その歴史の・・・<br>
+            (2/22)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130050" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130044" class="iframe">
+        <font style="font-size:14pt;">
+            登坂広臣、劇場版コナンで主題歌
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2130044_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　人気グループ・三代目 J SOUL BROTHERSの登坂広臣が、劇場版最新作『名探偵コナン 紺青の拳（こんじょうのフィスト）』（4月12日公開）の主題歌を担当することが21日、わかった。ソロプロジェクト「HIROOMI　TOSAKA」名義としては初の試みと・・・<br>
+            (2/22)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130044" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129982" class="iframe">
+        <font style="font-size:14pt;">
+            6人のスパイダーマンが勢ぞろい
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2129982_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　全米の各メディアから「スパイダーマン映画史上最高傑作！」と空前の大絶賛を受け、『第91回アカデミー賞』長編アニメーション賞にもノミネートされている映画『スパイダーマン：スパイダーバース』（3月8日公開）。本作より、異次元から導かれたスパイダーマンたちが、メイ・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129982" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130059" class="iframe">
+        <font style="font-size:14pt;">
+            マシンガンズ滝沢の漫画、連載開始
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2130059_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　お笑い芸人・マシンガンズの滝沢秀一がネーム、妻が作画を担当した夫婦共作漫画『ゴミ清掃員の日常』が、22日から『コミックDAYS』『現代ビジネス』、28日から『Palcy』、3月8日から『マガポケ』で連載されることが発表された。講談社で多媒体同時連載は初の試み・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130059" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130047" class="iframe">
+        <font style="font-size:14pt;">
+            菅田将暉、二階堂ふみと制服対談
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2130047_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　俳優の菅田将暉が21日、都内で10周年のアニバーサリーブック『誰かと作った何かをきっかけに創ったモノを見ていた者が繕った何かはいつの日か愛するものが造った何かのようだった。』（ワニブックス）の発売記念取材会を開催した。
+
+
+
+　ワニブックスの俳優本史上最長と・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130047" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130020" class="iframe">
+        <font style="font-size:14pt;">
+            佐野勇斗、スニーカーと会話
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2130020_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　男性7人組ボーカルダンスグループ・M!LKの佐野勇斗が21日、スニーカーにゆかりのある人物に贈られる『スニーカーベストドレッサー賞 2019』授賞式に出席。俳優部門で受賞し喜びながら、スニーカーと母親との苦い思い出などを語った。
+
+
+
+　スニーカーの収集が趣・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130020" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129993" class="iframe">
+        <font style="font-size:14pt;">
+            永野芽郁、親子仲を明かす
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2129993_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　女優・永野芽郁（19）、長澤まさみ（31）、俳優の竹野内豊（48）が21日、都内で行われた『カルピス ブランド100周年』新CM発表会に出席。“大切にしていること“を聞かれた永野は「母との時間」と回答し、「いろんなことを最初に報告するのは、母ですね」とあらた・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129993" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129994" class="iframe">
+        <font style="font-size:14pt;">
+            スニーカー賞に川栄、佐野勇斗ら
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2129994_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　スニーカーにゆかりの深い人物に贈られる『スニーカーベストドレッサー賞 2019』授賞式が21日、都内で行われた。女優部門から元AKB48の川栄李奈、俳優部門から男性7人組ボーカルダンスグループ・M!LKの佐野勇斗、クリエイター部門からYouTuberのkem・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129994" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129991" class="iframe">
+        <font style="font-size:14pt;">
+            太鳳＆志尊、特製ケーキに驚き
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2129991_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　女優の土屋太鳳（24）、俳優の志尊淳（23）が21日、都内で行われたる映画『バンブルビー』（3月22日公開）の公開アフレコに参加した。
+
+
+
+　世界的大ヒットシリーズ『トランスフォーマー』初のスピンオフ作品となる同作。作品の舞台は、シリーズ1作目（2007年・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129991" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130009" class="iframe">
+        <font style="font-size:14pt;">
+            片寄涼太と『ViVi』で妄想デート
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2130009_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　GENERATIONS from EXILE TRIBEのボーカル片寄涼太（24） が、23日発売の『ViVi』4月号に久々に登場。同誌では、片寄から読者へのホワイトデー・プレゼントとして、片寄との“1日妄想デート”を展開する。
+
+
+
+　誌面では、天気のいい・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2130009" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129910" class="iframe">
+        <font style="font-size:14pt;">
+            がん闘病の堀ちえみ「パワーに」
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2129910_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　口腔がん（左舌扁平上皮がん）と診断され「ステージ4」と告知されたことを公表したタレントの堀ちえみ（52）が20日夜、自身のブログを更新。公表から一夜明け、続々と届く激励やエールに「皆様の温かいお言葉や、頑張れのエール、私の心の中に響いて、パワーになっています・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129910" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129788" class="iframe">
+        <font style="font-size:14pt;">
+            トミカの「武将コレクション」
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2129788_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　書店流通限定で販売されている「トミカ」があるのをご存知だろうか。“幕末の志士”をテーマに、歴史上の人物のイメージをトミカの車種とカラーリングで表現している。1年間にわたり6人の武将を『トミカ武将コレクション 2019 いざ！関ケ原へ！！』として販売する。“初・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129788" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+		  <font style='font-size:12pt;color:#800080;'><img src='/top/img/list-5.gif'></font>        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129936" class="iframe">
+        <font style="font-size:14pt;">
+            初仕事の女優が”登竜門CM“に抜擢
+        </font> 
+        </a><br>
+		  <img src="/oricon_style/oricon_image/2129936_mbl_1.jpg" height="70" align="left">
+            <font  style="font-size:12pt;">　新人女優の登竜門ともいえる“ポカリガール”に今年抜擢されたのは、2005年生まれの大村のえみ。初仕事に挑み、女優としての一歩を踏み出した彼女に、なにもかもが初めてだった撮影の裏側と家族や学生生活について聞いた。すると、13歳・中学1年生のフレッシュな素顔が垣・・・<br>
+            (2/21)
+        <a href="/oricon_style/oricon_style_detail.php?rep_id=2129936" class="iframe">
+            <font style='font-size:11pt;'>
+            [記事詳細]</a><br>
+            </font> 
+			<hr />
+	<div style="text-align:center;font-size:14pt;"><img src='/top/img/list-5.gif'><a href="/oricon_style/oricon_style.php?sno=15" target="_self">[さらに記事を見る]</a></div>
+</div>
+<!-- オリコンエンタメ(Oricon Style) 終了 -->
+<div id="top-link" title="このページのトップへ戻る"><a href="#" onClick="backToTop(); return false">このページの先頭へ</a></div>
+</div>
+<!--■■■■■【right】■■■■■-->
+<div id="event-right">
+<h3><img src="/img/kouen_link.gif" width="160" height="30"></h3>
+<p><a href="/company/privacy/doui-koen.htm" target="_blank"><img src="/img/kouen_shinsei.gif" width="150" height="100" alt="後援申請書"></a></p>
+<h3><img src="/img/event-link.jpg" width="160" height="30" alt="イベントリンク"></h3>
+<p><a href="/event/cm/" target="_blank"><img src="/banner/cm.jpg" width="150" height="115" alt="KKBふるさとCM大賞" class="img-border"></a> KKBふるさとCM大賞</p>
+<p><a href="/kouhitu/" target="_blank"><img src="/banner/kouhitsu1st.jpg" width="150" height="115" alt="KKB硬筆コンクール" class="img-border"></a> KKB硬筆コンクール</p>
+<p><a href="/koyaren/kouyaren.php" target="_self"><img src="/img/kouya.jpg" width="150" height="113" alt="KKB高校野球情報" class="img-border"></a> KKB高校野球情報</p>
+<p><a href="http://ibusuki-nanohana.sakura.ne.jp/" target="_blank"><img src="/img/nanohana.jpg" width="150" height="113" alt="菜の花マラソン" class="img-border"></a>菜の花マラソン<br>2019年1月13日(日)</p>
+<p style="font-size:14px;"><a href="https://www.nishitetsutravel.jp/ibusukihula/" target="_blank"><img src="/banner/hula.jpg" width="150" height="64" alt="いぶすきフラフェスティバル" class="img-border"></a>いぶすきフラフェスティバル</p>
+<!--p><a href="http://kkb.shufoo.net/contents/kkb/index.html?page=gadgetDownload" target="_blank"><img src="/banner/shufoo.jpg" width="150" alt="九州×Shufoo！鹿児島" class="img-border"></a>九州×Shufoo！鹿児島</p-->
+<p><a href="/event/2018/u15soccer/" target="_blank"><img src="/banner/2018/u-15_soccer.jpg" width="150" alt="鹿児島県ユースU-15サッカー選手権2018" class="img-border"></a>鹿児島県ユース<br>U-15サッカー選手権2018</p>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td><img src="/img/spacer.gif" width="1" height="5"></td>
+</tr>
+<tr><td>
+										<script type="text/javascript"><!--
+										google_ad_client = "pub-1908136923260267";
+										/* イベント&amp;試写会3 */
+										google_ad_slot = "4036445179";
+										google_ad_width = 728;
+										google_ad_height = 90;
+										//-->
+										</script>
+										<script type="text/javascript"
+										src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+										</script>
+</td></tr>
+<tr>
+<td width="901">
+
+<!-- フッダ開始 -->
+<!--【■■■■■■■■■■■【フッター始まり】■■■■■■■■■■■■■】-->
+<div id="footer-box">
+  <div class="footer-banabox">
+	<a href="/kkb_banner_link2.php?bno=1" target="_blank"><img src="/banner/top_bottom/topban_forever_190633.jpg" alt="「フォーエバービジネススクール」" vspace="0" class="footer-bana"></a>
+	<a href="/kkb_banner_link2.php?bno=2" target="_blank"><img src="/banner/top_bottom/baseball_dvd_151536.jpg" alt="「全国高校野球選手権鹿児島大会 ダイジェスト版DVD、写真集販売」" vspace="0" class="footer-bana"></a>
+	<a href="/kkb_banner_link2.php?bno=7" target="_blank"><img src="/banner/top_bottom/cm-banner_200x40_191309.jpg" alt="「第17回ふるさとCM大賞2018」" vspace="0" class="footer-bana"></a>
+	<a href="/kkb_banner_link2.php?bno=5" target="_blank"><img src="/banner/top_bottom/albite_154046.jpg" alt="「報道制作 学生アルバイト募集」" vspace="0" class="footer-bana"></a>
+    </div>
+<div class="footer-textlink">  
+<!--【リンク1】-->
+<div class="footer-link1">    
+<ul>
+<li title="English"><a href="/en/">English</a></li>
+<li title="採用情報"><a href="/company/company-4.php">採用情報</a></li>
+<li title="団体見学"><a href="/company/company-kengaku.php">団体見学</a></li>
+<li title="青少年に見てもらいたい番組"><a href="/company/seisyounen.php">青少年に見てもらいたい番組</a></li>
+<li title="会社案内"><a href="/company/company.php">会社案内</a></li>
+      </ul>
+    </div>
+    <!--【リンク2】-->
+<div class="footer-link2">    
+<ul>
+<li title="サイトマップ"><a href="/sitemap/map.php">サイトマップ</a></li>
+<li title="地上デジタル放送"><a href="/kei-chi.php">地上デジタル放送</a></li>
+<li title="モバイル"><a href="/mobil.php">モバイル</a></li>
+<!--li title="チーム-6%"><a href="http://www.team-6.jp/" target="_blank">チーム-6%</a></li-->
+
+<li title="お問合わせ"><a href='javascript:void(0);' onclick="window.open('/company/mail.htm','_blank','width=900,height=510,left=0,top=0,toolbar=no,location=no,directories=no,status=1,menubar=no,scrollbars=yes,resizable=yes');">お問合わせ</a></li>
+<li title="Twitter"><a href="http://twitter.com/kkb5news/" target="_blank">KKB公式Twitter</a></li>
+</ul>
+</div>
+<div class="footer-link3">
+<!--【リンク3】-->
+<ul>
+<li title="KKBのあゆみ"><a href="/company/company-ayumi.php">KKBのあゆみ</a></li>
+<li title="サービスエリア"><a href="/company/company-2.php">サービスエリア</a></li>
+<li title="番組基準"><a href="/company/company-kijyun.php">番組基準</a></li>
+<li title="番組審議会"><a href="/company/company-banshin.php">番組審議会</a></li>
+<li title="個人情報"><a href="/company/privacy/kojin.htm">個人情報</a></li>
+</ul>
+</div>
+</div>
+<table border="0" cellspacing="4" cellpadding="0">
+<tr>
+	<td><a href="/jisya/room/down.php" target="_blank"><img src="/top/img/pla.jpg" alt="プラッピーの部屋" width="120" /></a></td>
+	<td>KKBモバイル ---><br><br><span id="siteseal"><script async type="text/javascript" src="https://seal.starfieldtech.com/getSeal?sealID=O1GWfTeqRXpqRA2RTZwbkmbnQTKInXD8QaR78JtRbYmJxeVWSq4zVa0BYxgu"></script></span></td>
+	<td><img src="/top/img/bana-qr.png" alt="KKBモバイルサイトＱＲコード" width="74" height="74" /></td>
+</tr>
+</table>
+<address>
+&copy;<script type="text/javascript">
+document.write(new Date().getFullYear());
+</script>&nbsp;Kagoshima&nbsp;Broadcasting&nbsp;Corporation&nbsp;all&nbsp;rights&nbsp;reserved
+</address></div>
+<!--【■■■■■■■■■■■【フッターここまで】■■■■■■■■■■■■■】-->
+<!-- ヘッダ終了 -->
+
+</td>
+</tr>
+<!-- フッダ終了 -->
+</table>
+<img src="/async/pmcnt/pmcnt.cgi?id=event02" style="display:none;">
+<img src="/async/perldlrank/perldnload.cgi?dlfile=/event.php&dlname=ｲﾍﾞﾝﾄ|試写会|ｴﾝﾀﾒ&webpage=*" width="1" height="1" style="display:none;">
+</div>
+</body>
+</html>

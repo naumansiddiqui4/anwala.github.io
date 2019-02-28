@@ -1,0 +1,620 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=b9f848c06fcba7eaf305d4a7cb7a1b98"></script><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+
+    <!--
+        Designed by
+
+          _|_|_|      _|_|    _|_|_|_|    _|_|    _|  _|_|
+          _|    _|  _|_|_|_|    _|      _|_|_|_|  _|_|
+          _|    _|  _|          _|      _|        _|
+          _|_|_|      _|_|_|      _|_|    _|_|_|  _|
+          _|
+          _|
+
+                      _|        _|                      _|
+          _|      _|        _|_|_|    _|_|_|  _|_|_|
+          _|      _|  _|  _|    _|  _|    _|  _|    _|  _|
+            _|  _|    _|  _|    _|  _|    _|  _|    _|  _|
+              _|      _|    _|_|_|    _|_|_|  _|    _|  _|
+
+        "Linear"
+        Found at Tumblr's theme garden.
+        https://www.tumblr.com/theme/5136
+    -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>You'll have to remind me tomorrow (Mini-essay: How the narrative of KH3 was damaged...)</title>
+    <meta name="description" content="" />
+    <meta name="author" content="Peter Vidani">
+    <meta name="viewport" content="width=700" />
+
+    <meta name="color:Accent" content="#7cc0b0">
+    <meta name="text:Disqus Shortname" content="" />
+    <meta name="if:Show RSS Link" content="1" />
+    <meta name="if:Show Archive Link" content="1" />
+    <meta name="if:Show Likes Link" content="1" />
+    <meta name="if:Show Notes" content="1" />
+    <meta name="if:Streampad" content="0">
+    <meta name="if:Endless scrolling" content="0">
+
+    <style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=3fc451676906e0ce74d518ae00bb3233"><link rel="shortcut icon" href="https://66.media.tumblr.com/avatar_24d5d2e78b3d_128.pnj" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="https://anikoku.tumblr.com/rss" />
+
+    <link rel="stylesheet" href="https://static.tumblr.com/thpaaos/DIcklyl4z/reset.css" type="text/css">
+    <link rel="stylesheet" href="https://static.tumblr.com/thpaaos/3zykurl3i/jquery.fancybox-1.2.6.css" type="text/css">
+
+    <style type="text/css">
+    body {
+        color: #202020;
+        line-height: 21px;
+        background: white;
+        -webkit-text-stroke: 1px transparent;
+    }
+
+
+    @media only screen and (max-device-width: 480px) {
+        body {
+            -webkit-text-stroke: 0 black;
+        }
+    }
+
+    *:active, *:focus { outline-width: 0px; }
+    .content p, .content h1, .content h2, .content h3, .content h4, .content blockquote, .content ul, .content ol, ol.notes li, ol.notes blockquote, .content li, .content img, .content table { margin: 0 0 12px 0; }
+    a { text-decoration: none; }
+    a img { border-width: 0px; }
+
+    em { font-style: italic; }
+    strong { font-weight: bold; }
+
+    iframe#tumblr_controls { top: 8px !important; }
+
+    a.install {
+        width: 96px;
+        height: 20px;
+        background: url(https://static.tumblr.com/thpaaos/dHHkt0jor/install_theme.png);
+        display: block;
+        position: absolute;
+        top: 34px;
+        right: 3px;
+    }
+
+    .border {
+        height: 8px;
+        background: #444;
+    }
+
+    .container {
+        width: 685px;
+        padding: 0 0 30px 0;
+    }
+
+        .column.left {
+            width: 160px;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-size: 12px;
+            text-align: right;
+            float: left;
+        }
+
+            .column.left a {
+                color: #a8a8a8;
+            }
+                .column.left a:hover {
+                    color: #8ab5ab;
+                }
+
+            .column.left a.home {
+                color: #fff;
+                font-size: 13px;
+                font-weight: bold;
+                text-transform: uppercase;
+                background: #8ab5ab;
+                margin: 91px 0 0 0;
+                padding: 2px 10px;
+                display: block;
+            }
+                .column.left a.home:hover {
+                    color: #fff;
+                }
+
+            li.post .column.left span {
+                color: #8ab5ab;
+                font-weight: bold;
+            }
+
+        li.post {
+            overflow: hidden;
+            list-style-type: none;
+        }
+
+        .column.right {
+            width: 500px;
+            font-family: Lucida, Georgia, "Times New Roman", Times, serif;
+            font-size: 14px;
+            float: right;
+        }
+
+            .column.right .static {
+                min-height: 22px;
+                border-bottom: 1px solid #e1e1e1;
+                margin: 30px 0 20px 0;
+                padding: 0 0 20px 0;
+            }
+
+                .column.right .static a {
+                    color: #a8a8a8;
+                    font-size: 11px;
+                    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                }
+                
+                    
+
+            .column.right .description {
+                border-bottom: 3px double #e1e1e1;
+                border-style: double;
+                margin: 0 0 30px 0;
+                padding: 0 0 20px 0;
+            }
+
+                
+
+                .column.right .description .twitter {
+                    border-top: 1px dotted #e8e8e8;
+                    margin: 20px 0 0 0;
+                    padding: 20px 0 12px 0;
+                }
+
+                    .column.right .description .twitter .username {
+                        margin: 0 7px 0 0;
+                        float: left;
+                    }
+
+                    .column.right .description .twitter ul#twitter {
+                        margin: 0;
+                        padding: 0;
+                        float: left;
+                    }
+                    
+                    .column.right .description .twitter li {
+                        list-style-type: none;
+                    }
+
+            li.post .column.right .content {
+                padding: 0 0 18px 0;
+            }
+
+            .container ul.allposts .postwrapper .divider {
+                width: 500px;
+                border-bottom: 1px solid #e8e8e8;
+                margin: 0 0 30px 185px;
+                clear: both;
+            }
+
+            
+                .container ul.allposts .postwrapper:last-child .divider {
+                    border-bottom: 3px double #e8e8e8;
+                    margin: 0 0 20px 185px !important;
+                }
+            
+
+            li.post .column.right .content .clear {
+                clear: both;
+            }
+
+            .column.right a {
+                color: #8ab5ab;
+            }
+                .column.right a:hover {
+                    text-decoration: underline;
+                }
+
+            .column.right h2 {
+                font-size: 18px;
+                letter-spacing: 1px;
+                line-height: 24px;
+            }
+
+                .column.right h2 a.title {
+                    color: #202020;
+                }
+
+                .column.right h2 a span,
+                a.home span {
+                    font-family: "Lucida Grande";
+                }
+
+            .column.right img {
+                max-width: 100%;
+            }
+
+            .column.right blockquote {
+                font-size: 13px;
+                border-left: 1px dotted #e1e1e1;
+                padding: 0 0 0 20px;
+            }
+
+            .column.right pre {
+                font: normal normal normal 11px/normal Courier;
+                background: #e6e6e6;
+                padding: 10px;
+                margin: 0 0 12px 0;
+            }
+
+                .column.right small {
+                    color: #a8a8a8;
+                    font-size: 11px;
+                    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+                }
+
+                    .column.right small a {
+                        color: #a8a8a8;
+                    }
+
+                        .column.right small a:hover {
+                            color: #757575;
+                            text-decoration: none;
+                        }
+
+                    .column.right small.high_res {
+                        text-align: right;
+                        margin: 0 0 12px 0;
+                        display: block;
+                    }
+
+                    .column.right small a .download {
+                        width: 11px;
+                        height: 9px;
+                        background: url(https://static.tumblr.com/thpaaos/jSTkv2d7l/icon_high_resolution.png) no-repeat;
+                        margin: 0 0 0 3px;
+                        display: inline-block;
+                    }
+
+            table.chat {
+                width: 100%;
+                margin: 0 0 3px 0;
+                border-collapse: collapse;
+            }
+
+            h2 + table.chat {
+                margin: 0 0 14px 0 !important;
+            }
+
+            table.chat tr td {
+                padding: 3px 10px;
+            }
+
+            table.chat tr td.name {
+                font-weight: bold;
+                text-align: right;
+                vertical-align: top;
+            }
+
+            table.chat tr td.line1 {
+                background: #F2F2F2;
+            }
+                 
+             .album_case {
+                 width: 205px;
+                 height: 193px;
+                 background: url(https://static.tumblr.com/thpaaos/zXnkx16pe/album_case.png);
+                 margin: 0 45px 30px 0;
+                 position: relative;
+                 z-index: 10;
+                 float: left;
+             }
+
+                 img.album_art {
+                     max-width: 188px !important;
+                     margin: 3px 0 0 -250px;
+                     position: relative;
+                     left: 15px;
+                     z-index: 9;
+                     float: left;
+                 }
+ 
+             .audio .audio_player {
+                 width: 207px;
+                 opacity: 80%;
+                    -webkit-opacity: 0.8;
+                    -moz-opacity: 0.8;
+                    display: inline-block;
+             }
+
+             .audio small {
+                 display: block;
+             }
+
+            ol.notes {
+                border-bottom: 1px dotted #e8e8e8;
+                margin: 0 0 30px 0;
+                padding: 0 0 30px 0;
+            }
+
+                ol.notes img {
+                    display: none;
+                }
+                
+                ol.notes li {
+                  list-style-type: none;
+                }
+
+
+        .navigation {
+            border-bottom: 1px dotted #e8e8e8;
+            margin: 0 0 30px 0;
+            padding: 0 0 20px 0;
+            overflow: hidden;
+        }
+
+        .navigation .count {
+            float: left;
+        }
+
+        .navigation .links {
+            width: 200px;
+            float: right;
+        }
+
+            .navigation.permalink .links {
+                width: 100%;
+                overflow: hidden;
+            }
+
+                .navigation .links a.right {
+                    float: right;
+                }
+
+                .navigation .links a.left {
+                    float: left;
+                }
+
+        .loading_posts {
+            width: 24px;
+            height: 24px;
+            background: url(https://static.tumblr.com/thpaaos/395kv2j3s/ajax-loader.gif);
+            position: fixed;
+            bottom: 30px;
+            left: 725px;
+        }
+
+        #disqus_thread {
+            border-bottom: 1px solid #e8e8e8;
+            margin: 0 0 30px 0;
+            padding: 0 0 30px 0;
+        }
+
+        #streampadAudioCaption,
+        #streampadPlayerClickToPlay {
+          font-size: 11px !important;
+          font-weight: normal !important;
+        }
+
+        #streampadProfileButton,
+        #streamPadFullScreenButton,
+        #streampadPlayerBorderNum1,
+        #streampadPlayerBorderNum2,
+        #streampadPlayerBorderNum3 { display: none !important; }
+
+    
+    </style>
+
+    
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=anikoku%26postID=182679259344" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=anikoku&postID=182679259344" /><link rel="alternate" type="application/json+oembed" href="https://www.tumblr.com/oembed/1.0?url=https://anikoku.tumblr.com/post/182679259344/mini-essay-how-the-narrative-of-kh3-was-damaged" title="Mini-essay: How the narrative of KH3 was damaged by the compulsory heterosexuality and gender norms of Japanese society
+Major spoilers of Kingdom Hearts 3 are below. Please don&rsquo;t look unless you&rsquo;ve finished the game!
+One more disclaimer: this is..."/><link rel="amphtml" href=https://anikoku.tumblr.com/post/182679259344/mini-essay-how-the-narrative-of-kh3-was-damaged/amp /><script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/gibson/stylesheet.css?v=3"><meta name="keywords" content="kh3,kingdom hearts 3,kingdom hearts spoilers,critique" /><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:site_name" content="You&#039;ll have to remind me tomorrow" /><meta property="og:title" content="Mini-essay: How the narrative of KH3 was damaged by the compulsory heterosexuality and gender norms of Japanese society" /><meta property="og:description" content="Major spoilers of Kingdom Hearts 3 are below. Please don&rsquo;t look unless you&rsquo;ve finished the game! One more disclaimer: this is coming from a Japanese perspective, and it&rsquo;s not meant as a xenophobic..." /><meta property="og:url" content="https://anikoku.tumblr.com/post/182679259344/mini-essay-how-the-narrative-of-kh3-was-damaged" /><meta property="og:type" content="article" /><meta property="og:determiner" content="a" /><meta property="og:image" content="https://66.media.tumblr.com/avatar_24d5d2e78b3d_512.pnj" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=anikoku&amp;postID=182679259344" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=anikoku&amp;postID=182679259344" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"SocialMediaPosting","url":"https:\/\/anikoku.tumblr.com\/post\/182679259344\/mini-essay-how-the-narrative-of-kh3-was-damaged","mainEntityOfPage":true,"datePublished":"2019-02-09T11:24:52-05:00","author":"anikoku","headline":"Mini-essay: How the narrative of KH3 was damaged by the compulsory heterosexuality and gender norms of Japanese society","articleBody":"Major spoilers of Kingdom Hearts 3 are below. Please don\u2019t look unless you\u2019ve finished the game!\nOne more disclaimer: this is coming from a Japanese perspective, and it\u2019s not meant as a xenophobic attack on the culture I was raised in.\n[[MORE]] Light-and-darkness logic, time travel, and bosses who...","@context":"http:\/\/schema.org"}</script><link rel="canonical" href="https://anikoku.tumblr.com/post/182679259344/mini-essay-how-the-narrative-of-kh3-was-damaged" /></head>
+<body>
+    <div class="border"></div>
+
+    <a href="https://www.tumblr.com/theme/5136" class="install"></a>
+
+    <div class="container">
+        <div class="column right">
+            <div class="static">
+                
+                <a href="/ask">ASK</a>&nbsp;&nbsp;&nbsp;
+                
+                <a href="https://anikoku.tumblr.com/rss">RSS</a>&nbsp;&nbsp;&nbsp;
+                <a href="/archive">Archive</a>&nbsp;&nbsp;&nbsp;
+                
+            </div>
+        </div>
+
+        <div class="header">
+            <div class="column left">
+                <a href="/" class="home">You'll have to remind me tomorrow <span>&rarr;</span></a>
+            </div>
+
+            <div class="column right">
+                <div class="description">
+                    
+
+                    
+                </div>
+            </div>
+            <div style="clear:both"></div>
+        </div>
+
+        <ul class="allposts">
+        
+            <div class="postwrapper">
+                <li class="post">
+                    <div class="column left">
+                        <a href="https://anikoku.tumblr.com/post/182679259344/mini-essay-how-the-narrative-of-kh3-was-damaged">2 weeks ago  (2,698 notes)</a><br />
+                        
+                        
+                        
+                        
+
+                        
+                        <div class="tags" style="margin: 0 0 30px 0">
+                        
+                            <a href="https://anikoku.tumblr.com/tagged/kh3"><span>#</span>kh3</a><br />
+                        
+                            <a href="https://anikoku.tumblr.com/tagged/kingdom-hearts-3"><span>#</span>kingdom hearts 3</a><br />
+                        
+                            <a href="https://anikoku.tumblr.com/tagged/kingdom-hearts-spoilers"><span>#</span>kingdom hearts spoilers</a><br />
+                        
+                            <a href="https://anikoku.tumblr.com/tagged/critique"><span>#</span>critique</a><br />
+                        
+                        </div>
+                        
+                    </div>
+
+                    <div class="column right">
+                        <div class="content">
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+
+                            
+                            <h2><a href="https://anikoku.tumblr.com/post/182679259344/mini-essay-how-the-narrative-of-kh3-was-damaged" class="title">Mini-essay: How the narrative of KH3 was damaged by the compulsory heterosexuality and gender norms of Japanese society</a></h2>
+                            <p><p>Major spoilers of Kingdom Hearts 3 are below. Please don&rsquo;t look unless you&rsquo;ve finished the game!</p><p>One more disclaimer: this is coming from a Japanese perspective, and it&rsquo;s not meant as a xenophobic attack on the culture I was raised in.<br /></p><p>&nbsp;&nbsp; Light-and-darkness logic, time travel, and bosses who are giant ships, I&rsquo;ll ignore. That&rsquo;s just part of the Kingdom Hearts package, and despite the headache they might give me, I&rsquo;ve come to accept these wild ideas and take pride in my ability to handle them. But when we stray from the fantasy, it becomes difficult confronting the cultural context that the Kingdom Hearts series is birthed from, and how these ideas have affected key plot points and the characterization of our beloved heroes. <br /> &nbsp; Despite its stunning popularity overseas, the Kingdom Hearts series is still conceived in Japan (by middle-aged Japanese men, no less) for Japanese audiences. I&rsquo;ve always felt that Square Enix as a company remains disconnected from the input of its non-Japanese audience. Whatever catering is done towards overseas players is limited to game mechanics, not plot. I expect there&rsquo;s something of a &#12424;&#12381;&#12399;&#12424;&#12381;&#12289;&#12358;&#12385;&#12399;&#12358;&#12385; (&ldquo;That&rsquo;s fine for them but not for us&rdquo;) mentality when it comes to structuring the story in a way that may appeal to overseas (specifically Western) fans. The writers do not know how to do this, and they do not wish to. I don&rsquo;t believe that any culture should have to adjust its creative output to make it more palatable to the outside world, but considering the sheer size of the Kingdom Hearts fanbase, such a blatant refusal to consider modern storytelling trends in the gaming world will&mdash;and has&mdash;damaged its enduring legacy. Let&rsquo;s not forget the fact that Japanese society itself is not suspended in time; its younger generation has different ideas about gender, sexuality, and romance. <br /> &nbsp; I&rsquo;d like to discuss three examples in KH3 where the writers leaned heavily on traditional gender norms and heterosexual romance to the detriment of the plot and the integrity of previous characterization. First, there&rsquo;s the matter of Subject X, the amnesiac girl who became the reason why Ansem the Wise shut down his experiments. We learn late in the game that she was Lea and Isa&rsquo;s missing friend, and the reason why they chose to infiltrate the castle and join Organization XIII. Before this piece of knowledge was revealed, Lea and Isa remained the only (human) pair whose friendship existed outside of the boy-girl-boy dynamic that Nomura is so fond of. Like Axel and Roxas prior to Xion&rsquo;s introduction in 358/2 Days, Subject X was retconned into their friendship, altering their dynamics and diluting the significance of the homosocial relationship. Putting aside shipping perspectives, it is important to be able to portray two men (nevermind the prospect of two women, that&rsquo;s too much to hope for in this franchise) sharing a strong emotional bond. Falling back on the trio concept not only feels like lazy and tired writing, but seems to speak to a fear that without a female presence, the love and connection between two male characters is simply too homoerotic.<br /> &nbsp; In an interview, Nomura remarked he was surprised by Aqua&rsquo;s popularity since she did not resemble previous Kingdom Heartes heroines. He and other writers (Masaru Oka and perhaps others) have a clear idea of what femininity means and what role female characters should play, and that was never clearer than the portrayal of Kairi and Aqua in the final half of the game. After being chosen as a Guardian of Light and spending the entirety of the story training with Merlin, after promising Sora that she would be the one to protect him, Kairi&rsquo;s helplessness in the final battle was appalling to witness. She is depicted as weaponless when Terra-Xehanort charges at her. Sora and the others throw themselves in front of her to protect her, and this leads directly to Donald&rsquo;s self-sacrifice. Later, she is easily kidnapped by Xemnas and killed by Master Xehanort to fuel Sora&rsquo;s anger. This act of textbook &lsquo;fridging&rsquo; absolutely disregards Kairi&rsquo;s agency and her wish to fight alongside her friends. She represents the worst depiction of the traditional female role in storytelling: she is an object of desire to be rescued, damaged, and won over. In other words, it&rsquo;s bullshit. Likewise, although she is one of the three Keyblade Masters present in the story, Aqua is constrained to a passive role. She is first rescued by Sora, then by Ventus, then assisted by Sora once more against two opponents (Terra-Xehanort and Vanitas) she had previously beaten. When confronted by the Demon Tide in the Keyblade Graveyard, Aqua whispers &ldquo;no&rdquo; and lets her Keyblade slip out of her hands, defeated. This is not the same Aqua who survived over a decade in the realm of darkness, defined by her bravery and strength of will. In an era with an increasing number of female-led titles and queer, non-traditional characterization, the female characters of Kingdom Hearts are still relegated to the role of nurturer and caretaker. In a game released in 2019, that hurts.<br /> &nbsp; Finally, I&rsquo;d like to argue that the narrative focus on Sora and Kairi&rsquo;s romance came at the expense of the friendship between Sora, Riku, and Kairi, something I believed so thematically important to the franchise. The other trios (Axel, Roxas, Xion and Terra, Aqua, Ventus) are depicted as being equally close and connected, yet KH3 does nothing to showcase Riku and Kairi&rsquo;s bond. Riku is about as affected as Mickey when Kairi is threatened. The two of them never have a private conversation, not even the day before their final confrontation with Master Xehanort. Riku doesn&rsquo;t volunteer to help Sora search for Kairi at the end of the game, despite him being aware of what damage it could cause Sora. And that is the other piece of the puzzle: Sora and Riku&rsquo;s relationship has also been severely downplayed. During the events of KH3D, Riku becomes a Dream Eater out of his strong desire to protect Sora. His character arc has always been about &ldquo;protecting the people who matter most&rdquo;. Why, then, is he willing to let Sora abuse the Power of Wakening on his own? Why doesn&rsquo;t he get to have a conversation with Sora before the final battle? Why is he shown racing against Terra and Roxas in the epilogue, while Kairi sits by herself and mourns? The lack of bond isn&rsquo;t just present on Riku&rsquo;s side. When Kairi and the others are swallowed by the Demon Tide, Sora falls to his knees and laments that he has no power now that he&rsquo;s alone. His grief would have been more convincing, had Riku not been right there by his side. With such a strong bond remaining, there&rsquo;s no reason Sora should have given up there; it was a deliberate narrative decision to highlight Sora and Kairi&rsquo;s relationship while downplaying Sora and Riku&rsquo;s. It seems that Riku was forced to take a step back to make room for the game&rsquo;s heterosexual romance, and I believe the integrity of Sora, Riku, and Kairi as characters suffered because of this.<br /> &nbsp; Many of the reunions in the final portion of the game were an emotional catharsis for me, and I did enjoy aspects of the story. That being said, the storytelling in KH3 makes me fear that Square Enix is either unwilling or unable to adapt to the gaming frontier now led by the West. For now, I&rsquo;ll submit to the fact that the most satisfying conclusion to the series I&rsquo;ve followed so long lies in the hands of the fans who are willing to do it justice. </p>
+                                
+                            </p>
+                            
+
+                            
+
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="divider" style="margin: 0 0 20px 0 !important"></div>
+
+                        
+                        <div class="navigation permalink">
+                            <div class="links">
+                                <a href="https://anikoku.tumblr.com/post/182554858154" class="right">Next post</a>
+                                <a href="https://anikoku.tumblr.com/post/182682003884" class="left">Previous</a>
+                            </div>
+                        </div>
+                        
+
+                        
+
+                        
+<ol class="notes"><!-- START NOTES --><li class="note like tumblelog_gnectics without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://gnectics.tumblr.com/" title="✿ &fnof;ℓ&sigma;&omega;єяѕ &amp; м&sigma;&eta;ѕтєяѕ ✿ " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_71f730809487_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://gnectics.tumblr.com/" title="✿ &fnof;ℓ&sigma;&omega;єяѕ &amp; м&sigma;&eta;ѕтєяѕ ✿" rel="nofollow">gnectics</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_xmaraschinokissesx without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://xmaraschinokissesx.tumblr.com/" title="&amp; Frostbitten Wishes " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_2c7828d01b8b_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://xmaraschinokissesx.tumblr.com/" title="&amp; Frostbitten Wishes" rel="nofollow">xmaraschinokissesx</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_hxh-hiatus without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://hxh-hiatus.tumblr.com/" title="naked boobie"><img src="https://66.media.tumblr.com/avatar_60e9be699dc7_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="http://hxh-hiatus.tumblr.com/post/183014438059"><a rel="nofollow" href="http://hxh-hiatus.tumblr.com/" class="tumblelog" title="naked boobie">hxh-hiatus</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_frost-va without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://frost-va.tumblr.com/" title="Frost VA " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_8100e38650d9_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://frost-va.tumblr.com/" title="Frost VA" rel="nofollow">frost-va</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_msmoderndaymuse without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://msmoderndaymuse.tumblr.com/" title=" " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_9c353cd5b1b8_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://msmoderndaymuse.tumblr.com/" title="" rel="nofollow">msmoderndaymuse</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_greywatch without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://greywatch.tumblr.com/" title="carefree whirlwind of bullshit"><img src="https://66.media.tumblr.com/avatar_23c20bdccc47_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://greywatch.tumblr.com/post/183010564934"><a rel="nofollow" href="https://greywatch.tumblr.com/" class="tumblelog" title="carefree whirlwind of bullshit">greywatch</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_princess-kun without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://princess-kun.tumblr.com/" title=".:*:・&#039;゜☆。.:*:・&#039;゜★。 " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_8ffe19a3a9cf_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://princess-kun.tumblr.com/" title=".:*:・&#039;゜☆。.:*:・&#039;゜★。" rel="nofollow">princess-kun</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_stelladeneb without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://stelladeneb.tumblr.com/" title="This is not the blog you&#039;re looking for " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_8fd5ff78027b_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://stelladeneb.tumblr.com/" title="This is not the blog you&#039;re looking for" rel="nofollow">stelladeneb</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_iamsailornerd without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://iamsailornerd.tumblr.com/" title="Fangirling happens everyday in my life " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_7dea4c035a6a_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://iamsailornerd.tumblr.com/" title="Fangirling happens everyday in my life" rel="nofollow">iamsailornerd</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_massivedestruction without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://massivedestruction.tumblr.com/" title="I&#039;m Always A Slut For ANGST " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_09ba3648b48e_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://massivedestruction.tumblr.com/" title="I&#039;m Always A Slut For ANGST" rel="nofollow">massivedestruction</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_appl3sauce without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://appl3sauce.tumblr.com/" title="Something Akin to Living " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_b834edf6e637_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://appl3sauce.tumblr.com/" title="Something Akin to Living" rel="nofollow">appl3sauce</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_vanoe without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://vanoe.tumblr.com/" title="IT&#039;S YOUR POWER " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_e75ce59dcd3b_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://vanoe.tumblr.com/" title="IT&#039;S YOUR POWER" rel="nofollow">vanoe</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_taya-fox without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://taya-fox.tumblr.com/" title="Miss Sassy Fox " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_3f32c22d61e9_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://taya-fox.tumblr.com/" title="Miss Sassy Fox" rel="nofollow">taya-fox</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_usareis without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://usareis.tumblr.com/" title="Memories of you " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_2f81ce9c4d37_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://usareis.tumblr.com/" title="Memories of you" rel="nofollow">usareis</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_mennta without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://mennta.tumblr.com/" title="whalien 52"><img src="https://66.media.tumblr.com/avatar_1a337594f3c7_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="http://mennta.tumblr.com/post/183004457160"><a rel="nofollow" href="http://mennta.tumblr.com/" class="tumblelog" title="whalien 52">mennta</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_wingedpie21 without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://wingedpie21.tumblr.com/" title="Yare Yare Daze " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_53618a42dc81_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://wingedpie21.tumblr.com/" title="Yare Yare Daze" rel="nofollow">wingedpie21</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_shikiryougi without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://shikiryougi.tumblr.com/" title="dear you"><img src="https://66.media.tumblr.com/avatar_821952b91872_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://shikiryougi.tumblr.com/post/183002280202"><a rel="nofollow" href="https://shikiryougi.tumblr.com/" class="tumblelog" title="dear you">shikiryougi</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_peachoise without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://peachoise.tumblr.com/" title="hot damn " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_78379c9d57d7_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://peachoise.tumblr.com/" title="hot damn" rel="nofollow">peachoise</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_skairheart without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://skairheart.tumblr.com/" title="kravitz didn&#039;t die for this"><img src="https://66.media.tumblr.com/avatar_7a0a45baa643_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="http://skairheart.tumblr.com/post/183001692203"><a rel="nofollow" href="http://skairheart.tumblr.com/" class="tumblelog" title="kravitz didn&#039;t die for this">skairheart</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_caniplsgetaurl without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://caniplsgetaurl.tumblr.com/" title="Only Eros " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_7cbb85bc9856_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://caniplsgetaurl.tumblr.com/" title="Only Eros" rel="nofollow">caniplsgetaurl</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_moxis without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://moxis.tumblr.com/" title=" " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_34ccff54fc96_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://moxis.tumblr.com/" title="" rel="nofollow">moxis</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_cielleonette without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://cielleonette.tumblr.com/" title="shuuuchannn " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_be7071ccd33a_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://cielleonette.tumblr.com/" title="shuuuchannn" rel="nofollow">cielleonette</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_xenologues without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://xenologues.tumblr.com/" title="begin again " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_c1ba0499c167_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://xenologues.tumblr.com/" title="begin again" rel="nofollow">xenologues</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_mortior without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://mortior.tumblr.com/" title="Alpha Strider Appreciation " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_8332c1c1b814_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://mortior.tumblr.com/" title="Alpha Strider Appreciation" rel="nofollow">mortior</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_thebestbutler without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://thebestbutler.tumblr.com/" title="BEST BUTLER"><img src="https://66.media.tumblr.com/avatar_1cacc745e520_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="http://thebestbutler.tumblr.com/post/182998414187"><a rel="nofollow" href="http://thebestbutler.tumblr.com/" class="tumblelog" title="BEST BUTLER">thebestbutler</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_suncapricorn without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://suncapricorn.tumblr.com/" title=" " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_374eaf99c741_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://suncapricorn.tumblr.com/" title="" rel="nofollow">suncapricorn</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_ke-cii-chan without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://ke-cii-chan.tumblr.com/" title="Yell Heah Binch"><img src="https://66.media.tumblr.com/avatar_c9b5f6273cdd_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="http://ke-cii-chan.tumblr.com/post/182998144163"><a rel="nofollow" href="http://ke-cii-chan.tumblr.com/" class="tumblelog" title="Yell Heah Binch">ke-cii-chan</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_shineepenguins without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://shineepenguins.tumblr.com/" title="Welcome to Insanity " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_6afd6c965420_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://shineepenguins.tumblr.com/" title="Welcome to Insanity" rel="nofollow">shineepenguins</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_clumsyhatter without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://clumsyhatter.tumblr.com/" title="We&#039;re all mad here!"><img src="https://66.media.tumblr.com/avatar_ca27e5f7f54f_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="http://clumsyhatter.tumblr.com/post/182997943998"><a rel="nofollow" href="http://clumsyhatter.tumblr.com/" class="tumblelog" title="We&#039;re all mad here!">clumsyhatter</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_clumsyhatter without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://clumsyhatter.tumblr.com/" title="We&#039;re all mad here! " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_ca27e5f7f54f_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://clumsyhatter.tumblr.com/" title="We&#039;re all mad here!" rel="nofollow">clumsyhatter</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_arts-n-brain-farts without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://arts-n-brain-farts.tumblr.com/" title=""><img src="https://66.media.tumblr.com/avatar_b315f349c219_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="http://arts-n-brain-farts.tumblr.com/post/182997304105"><a rel="nofollow" href="http://arts-n-brain-farts.tumblr.com/" class="tumblelog" title="">arts-n-brain-farts</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_arts-n-brain-farts without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://arts-n-brain-farts.tumblr.com/" title=" " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_b315f349c219_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://arts-n-brain-farts.tumblr.com/" title="" rel="nofollow">arts-n-brain-farts</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_staravya without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://staravya.tumblr.com/" title="2019 will be good to us and that is a threat"><img src="https://66.media.tumblr.com/avatar_9ff3b01b0e0d_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://staravya.tumblr.com/post/182997227283"><a rel="nofollow" href="https://staravya.tumblr.com/" class="tumblelog" title="2019 will be good to us and that is a threat">staravya</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_redpandahero without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://redpandahero.tumblr.com/" title="Happy Place " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_1a1957c4e96b_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://redpandahero.tumblr.com/" title="Happy Place" rel="nofollow">redpandahero</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_stationary-void without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://stationary-void.tumblr.com/" title="in hell " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_8ff86de715dc_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://stationary-void.tumblr.com/" title="in hell" rel="nofollow">stationary-void</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_minxiboo without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://minxiboo.tumblr.com/" title="Minxiboo " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_9a76569794a5_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://minxiboo.tumblr.com/" title="Minxiboo" rel="nofollow">minxiboo</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_dragondicktittysprinkles without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://dragondicktittysprinkles.tumblr.com/" title="I have a queue that runs 24/7"><img src="https://66.media.tumblr.com/avatar_798dfb2f0de5_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="http://dragondicktittysprinkles.tumblr.com/post/182995410941"><a rel="nofollow" href="http://dragondicktittysprinkles.tumblr.com/" class="tumblelog" title="I have a queue that runs 24/7">dragondicktittysprinkles</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_zinzinarty without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://zinzinarty.tumblr.com/" title="Zino&#039;s Art Blog " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_56958cc92d78_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://zinzinarty.tumblr.com/" title="Zino&#039;s Art Blog" rel="nofollow">zinzinarty</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_synchronize03 without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://synchronize03.tumblr.com/" title="Nerdy Little Things"><img src="https://66.media.tumblr.com/avatar_24ec4fff5b65_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://synchronize03.tumblr.com/post/182992742052"><a rel="nofollow" href="https://synchronize03.tumblr.com/" class="tumblelog" title="Nerdy Little Things">synchronize03</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_synchronize03 without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://synchronize03.tumblr.com/" title="Nerdy Little Things " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_24ec4fff5b65_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://synchronize03.tumblr.com/" title="Nerdy Little Things" rel="nofollow">synchronize03</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_quincymaru without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://quincymaru.tumblr.com/" title="trash yay " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_d4dd32fee42b_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://quincymaru.tumblr.com/" title="trash yay" rel="nofollow">quincymaru</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_towergirl3 without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://towergirl3.tumblr.com/" title="Can&#039;t stop shipping " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_90486f601309_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://towergirl3.tumblr.com/" title="Can&#039;t stop shipping" rel="nofollow">towergirl3</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_chameleongiant without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://chameleongiant.tumblr.com/" title="Chameleongiant " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_be082bc85c95_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://chameleongiant.tumblr.com/" title="Chameleongiant" rel="nofollow">chameleongiant</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_princessgarnetxvii without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://princessgarnetxvii.tumblr.com/" title="Flaming Moe " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_6d2c51045d9f_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="https://princessgarnetxvii.tumblr.com/" title="Flaming Moe" rel="nofollow">princessgarnetxvii</a> liked this                                    </span><div class="clear"></div></li><li class="note like tumblelog_hey-im-amber without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://hey-im-amber.tumblr.com/" title="usually happy and mostly hungry " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_2086c62e69a8_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://hey-im-amber.tumblr.com/" title="usually happy and mostly hungry" rel="nofollow">hey-im-amber</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_enocca without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://enocca.tumblr.com/" title="☆Please send help.☆"><img src="https://66.media.tumblr.com/avatar_38bd02b6bd8a_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="http://enocca.tumblr.com/post/182988424610"><a rel="nofollow" href="http://enocca.tumblr.com/" class="tumblelog" title="☆Please send help.☆">enocca</a> reblogged this from <a rel="nofollow" href="https://anikoku.tumblr.com/" class="source_tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a>                                                                                                                                                                                    </span><div class="clear"></div></li><li class="note like tumblelog_enocca without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="http://enocca.tumblr.com/" title="☆Please send help.☆ " rel="nofollow"><img src="https://66.media.tumblr.com/avatar_38bd02b6bd8a_16.pnj" class="avatar " alt="" /></a><span class="action"><a rel="nofollow" href="http://enocca.tumblr.com/" title="☆Please send help.☆" rel="nofollow">enocca</a> liked this                                    </span><div class="clear"></div></li><li class="note reblog tumblelog_anikoku original_post without_commentary"><a rel="nofollow" class="avatar_frame" target="_blank" href="https://anikoku.tumblr.com/" title="You&#039;ll have to remind me tomorrow"><img src="https://66.media.tumblr.com/avatar_24d5d2e78b3d_16.pnj" class="avatar " alt="" /></a><span class="action" data-post-url="https://anikoku.tumblr.com/post/182679259344"><a rel="nofollow" href="https://anikoku.tumblr.com/" class="tumblelog" title="You&#039;ll have to remind me tomorrow">anikoku</a> posted this                                                                        </span><div class="clear"></div></li><li class="note more_notes_link_container" style="text-align:center;" id="more_notes_182679259344"><a class="more_notes_link" rel="nofollow" href="#" onclick="this.style.display='none';document.getElementById('notes_loading_182679259344').style.display = 'block';if(window.ActiveXObject)var tumblrReq=new ActiveXObject('Microsoft.XMLHTTP');else if(window.XMLHttpRequest)var tumblrReq=new XMLHttpRequest();else return false;tumblrReq.onreadystatechange=function(){if(tumblrReq.readyState==4){var notes_html=tumblrReq.responseText.split('<!-- START '+'NOTES -->')[1].split('<!-- END '+'NOTES -->')[0];
+if(window.tumblrNotesLoaded)if(tumblrNotesLoaded(notes_html)==false)return;var more_notes_link=document.getElementById('more_notes_182679259344');var notes=more_notes_link.parentNode;notes.removeChild(more_notes_link);notes.innerHTML+=notes_html;if(window.tumblrNotesInserted)tumblrNotesInserted(notes_html);}};tumblrReq.open('GET','/notes/182679259344/qdPzqMH3d?from_c=1549711492',true);tumblrReq.send();return false;">Show more notes</a><span class="notes_loading" id="notes_loading_182679259344" style="display:none;">Loading...</span></li><!-- END NOTES --></ol></div>
+                </li>
+                
+            </div>
+        
+        </ul>
+
+
+        
+
+        <div class="column right">
+            <small>Theme: <a href="https://www.tumblr.com/theme/5136">Linear</a> by <a href="http://petervidani.com">Peter Vidani</a></small>
+        </div>
+
+        <div style="clear:both"></div>
+    </div>
+
+    
+
+    
+
+    
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = false;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?dfab06320413a6a34dbca419c4c70f2c#" +
+                              "https://anikoku.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/post/182679259344/mini-essay-how-the-narrative-of-kh3-was-damaged?route=%2Fpost%2F%3Aid%2F%3Asummary'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/post/:id/:summary';
+                    var tumblelog_id = 't:LGb3qc-2EMS8F9y3362FMQ';
+                    var yahoo_space_id = '1197719230';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+</script><script type="text/javascript" nonce="m0VJKuz9mN3lMZSBxm2IpdGI">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1550977279&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2FuaWtva3UudHVtYmxyLmNvbS9wb3N0LzE4MjY3OTI1OTM0NC9taW5pLWVzc2F5LWhvdy10aGUtbmFycmF0aXZlLW9mLWtoMy13YXMtZGFtYWdlZCIsInJlcXR5cGUiOjAsInJvdXRlIjoiL3Bvc3QvOmlkLzpzdW1tYXJ5In0=&U=OOAIJPKIHI&K=321ae76d4387bd64bd16698fc5257f02a807ae8f7413d5c998a41c913850a144&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1550977279&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2FuaWtva3UudHVtYmxyLmNvbS9wb3N0LzE4MjY3OTI1OTM0NC9taW5pLWVzc2F5LWhvdy10aGUtbmFycmF0aXZlLW9mLWtoMy13YXMtZGFtYWdlZCIsInJlcXR5cGUiOjAsInJvdXRlIjoiL3Bvc3QvOmlkLzpzdW1tYXJ5Iiwibm9zY3JpcHQiOjF9&U=OOAIJPKIHI&K=1bd0448830c2186e9c83b178d25ed9311adb86ad7ab1ac1466180a43ff274b7c&R="></noscript><script nonce="m0VJKuz9mN3lMZSBxm2IpdGI">
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'https://assets.tumblr.com/assets/scripts/vendor/cedexis/1-13960-radar10.min.js?_v=8d32508b0a251bebecb4853c987c5015';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><script type="text/javascript" nonce="m0VJKuz9mN3lMZSBxm2IpdGI">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1550977279&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9hbmlrb2t1LnR1bWJsci5jb20vcG9zdC8xODI2NzkyNTkzNDQvbWluaS1lc3NheS1ob3ctdGhlLW5hcnJhdGl2ZS1vZi1raDMtd2FzLWRhbWFnZWQiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wb3N0LzppZC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiIxODI2NzkyNTkzNDQiLCJibG9naWQiOiI5Nzg3OTUiLCJzb3VyY2UiOjMzfV19&U=LOJDFCOKOD&K=10a821ef2f8c06fd480adfaf7c12cb4f5dcee3bc8da0518e50159e2f98b9a45c&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1550977279&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6Ly9hbmlrb2t1LnR1bWJsci5jb20vcG9zdC8xODI2NzkyNTkzNDQvbWluaS1lc3NheS1ob3ctdGhlLW5hcnJhdGl2ZS1vZi1raDMtd2FzLWRhbWFnZWQiLCJyZXF0eXBlIjowLCJyb3V0ZSI6Ii9wb3N0LzppZC86c3VtbWFyeSIsInBvc3RzIjpbeyJwb3N0aWQiOiIxODI2NzkyNTkzNDQiLCJibG9naWQiOiI5Nzg3OTUiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=LOJDFCOKOD&K=0070d5e7d7c3f91c61f916022b595b56a99f3496d37b2abc8d78a71bc7cab245&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=409be7134ac7f924003111396e54e1b8&quot;,&quot;tumblelogName&quot;:&quot;anikoku&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;You&#039;ll have to remind me tomorrow&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/66.media.tumblr.com\/avatar_24d5d2e78b3d_64.pnj&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/anikoku.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:false,&quot;themeHeaderImage&quot;:&quot;https:\/\/static.tumblr.com\/62017fda2ecfc0a1b88ce456769c1b8d\/fgujlbn\/d5tnb47c9\/tumblr_static_712iyhoo8l0csssocg0sgscww_2048_v2.jpg&quot;,&quot;themeBackgroundColor&quot;:&quot;#e4e4e4&quot;,&quot;themeTitleColor&quot;:&quot;#444444&quot;,&quot;themeAccentColor&quot;:&quot;#529ECC&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:true,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;single_post&quot;,&quot;currentPage&quot;:&quot;1&quot;,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;182679259344&quot;,&quot;src&quot;:&quot;https:\/\/anikoku.tumblr.com\/post\/182679259344\/mini-essay-how-the-narrative-of-kh3-was-damaged&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dblog_network_floating_cta&quot;,&quot;ios&quot;:&quot;https:\/\/itunes.apple.com\/app\/apple-store\/id305343404?pt=9029\u0026ct=blog_network_floating_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;tumblr_new_iframe&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1}},&quot;Flags&quot;:{&quot;doods&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwic2FmZV9tb2RlIjp0cnVlLCJzYWZlX21vZGVfZW5hYmxlZCI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwia3Jha2VuX3dlYl9sb2dnaW5nX2xpYnJhcnkiOnRydWUsInNlY3VyZV9mb3JtX2tleSI6dHJ1ZSwic2VjdXJlX2Zvcm1fa2V5X2Z1bGx5X29uIjp0cnVlLCJ0dW1ibGVsb2dfcG9wb3ZlciI6dHJ1ZSwiY2Fub25pY2FsX3VybF93cml0ZXMiOnRydWUsImVuYWJsZV9jYXB0dXJlX2pzIjp0cnVlLCJwcmltYV9wb3N0X2Zvcm1zIjp0cnVlLCJsb2NrZWRfcmVibG9nX3VpIjp0cnVlLCJ0YWJsZXRfYmFubmVyX2FjdGl2ZSI6dHJ1ZSwibW9iaWxlX2Jhbm5lcl9hY3RpdmUiOnRydWUsImxvZ19zZWFyY2hfYm94Ijp0cnVlLCJ1c2VyX21lbnRpb25zIjp0cnVlLCJodG1sNV9hdWRpb19wbGF5ZXIiOnRydWUsInBvcG92ZXJfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJpbmRhc2hfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJwb3B0aWNhX3R1bWJsZWxvZ19wb3BvdmVycyI6dHJ1ZSwidHVtYmxyX3R2Ijp0cnVlLCJkZXByZWNhdGVfZmVhdHVyZWRfdGFncyI6dHJ1ZSwicmVibG9nX3VpX3JlZnJlc2giOnRydWUsInRhYl9zd2l0Y2hlciI6dHJ1ZSwiZmFzdF9jb21wb3NlIjp0cnVlLCJkYXNoYm9hcmRfcmVmcmVzaCI6dHJ1ZSwibW9iaWxlX3dlYl9waG90b3NldHMiOnRydWUsIm1vYmlsZV93ZWJfZ2F0ZSI6dHJ1ZSwibW9iaWxlX3dlYl9wYWdlX3RpdGxlcyI6dHJ1ZSwibW9iaWxlX3dlYl9hYnVzZV9mb3JtIjp0cnVlLCJkb250X2Nhc3RfanNfZm9sbG93cyI6dHJ1ZSwiYWRzX25ld192ZW5kb3JfYnV0dG9ucyI6dHJ1ZSwicmVhY3RpdmF0aW9uX2Zsb3ciOnRydWUsImd1bHBqc19hZG1pbiI6dHJ1ZSwiZW5hYmxlX2pzX2Vycm9yc19sb2ciOnRydWUsImVuYWJsZV9qc19lcGhlbWVyYWxfbG9nIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwiY3Nsb2dnZXJfanMiOnRydWUsImRpc2NvdmVyeV9odWJfYWNjZXNzIjp0cnVlLCJoZWFkZXJfYWNjb3VudF9tZW51Ijp0cnVlLCJlbmFibGVfc2hhcmVfZW1iZWRfY29kZSI6dHJ1ZSwicmVkZGl0X3NoYXJpbmciOnRydWUsInBvc3RfaXRfZm9yd2FyZCI6dHJ1ZSwicGVlcHJfc2VhcmNoX2FuZF9maWx0ZXIiOnRydWUsImludGVybnNfcGFnZSI6dHJ1ZSwiZm9sbG93ZWRfc2VhcmNoZXNfYmlnX3dlYiI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInByb2plY3RfeF9hcHBlYWwiOnRydWUsInByb2plY3RfeF93ZWJfc2Vuc2l0aXZlX2NvdmVycyI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJoaWRlX2RlZmF1bHRfaGVhZGVyc19ibG9nX2NhcmRzIjp0cnVlLCJ0eXBpbmdfaW5kaWNhdG9yX3dyaXRlIjp0cnVlLCJnZHByX2d1Y2VfaXNfcmVxdWlyZWQiOnRydWUsInR1bWJscl92aWRlb19zcG9uc29yZWRfZGF5Ijp0cnVlLCJhcmNoaXZlLXBsdXMiOnRydWUsImRhcmxhX2FkX2ZlZWRiYWNrIjp0cnVlLCJzdGF0dXNfaW5kaWNhdG9yIjp0cnVlLCJkaXNhYmxlX3lhaG9vX2JfY29va2llIjp0cnVlLCJsaXZlcGhvdG9zIjp0cnVlfQ==&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1550977279000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=409be7134ac7f924003111396e54e1b8"></script></body>
+</html>

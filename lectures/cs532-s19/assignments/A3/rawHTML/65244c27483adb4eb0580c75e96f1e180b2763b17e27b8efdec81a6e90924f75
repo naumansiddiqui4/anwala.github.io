@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<html lang="ja" prefix="og: http://ogp.me/ns#">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=990">
+  <meta name="format-detection" content="telephone=no,address=no,email=no">
+  <meta name="p:domain_verify" content="aef2c6d434f0e055e78042753d85e428"/>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WMLXV4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WMLXV4');</script>
+<!-- End Google Tag Manager -->
+
+<script src="/resources/js/cxense-library/cx-custom.js" charset="utf-8"></script>
+
+<!-- Cxense script start -->
+<script type="text/javascript">
+  var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+  var cx_props = cx_props || {}; cx_props['k'] = [];
+  cX.callQueue.push(['invoke', function() {
+    var cp = {}, sa = {};
+    var cpMaxLen = 40;
+    try{
+      var refhost = cX.library._findRealReferrer().split('/')[2];
+      if(refhost && location.hostname !== refhost) {
+        cp["referrer_host"] = sa["referrer_host_S"] = refhost.slice(0,cpMaxLen);
+      }
+    }catch(e){}
+    var u = ["utm_source", "utm_medium", "utm_term", "utm_content", "utm_campaign","page"];
+    if(location.search) location.search.substring(1).split("&").forEach(function(k){
+      try{
+        var v = k.split("=");
+        if(v[0].slice(0,3)==="cx_" && v[1]) {
+          sa[v[0].replace(/^cx_/,"")+"_S"] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        } else if(u.indexOf(v[0].toLowerCase())!==-1 && v[1]) {
+          cp[v[0].toLowerCase()] = sa[v[0].toLowerCase()+"_S"] = decodeURIComponent(v[1]).slice(0,cpMaxLen);
+        }
+      }catch(e){}
+    });
+    if(!cX.getUserId(false)) {
+      cp["newuser"] = sa["newuser_S"] = "true";
+    }
+    else {
+      try{
+        var t = new Date().getTime() - parseInt(cX.library.m_atfr.match(/altm=(\d+)/)[1]);
+        if (t >= 1000*60*30) {
+          cX.stopAllSessionAnnotations();
+          var da = Math.floor(t/(1000*60*60*24));
+          if(da < 1) {
+            cp["elapsed"] = sa["elapsed_S"] = "\u0031\u65E5\u4EE5\u5185";
+          } else if(da < 7) {
+            cp["elapsed"] = sa["elapsed_S"] = String(da)+"\u65E5\u3076\u308A";
+          } else if(da < 31) {
+            cp["elapsed"] = sa["elapsed_S"] = String(Math.floor(da/7))+"\u9031\u9593\u3076\u308A";
+          } else if(da < 365) {
+            cp["elapsed"] = sa["elapsed_S"] = String(Math.floor(da/31))+"\u30F6\u6708\u3076\u308A";
+          } else {
+            cp["elapsed"] = sa["elapsed_S"] = "1\u5E74\u4EE5\u4E0A";
+          }
+        }
+      } catch(e) {}
+    }
+    var originalRef=document.referrer;
+    if(originalRef.match(/faeb92b469b40c9d72e4-dc920caace12a27e58d45a42e86d29a2\.ssl\.cf2\.rackcdn\.com\/generic_v[0-9]+\.html/) || originalRef.match(/cdn\.cxpublic\.com\/generic_v[0-9]+\.html/)){
+        sa["cx_source_S"] = "cxrecs";
+    }
+    if(Object.keys(cp).length>0) {
+      cX.setCustomParameters(cp);
+    }
+    if(Object.keys(sa).length>0) {
+      cX.startSessionAnnotation(sa);
+    }
+    try {
+      "newuser_S" in cX.library._getSessionAnnotations() && cx_props['k'].push("newuser");
+    } catch(e) {}
+  }]);
+  cX.callQueue.push(['invoke', function() {
+    var urlArgs = cX.parseUrlArgs();
+    if (urlArgs["extid"]){
+      cX.addExternalId({'id': urlArgs["extid"], 'type': 'smm'});
+    }
+  }]);
+  cX.callQueue.push(['setSiteId', '1146310768123829923']);
+  cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+<!-- Cxense script end -->
+
+<script type="text/javascript">
+	window.cXcustom = window.cXcustom || function() {(window.cXcustom.q = window.cXcustom.q || []).push(arguments)};
+	var cx_reading_params = {origin: "shm-readingarea", persistedQueryId: "93371d46892970aa95a21b1506b1af23c2d9454a"};
+	var cx_click_params = {origin: "shm-click", persistedQueryId: "93371d46892970aa95a21b1506b1af23c2d9454a"};
+	cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_in_page:String(pos)+'%'}, cx_reading_params);} , 0, '', false, 1000);
+	cXcustom("scrollDepth", function(pos){cX.sendEvent("scroll", {pos_in_article:String(pos)+'%'}, cx_reading_params);}, 1, 'post-86179', false, 1000);
+	cXcustom("externalLink", function(area, params) {cX.sendEvent("linkclick", {area: area, text: params.text, href: params.href}, cx_click_params);});
+	cX.callQueue.push(['invoke', function() {
+		cX.loadScript("/resources/js/cxense-library/cx-custom.js");
+	}]);
+</script>
+
+  <link href="/resources/css/normalize.css" media="all" rel="stylesheet">
+  <link href="/resources/css/style.css" media="all" rel="stylesheet">
+  <link href="/resources/css/flexslider.css" media="all" rel="stylesheet">
+  <link href="/resources/css/diff.css?180802" media="all" rel="stylesheet">
+  <link href="/resources/css/diff-2.css" media="all" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.css" media="all" rel="stylesheet">
+  <link href="https://www.mensnonno.jp/news/wp-content/themes/mensnonno-news/resources/css/style.css" media="all" rel="stylesheet">
+  <link href="https://www.mensnonno.jp/news/wp-content/themes/mensnonno-news/resources/css/diff.css?1509034116" media="all" rel="stylesheet">
+  <link href="https://www.mensnonno.jp/news/wp-content/themes/mensnonno-news/resources/css/flexslider.css" media="all" rel="stylesheet">
+  <link href="https://www.mensnonno.jp/news/wp-content/themes/mensnonno-news/resources/css/flexslider-slideshow.css" media="all" rel="stylesheet">
+  <link href="https://www.mensnonno.jp/news/wp-content/themes/mensnonno-news/resources/css/flexslider-custom.css" media="all" rel="stylesheet">
+  <link href="/resources/css/jquery-image-override.css" media="all" rel="stylesheet">
+<script src="//www.google.com/jsapi" charset="utf-8"></script>
+<script>google.load('jquery', '1');</script>
+
+<script src="//media.line.me/js/line-button.js" charset="utf-8"></script>
+
+<script src="/resources/js/jquery.lazyload.min.js" charset="utf-8"></script>
+<script>
+  jQuery(function($){
+    $('.flexslider, .flexslider-slideshow, .no-lazy').find('img').each(function(){
+      $(this).attr('data-lazy', 'false').attr('src', $(this).attr('data-original'));
+    });
+    $('img[data-lazy=true]').lazyload({
+      threshold : 600,
+      effect: "fadeIn"
+    });
+  });
+</script>
+
+<script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.5/jquery.mCustomScrollbar.concat.min.js"></script>
+<script>
+  jQuery(function($){
+    if ($('.specialContent').find('.innerContent').size() > 0) {
+      $('.specialContent').find('.innerContent').mCustomScrollbar({
+        axis: 'x'
+      });
+    }
+  });
+</script>
+
+<script src="/resources/js/jquery.flexslider-min.js" type='text/javascript' charset="utf-8"></script>
+<script src="/resources/js/jquery.flexslider-diff.js" type='text/javascript' charset="utf-8"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inview/1.0.0/jquery.inview.min.js"></script>
+<script>
+    jQuery(function ($) {
+        var flg = {};
+        $('.inview').on({
+            'inview': function (event, isInView) {
+                if (isInView) {
+                    var id = $(this).attr('id');
+                    if (flg[id] !== true) {
+                        flg[id] = true;
+                        //gtm
+                        dataLayer = dataLayer || [];
+                        dataLayer.push({
+                            'adType': id,
+                            'event': 'adInview'
+                        });
+                    }
+                }
+            }
+        });
+        setTimeout(function () {
+            var pos = $(window).scrollTop();
+            $('html,body').animate({ scrollTop: pos + 1}, 0);
+            $('html,body').animate({ scrollTop: pos}, 0);
+        }, 500);
+    });
+</script>
+<script type='text/javascript' src="/resources/js/jquery.flexslider-min.js"></script>
+<script type='text/javascript' src="/resources/js/jquery.flexslider-diff.js"></script>
+
+<script src="/resources/js/jquery-image-override.js"></script>
+<script>
+    jQuery(function ($) {
+        var $block = $('.image-override:not(.modal)');
+        if ($block.size() > 0) {
+            $block.override().find('.overlay').find('img').lazyload({
+                threshold : 0,
+                effectspeed: 1000,
+                effect: "fadeIn",
+                load: function () {
+                    var $img = $(this);
+                    setTimeout(function () {
+                        $img.parents('.overlay').fadeOut(1500);
+                    }, 3000);
+                }
+            });
+
+            $block.find('.overlay').on({
+                click: function () {
+                    $(this).fadeOut(500);
+                }
+            });
+        }
+    });
+</script>
+
+<script type='text/javascript' src="/resources/js/jQueryAutoHeight.js"></script>
+<script type="text/javascript">
+    jQuery(function($){
+        var $block = $('.img-pagination.auto-fix');
+        for (var i=0; i<$block.size(); i++) {
+            $block.eq(i).find('li').autoHeight();
+        }
+    });
+</script>
+
+<script>
+  jQuery(function(){
+    jQuery('.article-link-list.matchingArticle a').each(function() {
+      var obj = jQuery(this);
+      var link = obj.attr('href');
+      obj.attr('href',link+'?cx_matchingArticle=true&cx_news=86179')
+    });
+  });
+</script>
+
+<!--[if lt IE 9]>
+  <link href="https://www.mensnonno.jp/news/wp-content/themes/mensnonno/resources/css/ie.css" media="all" rel="stylesheet">
+  <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+  <title>中川大輔が告白！　リツイートで動画の続きとプレゼントをゲットしよう  |  MEN&#039;S NON-NO WEB | メンズノンノ ウェブ</title>
+  <link rel="shortcut icon" href="/resources/favicon/favicon.ico">
+  <link rel="apple-touch-icon" href="/resources/favicon/favicon144.png">
+  <link rel="alternate" type="application/rss+xml" title="NEWS &raquo; のフィード" href="https://www.mensnonno.jp/news/feed/">
+<link rel='canonical' href='https://www.mensnonno.jp/news/2019/01/18/86179/' />
+<!-- Cxense Start -->
+<meta name="cXenseParse:shm-directory" content="news" />
+<meta name="cXenseParse:shm-category" content="NEWS" />
+<meta name="cXenseParse:shm-root-directory" content="/" />
+<meta name="cXenseParse:shm-root-category" content="NEWS" />
+<meta name="cXenseParse:pageclass" content="article" />
+<meta property="article:published_time" content="2019-01-18T01:00:56+00:00Z"/>
+<meta name="cXenseParse:shm-pubyear" content="2019"/>
+<meta name="cXenseParse:shm-pubmonth" content="201901"/>
+<meta name="cXenseParse:shm-recsmonth" content="01"/>
+<meta name="cXenseParse:shm-pubday" content="20190118"/>
+<meta property="article:modified_time" content="2019-02-17T17:05:59+00:00Z"/>
+<meta name="cXenseParse:shm-page" content="1" />
+<meta name="cXenseParse:shm-keywords" content="キャンペーン" />
+<meta name="cXenseParse:shm-keywords" content="プレゼント" />
+<meta name="cXenseParse:shm-keywords" content="中川大輔" />
+<meta name="cXenseParse:shm-keywords" content="動画" />
+<meta name="cXenseParse:shm-keywords" content="恋愛" />
+<meta name="cXenseParse:shm-keywords" content="美女" />
+<meta name="cXenseParse:shm-pr" content="true" />
+<meta name="cXenseParse:shm-model" content="中川 大輔" />
+<!-- Cxense End -->
+<link rel='https://github.com/WP-API/WP-API' href='https://www.mensnonno.jp/news/wp-json' />
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="中川大輔が告白！　リツイートで動画の続きとプレゼントをゲットしよう">
+<meta property="og:description" content="メンズノンノと“宝くじ”の、スペシャルコラボ企画がスタート。 ※キャンペーン期間は終了しました バレンタインの日、ホームパーティでメンズノンノモデル中川大輔が鈴 [&hellip;]">
+<meta property="og:url" content="https://www.mensnonno.jp/news/2019/01/18/86179/">
+<meta property="og:image" content="https://image.mensnonno.jp/wordpress/wp-content/uploads/sites/2/2019/01/valentine-jumb-sum.jpg">
+<meta property="og:site_name" content="NEWS">
+
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="https://image.mensnonno.jp/wordpress/wp-content/uploads/sites/2/2019/01/valentine-jumb-sum.jpg">
+<meta property="twitter:url" content="https://www.mensnonno.jp/news/2019/01/18/86179/">
+<meta property="twitter:title" content="中川大輔が告白！　リツイートで動画の続きとプレゼントをゲットしよう">
+<meta property="twitter:description" content="メンズノンノと“宝くじ”の、スペシャルコラボ企画がスタート。 ※キャンペーン期間は終了しました バレンタインの日、ホームパーティでメンズノンノモデル中川大輔が鈴 [&hellip;]">
+
+</head>
+<body id="page-news" class="single single-post postid-86179 single-format-standard sub news article mode_pc">
+<script>
+    function sendEvent(percentage) {
+        cX.sendEvent('scroll', {verticalpos:String(percentage)+'%'});
+    }
+    cX.callQueue.push(['invoke', function() {
+        cX.setEventAttributes({origin: 'shm-website', persistedQueryId: '93371d46892970aa95a21b1506b1af23c2d9454a'});
+        cxScrollDepth.init(sendEvent, 1, 'post-86179', false, 1000);
+    }]);
+</script>
+
+
+  <header id="header">
+    <div class="container clearfix">
+      <h1 class="pull-left">
+        <a href="/">MEN'S NON-NO WEB | メンズノンノ ウェブ</a>
+      </h1>
+
+    </div>
+  </header>
+
+  <nav class="main">
+    <div class="container">
+      <h1 class="index">Navigation Menu</h1>
+      <ul class="inline-block">
+        <a href="/?cx_pc-menu=top"><li class="home"><h2>HOME</h2></li></a>
+        <a href="/news/?cx_pc-menu=news"><li class="news"><h2>NEWS</h2></li></a>
+        <a href="/model/?cx_pc-menu=model"><li class="model"><h2>MODEL</h2></li></a>
+        <a href="/365/?cx_pc-menu=365"><li class="style"><h2>365 STYLE</h2></li></a>
+        <a href="/blog/?cx_pc-menu=blog"><li class="blog"><h2>BLOG</h2></li></a>
+        <a href="https://beauty.mensnonno.jp/?cx_pc-menu=from-mensnonno" target="_blank" rel="noopener"><li><h2>BEAUTY</h2></li></a>
+        <a href="/movie/?cx_pc-menu=movie"><li class="movie"><h2>MOVIE</h2></li></a>
+        <a href="/instagram/?cx_pc-menu=instagram"><li class="instagram"><h2>INSTAGRAM</h2></li></a>
+        <a href="/collection/?cx_pc-menu=news"><li class="collection"><h2>COLLECTION</h2></li></a>
+        <a href="/present/?cx_pc-menu=present"><li class="present"><h2>PRESENT</h2></li></a>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="content">
+    <div class="container clearfix">
+      <section class="left">
+      <ol class="breadcrumb">
+        <li class="home"><a href="/">HOME</a></li>
+        <li class="top"><a href="https://www.mensnonno.jp/news/">NEWS</a></li>
+        <li>中川大輔が告白！　リツイートで動画の続きとプレゼントをゲットしよう</li>
+      </ol>
+      
+        <h1>NEWS</h1>
+        <article id="post-86179" class="well clearfix">
+          <h2>中川大輔が告白！　リツイートで動画の続きとプレゼントをゲットしよう</h2>
+          <div>
+            <time class="date" datetime="2019-01-18">2019.01.18</time>
+                        <span class="tag pr">PR</span><!-- cxenseparse_start -->
+            <p><img data-original="https://image.mensnonno.jp/wordpress/wp-content/uploads/sites/2/2019/01/valentine-jumbp.jpg"  src="/resources/images/base/spacer.png" data-lazy="true"></p>
+<p>メンズノンノと“宝くじ”の、スペシャルコラボ企画がスタート。<br />
+<font color="ff0000">※キャンペーン期間は終了しました</font></p>
+<p>バレンタインの日、ホームパーティでメンズノンノモデル<a href="https://www.mensnonno.jp/model/nakagawa/" target="_blank">中川大輔</a>が<a href="https://nonno.hpplus.jp/model/suzuki_yuuka" target="_blank">鈴木優華</a>さんにプレゼントしたのは、チョコレートと「<strong>バレンタインジャンボ宝くじ</strong>」。そして意を決しての告白！</p>
+<p><iframe width="640" height="360"  class="youtube-movie" src="https://www.youtube.com/embed/linClG4Ra8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>動画の続きはどうなる？　下記のツイッター投稿をリツイートすると告白の結果が自動返信され、それが“成功“バージョンならば<strong>3,000円分のバレンタインジャンボ宝くじをプレゼント！</strong></p>
+<p><center></p>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">メンズノンノモデル中川大輔の告白の結果は…？　フォロー＆リツイートで動画の続きを自動返信します。</p>
+<p>当たり動画だったら「バレンタインジャンボ宝くじ」3000円分をプレゼント！（20歳以上のみ）</p>
+<p>応募要項はこちら<a href="https://t.co/qdx7a84q49">https://t.co/qdx7a84q49</a> <a href="https://t.co/T2nx33G3W6">pic.twitter.com/T2nx33G3W6</a></p>
+<p>&mdash; MEN&#39;S NON-NO (@MENSNONNOJP) <a href="https://twitter.com/MENSNONNOJP/status/1086065636005027841?ref_src=twsrc%5Etfw">2019年1月18日</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br />
+</center></p>
+<p class="space-delete">&nbsp;</p>
+<p>ハズレ動画だった場合でも、応募用ツイートは４回配信されて各回に挑戦が可能です。中川の恋愛のためにも（笑）くじ引き感覚でぜひ参加してください。</p>
+<div id="masonry-container">
+<div class="masonry-item">
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">メンズノンノ×「バレンタインジャンボ宝くじ」キャンペーン中！<a href="https://t.co/qdx7a8m0VH">https://t.co/qdx7a8m0VH</a></p>
+<p>このツイートをフォロー＆ＲＴして、動画の告白が成功だったら…3000円分の宝くじをプレゼントします。（20歳以上のみ）<a href="https://twitter.com/hashtag/%E4%B8%AD%E5%B7%9D%E5%A4%A7%E8%BC%94?src=hash&amp;ref_src=twsrc%5Etfw">#中川大輔</a> <a href="https://twitter.com/hashtag/%E9%88%B4%E6%9C%A8%E5%84%AA%E8%8F%AF?src=hash&amp;ref_src=twsrc%5Etfw">#鈴木優華</a> <a href="https://t.co/DmHZBe6C6H">pic.twitter.com/DmHZBe6C6H</a></p>
+<p>&mdash; MEN&#39;S NON-NO (@MENSNONNOJP) <a href="https://twitter.com/MENSNONNOJP/status/1088421161904496641?ref_src=twsrc%5Etfw">2019年1月24日</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="masonry-item">
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">本日発売の「バレンタインジャンボ宝くじ」とメンズノンノがコラボ！<a href="https://t.co/qdx7a8m0VH">https://t.co/qdx7a8m0VH</a></p>
+<p>このツイートをフォロー＆ＲＴして、アタリ動画が返信されたら3000円分の宝くじをプレゼント。（20歳以上のみ）</p>
+<p>これまで２回の告知でハズレ動画だった人も再チャレンジ可能です。 <a href="https://t.co/WyrzoWckDe">pic.twitter.com/WyrzoWckDe</a></p>
+<p>&mdash; MEN&#39;S NON-NO (@MENSNONNOJP) <a href="https://twitter.com/MENSNONNOJP/status/1090447005984276480?ref_src=twsrc%5Etfw">2019年1月30日</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="masonry-item">
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">＼ フォロー＆リツイートでプレゼント ／</p>
+<p>バレンタインまで一週間。メンズノンノモデル中川大輔の告白の結果をＲＴしてチェックしよう。当たり動画なら「バレンタインジャンボ宝くじ」3000円分を差し上げます！（20歳以上のみ）</p>
+<p>応募要項はこちら<a href="https://t.co/qdx7a84q49">https://t.co/qdx7a84q49</a> <a href="https://t.co/guzvpfRvzb">pic.twitter.com/guzvpfRvzb</a></p>
+<p>&mdash; MEN&#39;S NON-NO (@MENSNONNOJP) <a href="https://twitter.com/MENSNONNOJP/status/1093479491215810560?ref_src=twsrc%5Etfw">2019年2月7日</a></p></blockquote>
+<p> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
+<div class="info">
+<strong>MEN&#8217;S NON-NO × バレンタインジャンボ<br />
+プレゼントキャンペーン</strong><br />
+2019年1月18日10:00 ～ 2月17日23:59<br />
+バレンタインジャンボ宝くじ3,000円分を<br />
+50名にプレゼント<br />
+<font color="808080">※応募は20歳以上限定</font></p>
+<p><strong>応募方法</strong><br />
+①公式ツイッターアカウント<a href="https://twitter.com/MENSNONNOJP" target="_blank">＠MENSNONNOJP</a>をフォローする。<br />
+②上掲の応募用ツイートをリツイートする。（期間内に４回配信予定）<br />
+<font color="808080">※ツイート１件につき参加リツイートは１回まで</font><br />
+③抽選結果がリプライ（返信）されます。当選者には賞品の送付先をおうかがいするダイレクトメッセージをお送りします。<br />
+<font color="808080">※同一アカウントでの当選はキャンペーンを通して１回までとなります</font></p>
+<p>※バレンタインジャンボの抽せん日は3月5日です。宝くじの当せん結果は<a href="https://www.takarakuji-official.jp/check/" target="_blank">こちら</a>でご確認ください</p>
+<div style="text-align: center; font-weight:bold;">- 必ずお読みください -</div>
+<div class="profile-btn"><a href="https://www.mensnonno.jp/news/2019/01/18/86179/2/" target="_blank">応募規約</a></div>
+</div>
+<div style="border: 1px solid #000;padding: 20px;">
+<p style="text-align: center; font-weight:bold; margin-bottom: 10px;">宝くじ公式サイトでも<br />
+買える！</p>
+<p class="text-small">ビッグな夢が１枚300円、ギフトにもおすすめ！　ネット販売も始まって24時間いつでもどこでも宝くじを購入できるように。結果の確認と換金まで、すべてネットでＯＫだ。（発売期間1/30〜2/22）<br />
+<center>
+<p class="text-small"><strong>バレンタインジャンボ宝くじ</strong><br />
+１等・前後賞合わせて３億円<br />
+<strong>バレンタインジャンボミニ</strong><br />
+１等・前後賞合わせて3000万円</p>
+<p></center></p>
+<p class="text-small">宝くじ公式サイト <a href="https://www.takarakuji-official.jp/" target="_blank">www.takarakuji-official.jp</a>
+</p>
+<p class="space-delete">&nbsp;</p>
+</div>
+<p>&nbsp;</p>
+<style>
+.profile-btn a {
+background: #ff0000;
+display: block;
+color: #fff;
+font-weight: bold;
+text-align: center;
+padding: 3%;
+width: 70%;
+margin: 0 auto 60px;
+text-decoration: none !important;
+}
+.mode_pc .profile-btn a {
+font-size: 18px;
+margin: 20px auto 40px;
+width: 50%;
+}
+.mode_sp .mb-10 {
+margin-bottom: -10px; 
+}
+.mode_sp .mt-40 {
+margin-top: -40px;
+}
+.mode_pc .mt-20 {
+margin-top: -20px;
+}
+</style>
+<style>
+  .pagination {display: none;}
+</style>
+<style>
+.masonry-item {
+width: 215px;
+margin-right: 0;
+float: left;
+}
+.mode_pc .masonry-item:nth-of-type(3n) {
+margin-right: 0px;
+}
+.mode_sp .masonry-item {
+width: 292px;
+margin-right: 5px;
+margin-bottom: 10px;
+}
+.mode_sp .masonry-item:nth-of-type(3n) {
+margin-right: 0px !important;
+}
+.masonry-item p {
+margin-bottom: 0px;
+}
+.masonry-item iframe {
+margin-bottom: 0px !important;
+padding-bottom: 0px !important;
+}
+.masonry-item .twitter-tweet {
+margin-top: 0px !important;
+font-size: 12px;
+margin-bottom: 0px !important;
+}
+.mode_pc .masonry-item .twitter-tweet,
+.mode_pc .masonry-item .instagram-media {
+min-width: 215px !important;
+}
+.mode_sp .masonry-item .twitter-tweet {
+min-width: 292px !important;
+}
+#masonry-container { overflow: hidden; }
+div.br-none br {
+display: none;
+}
+</style>
+<!-- cxenseparse_end -->
+          </div>
+        </article>
+
+        <nav class="text-center">
+          <ul class="pagination pagination-sm" style="margin: 0;">
+              <li class="active"><a href="https://www.mensnonno.jp/news/2019/01/18/86179/">1</a></li>
+              <li><a href="https://www.mensnonno.jp/news/2019/01/18/86179/2/">2</a></li>
+            </ul>
+        </nav>
+
+        
+
+
+        <p class="cornerTop"><a href="/news/"><span class="glyphicon glyphicon-play"></span>NEWS一覧へ戻る</a></p>
+
+        <!-- Cxense content widget: 【0_使用中】関連記事（MEN&#x27;S NON-NO）PC -->
+        <div id="cx_recsBottomOfArticle" style="height:1px;"></div>
+        <div id="cx_2bdd6b2caa12cb2de7b15ca8037f5661e972f836" style="display:none"></div>
+        <script type="text/javascript">
+            var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+            cX.callQueue.push(['invoke', function() {
+             	var point = document.getElementById('cx_recsBottomOfArticle') ? document.getElementById('cx_recsBottomOfArticle').id : "cx_recsBottomOfArticle";
+             	cX.trackElement({elementId: point,
+                trigger: {
+                  on: function(state) { return state.visibility.maxPercent > 0; },
+                  callback: function(state) {
+                  	cX.setSiteId('1146310768123829923');
+                    cX.setEventAttributes({origin:'shm-recs', persistedQueryId:'93371d46892970aa95a21b1506b1af23c2d9454a'});
+                    cX.sendEvent('inview', {widgetId:'2bdd6b2caa12cb2de7b15ca8037f5661e972f836',widgetName:"【0_使用中】関連記事（MEN'S NON-NO）PC"});
+                  }
+                }
+              });
+            }]);
+            cX.callQueue.push(['insertWidget', {
+                widgetId: '2bdd6b2caa12cb2de7b15ca8037f5661e972f836',
+                insertBeforeElementId: 'cx_2bdd6b2caa12cb2de7b15ca8037f5661e972f836',
+                width: 660, height: 344, renderTemplateUrl: 'auto'
+            }]);
+
+            // Async load of cx.js
+            (function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+            e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+            t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+        </script>
+        <!-- End of Cxense content widget -->
+
+        <div class="relevance">
+          <ul>
+<li class="header">キーワードで記事を検索</li>
+<li><a href="https://www.mensnonno.jp/news/tag/campaign/" rel="tag">キャンペーン</a></li>
+<li><a href="https://www.mensnonno.jp/news/tag/present/" rel="tag">プレゼント</a></li>
+<li><a href="https://www.mensnonno.jp/news/tag/%e4%b8%ad%e5%b7%9d%e5%a4%a7%e8%bc%94/" rel="tag">中川大輔</a></li>
+<li><a href="https://www.mensnonno.jp/news/tag/movie/" rel="tag">動画</a></li>
+<li><a href="https://www.mensnonno.jp/news/tag/love/" rel="tag">恋愛</a></li>
+<li><a href="https://www.mensnonno.jp/news/tag/girl/" rel="tag">美女</a></li>
+</ul>        </div>
+        <div class="sns-panel">
+          <div class="sns-panel-body clearfix">
+            <div class="sns pull-left">
+
+            </div>
+            <div class="sns pull-right">
+              
+<!-- Twitterボタン -->
+              <a href="//twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
+              
+<!-- Facebookボタン -->
+              <iframe src="//www.facebook.com/plugins/like.php?href=https://www.mensnonno.jp/news/2019/01/18/86179/&layout=box_count&show_faces=true&share=true&width=72&action=like&colorscheme=light&height=64" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:72px; height:64px;" allowTransparency="true"></iframe>
+              
+            </div>
+          </div>
+        </div>
+        
+
+
+<!--inlinebanner-->
+<script type="text/javascript">
+ (function() {
+   var useSSL = 'https:' == document.location.protocol;
+   var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+   document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+ })();
+</script>
+
+<div id='div-gpt-ad-1499248520069-0'>
+  <script type='text/javascript'>
+    googletag.defineSlot('/16791533/Mensnonno_pc_inlinebanner_1_article', [[1, 1], [728, 90]],'div-gpt-ad-1499248520069-0')
+      .addService(googletag.pubads())
+      .setTargeting("Gender", "Male");
+    googletag.pubads().enableSyncRendering();
+    googletag.enableServices();googletag.display('div-gpt-ad-1499248520069-0');
+  </script>
+</div>
+<!--inlinebanner-->
+
+<section class="specialContent">
+  <h1>SPECIAL</h1>
+
+  <div class="innerContent">
+    <ul>
+      <li>
+        <a href="https://www.mensnonno.jp/news/2019/01/30/87025/?cx_top=special">
+          <figure>
+            <img src="https://www.mensnonno.jp/wp-content/uploads/2019/01/mode-talk.jpg" alt="竜星 涼 × 祐真朋樹パリコレを語る【完全版】_SPECIAL">            <figcaption>竜星 涼 × 祐真朋樹<br>パリコレを語る【完全版】</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li class="up">
+        <a href="https://www.mensnonno.jp/special/alexandros/?cx_top=special">
+          <figure>
+            <img src="https://www.mensnonno.jp/wp-content/uploads/2017/04/Alexandros.jpg" alt="[ALEXANDROS]川上洋平の連載がウェブでも読める_SPECIAL">            <figcaption>[ALEXANDROS]川上洋平<br>の連載がウェブでも読める</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.mensnonno.jp/special/momiyama2019/?cx_top=special">
+          <figure>
+            <img src="https://www.mensnonno.jp/wp-content/uploads/2019/01/momiyama-1902.jpg" alt="音楽コラムがリニューアル80年代の“歌謡曲”がテーマ_SPECIAL">            <figcaption>音楽コラムがリニューアル<br>80年代の“歌謡曲”がテーマ</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.mensnonno.jp/news/2018/11/12/81644/?cx_top=special">
+          <figure>
+            <img src="https://www.mensnonno.jp/wp-content/uploads/2018/10/newmodel2018.jpg" alt="新メンズノンノモデルは２人の18歳に決定！_SPECIAL">            <figcaption>新メンズノンノモデルは<br>２人の18歳に決定！</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li class="up">
+        <a href="https://www.mensnonno.jp/special/mn-sneaker/?cx_top=special">
+          <figure>
+            <img src="https://www.mensnonno.jp/wp-content/uploads/2018/06/special-slider-mn-sneaker.jpg" alt="スニーカー最新情報のコーナーはこちら！_SPECIAL">            <figcaption>スニーカー最新情報の<br>コーナーはこちら！</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.mensnonno.jp/model/?cx_top=special">
+          <figure>
+            <img src="https://www.mensnonno.jp/wp-content/uploads/2018/06/model-profile1806.jpg" alt="MEN'S NON-NO MODELPERFECT PROFILE_SPECIAL">            <figcaption>MEN'S NON-NO MODEL<br>PERFECT PROFILE</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.mensnonno.jp/news/2019/01/28/87592/?cx_top=special">
+          <figure>
+            <img src="https://www.mensnonno.jp/wp-content/uploads/2019/02/3season-suit.jpg" alt="コスパ最高な“３シーズンスーツ”のススメ_SPECIAL">            <figcaption>コスパ最高な“３シーズン<br>スーツ”のススメ</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li class="up">
+        <a href="https://www.mensnonno.jp/special/astrology?cx_top=special">
+          <figure>
+            <img src="https://www.mensnonno.jp/wp-content/uploads/2018/10/Pisces.jpg" alt="当たると評判！メンズノンノの星占い_SPECIAL">            <figcaption>当たると評判！<br>メンズノンノの星占い</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li class="up">
+        <a href="https://www.mensnonno.jp/365/?cx_top=special">
+          <figure>
+            <img src="https://www.mensnonno.jp/wp-content/uploads/2019/02/365style25.jpg" alt="メンズノンノモデルの私服365 STYLE_SPECIAL">            <figcaption>メンズノンノモデルの私服<br>365 STYLE</figcaption>
+          </figure>
+        </a>
+      </li>
+      <li>
+        <a href="https://www.mensnonno.jp/special/my-girl/?cx_top=special">
+          <figure>
+            <img src="https://www.mensnonno.jp/wp-content/uploads/2018/10/MYGIRL-4.jpg" alt="連載「僕の彼女」WEB限定ショット集_SPECIAL">            <figcaption>連載「僕の彼女」<br>WEB限定ショット集</figcaption>
+          </figure>
+        </a>
+      </li>
+    </ul>
+  </div>
+</section>
+
+      </section>
+      <aside class="right" id="sidebar">
+        <h1 class="index">Side Menu</h1>
+<script>
+        jQuery(function($){
+        var items = [
+            "/resources/images/sidebar/banner/300_100_perfectprofile_1.jpg", "/resources/images/sidebar/banner/300_100_perfectprofile_2.jpg"
+        ];
+        var item = items[Math.floor(Math.random() * items.length)];
+        var $li = $('ul.banner').find('.sidebar_random');
+        $li.find('a').find('img').attr('src', item);
+    });
+    </script>
+
+<!-- START Side bar -->
+<ul class="banner">
+    
+</ul>
+
+<div id="this_month" class="clearfix">
+    <div class="cover">
+        <a href="/thismonth/">
+            <img src="/resources/images/sidebar/cover/2019-03.jpg" alt="今月号表紙">
+        </a>
+    </div>
+    <div class="content">
+        <a href="/e-books/">
+            <img src="/resources/images/sidebar/cover/e-maga.jpg" alt="" width="84" height="72" border="0">
+        </a>
+        <!--<a href="https://itunes.apple.com/jp/app/id705001042" target="_blank">
+          <img src="/resources/images/sidebar/cover/app_store.jpg" alt="" width="89" height="30" border="0">
+        </a>-->
+        <div class="date">03</div>
+        <div class="month">Mar.</div>
+                    <div class="price">定価&nbsp;690円</div>
+                <ul class="link">
+            <li><a href="/thismonth/"><span class="glyphicon glyphicon-play"></span>今月号目次</a></li>
+            <li><a href="/nextmonth/"><span class="glyphicon glyphicon-play"></span>次号予告</a></li>
+            <!-- <li><a href="#" style="pointer-events:none;"><span class="glyphicon glyphicon-play"></span>次号予告</a></li> -->
+            <li><a href="http://shueisha.tameshiyo.me/4910186270394" onclick="ga('send','event','link','click','tameshiyomi');" target="_blank"><span class="glyphicon glyphicon-play"></span>試し読み</a></li>
+            <!-- <li><a href="#" target="_blank" style="pointer-events:none;"><span class="glyphicon glyphicon-play"></span>試し読み</a></li> -->
+        </ul>
+    </div>
+</div>
+
+
+<figure id="main_slider" class="flexslider">
+  <ul class="slides model">
+    <li>
+      <a href="https://www.mensnonno.jp/news/2019/02/08/88330/?cx_top=hottopics">
+        <dl>
+          <dt><img src="https://www.mensnonno.jp/wp-content/uploads/2019/02/beams1903.jpg" alt="きれいなベージュのセットアップをビームスで発見！_ホットトピックス"></dt>
+          <dd>
+            <div class="title pr">B of the month</div>
+            <div class="content">きれいなベージュのセットアップ<br>をビームスで発見！</div>
+          </dd>
+        </dl>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.mensnonno.jp/365/kishimoto/10882/?cx_top=hottopics">
+        <dl>
+          <dt><img src="https://www.mensnonno.jp/wp-content/uploads/2019/02/365luke20190222.jpg" alt="岸本ルーク「きっちりしすぎないシャツのカジュアルダウン！」_ホットトピックス"></dt>
+          <dd>
+            <div class="title">365 STYLE</div>
+            <div class="content">岸本ルーク「きっちりしすぎない<br>シャツのカジュアルダウン！」</div>
+          </dd>
+        </dl>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.mensnonno.jp/news/2019/02/09/88817/?cx_top=hottopics">
+        <dl>
+          <dt><img src="https://www.mensnonno.jp/wp-content/uploads/2019/02/bokukimi.jpg" alt="野村周平さんと宮沢氷魚のツーショット撮影に成功！_ホットトピックス"></dt>
+          <dd>
+            <div class="title">DRAMA REPORT</div>
+            <div class="content">野村周平さんと宮沢氷魚の<br>ツーショット撮影に成功！</div>
+          </dd>
+        </dl>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.mensnonno.jp/news/2018/10/21/80024/?cx_top=hottopics">
+        <dl>
+          <dt><img src="https://www.mensnonno.jp/wp-content/uploads/2018/10/repeat.jpg" alt="なくなったら困る…。ついつい“おかわり買い”してしまう逸品_ホットトピックス"></dt>
+          <dd>
+            <div class="title">REPEAT ITEM</div>
+            <div class="content">なくなったら困る…。ついつい<br>“おかわり買い”してしまう逸品</div>
+          </dd>
+        </dl>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.mensnonno.jp/news/2019/02/12/88575/?cx_top=hottopics">
+        <dl>
+          <dt><img src="https://www.mensnonno.jp/wp-content/uploads/2019/02/north-hyke.jpg" alt="初のメンズあり！　ハイク× ノース・フェイス全アイテム_ホットトピックス"></dt>
+          <dd>
+            <div class="title">COLLABORATION</div>
+            <div class="content">初のメンズあり！　ハイク<br>× ノース・フェイス全アイテム</div>
+          </dd>
+        </dl>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.mensnonno.jp/365/sakata/10869/?cx_top=hottopics">
+        <dl>
+          <dt><img src="https://www.mensnonno.jp/wp-content/uploads/2019/02/365sakata1902181.jpg" alt="坂田秀晃「クルニのセットアップに一目惚れしました！」_ホットトピックス"></dt>
+          <dd>
+            <div class="title">365 STYLE</div>
+            <div class="content">坂田秀晃「クルニのセットアップ<br>に一目惚れしました！」</div>
+          </dd>
+        </dl>
+      </a>
+    </li>
+    <li>
+      <a href="https://beauty.mensnonno.jp/article/2019/01/31/6912/?cx_top=hottopics" target="_blank">
+        <dl>
+          <dt><img src="https://www.mensnonno.jp/wp-content/uploads/2019/02/kurkdjian.jpg" alt="天才調香師・クルジャン氏に守屋光治がインタビュー_ホットトピックス"></dt>
+          <dd>
+            <div class="title pr">BEAUTY</div>
+            <div class="content">天才調香師・クルジャン氏に<br>守屋光治がインタビュー</div>
+          </dd>
+        </dl>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.mensnonno.jp/365/iwakami/10855/?cx_top=hottopics">
+        <dl>
+          <dt><img src="https://www.mensnonno.jp/wp-content/uploads/2019/02/365iwakami190214.jpg" alt="岩上隼也「ユニクロづくしを軍アウターで締めました！」_ホットトピックス"></dt>
+          <dd>
+            <div class="title">365 STYLE</div>
+            <div class="content">岩上隼也「ユニクロづくしを<br>軍アウターで締めました！」</div>
+          </dd>
+        </dl>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.mensnonno.jp/news/2019/02/05/88586/?cx_top=hottopics">
+        <dl>
+          <dt><img src="https://www.mensnonno.jp/wp-content/uploads/2019/02/knitcap2019.jpg" alt="ニットキャップはおでこを全開にしてかぶろう！_ホットトピックス"></dt>
+          <dd>
+            <div class="title">TIPS</div>
+            <div class="content">ニットキャップは<br>おでこを全開にしてかぶろう！</div>
+          </dd>
+        </dl>
+      </a>
+    </li>
+    <li>
+      <a href="https://www.mensnonno.jp/news/2019/01/21/87304/?cx_top=hottopics">
+        <dl>
+          <dt><img src="https://www.mensnonno.jp/wp-content/uploads/2018/12/black-skinny.jpg" alt="“黒スキニー”ジーンズを今っぽくコーディネートする方法_ホットトピックス"></dt>
+          <dd>
+            <div class="title">FASHION</div>
+            <div class="content">“黒スキニー”ジーンズを<br>今っぽくコーディネートする方法</div>
+          </dd>
+        </dl>
+      </a>
+    </li>
+  </ul>
+</figure>
+
+<!-- #srchBox -->
+<div id="srchBox" class="watermark">
+    <style type="text/css">
+        #srchBox
+        {
+            width:298px;
+            _width:296px;
+            margin-bottom:10px;
+            background-color:#FFFFFF;
+            border-style:solid;
+            border-width:1px;
+            border-color:#EEEEEE;
+            color:#000000;
+            text-align:left;
+        }
+        #srchBox *
+        {
+            margin:0;
+            padding:0;
+            font-size:13px;
+            *font-size:small;
+            *font:x-small;
+        }
+        #srchBox a img
+        {
+            border:none;
+        }
+        #srchBox #srch
+        {
+            padding:10px 10px 0 10px;
+        }
+        #srchBox #srch #srchForm
+        {
+            white-space:nowrap;
+        }
+        #srchBox #srchInput
+        {
+            width:188px;
+            margin-right:6px;
+            vertical-align:bottom;
+        }
+        #srchBox #srchBtn
+        {
+            width:80px;
+        }
+        *html #srchBox #srchBtn
+        {
+            padding-top:2px;
+        }
+        *:first-child+html #srchBox #srchBtn
+        {
+            padding-top:2px;
+        }
+        #srchBox ul
+        {
+            margin-top:6px;
+            text-align:left;
+        }
+        #srchBox li
+        {
+            list-style-type:none;
+            display:inline;
+            zoom:1;
+            padding-right:10px;
+        }
+        #srchBox li input
+        {
+            zoom:1;
+            margin-right:2px;
+            _margin:-4px 0 -4px -4px;
+            vertical-align:middle;
+            border:0;
+        }
+        *:+html #srchBox li input
+        {
+            margin:-4px 0 -4px -4px;
+        }
+        #srchBox #srchLogo
+        {
+            margin:6px 6px 6px 0;
+            text-align:right;
+        }
+        #srchBox #srchLogo a
+        {
+            color:#666666;
+            text-decoration:none;
+            font-size:85%;
+        }
+        #srchBox #srchLogo a:hover
+        {
+            text-decoration:underline;
+        }
+        #srchBox.watermark
+        {
+            padding-bottom: 6px;
+        }
+        #srchBox.watermark #srchInput
+        {
+            padding:1px 1px 2px 1px;
+            border:1px solid #a5acb2;
+            background: #fff url(//i.yimg.jp/images/search/customsearch/yjlogo/yjlogo_type4.gif) center center no-repeat;
+        }
+        #srchBox.watermark #srchInput.nomark
+        {
+            background: #fff;
+        }
+        #srchBox.watermark #srchLogo
+        {
+            display: none;
+        }
+        /* iOSでのデフォルトスタイルをリセット */
+        input[type="submit"],
+        input[type="button"] {
+            border-radius: 0;
+            -webkit-box-sizing: content-box;
+            -webkit-appearance: button;
+            appearance: button;
+            border: none;
+            box-sizing: border-box;
+            cursor: pointer;
+        }
+        input[type="submit"]::-webkit-search-decoration,
+        input[type="button"]::-webkit-search-decoration {
+            display: none;
+        }
+        input[type="submit"]::focus,
+        input[type="button"]::focus {
+            outline-offset: -2px;
+        }
+        /* CSSカスタマイズ */
+        #srchBox #srchBtn {
+            background: #000;
+            color: #fff;
+            padding: 2px 0px;
+        }
+        #srchBox {
+            border: none ;
+            background-color: #eee;
+            height: 47px;
+        }
+        #srchBox.watermark {
+            padding-bottom: 0px;
+        }
+
+    </style>
+    <form action="/search/" method="get" id="srch">
+        <p id="srchForm">
+            <input type="text" name="p" id="srchInput"><input type="submit" value="検索" id="srchBtn" onclick="document.getElementById('srchInput').focus();">
+            <input type="hidden" id="fr" name="fr" value="cse">
+            <input type="hidden" id="ei" name="ei" value="UTF-8">
+            <input type="hidden" id="csid" name="csid" value="80bZGkJLH45Jk6MQcBXROx600wn46Zlb83kJSs_QVQ--">
+        </p>
+        <input type="hidden" name="vs" value="www.mensnonno.jp" id="yjInsite">
+    </form>
+    <img src="//custom.search.yahoo.co.jp/images/window/80bZGkJLH45Jk6MQcBXROx600wn46Zlb83kJSs_QVQ--.gif">
+</div>
+<script type="text/javascript">
+    (function() {
+        var sb = document.getElementById('srchBox');
+        if (sb && sb.className == 'watermark') {
+            var si = document.getElementById('srchInput');
+            var f = function() { si.className = 'nomark'; };
+            var b = function() {
+                if (si.value == '') {
+                    si.className = '';
+                }
+            };
+            si.onfocus = f;
+            si.onblur = b;
+            if (!/[&?]p=[^&]/.test(location.search)) {
+                b();
+            } else {
+                f();
+            }
+        }
+    })();
+</script>
+<!-- /#srchBox -->
+
+
+<script>
+    jQuery(function($){
+        var items = [{"title":"\u30d1\u30e9\u30b9\u30dd\uff0bPARA SPO PLUS|\u30b5\u30a4\u30c9\u30d0\u30ca\u30fc","link":"http:\/\/paraspoplus.com\/?cx_top=sidebanner","target":true,"img_pc":"https:\/\/www.mensnonno.jp\/wp-content\/uploads\/2018\/06\/paraspoplus300-100.jpg","id_pc":"paraspoplus-banner-pc","class_pc":"inview","img_sp":"https:\/\/www.mensnonno.jp\/wp-content\/uploads\/2018\/06\/paraspoplus-290-135.jpg","id_sp":"paraspoplus-banner-sp","class_sp":"inview","up":"false"},{"title":"\u30b3\u30ec\u30af\u30b7\u30e7\u30f3|\u30b5\u30a4\u30c9\u30d0\u30ca\u30fc","link":"https:\/\/www.mensnonno.jp\/collection\/?cx_top=sidebanner","target":false,"img_pc":"https:\/\/www.mensnonno.jp\/wp-content\/uploads\/2018\/11\/collection2019ss.jpg","id_pc":"","class_pc":"","img_sp":"https:\/\/www.mensnonno.jp\/wp-content\/uploads\/2018\/11\/collection2019ss290.jpg","id_sp":"","class_sp":"","up":"true"}];
+        var item = items[Math.floor(Math.random() * items.length)];
+        var li = $('ul#sidebar-banner').find('.random_1');
+        li.find('a').attr('href', item.link).find('img').attr('src', item.img_pc).attr('alt', item.title).attr('id', item.id_pc).attr('class', item.class_pc);
+        if (item.target) {
+            li.find('a').attr('target', '_blank').attr('rel', 'noopener');
+        } else {
+            li.find('a').removeAttr('target').removeAttr('rel');
+        }
+        if (item.class_pc === 'inview') {
+            var flg = {};
+            li.find('a').on({
+                'inview': function (event, isInView) {
+                    if (isInView) {
+                        var id = item.id_pc
+                        if (flg[id] !== true) {
+                            flg[id] = true;
+                            //gtm
+                            dataLayer = dataLayer || [];
+                            dataLayer.push({
+                                'adType': id,
+                                'event': 'adInview'
+                            });
+                        }
+                    }
+                }
+            });
+        }
+        if (item.up === 'true') {
+            li.addClass('up');
+        } else {
+            li.removeClass('up');
+        }
+    });
+    jQuery(function($){
+        var items = [{"title":"MAKING OF \uff22 of the month|\u30b5\u30a4\u30c9\u30d0\u30ca\u30fc","link":"\/special\/b-of-the-month\/?cx_top=sidebanner","target":false,"img_pc":"https:\/\/www.mensnonno.jp\/wp-content\/uploads\/2018\/05\/180514_pc_05.jpg","id_pc":"","class_pc":"","img_sp":"https:\/\/www.mensnonno.jp\/wp-content\/uploads\/2018\/05\/180514_sp_05.jpg","id_sp":"","class_sp":"","up":"false"},{"title":"\u30a2\u30a6\u30bf\u30fc\u8a3a\u65ad|\u30b5\u30a4\u30c9\u30d0\u30ca\u30fc","link":"https:\/\/www.mensnonno.jp\/special\/outer-shindan\/?cx_top=sidebanner","target":false,"img_pc":"https:\/\/www.mensnonno.jp\/wp-content\/uploads\/2018\/11\/300-100-banner-outer.jpg","id_pc":"","class_pc":"","img_sp":"https:\/\/www.mensnonno.jp\/wp-content\/uploads\/2018\/11\/290-135-banner-outer.jpg","id_sp":"","class_sp":"","up":"false"}];
+        var item = items[Math.floor(Math.random() * items.length)];
+        var li = $('ul#sidebar-banner').find('.random_2');
+        li.find('a').attr('href', item.link).find('img').attr('src', item.img_pc).attr('alt', item.title).attr('id', item.id_pc).attr('class', item.class_pc);
+        if (item.target) {
+            li.find('a').attr('target', '_blank').attr('rel', 'noopener');
+        } else {
+            li.find('a').removeAttr('target').removeAttr('rel');
+        }
+        if (item.class_pc === 'inview') {
+            var flg = {};
+            li.find('a').on({
+                'inview': function (event, isInView) {
+                    if (isInView) {
+                        var id = item.id_pc
+                        if (flg[id] !== true) {
+                            flg[id] = true;
+                            //gtm
+                            dataLayer = dataLayer || [];
+                            dataLayer.push({
+                                'adType': id,
+                                'event': 'adInview'
+                            });
+                        }
+                    }
+                }
+            });
+        }
+        if (item.up === 'true') {
+            li.addClass('up');
+        } else {
+            li.removeClass('up');
+        }
+    });
+</script>
+
+<ul id="sidebar-banner" class="banner">
+  <li><a href="https://www.mensnonno.jp/special/model-audition2018/?cx_top=sidebanner"><img src="https://www.mensnonno.jp/wp-content/uploads/2018/11/AD_-result-pc.jpg" alt="モデル募集|サイドバナー"></a></li>
+  <li><a href="https://www.mensnonno.jp/special/nakagawa-comic/?cx_top=sidebanner"><img src="https://www.mensnonno.jp/wp-content/uploads/2018/09/sidebana_pc_nakagawa02.jpg" alt="中川大輔マンガコーナー|サイドバナー"></a></li>
+  <li><a href="https://www.mensnonno.jp/special/sex-astrology/?cx_top=sidebanner"><img src="https://www.mensnonno.jp/wp-content/uploads/2018/11/sidebana_pc_msex.jpg" alt="男のセックス占い|サイドバナー"></a></li>
+  <li class="random_1"><a href="http://paraspoplus.com/?cx_top=sidebanner" target="_blank" rel="noopener"><img src="https://www.mensnonno.jp/wp-content/uploads/2018/06/paraspoplus300-100.jpg" alt="パラスポ＋PARA SPO PLUS|サイドバナー"></a></li>
+  <li class="random_2"><a href="/special/b-of-the-month/?cx_top=sidebanner"><img src="https://www.mensnonno.jp/wp-content/uploads/2018/05/180514_pc_05.jpg" alt="MAKING OF Ｂ of the month|サイドバナー"></a></li>
+  <li class="up"><a href="https://www.mensnonno.jp/special/mn-sneaker/?cx_top=sidebanner"><img src="https://www.mensnonno.jp/wp-content/uploads/2018/06/300-100-banner-mn-sneaker.jpg" alt="スニーカーNEWSコーナー|サイドバナー"></a></li>
+</ul>
+
+<div class="widget twitter">
+    <a class="twitter-timeline" href="https://twitter.com/MENSNONNOJP" data-widget-id="347651599868510208">@MENSNONNOJP からのツイート</a>
+</div>
+
+<div class="widget facebook">
+    <div class="fb-page" data-href="https://www.facebook.com/mensnonnojp" data-width="300" data-height="395" data-hide-cover="false" data-show-facepile="false" data-show-posts="true">
+        <div class="fb-xfbml-parse-ignore">
+            <blockquote cite="https://www.facebook.com/mensnonnojp"><a href="https://www.facebook.com/mensnonnojp">MEN&#039;S NON-NO</a></blockquote>
+        </div>
+    </div>
+</div>
+
+<ul class="banner">
+    <li>
+        <a href="/news/2015/10/23/21301/">
+            <img src="/resources/images/sidebar/banner/magazine.jpg?20180810" alt="集英社メンズマガジン会員">
+        </a>
+    </li>
+</ul>
+
+    <div class="widget alert">
+        メンズノンノ2月号 P62の記載に誤りがありました。シャツの情報は正しくは ￥155,000／ロエベ ジャパン カスタマーサービス です。訂正してお詫びいたします。    </div>
+
+<ul class="banner">
+    <li>
+        <a href="http://sportiva.shueisha.co.jp/" target="_blank">
+            <img src="/resources/images/sidebar/banner/sportiva_mensnonno.jpg" class="member" alt="WEB Sportiva">
+        </a>
+    </li>
+</ul>
+
+<!-- END Side bar -->
+      </aside>
+    </div>
+  </div>
+
+
+  <footer>
+    <h1 class="index">Footer Menu</h1>
+    <div class="container">
+      <nav class="footer">
+        <h1 class="index">Navigation Menu</h1>
+        <ul class="inline-block">
+          <a href="/"><li><h2>HOME</h2></li></a>
+          <a href="/news/?cx_pc-menu=news"><li><h2>NEWS</h2></li></a>
+          <a href="/model/?cx_pc-menu=model"><li><h2>MODEL</h2></li></a>
+          <a href="/365/?cx_pc-menu=365"><li><h2>365 STYLE</h2></li></a>
+          <a href="/blog/?cx_pc-menu=blog"><li><h2>BLOG</h2></li></a>
+          <a href="https://beauty.mensnonno.jp/?cx_pc-menu=from-mensnonno" target="_blank" rel="noopener"><li><h2>BEAUTY</h2></li></a>
+          <a href="/movie/?cx_pc-menu=movie"><li><h2>MOVIE</h2></li></a>
+          <a href="/instagram/?cx_pc-menu=instagram"><li><h2>INSTAGRAM</h2></li></a>
+          <a href="/collection/?cx_pc-menu=news"><li><h2>COLLECTION</h2></li></a>
+          <a href="/present/?cx_pc-menu=present"><li><h2>PRESENT</h2></li></a>
+          <a href="#header" class="pull-right"><li><h2><span class="glyphicon glyphicon-chevron-up"></span> PAGE TOP</h2></li></a>
+        </ul>
+      </nav>
+      <div class="link">
+        <ul class="inline-block">
+          <li><a href="https://www.mensnonno.jp/"><h2>MEN'S NON-NO WEB | メンズノンノ ウェブ</h2></a></li>
+          <li><a href="http://www.shueisha.co.jp/" target="_blank"><span class="glyphicon glyphicon-play"></span> 集英社WEB INFORMATION</a></li>
+          <li><a href="https://www2.shueisha.co.jp/privacy/privacy.html" target="_blank"><span class="glyphicon glyphicon-play"></span> 集英社の個人情報の取り扱いについて</a></li>
+          <li><a href="https://www.webuomo.jp/" target="_blank"><span class="glyphicon glyphicon-play"></span> WEBUOMO</a></li>
+        </ul>
+        <div class="text-right">©SHUEISHA, ALL RIGHTS RESERVED.</div>
+      </div>
+    </div>
+  </footer>
+  <script src="/resources/js/scroll.js" charset="utf-8" async="async"></script>
+    
+  <script type="text/javascript">
+    setTimeout(function(){var a=document.createElement("script");
+    var b=document.getElementsByTagName("script")[0];
+    a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0010/8973.js?"+Math.floor(new Date().getTime()/3600000);
+    a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+  </script>
+
+</body>
+</html>

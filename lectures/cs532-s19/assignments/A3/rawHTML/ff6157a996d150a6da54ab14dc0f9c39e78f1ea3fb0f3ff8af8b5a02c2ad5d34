@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+  <meta charset="utf-8" />
+  <!-- v15530 -->
+
+  <title>Submit a request &ndash; 2K Support</title>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="++3STmPIefcf03ZVVojzIAlTq0FAApVNjud8wNzmYU94EYq+x6nMGd5yCo7K1O3/nW39SmQ1gE+hIO3xYXly0Q==" />
+  <link href="https://support.2k.com/hc/en-us/requests/new" rel="canonical" />
+
+  <!-- Entypo pictograms by Daniel Bruce — www.entypo.com -->
+  <link rel="stylesheet" media="all" href="//static.zdassets.com/hc/assets/application-a02dee4125b91fec66c03c0a564857bf.css" id="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="//p14.zdassets.com/hc/theming_assets/70804/2965006/style.css?digest=360202721794" />
+
+  <link rel="shortcut icon" type="image/x-icon" href="//theme.zdassets.com/theme_assets/70804/70b58ef8d0672bc98bd8c7d8df0a6209961f7c76.ico" />
+
+  <!--[if lt IE 9]>
+  <script>
+    //Enable HTML5 elements for <IE9
+    'abbr article aside audio bdi canvas data datalist details dialog \
+    figcaption figure footer header hgroup main mark meter nav output \
+    progress section summary template time video'.replace(/\w+/g,function(n){document.createElement(n)});
+  </script>
+<![endif]-->
+
+  <script src="//static.zdassets.com/hc/assets/jquery-b60ddb79ff2563b75442a6bac88b00b5.js"></script>
+  <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-21150426-30', 'auto');
+ga('send', 'pageview');
+
+</script>
+
+  
+  
+
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport" />
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/2.0.3/fetch.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/native-promise-only/0.8.1/npo.js"></script>
+<script src="https://2ksupport.goquiq.com/app/webchat/index.js"></script>
+<script src="https://assets.zendesk.com/assets/apps/conditional_fields/latest/helpcenter.js"></script>
+<script src="https://assets.zendesk.com/assets/apps/conditional_fields/latest/helpcenter.js"></script>
+<style>
+  /* Fix for Chat/Directly harmony */
+
+.directly-rtm,
+.directly-rtm.is-minimized {
+              right: 100px !important;
+              z-index:0 !important;
+    }
+
+</style>
+
+<script>
+    (function(d, i, r, e, c, t, l, y) {
+        i[r] = i[r] || function () {
+            (i[r].cq = i[r].cq || []).push(arguments)
+        };
+        l = d.createElement("script");
+        l.id = "directlyRTMScript";
+        l.src = e;
+        l.async = 1;
+        y = d.head || d.getElementsByTagName("head")[0];
+        if (d.readyState === "complete" || d.readyState === "loaded" || d.readyState === "interactive") {
+            y.appendChild(l);
+        } else if (i.addEventListener) {
+            i.addEventListener("DOMContentLoaded", function() { y.appendChild(l); });
+        } else {
+            i.attachEvent("onload", function() { y.appendChild(l); });
+        }
+    })(document, window, "DirectlyRTM", "https://directly.com/widgets/rtm/embed.js");
+    DirectlyRTM("config", {
+        id: "2c9985ab66d6d2c20166ecba92836cd5"
+    });
+</script>
+<script>var cfaRules = [{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":46466,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":46476,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":51397,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":68873,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":69673,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":78657,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":78667,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":90867,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":106197,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":162288,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":170428,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":245268,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":248078,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":292667,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":316148,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":318528,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":584887,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"ps4","select":[56712068],"formId":732428,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":46466,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":46476,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":51397,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":68873,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":69673,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":78657,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":78667,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":90867,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":106197,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":162288,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":170428,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":245268,"requireds":[56379087]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":248078,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":292667,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":316148,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":318528,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":584887,"requireds":[]},{"fieldType":"tagger","field":529643,"value":"xbox_one","select":[56379087],"formId":732428,"requireds":[]}];</script>
+  <script type="text/javascript" src="//p14.zdassets.com/hc/theming_assets/70804/2965006/script.js?digest=360202721794"></script>
+</head>
+<body class="">
+  
+  
+
+
+  
+
+
+  <header class="header">
+  <div class="navbar-wrapper">
+    <div class="logo">
+      <a title="Home" href="/hc/en-us">
+        <img src="//theme.zdassets.com/theme_assets/70804/f680b4ef70f37bd81e57d8883cfd6b19b14593d1.png" alt="Logo">
+      	<span class="logo-text">Support</span>
+      </a>
+      <!--<a class="external-link" target="_blank" href="https://account.2k.com">Account</a>-->
+      <a class="external-link" target="_blank" href="https://forums.2k.com/">Forums</a>
+      <a class="external-link" target="_blank" href="https://www.2k.com/games/">Games</a>
+    </div>
+    <div class="nav-wrapper">
+      <span class="icon-menu"></span>
+      <nav class="user-nav" id="user-nav">
+        <a class="submit-a-request" href="/hc/en-us/requests/new">Submit a request</a>
+      </nav>
+        <a class="login" data-auth-action="signin" role="button" href="/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.2k.com%2Fhc%2Fen-us%2Frequests%2Fnew&amp;locale=en-us">Sign in</a>
+
+    </div>
+  </div>
+  <div class="search-wrapper">
+    <form role="search" class="search search-full" data-search="" data-instant="true" autocomplete="off" action="/hc/en-us/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" /><input type="search" name="query" id="query" placeholder="Search" autocomplete="off" aria-label="Search" /></form>
+  </div>
+</header>
+
+
+  <main role="main">
+    <script type="text/javascript" src="https://self-assist-widget.answeriq.com/scripts/sdkFile.js"></script>
+<script>
+var kbd = Kbd; kbd.init({
+apiKey: 'b2fcb384-31d3-4bb5-8a97-fa90c12b4b46' });
+</script>
+<div class="container-divider"></div>
+<div class="container">
+  <nav class="sub-nav">
+    <ol class="breadcrumbs">
+  
+    <li title="2K Support">
+      
+        <a href="/hc/en-us">2K Support</a>
+      
+    </li>
+  
+    <li title="Submit a request">
+      
+        Submit a request
+      
+    </li>
+  
+</ol>
+
+  </nav>
+
+  <h1>
+    Submit a request
+    
+  </h1>
+
+  <div class="form">
+    <form id="new_request" data-form="" data-form-type="request" class="request-form" action="/hc/en-us/requests" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="29Ugo7fw0w6znzHZylADhmIAIUp7UHTm8T7z5CjI42dYKXhTE5Fm4HI+TQJWDB1Z9j53QV9nYeTe+WLVlVfw+Q==" />
+
+
+
+  
+
+  <div class="form-field select optional request_ticket_form_id"><label for="request_issue_type_select">Which game do you need help with?</label>
+<select name="request[ticket_form_id]" id="request_issue_type_select" aria-label="Which game do you need help with?"><option data-url="https://support.2k.com/hc/en-us/requests/new" value="-">-</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=360000093933" value="360000093933">NBA 2K19</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=360000213754" value="360000213754">MyNBA2K19</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=360000110474" value="360000110474">WWE 2K19</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=360000276554" value="360000276554">NBA 2K Playgrounds 2</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=360000405693" value="360000405693">NBA 2K Mobile Basketball</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=584887" value="584887">NBA 2K18</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=360000489214" value="360000489214">Borderlands 2 VR</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=360000208813" value="360000208813">The Golf Club 2019</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=383248" value="383248">Civilization VI</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=732167" value="732167">MyNBA2K18</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=732428" value="732428">WWE 2K18</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=90867" value="90867">XCOM 2</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=292667" value="292667">Mafia III</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=90077" value="90077"> WWE SuperCard</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=777047" value="777047">NHL SuperCard 2K18</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=318528" value="318528">BioShock: The Collection</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=245268" value="245268">NBA 2K17</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=316148" value="316148">WWE 2K17</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=106197" value="106197">Battleborn</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=162288" value="162288">NBA 2K16</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=396828" value="396828">MyNBA2K17</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=46466" value="46466">Evolve</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=51397" value="51397">Borderlands: The Handsome Collection</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=46476" value="46476">Borderlands: The Pre-Sequel</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=78657" value="78657">Borderlands 2</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=78667" value="78667">Borderlands</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=69663" value="69663">Civilization: Beyond Earth</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=180668" value="180668">MyNBA2K16</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=389927" value="389927">NBA 2KVR</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=68873" value="68873">NBA 2K15</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=170428" value="170428">WWE 2K16</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=69673" value="69673">WWE 2K15</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=347147" value="347147">NHL SuperCard 2K17</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=103207" value="103207">NHL SuperCard</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=133248" value="133248">Sid Meier&#39;s Starships</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=336507" value="336507">Mafia III: Rivals</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=172457" value="172457">Battleborn Tap</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=358527" value="358527">Carnival Games VR</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=248078" value="248078">Tales From The Borderlands</option>
+<option data-url="https://support.2k.com/hc/en-us/requests/new?ticket_form_id=81258" value="81258">Another Game</option></select></div>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+</form>
+
+
+
+  </div>
+
+  <div id="quiq-widget"></div>
+</div>
+
+  </main>
+
+  <footer class="footer">
+  <div class="footer-inner">
+    <div class="footer-language-selector">
+      
+      <div class="dropdown language-selector" aria-haspopup="true">
+        <a class="dropdown-toggle">
+          English (US)
+        </a>
+        <span class="dropdown-menu dropdown-menu-end" role="menu">
+          
+          <a href="/hc/change_language/de?return_to=%2Fhc%2Fde%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            Deutsch
+          </a>
+          
+          <a href="/hc/change_language/es?return_to=%2Fhc%2Fes%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            Español
+          </a>
+          
+          <a href="/hc/change_language/fr?return_to=%2Fhc%2Ffr%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            Français
+          </a>
+          
+          <a href="/hc/change_language/it?return_to=%2Fhc%2Fit%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            Italiano
+          </a>
+          
+          <a href="/hc/change_language/ja?return_to=%2Fhc%2Fja%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            日本語
+          </a>
+          
+          <a href="/hc/change_language/ko?return_to=%2Fhc%2Fko%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            한국어
+          </a>
+          
+          <a href="/hc/change_language/nl?return_to=%2Fhc%2Fnl%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            Nederlands
+          </a>
+          
+          <a href="/hc/change_language/pl?return_to=%2Fhc%2Fpl%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            Polski
+          </a>
+          
+          <a href="/hc/change_language/pt-br?return_to=%2Fhc%2Fpt-br%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            Português do Brasil
+          </a>
+          
+          <a href="/hc/change_language/ru?return_to=%2Fhc%2Fru%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            Русский
+          </a>
+          
+          <a href="/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw%2Frequests%2Fnew" dir="ltr" rel="nofollow" role="menuitem">
+            繁體中文
+          </a>
+          
+        </span>
+      </div>
+      
+    </div>
+  </div>
+  <div class="footer-inner">
+    
+    
+    <div class="legal-links">
+      <a target="_blank" href="http://www.take2games.com/privacy">Privacy Policy</a>
+      <a target="_blank" href="http://www.take2games.com/legal">Terms of Service</a>
+      <a target="_blank" href="https://www.take2games.com/cookiepolicy/">Cookie Policy</a>
+    </div>
+    
+    <small class="copyright">Copyright ©2017 Take-Two Interactive Software, Inc
+Trademarks belong to their respective owners.
+All rights reserved.</small>    
+  </div>
+</footer>
+
+
+    <div class="powered-by-zendesk">
+  <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" focusable="false" viewBox="0 0 26 26">
+    <path d="M12 8.2v14.5H0zM12 3c0 3.3-2.7 6-6 6S0 6.3 0 3h12zm2 19.7c0-3.3 2.7-6 6-6s6 2.7 6 6H14zm0-5.2V3h12z"/>
+  </svg>
+
+  <a href="https://www.zendesk.com/help-center/?utm_source=helpcenter&utm_medium=poweredbyzendesk&utm_campaign=text&utm_content=2K%20Support" target="_blank" >Powered by Zendesk</a>
+</div>
+
+
+  <!-- / -->
+
+  <script type="text/javascript" src="//static.zdassets.com/hc/assets/locales/en-us-3187ace6f2a1038a0cf6ed1c41a12d68.js"></script>
+  <script src="https://2ksupport.zendesk.com/auth/v2/host.js" data-brand-id="2965006" data-return-to="https://support.2k.com/hc/en-us/requests/new" data-theme="hc" data-locale="en-us" data-auth-origin="2965006,true,true"></script>
+  <script type="text/javascript" src="https://p14.zdassets.com/assets/zendesk_pci_hc.v4.js"></script>
+
+  <script type="text/javascript">
+  /*
+
+    Greetings sourcecode lurker!
+
+    This is for internal Zendesk and legacy usage,
+    we don't support or guarantee any of these values
+    so please don't build stuff on top of them.
+
+  */
+
+  HelpCenter = {};
+  HelpCenter.account = {"subdomain":"2ksupport","environment":"production","name":"2K Support"};
+  HelpCenter.user = {"identifier":"da39a3ee5e6b4b0d3255bfef95601890afd80709","email":null,"name":null,"role":"anonymous","avatar_url":"https://assets.zendesk.com/hc/assets/default_avatar.png","is_admin":false,"organizations":[],"groups":[]};
+  HelpCenter.internal = {"asset_url":"//static.zdassets.com/hc/assets/","web_widget_asset_composer_url":"https://static.zdassets.com/ekr/snippet.js","current_session":{"locale":"en-us","csrf_token":"yCBVDiN0nvU0lWYsvpCGgL7Zv9krFxy0rm+GyBLVCyJL3A3+hxUrG/U0GvcizJhfKufp0g8gCbaBqBf5r0oYvA==","shared_csrf_token":null},"settings":{"zopim_enabled":false,"spam_filter_enabled":false},"current_record_id":null,"current_record_url":null,"current_record_title":null,"search_results_count":null,"current_text_direction":"ltr","current_brand_url":"https://2ksupport.zendesk.com","current_host_mapping":"support.2k.com","current_path":"/hc/en-us/requests/new","authentication_domain":"https://2ksupport.zendesk.com","show_autocomplete_breadcrumbs":true,"rollbar_config":{"enabled":true,"endpoint":"https://rollbar-us.zendesk.com/api/1/item/","accessToken":"731a5a953e9a4b7ab6cac9623f50c732","captureUncaught":true,"captureUnhandledRejections":true,"payload":{"environment":"production","client":{"javascript":{"source_map_enabled":true,"code_version":"b9e08c5afdc972908f2b61b941b2b7db310b717f","guess_uncaught_frames":true}}}},"user_info_changing_enabled":false,"has_user_profiles_enabled":false,"has_anonymous_kb_voting":false,"has_professional_upsell":false,"has_multi_language_help_center":true,"mobile_device":false,"mobile_site_enabled":false,"show_at_mentions":false,"has_copied_content":true,"embeddables_config":{"embeddables_web_widget":false,"embeddables_connect_ipms":false},"base_domain":"zendesk.com","answer_bot_subdomain":"static","plans_url":"https://support.2k.com/hc/admin/plan?locale=en-us","manage_content_url":"https://support.2k.com/hc/en-us","arrange_content_url":"https://support.2k.com/hc/admin/arrange_contents?locale=en-us","general_settings_url":"https://support.2k.com/hc/admin/general_settings?locale=en-us","user_segments_url":"https://2ksupport.zendesk.com/knowledge/user_segments?brand_id=2965006","import_articles_url":"https://support.2k.com/hc/admin/import_articles?locale=en-us","has_community_enabled":false,"has_internal_sections":true,"has_answer_bot_web_form_enabled":false,"billing_url":"/access/return_to?return_to=https://2ksupport.zendesk.com/agent/admin/subscription","has_answer_bot":true,"has_block_answer_bot_embeddable":false,"answer_bot_management_url":"https://support.2k.com/hc/admin/answer_bot?locale=en-us","is_account_owner":false,"has_theming_templates":true,"theming_center_url":"https://support.2k.com/theming","theming_cookie_key":"hc-da39a3ee5e6b4b0d3255bfef95601890afd80709-preview","is_preview":false,"has_guide_user_segments_search":true,"has_alternate_templates":false,"has_guide_arrange_articles":true,"arrange_articles_url":"https://2ksupport.zendesk.com/knowledge/arrange?brand_id=2965006","article_verification_url":"https://2ksupport.zendesk.com/knowledge/verification?brand_id=2965006","has_article_verification":false,"has_guide_language_settings":false,"guide_language_settings_url":"https://support.2k.com/hc/admin/language_settings?locale=en-us","has_requests_filter_cleanup":true};
+</script>
+
+  <script src="//static.zdassets.com/hc/assets/hc_enduser-f5bfb1852b1b7d1b8370988be7efb279.js"></script>
+
+  <script type="text/javascript">
+    (function() {
+  var Tracker = {};
+
+  Tracker.track = function(eventName, data) {
+    var url = "https://support.2k.com/hc/tracking/events?locale=en-us";
+
+    var payload = {
+      "event": eventName,
+      "data": data,
+      "referrer": document.referrer
+    };
+
+    var xhr = new XMLHttpRequest();
+
+    xhr.open("POST", url, true);
+    xhr.setRequestHeader("Content-Type", "application/json; charset=UTF-8");
+    xhr.send(JSON.stringify(payload));
+  };
+
+    Tracker.track("submit_request_form_viewed", "BAh7BzoVcGFyZW50X3RpY2tldF9pZDA6Cl9tZXRhews6D2FjY291bnRfaWRpA5QUAToTaGVscF9jZW50ZXJfaWRpAiIROg1icmFuZF9pZGkDDj4tOgx1c2VyX2lkMDoOdXNlcl9yb2xlSSIOYW5vbnltb3VzBjoGRVQ6C2xvY2FsZUkiCmVuLXVzBjsMVA==--5ab3b287525bdba960a5ecb2c4b04e4373b1e266");
+})();
+
+  </script>
+</body>
+</html>

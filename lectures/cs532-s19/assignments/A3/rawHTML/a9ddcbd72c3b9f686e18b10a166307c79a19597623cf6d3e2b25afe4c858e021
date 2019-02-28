@@ -1,0 +1,737 @@
+
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr-FR" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" >
+
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>A Montchanin et dans le cadre du Grand Débat National (Politique) &laquo;  Montceau News | L'information de Montceau les Mines et sa region </title>
+
+	<!--<link rel="stylesheet" href="http://montceau-news.com/wp-content/themes/montceaunews/style.css" type="text/css" media="screen" />-->
+	<link rel="stylesheet" href="http://montceau-news.com/wp-content/themes/montceaunews/style.css?1538980777" type="text/css" media="screen" />
+	<link rel="stylesheet" type="text/css" href="http://montceau-news.com/wp-content/themes/montceaunews/custom.css" media="screen" />
+	<link rel="pingback" href="http://montceau-news.com/xmlrpc.php" />
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="http://montceau-news.com/wp-content/themes/montceaunews/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://montceau-news.com/wp-content/themes/montceaunews/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="http://montceau-news.com/wp-content/themes/montceaunews/favicon-16x16.png">
+<link rel="manifest" href="http://montceau-news.com/wp-content/themes/montceaunews/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+
+<script type="text/javascript" async=true >
+    var elem = document.createElement('script');
+    elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    (function() {
+    var gdprAppliesGlobally = false;
+    function addFrame() {
+        if (!window.frames['__cmpLocator']) {
+        if (document.body) {
+            var body = document.body,
+                iframe = document.createElement('iframe');
+            iframe.style = 'display:none';
+            iframe.name = '__cmpLocator';
+            body.appendChild(iframe);
+        } else {
+            setTimeout(addFrame, 5);
+        }
+        }
+    }
+    addFrame();
+    function cmpMsgHandler(event) {
+        var msgIsString = typeof event.data === "string";
+        var json;
+        if(msgIsString) {
+        json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+        } else {
+        json = event.data;
+        }
+        if (json.__cmpCall) {
+        var i = json.__cmpCall;
+        window.__cmp(i.command, i.parameter, function(retValue, success) {
+            var returnMsg = {"__cmpReturn": {
+            "returnValue": retValue,
+            "success": success,
+            "callId": i.callId
+            }};
+            event.source.postMessage(msgIsString ?
+            JSON.stringify(returnMsg) : returnMsg, '*');
+        });
+        }
+    }
+    window.__cmp = function (c) {
+        var b = arguments;
+        if (!b.length) {
+        return __cmp.a;
+        }
+        else if (b[0] === 'ping') {
+        b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
+            "cmpLoaded": false}, true);
+        } else if (c == '__cmp')
+        return false;
+        else {
+        if (typeof __cmp.a === 'undefined') {
+            __cmp.a = [];
+        }
+        __cmp.a.push([].slice.apply(b));
+        }
+    }
+    window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+    window.__cmp.msgHandler = cmpMsgHandler;
+    if (window.addEventListener) {
+        window.addEventListener('message', cmpMsgHandler, false);
+    }
+    else {
+        window.attachEvent('onmessage', cmpMsgHandler);
+    }
+    })();
+    window.__cmp('init', {
+    		'Language': 'fr',
+		'Initial Screen Body Text Option': 1,
+		'Publisher Name': 'Moneytizer',
+		'Default Value for Toggles': 'on',
+		'UI Layout': 'banner',
+		'No Option': false,
+    });
+</script>
+    <style>
+        .qc-cmp-button,
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            background-color: #000000 !important;
+            border-color: #000000 !important;
+        }
+        .qc-cmp-button:hover,
+        .qc-cmp-button.qc-cmp-secondary-button {
+            background-color: transparent !important;
+            border-color: #000000 !important;
+        }
+        .qc-cmp-alt-action,
+        .qc-cmp-link {
+            color: #000000 !important;
+        }
+        .qc-cmp-button,
+        .qc-cmp-button.qc-cmp-secondary-button:hover {
+            color: #ffffff !important;
+        }
+        .qc-cmp-button:hover,
+        .qc-cmp-button.qc-cmp-secondary-button {
+            color: #000000 !important;
+        }
+        .qc-cmp-small-toggle,
+        .qc-cmp-toggle {
+            background-color: #000000 !important;
+            border-color: #000000 !important;
+        }
+        .qc-cmp-main-messaging,
+		.qc-cmp-messaging,
+		.qc-cmp-sub-title,
+		.qc-cmp-privacy-settings-title,
+		.qc-cmp-purpose-list,
+		.qc-cmp-tab,
+		.qc-cmp-title,
+		.qc-cmp-vendor-list,
+		.qc-cmp-vendor-list-title,
+		.qc-cmp-enabled-cell,
+		.qc-cmp-toggle-status,
+		.qc-cmp-table,
+		.qc-cmp-table-header {
+    		color: #000000 !important;
+		}
+       	
+        .qc-cmp-ui {
+  			background-color: #ffffff !important;
+		}
+
+		.qc-cmp-table,
+		.qc-cmp-table-row {
+			  border: 1px solid !important;
+			  border-color: #000000 !important;
+		} 
+    #qcCmpButtons a {
+            text-decoration: none !important;
+
+    }
+    
+    #qcCmpButtons button {
+        margin-top: 65px;
+    }
+    
+    
+  @media screen and (min-width: 851px) {
+    #qcCmpButtons a {
+            position: absolute;
+            bottom: 10%;
+            left: 60px;
+    }
+  }
+  .qc-cmp-qc-link-container{
+    display:none;
+  }
+    </style>
+
+	
+<script type="text/javascript">
+sas_tmstp=Math.round(Math.random()*10000000000);sas_masterflag=1;
+function SmartAdServer(sas_pageid,sas_formatid,sas_target) {
+ if (sas_masterflag==1) {sas_masterflag=0;sas_master='M';} else {sas_master='S';};
+ document.write('<scr'+'ipt src="http://www.smartadserver.com/call/pubj/' + sas_pageid + '/' + sas_formatid + '/' + sas_master + '/' + sas_tmstp + '/' + escape(sas_target) + '?"></scr'+'ipt>');
+}
+</script>
+	 
+
+	<link rel="alternate" type="application/rss+xml" title="Montceau News &raquo; Flux" href="http://montceau-news.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Montceau News &raquo; Flux des commentaires" href="http://montceau-news.com/comments/feed" />
+<link rel="alternate" type="application/rss+xml" title="Montceau News &raquo; A Montchanin et dans le cadre du Grand Débat National (Politique) Flux des commentaires" href="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/montceau-news.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.17"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://montceau-news.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='http://montceau-news.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.8' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://montceau-news.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+
+</style>
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://montceau-news.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.4.17' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='http://montceau-news.com/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=4.4.17' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://montceau-news.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://montceau-news.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://montceau-news.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel='https://api.w.org/' href='http://montceau-news.com/wp-json/' />
+<link rel='prev' title='Question d&rsquo;ordre budgétaire au conseil municipal de Montceau' href='http://montceau-news.com/montceau_et_sa_region/520487-question-dordre-budgetaire-au-conseil-municipal-de-montceau.html' />
+<link rel='next' title='C.S.Sanvignes (Foot)' href='http://montceau-news.com/montceau_et_sa_region/sanvignes/520542-c-s-sanvignes-foot-157.html' />
+<link rel="canonical" href="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html" />
+<link rel='shortlink' href='http://wp.me/p9uro7-2bpH' />
+<link rel="alternate" type="application/json+oembed" href="http://montceau-news.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmontceau-news.com%2Fpolitique%2F520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html" />
+<link rel="alternate" type="text/xml+oembed" href="http://montceau-news.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmontceau-news.com%2Fpolitique%2F520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<style type='text/css'>img#wpstats{display:none}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="A Montchanin et dans le cadre du Grand Débat National (Politique)" />
+<meta property="og:url" content="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html" />
+<meta property="og:description" content="Voir l&rsquo;article pour en savoir plus." />
+<meta property="article:published_time" content="2019-02-15T02:00:36+00:00" />
+<meta property="article:modified_time" content="2019-02-14T17:54:50+00:00" />
+<meta property="og:site_name" content="Montceau News" />
+<meta property="og:image" content="http://montceau-news.com/imagesPost/2018/07/gauvin-1307182.png" />
+<meta property="og:image:secure_url" content="https://i2.wp.com/montceau-news.com/imagesPost/2018/07/gauvin-1307182.png" />
+<meta property="og:locale" content="fr_FR" />
+<meta name="twitter:image" content="http://montceau-news.com/imagesPost/2018/07/gauvin-1307182.png?w=1400" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Voir l&rsquo;article pour en savoir plus." />
+<script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.1.5"; } if (window.wp_blog_version === undefined) { window.wp_blog_version = "4.4.17"; } if (window.addthis_share === undefined) { window.addthis_share = {"passthrough":{"twitter":{"via":"MontceauNews"}}}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_atversion":300}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = [{"sharetoolbox":{"numPreferredServices":5,"thirdPartyButtons":true,"services":"facebook_like,tweet,google_plusone,counter","elements":".addthis_inline_share_toolbox_below,.at-below-post-arch-page,.at-below-post-cat-page,.at-below-post,.at-below-post-homepage"}}]; } else { window.addthis_layers_tools.push({"sharetoolbox":{"numPreferredServices":5,"thirdPartyButtons":true,"services":"facebook_like,tweet,google_plusone,counter","elements":".addthis_inline_share_toolbox_below,.at-below-post-arch-page,.at-below-post-cat-page,.at-below-post,.at-below-post-homepage"}});  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.1.5","plugin_mode":"WordPress","anonymous_profile_id":"wp-a8ed02fb8bcb2642ea1296f7ca7ea781","page_info":{"template":"posts","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript"src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=wp-a8ed02fb8bcb2642ea1296f7ca7ea781" async="async"></script>	
+
+    
+    	<!--[if IE 6]>
+    <link rel="stylesheet" href="/style_ie6.css" type="text/css" media="screen" />
+    <![endif]-->
+</head>
+
+<body class="single single-post postid-520533 single-format-standard">
+    
+    <div id="pre-header" style="">
+    	<div id="header_top">
+            <div id="wblock">
+                <p class="h2">Autres journaux :</p>
+                <select name="site" id="site_selector" onchange="changeSite(this.value)">
+                	<option>Selectionnez un site ...</option>
+                	<option value="http://charolais-news.com">Charolais News</option>
+					<option value="http://macon-news.com">Macon News</option>
+                    <option value="http://saone-et-loire-news.com">Sa�ne et Loire News</option>					
+                </select>
+            </div>
+            <div id="search_block">
+                <form method="get" id="searchform" action="http://montceau-news.com/">
+	<div>
+		<label class="hidden h2" for="s">Rechercher  :</label><br />
+        <input type="text" value="" name="s" id="s" />
+		<input type="submit" id="searchsubmit" value="" class="but_submit" />
+	</div>
+</form>            </div>
+            <a href="/"><img src="/images/logo_mn.png" alt="" /></a>
+            
+        </div>
+        
+        <div id="menu_list">
+			<ul id="cat_parent">
+            <li><a href="/"><img src="/images/icon_home.jpg" alt="" class="logo_menu" /></a></li>
+				<li class="cat-item cat-item-7"><a href="http://montceau-news.com/category/faits_divers" >Faits-divers</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://montceau-news.com/category/economie" >Economie</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://montceau-news.com/category/politique" >Politique</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://montceau-news.com/category/sante" >Santé</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://montceau-news.com/category/culture" >Culture</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://montceau-news.com/category/enseignement" >Enseignement</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://montceau-news.com/category/environnement" >Environnement</a>
+</li>
+	<li class="cat-item cat-item-84525"><a href="http://montceau-news.com/category/patrimoine-tourisme" >Tourisme</a>
+</li>
+	<li class="cat-item cat-item-116744"><a href="http://montceau-news.com/category/immobilier" >Immobilier</a>
+</li>
+ 
+            </ul>
+           <ul id="cat_parent_2">
+			 
+	<li class="cat-item cat-item-55"><a href="http://montceau-news.com/category/etat_civil/naissances" title="Voir tous les articles classes dans ETAT CIVIL">Etat civil</a>
+</li>
+	
+	<li class="cat-item cat-item-6063"><a href="http://montceau-news.com/category/sortir" title="Voir tous les articles class�s dans sortir">sortir</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://montceau-news.com/category/social" title="Voir tous les articles class�s dans Social">Social</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://montceau-news.com/category/agriculture" title="Voir tous les articles class�s dans Agriculture">Agriculture</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://montceau-news.com/category/montceau_et_sa_region" title="Voir tous les articles class�s dans Montceau et sa r�gion">Montceau et sa region</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://montceau-news.com/category/sports" title="Voir tous les articles class�s dans Sports">Sports</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="http://montceau-news.com/category/la_communaute" title="Voir tous les articles class�s dans La Communaut�">La Communaute</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://montceau-news.com/category/saone_et_loire" title="Voir tous les articles class�s dans Sa�ne et Loire">Saone et Loire</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://montceau-news.com/category/bourgogne" title="Voir tous les articles class�s dans Bourgogne">Bourgogne</a>
+</li>
+  
+            </ul>
+                    </div>
+        
+        
+    </div>
+    
+    <div id="firstChild">
+    <!-- FRED PUB LECLERC -->
+    <!--<div id="banniere-left" style="float:left;margin-top:53px;width:180px;"><img src="http://montceau-news.com/images/LECLERC/leclerc-25ans-left.png" alt="25 ans leclerc -25%"></div>-->
+    <div id="banniere-haut" style="width:900px;margin:0 auto;">    
+    <!--<div style="width:970px; text-align:center; margin:auto;">-->
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- grand bandeau -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-6891456660834575"
+     data-ad-slot="5133214484"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+        </div>
+    
+    <!-- <img src="/images/top_shadow.png" alt="" id="topshadow" />	 -->
+    </div>
+    <br clear="both"/><!-- AVEC CA -->
+    <div id="bg" style="background-color:#fff;">
+  
+	<div id="page">
+    	
+		
+        
+        	
+ 
+<div id="content" class="widecolumn">
+
+	
+	
+    
+    <script type="text/javascript">
+		jQuery('.cat-item-' + 84336).addClass('current-cat');
+					jQuery('.cat-item-' + 20).addClass('current-cat');
+		    </script>
+    
+
+		
+		
+		<div  id="post-520533" class="post">
+			<span class="date_post">vendredi 15 février 2019 à 03:00</span>
+				<h2><a href="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html" rel="bookmark" title="Lien permanent vers A Montchanin et dans le cadre du Grand Débat National (Politique)">A Montchanin et dans le cadre du Grand Débat National (Politique)</a></h2>
+				<h3 style="text-align:center; font-weight:bold; font-size:24pt;color:#;"></h3>
+				<h3 style="color:#;">Débat sur questions d’organisation de l’Etat et des services publics : Vendredi 15 février</h3>
+                <br /><br />
+			<div class="entry entrysingle">
+				<div class="at-above-post addthis_tool" data-url="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html"></div><p><span style="font-size: 12pt;"><span id="more-520533"></span></span></p>
+<p><span style="font-size: 12pt;"><div class="pub-deb-article" style="float:left;width:340px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- petit pave 336x280 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-6891456660834575"
+     data-ad-slot="1760945685"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></script></div> </span><br /><span style="font-size: 12pt;"><script type="text/javascript" class="teads" async="true" src="//a.teads.tv/page/83742/tag"></script> </span><br /><span style="font-size: 12pt;"><script type='text/javascript'>
+    window._seedtagq = window._seedtagq || [];
+    window._seedtagq.push(['_setId', '6794-8488-01']);
+    (function () {
+      var st = document.createElement('script');
+      st.type = 'text/javascript';
+      st.async = true;
+      st.src = ('https:' == document.location.protocol
+        ? 'https'
+        : 'http') + '://config.seedtag.com/loader.js?v=' + Math.random();
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(st, s);
+    })();
+    </script></span><br /><span style="font-size: 12pt;"></span></p>
+<p><span style="font-size: 12pt;">Raphaël Gauvain, député de Saône-et-Loire, organise dans le cadre du Grand Débat </span><span style="font-size: 12pt;">National, un débat sur les questions d’organisation de l’Etat et des services publics :</span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong><span style="font-size: 12pt;">Vendredi 15 février</span></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><strong><span style="font-size: 12pt;">18h30</span></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><strong><span style="font-size: 12pt;">Le Moderne – 102 avenue de la République 71210 Montchanin</span></strong></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><img src="http://montceau-news.com/imagesPost/2018/07/gauvin-1307182.png" alt="gauvin 1307182" /></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><div id="ead_native"><script type="text/javascript" id="quantx-embed-tag" src="//cdn.elasticad.net/native/serve/js/quantx/nativeEmbed.gz.js"></script></div><br/><div class="outbrain-tm" id="11122-16"><script src="//ads.themoneytizer.com/s/gen.js?type=16"></script><script src="//ads.themoneytizer.com/s/requestform.js?siteId=11122&formatId=16" ></script></div></p>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post addthis_tool" data-url="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html"></div><!-- AddThis Share Buttons generic via filter on the_content -->								 
+                <br /><br />
+                				<!-- <p class="postmetadata alt">
+					<small>
+													Vous pouvez  <a href="#respond">laisser un commentaire</a>, ou <a href="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html/trackback" rel="trackback">faire un trackback</a> depuis votre propre site.
+											</small>				
+				</p>-->
+			</div>
+		</div>
+        <img src="/images/hr.jpg" alt="" class="hr" />
+        <div class="comments">
+        <div class="floatRight"></div>
+		
+<!-- You can start editing here. -->
+
+<div id="respond">
+
+<h3>Laisser un commentaire</h3>
+
+<div class="cancel-comment-reply">
+	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html#respond" style="display:none;">Cliquez ici pour annuler la réponse.</a></small>
+</div>
+
+<p>Vous devez être connecté pour publier un commentaire.</p><br />
+<h3><a class="registeron" href="http://montceau-news.com/wp-login.php?redirect_to=http%3A%2F%2Fmontceau-news.com%2Fpolitique%2F520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html">&raquo; Se connecter / S'enregistrer</a> </h3>
+</div>
+
+
+<br /><br /><br />
+
+
+<div id="commentlist_contener">
+	<h3>4 commentaires sur &#8220;A Montchanin et dans le cadre du Grand Débat National (Politique)&#8221;</h3>
+
+
+
+	<ol class="commentlist">
+				<li class="comment byuser comment-author-lamerdelpo even thread-even depth-1 parent" id="comment-111690">
+				<div id="div-comment-111690" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">lamerdelpo</cite> <span class="says">dit&nbsp;:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html#comment-111690">
+			15 février 2019 à 9 h 22 min</a>		</div>
+
+		<p>Mais l’homme de retour.<br />
+Vous allez en faire quoi de votre Débat.<br />
+Feriez mieux de rester dans votre&#8230;</p>
+
+		<div class="reply"><a rel="nofollow" class="comment-reply-login" href="http://montceau-news.com/wp-login.php?redirect_to=http%3A%2F%2Fmontceau-news.com%2Fpolitique%2F520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html">Connectez-vous pour répondre</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment byuser comment-author-pascal odd alt depth-2" id="comment-111691">
+				<div id="div-comment-111691" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">LibEgFra</cite> <span class="says">dit&nbsp;:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html#comment-111691">
+			15 février 2019 à 9 h 43 min</a>		</div>
+
+		<p>Au lieu de critiquer ,allez donc participer car il n&rsquo;y a qu&rsquo;avec le grand Débat que les Français obtiendront quelque chose.</p>
+
+		<div class="reply"><a rel="nofollow" class="comment-reply-login" href="http://montceau-news.com/wp-login.php?redirect_to=http%3A%2F%2Fmontceau-news.com%2Fpolitique%2F520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html">Connectez-vous pour répondre</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		<li class="comment byuser comment-author-ravellechapuisthierry even thread-odd thread-alt depth-1 parent" id="comment-111711">
+				<div id="div-comment-111711" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">doudou71</cite> <span class="says">dit&nbsp;:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html#comment-111711">
+			16 février 2019 à 15 h 36 min</a>		</div>
+
+		<p>LIBEGFra, quel fayot que vous êtes, si tout le monde est comme vous, ont va être mangé</p>
+
+		<div class="reply"><a rel="nofollow" class="comment-reply-login" href="http://montceau-news.com/wp-login.php?redirect_to=http%3A%2F%2Fmontceau-news.com%2Fpolitique%2F520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html">Connectez-vous pour répondre</a></div>
+				</div>
+		<ul class="children">
+		<li class="comment byuser comment-author-pascal odd alt depth-2" id="comment-111736">
+				<div id="div-comment-111736" class="comment-body">
+				<div class="comment-author vcard">
+						<cite class="fn">LibEgFra</cite> <span class="says">dit&nbsp;:</span>		</div>
+		
+		<div class="comment-meta commentmetadata"><a href="http://montceau-news.com/politique/520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html#comment-111736">
+			18 février 2019 à 23 h 41 min</a>		</div>
+
+		<p>Quel grande phrase pour ne rien dire ; je ne suis pas LREM mais j&rsquo;ouvre les yeux et j&rsquo;écoute.<br />
+Il est grand temps que vous déclariez ce que les Gilets Jaunes veulent car aujourd&rsquo;hui c&rsquo;est une grande nébuleuse .<br />
+Votre pourcentage est de plus en plus ridicule (41000/67000000=0.0006 soit 6 français sur 10000 . il va falloir penser à arrêter D&rsquo;autant que plus de la moitié des Français souhaitent que vos exactions s&rsquo;arrêtent.ON a bien vu qu&rsquo;à LYON ceux qui balançaient des pavés sur le véhicule de la Police avaient un Gilet Jaune.Vrais ou faux Gilets Jaunes ; si vous arrêtiez de défiler pour rien ,il n&rsquo;y aurait plus de blessés.</p>
+
+		<div class="reply"><a rel="nofollow" class="comment-reply-login" href="http://montceau-news.com/wp-login.php?redirect_to=http%3A%2F%2Fmontceau-news.com%2Fpolitique%2F520533-a-montchanin-et-dans-le-cadre-du-grand-debat-national-politique.html">Connectez-vous pour répondre</a></div>
+				</div>
+		</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	</ol>
+
+ 
+
+
+</div>
+<br /><br />
+		</div>
+        
+	</div>
+<div id="sidebar" style="background-color:#fff;">
+	<p class="lista">
+        <h3>Retrouvez nous aussi sur :</h3>
+		<a href="/ecrivez-nous"><img src="/images/montceau-news-icone-email.png" alt="contactez-nous" style="width:40px;padding:5px;"/></a>
+       	<a href="http://twitter.com/#!/MontceauNews"><img src="/images/montceau-news-icone-twitter.png" alt="Twitter" style="width:40px;padding:5px;" /></a>
+        <a href="https://www.facebook.com/MontceauNewsOfficiel"><img src="/images/montceau-news-icone-facebook.png" alt="Facebook" style="width:40px;padding:5px;" /></a>
+        <a href="http://montceau-news.com/feed"><img src="/images/montceau-news-icone-rss.png" alt="RSS" style="width:40px;padding:5px;" /></a>
+    </p>
+    <a href="http://montceau-news.com/montceau_et_sa_region/431834-a-nos-lecteurs-29.html" style="border:0;"><img src="/images/contact-email-montceau-news.gif" alt="contactez Montceau-news"/></a>
+    <br />
+	<div id="nbviews">Page vue 177298662  fois</div>
+	
+    	
+    <div class="sidebar_pubs">
+        	<!--  -->    	    	</div>
+    
+		<div id="sidebar_poll">   
+       <h2>Sondage</h2>
+       <ul>
+          <li><div id="polls-110" class="wp-polls">
+	<form id="polls_form_110" class="wp-polls-form" action="/index.php" method="post">
+		<p style="display: none;"><input type="hidden" id="poll_110_nonce" name="wp-polls-nonce" value="13addbb686" /></p>
+		<p style="display: none;"><input type="hidden" name="poll_id" value="110" /></p>
+		<p style="text-align: center;"><strong>1 mois et demi après led but du mouvement des gilets jaunes vous êtes toujours</strong></p><div id="polls-110-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-301" name="poll_110" value="301" /> <label for="poll-answer-301">Pour</label></li>
+		<li><input type="radio" id="poll-answer-302" name="poll_110" value="302" /> <label for="poll-answer-302">Contre</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(110);" /></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(110); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-110-loading" class="wp-polls-loading"><img src="http://montceau-news.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image" />&nbsp;Loading ...</div>
+</li>
+       </ul>
+       <ul><li><a href="http://validation.charollais-news.com/pollsarchive">Polls Archive</a></li></ul>    </div>
+     
+	
+    <div class="sidebar_pubs">
+        	<!--  -->                  
+    </div>
+    
+	
+	
+   
+</div>
+ 
+
+
+
+		<div id="footer">
+	
+
+			<p>
+
+				Montceau-news.com &copy; 2012 - Toute reproduction partielle ou totale est interdite<br />
+
+                SARL de Presse - SIRET : 49524437800016<br />
+
+                <a href="/mentions-legales">Mentions Légales</a> - <a href="/mentions-legales">Conditions Générales d'Utilisation</a><br />
+
+                <a href="mailto:pascalberthier@montceau-news.com"><strong>Régie publicitaire</strong> : 06.70.17.21.49</a><br />
+
+                <br /><br />
+
+			</p>
+
+		</div>
+
+	</div>
+
+    
+
+   <script type="text/javascript">
+
+		jQuery(document).ready(function($){
+
+			if( $('#sidebar').height() > 0 ){
+
+				var hc = $('#content').height()+200; 
+
+				var hsb = $('#sidebar').height()+200; 
+
+				if( hsb > 500 ){
+
+					if( hsb <= hc ){
+
+						$('#sidebar').height(hc-50);
+
+						$('#page').height(hc);
+
+					}
+
+				}
+
+			}			
+
+		});
+
+		
+
+		function changeSite(url){
+
+			location.href = url;	
+
+		}
+
+		
+
+	</script>
+
+    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+
+    </script>
+
+	<script type="text/javascript">
+
+	_uacct = "UA-70933-4";
+
+	urchinTracker();
+
+	</script>
+
+	<script type="text/javascript">
+
+
+
+  var _gaq = _gaq || [];
+
+  _gaq.push(['_setAccount', 'UA-19486591-1']);
+
+  _gaq.push(['_trackPageview']);
+
+
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+  })();
+
+	</script>
+
+
+
+		<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://montceau-news.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/montceau-news.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Merci de confirmer que vous n\u2019\u00eates pas un robot."}},"sending":"Envoi en cours...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://montceau-news.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"http:\/\/montceau-news.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://montceau-news.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.8'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201908'></script>
+<script type='text/javascript' src='http://montceau-news.com/wp-includes/js/comment-reply.min.js?ver=4.4.17'></script>
+<script type='text/javascript' src='http://montceau-news.com/wp-includes/js/wp-embed.min.js?ver=4.4.17'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201908.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.1.1',blog:'140242147',post:'520533',tz:'1',srv:'montceau-news.com'} ]);
+	_stq.push([ 'clickTrackerInit', '140242147', '520533' ]);
+</script>
+
+    </div>
+
+	</body>
+
+    
+
+</html>
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Mise en cache objet de 29/76 objets utilisant disk
+Page Caching using disk: enhanced 
+
+Served from: montceau-news.com @ 2019-02-24 03:58:54 by W3 Total Cache
+-->

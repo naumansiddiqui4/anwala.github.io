@@ -1,0 +1,2930 @@
+<!DOCTYPE html>
+<html lang=en ng-app=UnicornApp>
+<head>
+<meta charset=utf-8>
+<meta http-equiv=X-UA-Compatible content="IE=edge">
+<meta name=viewport content="width=device-width, initial-scale=1">
+<meta name=author content="Unicorn Bay">
+<meta name=twitter:card content=summary_large_image>
+<meta name=twitter:site content="@theunicornbay">
+<meta name=twitter:creator content="@theunicornbay">
+<meta property=fb:admins content=1364592229 />
+<meta property=fb:app_id content=537712413038063 />
+<meta property=og:type content=website />
+<meta property=og:url content="https://unicornbay.com/t/MERC.US"/>
+<meta property=og:title content="MERC &mdash; Mercer International Inc - comprehensive stock analysis."/>
+<meta property=og:description content="Mercer International Inc - MERC comprehensive stock analysis. Make proper investment decisions with analytics from Unicorn Bay."/>
+<meta property=og:image content="https://unicornbay.com/img/keystatistics/MERC.US"/>
+<link rel=canonical href="https://unicornbay.com/t/MERC.US"/>
+<link rel=icon href="https://s.unicornbay.com/favicon.ico">
+<title> MERC &mdash; Mercer International Inc - stock quotes, prices, earnings and dividends| Unicorn Bay | Professional Finance Tool. </title>
+<meta name=description content="Mercer International Inc - MERC comprehensive stock analysis. Make proper investment decisions with analytics from Unicorn Bay.">
+<style>[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak{display:none!important}</style>
+<link href="https://s.unicornbay.com/dist/style.css?1528483316" rel=stylesheet>
+<!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+<script>window.readyHandlers=[];window.ready=function ready(handler){window.readyHandlers.push(handler);handleState();};window.handleState=function handleState(){if(['interactive','complete'].indexOf(document.readyState)>-1){while(window.readyHandlers.length>0){(window.readyHandlers.shift())();}}};document.onreadystatechange=window.handleState;</script>
+<script type="application/ld+json">
+        {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name" : "Unicorn Bay",
+        "url": "https://unicornbay.com/",
+        "logo": "https://s.unicornbay.com/img/unicorn-bay-logo-300.png",
+        "sameAs" : {
+            "https://www.facebook.com/unicornbay",
+            "https://twitter.com/theunicornbay",
+            "https://plus.google.com/+Unicornbayplus"}
+        }
+        </script>
+<script type="application/ld+json">
+    {
+        "@context" : "http://schema.org",
+        "@type" : "WebSite",
+        "name" : "Unicorn Bay",
+        "url" : "https://unicornbay.com/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://unicornbay.com/search?q={search_term_string}",
+            "query-input": "required name=search_term_string" }
+    }
+        </script>
+<link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans&subset=latin">
+</head>
+<body>
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-W82VLM" height=0 width=0 style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-W82VLM');</script>
+<nav class="navbar  navbar-color ">
+<div class=container>
+<div class=navbar-header>
+<button type=button class="navbar-toggle collapsed" aria-expanded=false aria-controls=navbar ng-click="headerExpanded = !headerExpanded">
+<span class=sr-only>Toggle navigation</span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+<span class=icon-bar></span>
+</button>
+<a class=navbar-logo href="/main">
+</a>
+</div>
+<div id=navbar class="collapse navbar-collapse" ng-class="{'in': headerExpanded}">
+<ul class="nav navbar-nav">
+<li class="">
+<a href="/portfolios">Portfolios</a>
+</li>
+<li class="">
+<a href="/watchlist">Watchlist</a>
+</li>
+<li class="">
+<a href="/insights">Insights</a>
+</li>
+<li class="">
+<a href="/screener">Screener</a>
+</li>
+<li class=with-submenu>
+<a href="">Tools</a>
+<ul class=dropdown-menu>
+<li style="cursor: pointer">
+<a href="/tools/beta-calculator">Beta Calculator</a>
+<a href="/tools/rebalancer">Assets Balancer</a>
+<a href="/tools/find-etf-by-stock">Find ETF by Stock</a>
+<a href="/tools/recommend-by-stock">Recommend by Stock</a>
+<a href="/tools/asset-correlations">Asset Correlations</a>
+<a href="/tools/most-less-correlated-assets">TOP 1000 Correlations</a>
+</li>
+</ul>
+</li>
+<li class="">
+<a href="/pricing">Pricing</a>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right" ng-controller=AuthorizationCtrl>
+<li><a href="" ng-click="openRegistrationModal()">Register</a></li>
+<li><a href="" ng-click="openLoginModal()">Login</a></li>
+</ul>
+<div class=navbar-right>
+<form class=navbar-form ng-controller=SearchCtrl autocomplete=off>
+<div class="form-group has-feedback">
+<input type=text class=form-control id=inputFirstStock placeholder="Search Finance" ng-model=search ng-model-options="{ debounce: { 'default': 100, 'blur': 0 } }" uib-typeahead="ticker as ticker.code for ticker in getTickers($viewValue) | limitTo:10" typeahead-loading=loadingSearch typeahead-input-formatter="filterEmpty($model)" typeahead-append-to-body=true typeahead-template-url=searchTypeaheadTemplate.html>
+<a href="" class="fa fa-search form-control-feedback" aria-hidden=true ng-show="!loadingSearch"></a>
+<i class="fa fa-spinner fa-pulse form-control-feedback" aria-hidden=true ng-show=loadingSearch></i>
+</div>
+</form>
+</div>
+</div>
+</div>
+</nav>
+<div class="container content" ng-controller=TickerCtrl ng-init="tickerPage='Summary'">
+<div class=row>
+<div class=col-sm-6>
+<div class=ticker-logo-solid>
+<div class=ticker-logo-image>
+<img height=60px ng-src="/img/tlogos/US/merc.png" alt="Logo MERC &mdash; Mercer International Inc" title="MERC &mdash; Mercer International Inc"/>
+</div>
+<div class=ticker-logo-name>
+<h1 class=ticker2-logo-h1>
+MERC &mdash; Mercer International Inc
+<small>USA</small>
+</h1>
+<p class=ticker2-logo-sector-ind>
+<a href="/screener?f=exchange_str|%3D|US;sector_str|%3D|Basic Materials">Basic Materials</a>
+&mdash;
+<a href="/screener?f=exchange_str|%3D|US;sector_str|%3D|Basic Materials;industry_str|%3D|Paper+%26+Paper+Products">Paper &amp; Paper Products</a>
+</p>
+</div>
+</div>
+<div class=ticker2-price-block ng-cloak>
+<div class=ticker2-price-big ng-class="{positive: refundPrice >= 0, negative: refundPrice < 0}">
+[[ lastPrice | number : 2]]
+</div>
+<div class=ticker2-price-changes ng-class="{positive: refundPrice >= 0, negative: refundPrice < 0}">
+[[ refundPrice | number : 2]]
+<br/>
+[[ refundPriceP | number : 2]]%
+</div>
+<div class=ticker2-price-currency-date-note>
+[[ lastDate * 1000 | date:'MMM d, y @h:mm a' ]]
+<br/>
+Currency in USD
+</div>
+</div>
+</div>
+<div class=col-sm-6>
+<h1 class=ticker2-logo-rating>
+<a href="/screener?sortBy=rank|desc">UB Rating</a>
+<div class=rating-stars>
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 59%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+<span class=neutral>3.0/5</span>
+Hold
+<div class=ticker2-rank-how-it-works>
+<a target=_blank href="https://unicornbay.com/knowledgebase/unicorn-bay-stock-rating-how-it-works/">
+How it works? <i class="fa fa-graduation-cap"></i>
+</a>
+</div>
+</h1>
+<div class="ticker2-add-watchlist pull-left" ng-class="{'inwatchlist': tickerIsInWatchlist}">
+<a href="" ng-cloak ng-click="addToWatchlist(ticker)" ng-disabled="busy || tickerIsInWatchlist">
+<span ng-show="!tickerIsInWatchlist" ng-class="{'transparent': busy}">
+<i class="fa fa-bell"></i>
+Add to watchlist
+</span>
+<span ng-show=tickerIsInWatchlist ng-class="{'transparent': busy}">
+<i class="fa fa-bell" style="color:#FF9305"></i>
+Watchlisted
+</span>
+</a>
+</div>
+<div class="font-smaller pull-left" style="margin: 12px 0 0 20px;">
+<a class=font20 ng-click="downloadTickerPdf()" href="">
+<i class="fa fa-file-pdf-o text-red"></i>
+One Page PDF
+</a>
+</div>
+</div>
+</div>
+<div class=row>
+<div class=col-md-12>
+<div class=ticker2-horizontal-menu>
+<div class=ticker2-horizontal-menu-item ng-class="{'ticker2-horizontal-menu-item-active': tickerPage=='Summary'}">
+<a href="" ng-click="changeTickerPage('Summary')">
+Summary
+</a>
+</div>
+<div class=ticker2-horizontal-menu-item ng-class="{'ticker2-horizontal-menu-item-active': tickerPage=='Invest Ideas'}">
+<a href="" ng-click="changeTickerPage('Invest Ideas')">
+Invest Ideas
+</a>
+</div>
+<div class=ticker2-horizontal-menu-item ng-class="{'ticker2-horizontal-menu-item-active': tickerPage=='Similar'}">
+<a href="" ng-click="changeTickerPage('Similar')">
+Similar
+</a>
+</div>
+<div class=ticker2-horizontal-menu-item ng-class="{'ticker2-horizontal-menu-item-active': tickerPage=='Financials'}">
+<a href="" ng-click="changeTickerPage('Financials')">
+Financials
+</a>
+</div>
+<div class=ticker2-horizontal-menu-item ng-class="{'ticker2-horizontal-menu-item-active': tickerPage=='Company'}">
+<a href="" ng-click="changeTickerPage('Company')">
+Company
+</a>
+</div>
+<div class=ticker2-horizontal-menu-item ng-class="{'ticker2-horizontal-menu-item-active': tickerPage=='Analysts'}">
+<a href="" ng-click="changeTickerPage('Analysts')">
+Analysts
+</a>
+</div>
+<div class=ticker2-horizontal-menu-item ng-class="{'ticker2-horizontal-menu-item-active': tickerPage=='History'}">
+<a href="" ng-click="changeTickerPage('History')">
+History
+</a>
+</div>
+</div>
+</div>
+</div>
+<div ng-show="tickerPage=='Summary'">
+<div class=row>
+<div style="margin-bottom: 60px;" class="col-md-6 col-md-push-6">
+<div class=graph-2>
+<div id=ticker-chart class=ticker-chart></div>
+</div>
+</div>
+<div class="col-md-6 col-md-pull-6">
+<div class="row keystatistics2-title">
+<div class="col-md-6 col-sm-6">
+Key statistics
+<a href="https://unicornbay.com/knowledgebase/key-statistics-explained/">
+<i class="fa fa-graduation-cap font-smaller text-grey"></i>
+</a>
+</div>
+<div class="col-md-6 col-sm-6">
+<div class=pull-right>
+<a style="font-size: 0" href="https://twitter.com/share" class=twitter-share-button {count} data-text="Key statistics for $MERC" data-via=TheUnicornBay>Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+</div>
+</div>
+</div>
+<div id=keystatistics class="row keystatistics2">
+<div class="col-sm-4 keystatistics2-col-small-padding">
+<div class=keystatistics2-name>Basic</div>
+<div class=keystatistics2-column>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-empty ng-cloak ng-show="!expReturnItems.length">
+Not enough data for Expected Return.
+</div>
+<div ng-cloak ng-show=expReturnItems.length>
+<div class=keystatistics2-item-name>
+<span uib-dropdown dropdown-append-to-body=true>
+<a href id=simple-dropdown uib-dropdown-toggle class=dashed-underline>
+[[ selectedExpReturn.selectText ]]
+</a>
+<ul uib-dropdown-menu aria-labelledby=simple-dropdown>
+<li ng-repeat="choice in expReturnItems" style="cursor: pointer">
+<a ng-click="expReturnChanged(choice)">[[ choice.selectText ]]</a>
+</li>
+</ul>
+</span>
+<i class="info-icon fa fa-info-circle" uib-popover="The expected return variable is used to determine whether or not an investment has a positive or negative average
+                                                net outcome. Note that this is just an expectation and NOT a hard figure of profits or losses." popover-append-to-body=true popover-popup-delay=300 popover-trigger=mouseenter></i>
+</div>
+<div class=keystatistics2-item-value>
+<span ng-bind-html="toTrusted(selectedExpReturn.text)"></span>
+</div>
+<div class="progress-stroke progress-stroke_[[ selectedExpReturn.strength ]]">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-empty ng-cloak ng-show="!volatilityItems.length">
+Not enough data for Risks (Volatility).
+</div>
+<div ng-cloak ng-show=volatilityItems.length>
+<div class=keystatistics2-item-name>
+<span uib-dropdown dropdown-append-to-body=true>
+<a href id=simple-dropdown uib-dropdown-toggle class=dashed-underline>
+[[ selectedVolatility.selectText ]]
+</a>
+<ul uib-dropdown-menu aria-labelledby=simple-dropdown>
+<li ng-repeat="choice in volatilityItems" style="cursor: pointer">
+<a ng-click="volatilityChanged(choice)">[[ choice.selectText ]]</a>
+</li>
+</ul>
+</span>
+<i class="info-icon fa fa-info-circle" uib-popover="Risks or volatility is the degree of variation (or fluctuation) of the asset's trading price over time.
+                                           A lower volatility means that the value of the asset does not fluctuate dramatically, but changes in value at a steady pace over a period of time." popover-append-to-body=true popover-popup-delay=300 popover-trigger=mouseenter></i></div>
+<div class=keystatistics2-item-value>
+<span ng-bind-html="toTrusted(selectedVolatility.text)"></span>
+</div>
+<div class="progress-stroke-reverse progress-stroke-reverse_[[ selectedVolatility.strength ]]">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-empty ng-cloak ng-show="!betaItems.length">
+Not enough data for Beta calculations.
+</div>
+<div ng-cloak ng-show=betaItems.length>
+<div class=keystatistics2-item-name>
+<span class="pull-right margin-right-15">
+<a href="" ng-click="openCalculateBetaModal()">
+<i class="fa fa-calculator"></i>
+</a>
+</span>
+<span uib-dropdown dropdown-append-to-body=true>
+<a href id=simple-dropdown uib-dropdown-toggle class=dashed-underline>
+[[ selectedBeta.selectText ]]
+</a>
+<ul uib-dropdown-menu aria-labelledby=simple-dropdown>
+<li ng-repeat="choice in betaItems" style="cursor: pointer">
+<a ng-click="betaChanged(choice)">[[ choice.selectText ]]</a>
+</li>
+</ul>
+</span>
+<i class="info-icon fa fa-info-circle" uib-popover="Beta is a measure of the volatility,
+                                               or systematic risk, of a security or a portfolio in comparison to the market as a whole." popover-append-to-body=true popover-popup-delay=300 popover-trigger=mouseenter></i></div>
+<div class=keystatistics2-item-value><span ng-bind-html="toTrusted(selectedBeta.text)"></span></div>
+<div class="progress-stroke progress-stroke_[[ selectedBeta.strength ]]">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-name>Market capital</div>
+<div class=keystatistics2-item-value>
+&#36;955M
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-name>Employees</div>
+<div class=keystatistics2-item-value>
+&mdash;
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 keystatistics2-col-small-padding">
+<div class=keystatistics2-name>Money</div>
+<div class=keystatistics2-column>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-empty ng-cloak ng-show="!epsItems.length">
+Not enough data for Earnings per share statistics.
+</div>
+<div ng-cloak ng-show=epsItems.length>
+<div class=keystatistics2-item-name>
+<span uib-dropdown dropdown-append-to-body=true>
+<a href id=simple-dropdown uib-dropdown-toggle class=dashed-underline>
+[[ selectedEPS.selectText ]]
+</a>
+<ul uib-dropdown-menu aria-labelledby=simple-dropdown>
+<li ng-repeat="choice in epsItems" style="cursor: pointer">
+<a ng-click="epsChanged(choice)">[[ choice.selectText ]]</a>
+</li>
+</ul>
+</span>
+<i class="info-icon fa fa-info-circle" uib-popover="Earnings per share.
+                                                The portion of a company's profit allocated to each outstanding share of common stock. Earnings per share serves as an indicator of the company's profitability." popover-append-to-body=true popover-popup-delay=300 popover-trigger=mouseenter>
+</i>
+</div>
+<div class=keystatistics2-item-value><span ng-bind-html="toTrusted(selectedEPS.text)"></span></div>
+<div class="progress-stroke progress-stroke_[[ selectedEPS.strength ]]">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-empty ng-cloak ng-show="!bookItems.length">
+Not enough data for Book Value calculations.
+</div>
+<div ng-cloak ng-show=bookItems.length>
+<div class=keystatistics2-item-name>
+<span uib-dropdown dropdown-append-to-body=true>
+<a href id=simple-dropdown uib-dropdown-toggle class=dashed-underline>
+[[ selectedBook.selectText ]]
+</a>
+<ul uib-dropdown-menu aria-labelledby=simple-dropdown>
+<li ng-repeat="choice in bookItems" style="cursor: pointer">
+<a ng-click="bookChanged(choice)">[[ choice.selectText ]]</a>
+</li>
+</ul>
+</span>
+<i class="info-icon fa fa-info-circle" uib-popover="Book Value is the total value of the company's assets that shareholders would theoretically receive if a company were liquidated." popover-append-to-body=true popover-popup-delay=300 popover-trigger=mouseenter></i></div>
+<div class=keystatistics2-item-value><span ng-bind-html="toTrusted(selectedBook.text)"></span></div>
+<div class="progress-stroke progress-stroke_[[ selectedBook.strength ]]">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-name>Wall Street price
+<i class="info-icon fa fa-info-circle" uib-popover="Wall Street price, or one year target price, is a projected price level as stated by
+                                           a number of professional investment analysts and/or advisors." popover-append-to-body=true popover-popup-delay=300 popover-trigger=mouseenter></i>
+</div>
+<div class=keystatistics2-item-value>&#36;22.25</div>
+<div class="progress-stroke progress-stroke_5">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-name>PE Ratio
+<i class="info-icon fa fa-info-circle" uib-popover="Price-to-Earnings Ratio measures values of the company's current share price relative to its per-share earnings." popover-append-to-body=true popover-popup-delay=300 popover-trigger=mouseenter></i>
+</div>
+<div class=keystatistics2-item-value>7.47</div>
+<div class="progress-stroke-reverse progress-stroke-reverse_3">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-name>Dividends
+<i class="info-icon fa fa-info-circle" uib-popover="The company pays dividends for each share you own. The dividend yield for this equity is 0.03%" popover-append-to-body=true popover-popup-delay=300 popover-trigger=mouseenter></i></div>
+<div class=keystatistics2-item-value>&#36;0.50</div>
+<div class="progress-stroke progress-stroke_3">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-4 keystatistics2-col-small-padding">
+<div class=keystatistics2-name>Volume & Social</div>
+<div class=keystatistics2-column>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-name>Short Ratio
+<i class="info-icon fa fa-info-circle" uib-popover="A sentiment indicator that is derived by dividing the short interest by the average daily
+                                           volume for a stock." popover-append-to-body=true popover-popup-delay=300 popover-trigger=mouseenter></i></div>
+<div class=keystatistics2-item-value>2.18%</div>
+<div class="progress-stroke progress-stroke-reverse_1">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-name>Daily Volume</div>
+<div class=keystatistics2-item-value>213,600</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-name>Volume</div>
+<div class=keystatistics2-item-value>Below average -</div>
+<div class="progress-stroke progress-stroke_1">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-name>Social Rate
+<i class="info-icon fa fa-info-circle" uib-popover="Social Rate is measured as an aggregate emotion of the crowd towards a particular company.
+					                            The value is determined via Sentimental Analysis, the process that mines and processes information from
+					                            public sources such as social media (e.g. Twitter) and news." popover-append-to-body=true popover-popup-delay=300 popover-trigger=mouseenter></i>
+</div>
+<div class=keystatistics2-item-value>Untracked</div>
+<div class="progress-stroke progress-stroke_0">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+<div class=keystatistics2-item>
+<div class=keystatistics2-item-name>Social Volume</div>
+<div class=keystatistics2-item-value>Untracked</div>
+<div class="progress-stroke progress-stroke_0">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=row>
+<div class=col-md-8>
+</div>
+<div class=col-md-4>&nbsp;</div>
+</div>
+<div class=row>
+<div class=col-md-8>
+<div class=ticker2-news-block ng-controller=NewsCtrl ng-cloak ng-show=newsArray.length>
+<div class=ticker2-news-block-title>
+Latest MERC news
+</div>
+<div class=ticker2-news>
+<div ng-repeat="item in newsArray | limitTo: 20">
+<div class=ticker2-news-title-img-block>
+<div class=ticker2-news-title-source-block>
+<div class=ticker2-news-title>
+<a href="[[ item.link ]]" rel=nofollow target=_blank>
+[[ item.title ]]
+</a>
+</div>
+<div class=ticker2-news-pub-date>
+<span ng-show=item.source.length>
+<span class=text-grey>[[ item.source ]]</span>
+-
+</span>
+[[ item.pubDate | date:'MMM d, y @ h:mma' ]]
+</div>
+</div>
+</div>
+<div class=ticker2-news-description>
+[[ item.description ]]
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=col-md-4>
+</div>
+</div>
+</div>
+<div ng-show="tickerPage=='Invest Ideas'">
+<div class=row>
+<div class="col-md-12 keystatistics2-title">
+Invest ideas
+</div>
+</div>
+<div class=row>
+<div class=col-md-8>
+<div class="row signals2">
+<div class="col-sm-6 signals2-col-small-padding">
+<a href="/t/MERC.US/history-of-signals">
+<span class="accent positive signals-title">
+8 ideas for buy
+</span>
+</a>
+<div class=signals-column>
+<div class=signals2-item>
+<div class=signals2-item-value>
+<span class=positive>&#36;0.50</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200040">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+Pays dividends
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+The company shares profit with stakeholders
+</div>
+</div> <div class=signals2-item>
+<div class=signals2-item-value>
+<span class=positive>51.88%</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200002">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+Wall Street Higher
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+The price is expected to raise
+</div>
+</div> <div class=signals2-item>
+<div class=signals2-item-value>
+<span class=positive>&#36;1.96</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200010">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+Earnings are positive
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+Earnings per share are positive
+</div>
+</div> <div class=signals2-item>
+<div class=signals2-item-value>
+<span class=positive>17.53x</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200014">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+EPS higher than industry
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+Earnings Per Share Ratio is higher than industry average.
+</div>
+</div> <div class=signals2-item>
+<div class=signals2-item-value>
+<span class=positive>21.90x</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200017">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+EPS higher than sector
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+Earnings Per Share Ratio is higher than sector.
+</div>
+</div> <div class=signals2-item>
+<div class=signals2-item-value>
+<span class=positive>-25.61%</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200121">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+Short Ratio lower than sector
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+Short Interest Ratio lower than sector.
+</div>
+</div> <div class=signals2-item>
+<div class=signals2-item-value>
+<span class=positive>-16.43%</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200021">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+Industry cheaply
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+PE Ratio is lower than industry.
+</div>
+</div> <div class=signals2-item>
+<div class=signals2-item-value>
+<span class=positive>-33.15%</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200031">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+Sector cheaply
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+PE Ratio lower than sector.
+</div>
+</div> </div>
+</div>
+<div class="col-sm-6 signals2-col-small-padding">
+<a href="/t/MERC.US/history-of-signals">
+<span class="accent negative signals-title">
+4 ideas for sell
+</span>
+</a>
+<div class=signals-column>
+<div class=signals2-item>
+<div class=signals2-item-value>
+<span class=negative>1.33x</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200100">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+PB Ratio higher than sector
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+Price-to-Book is higher than sector.
+</div>
+</div> <div class=signals2-item>
+<div class=signals2-item-value>
+<span class=negative>1.33x</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200090">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+PB Ratio higher than industry
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+Price-to-Book Ratio is higher than industry.
+</div>
+</div> <div class=signals2-item>
+<div class=signals2-item-value>
+<span class=negative>7.45%</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|200110">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+Short Ratio higher than industry
+</div>
+<div class=signals2-item-type>
+Fundamental signal
+</div>
+<div class=signals2-item-desc>
+Short Interest Ratio is higher than industry.
+</div>
+</div> <div class=signals2-item>
+<div class=signals2-item-value>
+<span class=negative>-3.55%</span>
+</div>
+<div class=signals2-item-name>
+<a class=text-grey href="/screener?f=exchange_str|%3D|US;signals|has|101106">
+<i class="fa fa-lightbulb-o"></i>
+</a>
+Below SMA 200
+</div>
+<div class=signals2-item-type>
+Technical signal
+</div>
+<div class=signals2-item-desc>
+The price is below SMA for 200 days period
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div class=col-md-4>
+<div class=signals2-wondering-block>
+<div class=signals2-wondering-block-text style="margin-bottom: 20px;">
+<b>Invest Ideas</b> &mdash; the best way to get insights based on both fundamental and technical data.
+We analyze company's performance across sector and industry and generate investing ideas for you.
+</div>
+<div class=signals2-wondering-block-title>
+Want to track signal changes?
+</div>
+<div class=signals2-wondering-block-text>
+It's easy to monitor changes in signal with our
+<a href="/watchlist/signal-changes">watchlist</a>. Just add the stock to your watchlist
+and get daily, weekly and monthly signal changes for the asset.
+</div>
+</div>
+</div>
+</div> </div>
+<div ng-show="tickerPage=='Similar'">
+<div class=row>
+<div class=col-md-8>
+<div class=row>
+<div class=col-md-12>
+<div class=keystatistics2-title>
+Similar and Opposite stocks
+<a href="https://unicornbay.com/knowledgebase/stock-correlation/">
+<i class="fa fa-graduation-cap text-grey font-smaller"></i>
+</a>
+</div>
+<div class=ticker2-similar-opposite-text>
+Most and less correlated stocks. All correllations are calculated for 1 year period.
+<a href="https://unicornbay.com/knowledgebase/stock-correlation/">
+Learn more
+</a>
+about correlations.
+</div>
+</div>
+</div>
+<div class=row>
+<div class=col-md-6>
+<div class="positive ticker2-similar-stocks-title">
+Similar (most correlated) stocks
+</div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="/t/HEAR.US">
+HEAR &mdash; Turtle Beach Corporation
+</a>
+<br/>
+<a href="/screener?f=exchange_str|%3D|US;sector_str|%3D|Technology">Technology</a>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=positive>94.40%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 57%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="/t/BV.US">
+BV &mdash; BrightView Holdings, Inc
+</a>
+<br/>
+<a href="/screener?f=exchange_str|%3D|US;sector_str|%3D|Industrials">Industrials</a>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=positive>94.00%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 53%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="/t/SRC.US">
+SRC &mdash; Spirit Realty Capital, Inc
+</a>
+<br/>
+<a href="/screener?f=exchange_str|%3D|US;sector_str|%3D|Real Estate">Real Estate</a>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=positive>93.60%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 58%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=positive>93.20%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 50%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<div class=ticker-logo-image>
+<img height=50px ng-src="/img/tlogos/US/NRZ.png"/>
+</div>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=positive>92.00%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 56%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=positive>91.90%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 58%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<div class=ticker-logo-image>
+<img height=50px ng-src="/img/tlogos/US/rare.png"/>
+</div>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=positive>91.70%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 52%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=positive>91.40%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 56%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<div class=ticker-logo-image>
+<img height=50px ng-src="/img/tlogos/US/ALGN.png"/>
+</div>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=positive>91.10%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 54%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=positive>90.70%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 47%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+<div class=col-md-6>
+<div class="negative ticker2-similar-stocks-title">
+Opposite (less correlated) stocks
+</div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="/t/RAMP.US">
+RAMP &mdash; LiveRamp Holdings, Inc
+</a>
+<br/>
+<a href="/screener?f=exchange_str|%3D|US;sector_str|%3D|Technology">Technology</a>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=negative>&#8722;100.00%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 44%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<div class=ticker-logo-image>
+<img height=50px ng-src="/img/tlogos/US/SBS.png"/>
+</div>
+<p class=stocks2-item-name>
+<a href="/t/SBS.US">
+SBS &mdash; Companhia de Saneamento Básico do Estado
+</a>
+<br/>
+<a href="/screener?f=exchange_str|%3D|US;sector_str|%3D|Utilities">Utilities</a>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=negative>&#8722;92.10%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 50%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="/t/LOMA.US">
+LOMA &mdash; Loma Negra Compañía Industrial Argentina
+</a>
+<br/>
+<a href="/screener?f=exchange_str|%3D|US;sector_str|%3D|Basic Materials">Basic Materials</a>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=negative>&#8722;92.00%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 56%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=negative>&#8722;91.50%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 49%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<div class=ticker-logo-image>
+<img height=50px ng-src="/img/tlogos/US/VIV.png"/>
+</div>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=negative>&#8722;90.00%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 58%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<div class=ticker-logo-image>
+<img height=50px ng-src="/img/tlogos/US/ELP.png"/>
+</div>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=negative>&#8722;89.60%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 58%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=negative>&#8722;89.50%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 56%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=negative>&#8722;88.70%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 50%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=negative>&#8722;88.70%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 51%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+<div class=stocks2>
+<div class=stocks2-item>
+<div class=stocks2-item-logo-solid>
+<div class=ticker-logo-image>
+<img height=50px ng-src="/img/tlogos/US/cpa.png"/>
+</div>
+<p class=stocks2-item-name>
+<a href="" ng-controller=AuthorizationCtrl ng-click="openRegistrationModal()">
+Login or register to see all results
+</a><br/>
+</p>
+</div>
+<div class=stocks2-item-numbers>
+<div class=stocks2-item-similar>
+Correlation
+<div class=pull-right style="font-size: 20px; margin-top: -5px;">
+<span class=negative>&#8722;88.50%</span>
+</div>
+</div>
+<div class=stocks2-item-number-value>
+UB Rating
+<div class="rating-stars pull-right">
+<div class=rating-stars__grey>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+<div class=rating-stars__gold style="width: 56%;">
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+<i class="fa fa-star"></i>
+</div>
+</div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+</div>
+<div class=col-md-4>
+<h3 class=pull-right>
+<a href="/t/MERC.US/similar-opposite">
+More similar and opposite stocks
+<i class="fa fa-caret-right"></i>
+</a>
+</h3>
+</div>
+</div>
+</div>
+<div ng-show="tickerPage=='Financials'">
+<div class=row>
+<div class="col-md-12 margin-top-10">
+<a href="" ng-click="changeFinancialsPage('incomeStatement')">
+Income Statement
+</a>
+|
+<a href="" ng-click="changeFinancialsPage('balanceSheet')">
+Balance Sheet
+</a>
+|
+<a href="" ng-click="changeFinancialsPage('cashFlow')">
+Cash Flow Statement
+</a>
+</div>
+</div>
+<div class=row>
+<div class="col-md-8 col-sm-12">
+<div ng-show="financialsPage == 'incomeStatement'">
+<div class=row>
+<div class=col-md-6>
+<div class=ticker2-financials-title>
+Income Statement
+</div>
+</div>
+<div class=col-md-6>
+<div class=ticker2-financials-annual-quarterly>
+<a href="" ng-click="changeFinanceAnnualQuarterly('annual');">Annual</a>
+|
+<a href="" ng-click="changeFinanceAnnualQuarterly('quarterly');">Quarterly</a>
+</div>
+</div>
+</div>
+<div id=financials-chart-container-incomeStatement style="width: 100%;height: 300px;"></div>
+<table class="table ticker2-financials-table">
+<tr>
+<td class="text-align-left ticker2-financials-table-comment">All numbers in thousands</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"><b>[[fin.date | strtotimestamp | date: 'MMM d,
+yyyy']]</b></td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Revenue</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"></td>
+</tr>
+<tr>
+<td class=text-align-left>Total Revenue</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.totalRevenue / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Cost of Revenue</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.costOfRevenue / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Gross Profit</b></td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"><b>[[fin.grossProfit / 1000 | number : 0]]</b></td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Operating Expenses</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"></td>
+</tr>
+<tr>
+<td class=text-align-left>Research Development</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.researchDevelopment / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Selling General and Administrative</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.sellingGeneralAdministrative / 1000 | number :
+0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Non Recurring</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.nonRecurring / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Others</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.otherOperatingExpenses / 1000 | number : 0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Total Operating Expenses</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.totalOperatingExpenses / 1000 | number : 0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Operating Income or Loss</b></td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"><b>[[fin.operatingIncome / 1000 | number : 0]]</b>
+</td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Income from Continuing Operations</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"></td>
+</tr>
+<tr>
+<td class=text-align-left>Total Other Income/Expenses Net</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.totalOtherIncomeExpenseNet / 1000 | number :
+0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Earnings Before Interest and Taxes</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.ebit / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Interest Expense</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.interestExpense / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Income Before Tax</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.incomeBeforeTax / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Income Tax Expense</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.incomeTaxExpense / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Minority Interest</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.minorityInterest / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Net Income From Continuing Ops</b></td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"><b>[[fin.netIncomeFromContinuingOps / 1000 | number :
+0]]</b></td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Non-recurring Events</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"></td>
+</tr>
+<tr>
+<td class=text-align-left>Discontinued Operations</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.discontinuedOperations / 1000 | number : 0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Extraordinary Items</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.extraordinaryItems / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Effect Of Accounting Changes</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.effectOfAccountingCharges / 1000 | number :
+0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Other Items</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]">[[fin.otherItems / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Net Income</td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"></td>
+</tr>
+<tr>
+<td class=text-align-left><b>Net Income</b></td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"><b>[[fin.netIncome / 1000 | number : 0]]</b></td>
+</tr>
+<tr>
+<td class=text-align-left><b>Net Income Applicable To Common Shares</b></td>
+<td ng-repeat="fin in financials['is' + annualQuarterly]"><b>[[fin.netIncomeApplicableToCommonShares / 1000 |
+number : 0]]</b></td>
+</tr>
+</table> </div>
+<div ng-show="financialsPage == 'balanceSheet'">
+<div class=row>
+<div class=col-md-6>
+<div class=ticker2-financials-title>
+Balance Sheet
+</div>
+</div>
+<div class=col-md-6>
+<div class=ticker2-financials-annual-quarterly>
+<a href="" ng-click="changeFinanceAnnualQuarterly('annual');">Annual</a>
+|
+<a href="" ng-click="changeFinanceAnnualQuarterly('quarterly');">Quarterly</a>
+</div>
+</div>
+</div>
+<div id=financials-chart-container-balanceSheet style="width: 100%;height: 300px;"></div>
+<table class="table ticker2-financials-table">
+<tr>
+<td class="text-align-left ticker2-financials-table-comment">All numbers in thousands</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">
+<b>[[fin.date | strtotimestamp | date: 'MMM d, yyyy']]</b>
+</td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">
+Current Assets
+</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">&nbsp;</td>
+</tr>
+<tr>
+<td class=text-align-left>Cash And Cash Equivalents</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.cash / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Short Term Investments</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.shortTermInvestments / 1000 | number : 0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Net Receivables</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.netReceivables/ 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Inventory</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.inventory/ 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Other Current Assets</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.otherCurrentAssets/ 1000 | number :
+0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Total Current Assets</b></td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]"><b>[[fin.totalCurrentAssets / 1000 | number :
+0]]</b></td>
+</tr>
+<tr>
+<td class=text-align-left>Long Term Investments</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.longTermInvestments / 1000 | number :
+0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Property Plant and Equipment</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.propertyPlantEquipment / 1000 | number :
+0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Goodwill</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.goodWill / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Intangible Assets</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.intangibleAssets / 1000 | number : 0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Other Assets</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.otherAssets / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Total Assets</b></td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]"><b>[[fin.totalAssets / 1000 | number : 0]]</b>
+</td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Current Liabilities</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]"></td>
+</tr>
+<tr>
+<td class=text-align-left>Accounts Payable</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.accountsPayable / 1000 | number : 0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Short/Current Long Term Debt</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.shortLongTermDebt / 1000 | number :
+0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Other Current Liabilities</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.otherCurrentLiab / 1000 | number : 0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Total Current Liabilities</b></td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]"><b>[[fin.totalCurrentLiabilities / 1000 |
+number : 0]]</b></td>
+</tr>
+<tr>
+<td class=text-align-left>Long Term Debt</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.longTermDebt / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Other Liabilities</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.otherLiab / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Deferred Long Term Liability Charges</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.deferredLongTermLiab / 1000 | number :
+0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Total Liabilities</b></td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]"><b>[[fin.totalLiab / 1000 | number : 0]]</b>
+</td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Stockholders' Equity</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]"></td>
+</tr>
+<tr>
+<td class=text-align-left>Common Stock</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.commonStock / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Retained Earnings</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.retainedEarnings / 1000 | number : 0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Other Stockholder Equity</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.otherStockholderEquity / 1000 | number :
+0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left>Total Stockholder Equity</td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]">[[fin.totalStockholderEquity / 1000 | number :
+0]]
+</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Net Tangible Assets</b></td>
+<td ng-repeat="fin in financials['bs' + annualQuarterly]"><b>[[fin.netTangibleAssets / 1000 | number :
+0]]</b></td>
+</tr>
+</table>
+</div>
+<div ng-show="financialsPage == 'cashFlow'">
+<div class=row>
+<div class=col-md-6>
+<div class=ticker2-financials-title>
+Cash Flow Statement
+</div>
+</div>
+<div class=col-md-6>
+<div class=ticker2-financials-annual-quarterly>
+<a href="" ng-click="changeFinanceAnnualQuarterly('annual');">Annual</a>
+|
+<a href="" ng-click="changeFinanceAnnualQuarterly('quarterly');">Quarterly</a>
+</div>
+</div>
+</div>
+<div id=financials-chart-container-cashFlow style="width: 100%;height: 300px;"></div>
+<table class="table ticker2-financials-table">
+<tr>
+<td class="text-align-left ticker2-financials-table-comment">All numbers in thousands</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]"><b>[[fin.date | strtotimestamp | date: 'MMM d, yyyy']]</b></td>
+</tr>
+<tr>
+<td class=text-align-left><b>Net Income</b></td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]"><b>[[fin.netIncome/ 1000 | number : 0]]</b></td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Operating Activities, Cash Flows Provided By or Used In</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]"></td>
+</tr>
+<tr>
+<td class=text-align-left>Depreciation</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.depreciation / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Adjustments To Net Income</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.changeToNetincome / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Changes In Accounts Receivables</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.changeToAccountReceivables / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Changes In Liabilities</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.changeToLiabilities / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Changes In Inventories</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.changeToInventory / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Changes In Other Operating Activities</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.changeToOperatingActivities / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Total Cash Flow From Operating Activities</b></td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]"><b>[[fin.totalCashFromOperatingActivities / 1000 | number : 0]]</b></td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Investing Activities, Cash Flows Provided By or Used In</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]"></td>
+</tr>
+<tr>
+<td class=text-align-left>Capital Expenditures</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.capitalExpenditures / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Investments</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.investments / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Other Cash flows from Investing Activities</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.otherCashflowsFromInvestingActivities / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Total Cash Flows From Investing Activities</b></td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]"><b>[[fin.totalCashflowsFromInvestingActivities / 1000 | number : 0]]</b></td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Financing Activities, Cash Flows Provided By or Used In</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]"></td>
+</tr>
+<tr>
+<td class=text-align-left>Dividends Paid</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.dividendsPaid / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Sale Purchase of Stock</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.salePurchaseOfStock / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Net Borrowings</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.netBorrowings / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Other Cash Flows from Financing Activities</td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]">[[fin.otherCashflowsFromFinancingActivities / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left><b>Total Cash Flows From Financing Activities</b></td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]"><b>[[fin.totalCashFromFinancingActivities / 1000 | number : 0]]</b></td>
+</tr>
+<tr>
+<td class=text-align-left><b>Change In Cash and Cash Equivalents</b></td>
+<td ng-repeat="fin in financials['cf' + annualQuarterly]"><b>[[fin.changeInCash / 1000 | number : 0]]</b></td>
+</tr>
+</table> </div>
+</div>
+<div class=col-md-4>
+&nbsp;
+</div>
+</div> </div>
+<div ng-show="tickerPage=='Company'">
+<div class=row>
+<div class="col-md-8 col-sm-6">
+<p read-more words limit=150 class=ticker2-description ng-cloak>
+Mercer International Inc., together with its subsidiaries, manufactures and sells northern bleached softwood Kraft (NBSK) pulp in the United States, Europe, Asia, and internationally. The company operates in two segments, Pulp and Wood Products. It produces NBSK pulp primarily from wood chips and pulp logs; carbon neutral or green energy using carbon-neutral bio-fuels, such as black liquor and wood waste; and tall oil for use as a chemical additive and green energy source. The company also generates and sells green energy produced from bio-mass cogeneration power plant to third party utilities. In addition, it manufactures, distributes, and sells lumber and other wood residuals. The company sells its pulp to tissue, specialty papers, printing and writing paper, and other manufacturers; and wood products to distributors, construction firms, secondary manufacturers, retail yards, and home centers. Mercer International Inc. was founded in 1968 and is headquartered in Vancouver, Canada.
+</p>
+</div>
+<div class="col-md-4 col-sm-6">
+<div class=ticker2-company-sector-industry>
+<div class=ticker2-company-sector-industry-item>
+Sector:
+<a href="/screener?f=exchange_str|%3D|US;sector_str|%3D|Basic Materials">
+Basic Materials
+</a>
+</div>
+<div class=ticker2-company-sector-industry-item>
+Industry:
+<a href="/screener?f=exchange_str|%3D|US;sector_str|%3D|Basic Materials;industry_str|%3D|Paper+%26+Paper+Products">
+Paper &amp; Paper Products
+</a>
+</div>
+<div class=ticker2-company-sector-industry-item>
+Full Time Employees:
+&mdash;
+</div>
+</div>
+</div>
+</div>
+</div>
+<div ng-show="tickerPage=='Analysts'">
+<div class=row>
+<div class="col-md-8 col-sm-12">
+<div class="row margin-top-20">
+<div class=col-md-6>
+<div id=container-chart-analysts-earnings style="width: 100%;height: 300px;"></div>
+<div class=ticker2-analysts-chart-table>
+<table width="100%">
+<tr>
+<td>
+<div class="ticker2-analysts-color-box ticker2-analysts-color-avg"></div>
+Avg
+</td>
+<td>0.55</td>
+<td>2.47</td>
+<td>2.49</td>
+</tr>
+<tr>
+<td>
+<div class="ticker2-analysts-color-box ticker2-analysts-color-high"></div>
+High
+</td>
+<td>0.83</td>
+<td>3.47</td>
+<td>3.47</td>
+</tr>
+<tr>
+<td>
+<div class="ticker2-analysts-color-box ticker2-analysts-color-low"></div>
+Low
+</td>
+<td>0.16</td>
+<td>1.55</td>
+<td>1.55</td>
+</tr>
+</table>
+</div>
+</div>
+<div class=col-md-6>
+<div id=container-chart-analysts-revenue style="width: 100%;height: 300px;"></div>
+<div class=ticker2-analysts-chart-table>
+<table width="100%">
+<tr>
+<td>
+<div class="ticker2-analysts-color-box ticker2-analysts-color-avg"></div>
+Avg
+</td>
+<td>480M</td>
+<td>1.93B</td>
+<td>1.93B</td>
+</tr>
+<tr>
+<td>
+<div class="ticker2-analysts-color-box ticker2-analysts-color-high"></div>
+High
+</td>
+<td>491M</td>
+<td>2.18B</td>
+<td>2.18B</td>
+</tr>
+<tr>
+<td>
+<div class="ticker2-analysts-color-box ticker2-analysts-color-low"></div>
+Low
+</td>
+<td>469M</td>
+<td>1.78B</td>
+<td>1.78B</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class=row>
+<div class=col-md-12>
+<table class="table ticker2-financials-table margin-top-50">
+<tr>
+<td class="text-align-left ticker2-financials-table-comment">
+&nbsp;
+</td>
+<td ng-repeat="fin in financials['ehistory']">
+[[fin.date | strtotimestamp | date: 'MMM d,yyyy']]
+</td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">
+Earnings History
+</td>
+<td ng-repeat="fin in financials['ehistory']"></td>
+</tr>
+<tr>
+<td class=text-align-left>Earnings Actual</td>
+<td ng-repeat="fin in financials['ehistory']">[[fin.epsActual | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Earnings Estimate</td>
+<td ng-repeat="fin in financials['ehistory']">[[fin.epsEstimate | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Difference</td>
+<td ng-repeat="fin in financials['ehistory']">[[fin.epsDifference | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Surprise</td>
+<td ng-repeat="fin in financials['ehistory']">[[fin.surprisePercent | number : 1]]%</td>
+</tr>
+</table>
+<table class="table ticker2-financials-table margin-top-50">
+<tr>
+<td class="text-align-left ticker2-financials-table-comment">&nbsp;</td>
+<td>Cur Qtr ([[financials['etrend']['0q'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Next Qtr ([[financials['etrend']['+1q'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Cur Year ([[financials['etrend']['0y'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Next Year ([[financials['etrend']['+1y'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Earnings Estimate</td>
+<td colspan=4></td>
+</tr>
+<tr>
+<td class=text-align-left>Number of Analysts</td>
+<td>[[financials['etrend']['0q'].earningsEstimateNumberOfAnalysts | number : 0]]</td>
+<td>[[financials['etrend']['+1q'].earningsEstimateNumberOfAnalysts | number : 0]]</td>
+<td>[[financials['etrend']['0y'].earningsEstimateNumberOfAnalysts | number : 0]]</td>
+<td>[[financials['etrend']['+1y'].earningsEstimateNumberOfAnalysts | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Estimate Average</td>
+<td>[[financials['etrend']['0q'].earningsEstimateAvg | number : 2]]</td>
+<td>[[financials['etrend']['+1q'].earningsEstimateAvg | number : 2]]</td>
+<td>[[financials['etrend']['0y'].earningsEstimateAvg | number : 2]]</td>
+<td>[[financials['etrend']['+1y'].earningsEstimateAvg | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Estimate High</td>
+<td>[[financials['etrend']['0q'].earningsEstimateHigh | number : 2]]</td>
+<td>[[financials['etrend']['+1q'].earningsEstimateHigh | number : 2]]</td>
+<td>[[financials['etrend']['0y'].earningsEstimateHigh | number : 2]]</td>
+<td>[[financials['etrend']['+1y'].earningsEstimateHigh | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Estimate Low</td>
+<td>[[financials['etrend']['0q'].earningsEstimateLow | number : 2]]</td>
+<td>[[financials['etrend']['0q'].earningsEstimateLow | number : 2]]</td>
+<td>[[financials['etrend']['0y'].earningsEstimateLow | number : 2]]</td>
+<td>[[financials['etrend']['+1y'].earningsEstimateLow | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Estimate Growth</td>
+<td>[[financials['etrend']['0q'].earningsEstimateGrowth | number : 2]]</td>
+<td>[[financials['etrend']['+1q'].earningsEstimateGrowth | number : 2]]</td>
+<td>[[financials['etrend']['0y'].earningsEstimateGrowth | number : 2]]</td>
+<td>[[financials['etrend']['+1y'].earningsEstimateGrowth | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Year Ago EPS</td>
+<td>[[financials['etrend']['0q'].earningsEstimateYearAgoEps | number : 2]]</td>
+<td>[[financials['etrend']['+1q'].earningsEstimateYearAgoEps | number : 2]]</td>
+<td>[[financials['etrend']['0y'].earningsEstimateYearAgoEps | number : 2]]</td>
+<td>[[financials['etrend']['+1y'].earningsEstimateYearAgoEps | number : 2]]</td>
+</tr>
+</table>
+<table class="table ticker2-financials-table margin-top-50">
+<tr>
+<td class="text-align-left ticker2-financials-table-comment">All numbers in thousands (except
+analysts)
+</td>
+<td>Cur Qtr ([[financials['etrend']['0q'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Next Qtr ([[financials['etrend']['+1q'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Cur Year ([[financials['etrend']['0y'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Next Year ([[financials['etrend']['+1y'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">Revenue Estimate</td>
+<td colspan=4></td>
+</tr>
+<tr>
+<td class=text-align-left>Number of Analysts</td>
+<td>[[financials['etrend']['0q'].revenueEstimateNumberOfAnalysts | number : 0]]</td>
+<td>[[financials['etrend']['+1q'].revenueEstimateNumberOfAnalysts | number : 0]]</td>
+<td>[[financials['etrend']['0y'].revenueEstimateNumberOfAnalysts | number : 0]]</td>
+<td>[[financials['etrend']['+1y'].revenueEstimateNumberOfAnalysts | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Estimate Average</td>
+<td>[[financials['etrend']['0q'].revenueEstimateAvg / 1000 | number : 0]]</td>
+<td>[[financials['etrend']['+1q'].revenueEstimateAvg / 1000 | number : 0]]</td>
+<td>[[financials['etrend']['0y'].revenueEstimateAvg / 1000 | number : 0]]</td>
+<td>[[financials['etrend']['+1y'].revenueEstimateAvg / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Estimate High</td>
+<td>[[financials['etrend']['0q'].revenueEstimateHigh / 1000 | number : 0]]</td>
+<td>[[financials['etrend']['+1q'].revenueEstimateHigh / 1000 | number : 0]]</td>
+<td>[[financials['etrend']['0y'].revenueEstimateHigh / 1000 | number : 0]]</td>
+<td>[[financials['etrend']['+1y'].revenueEstimateHigh / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Estimate Low</td>
+<td>[[financials['etrend']['0q'].revenueEstimateLow / 1000 | number : 0]]</td>
+<td>[[financials['etrend']['0q'].revenueEstimateLow / 1000 | number : 0]]</td>
+<td>[[financials['etrend']['0y'].revenueEstimateLow / 1000 | number : 0]]</td>
+<td>[[financials['etrend']['+1y'].revenueEstimateLow / 1000 | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Estimate Growth</td>
+<td>[[financials['etrend']['0q'].revenueEstimateGrowth * 100 | number : 2]]%</td>
+<td>[[financials['etrend']['+1q'].revenueEstimateGrowth * 100 | number : 2]]%</td>
+<td>[[financials['etrend']['0y'].revenueEstimateGrowth * 100 | number : 2]]%</td>
+<td>[[financials['etrend']['+1y'].revenueEstimateGrowth * 100| number : 2]]%</td>
+</tr>
+<tr>
+<td class=text-align-left>Year Ago EPS</td>
+<td>[[financials['etrend']['0q'].revenueEstimateYearAgoEps | number : 0]]</td>
+<td>[[financials['etrend']['+1q'].revenueEstimateYearAgoEps | number : 0]]</td>
+<td>[[financials['etrend']['0y'].revenueEstimateYearAgoEps | number : 0]]</td>
+<td>[[financials['etrend']['+1y'].revenueEstimateYearAgoEps | number : 0]]</td>
+</tr>
+</table>
+<table class="table ticker2-financials-table margin-top-50">
+<tr>
+<td class="text-align-left ticker2-financials-table-comment"></td>
+<td>Cur Qtr ([[financials['etrend']['0q'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Next Qtr ([[financials['etrend']['+1q'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Cur Year ([[financials['etrend']['0y'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Next Year ([[financials['etrend']['+1y'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">EPS Trend</td>
+<td colspan=4></td>
+</tr>
+<tr>
+<td class=text-align-left>Current Estimate</td>
+<td>[[financials['etrend']['0q'].epsTrendCurrent | number : 2]]</td>
+<td>[[financials['etrend']['+1q'].epsTrendCurrent | number : 2]]</td>
+<td>[[financials['etrend']['0y'].epsTrendCurrent | number : 2]]</td>
+<td>[[financials['etrend']['+1y'].epsTrendCurrent | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>7 Days Ago</td>
+<td>[[financials['etrend']['0q'].epsTrend7daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['+1q'].epsTrend7daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['0y'].epsTrend7daysAgo| number : 2]]</td>
+<td>[[financials['etrend']['+1y'].epsTrend7daysAgo | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>30 Days Ago</td>
+<td>[[financials['etrend']['0q'].epsTrend30daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['+1q'].epsTrend30daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['0y'].epsTrend30daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['+1y'].epsTrend30daysAgo | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>60 Days Ago</td>
+<td>[[financials['etrend']['0q'].epsTrend60daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['+1q'].epsTrend60daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['0y'].epsTrend60daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['+1y'].epsTrend60daysAgo | number : 2]]</td>
+</tr>
+<tr>
+<td class=text-align-left>90 Days Ago</td>
+<td>[[financials['etrend']['0q'].epsTrend90daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['+1q'].epsTrend90daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['0y'].epsTrend90daysAgo | number : 2]]</td>
+<td>[[financials['etrend']['+1y'].epsTrend90daysAgo | number : 2]]</td>
+</tr>
+</table>
+<table class="table ticker2-financials-table margin-top-50">
+<tr>
+<td class="text-align-left ticker2-financials-table-comment"></td>
+<td>Cur Qtr ([[financials['etrend']['0q'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Next Qtr ([[financials['etrend']['+1q'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Cur Year ([[financials['etrend']['0y'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+<td>Next Year ([[financials['etrend']['+1y'].date | strtotimestamp | date: 'MMM yyyy']])</td>
+</tr>
+<tr>
+<td class="text-align-left ticker2-financials-table-title">EPS Revisions</td>
+<td colspan=4></td>
+</tr>
+<tr>
+<td class=text-align-left>Up Last 7 Days</td>
+<td>[[financials['etrend']['0q'].epsRevisionsUpLast7days | number : 0]]</td>
+<td>[[financials['etrend']['+1q'].epsRevisionsUpLast7days | number : 0]]</td>
+<td>[[financials['etrend']['0y'].epsRevisionsUpLast7days | number : 0]]</td>
+<td>[[financials['etrend']['+1y'].epsRevisionsUpLast7days | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Up Last 30 Days</td>
+<td>[[financials['etrend']['0q'].epsRevisionsUpLast30days | number : 0]]</td>
+<td>[[financials['etrend']['+1q'].epsRevisionsUpLast30days | number : 0]]</td>
+<td>[[financials['etrend']['0y'].epsRevisionsUpLast30days| number : 0]]</td>
+<td>[[financials['etrend']['+1y'].epsRevisionsUpLast30days | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Down Last 30 Days</td>
+<td>[[financials['etrend']['0q'].epsRevisionsDownLast30days | number : 0]]</td>
+<td>[[financials['etrend']['+1q'].epsRevisionsDownLast30days | number : 0]]</td>
+<td>[[financials['etrend']['0y'].epsRevisionsDownLast30days | number : 0]]</td>
+<td>[[financials['etrend']['+1y'].epsRevisionsDownLast30days | number : 0]]</td>
+</tr>
+<tr>
+<td class=text-align-left>Down Last 90 Days</td>
+<td>[[financials['etrend']['0q'].epsRevisionsDownLast90days | number : 0]]</td>
+<td>[[financials['etrend']['+1q'].epsRevisionsDownLast90days | number : 0]]</td>
+<td>[[financials['etrend']['0y'].epsRevisionsDownLast90days | number : 0]]</td>
+<td>[[financials['etrend']['+1y'].epsRevisionsDownLast90days | number : 0]]</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class=col-md-4>
+&nbsp;
+</div>
+</div> </div>
+<div ng-show="tickerPage=='History'">
+<div class=row>
+<div class="col-md-8 col-sm-12">
+<div class=row>
+<div class="col-md-12 margin-top-20">
+<a href="" ng-click="updateHistoricalData('1','month');">
+MONTH
+</a>
+|
+<a href="" ng-click="updateHistoricalData('3','months');">
+3 MONTHS
+</a>
+|
+<a href="" ng-click="updateHistoricalData('1','year');">
+YEAR
+</a>
+|
+<a href="" ng-click="updateHistoricalData('2','years');">
+2 YEARS
+</a>
+|
+<a href="" ng-click="updateHistoricalData('5','years');">
+5 YEARS
+</a>
+|
+<a href="" ng-click="updateHistoricalData('','');">
+ALL
+</a>
+<a href="" ng-click="downloadTickerHistory()" class=pull-right>
+<i class="fa fa-download"></i>Download Data
+</a>
+</div>
+</div>
+<div class="row margin-top-20" ng-cloak ng-show=tickerHistoryBusy>
+<div class="col-md-12 loading">
+<i class="fa fa-spinner fa-pulse"></i>
+</div>
+</div>
+<div class="row margin-top-20" ng-cloak ng-show="!tickerHistoryBusy">
+<div class=col-md-12>
+<table class="table ticker2-financials-table">
+<tr class=ticker2-financials-table-comment>
+<td>Date</td>
+<td>Open</td>
+<td>High</td>
+<td>Low</td>
+<td>Close</td>
+<td>Volume</td>
+</tr>
+<tr ng-repeat="data in tickerHistoricalData">
+<td>[[data.Date]]</td>
+<td>[[data.Open | number : 2]]</td>
+<td>[[data.High | number : 2]]</td>
+<td>[[data.Low | number : 2]]</td>
+<td>[[data.Close | number : 2]]</td>
+<td>[[data.Volume | number : 0]]</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class=col-md-4>
+</div>
+</div> </div>
+</div>
+<script>window.ticker=50817;window.tickerCode='MERC';window.tickerExchangeShortName='USA';window.tickerExchangeShortNameUB='US';window.tickerRefundPrice='-0.0700';window.tickerRefundPriceP='-0.48';window.tickerOriginalPrice='14.6500';window.tickerLastPrice='14.6500';window.tickerLastDate=1550811600;window.inWatchlist=0;window.showHistory=1;window.tickerCurrency='&#36;';window.bookValues=[{selectText:'Book Value',period:0,text:'&#36;8.92',strength:'2'},{selectText:'P/B Ratio',period:1,text:'1.64',strength:'reverse_1'},];window.betaValues=[{selectText:'1yr Beta',period:1,text:'0.15',strength:2},];window.expReturnValues=[{selectText:'1yr Exp. Return',period:250,text:'22.25%',strength:5},{selectText:'3m Exp. Return',period:63,text:'23.45%',strength:5},{selectText:'1m Exp. Return',period:21,text:'4.81%',strength:3},];window.volatilityValues=[{selectText:'1yr Volatility',period:250,text:'42.69%',strength:5},{selectText:'3m Volatility',period:63,text:'26.99%',strength:5},{selectText:'1m Volatility',period:21,text:'9.17%',strength:3},];window.epsValues=[{selectText:'Profitability (EPS)',text:'&#36;1.96',strength:5},{selectText:'EPS estimate current year',text:'&#36;0.91',strength:5},{selectText:'EPS estimate next quarter',text:'&#36;0.30',strength:5},{selectText:'EPS estimate next year',text:'&#36;1.00',strength:5},];window.financials={"bs":[{"ticker_id":50817,"date":"2016-12-31","filing_date":"0000-00-00","currency_symbol":"USD","intangibleAssets":"7591000.00","totalLiab":"779580000.00","totalStockholderEquity":"379128000.00","deferredLongTermLiab":"17314000.00","otherCurrentLiab":"12977000.00","totalAssets":"1158708000.00","commonStock":"64656000.00","otherCurrentAssets":"4327000.00","retainedEarnings":"166068000.00","otherLiab":"47114000.00","goodWill":null,"otherAssets":"10990000.00","cash":"136569000.00","totalCurrentLiabilities":"93170000.00","shortLongTermDebt":"6522000.00","otherStockholderEquity":"-185269000.00","propertyPlantEquipment":"738276000.00","totalCurrentAssets":"401851000.00","longTermInvestments":null,"netTangibleAssets":"371537000.00","shortTermInvestments":null,"netReceivables":"123892000.00","longTermDebt":"617545000.00","inventory":"133451000.00","accountsPayable":"28815000.00","totalPermanentEquity":null,"noncontrollingInterestInConsolidatedEntity":null,"temporaryEquityRedeemableNoncontrollingInterests":null,"accumulatedOtherComprehensiveIncome":null,"additionalPaidInCapital":null,"commonStockTotalEquity":null,"preferredStockTotalEquity":null,"retainedEarningsTotalEquity":null,"treasuryStock":null},{"ticker_id":50817,"date":"2017-12-31","filing_date":"0000-00-00","currency_symbol":"USD","intangibleAssets":"24572000.00","totalLiab":"1174044000.00","totalStockholderEquity":"550666000.00","deferredLongTermLiab":"31961000.00","otherCurrentLiab":"19785000.00","totalAssets":"1724710000.00","commonStock":"64974000.00","otherCurrentAssets":"317439000.00","retainedEarnings":"205998000.00","otherLiab":"58395000.00","goodWill":null,"otherAssets":"2951000.00","cash":"143299000.00","totalCurrentLiabilities":"430466000.00","shortLongTermDebt":"295924000.00","otherStockholderEquity":"-59001000.00","propertyPlantEquipment":"844848000.00","totalCurrentAssets":"852339000.00","longTermInvestments":null,"netTangibleAssets":"526094000.00","shortTermInvestments":null,"netReceivables":"206027000.00","longTermDebt":"662997000.00","inventory":"176601000.00","accountsPayable":"36151000.00","totalPermanentEquity":null,"noncontrollingInterestInConsolidatedEntity":null,"temporaryEquityRedeemableNoncontrollingInterests":null,"accumulatedOtherComprehensiveIncome":null,"additionalPaidInCapital":null,"commonStockTotalEquity":null,"preferredStockTotalEquity":null,"retainedEarningsTotalEquity":null,"treasuryStock":null},{"ticker_id":50817,"date":"2018-12-31","filing_date":null,"currency_symbol":"USD","intangibleAssets":"53927000.00","totalLiab":"1394306000.00","totalStockholderEquity":"581429000.00","deferredLongTermLiab":null,"otherCurrentLiab":"40443000.00","totalAssets":"1975735000.00","commonStock":"65171000.00","otherCurrentAssets":null,"retainedEarnings":"301990000.00","otherLiab":"132860000.00","goodWill":null,"otherAssets":"19278000.00","cash":"240491000.00","totalCurrentLiabilities":"195388000.00","shortLongTermDebt":null,"otherStockholderEquity":"-128170000.00","propertyPlantEquipment":"1029257000.00","totalCurrentAssets":"810699000.00","longTermInvestments":"62574000.00","netTangibleAssets":"527502000.00","shortTermInvestments":null,"netReceivables":"252692000.00","longTermDebt":"1041389000.00","inventory":"303813000.00","accountsPayable":"36333000.00","totalPermanentEquity":null,"noncontrollingInterestInConsolidatedEntity":null,"temporaryEquityRedeemableNoncontrollingInterests":null,"accumulatedOtherComprehensiveIncome":null,"additionalPaidInCapital":null,"commonStockTotalEquity":null,"preferredStockTotalEquity":null,"retainedEarningsTotalEquity":null,"treasuryStock":null}],"bsq":[{"ticker_id":50817,"date":"2018-03-31","filing_date":"0000-00-00","currency_symbol":"USD","intangibleAssets":"26025000.00","totalLiab":"922686000.00","totalStockholderEquity":"584494000.00","deferredLongTermLiab":"38102000.00","otherCurrentLiab":"26498000.00","totalAssets":"1507180000.00","commonStock":"65127000.00","otherCurrentAssets":"15762000.00","retainedEarnings":"223501000.00","otherLiab":"59426000.00","goodWill":null,"otherAssets":"1891000.00","cash":"213566000.00","totalCurrentLiabilities":"151491000.00","shortLongTermDebt":"711769000.00","otherStockholderEquity":"-42869000.00","propertyPlantEquipment":"851622000.00","totalCurrentAssets":"627642000.00","longTermInvestments":null,"netTangibleAssets":"558469000.00","shortTermInvestments":null,"netReceivables":"212845000.00","longTermDebt":"684335000.00","inventory":"185469000.00","accountsPayable":"42828000.00","totalPermanentEquity":null,"noncontrollingInterestInConsolidatedEntity":null,"temporaryEquityRedeemableNoncontrollingInterests":null,"accumulatedOtherComprehensiveIncome":null,"additionalPaidInCapital":null,"commonStockTotalEquity":null,"preferredStockTotalEquity":null,"retainedEarningsTotalEquity":null,"treasuryStock":null},{"ticker_id":50817,"date":"2018-06-30","filing_date":"0000-00-00","currency_symbol":"USD","intangibleAssets":"23299000.00","totalLiab":"983887000.00","totalStockholderEquity":"538502000.00","deferredLongTermLiab":null,"otherCurrentLiab":"31119000.00","totalAssets":"1522389000.00","commonStock":"65171000.00","otherCurrentAssets":null,"retainedEarnings":"232105000.00","otherLiab":"58484000.00","goodWill":null,"otherAssets":"1411000.00","cash":"269482000.00","totalCurrentLiabilities":"188471000.00","shortLongTermDebt":"736932000.00","otherStockholderEquity":"-99224000.00","propertyPlantEquipment":"836116000.00","totalCurrentAssets":"661563000.00","longTermInvestments":null,"netTangibleAssets":"515203000.00","shortTermInvestments":null,"netReceivables":"190807000.00","longTermDebt":"699261000.00","inventory":"189233000.00","accountsPayable":"49175000.00","totalPermanentEquity":null,"noncontrollingInterestInConsolidatedEntity":null,"temporaryEquityRedeemableNoncontrollingInterests":null,"accumulatedOtherComprehensiveIncome":null,"additionalPaidInCapital":null,"commonStockTotalEquity":null,"preferredStockTotalEquity":null,"retainedEarningsTotalEquity":null,"treasuryStock":null},{"ticker_id":50817,"date":"2018-09-30","filing_date":null,"currency_symbol":"USD","intangibleAssets":"24274000.00","totalLiab":"971354000.00","totalStockholderEquity":"569942000.00","deferredLongTermLiab":null,"otherCurrentLiab":"36728000.00","totalAssets":"1541296000.00","commonStock":"65171000.00","otherCurrentAssets":null,"retainedEarnings":"265131000.00","otherLiab":"63857000.00","goodWill":null,"otherAssets":"4641000.00","cash":"242185000.00","totalCurrentLiabilities":"174739000.00","shortLongTermDebt":null,"otherStockholderEquity":"-101780000.00","propertyPlantEquipment":"834347000.00","totalCurrentAssets":"678034000.00","longTermInvestments":null,"netTangibleAssets":"545668000.00","shortTermInvestments":null,"netReceivables":"193648000.00","longTermDebt":"696519000.00","inventory":"229784000.00","accountsPayable":"46529000.00","totalPermanentEquity":null,"noncontrollingInterestInConsolidatedEntity":null,"temporaryEquityRedeemableNoncontrollingInterests":null,"accumulatedOtherComprehensiveIncome":null,"additionalPaidInCapital":null,"commonStockTotalEquity":null,"preferredStockTotalEquity":null,"retainedEarningsTotalEquity":null,"treasuryStock":null},{"ticker_id":50817,"date":"2018-12-31","filing_date":null,"currency_symbol":"USD","intangibleAssets":"53927000.00","totalLiab":"1394306000.00","totalStockholderEquity":"581429000.00","deferredLongTermLiab":null,"otherCurrentLiab":"40443000.00","totalAssets":"1975735000.00","commonStock":"65171000.00","otherCurrentAssets":null,"retainedEarnings":"301990000.00","otherLiab":"132860000.00","goodWill":null,"otherAssets":"19278000.00","cash":"240491000.00","totalCurrentLiabilities":"195388000.00","shortLongTermDebt":null,"otherStockholderEquity":"-128170000.00","propertyPlantEquipment":"1029257000.00","totalCurrentAssets":"810699000.00","longTermInvestments":"62574000.00","netTangibleAssets":"527502000.00","shortTermInvestments":null,"netReceivables":"252692000.00","longTermDebt":"1041389000.00","inventory":"303813000.00","accountsPayable":"36333000.00","totalPermanentEquity":null,"noncontrollingInterestInConsolidatedEntity":null,"temporaryEquityRedeemableNoncontrollingInterests":null,"accumulatedOtherComprehensiveIncome":null,"additionalPaidInCapital":null,"commonStockTotalEquity":null,"preferredStockTotalEquity":null,"retainedEarningsTotalEquity":null,"treasuryStock":null}],"is":[{"ticker_id":50817,"date":"2016-12-31","filing_date":"0000-00-00","currency_symbol":"USD","researchDevelopment":null,"effectOfAccountingCharges":null,"incomeBeforeTax":"59464000.00","minorityInterest":null,"netIncome":"34943000.00","sellingGeneralAdministrative":"44529000.00","grossProfit":"231129000.00","ebit":"115124000.00","operatingIncome":"115124000.00","otherOperatingExpenses":null,"interestExpense":"-51575000.00","extraordinaryItems":null,"nonRecurring":null,"otherItems":null,"incomeTaxExpense":"24521000.00","totalRevenue":"931623000.00","totalOperatingExpenses":"816499000.00","costOfRevenue":"700494000.00","totalOtherIncomeExpenseNet":"-55660000.00","discontinuedOperations":null,"netIncomeFromContinuingOps":"34943000.00","netIncomeApplicableToCommonShares":"34943000.00"},{"ticker_id":50817,"date":"2017-12-31","filing_date":"0000-00-00","currency_symbol":"USD","researchDevelopment":null,"effectOfAccountingCharges":null,"incomeBeforeTax":"103935000.00","minorityInterest":null,"netIncome":"70483000.00","sellingGeneralAdministrative":"49679000.00","grossProfit":"303126000.00","ebit":"168554000.00","operatingIncome":"168554000.00","otherOperatingExpenses":null,"interestExpense":"-54796000.00","extraordinaryItems":null,"nonRecurring":null,"otherItems":null,"incomeTaxExpense":"33452000.00","totalRevenue":"1169145000.00","totalOperatingExpenses":"1000591000.00","costOfRevenue":"866019000.00","totalOtherIncomeExpenseNet":"-64619000.00","discontinuedOperations":null,"netIncomeFromContinuingOps":"70483000.00","netIncomeApplicableToCommonShares":"70483000.00"},{"ticker_id":50817,"date":"2018-12-31","filing_date":null,"currency_symbol":"USD","researchDevelopment":null,"effectOfAccountingCharges":null,"incomeBeforeTax":"177270000.00","minorityInterest":null,"netIncome":"128589000.00","sellingGeneralAdministrative":"58814000.00","grossProfit":"425617000.00","ebit":"270515000.00","operatingIncome":"270515000.00","otherOperatingExpenses":null,"interestExpense":"-51464000.00","extraordinaryItems":null,"nonRecurring":null,"otherItems":null,"incomeTaxExpense":"48681000.00","totalRevenue":"1457718000.00","totalOperatingExpenses":"1187203000.00","costOfRevenue":"1032101000.00","totalOtherIncomeExpenseNet":"-93245000.00","discontinuedOperations":null,"netIncomeFromContinuingOps":"128589000.00","netIncomeApplicableToCommonShares":"128589000.00"}],"isq":[{"ticker_id":50817,"date":"2018-03-31","filing_date":"0000-00-00","currency_symbol":"USD","researchDevelopment":null,"effectOfAccountingCharges":null,"incomeBeforeTax":"35230000.00","minorityInterest":null,"netIncome":"25649000.00","sellingGeneralAdministrative":"14361000.00","grossProfit":"113618000.00","ebit":"76048000.00","operatingIncome":"76048000.00","otherOperatingExpenses":null,"interestExpense":"-12115000.00","extraordinaryItems":null,"nonRecurring":null,"otherItems":null,"incomeTaxExpense":"9581000.00","totalRevenue":"367903000.00","totalOperatingExpenses":"291855000.00","costOfRevenue":"254285000.00","totalOtherIncomeExpenseNet":"-40818000.00","discontinuedOperations":null,"netIncomeFromContinuingOps":"25649000.00","netIncomeApplicableToCommonShares":"25649000.00"},{"ticker_id":50817,"date":"2018-06-30","filing_date":"0000-00-00","currency_symbol":"USD","researchDevelopment":null,"effectOfAccountingCharges":null,"incomeBeforeTax":"25216000.00","minorityInterest":null,"netIncome":"16755000.00","sellingGeneralAdministrative":"15016000.00","grossProfit":"75398000.00","ebit":"37476000.00","operatingIncome":"37476000.00","otherOperatingExpenses":null,"interestExpense":"-12128000.00","extraordinaryItems":null,"nonRecurring":null,"otherItems":null,"incomeTaxExpense":"8461000.00","totalRevenue":"346532000.00","totalOperatingExpenses":"309056000.00","costOfRevenue":"271134000.00","totalOtherIncomeExpenseNet":"-12260000.00","discontinuedOperations":null,"netIncomeFromContinuingOps":"16755000.00","netIncomeApplicableToCommonShares":"16755000.00"},{"ticker_id":50817,"date":"2018-09-30","filing_date":null,"currency_symbol":"USD","researchDevelopment":null,"effectOfAccountingCharges":null,"incomeBeforeTax":"51358000.00","minorityInterest":null,"netIncome":"41176000.00","sellingGeneralAdministrative":"14788000.00","grossProfit":"101049000.00","ebit":"63064000.00","operatingIncome":"63064000.00","otherOperatingExpenses":null,"interestExpense":"-11729000.00","extraordinaryItems":null,"nonRecurring":null,"otherItems":null,"incomeTaxExpense":"10182000.00","totalRevenue":"331058000.00","totalOperatingExpenses":"267994000.00","costOfRevenue":"230009000.00","totalOtherIncomeExpenseNet":"-11706000.00","discontinuedOperations":null,"netIncomeFromContinuingOps":"41176000.00","netIncomeApplicableToCommonShares":"41176000.00"},{"ticker_id":50817,"date":"2018-12-31","filing_date":null,"currency_symbol":"USD","researchDevelopment":null,"effectOfAccountingCharges":null,"incomeBeforeTax":"65466000.00","minorityInterest":null,"netIncome":"45009000.00","sellingGeneralAdministrative":"14067000.00","grossProfit":"135552000.00","ebit":"94509000.00","operatingIncome":"94509000.00","otherOperatingExpenses":null,"interestExpense":"-15492000.00","extraordinaryItems":null,"nonRecurring":null,"otherItems":null,"incomeTaxExpense":"20457000.00","totalRevenue":"412225000.00","totalOperatingExpenses":"317716000.00","costOfRevenue":"276673000.00","totalOtherIncomeExpenseNet":"-29043000.00","discontinuedOperations":null,"netIncomeFromContinuingOps":"45009000.00","netIncomeApplicableToCommonShares":"45009000.00"}],"cf":[{"ticker_id":50817,"date":"2016-12-31","filing_date":"0000-00-00","currency_symbol":"USD","investments":null,"changeToLiabilities":"-10274000.00","totalCashflowsFromInvestingActivities":"-44303000.00","netBorrowings":"-23079000.00","totalCashFromFinancingActivities":"-62377000.00","changeToOperatingActivities":"1676000.00","netIncome":"34943000.00","changeInCash":"32037000.00","totalCashFromOperatingActivities":"140782000.00","depreciation":"71984000.00","otherCashflowsFromInvestingActivities":"67000.00","dividendsPaid":"-29733000.00","changeToInventory":"6844000.00","changeToAccountReceivables":"9466000.00","salePurchaseOfStock":null,"otherCashflowsFromFinancingActivities":"-9565000.00","changeToNetincome":"26143000.00","capitalExpenditures":"-42526000.00"},{"ticker_id":50817,"date":"2017-12-31","filing_date":"0000-00-00","currency_symbol":"USD","investments":null,"changeToLiabilities":"37170000.00","totalCashflowsFromInvestingActivities":"-121551000.00","netBorrowings":"337336000.00","totalCashFromFinancingActivities":"288751000.00","changeToOperatingActivities":"-4365000.00","netIncome":"70483000.00","changeInCash":"319842000.00","totalCashFromOperatingActivities":"141926000.00","depreciation":"85294000.00","otherCashflowsFromInvestingActivities":"-232000.00","dividendsPaid":"-29866000.00","changeToInventory":"-19994000.00","changeToAccountReceivables":"-64949000.00","salePurchaseOfStock":null,"otherCashflowsFromFinancingActivities":"-18719000.00","changeToNetincome":"38287000.00","capitalExpenditures":"-57915000.00"},{"ticker_id":50817,"date":"2018-12-31","filing_date":null,"currency_symbol":"USD","investments":null,"changeToLiabilities":"37959000.00","totalCashflowsFromInvestingActivities":"-467479000.00","netBorrowings":"69121000.00","totalCashFromFinancingActivities":"14861000.00","changeToOperatingActivities":"-4108000.00","netIncome":"128589000.00","changeInCash":"-220247000.00","totalCashFromOperatingActivities":"236668000.00","depreciation":"96729000.00","otherCashflowsFromInvestingActivities":"445000.00","dividendsPaid":"-40724000.00","changeToInventory":"-58082000.00","changeToAccountReceivables":"-10370000.00","salePurchaseOfStock":null,"otherCashflowsFromFinancingActivities":"-13536000.00","changeToNetincome":"45951000.00","capitalExpenditures":"-87012000.00"}],"cfq":[{"ticker_id":50817,"date":"2018-03-31","filing_date":"0000-00-00","currency_symbol":"USD","investments":null,"changeToLiabilities":"18027000.00","totalCashflowsFromInvestingActivities":"-16351000.00","netBorrowings":"-297368000.00","totalCashFromFinancingActivities":"-307733000.00","changeToOperatingActivities":"-6398000.00","netIncome":"25649000.00","changeInCash":"-247172000.00","totalCashFromOperatingActivities":"76377000.00","depreciation":"23319000.00","otherCashflowsFromInvestingActivities":"67000.00","dividendsPaid":"-8127000.00","changeToInventory":"-6822000.00","changeToAccountReceivables":"-5132000.00","salePurchaseOfStock":null,"otherCashflowsFromFinancingActivities":"-2238000.00","changeToNetincome":"27734000.00","capitalExpenditures":"-16184000.00"},{"ticker_id":50817,"date":"2018-06-30","filing_date":"0000-00-00","currency_symbol":"USD","investments":null,"changeToLiabilities":"36906000.00","totalCashflowsFromInvestingActivities":"-28741000.00","netBorrowings":"17665000.00","totalCashFromFinancingActivities":"8747000.00","changeToOperatingActivities":"3170000.00","netIncome":"16755000.00","changeInCash":"55916000.00","totalCashFromOperatingActivities":"85745000.00","depreciation":"23014000.00","otherCashflowsFromInvestingActivities":"67000.00","dividendsPaid":"-8147000.00","changeToInventory":"-12221000.00","changeToAccountReceivables":"13475000.00","salePurchaseOfStock":null,"otherCashflowsFromFinancingActivities":"-771000.00","changeToNetincome":"4646000.00","capitalExpenditures":"-28655000.00"},{"ticker_id":50817,"date":"2018-09-30","filing_date":null,"currency_symbol":"USD","investments":null,"changeToLiabilities":"-10803000.00","totalCashflowsFromInvestingActivities":"-26696000.00","netBorrowings":"-3443000.00","totalCashFromFinancingActivities":"-12537000.00","changeToOperatingActivities":"-5252000.00","netIncome":"41176000.00","changeInCash":"-27297000.00","totalCashFromOperatingActivities":"10769000.00","depreciation":"23310000.00","otherCashflowsFromInvestingActivities":"211000.00","dividendsPaid":"-8150000.00","changeToInventory":"-41084000.00","changeToAccountReceivables":"-150000.00","salePurchaseOfStock":null,"otherCashflowsFromFinancingActivities":"-944000.00","changeToNetincome":"3572000.00","capitalExpenditures":"-26744000.00"},{"ticker_id":50817,"date":"2018-12-31","filing_date":null,"currency_symbol":"USD","investments":null,"changeToLiabilities":"-6171000.00","totalCashflowsFromInvestingActivities":"-395691000.00","netBorrowings":"352267000.00","totalCashFromFinancingActivities":"326384000.00","changeToOperatingActivities":"4372000.00","netIncome":"45009000.00","changeInCash":"-1694000.00","totalCashFromOperatingActivities":"63777000.00","depreciation":"27086000.00","otherCashflowsFromInvestingActivities":"167000.00","dividendsPaid":"-16300000.00","changeToInventory":"2045000.00","changeToAccountReceivables":"-18563000.00","salePurchaseOfStock":null,"otherCashflowsFromFinancingActivities":"-9583000.00","changeToNetincome":"9999000.00","capitalExpenditures":"-15429000.00"}],"etrend":{"+1y":{"ticker_id":50817,"date":"2019-12-31","period":"+1y","growth":"0.2270","earningsEstimateAvg":"2.4900","earningsEstimateLow":"1.5500","earningsEstimateHigh":"3.4700","earningsEstimateYearAgoEps":"2.0300","earningsEstimateNumberOfAnalysts":"6.0000","earningsEstimateGrowth":"0.2270","revenueEstimateAvg":"1928830000.00","revenueEstimateLow":"1779300000.00","revenueEstimateHigh":"2180000000.00","revenueEstimateYearAgoEps":null,"revenueEstimateNumberOfAnalysts":"5.00","revenueEstimateGrowth":"0.3300","epsTrendCurrent":"2.4900","epsTrend7daysAgo":"2.4900","epsTrend30daysAgo":"3.0300","epsTrend60daysAgo":"3.0300","epsTrend90daysAgo":"3.0300","epsRevisionsUpLast7days":"0.0000","epsRevisionsUpLast30days":"0.0000","epsRevisionsDownLast30days":"1.0000","epsRevisionsDownLast90days":null},"0y":{"ticker_id":50817,"date":"2019-12-31","period":"0y","growth":"0.2110","earningsEstimateAvg":"2.4700","earningsEstimateLow":"1.5500","earningsEstimateHigh":"3.4700","earningsEstimateYearAgoEps":"2.0400","earningsEstimateNumberOfAnalysts":"6.0000","earningsEstimateGrowth":"0.2110","revenueEstimateAvg":"1928830000.00","revenueEstimateLow":"1779300000.00","revenueEstimateHigh":"2180000000.00","revenueEstimateYearAgoEps":null,"revenueEstimateNumberOfAnalysts":"5.00","revenueEstimateGrowth":"0.3230","epsTrendCurrent":"2.4700","epsTrend7daysAgo":"2.4800","epsTrend30daysAgo":"2.5700","epsTrend60daysAgo":"3.0300","epsTrend90daysAgo":"3.0300","epsRevisionsUpLast7days":"0.0000","epsRevisionsUpLast30days":"0.0000","epsRevisionsDownLast30days":"1.0000","epsRevisionsDownLast90days":null},"+1q":{"ticker_id":50817,"date":"2019-06-30","period":"+1q","growth":"1.1150","earningsEstimateAvg":"0.5500","earningsEstimateLow":"0.1600","earningsEstimateHigh":"0.8300","earningsEstimateYearAgoEps":"0.2600","earningsEstimateNumberOfAnalysts":"4.0000","earningsEstimateGrowth":"1.1150","revenueEstimateAvg":"480310000.00","revenueEstimateLow":"469210000.00","revenueEstimateHigh":"491400000.00","revenueEstimateYearAgoEps":null,"revenueEstimateNumberOfAnalysts":"2.00","revenueEstimateGrowth":"0.3860","epsTrendCurrent":"0.5500","epsTrend7daysAgo":"0.5500","epsTrend30daysAgo":"0.7100","epsTrend60daysAgo":"0.7000","epsTrend90daysAgo":"0.7000","epsRevisionsUpLast7days":"0.0000","epsRevisionsUpLast30days":"0.0000","epsRevisionsDownLast30days":"1.0000","epsRevisionsDownLast90days":null}},"ehistory":[{"ticker_id":50817,"date":"2018-12-31","reportDate":"2019-02-14","reportDateYM":"201902","epsActual":"0.7600","epsEstimate":"0.7800","epsDifference":"-0.0200","surprisePercent":"-2.5600","created_at":"2019-02-15 21:45:24","updated_at":"2019-02-23 21:40:19"},{"ticker_id":50817,"date":"2019-05-02","reportDate":"2019-05-02","reportDateYM":"201905","epsActual":null,"epsEstimate":"0.7400","epsDifference":null,"surprisePercent":null,"created_at":"2019-02-11 03:26:26","updated_at":"2019-02-23 21:40:19"},{"ticker_id":50817,"date":"2019-08-01","reportDate":"2019-08-01","reportDateYM":"201908","epsActual":null,"epsEstimate":null,"epsDifference":null,"surprisePercent":null,"created_at":"2019-02-11 03:26:26","updated_at":"2019-02-11 03:36:57"},{"ticker_id":50817,"date":"2019-10-31","reportDate":"2019-10-31","reportDateYM":"201910","epsActual":null,"epsEstimate":null,"epsDifference":null,"surprisePercent":null,"created_at":"2019-02-11 03:26:26","updated_at":"2019-02-11 03:36:05"}]};</script>
+<footer class=footer>
+<div class="container footer-container">
+<div class=footer-logo></div>
+<ul class=footer-nav>
+<li><a href="https://unicornbay.com/knowledgebase/stock-market-api-development-tools/">Developers</a></li>
+<li><a href="/pricing">Pricing</a></li>
+<li><a href="https://unicornbay.com/knowledgebase/contacts/" target=_blank>Contacts</a></li>
+<li><a href="https://unicornbay.com/blog/" target=_blank>Blog</a></li>
+<li><a href="https://unicornbay.com/knowledgebase/about-unicorn-bay/" target=_blank>About</a></li>
+<li><a href="https://unicornbay.com/knowledgebase/terms-and-conditions-of-use-and-privacy-policy/">Terms of
+use</a></li>
+</ul>
+<p class=footer-copyright>&copy; 2016-2017. Unicorn Bay.</p>
+</div>
+</footer>
+<script type="text/ng-template" id=badTwitterModal.html>
+        <div class="modal-header no-padding-bottom">
+        <h3 class="modal-exceeded-title">Almost done!</h3>
+    </div>
+    <div class="modal-body no-padding-bottom">
+        <p class="text-center">
+            Twitter doesn't provide email address to use then you logged in.<br/>
+            Please, enter your email to continue, you'll only need to do this once.
+        </p>
+
+        <div class="form-horizontal">
+
+            <div class="auth-form__form-line"
+                 ng-class="{'has-error': error.length}">
+                <input class="form-control" type="text" placeholder="Email" ng-model="data.email"/>
+
+                <p class="help-block" ng-show="error.length">
+                    [[ error ]]
+                </p>
+            </div>
+
+            <div class="form-group">
+                <div class="col-sm-12">
+                    <button class="btn btn-primary form-control" type="submit"
+                            ng-click="saveEmail(data)"
+                            ng-disabled="busy">
+                        Link my account
+                    </button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</script><script type="text/ng-template" id=registrationModal.html>
+    <div class="modal-header">
+        <h3 class="modal-title auth-form__title">Sign Up &mdash; it's free and easy.</h3>
+    </div>
+    <div class="modal-body">
+        <div class="auth-form">
+            <div class="auth-form__social-buttons">
+                <div class="auth-form__social-button">
+                    <a class="btn btn-facebook-48" href="" ng-click="registerStat('/slogin/facebook?r=t/MERC.US');"></a>
+                </div>
+                <div class="auth-form__social-button">
+                    <a class="btn btn-google-plus-48" href="" ng-click="registerStat('/slogin/google?r=t/MERC.US');"></a>
+                </div>
+            </div>
+            <div class="auth-form__or">
+                <div class="auth-form__or-inner">or</div>
+            </div>
+            <div class="auth-form__form">
+                <div class="auth-form__form-line" ng-class="{'has-error': errors.name.length}">
+                    <input class="form-control" type="text" placeholder="Full Name" ng-model="data.name"/>
+                    <p class="help-block" ng-repeat="msg in errors.name">[[ msg ]]</p>
+                </div>
+                <div class="auth-form__form-line" ng-class="{'has-error': errors.email.length}">
+                    <input class="form-control" type="text" placeholder="Email" ng-model="data.email"/>
+                    <p class="help-block" ng-repeat="msg in errors.email">[[ msg ]]</p>
+                </div>
+                <div class="auth-form__form-line"
+                     ng-class="{'has-error': errors.password.length}">
+                    <input class="form-control" type="password" placeholder="Password" ng-model="data.password"/>
+
+                    <p class="help-block"
+                       ng-repeat="msg in errors.password">[[ msg ]]</p>
+                </div>
+                <div class="auth-form__form-line">
+                    <input class="form-control" type="password" placeholder="Repeat password"
+                           ng-model="data.password_confirmation"/>
+                </div>
+
+                <input type="hidden" ng-model="data.subscription" ng-init="data.subscription='0'" value="0"/>
+
+                <div class="auth-form__form-line">
+                    <button class="btn btn-primary" type="submit"
+                            ng-click="register(data)"
+                            ng-disabled="busy">
+                        <span ng-class="{'transparent': busy}"><i class="fa fa-lock"></i>&nbsp;Sign Up</span>
+                        <i class="fa fa-spinner fa-pulse input-group-btn__icon ng-hide" aria-hidden="true"
+                           ng-show="busy"></i>
+                    </button>
+                </div>
+
+                <div class="auth-form__agree">
+                    By clicking 'Sign Up' you agree to the
+                    <a href="https://unicornbay.com/knowledgebase/terms-and-conditions-of-use-and-privacy-policy/"
+                       target="_blank">
+                        Terms and Conditions
+                    </a>.
+                </div>
+                <div class="auth-form__form-line">
+                    Already got an account?
+                    <a href="" ng-click="openLoginModal()">Sign in here</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</script><script type="text/ng-template" id=loginModal.html>
+    <div class="modal-header">
+        <h3 class="modal-title auth-form__title">Welcome. Please login.</h3>
+    </div>
+    <div class="modal-body">
+        <div class="auth-form">
+            <div class="auth-form__social-buttons">
+                <div class="auth-form__social-button">
+                    <a class="btn btn-facebook-48" href="" ng-click="loginStat('/slogin/facebook?r=t/MERC.US');"></a>
+                </div>
+                <div class="auth-form__social-button">
+                    <a class="btn btn-google-plus-48" href="" ng-click="loginStat('/slogin/google?r=t/MERC.US');"></a>
+                </div>
+            </div>
+            <div class="auth-form__or">
+                <div class="auth-form__or-inner">or</div>
+            </div>
+            <div class="auth-form__form">
+                <div class="auth-form__form-line"
+                     ng-class="{'has-error': errors.email.length}">
+                    <input class="form-control" type="text" placeholder="Email" ng-model="data.email"/>
+
+                    <p class="help-block"
+                       ng-repeat="msg in errors.email">[[ msg ]]</p>
+                </div>
+                <div class="auth-form__form-line"
+                     ng-class="{'has-error': errors.password.length}">
+                    <input class="form-control" type="password" placeholder="Password" ng-model="data.password"/>
+
+                    <p class="help-block"
+                       ng-repeat="msg in errors.password">[[ msg ]]</p>
+                </div>
+                <div class="auth-form__form-line">
+                    <button class="btn btn-primary" type="submit"
+                            ng-click="login(data)"
+                            ng-disabled="busy">
+                        <span ng-class="{'transparent': busy}"><i class="fa fa-lock"></i>&nbsp;Sign In</span>
+                        <i class="fa fa-spinner fa-pulse input-group-btn__icon ng-hide" aria-hidden="true"
+                           ng-show="busy"></i>
+                    </button>
+                </div>
+                <div class="auth-form__form-line">
+                    <a href="" ng-click="openRegisterModal()">Create an account.</a> It's free and easy.
+                </div>
+                <div class="auth-form__form-line">
+                    <a href="" ng-click="openRestorePasswordModal()">Forgot password?</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</script><script type="text/ng-template" id=restorePasswordModal.html>
+    <div class="modal-header">
+        <h3 class="modal-title">Restore password</h3>
+    </div>
+    <div class="modal-body">
+        <div class="auth-form">
+            <div class="auth-form__form-line"
+                 ng-show="!resetted"
+                 ng-class="{'has-error': errors.email.length}">
+                <input class="form-control" type="text" placeholder="Email" ng-model="restoreEmail"/>
+                <p class="help-block"
+                   ng-repeat="msg in errors.email">[[ msg ]]</p>
+            </div>
+            <div class="auth-form__form-line" ng-show="!resetted">
+                <button class="btn btn-primary" type="submit"
+                        ng-click="restore({email:restoreEmail})"
+                        ng-disabled="busy">
+                    <span ng-class="{'transparent': busy}">Restore Password</span>
+                    <i class="fa fa-spinner fa-pulse input-group-btn__icon ng-hide" aria-hidden="true"
+                       ng-show="busy"></i>
+                </button>
+            </div>
+            <div class="auth-form__form-line" ng-show="resetted">
+                [[response]]
+            </div>
+            <div class="auth-form__form-line">
+                <a href="" ng-click="openLoginModal()">Return to login</a>
+            </div>
+        </div>
+    </div>
+</script><script type="text/ng-template" id=searchTypeaheadTemplate.html>
+    <a class="rebalancer-suggest"
+       ng-show="!match.model.empty">
+        <span class="rebalancer-suggest-code">
+            <span class="rebalancer-suggest-exchange">[[match.model.exchange_name]]</span>
+            [[ match.model.code ]]
+        </span>
+        <span class="rebalancer-suggest-name"
+              ng-bind-html="match.model.name | uibTypeaheadHighlight:query">
+        </span>
+    </a>
+    <div class="rebalancer-suggest__no-result" ng-show="match.model.empty">
+        Missing something? <a href="mailto:info@unicornbay.com?Subject=Add new asset">Tell us</a>!
+        And we'll add it.
+    </div>
+</script><script type="text/ng-template" id=limitExceededModal.html>
+    <div class="modal-header">
+        <h3 class="modal-exceeded-title">Limit Exceeded</h3>
+        Try our plan 14 days for Free. No credit cards required.
+    </div>
+    <div class="modal-footer">
+        <a class="btn btn-warning" href="" ng-click="ok()">Try for Free</a>
+        <a class="btn btn-default" href="" ng-click="cancel()">Later</a>
+    </div>
+</script><script type="text/ng-template" id=exchangesList.html>
+    <div class="popover-exchanges-list-main">
+        <div class="popover-exchanges-list-exchange" ng-repeat="exchange in exchanges">
+            <a href ng-click="selectFilter(exchange, 'exchange_str');popovers.exchanges=false">
+                <img class="watchlist-table-flags" ng-if="exchange.value != 'Any'"
+                     ng-src="/img/flags/[[ exchange.value ]].png">
+                [[ exchange.title ]]
+            </a>
+        </div>
+    </div>
+</script><script type="text/ng-template" id=tagsPopoverListBlns.html>
+    <div class="popover-tags-list-main">
+        <div class="checkbox popover-tags-list-tag"
+             data-ng-repeat="tag in allTags | filter: {category:'Billionaires'}">
+            <input type="checkbox" id="[[ tag.value ]]"
+                   ng-model="selected['tags'][tag.value]"
+                   ng-change="checkFilter(tag, 'tags')"
+                   ng-disabled="loading">
+            <label for="[[ tag.value ]]">
+                [[ tag.title ]]
+            </label>
+        </div>
+    </div>
+</script>
+<script type="text/ng-template" id=tagsPopoverListMarket.html>
+    <div class="popover-tags-list-main">
+        <div class="checkbox popover-tags-list-tag popover-tags-list-auto-min-height"
+             data-ng-repeat="tag in allTags | filter: {category:'Market Themes'}">
+            <input type="checkbox" id="[[ tag.value ]]"
+                   ng-model="selected['tags'][tag.value]"
+                   ng-change="checkFilter(tag, 'tags')"
+                   ng-disabled="loading">
+            <label for="[[ tag.value ]]">
+                [[ tag.title ]]
+            </label>
+        </div>
+    </div>
+</script>
+<script type="text/ng-template" id=signalsTechnicalPopoverList.html>
+    <div class="popover-tags-list-main" style="width: 365px;">
+        <div class="popover-tags-list-item"
+             data-ng-repeat="(key,group) in allSignals | filter: {signal_type: 'technical'} | filter: getSignalsInFilter | groupBy: 'group'">
+            <div class="popover-tags-list-filter-title">
+                [[ key ]]
+            </div>
+            <div class="popover-tags-list-filter-text">
+                <div class="btn-group">
+                    <label data-ng-repeat="signal in group | orderBy :'category'"
+                           uib-popover="[[signal.descr]]"
+                           popover-append-to-body="true"
+                           popover-popup-delay=500
+                           popover-trigger="mouseenter"
+                           style="width: 70px;"
+                           class="btn btn-xs btn-default"
+                           ng-class="{positive: signal.category>0, negative: signal.category<0}"
+                           ng-model="selected['signals'][key]"
+                           uib-btn-radio="signal.value"
+                           ng-disabled="loading"
+                           ng-click="radioFilter(signal, 'signals')"
+                           uncheckable>[[ signal.filterText ]]</label>
+                    <label class="btn btn-xs btn-default"
+                           ng-model="selected['signals'][key]"
+                           uib-btn-radio="null"
+                           ng-show="!loading && selected['signals'][key]"
+                           ng-click="radioFilter({group: key, value: null}, 'signals')"
+                    ><i class="fa fa-times"></i></label>
+                </div>
+            </div>
+        </div>
+    </div>
+</script><script type="text/ng-template" id=signalsFundamentalPopoverList.html>
+    <div class="popover-tags-list-main" style="width: 365px;">
+        <div class="popover-tags-list-item"
+             data-ng-repeat="(key,group) in allSignals | filter: {signal_type: 'fundamental'} | filter: getSignalsInFilter | groupBy: 'group'">
+            <div class="popover-tags-list-filter-title">
+                [[ key ]]
+            </div>
+            <div class="popover-tags-list-filter-text">
+                <div class="btn-group">
+                    <label data-ng-repeat="signal in group | orderBy :'category'"
+                           uib-popover="[[signal.descr]]"
+                           popover-append-to-body="true"
+                           popover-popup-delay=500
+                           popover-trigger="mouseenter"
+                           style="width: 70px;"
+                           class="btn btn-xs btn-default"
+                           ng-class="{positive: signal.category>0, negative: signal.category<0}"
+                           ng-model="selected['signals'][key]"
+                           uib-btn-radio="signal.value"
+                           ng-disabled="loading"
+                           ng-click="radioFilter(signal, 'signals')"
+                           uncheckable>[[ signal.filterText ]]</label>
+                    <label class="btn btn-xs btn-default"
+                           ng-model="selected['signals'][key]"
+                           uib-btn-radio="null"
+                           ng-show="!loading && selected['signals'][key]"
+                           ng-click="radioFilter({group: key, value: null}, 'signals')"
+                    ><i class="fa fa-times"></i></label>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/ng-template" id=calculateBetaModal.html>
+    <div class="beta-modal-header">
+        Calculate Beta for any asset
+    </div>
+    <div class="modal-body">
+        <div class="form-horizontal">
+            <fieldset>
+                <div class="form-group">
+                    <label for="inputEmail3"
+                           class="col-md-2 col-sm-2 control-label">Ticker</label>
+
+                    <div class="col-md-4 col-sm-4">
+                        <input class="form-control"
+                               placeholder="e.g., TSLA"
+                               autocomplete="off"
+                               ng-model="beta.symbol"
+                               ng-model-options="{ debounce: { 'default': 500, 'blur': 0 } }"
+                               uib-typeahead="ticker as ticker.code for ticker in getTickers($viewValue) | limitTo:10"
+                               typeahead-loading="loadingSearchSymbol"
+                               typeahead-input-formatter="filterEmpty($model)"
+                               typeahead-on-select="go"
+                               typeahead-template-url="searchTypeaheadTemplate.html">
+
+                        <i class="fa fa-spinner fa-pulse form-control-feedback"
+                           aria-hidden="true"
+                           ng-show="loadingSearchSymbol"></i>
+                    </div>
+
+                    <label for="inputEmail3" class="col-md-2 col-sm-2 control-label">Start</label>
+
+                    <div class="col-md-4 col-sm-4">
+                        <p class="input-group">
+                            <input type="text" class="form-control"
+                                   uib-datepicker-popup="[[format]]"
+                                   on-open-focus="true"
+                                   ng-model="beta.dateStart"
+                                   datepicker-options="dateOptions"
+                                   close-text="Close"
+                                   is-open="datePickerOpenedStart"
+                                   placeholder="e.g, 26/04/15"/>
+                            <span class="input-group-btn">
+                                <button type="button" class="btn btn-default" tabindex="-1"
+                                        ng-click="datePickerOpenedStart = true">
+                                    <i class="fa fa-calendar-check-o"></i>
+                                </button>
+                            </span>
+                        </p>
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+                    <label for="inputEmail3"
+                           class="col-md-2 col-sm-2 control-label">Index</label>
+
+                    <div class="col-md-4 col-sm-4">
+                        <input class="form-control"
+                               placeholder="e.g., GSPC"
+                               autocomplete="off"
+                               ng-model="beta.index"
+                               ng-model-options="{ debounce: { 'default': 500, 'blur': 0 } }"
+                               uib-typeahead="ticker as ticker.code for ticker in getTickers($viewValue) | limitTo:10"
+                               typeahead-loading="loadingSearchIndex"
+                               typeahead-input-formatter="filterEmpty($model)"
+                               typeahead-on-select="go"
+                               typeahead-template-url="searchTypeaheadTemplate.html">
+                        <i class="fa fa-spinner fa-pulse form-control-feedback"
+                           aria-hidden="true"
+                           ng-show="loadingSearchIndex"></i>
+                    </div>
+
+                    <label for="inputEmail3" class="col-md-2 col-sm-2 control-label">End</label>
+
+                    <div class="col-md-4 col-sm-4">
+                        <p class="input-group">
+                            <input type="text" class="form-control"
+                                   uib-datepicker-popup="[[format]]"
+                                   on-open-focus="true"
+                                   ng-model="beta.dateEnd"
+                                   datepicker-options="dateOptions"
+                                   close-text="Close"
+                                   is-open="datePickerOpenedEnd"
+                                   placeholder="e.g, 26/04/15"/>
+                            <span class="input-group-btn">
+                                <button type="button" class="btn btn-default" tabindex="-1"
+                                        ng-click="datePickerOpenedEnd = true">
+                                    <i class="fa fa-calendar-check-o"></i>
+                                </button>
+                            </span>
+                        </p>
+                    </div>
+
+                </div>
+
+                <div class="form-group">
+                    <label for="inputEmail3" class="col-sm-2 col-md-2 control-label"></label>
+                    <div class="col-sm-6 col-md-6">
+                        <div class="margin0 addtrade-error" ng-show="error">
+                            [[ error ]]
+                        </div>
+
+                        <div class="beta-response" ng-show="result">
+                            <span class="font-bold">Beta &mdash; [[result.beta]]</span><br/>
+                            <span class="text-grey beta-date-font">[[result.fromDate]] -> [[result.toDate]]</span>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 col-md-4">
+                        <button class="btn btn-primary form-control pull-right" type="submit"
+                                ng-disabled="busy"
+                                ng-click="calculateBeta()">
+                            Calculate Beta
+                        </button>
+                    </div>
+                </div>
+            </fieldset>
+        </div>
+    </div>
+</script>
+<script>window.authorized=0;</script>
+<script type="text/javascript">if(window.location.hash&&window.location.hash==='#_=_'){if(window.history&&history.pushState){window.history.pushState("",document.title,window.location.pathname);}else{var scroll={top:document.body.scrollTop,left:document.body.scrollLeft};window.location.hash='';document.body.scrollTop=scroll.top;document.body.scrollLeft=scroll.left;}}</script>
+<script src="https://cdn.anychart.com/js/7.13.1/anychart-bundle.min.js"></script>
+<script src="https://s.unicornbay.com/assets/angular/angular.min.js"></script>
+<script src="https://cdn.ravenjs.com/3.14.0/angular/raven.min.js" crossorigin=anonymous></script>
+<script>Raven.config('https://5a68b9e624c44506b1e0f49c631b5f7c@sentry.io/155645').install();</script>
+<script src="https://s.unicornbay.com/assets/angular-bootstrap/ui-bootstrap-tpls.min.js"></script>
+<script src="https://s.unicornbay.com/dist/app.min.js?1540807593"></script>
+<script>(function(){var t,i,e,n=window,o=document,a=arguments,s="script",r=["config","track","identify","visit","push","call","trackForm","trackClick"],c=function(){var t,i=this;for(i._e=[],t=0;r.length>t;t++)(function(t){i[t]=function(){return i._e.push([t].concat(Array.prototype.slice.call(arguments,0))),i}})(r[t])};for(n._w=n._w||{},t=0;a.length>t;t++)n._w[a[t]]=n[a[t]]=n[a[t]]||new c;i=o.createElement(s),i.async=1,i.src="//static.woopra.com/js/t/5.js",e=o.getElementsByTagName(s)[0],e.parentNode.insertBefore(i,e)})("woopra");woopra.config({domain:'unicornbay.com'});woopra.track();</script>
+<script>window.intercomSettings={app_id:"yniacclb"};</script>
+<script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/yniacclb';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-30437910-9','auto');ga('send','pageview');</script>
+<script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);mixpanel.init("e9a240588bfff1cc8b5b8aa08eb5383e");</script>
+</body>
+</html>

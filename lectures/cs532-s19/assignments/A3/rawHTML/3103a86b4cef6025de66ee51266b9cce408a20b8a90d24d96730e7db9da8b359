@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    <meta name="csrf-token" content="pijHBpwQkTK7GH1n7ZAnjrWuskOAbVVJqGFvXpCl"> 
+    <meta name="description" content="Cotação do BITCOIN e de diversas outras criptomoedas, além da cotação das moedas FIAT convencionais.">
+        <title id="tittle">Preço Hoje</title>
+
+        <link rel="stylesheet" href="/css/bootstrap/dist/css/bootstrap.min.css?1.0" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="/css/precohoje.css?1.0">
+    <!-- <link rel="stylesheet" href="/css/style.css"> -->
+    <script src="/js/jquery/dist/jquery.min.js?1.0"></script>    
+    <script src="/css/bootstrap/dist/js/bootstrap.min.js?1.0"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-53608490-4"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-53608490-3');
+</script>
+
+    <!-- <script type="text/javascript">
+        window.smartlook||(function(d) {
+        var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+        var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+        c.charset='utf-8';c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+        })(document);
+        smartlook('init', '0ab02afa1408319ca3a55aae64ac0cd487584bd0');
+    </script> -->
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a href="/"><img src="/images/logotipo/precohoje.png" width="55px;" style="margin-top:5px;" /></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+          <a style="color:#ffffff;" class="nav-link dropdown-toggle" href="http://www.precohoje.com.br" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Moedas Fiat
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+                <li><a class="dropdown-item" href="/dolar"><img src="/images/logotipo/dolar.png" alt="Dólar" width="20" height="20" /> USD - Dólar</a></li> 
+                                         
+                <li><a class="dropdown-item" href="/dolar-canadense"><img src="/images/logotipo/dolar-canadense.png" alt="Dólar Canadense" width="20" height="20" /> CAD - Dólar Canadense</a></li> 
+                                                                                                                                                 
+                <li><a class="dropdown-item" href="/euro"><img src="/images/logotipo/euro.png" alt="Euro" width="20" height="20" /> EUR - Euro</a></li> 
+                                                                                                                                                                                                     
+                <li><a class="dropdown-item" href="/libra-esterlina"><img src="/images/logotipo/libra-esterlina.png" alt="Libra Esterlina" width="20" height="20" /> GBP - Libra Esterlina</a></li> 
+                                                                                                                                                                                                                                                         
+                <li><a class="dropdown-item" href="/ouro"><img src="/images/logotipo/ouro.png" alt="Ouro" width="20" height="20" /> XAU - Ouro</a></li> 
+                                         
+                <li><a class="dropdown-item" href="/peso-argentino"><img src="/images/logotipo/peso-argentino.png" alt="Peso Argentino" width="20" height="20" /> ARS - Peso Argentino</a></li> 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+        </li>
+      </ul>
+      <ul class="navbar-nav">
+        <li class="nav-item dropdown">
+          <a style="color:#ffffff;" class="nav-link dropdown-toggle" href="http://www.precohoje.com.br" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Criptomoedas
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+            <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">A - B - C</a>
+              <ul class="dropdown-menu">
+                                   
+                    <li><a class="dropdown-item" href="/ark"><img src="/images/logotipo/ark.png" alt="Ark" width="20" height="20" /> ARK - Ark</a></li> 
+                                                     
+                    <li><a class="dropdown-item" href="/basic-attention-token"><img src="/images/logotipo/basic-attention-token.png" alt="Basic Attention Token" width="20" height="20" /> BAT - Basic Attention Token</a></li> 
+                                                     
+                    <li><a class="dropdown-item" href="/bitcoin"><img src="/images/logotipo/bitcoin.png" alt="Bitcoin" width="20" height="20" /> BTC - Bitcoin</a></li> 
+                                                     
+                    <li><a class="dropdown-item" href="/bitcoin-cash"><img src="/images/logotipo/bitcoin-cash.png" alt="Bitcoin Cash" width="20" height="20" /> BCH - Bitcoin Cash</a></li> 
+                                                                                       
+                    <li><a class="dropdown-item" href="/bitcoin-gold"><img src="/images/logotipo/bitcoin-gold.png" alt="Bitcoin Gold" width="20" height="20" /> BTG - Bitcoin Gold</a></li> 
+                                                     
+                    <li><a class="dropdown-item" href="/bitshares"><img src="/images/logotipo/bitshares.png" alt="Bitshares" width="20" height="20" /> BTS - Bitshares</a></li> 
+                                                     
+                    <li><a class="dropdown-item" href="/bytecoin"><img src="/images/logotipo/bytecoin.png" alt="ByteCoin" width="20" height="20" /> BCN - ByteCoin</a></li> 
+                                                     
+                    <li><a class="dropdown-item" href="/cardano"><img src="/images/logotipo/cardano.png" alt="Cardano" width="20" height="20" /> ADA - Cardano</a></li> 
+                                                     
+                    <li><a class="dropdown-item" href="/cloakcoin"><img src="/images/logotipo/cloakcoin.png" alt="CloakCoin" width="20" height="20" /> CLOAK - CloakCoin</a></li> 
+                                                     
+                    <li><a class="dropdown-item" href="/credits"><img src="/images/logotipo/credits.png" alt="Credits" width="20" height="20" /> CS - Credits</a></li> 
+                                                     
+                    <li><a class="dropdown-item" href="/criptoreal"><img src="/images/logotipo/criptoreal.png" alt="CriptoReal" width="20" height="20" /> CRS - CriptoReal</a></li> 
+                                                     
+                    <li><a class="dropdown-item" href="/crypterium"><img src="/images/logotipo/crypterium.png" alt="Crypterium" width="20" height="20" /> CRPT - Crypterium</a></li> 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </ul>
+            </li>
+            <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">D - E - F</a>
+              <ul class="dropdown-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a class="dropdown-item" href="/dash"><img src="/images/logotipo/dash.png" alt="Dash" width="20" height="20" /> DASH - Dash</a></li> 
+                                                                        <li><a class="dropdown-item" href="/decred"><img src="/images/logotipo/decred.png" alt="Decred" width="20" height="20" /> DCR - Decred</a></li> 
+                                                                        <li><a class="dropdown-item" href="/digibyte"><img src="/images/logotipo/digibyte.png" alt="Digibyte" width="20" height="20" /> DGB - Digibyte</a></li> 
+                                                                        <li><a class="dropdown-item" href="/dogecoin"><img src="/images/logotipo/dogecoin.png" alt="Dogecoin" width="20" height="20" /> DOGE - Dogecoin</a></li> 
+                                                                                                                                            <li><a class="dropdown-item" href="/eos"><img src="/images/logotipo/eos.png" alt="EOS" width="20" height="20" /> EOS - EOS</a></li> 
+                                                                        <li><a class="dropdown-item" href="/epacoin"><img src="/images/logotipo/epacoin.png" alt="Epacoin" width="20" height="20" /> EPC - Epacoin</a></li> 
+                                                                        <li><a class="dropdown-item" href="/ethereum"><img src="/images/logotipo/ethereum.png" alt="Ethereum" width="20" height="20" /> ETH - Ethereum</a></li> 
+                                                                        <li><a class="dropdown-item" href="/ethereum-classic"><img src="/images/logotipo/ethereum-classic.png" alt="Ethereum Classic" width="20" height="20" /> ETC - Ethereum Classic</a></li> 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+            </li>
+            <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">G - H - I</a>
+              <ul class="dropdown-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <li><a class="dropdown-item" href="/golem"><img src="/images/logotipo/golem.png" alt="Golem" width="20" height="20" /> GNT - Golem</a></li> 
+                                                                        <li><a class="dropdown-item" href="/htmlcoin"><img src="/images/logotipo/htmlcoin.png" alt="HTMLCoin" width="20" height="20" /> HTML - HTMLCoin</a></li> 
+                                                                        <li><a class="dropdown-item" href="/iop"><img src="/images/logotipo/iop.png" alt="IOP" width="20" height="20" /> IOP - IOP</a></li> 
+                                                                        <li><a class="dropdown-item" href="/iota"><img src="/images/logotipo/iota.png" alt="Iota" width="20" height="20" /> IOTA - Iota</a></li> 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              </ul>
+            </li>
+            <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">J - K - L</a>
+              <ul class="dropdown-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <li><a class="dropdown-item" href="/komodo"><img src="/images/logotipo/komodo.png" alt="Komodo" width="20" height="20" /> KMD - Komodo</a></li> 
+                                                                                                          <li><a class="dropdown-item" href="/lisk"><img src="/images/logotipo/lisk.png" alt="Lisk" width="20" height="20" /> LSK - Lisk</a></li> 
+                                                                        <li><a class="dropdown-item" href="/litecoin"><img src="/images/logotipo/litecoin.png" alt="Litecoin" width="20" height="20" /> LTC - Litecoin</a></li> 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    </ul>
+            </li>
+            <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">M - N - O</a>
+              <ul class="dropdown-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a class="dropdown-item" href="/martexcoin"><img src="/images/logotipo/martexcoin.png" alt="Martexcoin" width="20" height="20" /> MXT - Martexcoin</a></li> 
+                                                                        <li><a class="dropdown-item" href="/monero"><img src="/images/logotipo/monero.png" alt="Monero" width="20" height="20" /> XMR - Monero</a></li> 
+                                                                        <li><a class="dropdown-item" href="/nano"><img src="/images/logotipo/nano.png" alt="Nano" width="20" height="20" /> NANO - Nano</a></li> 
+                                                                        <li><a class="dropdown-item" href="/nem"><img src="/images/logotipo/nem.png" alt="Nem" width="20" height="20" /> XEM - Nem</a></li> 
+                                                                        <li><a class="dropdown-item" href="/neo"><img src="/images/logotipo/neo.png" alt="Neo" width="20" height="20" /> NEO - Neo</a></li> 
+                                                                        <li><a class="dropdown-item" href="/niobio-cash"><img src="/images/logotipo/niobio-cash.png" alt="Nióbio" width="20" height="20" /> NBR - Nióbio</a></li> 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+            </li>
+            <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">P - Q - R</a>
+              <ul class="dropdown-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li><a class="dropdown-item" href="/qtum"><img src="/images/logotipo/qtum.png" alt="Qtum" width="20" height="20" /> QTUM - Qtum</a></li> 
+                                                                        <li><a class="dropdown-item" href="/ripple"><img src="/images/logotipo/ripple.png" alt="Ripple" width="20" height="20" /> XRP - Ripple</a></li> 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                </ul>
+            </li>
+            <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">S - T - U</a>
+              <ul class="dropdown-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a class="dropdown-item" href="/siacoin"><img src="/images/logotipo/siacoin.png" alt="Siacoin" width="20" height="20" /> SC - Siacoin</a></li> 
+                                                                        <li><a class="dropdown-item" href="/singular-dtv"><img src="/images/logotipo/singular-dtv.png" alt="Singular DTV" width="20" height="20" /> SNGLS - Singular DTV</a></li> 
+                                                                        <li><a class="dropdown-item" href="/smartcash"><img src="/images/logotipo/smartcash.png" alt="Smart Cash" width="20" height="20" /> SMART - Smart Cash</a></li> 
+                                                                        <li><a class="dropdown-item" href="/stellar"><img src="/images/logotipo/stellar.png" alt="Stellar" width="20" height="20" /> XLM - Stellar</a></li> 
+                                                                        <li><a class="dropdown-item" href="/storiqa"><img src="/images/logotipo/storiqa.png" alt="Storiqa" width="20" height="20" /> STQ - Storiqa</a></li> 
+                                                                        <li><a class="dropdown-item" href="/stratis"><img src="/images/logotipo/stratis.png" alt="Stratis" width="20" height="20" /> STRAT - Stratis</a></li> 
+                                                                                                          <li><a class="dropdown-item" href="/tron"><img src="/images/logotipo/tron.png" alt="Tron" width="20" height="20" /> TRX - Tron</a></li> 
+                                                                                                                                                                                                                                                                                                                                </ul>
+            </li>
+            <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">V - X - Z</a>
+              <ul class="dropdown-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <li><a class="dropdown-item" href="/verge"><img src="/images/logotipo/verge.png" alt="Verge" width="20" height="20" /> XVG - Verge</a></li> 
+                                                                        <li><a class="dropdown-item" href="/viacoin"><img src="/images/logotipo/viacoin.png" alt="ViaCoin" width="20" height="20" /> VIA - ViaCoin</a></li> 
+                                                                        <li><a class="dropdown-item" href="/vsync"><img src="/images/logotipo/vsync.png" alt="VSync" width="20" height="20" /> VSX - VSync</a></li> 
+                                                                                                                                            <li><a class="dropdown-item" href="/zcash"><img src="/images/logotipo/zcash.png" alt="ZCash" width="20" height="20" /> ZEC - ZCash</a></li> 
+                                                                        <li><a class="dropdown-item" href="/zclassic"><img src="/images/logotipo/zclassic.png" alt="ZClassic" width="20" height="20" /> ZCL - ZClassic</a></li> 
+                                                </ul>
+            </li>
+            <li class="dropdown-submenu"><a class="dropdown-item dropdown-toggle" href="#">W - Y</a>
+              <ul class="dropdown-menu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a class="dropdown-item" href="/waves"><img src="/images/logotipo/waves.png" alt="Waves" width="20" height="20" /> WAVES - Waves</a></li> 
+                                                                                                                                                      </ul>
+            </li>
+            
+            <li><a class="dropdown-item" href="/todas">Todas</a></li>
+          </ul>
+        </li>
+      </ul>
+
+      <li class="nav-item active">
+        <div class="ui-widget">
+          <input id="autocomplete" class="form-control" placeholder="Pesquisar moeda">
+        </div>
+      </li>
+      <div class="dropdown-divider" ></div>
+
+      <li class="nav-item dropdown">
+        <a style="color:#ffffff;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Mais
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a id="btnSobreMoeda" class="dropdown-item" href="#">Sobre a moeda <span class="sr-only">(current)</span></a>
+          <a class="dropdown-item" href="/exchanges">Cotação Exchanges <span class="sr-only">(current)</span></a>
+          <!-- <a class="dropdown-item" href="?p2p">Versão P2P <span class="sr-only">(current)</span></a> -->
+          <a class="dropdown-item" href="/coinmarketcap">Capitalização do Mercado <span class="sr-only">(current)</span></a>
+          <a class="dropdown-item" href="/blockexplorer">Block Explorer <span class="sr-only">(current)</span></a>
+        </div>
+      </li>
+            </ul>
+      <div class="dropdown-divider"></div>
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item dropdown">
+            <a style="color:#8fc742;font-weight:bold;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Doar
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a id="btnDoe" class="dropdown-item" href="/doar">Criptomoedas</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="https://apoia.se/1543180395736031" target="_blank">Apoia.se</a>
+            </div>
+          </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="/parceiros">Parceiros <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item dropdown">
+          <a style="color:#ffffff;" class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Sobre
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a id="btnDeixarUmaMensagem" class="dropdown-item" href="/contato">Deixe uma mensagem</a>
+            <div class="dropdown-divider"></div>
+            <a id="btnPoliticasDeUso" class="dropdown-item" href="#">Politicas de uso</a>
+            <div class="dropdown-divider"></div>
+            <a id="btnSobre" class="dropdown-item" href="#">Sobre o Preço Hoje</a> 
+          </div>
+        </li>
+         
+          <li class="nav-item active">
+            <div class="form-group">
+              <select id="moeda" name="moeda" class="form-control">
+                  <!--                     <option selected value="BRL">Real</option>
+                    <option value="USD">Dólar</option>
+                    <option value="EUR">Euro</option>
+                   -->
+                  <option value="BRL">Real</option>
+                  <option value="USD">Dólar</option>
+                  <option value="EUR">Euro</option>
+                  <option value="BTC">Bitcoin</option>
+              </select> 
+              <span style="color:#B22222;"></span>                           
+            </div>
+          </li>
+              </ul>
+    </div>
+  </nav>
+
+<!-- <div id="mdlSorteioDeNatal" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="exampleModalLabel">Sorteio</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <a href="http://sorteiefb.com.br/tab/promocao/678763" target="_blank"><img src="/images/sorteio/modal_sorteio.png" alt="sorteio" width="100%" /></a>
+                    
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div> -->
+
+<!-- <script> 
+  $(function () {
+    $("#moeda").change(function () {
+      location.href = "?moeda=" + $(this).val();
+    })
+  })
+</script> -->
+
+<!-- <script>
+  $( "#btnSorteioNatal").click(function() {
+    $("#mdlSorteioDeNatal").modal("show")
+  });
+
+  $( "#btnDoe").click(function() {
+    $("#mdlAjudeNos").modal("show");
+  });
+</script> -->
+
+<style>
+  .dropdown-submenu {
+    position: relative;
+  }
+
+  .dropdown-submenu a::after {
+    transform: rotate(-90deg);
+    position: absolute;
+    right: 6px;
+    top: .8em;
+  }
+
+  .dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: 100%;
+    margin-left: .1rem;
+    margin-right: .1rem;
+  }
+</style>
+
+<script>
+  $('.dropdown-menu a.dropdown-toggle').on('click', function(e) {
+  if (!$(this).next().hasClass('show')) {
+    $(this).parents('.dropdown-menu').first().find('.show').removeClass("show");
+  }
+  var $subMenu = $(this).next(".dropdown-menu");
+  $subMenu.toggleClass('show');
+
+
+  $(this).parents('li.nav-item.dropdown.show').on('hidden.bs.dropdown', function(e) {
+    $('.dropdown-submenu .show').removeClass("show");
+  });
+
+
+  return false;
+});
+</script>
+
+   
+
+<link href="https://use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet">
+
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+    $(document).ready(function() {
+      $("input#autocomplete").autocomplete({
+          source: [
+                                          { value: "ARK - Ark", url: '/ark' }, 
+                                                        { value: "BAT - Basic Attention Token", url: '/basic-attention-token' }, 
+                                                        { value: "BTC - Bitcoin", url: '/bitcoin' }, 
+                                                        { value: "BCH - Bitcoin Cash", url: '/bitcoin-cash' }, 
+                                                                                  { value: "BTG - Bitcoin Gold", url: '/bitcoin-gold' }, 
+                                                        { value: "BTS - Bitshares", url: '/bitshares' }, 
+                                                        { value: "BCN - ByteCoin", url: '/bytecoin' }, 
+                                                        { value: "ADA - Cardano", url: '/cardano' }, 
+                                                        { value: "CLOAK - CloakCoin", url: '/cloakcoin' }, 
+                                                        { value: "CS - Credits", url: '/credits' }, 
+                                                        { value: "CRS - CriptoReal", url: '/criptoreal' }, 
+                                                        { value: "CRPT - Crypterium", url: '/crypterium' }, 
+                                                        { value: "DASH - Dash", url: '/dash' }, 
+                                                        { value: "DCR - Decred", url: '/decred' }, 
+                                                        { value: "DGB - Digibyte", url: '/digibyte' }, 
+                                                        { value: "DOGE - Dogecoin", url: '/dogecoin' }, 
+                                                        { value: "USD - Dólar", url: '/dolar' }, 
+                                                        { value: "CAD - Dólar Canadense", url: '/dolar-canadense' }, 
+                                                        { value: "EOS - EOS", url: '/eos' }, 
+                                                        { value: "EPC - Epacoin", url: '/epacoin' }, 
+                                                        { value: "ETH - Ethereum", url: '/ethereum' }, 
+                                                        { value: "ETC - Ethereum Classic", url: '/ethereum-classic' }, 
+                                                        { value: "EUR - Euro", url: '/euro' }, 
+                                                        { value: "GNT - Golem", url: '/golem' }, 
+                                                        { value: "HTML - HTMLCoin", url: '/htmlcoin' }, 
+                                                        { value: "IOP - IOP", url: '/iop' }, 
+                                                        { value: "IOTA - Iota", url: '/iota' }, 
+                                                                                  { value: "KMD - Komodo", url: '/komodo' }, 
+                                                        { value: "GBP - Libra Esterlina", url: '/libra-esterlina' }, 
+                                                        { value: "LSK - Lisk", url: '/lisk' }, 
+                                                        { value: "LTC - Litecoin", url: '/litecoin' }, 
+                                                        { value: "MXT - Martexcoin", url: '/martexcoin' }, 
+                                                        { value: "XMR - Monero", url: '/monero' }, 
+                                                        { value: "NANO - Nano", url: '/nano' }, 
+                                                        { value: "XEM - Nem", url: '/nem' }, 
+                                                        { value: "NEO - Neo", url: '/neo' }, 
+                                                        { value: "NBR - Nióbio", url: '/niobio-cash' }, 
+                                                        { value: "XAU - Ouro", url: '/ouro' }, 
+                                                        { value: "ARS - Peso Argentino", url: '/peso-argentino' }, 
+                                                        { value: "QTUM - Qtum", url: '/qtum' }, 
+                                                        { value: "XRP - Ripple", url: '/ripple' }, 
+                                                        { value: "SC - Siacoin", url: '/siacoin' }, 
+                                                        { value: "SNGLS - Singular DTV", url: '/singular-dtv' }, 
+                                                        { value: "SMART - Smart Cash", url: '/smartcash' }, 
+                                                        { value: "XLM - Stellar", url: '/stellar' }, 
+                                                        { value: "STQ - Storiqa", url: '/storiqa' }, 
+                                                        { value: "STRAT - Stratis", url: '/stratis' }, 
+                                                                                  { value: "TRX - Tron", url: '/tron' }, 
+                                                                                  { value: "XVG - Verge", url: '/verge' }, 
+                                                        { value: "VIA - ViaCoin", url: '/viacoin' }, 
+                                                        { value: "VSX - VSync", url: '/vsync' }, 
+                                                        { value: "WAVES - Waves", url: '/waves' }, 
+                                                                                  { value: "ZEC - ZCash", url: '/zcash' }, 
+                                                        { value: "ZCL - ZClassic", url: '/zclassic' }, 
+                                    ],
+          select: function (event, ui) {
+              window.location = ui.item.url;
+          }
+      });
+  });
+</script>
+
+<style>
+    .ui-autocomplete {
+      text-align:left;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      cursor: pointer;
+      z-index: 1000;
+      float: left;
+      display: none;
+      min-width: 160px;
+      width: 160px;
+      padding: 10px 10px 10px 10px;
+      margin: 2px 0 0 0;
+      list-style: none;
+      background-color: #ffffff;
+      border-color: #ccc;
+      border-color: rgba(0, 0, 0, 0.2);
+      border-style: solid;
+      border-width: 1px;
+      -webkit-border-radius: 5px;
+      -moz-border-radius: 5px;
+      border-radius: 5px;
+      -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+      -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+      -webkit-background-clip: padding-box;
+      -moz-background-clip: padding;
+      background-clip: padding-box;
+      *border-right-width: 2px;
+      *border-bottom-width: 2px;
+    
+      .ui-menu-item > a.ui-corner-all {
+        display: block;
+        padding: 3px 15px;
+        clear: both;
+        font-weight: normal;
+        line-height: 18px;
+        color: #555555;
+        white-space: nowrap;
+    
+        &.ui-state-hover, &.ui-state-active {
+          color: #ffffff;
+          text-decoration: none;
+          background-color: #0088cc;
+          border-radius: 0px;
+          -webkit-border-radius: 0px;
+          -moz-border-radius: 0px;
+          background-image: none;
+        }
+      }
+    }   
+</style>
+
+
+<script> 
+  $(document).ready(function(){
+    var local_storage = localStorage['moeda'];
+    local_storage = String(local_storage);
+    if(local_storage !== 'undefined'){
+      $("#moeda").val(localStorage['moeda']);
+    }
+
+    if(local_storage === 'undefined'){
+        localStorage['moeda'] = $("#moeda option:selected").val();
+    }
+    else if(typeof localStorage['moeda'] !== $("#moeda option:selected").val()){
+        localStorage['moeda'] = $("#moeda option:selected").val();                        
+    }  
+  });
+</script> 
+     
+        <script type='text/javascript' src='//cdn.jsdelivr.net/jquery.marquee/1.4.0/jquery.marquee.min.js?1.0'></script>
+ 
+ <div class="marquee">
+     <span id="variacao"></span>
+ </div>
+ 
+ 
+  
+  <style>
+     .marquee {
+         width: 100%;
+         overflow: hidden; 
+         background: #343A40;
+         color:#ffffff;
+     }
+  </style>
+ 
+  <style>
+     #cotacaoPassando:link {text-decoration:none;color:#ffffff;}
+     #cotacaoPassando:visited {text-decoration:none;color:#ffffff;}
+     #cotacaoPassando:active {text-decoration:none;color:#ffffff;}
+     #cotacaoPassando:hover {text-decoration:none;color:#ffffff;} 
+  </style>
+ 
+ 
+ <script>
+    function cotacaoPassando(){
+        var url = "/moedas/variacao";
+        $.ajax({
+            async: true,
+            /* the route pointing to the post function */
+            url: url,
+            type: 'GET',
+            /* send the csrf-token and the input to the controller */
+            dataType: 'TEXT',
+            /* remind that 'data' is the response of the AjaxController */
+            error: function() {
+            },
+            success: function(result) {
+                // $("#variacao").hide();
+                $("#variacao").parent().css('visibility', 'hidden');
+                var obj = jQuery.parseJSON(result);
+                $.each( obj, function( key, value ) {                    
+                    value.site_path = value.imagem_path.replace('images/logotipo', '').replace('.png', '');                  
+                    if(localStorage['moeda'] == 'BRL'){
+                        var str = value.variacao_reais;
+                        var res = str.replace(",", ".");
+
+                        var saldoFormatado = value.valor_reais.replace(',','.');
+                    
+                        saldoFormatado = parseFloat(saldoFormatado);
+                        
+                        if(saldoFormatado > 1){
+                            var numero = saldoFormatado.toFixed(2).split('.');
+                            numero[0] = numero[0].split(/(?=(?:...)*$)/).join('.');
+                            numero = numero.join(',');                       
+                        }
+                        else{
+                            var numero = saldoFormatado.toFixed(4).split('.');
+                            numero[0] = numero[0].split(/(?=(?:...)*$)/).join('.');
+                            numero = numero.join(',');
+                        }
+                        value.valor_reais = numero;
+
+                        $("#variacao").append("<span class='variacao_dinamico'><a id='cotacaoPassando' href="+ value.site_path +">" + value.sigla +" = R$ " + value.valor_reais+ "</a>&nbsp;&nbsp;" + (parseFloat(res) > 0.0 ? "<span style='color:rgba(255,255,255,1);background-color:rgba(1,175,80,0.9); border-radius:5px; padding:5px;'>"+ value.variacao_reais +"%</span>" : "<span style='color:rgba(255,255,255,1);background-color:rgba(242,66,54,0.9); border-radius:5px; padding:5px;'>"+ value.variacao_reais +"%</span>") +"</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>");
+                    }
+                    else  if(localStorage['moeda'] == 'USD'){
+                        var str = value.variacao_dolar;
+                        var res = str.replace(",", ".");    
+                        
+                        var saldoFormatado = value.valor_dolar.replace(',','.');
+                    
+                        saldoFormatado = parseFloat(saldoFormatado);
+                        
+                        if(saldoFormatado > 1){
+                            var numero = saldoFormatado.toFixed(2).split('.');
+                            numero[0] = numero[0].split(/(?=(?:...)*$)/).join('.');
+                            numero = numero.join(',');                       
+                        }
+                        else{
+                            var numero = saldoFormatado.toFixed(4).split('.');
+                            numero[0] = numero[0].split(/(?=(?:...)*$)/).join('.');
+                            numero = numero.join(',');
+                        }
+                        value.valor_dolar = numero;
+                        
+                        $("#variacao").append("<span class='variacao_dinamico'><a id='cotacaoPassando' href="+ value.site_path +">" + value.sigla +" = $ " + value.valor_dolar+ "</a>&nbsp;&nbsp;" + (parseFloat(res) > 0.0 ? "<span style='color:rgba(255,255,255,1);background-color:rgba(1,175,80,0.9); border-radius:5px; padding:5px;'>"+ value.variacao_dolar +"%</span>" : "<span style='color:rgba(255,255,255,1);background-color:rgba(242,66,54,0.9); border-radius:5px; padding:5px;'>"+ value.variacao_dolar +"%</span>") +"</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>");
+                    }
+                    else  if(localStorage['moeda'] == 'EUR'){
+                        var str = value.variacao_euro;
+                        var res = str.replace(",", ".");
+
+                        var saldoFormatado = value.valor_euro.replace(',','.');
+                    
+                        saldoFormatado = parseFloat(saldoFormatado);
+                        
+                        if(saldoFormatado > 1){
+                            var numero = saldoFormatado.toFixed(2).split('.');
+                            numero[0] = numero[0].split(/(?=(?:...)*$)/).join('.');
+                            numero = numero.join(',');                       
+                        }
+                        else{
+                            var numero = saldoFormatado.toFixed(4).split('.');
+                            numero[0] = numero[0].split(/(?=(?:...)*$)/).join('.');
+                            numero = numero.join(',');
+                        }
+                        value.valor_euro = numero;
+                    
+                        $("#variacao").append("<span class='variacao_dinamico'><a id='cotacaoPassando' href="+ value.site_path +">" + value.sigla +" = € " + value.valor_euro+ "</a>&nbsp;&nbsp;" + (parseFloat(res) > 0.0 ? "<span style='color:rgba(255,255,255,1);background-color:rgba(1,175,80,0.9); border-radius:5px; padding:5px;'>"+ value.variacao_euro +"%</span>" : "<span style='color:rgba(255,255,255,1);background-color:rgba(242,66,54,0.9); border-radius:5px; padding:5px;'>"+ value.variacao_euro +"%</span>") +"</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>");    
+                    }   
+                    else  if(localStorage['moeda'] == 'BTC'){
+                        var valorCripto = value.valor_criptomoeda.replace(',','.');
+                        valorCripto = parseFloat(valorCripto);
+                        if(parseFloat(valorCripto) > 0){
+                            var str = value.variacao_criptomoeda;
+                            var res = str.replace(",", ".");
+
+                            var saldoFormatado = value.valor_criptomoeda.replace(',','.');
+                        
+                            saldoFormatado = parseFloat(saldoFormatado);
+                            
+                            var numero = saldoFormatado.toFixed(8).split('.');                     
+                        
+                            value.valor_criptomoeda = numero;
+                        
+                            $("#variacao").append("<span class='variacao_dinamico'><a id='cotacaoPassando' href="+ value.site_path +">" + value.sigla +" = BTC " + value.valor_criptomoeda + "</a>&nbsp;&nbsp;" + (parseFloat(res) > 0.0 ? "<span style='color:rgba(255,255,255,1);background-color:rgba(1,175,80,0.9); border-radius:5px; padding:5px;'>"+ value.variacao_criptomoeda +"%</span>" : "<span style='color:rgba(255,255,255,1);background-color:rgba(242,66,54,0.9); border-radius:5px; padding:5px;'>"+ value.variacao_criptomoeda +"%</span>") +"</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>");    
+                        }
+                    }   
+                    else{
+                        var str = value.variacao_reais;
+                        var res = str.replace(",", ".");
+
+                        var saldoFormatado = value.valor_reais.replace(',','.');
+                    
+                        saldoFormatado = parseFloat(saldoFormatado);
+                        
+                        if(saldoFormatado > 1){
+                            var numero = saldoFormatado.toFixed(2).split('.');
+                            numero[0] = numero[0].split(/(?=(?:...)*$)/).join('.');
+                            numero = numero.join(',');                       
+                        }
+                        else{
+                            var numero = saldoFormatado.toFixed(4).split('.');
+                            numero[0] = numero[0].split(/(?=(?:...)*$)/).join('.');
+                            numero = numero.join(',');
+                        }
+                        value.valor_reais = numero;
+
+                        $("#variacao").append("<span class='variacao_dinamico'><a id='cotacaoPassando' href="+ value.site_path +">" + value.sigla +" = R$ " + value.valor_reais+ "</a>&nbsp;&nbsp;" + (parseFloat(res) > 0.0 ? "<span style='color:rgba(255,255,255,1);background-color:rgba(1,175,80,0.9); border-radius:5px; padding:5px;'>"+ value.variacao_reais +"%</span>" : "<span style='color:rgba(255,255,255,1);background-color:rgba(242,66,54,0.9); border-radius:5px; padding:5px;'>"+ value.variacao_reais +"%</span>") +"</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>");
+                    }                     
+                });
+                marque();
+            },
+            beforeSend: function() {
+            }
+        });
+    }
+
+    function marque(){
+        $(document).ready(function(){
+            $('.marquee').marquee({
+                pauseOnHover: true,
+                //speed in milliseconds of the marquee
+                duration: 28000,
+                //gap in pixels between the tickers
+                gap: 50,
+                //time in milliseconds before the marquee will start animating
+                delayBeforeStart: 0,
+                //'left' or 'right'
+                direction: 'left',
+                //true or false - should the marquee be duplicated to show an effect of continues flow
+                duplicated: false
+            });
+            $("#variacao").parent().css('visibility', 'visible');
+        });
+    }
+ </script>
+ 
+ 
+
+     
+    <!-- <div id="particles-js">
+    </div> -->
+        
+<div id="moeda">
+    <img id="imgMoeda" alt="moeda" style="max-width: 100px; min-width: 60px; width: 20%;"/>
+</div>
+    
+<div class="container">
+    <div id="cotacao">
+        <span class="cotMoeda">
+            <span id="criptomoeda" class="symbol" style="font:52.5% Verdana;" >
+            </span>
+            <input style="font:48% Verdana;" type="text" id="estrangeiro" value="1"/>
+        </span>
+        <span class="optional" style="color:#8fc742;"> = </span>
+        <span id="cotSigla" class="cotMoeda nacional">
+        <span id="sigla" style='font:52.5% Verdana;' class='symbol'></span>
+            <!--                 <span style="font:52.5% Verdana;" class="symbol">BRL</span>
+             -->
+            <input style="font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal; font-size: 48%; line-height: normal; font-family: Verdana; width: 3.6em;" type="text" id="nacional">                
+        </span>
+    </div>
+</div>
+    
+<div style="clear:both; height:20px;"></div>
+<div class="container">
+    <div class="box" >
+        <!-- <div id="curve_chart" style="width: 100%; height:  200px;"></div>  -->
+        <div id="main" style="width: 100%; height: 250px; background-color:rgba(255,255,255,1)"></div>
+    </div>
+</div>
+
+<br class="clearfix"/>
+
+<div class="container">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- horizontal -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:100%;height:90px"
+     data-ad-client="ca-pub-9909588631555019"
+     data-ad-slot="6440570878"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+        function cotacao(moeda){
+            var url_tratada = "/moeda/" + moeda;
+            var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
+            $.ajax({
+                url: url_tratada,
+                type: 'GET',
+                data: {_token: CSRF_TOKEN},
+                dataType: 'JSON',
+                error: function() {
+                },
+                success: function(result2) {
+                    var result = result2[0];
+                    
+                    if(localStorage['moeda'] == 'BTC'){
+                        var valor = result.valor_criptomoeda;
+                        $('#sigla').text('BTC');
+
+                        var reais = valor.replace('.',',');
+                        reais = reais.replace(',','.');
+
+                        reais = parseFloat(reais);
+
+                        var valorFinal = reais.toFixed(8).replace('.',',');
+                        
+                        var valorFormatado = formatReal(reais);
+                    }
+                    else{
+                        if(localStorage['moeda'] == 'BRL'){
+                            var valor = result.valor_reais;
+                            $('#sigla').text('BRL');
+                            // $("#cotSigla span").remove();
+                            // var element = "<span style='font:52.5% Verdana;' class='symbol'>BRL</span>";
+                            // $("#cotSigla").append(element);      
+                        }
+                        else if(localStorage['moeda'] == 'USD'){
+                            var valor = result.valor_dolar;
+                            $('#sigla').text('USD');
+                            // $("#cotSigla span").remove();
+                            // var element = "<span style='font:52.5% Verdana;' class='symbol'>USD</span>";
+                            // $("#cotSigla").append(element);   
+                        }
+                        else if(localStorage['moeda'] == 'EUR'){
+                            var valor = result.valor_euro;
+                            $('#sigla').text('EUR');
+                            // $("#cotSigla span").remove();
+                            // var element = "<span style='font:52.5% Verdana;' class='symbol'>EUR</span>";
+                            // $("#cotSigla").append(element);   
+                        }
+                    
+
+                        var reais = valor.replace('.',',');
+                        reais = reais.replace(',','.');
+
+                        reais = parseFloat(reais);
+
+                        var valorFinal = reais.toFixed(2).replace('.',',');
+                        
+                        var valorFormatado = formatReal(reais);
+                    }
+                    
+                    // var valorFormatado = formatReal(valorFinal.replace(',',''));                      
+                    $("#nacional").val(valorFormatado);
+                    $("#armazenarMoeda").val(valorFinal);
+                    $("#criptomoeda").text(result.sigla);
+                    
+                    $("#imgMoeda").attr('src',result.imagem_path);
+                    // $("#moeda").append("<img src='"+ result.moedas.imagem_path +"' style='max-width: 100px; min-width: 60px; width: 20%;' />")
+
+                    a8(elEst);
+                    a8(elNac);
+
+                    document.title = result.sigla + ' - ' + valorFormatado;
+                    
+                    var link = document.querySelector("link[rel*='icon']") || document.createElement('link');
+                    link.type = 'image/x-icon';
+                    link.rel = 'shortcut icon';
+                    link.href = result.imagem_path;
+                    document.getElementsByTagName('head')[0].appendChild(link);
+                    
+                    moedaGrafico("/moedagrafico/" + moeda);                                            
+                },
+                beforeSend: function() {
+                }
+            });
+        }
+    
+
+
+    function moedaGrafico(url){
+        var CSRF_TOKEN = $('meta[name="csrf-token"]').attr('content');
+        $.ajax({
+            url: url,
+            type: 'GET',
+            data: {_token: CSRF_TOKEN},
+            dataType: 'JSON',
+            error: function() {
+            },
+            success: function(result) {   
+                require([ 
+                    'echarts' 
+                    // 'echarts/chart/line', 
+                    // 'echarts/component/legend', 
+                    // 'echarts/component/grid', 
+                    // 'echarts/component/tooltip', 
+                    // 'echarts/component/dataZoomInside' 
+                ], function (echarts) { 
+ 
+                    var chart = echarts.init(document.getElementById('main')); 
+ 
+                    var xAxisData = []; 
+                    var data = []; 
+ 
+ 
+                    for (var i = 0; i < result.length; i++) { 
+                        if(localStorage['moeda'] == 'BRL'){  
+                            var valor = parseFloat(result[i].valor_reais); 
+                            valor = valor.toFixed(2);
+                        } 
+                        else  if(localStorage['moeda'] == 'USD'){ 
+                            var valor = parseFloat(result[i].valor_dolar); 
+                            valor = valor.toFixed(2);
+                        } 
+                        else  if(localStorage['moeda'] == 'EUR'){ 
+                            var valor = parseFloat(result[i].valor_euro); 
+                            valor = valor.toFixed(2);
+                        }                            
+                        else  if(localStorage['moeda'] == 'BTC'){ 
+                            var valor = parseFloat(result[i].valor_criptomoeda); 
+                            valor = valor.toFixed(8);
+                        } 
+                        xAxisData.push('dia ' + result[i].DIASCRIADO); 
+                        data.push(valor); 
+                    } 
+                    chart.setOption({ 
+                        backgroundColor: '#eee', 
+                        title: { 
+                            text: 'Variação Mês Atual' 
+                        }, 
+                         
+                        tooltip: { 
+                            trigger: 'axis', 
+                            axisPointer: { 
+                                type: 'line' 
+                            } 
+                        }, 
+                        xAxis: { 
+                            data: xAxisData 
+                        }, 
+                        yAxis: { 
+                            splitArea: { 
+                                show: true 
+                            },
+                            scale: true,
+                        }, 
+                        series: [{ 
+                            name: 'Preço', 
+                            type: 'line', 
+                            symbol: 'circle', 
+                            symbolSize: 10, 
+                            data: data 
+                        }] 
+                    }); 
+                }); 
+            }, 
+            beforeSend: function() {
+            }
+        });
+    }
+    // var url = document.URL.substr(document.URL.lastIndexOf('/') + 1).replace('#','').replace('?moeda=USD','').replace('?moeda=EUR','').replace('?moeda=BRL','');
+    // var complete = 'modais.' + url + '.sobre';
+    // alert(complete);
+
+</script>
+
+<input type="hidden" id="armazenarMoeda" />
+
+<script src="grafico/charts/lib/esl.js"></script>
+<script src="grafico/charts/lib/config.js"></script>
+<script src="grafico/charts/lib/facePrint.js"></script>
+<script>
+    $(document).ready(function(){
+            cotacao("QTUM");
+            cotacaoPassando();  
+
+            $("#moeda").change(function () {
+                localStorage['moeda'] = $("#moeda option:selected").val();  
+                location.reload();
+            })
+        }
+    );
+</script>
+    
+<script src="/js/precohoje_criptomoeda.js?1.0"></script>
+
+<div id="mdlSobreMoeda" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="exampleModalLabel">Sobre a Qtum</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <h4>Qtum: a conexão entre as mais diversas blockchains</h4>
+                    <p>Qtum, um projeto de moeda digital open source que será lançada em breve, anunciou esta semana que ultrapassou a marca de US $ 1 milhão recebidos em apoio dos principais executivos da indústria. Alguns dos apoiantes de alto perfil do projeto incluem o co-fundador da Ethereum e fundador da Jaxx Blockchain Interface, Anthony Di Iorio; Co-fundador da Augur e EIR da Blockchain Capital, Jeremy Gardner; OkCoin CEO, Star Xu; advogado de tecnologia Blockchain Bo Shen; Bilionário Kuaidi Dache, Chen Weixing; E o chinês anjo e investidor Xiaolai Li, entre outros.</p>
+                    <p>O Projeto Qtum começou em março de 2016 como uma prova de conceito, liderada por Patrick Dai. Até agora, a equipe concluiu o projeto do modelo Qtum, a primeira moeda digital do mundo que pode executar contratos inteligentes com um mecanismo de consenso de Prova de Partilha baseado em um modelo UTXO (Unspent Transaction Output).</p>
+                    <p>Dai, PhD em Ciências da Computação, anteriormente trabalhou no Alibaba. Ele iniciou sua pesquisa e desenvolvimento da tecnologia blockchain em 2013.</p>
+                    <p>Em entrevista, Dai explicou que notou a falta de “inovação na tecnologia blockchain que sai da China”. Ele espera construir um novo ecossistema capaz de atrair um grande número de desenvolvedores na China e em todo o mundo.</p>
+                    <p>Acrescentou: “O Qtum é um projeto global que visa conectar as comunidades Bitcoin e Ethereum existentes com as empresas. A Fundação Qtum, entidade com sede em Cingapura, vem dirigindo o desenvolvimento e supervisionando o projeto, e reuniu talentosos desenvolvedores do Bitcoin e Ethereum e também talentosos indivíduos das principais empresas globais, incluindo Baidu, Alibaba, Tencent e Nasdaq.”</p>
+                    <p>“A equipe e a liderança foram os maiores fatores”, disse Di Iorio sobre sua decisão de investir em Qtum. </p>
+                    <p>“Eles têm uma história de execução e são muito bem orientados para os negócios. Muitos os consideram a melhor equipe da China”.</p>
+                    <p>A tecnologia Blockchain tem atraído a atenção de muitas indústrias. No entanto, os casos de uso comercial ainda enfrentam desafios. “O projeto Qtum é para necessidades reais de negócios”, disse Dai.</p>
+                    <p>Bo Shen, sócio da Fenbushi Capital e advogado de tecnologia de blockchain, disse: “Nos últimos dois anos, a comunidade de blockchains e o mundo dos negócios têm corrido paralelamente e acho que o Qtum é onde eles se encontrarão”.</p>
+                    <p>Atualmente, dois dos mais importantes ecossistemas de blockchain (Bitcoin e Ethereum), têm plataformas incompatíveis. O Qtum pretende reunir os recursos de desenvolvimento do Bitcoin com desenvolvedores de aplicativos descentralizados (DAPP) do Ethereum.</p>
+                    <p>O setor financeiro tem sido um dos exploradores mais ativos da tecnologia blockchain, embora o financiamento seja altamente regulamentado, especialmente na China. Esta indústria é a maior detentora de patentes relacionadas à blockchains. O Qtum também permite que os usuários autentiquem sua identidade através de contratos inteligentes, o que lhes permitirá usar aplicativos mais descentralizados, como os fornecidos pela indústria financeira.</p>
+                    <p>De acordo com Dai, a tecnologia blockchain ainda não é mainstream. No entanto, através da estratégia “Go Mobile” da Qtum, ela empurrará as DAPPs para as massas.</p>
+                    <p>A comunidade Qtum já lançou dois projetos comunitários: SpringEmail e Qloha. O SpringEmail espera combinar a tecnologia blockchain com o Simple Mail Transfer Protocol (SMTP), permitindo que os usuários usem a caixa de correio para enviar e receber pequenas quantidades de moeda digital.</p>
+                    <p>O Qloha, que utiliza a nova plataforma de “mini-programas” da WeChat, permite aos usuários enviar tokens Qtum e conversar com bots para encomendar produtos ou serviços via WeChat. O aplicativo espera estender este recurso para outras plataformas de mensagens como o iMessage, Telegram e Facebook Messenger para melhorar a usabilidade da tecnologia blockchain.</p>
+                    <p>A Qtum planeja ter uma crowdsale para cobrir os custos de desenvolvimento do projeto em 01 de março de 2017, através de seu site e intercâmbios.</p>
+                    <p></p>
+                    <p></p>
+                    <p></p>
+                    <p></p>
+                    <p></p>
+                    <p></p>
+                    <p></p>
+
+                    <br />
+                    <p>Fonte: <a href="https://www.btcsoul.com/noticias/qtum-conexao-entre-as-mais-diversas-blockchains/" target="_blank">btcsoul.com</a> </p>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+  $( "#btnSobreMoeda").click(function() {
+    $("#mdlSobreMoeda").modal("show")
+  });
+</script>
+
+
+    
+    <div style="clear:both; min-height:100px;"></div>
+   
+    <footer>
+    <p style="text-align: center;padding:10px 0 0 0;">Copyright 2019 Preço Hoje © - Todos os direitos reservados</p>
+</footer>
+
+<style>
+  footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    background-color:rgba(0,0,0,0.5); 
+    color:rgb(255,255,255);
+}
+</style>   
+    <div id="mdlAjudeNos" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="mdlAjudeNos" aria-hidden="true">
+
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title">Está gostando do Preço Hoje?</h3>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <h4>Ajude-nos a melhorá-lo</h4>
+          <ul id="ajude-nos">
+              <li>Deixe seu curtir.</li>
+              <li>Compartilhe essa ideia.</li>
+              <li>Sugira moedas que você sente falta.</li>
+              <li>Sugira melhorias.</li>
+              <li>Relate problemas (bugs).</li>
+              <li>Contribua com o projeto:</li>
+          </ul>
+          <br/>
+          <ul>
+              <li>Carteira Bitcoin: 
+                <br />
+                <input type="text" value="1BrpMp9XyCdvCqaGGizm2LsVf8fkUyJe8" style="width:100%;"/>
+              </li>
+              <br />
+              <li>Carteira Ethereum: 
+                <br />
+                <input type="text" value="0x259d26acb6a5d46a92f39423c8b11f9beba4bba2" style="width:100%;"/>
+              </li>
+              <br />
+              <li>Carteira Decred: 
+                <br />
+                <input type="text" value="DsRKvAny3brWeVJTUfoUNSevfRGCbSTzDrt" style="width:100%;"/>
+              </li>
+              <br />
+              <li>Carteira Dash: 
+                <br />
+                <input type="text" value="XpVvU2b9msNPNHA9vVpFtJUg7eiGcUWiyu" style="width:100%;"/>
+              </li>
+              <br />
+              <li>Carteira ZCash: 
+                <br />
+                <input type="text" value="t1bo3ZPazFT5Q4zzQvojh7esNRMZpH5sKhA" style="width:100%;"/>
+              </li>
+              <br />
+              <li>Carteira Litecoin: 
+                <br />
+                <input type="text" value="LbZJHCY635z4t23NfmJAj574cwNAe8suKx" style="width:100%;"/>
+              </li>
+              <br />
+              <li>Carteira Dogecoin: 
+                <br />
+                <input type="text" value="D7sUwY2Byz5cpqcHwT1upYCT73Sw7TfjE3" style="width:100%;"/>
+              </li>
+              <br />
+              <li>Carteira Verge: 
+                <br />
+                <input type="text" value="DRJ2D3EoghUndWPPChiFsTyaQhsGoniizc" style="width:100%;"/>
+              </li>
+              <br />
+              <li>Carteira Cardano: 
+                <br />
+                <input type="text" value="DdzFFzCqrhsefvHK8R9YpunWgJ1gKkaeBGDDkTwe15a2mgnq6jWqtVr36PmY8vJRETpipAccwfqiV89SUTLmZSzDfk8kzPs2JZ8J6beS" style="width:100%;"/>
+              </li>
+              <br />
+          </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  $( "#btnAjudeNos").click(function() {
+    $("#mdlAjudeNos").modal("show")
+  });
+</script>
+
+<style>
+  li {list-style-type:none;}
+</style> 
+    <div id="mdlPoliticasDeUso" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="mdlPoliticasDeUso" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title">Políticas de uso</h3>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" style="text-align: left">
+        <h4>Da isenção de responsabilidade na conversão de qualquer moeda</h4>
+        <br>
+        <p>O Preço Hoje (precohoje.com.br) não garante precisão nas conversões de qualquer moeda, as mesmas
+            vem de diversas fontes, fontes essas que não são alimentadas por nós.</p>
+        <p>Também não nos responsabilizamos se o serviço ficar parcialmente ou totalmente indisponível, pois
+            como já informado, nós consumimos informações de outras fontes da internet e essas fontes podem
+            ficar indisponíveis, afetando assim o nosso site.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  $( "#btnPoliticasDeUso").click(function() {
+    $("#mdlPoliticasDeUso").modal("show")
+  });
+</script>
+ 
+    <div id="mdlSobre" class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="mdlSobre" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 class="modal-title">Sobre Nós</h3>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body" style="text-align: left">
+       <p>O Preço Hoje surgiu com a ideia de trazer, de maneira simples e direta, a cotação das principais
+          moedas.
+      </p>
+      <p>A nossa satisfação por estarmos colaborando para facilitar o dia de vocês é muito grande, obrigado
+          por nos visitar.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  $( "#btnSobre").click(function() {
+    $("#mdlSobre").modal("show")
+  });
+</script>
+ 
+
+    <style> 
+    #imgMoeda {
+        width: 100%;
+        height: 100%;
+        -webkit-transition: width 2s, height 2s, -webkit-transform 2s; /* Safari */
+        transition: width 2s, height 2s, transform 2s;
+    }
+
+    #imgMoeda:hover {
+        width: 100%;
+        height: 100%;
+        -webkit-transform: rotate(360deg); /* Safari */
+        transform: rotate(360deg);
+    }
+    </style>
+    <!-- <script src="js/particles.min.js"></script> -->
+</body>
+</html>

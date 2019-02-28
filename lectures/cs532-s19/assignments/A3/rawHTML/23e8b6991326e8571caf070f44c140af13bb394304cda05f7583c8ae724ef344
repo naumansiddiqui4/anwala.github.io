@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Home | Dengorstore</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+  <link href="/theme_stylesheets/125487575/1549727606/theme.css" media="screen" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Work+Sans|Karla' rel='stylesheet' type='text/css'>
+  <!-- Served from Big Cartel MySQL Storefront -->
+<!-- Big Cartel generated meta tags -->
+<meta name="generator" content="Big Cartel" />
+<meta name="author" content="Dengorstore" />
+<meta name="description" content="A clothing brand based on remarkable street-wear." />
+<meta name="referrer" content="origin" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Dengorstore" />
+<meta property="og:title" content="Home" />
+<meta property="og:url" content="https://www.dengorstore.com/" />
+<meta property="og:description" content="A clothing brand based on remarkable street-wear." />
+<meta property="og:image" content="https://assets.bigcartel.com/account_images/1687870/E7178CCA-234C-41F9-BA3A-F2FDE7635D55.jpeg?auto=format&amp;fit=max&amp;h=1200&amp;w=1200" />
+<meta property="og:image:secure_url" content="https://assets.bigcartel.com/account_images/1687870/E7178CCA-234C-41F9-BA3A-F2FDE7635D55.jpeg?auto=format&amp;fit=max&amp;h=1200&amp;w=1200" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Dengorstore" />
+<meta name="twitter:description" content="A clothing brand based on remarkable street-wear." />
+<meta name="twitter:image" content="https://assets.bigcartel.com/account_images/1687870/E7178CCA-234C-41F9-BA3A-F2FDE7635D55.jpeg?auto=format&amp;fit=max&amp;h=1200&amp;w=1200" />
+<!-- end of generated meta tags -->
+
+<!-- Big Cartel generated link tags -->
+<link rel="canonical" href="https://www.dengorstore.com/" />
+<link rel="alternate" href="https://www.dengorstore.com/products.xml" type="application/rss+xml" title="Product Feed" />
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,700" type="text/css" title="Google Fonts" />
+<link rel="apple-touch-icon" href="https://assets.bigcartel.com/account_images/1687870/E7178CCA-234C-41F9-BA3A-F2FDE7635D55.jpeg?auto=format&amp;fit=max&amp;h=180&amp;w=180" />
+<!-- end of generated link tags -->
+
+        <script type="text/javascript">
+          var _bcaq = _bcaq || [];
+          _bcaq.push(['_setUrl','stats1.bigcartel.com']);_bcaq.push(['_trackVisit','4323157']);
+          (function() {
+            var bca = document.createElement('script'); bca.type = 'text/javascript'; bca.async = true;
+            bca.src = '/stats.min.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(bca, s);
+          })();
+        </script>
+        <script src="https://js.stripe.com/v3/" async></script>
+
+</head>
+<body id="home" class="theme has_welcome">
+  <header class="header">
+    <div class="store_name image">
+      <a href="/" title="Dengorstore">
+        
+          <img src="https://assets.bigcartel.com/theme_images/42802471/BA7CE2C2-90C2-4F8C-8FA7-3BBA878F2B8B.jpeg?auto=format&fit=max&h=120&w=800" alt="Dengorstore">
+        
+      </a>
+    </div>
+    <ul class="header_icons">
+      
+      <li class="open_cart" ><a href="#"><svg viewBox="0 0 30 30"><path d="M22.7 8c-.9-3.4-4-6-7.7-6S8.2 4.6 7.3 8H2l3 20h20l3-20h-5.3zM15 4c2.6 0 4.8 1.7 5.6 4H9.3c.9-2.3 3.1-4 5.7-4zm8.3 22H6.7L4.3 10H7v3h2v-3h12v3h2v-3h2.7l-2.4 16z"/></svg><span class="cart_count"><span class="cart_value" style="display:none;">0</span></span></a></li>
+      <li class="open_menu"><a href="#" title="Menu"><span></span><span></span><span></span><span></span></a></li>
+    </ul>
+  </header>
+  
+    
+      <div class="welcome_image">
+        <div class="welcome_overlay"></div>
+          <div class="welcome_text">
+            
+            <a href="/products" class="welcome_button">Start shopping</a>
+          </div>
+      </div>
+    
+  
+  <section class="content page-home theme has_welcome">
+    
+      
+
+
+  
+
+
+
+    
+  </section>
+  <footer class="footer">
+    
+      <ul class="footer_icons">
+        
+          <li><a title="Instagram" href="https://Instagram.com/Den.gor"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M22.7 5H7.3C6 5 5 6 5 7.3v15.4C5 24 6 25 7.3 25h15.4c1.3 0 2.3-1 2.3-2.3V7.3C25 6 24 5 22.7 5zM15 11.2c2.1 0 3.8 1.7 3.8 3.8 0 2.1-1.7 3.8-3.8 3.8-2.1 0-3.8-1.7-3.8-3.8 0-2.1 1.7-3.8 3.8-3.8zm7.7 10.7c0 .4-.3.8-.8.8H8.1c-.4 0-.8-.3-.8-.8v-8.5H9c-.1.5-.2 1-.2 1.5 0 3.4 2.8 6.2 6.2 6.2 3.4 0 6.2-2.8 6.2-6.2 0-.5-.1-1-.2-1.5h1.7v8.5zm0-11.5c0 .4-.3.8-.8.8h-2.3c-.4 0-.8-.3-.8-.8V8.1c0-.4.3-.8.8-.8h2.3c.4 0 .8.3.8.8v2.3z"/></svg></a></li>
+        
+
+        
+          <li><a title="Twitter" href="https://Twitter.com/Dengor_"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"><path d="M25.4 6.5c-.9.5-1.8.9-2.9 1.1-.8-.9-2-1.4-3.3-1.4-2.5 0-4.5 2-4.5 4.4 0 .3 0 .7.1 1-3.8-.2-7.1-2-9.3-4.6-.4.7-.6 1.4-.6 2.3 0 1.5.8 2.9 2 3.7-.7 0-1.4-.2-2-.6v.1c0 2.1 1.6 3.9 3.6 4.4-.4 0-.8.1-1.2.1-.3 0-.6 0-.8-.1.6 1.8 2.2 3 4.2 3.1-1.5 1.2-3.5 1.9-5.6 1.9-.4 0-.7 0-1.1-.1 2 1.3 4.4 2 6.9 2 8.3 0 12.8-6.8 12.8-12.6v-.6c.9-.6 1.6-1.4 2.3-2.3-.8.4-1.7.6-2.6.7.9-.6 1.7-1.4 2-2.5z"/></svg></a></li>
+        
+
+        
+
+        
+        
+      </ul>
+    
+    <ul class="footer_pages">
+      
+      
+        <li><a title="View Terms &amp; Conditions" href="/terms-conditions">Terms & Conditions</a></li>
+      
+      <li><a href="/contact">Contact</a></li>
+    </ul>
+    <div class="footer_credit">
+      <span class="credit"><a href="https://www.bigcartel.com/?utm_source=bigcartel&utm_medium=credit&utm_campaign=4323157" title="Start your own store at Big Cartel now">Online Store by Big Cartel</a></span>
+    </div>
+  </footer>
+  <div class="overlay">
+    <div class="overlay_background"></div>
+    <div class="overlay_content">
+      <svg class="close_overlay" viewBox="0 0 17 17"><path d="M17 1.4L15.6 0 8.5 7.1 1.4 0 0 1.4l7.1 7.1L0 15.6 1.4 17l7.1-7.1 7.1 7.1 1.4-1.4-7.1-7.1z"/></svg>
+      <ul class="page_list">
+        <li><a href="/products">Shop</a></li>
+        
+          <li><a title="View Terms &amp; Conditions" href="/terms-conditions">Terms & Conditions</a></li>
+        
+        <li><a href="/contact">Contact</a></li>
+      </ul>
+      
+    </div>
+  </div>
+  <a class="footer_cart" href="/cart">
+    <div class="background"></div>
+    <span class="open_cart"><svg viewBox="0 0 30 30"><path d="M22.7 8c-.9-3.4-4-6-7.7-6S8.2 4.6 7.3 8H2l3 20h20l3-20h-5.3zM15 4c2.6 0 4.8 1.7 5.6 4H9.3c.9-2.3 3.1-4 5.7-4zm8.3 22H6.7L4.3 10H7v3h2v-3h12v3h2v-3h2.7l-2.4 16z"/></svg><span class="cart_count"><span class="cart_value" style="display:none;">0</span></span></span>
+  </a>
+  
+  <div class="mini_cart empty">
+    <div class="triangle"></div>
+    <div class="cart_holder">
+      
+        <div>
+          Your bag is empty
+        </div>
+        <a class="button view_bag" href="/products">Start shopping</a>
+      
+    </div>
+  </div>
+  
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="//cache0.bigcartel.com/api/4/api.usd.js"></script>
+  <script>
+    var formatMoney = Format.money;
+    Format.money = function(number) {
+      
+        return formatMoney(number, true, true, false);
+      
+    };
+  </script>
+  <script src="//cache1.bigcartel.com/theme_assets/104/1.4.1/theme.js"></script>
+  
+</body>
+</html>

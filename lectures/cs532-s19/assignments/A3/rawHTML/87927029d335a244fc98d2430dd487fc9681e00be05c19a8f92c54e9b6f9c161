@@ -1,0 +1,151 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="ie6 oldie"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 oldie"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 oldie"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Last-Modified" content="0">
+<meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="content-language" content="en">
+<!-- Fav and touch icons -->
+<link rel="apple-touch-icon" sizes="57x57" href="https://tempo-radio.com/ficons/apple-icon-57x57.png?v=2018">
+<link rel="apple-touch-icon" sizes="60x60" href="https://tempo-radio.com/ficons/apple-icon-60x60.png?v=2018">
+<link rel="apple-touch-icon" sizes="72x72" href="https://tempo-radio.com/ficons/apple-icon-72x72.png?v=2018">
+<link rel="apple-touch-icon" sizes="76x76" href="https://tempo-radio.com/ficons/apple-icon-76x76.png?v=2018">
+<link rel="apple-touch-icon" sizes="114x114" href="https://tempo-radio.com/ficons/apple-icon-114x114.png?v=2018">
+<link rel="apple-touch-icon" sizes="120x120" href="https://tempo-radio.com/ficons/apple-icon-120x120.png?v=2018">
+<link rel="apple-touch-icon" sizes="144x144" href="https://tempo-radio.com/ficons/apple-icon-144x144.png?v=2018">
+<link rel="apple-touch-icon" sizes="152x152" href="https://tempo-radio.com/ficons/apple-icon-152x152.png?v=2018">
+<link rel="apple-touch-icon" sizes="180x180" href="https://tempo-radio.com/ficons/apple-icon-180x180.png?v=2018">
+<link rel="icon" type="image/png" sizes="192x192"  href="https://tempo-radio.com/ficons/android-icon-192x192.png?v=2018">
+<link rel="icon" type="image/png" sizes="32x32" href="https://tempo-radio.com/ficons/favicon-32x32.png?v=2018">
+<link rel="icon" type="image/png" sizes="96x96" href="https://tempo-radio.com/ficons/favicon-96x96.png?v=2018">
+<link rel="icon" type="image/png" sizes="16x16" href="https://tempo-radio.com/ficons/favicon-16x16.png?v=2018">
+<link rel="manifest" href="https://tempo-radio.com/ficons/manifest.json?v=2018">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://tempo-radio.com/ficons/ms-icon-144x144.png?v=2018">
+<meta name="theme-color" content="#ffffff">
+<title>Tempo-Radio | Mexico | Tempo-Channel</title>
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Baloo+Thambi|Roboto" rel="stylesheet"> 
+<script src="/js/player/jquery.min.js"></script>
+<script src="/js/player/nativeflashradiov4.js?v=1.18.12.05"></script>
+<script src="js/respond.min.js"></script>
+<script language="Javascript" type="text/javascript">
+   document.oncontextmenu = function(){return false}
+    </script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69782014-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+<div id="contenedor">
+<div class="cont">
+	<div id="channels">
+    	<div class="active activet" onclick="location.href='tempo.html'"><span>TEMPO CHANNEL</span></div>
+        <div class="noactive noactivep" onclick="location.href='party.html'"><span>PARTY CHANNEL</span></div>
+		<div class="noactive noactivem" onclick="location.href='creative.html'"><span>CREATIVE CHANNEL</span></div>
+    </div>
+<div>
+	    <div id="caja">
+			<div id="portada">
+				<img name="cover" id="cover" src="../status/tempo/artwork.jpg" border="0"/>
+			</div>
+		</div>
+		<div id="cajonplayer">
+			<div id="flashradio">Loading...</div>
+		</div>
+	<div class="par">
+		<div class="c3i">
+				<div class="log-ci">
+					<div class="div-log"><img src="img/tempo.png" alt="par" width="100" height="40" class="img" title="par"/>
+					</div>
+				</div>
+			<div class="log-ci">
+				<div class="div-log"><img src="img/PTP.png" alt="PTP" width="80" height="40" class="img" title="PTP"/>
+				</div>
+			</div>
+			<div class="log-ci">
+				<div class="div-log"><img src="img/TP-W.png" alt="TP" width="80" height="40" class="img" title="Bidaia"/>
+				</div>
+			</div>
+			<div class="log-ci">
+				<div class="div-log"><img src="img/Trancestor.png" alt="Trancestor" width="80" height="40" class="img" title="Trancestor"/>
+				</div>
+			</div>
+			<div class="log-ci">
+				<div class="div-log"><img src="img/Creative.png" alt="Creative" width="80" height="40" class="img" title="Creative"/>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+    $("#flashradio").flashradio({
+	userinterface: "small",
+	backgroundcolor: "rgba(0,0,0,0.0)",
+	themecolor: "#0080FF", 
+	themefontcolor: "#F2F2F2", 
+	startvolume: "100", 
+	radioname: "Now:", 
+	scroll: "auto", 
+	autoplay: "false", 
+	useanalyzer: "fake", 
+	analyzertype: "8", 
+	usecover: "false", 
+	usestreamcorsproxy: "false", 
+	affiliatetoken: "1000lIPN", 
+	debug: "false",
+	ownsongtitleurl: "https://www.tempo-radio.com/status/tempo/nowplaying.txt",
+	radiocover:	"https://www.tempo-radio.com/img/logos/coverplayer.png",
+	songgooglefontname: "sans-serif", 
+	songfontname: "Roboto", 
+	titlegooglefontname: "cursive", 
+	titlefontname: "Baloo+Thambi", 
+	corsproxy: "php",
+	streamid: "1", 
+	streampath: "/t128", 
+	streamtype: "shoutcast2", 
+	streamurl: "https://securestreams.tempo-radio.com:1070",  
+	songinformationinterval: "1000", 
+});
+</script>
+<script language="JavaScript" type="text/javascript" >
+            periodo = 5;  // segundos entre recargas
+            imgoImg=document.getElementById("cover");
+            imgsrc = imgoImg.src;
+            buffer = new Image();
+            buffer.onload = imageChange;
+            buffer.onerror = imageError;
+            setTimeout("imageReload()", periodo * 5000);
+           
+            function imageReload() {
+                buffer.src = imgsrc + "?d=" + new Date().getTime();
+                setTimeout("imageReload()", periodo * 5000);
+            }
+           
+            function imageChange() {
+                imgoImg.src = buffer.src;
+            }
+         
+            function imageError() {
+                setTimeout("imageReload()", 5000);
+            }
+</script>
+</body>
+</html>

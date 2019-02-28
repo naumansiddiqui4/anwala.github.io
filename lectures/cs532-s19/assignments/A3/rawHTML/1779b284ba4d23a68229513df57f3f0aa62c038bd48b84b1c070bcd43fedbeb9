@@ -1,0 +1,1614 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+        <meta property="fb:pages" content="751802658312414" />
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta property="fb:pages" content="751802658312414" />
+<link rel="alternate" hreflang="en" href="http://www.looptt.com/content/met-office-saharan-dust-may-worsen-weekend" />
+<link rel="shortcut icon" href="/core/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="/content/met-office-saharan-dust-may-worsen-weekend" />
+<link rel="shortlink" href="/node/384724" />
+<link rel="revision" href="/content/met-office-saharan-dust-may-worsen-weekend" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=a2a_config.callbacks||[];a2a_config.templates=a2a_config.templates||{};</script>
+
+        <title>Met Office: Saharan dust may worsen this weekend | Loop News</title>
+                                           <meta name="description" content="Trinbagonians suffering from allergies and other dust-related afflictions as a result of Saharan Dust should get a small reprieve soon.
+
+The Trinidad and Tobago Meteoro">
+                <meta property="og:url" content="http://www.looptt.com/content/met-office-saharan-dust-may-worsen-weekend" />
+                <meta property="og:title" content="Met Office: Saharan dust may worsen this weekend" />
+                <meta property="og:description" content="Trinbagonians suffering from allergies and other dust-related afflictions as a result of Saharan Dust should get a small reprieve soon.
+
+The Trinidad and Tobago Meteoro" />
+                <meta property="og:image" content="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2019-02/vMHGxH5JO6.jpg" />
+                                        <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+<link rel="dns-prefetch" href="//ajax.googleapis.com" />
+<link rel="dns-prefetch" href="//maps.googleapis.com" />
+<link rel="dns-prefetch" href="//static.addtoany.com" />
+<link rel="dns-prefetch" href="//dme0ih8comzn4.cloudfront.net" />
+<link rel="dns-prefetch" href="//www.google.com" />
+<style media="all">
+@import url("/core/assets/vendor/normalize-css/normalize.css?pneokp");
+@import url("/modules/contrib/superfish/../../../sites/all/libraries/superfish/css/superfish.css?pneokp");
+@import url("/core/themes/stable/css/system/components/ajax-progress.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/align.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/autocomplete-loading.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/fieldgroup.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/container-inline.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/clearfix.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/details.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/hidden.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/item-list.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/js.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/nowrap.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/position-container.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/progress.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/reset-appearance.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/resize.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/sticky-header.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/tabledrag.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/tablesort.module.css?pneokp");
+@import url("/core/themes/stable/css/system/components/tree-child.module.css?pneokp");
+@import url("/core/assets/vendor/jquery.ui/themes/base/core.css?pneokp");
+@import url("/modules/contrib/poll/css/poll.base.css?pneokp");
+@import url("/modules/contrib/poll/css/poll.theme.css?pneokp");
+@import url("/core/themes/stable/css/views/views.module.css?pneokp");
+@import url("/modules/contrib/video_embed_field/css/video_embed_field.responsive-video.css?pneokp");
+@import url("/modules/custom/add_events/css/add_event_style.css?pneokp");
+@import url("/modules/custom/add_events/css/jquery-ui.css?pneokp");
+@import url("/modules/custom/add_events/css/wickedpicker.css?pneokp");
+@import url("/modules/contrib/addtoany/css/addtoany.css?pneokp");
+@import url("/modules/custom/article_category_republish/css/stycky.css?pneokp");
+</style>
+<style media="all">
+@import url("/modules/custom/contactus/css/contactus.css?pneokp");
+@import url("/core/assets/vendor/jquery.ui/themes/base/theme.css?pneokp");
+@import url("/modules/custom/editors_choice/css/editors_choice.css?pneokp");
+@import url("/modules/custom/event_image_gallery/css/stycky_events.css?pneokp");
+@import url("/modules/custom/events/css/calender_style.css?pneokp");
+@import url("/modules/custom/events/css/demo.css?pneokp");
+@import url("/modules/custom/events/css/custom_2.css?pneokp");
+@import url("/modules/custom/freelancer_report/css/freelancer_report.css?pneokp");
+@import url("/modules/custom/loopadminreports/css/loopnewsadminreport.css?pneokp");
+@import url("/modules/custom/main_events/css/events_main.css?pneokp");
+@import url("/modules/custom/newsletter/css/newsletter.css?pneokp");
+@import url("/modules/custom/only_article_category_republish/css/stycky.css?pneokp");
+@import url("/modules/custom/share_story/css/share_story_style.css?pneokp");
+@import url("/modules/custom/sponsored_content/css/sponsoredcontent.css?pneokp");
+@import url("/modules/custom/watermark_image/css/watermark_stycky.css?pneokp");
+@import url("/modules/contrib/footermap/css/footermap.css?pneokp");
+</style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic,700italic%7CInconsolata:400,700%7CMontserrat:400,700" media="all" />
+<style media="all">
+@import url("/core/themes/classy/css/components/action-links.css?pneokp");
+@import url("/core/themes/classy/css/components/breadcrumb.css?pneokp");
+@import url("/core/themes/classy/css/components/button.css?pneokp");
+@import url("/core/themes/classy/css/components/collapse-processed.css?pneokp");
+@import url("/core/themes/classy/css/components/container-inline.css?pneokp");
+@import url("/core/themes/classy/css/components/details.css?pneokp");
+@import url("/core/themes/classy/css/components/exposed-filters.css?pneokp");
+@import url("/core/themes/classy/css/components/field.css?pneokp");
+@import url("/core/themes/classy/css/components/form.css?pneokp");
+@import url("/core/themes/classy/css/components/icons.css?pneokp");
+@import url("/core/themes/classy/css/components/inline-form.css?pneokp");
+@import url("/core/themes/classy/css/components/item-list.css?pneokp");
+@import url("/core/themes/classy/css/components/link.css?pneokp");
+@import url("/core/themes/classy/css/components/links.css?pneokp");
+@import url("/core/themes/classy/css/components/menu.css?pneokp");
+@import url("/core/themes/classy/css/components/more-link.css?pneokp");
+@import url("/core/themes/classy/css/components/pager.css?pneokp");
+@import url("/core/themes/classy/css/components/tabledrag.css?pneokp");
+@import url("/core/themes/classy/css/components/tableselect.css?pneokp");
+@import url("/core/themes/classy/css/components/tablesort.css?pneokp");
+@import url("/core/themes/classy/css/components/tabs.css?pneokp");
+@import url("/core/themes/classy/css/components/textarea.css?pneokp");
+@import url("/core/themes/classy/css/components/ui-dialog.css?pneokp");
+@import url("/core/themes/classy/css/components/progress.css?pneokp");
+@import url("/core/themes/classy/css/components/node.css?pneokp");
+@import url("/core/themes/classy/css/components/messages.css?pneokp");
+@import url("/themes/loop/vendor/owl-carousel/owl-carousel/owl.carousel.css?pneokp");
+@import url("/themes/loop/vendor/owl-carousel/owl-carousel/owl.transitions.css?pneokp");
+@import url("/themes/loop/vendor/slick-carousel/slick/slick.css?pneokp");
+@import url("/themes/loop/vendor/Swiper/dist/css/swiper.css?pneokp");
+@import url("/themes/loop/vendor/magnific-popup/dist/magnific-popup.css?pneokp");
+</style>
+<style media="all">
+@import url("/themes/loop/css/font-awesome.css?pneokp");
+@import url("/themes/loop/css/main.css?pneokp");
+@import url("/themes/loop/css/reveal.css?pneokp");
+@import url("/themes/loop/css/style.css?pneokp");
+@import url("/themes/loop/css/jquery-ui.structure.css?pneokp");
+@import url("/themes/loop/vendor/animate.css/animate.css?pneokp");
+</style>
+
+                            
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+                                                                <script src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+                                <script>
+                                    var googletag = googletag || {};
+                                    googletag.cmd = googletag.cmd || [];
+                                </script>
+                                <script>
+                                     
+                                </script>
+                                <script>
+                                    var dummy = " ";
+                                      googletag.cmd.push(function() {
+            googletag.defineSlot('/136257068/lttnewsarticlehp_web', [300, 600], 'div-gpt-ad-1492419538403-0').addService(googletag.pubads());
+            googletag.defineSlot('/136257068/lttnewsarticlelb_web', [[728, 90], [970, 250]], 'div-gpt-ad-1492419538403-1').addService(googletag.pubads());
+            googletag.defineSlot('/136257068/lttnewsarticlembt_mobile', [320, 50], 'div-gpt-ad-1492419538403-2').addService(googletag.pubads());
+            googletag.defineSlot('/136257068/lttnewsarticlempu_web', [300, 250], 'div-gpt-ad-1492419538403-3').addService(googletag.pubads());
+            var Keyword = dummy;
+            Keyword && googletag.pubads().setTargeting('Keyword', Keyword.split(','));
+			 (function() {
+						function getCookie(key) {
+							var cookies = document.cookie.split('; ');
+							for (var i = 0, parts;
+								(parts = cookies[i] && cookies[i].split('=')); i++) {
+								if (parts.shift() === key) {
+									var cookieValue = parts.join('=');
+									if (cookieValue) cookieValue = decodeURIComponent(cookieValue);
+									return cookieValue;
+								}
+							}
+						}
+						var aim_cids = getCookie('aim_cids');
+						var aim_group = getCookie('aim_group');
+						aim_cids && googletag.pubads().setTargeting('aim_cids', aim_cids.split(','));
+						aim_group && googletag.pubads().setTargeting('aim_group', aim_group);
+					})();
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        }); 
+                                </script>
+                                <script>
+                                     
+                                </script>
+                                <script>
+                                     
+                                </script>
+                                                                    <script type="text/javascript">!function(t,o,e){e=t.createElement(o),t=t.getElementsByTagName(o)[0],e.async=1,e.src="https://realizerecess.com/v2/0/vcpChV3NUESEMNJcsqRVzHEBBIAK9nWVNPsFqdNEbK-Fzn1QlnNLWsCD3I8M0M5g6Xe6bYDOt-8",t.parentNode.insertBefore(e,t)}(document,"script"),function(t,o){t[o]=t[o]||function(){(t[o].q=t[o].q||[]).push(arguments)}}(document,window,"script","admiral");!function(t,e,n,a){function o(t){try{return t=localStorage.getItem("v4ac1eiZr0"),t&&t.split(",")[4]>0}catch(e){}return!1}function r(){var a=o();if(a){var r=t[e].pubads();typeof r.setTargeting===n&&r.setTargeting("admiral-engaged","true")}}a=t[e]=t[e]||{},a.cmd=a.cmd||[],typeof a.pubads===n?r():typeof a.cmd.unshift===n?a.cmd.unshift(r):a.cmd.push(r)}(window,"googletag","function");;;;;</script>
+                                                                
+                                
+                                <!-- Google Tag Manager -->
+                                                                <!-- End Google Tag Manager --> 
+
+                                                                    <!-- <a href='%%CLICK_URL_UNESC%%%%DEST_URL_ESC%%' target="_blank">
+                                        <img src="%%FILE:file_display_name%%" border=0 width=%%WIDTH%% height=%%HEIGHT%%>
+                                    </a> -->
+                                    <script src="//aim.looptt.com/aim/js/aim_ad.min.js" type="text/javascript"></script>
+                                    <!-- Start of AIM Code -->
+                                    <script type="text/javascript">
+                                        // Pageview tracking code
+                                        var _paq = _paq || [];
+                                        var aim_domain = "looptt.com";
+                                        (function() {
+                                            var u = "//aim." + aim_domain + "/aim/";
+                                            _paq.push(['setTrackerUrl', u + 'api']);
+                                            _paq.push(['setCookieDomain', '*.' + aim_domain]);
+                                            _paq.push(['setSiteId', aim_domain]);
+                                            _paq.push(['trackEvent', 'page', 'view', document.title]);
+                                            var d = document,
+                                                    g = d.createElement('script'),
+                                                    s = d.getElementsByTagName('script')[0];
+                                            g.type = 'text/javascript';
+                                            g.async = true;
+                                            g.defer = true;
+                                            g.src = u + 'js/aim_core.min.js';
+                                            s.parentNode.insertBefore(g, s);
+                                        })();
+                                    </script>
+                                    <!-- End of AIM Code -->
+
+                                    <script>
+                                        var headers = new Headers();
+                                        headers.append('Access-Control-Allow-Origin', 'http://www.looptt.com/:8080');
+                                        headers.append('Access-Control-Allow-Credentials', 'true');
+                                    </script>
+                                
+
+                                <!---------------------------------- Goole Analytcs-----------------------------    -->
+
+                                                                    <script>
+                                        (function(i, s, o, g, r, a, m) {
+                                            i['GoogleAnalyticsObject'] = r;
+                                            i[r] = i[r] || function() {
+                                                (i[r].q = i[r].q || []).push(arguments)
+                                            }, i[r].l = 1 * new Date();
+                                            a = s.createElement(o),
+                                                    m = s.getElementsByTagName(o)[0];
+                                            a.async = 1;
+                                            a.src = g;
+                                            m.parentNode.insertBefore(a, m)
+                                        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+                                        ga('create', 'UA-48073142-9', 'auto');
+                                        ga('send', 'pageview');
+
+                                    </script>
+                                                                <style>
+                                    .fb .fa{font-size: 16px !important;}
+                                    .tw .fa{font-size: 16px !important;}
+                                    .in .fa{font-size: 16px !important;}
+                                    .gp .fa{font-size: 16px !important;} 
+                                </style>
+                                <script type="text/javascript">
+                                    (function(b, r, a, n, c, h, _, s, d, k) {
+                                        if (!b[n] || !b[n]._q) {
+                                            for (; s < _.length; )
+                                                c(h, _[s++]);
+                                            d = r.createElement(a);
+                                            d.async = 1;
+                                            d.src = "https://cdn.branch.io/branch-latest.min.js";
+                                            k = r.getElementsByTagName(a)[0];
+                                            k.parentNode.insertBefore(d, k);
+                                            b[n] = h
+                                        }
+                                    })(window, document, "script", "branch", function(b, r) {
+                                        b[r] = function() {
+                                            b._q.push([r, arguments])
+                                        }
+                                    }, {_q: [], _v: 1}, "addListener applyCode banner closeBanner creditHistory credits data deepview deepviewCta first getCode init link logout redeem referrals removeListener sendSMS setBranchViewData setIdentity track validateCode".split(" "), 0);
+                                    branch.init('key_live_mjuwaOTO7PJCCS5uI8akigkkxthoIr4S');
+                                </script>
+                                <script>
+                                    branch.setBranchViewData({
+                                        open_app: true
+                                    });
+                                </script>
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <script async src="https://www.googletagmanager.com/gtag/js?id=DC-6898249"></script>
+                                                                                                                                                                                                        <script>
+                                    window.dataLayer = window.dataLayer || [];
+                                    function gtag() {
+                                        dataLayer.push(arguments);
+                                    }
+                                    gtag('js', new Date());
+
+                                    gtag('config', 'DC-');
+                                                                                                                                                                                                        </script>
+
+                                                                                                                                                                                                        </head>
+                                                                                                                                                                                                        <body class="layout-no-sidebars path-node page-node-type-article"  id="logout_sytem" >
+
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        
+
+
+                                                                                                                                                                                                        <!-- Google Tag Manager (noscript) -->
+                                                                                                                                                                                                                                                                                                                                                                                                                <!-- End Google Tag Manager (noscript) -->
+                                                                                                                                                                                                        <a href="#main-content" class="visually-hidden focusable skip-link">
+                                                                                                                                                                                                        Skip to main content
+                                                                                                                                                                                                        </a>
+                                                                                                                                                                                                        
+                                                                                                                                                                                                        <div class="page-loader">
+    <div class="loader">
+                                    </div>
+</div>
+<div class="main-wrapper">
+    <!-- Header -->
+    <header class="header-tp-3 mb-ls-hide">
+        <div class="container">
+            <div class="top-side">
+                <div class="col-row">
+                    <div class="col-one-third sm-one-third">
+                        <div class="left-side">
+                            <div class="htp-3-social">
+                                <div class="temperature">                        
+                                    <span class="degrees-1">
+                                        Saturday   23 February, 2019
+                                          <div class="region region-domain-menu">
+    <nav role="navigation" aria-labelledby="block-loopmarket-menu" id="block-loopmarket" class="block block-menu navigation menu--loop-market">
+            
+  <h2 class="visually-hidden" id="block-loopmarket-menu">Loop market</h2>
+  
+
+        <div class="content">
+                <div class="menu-toggle-target menu-toggle-target-show" id="show-block-loopmarket"></div>
+        <div class="menu-toggle-target" id="hide-block-loopmarket"></div>
+        <div class="container">
+            <nav class="mobile-nav">
+                
+                <div class=mobile-slider>
+            <div class=vantage-slider-menu>
+                <div class=menu-slider-head>
+                    <h2><span id="active-market">
+                                                                                            <span id="loopnewsbarbados" style="display:none;" class="market-title">Barbados</span>
+                                                                                            <span id="loopcayman" style="display:none;" class="market-title">Cayman</span>
+                                                                                            <span id="loophaiti" style="display:none;" class="market-title">Haiti</span>
+                                                                                            <span id="loopjamaica" style="display:none;" class="market-title">Jamaica</span>
+                                                                                            <span id="loopslu" style="display:none;" class="market-title">St. Lucia</span>
+                                                                                            <span id="looptt" style="display:none;" class="market-title">Trinidad and Tobago</span>
+                                                    </span>
+                    </h2>
+                    <i class="fa fa-angle-down" aria-hidden="true"></i>
+                </div>
+                <div class=vantage-list>
+                    <div class=timeline>
+                        <div class=events-wrapper>
+                            <div class="events first-scroll">
+                                <ul>
+                                                                            <li><a href="http://www.loopnewsbarbados.com">Barbados</a></li>
+                                                                                <li><a href="http://www.loopcayman.com">Cayman</a></li>
+                                                                                <li><a href="http://www.loophaiti.com">Haiti</a></li>
+                                                                                <li><a href="http://www.loopjamaica.com">Jamaica</a></li>
+                                                                                <li><a href="http://www.loopslu.com">St. Lucia</a></li>
+                                                                                <li><a href="http://www.looptt.com">Trinidad and Tobago</a></li>
+                                                                        </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+<script>
+    var splited = window.location.origin.split(".");
+ document.getElementById(splited[1]).style.display = "block";
+</script>
+            </nav>
+        </div>
+
+
+    </div>
+</nav>
+
+  </div>
+
+                                    </span>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-one-third sm-one-third">
+                                                      <div class="region region-header">
+      
+    <div id="block-loop-branding" class="clearfix site-branding block block-system block-system-branding-block">
+        
+                
+                    <div class="htp-3-logo">
+            <a href="/" title="Home" rel="home" class="site-branding__logo adaptive" >
+                <img src="/themes/loop/logo.svg" alt="Home" width="150" height="84"/>
+            </a>
+        </div>
+            </div>
+ 
+  </div>
+
+                                            </div>
+                    <div class="col-one-third sm-one-third">
+                        <div class="right-side">
+
+                            <ul class="htp-3-social-list" style="float:left; margin-top:5px;">
+                                  <div class="region region-header-social-icons">
+      
+    <div id="block-socialurls" class="block block-social-urls block-social-urls-block">
+        
+                
+                    <div class="content">
+                <li class="fb">
+                                    <a href="https://www.facebook.com/loopnewstt" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>									
+                                </li>
+                                <li class="tw">
+                                    <a href="https://twitter.com/LoopNewsTT" target="_blank">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                </li>
+                                <li class="in">
+                                    <a href="https://instagram.com/LoopNewsTT" target="_blank">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                </li>
+                                <li class="gp">
+                                    <a href="https://www.snapchat.com/add/LoopNewsTT" target="_blank">
+                                       <i class="fa fa-snapchat-ghost"></i>
+                                    </a>
+                                </li>
+            </div>
+            </div>
+ 
+  </div>
+
+                            </ul>
+                            <div class="htp-3-saved-art sm-hide">
+                                <form action="/search/node" method="get" id="search-form" accept-charset="UTF-8">
+                                    <div class="search-sec">
+                                        <input type="search" placeholder="Search" name="keys" id="txtSearch" value="">
+                                        <button type="submit" id=""><i class="fa fa-search" aria-hidden="true"></i></button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="container">
+                              <div class="region region-primary-menu-tt">
+      
+    <div id="block-loopttmenu" class="block block-superfish block-superfishlooptt-menu">
+        
+                
+                    <div class="content">
+                <div class="bottom-side">
+    <div class="htp-3-row">
+        <div class="htp-3-menu">
+            <nav class="main-nav">
+                <ul id="superfish-looptt-menu" class="menu sf-menu sf-looptt-menu sf-horizontal sf-style-none">
+                    
+<li id="looptt-menu-menu-link-content1d1c3a7c-949d-433d-9934-590077aa54c4--2" class="sf-depth-1 ttnews menuparent"><a href="/category/looptt-t-t-news" class="sf-depth-1 ttnews menuparent">T&amp;T News</a><ul class="sub"><li id="looptt-menu-menu-link-content88723be9-c9de-44fa-9a76-30a4f6656e96--2" class="sf-depth-2 crime sf-no-children"><a href="/category/looptt-crime" class="sf-depth-2 crime">Crime</a></li><li id="looptt-menu-menu-link-content29d04369-14c7-40a1-bc97-b6ecbe46e1c1--2" class="sf-depth-2 politics sf-no-children"><a href="/category/looptt-politics" class="sf-depth-2 politics">Politics</a></li></ul></li><li id="looptt-menu-menu-link-content452d985e-ac14-4009-858d-ff5d37ef2ef4--2" class="sf-depth-1 worldnews menuparent"><a href="/category/looptt-world-news" class="sf-depth-1 worldnews menuparent">World News</a><ul class="sub"><li id="looptt-menu-menu-link-content5b7d143a-f79d-464f-a818-2f70d276a9fa--2" class="sf-depth-2 caribbeannews sf-no-children"><a href="/category/looptt-caribbean-news" class="sf-depth-2 caribbeannews">Caribbean News</a></li><li id="looptt-menu-menu-link-contenta3bc23f0-a062-4e44-88cb-a47c9d386db9--2" class="sf-depth-2 festivals sf-no-children"><a href="/category/tt-festivals" class="sf-depth-2 festivals">Festivals</a></li></ul></li><li id="looptt-menu-menu-link-contentf1529507-c5a4-4f96-8574-a030fd74e346--2" class="sf-depth-1 carnival sf-no-children"><a href="/category/looptt-carnival" class="sf-depth-1 carnival">Carnival</a></li><li id="looptt-menu-menu-link-content69339e98-bbb9-4e2a-b292-df25844dcdfd--2" class="sf-depth-1 viral sf-no-children"><a href="/category/looptt-viral" class="sf-depth-1 viral">Viral</a></li><li id="looptt-menu-menu-link-content80610622-6384-426b-a04d-3cd97fc14f85--2" class="sf-depth-1 entertainment sf-no-children"><a href="/category/looptt-entertainment" class="sf-depth-1 entertainment">Entertainment</a></li><li id="looptt-menu-menu-link-content600eed84-9d74-474a-a7f6-decd695561b3--2" class="sf-depth-1 lifestyle menuparent"><a href="/category/looptt-lifestyle" class="sf-depth-1 lifestyle menuparent">Lifestyle</a><ul class="sub"><li id="looptt-menu-menu-link-content38ddf170-e7dd-4c27-acba-74a5bf9a3416--2" class="sf-depth-2 travel sf-no-children"><a href="/category/looptt-travel" class="sf-depth-2 travel">Travel</a></li><li id="looptt-menu-menu-link-content64978e93-c7c6-43e3-bd1f-f2c34fb24411--2" class="sf-depth-2 tech sf-no-children"><a href="/category/looptt-tech" class="sf-depth-2 tech">Tech</a></li><li id="looptt-menu-menu-link-content35bdd7f5-1b72-4b5b-8198-09e7d4a5e2df--2" class="sf-depth-2 food sf-no-children"><a href="/category/looptt-food" class="sf-depth-2 food">Food</a></li></ul></li><li id="looptt-menu-menu-link-content5a46d12f-7ec5-4cd1-be17-abd722bbdab4--2" class="sf-depth-1 business menuparent"><a href="/category/looptt-business" class="sf-depth-1 business menuparent">Business</a><ul class="sub"><li id="looptt-menu-menu-link-content55de4a36-1320-40de-aa0d-ae78d8a9d303--2" class="sf-depth-2 energy sf-no-children"><a href="/category/looptt-energy" class="sf-depth-2 energy">Energy</a></li></ul></li><li id="looptt-menu-menu-link-contentfe2aa7e1-083f-4c9a-83ff-823849b77bde--2" class="sf-depth-1 sport sf-no-children"><a href="/category/looptt-sport" class="sf-depth-1 sport">Sport</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+            </div>
+            </div>
+ 
+  </div>
+
+                    </div>
+    </header>
+    <div class="sticky-header js-sticky-header">
+        <div class="container">
+            <div class="main-nav-wrap">
+                <div class="row1">
+                    <nav class="main-nav">
+                                                      <div class="region region-primary-menu-tt">
+      
+    <div id="block-loopttmenu" class="block block-superfish block-superfishlooptt-menu">
+        
+                
+                    <div class="content">
+                <div class="bottom-side">
+    <div class="htp-3-row">
+        <div class="htp-3-menu">
+            <nav class="main-nav">
+                <ul id="superfish-looptt-menu" class="menu sf-menu sf-looptt-menu sf-horizontal sf-style-none">
+                    
+<li id="looptt-menu-menu-link-content1d1c3a7c-949d-433d-9934-590077aa54c4--2" class="sf-depth-1 ttnews menuparent"><a href="/category/looptt-t-t-news" class="sf-depth-1 ttnews menuparent">T&amp;T News</a><ul class="sub"><li id="looptt-menu-menu-link-content88723be9-c9de-44fa-9a76-30a4f6656e96--2" class="sf-depth-2 crime sf-no-children"><a href="/category/looptt-crime" class="sf-depth-2 crime">Crime</a></li><li id="looptt-menu-menu-link-content29d04369-14c7-40a1-bc97-b6ecbe46e1c1--2" class="sf-depth-2 politics sf-no-children"><a href="/category/looptt-politics" class="sf-depth-2 politics">Politics</a></li></ul></li><li id="looptt-menu-menu-link-content452d985e-ac14-4009-858d-ff5d37ef2ef4--2" class="sf-depth-1 worldnews menuparent"><a href="/category/looptt-world-news" class="sf-depth-1 worldnews menuparent">World News</a><ul class="sub"><li id="looptt-menu-menu-link-content5b7d143a-f79d-464f-a818-2f70d276a9fa--2" class="sf-depth-2 caribbeannews sf-no-children"><a href="/category/looptt-caribbean-news" class="sf-depth-2 caribbeannews">Caribbean News</a></li><li id="looptt-menu-menu-link-contenta3bc23f0-a062-4e44-88cb-a47c9d386db9--2" class="sf-depth-2 festivals sf-no-children"><a href="/category/tt-festivals" class="sf-depth-2 festivals">Festivals</a></li></ul></li><li id="looptt-menu-menu-link-contentf1529507-c5a4-4f96-8574-a030fd74e346--2" class="sf-depth-1 carnival sf-no-children"><a href="/category/looptt-carnival" class="sf-depth-1 carnival">Carnival</a></li><li id="looptt-menu-menu-link-content69339e98-bbb9-4e2a-b292-df25844dcdfd--2" class="sf-depth-1 viral sf-no-children"><a href="/category/looptt-viral" class="sf-depth-1 viral">Viral</a></li><li id="looptt-menu-menu-link-content80610622-6384-426b-a04d-3cd97fc14f85--2" class="sf-depth-1 entertainment sf-no-children"><a href="/category/looptt-entertainment" class="sf-depth-1 entertainment">Entertainment</a></li><li id="looptt-menu-menu-link-content600eed84-9d74-474a-a7f6-decd695561b3--2" class="sf-depth-1 lifestyle menuparent"><a href="/category/looptt-lifestyle" class="sf-depth-1 lifestyle menuparent">Lifestyle</a><ul class="sub"><li id="looptt-menu-menu-link-content38ddf170-e7dd-4c27-acba-74a5bf9a3416--2" class="sf-depth-2 travel sf-no-children"><a href="/category/looptt-travel" class="sf-depth-2 travel">Travel</a></li><li id="looptt-menu-menu-link-content64978e93-c7c6-43e3-bd1f-f2c34fb24411--2" class="sf-depth-2 tech sf-no-children"><a href="/category/looptt-tech" class="sf-depth-2 tech">Tech</a></li><li id="looptt-menu-menu-link-content35bdd7f5-1b72-4b5b-8198-09e7d4a5e2df--2" class="sf-depth-2 food sf-no-children"><a href="/category/looptt-food" class="sf-depth-2 food">Food</a></li></ul></li><li id="looptt-menu-menu-link-content5a46d12f-7ec5-4cd1-be17-abd722bbdab4--2" class="sf-depth-1 business menuparent"><a href="/category/looptt-business" class="sf-depth-1 business menuparent">Business</a><ul class="sub"><li id="looptt-menu-menu-link-content55de4a36-1320-40de-aa0d-ae78d8a9d303--2" class="sf-depth-2 energy sf-no-children"><a href="/category/looptt-energy" class="sf-depth-2 energy">Energy</a></li></ul></li><li id="looptt-menu-menu-link-contentfe2aa7e1-083f-4c9a-83ff-823849b77bde--2" class="sf-depth-1 sport sf-no-children"><a href="/category/looptt-sport" class="sf-depth-1 sport">Sport</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+            </div>
+            </div>
+ 
+  </div>
+
+                                            </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <header class="header-mb">
+        <div class="container">
+            <div class="hdm-menu">
+                <a href="#mb-menu" class="c-hamburger htx js-mb-menu">
+                    <span>toggle menu</span>
+                </a>
+            </div>
+            <div class="hdm-logo">
+                <h1><a href="/"><img src="/themes/loop/logo.svg" height="40" width="140" alt="Spectr" class="adaptive" /></a></h1>
+            </div>
+            <div class="hdm-search-user">
+                <form action="/search/node" method="get" id="search-form" accept-charset="UTF-8">
+                    <div class="hd-search">
+                        <a href="#search-block" class="st-btn-1 fa-flip-horizontal js-hd-search">
+                            <i class="li_search"></i>
+                        </a>
+                        <div class="hd-search-block js-hd-search-block">
+                            <div class="search">
+                                <div class="search-input">
+                                    <input type="search" placeholder="Search" name="keys" id="txtSearch" value="">
+                                </div>
+                                <div class="search-btn">
+                                    <button type="submit" id="">Search</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--  <div class="user">
+                            <a href="#" class="js-popups"><i class="li_user"></i></a>
+                    </div> -->
+                </form>
+            </div>
+            <div class="mobile_domain">
+                  <div class="region region-domain-menu">
+    <nav role="navigation" aria-labelledby="block-loopmarket-menu" id="block-loopmarket" class="block block-menu navigation menu--loop-market">
+            
+  <h2 class="visually-hidden" id="block-loopmarket-menu">Loop market</h2>
+  
+
+        <div class="content">
+                <div class="menu-toggle-target menu-toggle-target-show" id="show-block-loopmarket"></div>
+        <div class="menu-toggle-target" id="hide-block-loopmarket"></div>
+        <div class="container">
+            <nav class="mobile-nav">
+                
+                <div class=mobile-slider>
+            <div class=vantage-slider-menu>
+                <div class=menu-slider-head>
+                    <h2><span id="active-market">
+                                                                                            <span id="loopnewsbarbados" style="display:none;" class="market-title">Barbados</span>
+                                                                                            <span id="loopcayman" style="display:none;" class="market-title">Cayman</span>
+                                                                                            <span id="loophaiti" style="display:none;" class="market-title">Haiti</span>
+                                                                                            <span id="loopjamaica" style="display:none;" class="market-title">Jamaica</span>
+                                                                                            <span id="loopslu" style="display:none;" class="market-title">St. Lucia</span>
+                                                                                            <span id="looptt" style="display:none;" class="market-title">Trinidad and Tobago</span>
+                                                    </span>
+                    </h2>
+                    <i class="fa fa-angle-down" aria-hidden="true"></i>
+                </div>
+                <div class=vantage-list>
+                    <div class=timeline>
+                        <div class=events-wrapper>
+                            <div class="events first-scroll">
+                                <ul>
+                                                                            <li><a href="http://www.loopnewsbarbados.com">Barbados</a></li>
+                                                                                <li><a href="http://www.loopcayman.com">Cayman</a></li>
+                                                                                <li><a href="http://www.loophaiti.com">Haiti</a></li>
+                                                                                <li><a href="http://www.loopjamaica.com">Jamaica</a></li>
+                                                                                <li><a href="http://www.loopslu.com">St. Lucia</a></li>
+                                                                                <li><a href="http://www.looptt.com">Trinidad and Tobago</a></li>
+                                                                        </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+<script>
+    var splited = window.location.origin.split(".");
+ document.getElementById(splited[1]).style.display = "block";
+</script>
+            </nav>
+        </div>
+
+
+    </div>
+</nav>
+
+  </div>
+
+            </div>
+        </div>
+    </header>
+    <div class="inner-wrapper">
+        <div class="main">
+            <!-- Content -->
+            <div class="main-content" style="padding-bottom: 0px;">
+                <!-- Trending line -->
+                                      <div class="region region-featured-ticker">
+            <div class="trending-posts-line">
+        <div class="trending-line">
+            <div class="container">
+                <div class="trending-now">Breaking News | </div>
+                <div> 
+<div class="view view-dynamic-ticker view-id-dynamic_ticker view-display-id-block_1 js-view-dom-id-6383c51295d911698eb50a531f6734d64213b6171d640e71cb370734ca3ecc26">
+  
+    
+      
+      <div class="view-content">
+          <div class="tl-slider">
+                                <div class="views-row">
+                <div class="views-field views-field-title"><span class="field-content"><a href="/content/latest-2-killed-18-injured-venezuela-border-clashes" hreflang="en">The Latest: 2 killed, 18 injured in Venezuela border clashes</a></span></div>
+            </div>
+                                <div class="views-row">
+                <div class="views-field views-field-title"><span class="field-content"><a href="/content/latest-judge-sets-1-million-bond-singer-r-kelly" hreflang="en">The Latest: Judge sets $1 million bond for singer R. Kelly</a></span></div>
+            </div>
+                                <div class="views-row">
+                <div class="views-field views-field-title"><span class="field-content"><a href="/content/inmate-found-unresponsive-cell-dies-health-facility" hreflang="en">Inmate found unresponsive in cell, dies at health facility </a></span></div>
+            </div>
+                                <div class="views-row">
+                <div class="views-field views-field-title"><span class="field-content"><a href="/content/know-yuh-team-dj-charlotte-and-aaron-fingal" hreflang="en">Know Yuh Team: DJ Charlotte and Aaron Fingal </a></span></div>
+            </div>
+                                <div class="views-row">
+                <div class="views-field views-field-title"><span class="field-content"><a href="/content/guns-ammo-found-diego-martin-port-spain" hreflang="en">Guns, ammo found in Diego Martin, Port of Spain </a></span></div>
+            </div>
+                                <div class="views-row">
+                <div class="views-field views-field-title"><span class="field-content"><a href="/content/critters-tts-only-wild-cat-protected-ocelot" hreflang="en">CriTTers: T&amp;T&#039;s only wild cat, the protected ocelot</a></span></div>
+            </div>
+                                <div class="views-row">
+                <div class="views-field views-field-title"><span class="field-content"><a href="/content/more-saharan-dust-way-mild-concentrations-expected-next-week" hreflang="en">More Saharan dust on the way; mild concentrations expected next week </a></span></div>
+            </div>
+                                <div class="views-row">
+                <div class="views-field views-field-title"><span class="field-content"><a href="/content/five-venezuelan-females-held-scarborough-port" hreflang="en">Five Venezuelan females held at Scarborough Port </a></span></div>
+            </div>
+                                <div class="views-row">
+                <div class="views-field views-field-title"><span class="field-content"><a href="/content/r-kelly-due-chicago-court-face-sex-abuse-charges" hreflang="en">R. Kelly due in Chicago court to face sex abuse charges</a></span></div>
+            </div>
+                                <div class="views-row">
+                <div class="views-field views-field-title"><span class="field-content"><a href="/content/education-minister-slams-mp-over-statements-school" hreflang="en">Education Minister slams MP over statements on school</a></span></div>
+            </div>
+            </div>
+
+
+    </div>
+  
+          </div>
+</div>
+
+                            </div>
+        </div>
+    </div>
+ 
+  </div>
+
+                                <div class="loop-elction" id="advertize">
+                    <div class="main-posts-1">
+                        <div class="new-visit-site">
+                                                                                        <div id='div-gpt-ad-1492419538403-1' class="mpu_ads_web_home">
+                                    <!-- Start of AIM Code -->
+                                    <script type="text/javascript">
+                                        var CAMPAIGN_ID = "div-gpt-ad-1492419538403-1"; // Please replace this string with a string containing the DFP order/campaign ID, e.g. "123456789".
+
+                                        // Ad impression and click tracking code
+                                        var _paq = _paq || [];
+                                        _paq.push(['trackEvent', 'ad', 'impression', CAMPAIGN_ID]);
+                                        //aim_rc('#aim_ac', CAMPAIGN_ID);
+                                    </script>
+                                    <!-- End of AIM Code -->
+                                    <script>
+                                        googletag.cmd.push(function() {
+                                            googletag.display('div-gpt-ad-1492419538403-1');
+                                        });
+                                    </script>
+                                </div>
+                            
+                                                    </div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                <div class="section article_business_section">
+                    <div class="row">
+                                                      <div class="region region-content">
+    
+    
+    <div id="block-loop-content" class="block block-system block-system-main-block">
+        
+                
+                    <div class="content">
+                
+<div class="pst-block">
+        <div class="pst-block-main">
+        <div class="post-content">
+            <article data-history-node-id="384724" role="article" about="/content/met-office-saharan-dust-may-worsen-weekend" typeof="schema:Article" class="node node--type-article node--view-mode-full clearfix">
+                <h2 class="title-21"  class="node__title"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Met Office: Saharan dust may worsen this weekend</span>
+</h2>
+                <div class="meta-tp-5">
+                    <div class="author-tp-2 article-meta-infos">
+                        <div class="author-info">
+                                                        <span class="author-name border-left">
+                                                                    Loop News&nbsp; 
+                                                            </span>
+                            <span class="date-tp-4 border-left"><i class="li_clock"></i>
+                                                                Created : 14 February 2019
+                                                            </span>
+                            <label class="category-primary">
+                                                                                                                                                        <a href="/category/looptt-t-t-news" class="" tabindex="0"> T&amp;T News </a>
+                                                                                                                                            </label>
+                                            </div>
+                                                                                    </div></div>
+                                    <div class="post-main-img">
+                                        <img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2019-02/vMHGxH5JO6.jpg" height="442" width="750" alt="" class="adaptive" />
+                                         
+                                            
+                                    </div>
+                                    <div class="meta-tp-5">
+
+
+                                        <div class="add-to-any styky-addtoany js-sticky-header">
+                                            <div class="container">
+                                                  
+    <div id="block-addtoanybuttons" class="block block-addtoany block-addtoany-block">
+        
+                
+                    <div class="content">
+                <span class="a2a_kit a2a_kit_size_24 addtoany_list" data-a2a-url="http://www.looptt.com/content/met-office-saharan-dust-may-worsen-weekend" data-a2a-title="Met Office: Saharan dust may worsen this weekend"><div class="addthis_inline_share_toolbox"></div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5878981454401c36"></script></span>
+
+            </div>
+            </div>
+ 
+                                            </div>
+                                        </div> 
+
+                                        <div class="meta-tp-5 article-main-section2">
+                                            
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Trinbagonians suffering from allergies and other dust-related afflictions as a result of Saharan Dust should get a small reprieve soon.</p>
+
+<p>The Trinidad and Tobago Meteorological Service said in an <a href="https://www.facebook.com/TTMetService/videos/399718037263684/?__xts__%5B0%5D=68.ARBm-I97gUqWKettehmTdKfhP92dxK2vpey6ygem1iay8vN6j0yVhIMfH2mYxSIJBrZfZ1mXHABzUuJk7MxMpylZX7H_hPjUbLswSqIU5ulHPP646Iui7bb_6M_vWzZje-6Cou5vr7A4Rp_LQLZeOC8Um4WBwsOEddhLGySbhpU-dtnn7GZrcjjN4yeqJY7isNGHTxe9PbrrJGhVPa9DxiNRTHTi-IJ6tl9t3xRyjdRYPi6BQ9YH4fuwR4HRdXAdJIaS0RSpqbYDS-9QCnkYMCGVzm9UQkUjrwfSPniawnOuGKq2uDWq9ryLgLlFkO9MywxPN7c4k1xGk3gg8K7alTVuIGVfqcJ_IA0&amp;__tn__=-R">update</a>&nbsp;on Wednesday that a mild amount of Saharan dust is currently present, however this may increase over the weekend.</p>
+
+<div class="video-embed-field-responsive-video"><iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/LLx37OfD7Zo?autoplay=0&amp;start=0&amp;rel=0"></iframe>
+</div>
+
+
+<h5>(Video footage shared by the US National Oceanic and Atmospheric Administration in the first week of February 2019.)</h5>
+
+<p>However, the good news is that the dust plume would decrease somewhat from <strong>Monday,&nbsp;February 18, 2019.</strong></p>
+
+<p><img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/d0l1Kq0kli.jpg" /></p>
+
+<p>Persons prone to asthma and other respiratory conditions are urged to take precautions such as:</p>
+
+<p>- Wearing a dust mask or medical mask</p>
+
+<p>- Staying indoors with windows and doors sealed against dusty conditions</p>
+
+<p>- Staying hydrated&nbsp;</p>
+
+<p>- Changing bed linens regularly to prevent dust from distracting sleep patterns</p>
+
+<p>- Keeping eye drops handy and wearing sunglasses to prevent dust from irritating eyes</p>
+
+<p>- Placing a mat under doors to prevent dust from entering the home</p>
+
+<p>- Keeping relevant medication handy such as asthma inhalers, sinus medication, pain relievers etc.</p>
+
+<p>Please consult with your doctor to ensure you or other vulnerable persons are protected adequately from dusty conditions.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>What is Saharan Dust?</strong></p>
+
+<p>The&nbsp;Saharan Air Layer (SAL) is an extremely hot, dry and dust-laden layer of air that originates over the Sahara Desert of North Africa, where it extends from the surface upwards to several kilometres. It is fed by strong low to mid-level easterly winds over the desert which pulls sand and dust particles into the atmosphere. This is where the dust haze really emanates from.</p>
+
+<p>This layer of dusty, very dry and warm air is pushed westward by the easterly winds and, on reaching the west African coast or eastern Atlantic Ocean, it rides over the cooler, more moist surface air of the Atlantic Ocean, forming what is called an atmospheric inversion layer or boundary: with warm, dry air aloft and cooler, moist air below. &nbsp;</p>
+
+<p>The SAL&nbsp;has been observed to suppress the formation and intensification of tropical cyclones and can make tropical waves appear ragged or even disintegrate them due to the mixing of the SAL’s dry air into these weather systems.&nbsp;</p>
+
+<p>This is because the SAL typically contain lots of dry air, aerosol dust particles, and strong winds, all of which act against the development of cloud and tropical cyclone formation.</p>
+
+<p>Once the SAL reaches the Atlantic, the easterly trade winds continue to carry this dust across the Atlantic at the lower and mid-levels, where eventually some of it, oftentimes large pools of it, lands over Trinidad and Tobago and the southern Caribbean.</p>
+
+<p>As the SAL moves westward, it maintains the characteristics of warm stable air at its base, and dryness and dustiness throughout its vertical profiles.&nbsp;</p>
+<div class="extra_appa"><p><strong>Get the latest local and international news straight to your mobile phone for free:</strong></p>
+                                           <div class="app_div"> <p><strong><a href="https://4xbv.app.link/download-loop-android"><img src="/themes/loop/img/android-icon.png" style="float:none; margin: 5px 10px -13px 0;" /></a></strong></p>
+                                            <p><strong><a href="https://4xbv.app.link/download-loop-ios"><img src="/themes/loop/img/apple-icon.png" style="float:none; margin: 5px 10px -13px 0;" /></a></strong>&nbsp;&nbsp;</p></div></div>
+                                        </div>
+      
+                                        </div>
+                                    </div>
+                                </article>
+
+                                                                    <div class="reference_link">
+                                        <h5>Source</h5>
+                                        <label><a href="">Met Office</a></label>
+                                    </div>
+                                  
+                                <div class="post-tags">
+                                    <ul class="post-tags-list">
+                                                                                    <li><a href="/taxonomy/term/19331">Saharan dust</a></li>
+                                                                                        <li><a href="/taxonomy/term/66872">dusty</a></li>
+                                                                                        <li><a href="/taxonomy/term/81176">sinusitis</a></li>
+                                                                                        <li><a href="/taxonomy/term/59832">dust allergies</a></li>
+                                                                                        <li><a href="/taxonomy/term/17478">Trinidad</a></li>
+                                                                                        <li><a href="/taxonomy/term/8731">Weather</a></li>
+                                                                                        <li><a href="/taxonomy/term/16895">Met Office</a></li>
+                                                                                </ul>
+                                </div>
+
+                            </div>
+                            <input type="button" id="calltoaction" value="calltoaction" style="display: none;" />
+                                                    </div>
+                                                <div class="pst-block-main">
+                            <div class="post-content">
+                                                                    <div class="pst-box">
+                                        <div class="pst-box-head">
+                                            <div class="title-blc-1">
+                                                <h4>Related articles</h4>
+                                            </div>
+                                        </div>
+                                        <div class="pst-box-main related_news">
+                                            <div class="pst-box-inner js-pst-block-2">
+                                                                                                    <div class="one-third">
+                                                        <article class="post post-tp-30">
+                                                            <figure>
+                                                                <a href="http://www.looptt.com/content/ttms-monitors-saharan-dust-approaching-southern-caribbean"><img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2019-02/GM2fmpcKYW.jpg" height="150" width="222" alt="" class="adaptive" /></a> 
+                                                            </figure>
+                                                            <h3 class="title-6"><a href="http://www.looptt.com/content/ttms-monitors-saharan-dust-approaching-southern-caribbean">TTMS monitors saharan dust approaching southern Caribbean</a></h3>
+                                                        </article>
+                                                    </div>
+                                                                                                    <div class="one-third">
+                                                        <article class="post post-tp-30">
+                                                            <figure>
+                                                                <a href="http://www.looptt.com/content/watch-out-mild-saharan-dust-next-week"><img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2019-02/vMHGxH5JO6.jpg" height="150" width="222" alt="Photo courtesy the US National Oceanic and Atmospheric Administration (NOAA). " class="adaptive" /></a> 
+                                                            </figure>
+                                                            <h3 class="title-6"><a href="http://www.looptt.com/content/watch-out-mild-saharan-dust-next-week">Watch out for mild Saharan dust next week </a></h3>
+                                                        </article>
+                                                    </div>
+                                                                                                    <div class="one-third">
+                                                        <article class="post post-tp-30">
+                                                            <figure>
+                                                                <a href="http://www.looptt.com/content/met-office-warns-hazy-conditions-saharan-dust-returns"><img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2019-01/D6b9UioKOM.jpg" height="150" width="222" alt="Photo via the NOAA." class="adaptive" /></a> 
+                                                            </figure>
+                                                            <h3 class="title-6"><a href="http://www.looptt.com/content/met-office-warns-hazy-conditions-saharan-dust-returns">Met Office warns of hazy conditions as Saharan Dust returns</a></h3>
+                                                        </article>
+                                                    </div>
+                                                                                            </div>
+                                        </div>
+                                    </div>
+                                
+                                <div class="sharing-block">
+                                    <div class="sharing-title">You can tell friends about this post!</div>
+                                                                          
+    <div id="block-addtoanybuttons" class="block block-addtoany block-addtoany-block">
+        
+                
+                    <div class="content">
+                <span class="a2a_kit a2a_kit_size_24 addtoany_list" data-a2a-url="http://www.looptt.com/content/met-office-saharan-dust-may-worsen-weekend" data-a2a-title="Met Office: Saharan dust may worsen this weekend"><div class="addthis_inline_share_toolbox"></div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5878981454401c36"></script></span>
+
+            </div>
+            </div>
+ 
+                                </div>
+                                <div class="post-next-prev"></div>
+
+                                <div class="comments-block">
+                                    <div class="pst-block-head">
+                                        <div class="title-4">
+                                            <strong>Comments </strong>
+                                        </div>
+                                    </div>
+                                    
+	
+ 
+
+     	
+	<div class="comments"><div id="disqus_thread"><noscript>
+  <p>
+    <a href="http://loopnews.disqus.com/">View the discussion thread.</a>
+  </p>
+</noscript></div>
+</div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                        <div class="clear"></div>
+                        <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+                        <div class="section sponsored-sec web-outbrain">
+                            <div class="trend-pst">
+                                <div class="OUTBRAIN" data-src="www.looptt.com" data-widget-id="AR_1" data-ob-template="TrendMedia" ></div>
+                            </div>
+                        </div>
+
+                    </div>
+                                                                                            <script type="application/ld+json">
+                                {
+                                "@context": "http://schema.org",
+                                "@type": "NewsArticle",
+                                "headline": "Met Office: Saharan dust may worsen this weekend",
+                                "url": "http://www.looptt.com/content/met-office-saharan-dust-may-worsen-weekend",
+                                "thumbnailUrl": "https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2019-02/vMHGxH5JO6.jpg",
+                                "dateCreated": "2019-02-14T14:21:17Z",
+                                "articleSection": "LoopTT T&amp;T News",
+                                "creator": ["Alina Doodnath"],
+                                "keywords": ["Saharan dust", "dusty", "sinusitis", "dust allergies", "Trinidad", "Weather", "Met Office"]
+                                }
+                            </script>
+                                                <script>
+                            branch.setBranchViewData({
+                                open_app: true
+                            });
+                        </script>
+                        <script>
+                            ga('send', {
+                                hitType: 'event',
+                                eventCategory: 'LoopTT T&amp;T News',
+                                eventAction: 'Action',
+                                eventLabel: 'Met Office: Saharan dust may worsen this weekend'
+                            });
+                        </script>
+            </div>
+            </div>
+   
+    <div id="block-loop-local-actions" class="block block-core block-local-actions-block">
+        
+                
+              <nav class="action-links"></nav>
+      </div>
+ 
+  </div>
+
+                                                <aside class="side-bar">
+                            <div class="js-sidebar">
+                                                                    <div class="sb-banner">
+                                                                                    <div id='div-gpt-ad-1492419538403-3' class="mpu_ads_web_home">
+                                                <!-- Start of AIM Code -->
+                                                <script type="text/javascript">
+                                                    var CAMPAIGN_ID = "div-gpt-ad-1492419538403-3"; // Please replace this string with a string containing the DFP order/campaign ID, e.g. "123456789".
+
+                                                    // Ad impression and click tracking code
+                                                    var _paq = _paq || [];
+                                                    _paq.push(['trackEvent', 'ad', 'impression', CAMPAIGN_ID]);
+                                                    //aim_rc('#aim_ac', CAMPAIGN_ID);
+                                                </script>
+                                                <!-- End of AIM Code -->
+                                                <script>
+                                                    googletag.cmd.push(function() {
+                                                        googletag.display('div-gpt-ad-1492419538403-3');
+                                                    });
+                                                </script>
+                                            </div>
+                                        
+
+                                    </div>
+                                    <div class="pst-block">
+                                        <div class="pst-block-head">
+                                            <h2 class="title-4">
+                                                                                                    Share this article
+                                                                                            </h2>
+                                        </div>
+                                        <div class="pst-block-main">
+                                            <div class="add-to-any">
+                                                  <div class="region region-add-to-any-event">
+      
+    <div id="block-addtoanybuttons-3" class="block block-addtoany block-addtoany-block">
+        
+                
+                    <div class="content">
+                <span class="a2a_kit a2a_kit_size_24 addtoany_list" data-a2a-url="http://www.looptt.com/content/met-office-saharan-dust-may-worsen-weekend" data-a2a-title="Met Office: Saharan dust may worsen this weekend"><div class="addthis_inline_share_toolbox"></div>
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5878981454401c36"></script></span>
+
+            </div>
+            </div>
+ 
+  </div>
+
+                                            </div>
+                                                                                    </div>
+                                    </div>
+                                                                            <div class="sb-banner">
+                                                                                            <div id='div-gpt-ad-1492419538403-0' class="mpu_ads_web_home">
+                                                    <!-- Start of AIM Code -->
+                                                    <script type="text/javascript">
+                                                        var CAMPAIGN_ID = "div-gpt-ad-1492419538403-0"; // Please replace this string with a string containing the DFP order/campaign ID, e.g. "123456789".
+
+                                                        // Ad impression and click tracking code
+                                                        var _paq = _paq || [];
+                                                        _paq.push(['trackEvent', 'ad', 'impression', CAMPAIGN_ID]);
+                                                        //aim_rc('#aim_ac', CAMPAIGN_ID);
+                                                    </script>
+                                                    <!-- End of AIM Code -->
+                                                    <script>
+                                                        googletag.cmd.push(function() {
+                                                            googletag.display('div-gpt-ad-1492419538403-0');
+                                                        });
+                                                    </script>
+                                                </div>
+                                                                                    </div>
+                                                                                                                <div class="pst-block">
+                                              <div class="region region-featured-sidebar">
+     
+                    <div class="trpst-block">
+        <div class="trpst-block-head">
+            <h2 class="title-4"><strong>Trending</strong></h2>
+            <div class="js-sbr-pagination"></div>
+        </div>
+        <div class="trpst-block-main">
+            <div> 
+<div class="view view-trending-post-sidebar view-id-trending_post_sidebar view-display-id-block_1 js-view-dom-id-acca9111f6f4641b18789fdec5bc1bdd614a6e6ba93a24a49f3994bb5c56a73a">
+  
+    
+      
+      <div class="view-content">
+      
+    <div class="js-trend-pst-slider trending-home-list">
+        <div>
+                                            <article class="post post-tp-9">
+                    <figure>
+                        <a href="/content/ncc-creates-brass-competition-carnival-monday-night" tabindex="0">
+                            <img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/styles/trending_post_image/public/2019-02/rgYabGlsJ0.jpg" alt="" class="adaptive" style="width:115px;height:85px" height="85" width="115">
+                        </a>
+						<div class="ptp-1-overlay">
+							<div class="icon-box">
+															</div>
+						</div>
+                    </figure>
+                    <div class="common-title-height">
+                        <h3 class="title-6  common-textwrap-fix">
+                            <a href="/content/ncc-creates-brass-competition-carnival-monday-night" tabindex="0">
+                                                                                                                                NCC creates brass competition for Carnival Monday night
+                                                            </a>
+                        </h3>
+
+                        <div class="date-tp-2 date-common-height">February 13, 2019</div>
+                    </div>
+                    <div class="views-field views-field-draganddroprecords">
+                        <span class="field-content">
+                            <input class="draganddroprecords-id" data-drupal-selector="edit-draganddroprecords-0-id" type="hidden" name="draganddroprecords[0][id]" value="384509">
+                            <input class="draganddroprecords-parent" data-drupal-selector="edit-draganddroprecords-0-parent" type="hidden" name="draganddroprecords[0][parent]" value="0">
+                            <input type="hidden" name="block-id" value="trending_post_sidebar">
+                        </span>
+                    </div>
+                </article>
+                                            <article class="post post-tp-9">
+                    <figure>
+                        <a href="/content/sandals-pulls-out-tobago" tabindex="0">
+                            <img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/styles/trending_post_image/public/2019-01/KxSqChOOox.jpg" alt="Photo: Sandals CEO Gebhard Rainer (left) and Minister in Office of the Prime Minister Stuart Young at a news conference today. Credit: Alina Doodnath" class="adaptive" style="width:115px;height:85px" height="85" width="115">
+                        </a>
+						<div class="ptp-1-overlay">
+							<div class="icon-box">
+															</div>
+						</div>
+                    </figure>
+                    <div class="common-title-height">
+                        <h3 class="title-6  common-textwrap-fix">
+                            <a href="/content/sandals-pulls-out-tobago" tabindex="0">
+                                                                                                                                Sandals pulls out of Tobago 
+                                                            </a>
+                        </h3>
+
+                        <div class="date-tp-2 date-common-height">January 15, 2019</div>
+                    </div>
+                    <div class="views-field views-field-draganddroprecords">
+                        <span class="field-content">
+                            <input class="draganddroprecords-id" data-drupal-selector="edit-draganddroprecords-1-id" type="hidden" name="draganddroprecords[1][id]" value="378998">
+                            <input class="draganddroprecords-parent" data-drupal-selector="edit-draganddroprecords-0-parent" type="hidden" name="draganddroprecords[0][parent]" value="0">
+                            <input type="hidden" name="block-id" value="trending_post_sidebar">
+                        </span>
+                    </div>
+                </article>
+                                            <article class="post post-tp-9">
+                    <figure>
+                        <a href="/content/uwi-offers-condolences-after-death-former-campus-registrar" tabindex="0">
+                            <img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/styles/trending_post_image/public/2019-02/kwTTdGZArn.jpg" alt="Photo: Richard Saunders passed away from medical complications while swimming in Maqueripe on February 10, 2019. Saunders was the former campus registrar of UWI St Augustine and Managing Director of TT Post. " class="adaptive" style="width:115px;height:85px" height="85" width="115">
+                        </a>
+						<div class="ptp-1-overlay">
+							<div class="icon-box">
+															</div>
+						</div>
+                    </figure>
+                    <div class="common-title-height">
+                        <h3 class="title-6  common-textwrap-fix">
+                            <a href="/content/uwi-offers-condolences-after-death-former-campus-registrar" tabindex="0">
+                                                                                                                                UWI offers condolences after death of former campus registrar
+                                                            </a>
+                        </h3>
+
+                        <div class="date-tp-2 date-common-height">February 11, 2019</div>
+                    </div>
+                    <div class="views-field views-field-draganddroprecords">
+                        <span class="field-content">
+                            <input class="draganddroprecords-id" data-drupal-selector="edit-draganddroprecords-2-id" type="hidden" name="draganddroprecords[2][id]" value="383989">
+                            <input class="draganddroprecords-parent" data-drupal-selector="edit-draganddroprecords-0-parent" type="hidden" name="draganddroprecords[0][parent]" value="0">
+                            <input type="hidden" name="block-id" value="trending_post_sidebar">
+                        </span>
+                    </div>
+                </article>
+                                            <article class="post post-tp-9">
+                    <figure>
+                        <a href="/content/st-kitts-nevis-moves-decriminalise-marijuana-medical-use" tabindex="0">
+                            <img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/styles/trending_post_image/public/2019-02/pV8ZQFbOd7.jpg" alt="" class="adaptive" style="width:115px;height:85px" height="85" width="115">
+                        </a>
+						<div class="ptp-1-overlay">
+							<div class="icon-box">
+															</div>
+						</div>
+                    </figure>
+                    <div class="common-title-height">
+                        <h3 class="title-6  common-textwrap-fix">
+                            <a href="/content/st-kitts-nevis-moves-decriminalise-marijuana-medical-use" tabindex="0">
+                                                                                                                                St Kitts &amp; Nevis moves to decriminalise marijuana for medical use
+                                                            </a>
+                        </h3>
+
+                        <div class="date-tp-2 date-common-height">February 22, 2019</div>
+                    </div>
+                    <div class="views-field views-field-draganddroprecords">
+                        <span class="field-content">
+                            <input class="draganddroprecords-id" data-drupal-selector="edit-draganddroprecords-3-id" type="hidden" name="draganddroprecords[3][id]" value="386222">
+                            <input class="draganddroprecords-parent" data-drupal-selector="edit-draganddroprecords-0-parent" type="hidden" name="draganddroprecords[0][parent]" value="0">
+                            <input type="hidden" name="block-id" value="trending_post_sidebar">
+                        </span>
+                    </div>
+                </article>
+                                            <article class="post post-tp-9">
+                    <figure>
+                        <a href="/content/govt-looking-one-year-work-permits-venezuelans" tabindex="0">
+                            <img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/styles/trending_post_image/public/2019-02/DDmKkGpdMM.jpg" alt="" class="adaptive" style="width:115px;height:85px" height="85" width="115">
+                        </a>
+						<div class="ptp-1-overlay">
+							<div class="icon-box">
+															</div>
+						</div>
+                    </figure>
+                    <div class="common-title-height">
+                        <h3 class="title-6  common-textwrap-fix">
+                            <a href="/content/govt-looking-one-year-work-permits-venezuelans" tabindex="0">
+                                                                                                                                Young: Cabinet reviewing policy for registered Venezuelans to work
+                                                            </a>
+                        </h3>
+
+                        <div class="date-tp-2 date-common-height">February 22, 2019</div>
+                    </div>
+                    <div class="views-field views-field-draganddroprecords">
+                        <span class="field-content">
+                            <input class="draganddroprecords-id" data-drupal-selector="edit-draganddroprecords-4-id" type="hidden" name="draganddroprecords[4][id]" value="386334">
+                            <input class="draganddroprecords-parent" data-drupal-selector="edit-draganddroprecords-0-parent" type="hidden" name="draganddroprecords[0][parent]" value="0">
+                            <input type="hidden" name="block-id" value="trending_post_sidebar">
+                        </span>
+                    </div>
+                </article>
+                    </div>
+    </div>
+
+
+    </div>
+  
+          </div>
+</div>
+
+        </div>
+    </div>
+ 
+  </div>
+
+                                        </div>
+                                                                                                                <div class="pst-block">
+                                              <div class="region region-sb-recent">
+                    <div class="pst-block-head">
+            <h2 class="title-4">
+									<strong>Recent News</strong> 
+                                            </h2>
+        </div>
+        <div class="pst-block-main">
+            <div class="js-csp-block js-tab-slider slick-initialized slick-slider">
+                <div aria-live="polite" class="slick-list draggable">
+                    <div> 
+<div class="view view-recent-article view-id-recent_article view-display-id-block_1 js-view-dom-id-92df268a2a986f4281e335a6b4401da6714c63eb2bff62080c7f980fe2324024">
+  
+    
+      
+      <div class="view-content">
+          <div class="slick-track" role="listbox" style="opacity: 1; width: 640px;">
+        <div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="-1" role="option" aria-describedby="slick-slide10" style="width: 320px; position: relative; left: 0px; top: 0px; z-index: 999; opacity: 1;">
+                            <article class="post post-tp-9">
+                    <figure>
+                        <a href="/content/iwer-says-no-machel-monday-appearance-without-apology" tabindex="0">
+                            <img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/styles/category_small_image/public/2019-02/zXqsrt6wHU.jpg" alt="Anthon Chow Lin On aka Chinese Laundry playfully part Iwer and Machel backstage at an event earlier in the Carnival season." class="adaptive" style="height: 85px; width: 115px;" height="85" width="115">
+                        </a>
+                    </figure>
+                    <div class="article-metas">
+                        <div class="common-title-height pointer-custom1">
+                            <h3 class="title-6 common-textwrap-fix">
+                                <a href="/content/iwer-says-no-machel-monday-appearance-without-apology" tabindex="0">
+                                                                                                                                                Iwer says no Machel Monday appearance without apology
+                                                                    </a>
+                            </h3>
+                            <div class="date-tp-2 date-common-height">
+                                February 23, 2019
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                            <article class="post post-tp-9">
+                    <figure>
+                        <a href="/content/latest-2-killed-18-injured-venezuela-border-clashes" tabindex="0">
+                            <img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/styles/category_small_image/public/2019-02/y6blr1EUlW.jpg" alt="A demonstrators is given first aid after he was injured in the face during clashes with the Bolivarian National Guard in Urena, Venezuela, near the border with Colombia, Saturday, Feb. 23, 2019." class="adaptive" style="height: 85px; width: 115px;" height="85" width="115">
+                        </a>
+                    </figure>
+                    <div class="article-metas">
+                        <div class="common-title-height pointer-custom1">
+                            <h3 class="title-6 common-textwrap-fix">
+                                <a href="/content/latest-2-killed-18-injured-venezuela-border-clashes" tabindex="0">
+                                                                                                                                                The Latest: 2 killed, 18 injured in Venezuela border clashes
+                                                                    </a>
+                            </h3>
+                            <div class="date-tp-2 date-common-height">
+                                February 23, 2019
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                            <article class="post post-tp-9">
+                    <figure>
+                        <a href="/content/latest-judge-sets-1-million-bond-singer-r-kelly" tabindex="0">
+                            <img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/styles/category_small_image/public/2019-02/kZXJJWkYG9.jpg" alt="Kelly was booked Friday on 10 counts of aggravated sexual abuse involving four female victims, including three who were between the ages of 13 and 17 at the time." class="adaptive" style="height: 85px; width: 115px;" height="85" width="115">
+                        </a>
+                    </figure>
+                    <div class="article-metas">
+                        <div class="common-title-height pointer-custom1">
+                            <h3 class="title-6 common-textwrap-fix">
+                                <a href="/content/latest-judge-sets-1-million-bond-singer-r-kelly" tabindex="0">
+                                                                                                                                                The Latest: Judge sets $1 million bond for singer R. Kelly
+                                                                    </a>
+                            </h3>
+                            <div class="date-tp-2 date-common-height">
+                                February 23, 2019
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                    </div>
+    </div>
+
+    </div>
+  
+          </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+             
+  </div>
+
+                                        </div>
+                                                                                                                                                                                                            </div>
+                        </aside>
+                    </div>
+
+                </div>
+                            </div>
+            <footer class="main-footer">
+                <div class="container">
+                    <div class="top-part">
+                        <div class="row">
+                            <div class="one-third sm-full">
+                                <div class="ft-widget">                                       
+                                    <div class="ft-logo">
+                                        <a href=""><img src="/themes/loop/logo.svg" height="61" width="110" alt="Loop News Theme"></a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="one-third sm-full">
+                                <div class="ft-widget">
+                                                                            <h4 class="ft-title-1">Sections</h4>
+                                        <div class="section-menu">
+                                                                                              <div class="region region-footer-second-tt">
+      
+    <div class="footermap footermap--footermap_block block block-footermap block-footermap-block" id="block-footermap-2">
+        
+                
+                    <div class="content">
+                  <nav class="footermap-col footermap-col--1 footermap-col--looptt-menu">
+    <ul class="footermap-header footermap-header--looptt-menu">
+      <li class="footermap-item footermap-item--depth-1 footermap-item--haschildren">
+  <a href="/category/looptt-t-t-news" title="T&amp;T News">T&amp;T News</a>
+        </li>
+
+      <li class="footermap-item footermap-item--depth-1 footermap-item--haschildren">
+  <a href="/category/looptt-world-news" title="World News">World News</a>
+        </li>
+
+      <li class="footermap-item footermap-item--depth-1">
+  <a href="/category/looptt-carnival" title="Carnival">Carnival</a>
+  </li>
+
+      <li class="footermap-item footermap-item--depth-1">
+  <a href="/category/looptt-viral" title="Viral">Viral</a>
+  </li>
+
+      <li class="footermap-item footermap-item--depth-1">
+  <a href="/category/looptt-entertainment" title="Entertainment">Entertainment</a>
+  </li>
+
+      <li class="footermap-item footermap-item--depth-1 footermap-item--haschildren">
+  <a href="/category/looptt-lifestyle" title="Lifestyle">Lifestyle</a>
+        </li>
+
+      <li class="footermap-item footermap-item--depth-1 footermap-item--haschildren">
+  <a href="/category/looptt-business" title="Business">Business</a>
+        </li>
+
+      <li class="footermap-item footermap-item--depth-1">
+  <a href="/category/looptt-sport" title="Sport">Sport</a>
+  </li>
+
+  </ul>
+
+  </nav>
+
+            </div>
+            </div>
+ 
+  </div>
+
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                <div class="one-third sm-full">
+                                    <div class="ft-widget">
+                                        <h4 class="ft-title-1">Loop News </h4>
+                                        <div class="section-menu">
+                                            <ul>
+                                                                                                <li><a href="/content/privacy-policy">Privacy Policy</a></li>
+                                                <li><a href="/content/comments-policy">Comments Policy</a></li>
+                                                <li><a href="/content/about-us-5">About Us</a></li>
+                                                <li><a href="/contact-us">Contact Us</a></li>
+                                                <li><a href="/story/add">Submit an Article</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>                                    
+                                </div>
+                                <div class="one-third sm-full">
+                                    <div class="ft-widget">
+                                        <h4 class="ft-title-1"> Newsletter</h4>
+                                        <div class="ft-search">
+                                            <div class="search">
+                                                <div class="search-input">
+                                                    <input type ="hidden" name="news_domain" value=" looptt" class="news_domain" />
+                                                    <input type="email" name="email" class="news_email" value="" required placeholder="Email">
+                                                </div>
+                                                <div class="search-btn">
+                                                    <button  type="button" value="Submit" class="news_fo"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></button>
+                                                </div>
+                                                <div class="news_loader" style="display:none; position: absolute;"></div>
+                                                <span class="msg_ error_" style="color:red; position: absolute; display: none;">Please enter a valid email address</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="ft-widget">
+                                        <ul class="htp-3-social-list" style="float:left; margin-top:5px;">
+                                              <div class="region region-header-social-icons">
+      
+    <div id="block-socialurls" class="block block-social-urls block-social-urls-block">
+        
+                
+                    <div class="content">
+                <li class="fb">
+                                    <a href="https://www.facebook.com/loopnewstt" target="_blank">
+                                        <i class="fa fa-facebook"></i>
+                                    </a>									
+                                </li>
+                                <li class="tw">
+                                    <a href="https://twitter.com/LoopNewsTT" target="_blank">
+                                        <i class="fa fa-twitter"></i>
+                                    </a>
+                                </li>
+                                <li class="in">
+                                    <a href="https://instagram.com/LoopNewsTT" target="_blank">
+                                        <i class="fa fa-instagram"></i>
+                                    </a>
+                                </li>
+                                <li class="gp">
+                                    <a href="https://www.snapchat.com/add/LoopNewsTT" target="_blank">
+                                       <i class="fa fa-snapchat-ghost"></i>
+                                    </a>
+                                </li>
+            </div>
+            </div>
+ 
+  </div>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bottom-bar">
+                        <div class="container">
+                            <div class="row">                                
+                                <div class="one-quarter sm-full">
+                                    <div class="copyright">  <div class="region region-copyright-footer-block">
+      
+    <div id="block-copyrightfooterblock" class="block block-block-content block-block-contentfe527227-6bee-46f4-bab9-d136ebdae5fc">
+        
+                
+                    <div class="content">
+                
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Copyright 2017 BY Trend Media | ALL RIGHTS RESERVED</p>
+</div>
+      
+            </div>
+            </div>
+ 
+  </div>
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        </div>
+    </div>
+    <div id="mb-menu" class="mb-menu mfp-hide">
+                      <div class="region region-secondary-menu-tt">
+    <nav role="navigation" aria-labelledby="block-loopttmenu-2-menu" id="block-loopttmenu-2" class="block block-menu navigation menu--looptt-menu">
+            
+  <h2 class="visually-hidden" id="block-loopttmenu-2-menu">LoopTT Menu</h2>
+  
+
+        <div class="content">
+                <div class="menu-toggle-target menu-toggle-target-show" id="show-block-loopttmenu-2"></div>
+        <div class="menu-toggle-target" id="hide-block-loopttmenu-2"></div>
+        <div class="container">
+            <nav class="mobile-nav">
+                
+<div class="home_menu">
+	<a href="http://www.looptt.com">Home</a>
+</div>
+              <ul class="menu mobile-nav-list">
+                    <li class="mn-item menu-item--expanded">
+        <a href="/category/looptt-t-t-news" data-drupal-link-system-path="category/71">T&amp;T News</a>
+                                <ul class="menu">
+                    <li class="mn-item">
+        <a href="/category/looptt-crime" data-drupal-link-system-path="category/81">Crime</a>
+              </li>
+                <li class="mn-item">
+        <a href="/category/looptt-politics" data-drupal-link-system-path="category/91">Politics</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="mn-item menu-item--expanded">
+        <a href="/category/looptt-world-news" data-drupal-link-system-path="category/101">World News</a>
+                                <ul class="menu">
+                    <li class="mn-item">
+        <a href="/category/looptt-caribbean-news" data-drupal-link-system-path="category/111">Caribbean News</a>
+              </li>
+                <li class="mn-item">
+        <a href="/category/tt-festivals" data-drupal-link-system-path="category/4721">Festivals</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="mn-item">
+        <a href="/category/looptt-carnival" data-drupal-link-system-path="category/4711">Carnival</a>
+              </li>
+                <li class="mn-item">
+        <a href="/category/looptt-viral" data-drupal-link-system-path="category/121">Viral</a>
+              </li>
+                <li class="mn-item">
+        <a href="/category/looptt-entertainment" data-drupal-link-system-path="category/131">Entertainment</a>
+              </li>
+                <li class="mn-item menu-item--expanded">
+        <a href="/category/looptt-lifestyle" data-drupal-link-system-path="category/151">Lifestyle</a>
+                                <ul class="menu">
+                    <li class="mn-item">
+        <a href="/category/looptt-travel" data-drupal-link-system-path="category/161">Travel</a>
+              </li>
+                <li class="mn-item">
+        <a href="/category/looptt-tech" data-drupal-link-system-path="category/171">Tech</a>
+              </li>
+                <li class="mn-item">
+        <a href="/category/looptt-food" data-drupal-link-system-path="category/181">Food</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="mn-item menu-item--expanded">
+        <a href="/category/looptt-business" data-drupal-link-system-path="category/191">Business</a>
+                                <ul class="menu">
+                    <li class="mn-item">
+        <a href="/category/looptt-energy" data-drupal-link-system-path="category/201">Energy</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="mn-item">
+        <a href="/category/looptt-sport" data-drupal-link-system-path="category/211">Sport</a>
+              </li>
+        </ul>
+  
+
+
+            </nav>
+        </div>
+
+
+    </div>
+</nav>
+
+  </div>
+
+            </div>
+                                                                                                                                                                                                        
+
+                                                                                                                                                                                                        <!-- START Parse.ly Include: Standard -->
+                                                                                                                                                                                                                                                                                                                                                                                                                <div id="parsely-root" style="display: none"><span id="parsely-cfg" data-parsely-site="looptt.com"></span></div>
+                                                                                                                                                                                                        <script>(function(s, p, d) {
+                                                                                                                                                                                                                var h = d.location.protocol, i = p + "-" + s, e = d.getElementById(i), r = d.getElementById(p + "-root"), u = h === "https:" ? "d1z2jf7jlzjs58.cloudfront.net" : "static." + p + ".com";
+                                                                                                                                                                                                                if (e)
+                                                                                                                                                                                                                    return;
+                                                                                                                                                                                                                e = d.createElement(s);
+                                                                                                                                                                                                                e.id = i;
+                                                                                                                                                                                                                e.async = true;
+                                                                                                                                                                                                                e.src = h + "//" + u + "/p.js";
+                                                                                                                                                                                                                r.appendChild(e);
+                                                                                                                                                                                                            })("script", "parsely", document);</script>
+                                                                                                                                                                                                                                                                                                                                                                                                                <!-- END Parse.ly Include: Standard -->
+
+                                                                                                                                                                                                        <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/384724","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"add_events\/add_event_styling,addtoany\/addtoany,article_category_republish\/sticky_styling,category_advertisement\/category_advertisement,classy\/base,classy\/messages,classy\/node,contactus\/contactus_styling,core\/drupal.ajax,core\/html5shiv,core\/normalize,disqus\/ga,dropdown_manager\/dropdown_manager,editors_choice\/editor_choice,event_image_gallery\/sticky_styling_event,events\/calender_styling,footermap\/footermap,freelancer_report\/loopfreelancerreports_style,image_gallery\/image_gallery,ios_ad\/ios_ad,loop\/fonts.inconsolata,loop\/global-styling,loop\/google.maps,loopadminreports\/loopnewsadmin_style,main_events\/main_top_event_styling,mobile_ad\/mobile_ad,newsletter\/newsletter_style,only_article_category_republish\/only_sticky_styling,poll\/drupal.poll-links,share_story\/share_story_styling,sponsored_content\/sponsoredcontent_style,staticpage_ads_script\/staticpage_ads_script,superfish\/superfish,superfish\/superfish_horizontal,superfish\/superfish_hoverintent,superfish\/superfish_smallscreen,superfish\/superfish_supersubs,superfish\/superfish_supposition,system\/base,vast_ad\/vast_ad,video_embed_field\/responsive-video,views\/views.module,watermark_image\/watermark_styling","theme":"loop","theme_token":null},"ajaxTrustedUrl":[],"superfish":{"superfish-looptt-menu":{"id":"superfish-looptt-menu","sf":{"animation":{"opacity":"show","height":"show"},"speed":"fast"},"plugins":{"smallscreen":{"mode":"window_width","title":"LoopTT Menu"},"supposition":true,"supersubs":true}}},"disqus":{"domain":"loopnews","url":"http:\/\/www.looptt.com\/content\/met-office-saharan-dust-may-worsen-weekend","title":"Met Office: Saharan dust may worsen this weekend","identifier":"node\/384724","disable_mobile":false,"callbacks":{"onNewComment":["Drupal.disqus.disqusTrackNewComment"]}},"user":{"uid":0,"permissionsHash":"ae7f060673e2d28ff29fb5053252f23a5808bd3e623f54021ee45989d5850f43"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.1.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.1.10"></script>
+<script src="/core/misc/drupal.js?v=8.1.10"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script src="/modules/custom/add_events/js/add_event.js?pneokp"></script>
+<script src="/modules/custom/add_events/js/jquery-ui.js?pneokp"></script>
+<script src="/modules/custom/add_events/js/wickedpicker.js?pneokp"></script>
+<script src="/modules/custom/add_events/js/jquery.validate.js?pneokp"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAloV0kTCf_D95A3dHJpShDIpne-2mVfXU&amp;libraries=places&amp;callback=initAutocomplete"></script>
+<script src="https://static.addtoany.com/menu/page.js"></script>
+<script src="/modules/contrib/addtoany/js/addtoany.js?v=8.1.10"></script>
+<script src="/modules/custom/article_category_republish/js/stycky.js?pneokp"></script>
+<script src="https://dme0ih8comzn4.cloudfront.net/imaging/v3/editor.js"></script>
+<script src="/modules/custom/category_advertisment/js/category_advertisements.js?pneokp"></script>
+<script src="/modules/custom/contactus/js/contactus.js?pneokp"></script>
+<script src="/modules/custom/dropdown_manager/js/dropdown_manager.js?pneokp"></script>
+<script src="/modules/custom/editors_choice/js/editors_choice.js?pneokp"></script>
+<script src="/modules/custom/event_image_gallery/js/stycky_events.js?pneokp"></script>
+<script src="/modules/custom/events/js/data.js?pneokp"></script>
+<script src="/modules/custom/events/js/jquery.calendario.js?pneokp"></script>
+<script src="/modules/custom/events/js/common.js?pneokp"></script>
+<script src="/modules/custom/image_gallery/js/image_gallery.js?pneokp"></script>
+<script src="/modules/custom/ios_ad/js/ios_ad.js?pneokp"></script>
+<script src="/modules/custom/main_events/js/event_main.js?pneokp"></script>
+<script src="/modules/custom/mobile_ad/js/mobile_ad.js?pneokp"></script>
+<script src="/modules/custom/only_article_category_republish/js/stycky.js?pneokp"></script>
+<script src="/modules/custom/share_story/js/share_storys.js?pneokp"></script>
+<script src="/modules/custom/share_story/js/jquery.validate.js?pneokp"></script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
+<script src="/modules/custom/staticpage_ads_script/js/staticpage_ads_script.js?pneokp"></script>
+<script src="/themes/loop/vendor/waypoints/lib/jquery.waypoints.js?v=8.1.10"></script>
+<script src="/themes/loop/vendor/superfish/dist/js/superfish.js?v=8.1.10"></script>
+<script src="/themes/loop/vendor/magnific-popup/dist/jquery.magnific-popup.js?v=8.1.10"></script>
+<script src="/themes/loop/vendor/imagesloaded/imagesloaded.pkgd.js?v=8.1.10"></script>
+<script src="/themes/loop/vendor/owl-carousel/owl-carousel/owl.carousel.js?v=8.1.10"></script>
+<script src="/themes/loop/vendor/slick-carousel/slick/slick.js?v=8.1.10"></script>
+<script src="/themes/loop/vendor/Swiper/dist/js/swiper.jquery.js?v=8.1.10"></script>
+<script src="/themes/loop/vendor/sticky-kit/jquery.sticky-kit.js?v=8.1.10"></script>
+<script src="/themes/loop/js/main.js?v=8.1.10"></script>
+<script src="/themes/loop/js/jquery.reveal.js?v=8.1.10"></script>
+<script src="/themes/loop/js/script.js?v=8.1.10"></script>
+<script src="/modules/custom/vast_ad/js/vast_ad.js?pneokp"></script>
+<script src="/modules/custom/watermark_image/js/watermark_stycky.js?pneokp"></script>
+<script src="/modules/custom/watermark_image/js/watermark.js?pneokp"></script>
+<script src="/core/misc/progress.js?v=8.1.10"></script>
+<script src="/core/misc/ajax.js?v=8.1.10"></script>
+<script src="/modules/contrib/superfish/../../../sites/all/libraries/superfish/superfish.js?v=8.1.10"></script>
+<script src="/modules/contrib/superfish/../../../sites/all/libraries/superfish/jquery.hoverIntent.minified.js?v=8.1.10"></script>
+<script src="/modules/contrib/superfish/../../../sites/all/libraries/superfish/sfsmallscreen.js?v=8.1.10"></script>
+<script src="/modules/contrib/superfish/../../../sites/all/libraries/superfish/supposition.js?v=8.1.10"></script>
+<script src="/modules/contrib/superfish/../../../sites/all/libraries/superfish/supersubs.js?v=8.1.10"></script>
+<script src="/modules/contrib/superfish/js/superfish.js?v=2.0"></script>
+<script src="/core/misc/debounce.js?v=8.1.10"></script>
+<script src="/core/assets/vendor/jquery.cookie/jquery.cookie.min.js?v=1.4.1"></script>
+<script src="/core/misc/form.js?v=8.1.10"></script>
+<script src="/modules/contrib/disqus/js/disqus.js?v=1.x"></script>
+<script src="/modules/contrib/disqus/js/disqus.settings.js?v=1.x"></script>
+<script src="/modules/contrib/disqus/js/disqus_ga.js?v=1.x"></script>
+
+                                                                                                                                                                                                        <script type="text/javascript">
+                                                                                                                                                                                                            document.onreadystatechange = function() {
+                                                                                                                                                                                                                if (document.readyState === "complete") {
+                                                                                                                                                                                                                    setTimeout(function() {
+                                                                                                                                                                                                                        document.getElementById("calltoaction").click();
+                                                                                                                                                                                                                        jQuery("#calltoaction").val("done");
+                                                                                                                                                                                                                    }, 5000);
+                                                                                                                                                                                                                }
+                                                                                                                                                                                                            }
+                                                                                                                                                                                                        </script>
+                                                                                                                                                                                                        <div id="ipppppp" style="display: none">204</div>
+                                                                                                                                                                                                        <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4183cf53b7","applicationID":"39674584","transactionName":"MwZSbUFWCxJQUEcICgpMcVpHXgoPHndBFBUFD2x6XEUAPXxWXRQ5IAZWWEZbESxUXUYtDAoIZEtWUigAX1pDFAkFF19LQBpbBlRdVhMEEAZ5V1dSHSBfV2AOFxA=","queueTime":0,"applicationTime":2357,"atts":"H0FRGwlMGBw=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+                                                                                                                                                                                                        </html>

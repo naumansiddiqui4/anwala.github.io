@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+<script src="/cdn-cgi/apps/head/i5QsYg7QQr5UsHLs8DRllEDrLGw.js"></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link href="https://fonts.googleapis.com/css?family=Gudea:400,500,600,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Rajdhani:400,500,600,700" rel="stylesheet">
+<script src="https://unpkg.com/react@16.0.0/umd/react.production.min.js"></script>
+<script src="https://unpkg.com/react-copy-to-clipboard/build/react-copy-to-clipboard.js"></script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#000000">
+
+<link rel="manifest" href="%PUBLIC_URL%/manifest.json">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Fortnite - This whole squad gets clapped</title>
+<meta name="description" content="Recorded by Defiant using Medal">
+<meta name="keywords" content="">
+<meta name="author" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="theme-color" content="#000000">
+<meta property="og:title" content="Fortnite - This whole squad gets clapped">
+<meta property="og:description" content="Recorded by Defiant using Medal">
+<meta property="og:image" content="https://files.medal.tv/113140/thumbnail-3479479-360p.png?key=20aea963919f">
+<meta property="og:see_also" content="https://medal.tv">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="medal.tv">
+<meta property="og:type" content="video">
+<meta property="og:rich_attachment" content="true">
+<meta property="og:video:type" content="video/mp4">
+<meta property="og:video:width" content="854">
+<meta property="og:video:height" content="480">
+<meta property="og:video" content="https://files.medal.tv/113140/sm-720p-3479479.mp4?key=20aea963919f">
+<meta property="og:video:url" content="https://files.medal.tv/113140/sm-720p-3479479.mp4?key=20aea963919f">
+<meta property="og:video:secure_url" content="https://files.medal.tv/113140/sm-720p-3479479.mp4?key=20aea963919f">
+<meta name="twitter:title" content="Fortnite - This whole squad gets clapped">
+<meta name="twitter:description" content="Recorded by Defiant using Medal">
+<meta name="twitter:card" content="player">
+<meta name="twitter:site" content="@Medal_TV">
+<meta name="twitter:title" content="Fortnite - This whole squad gets clapped">
+<meta name="twitter:image" content="https://files.medal.tv/113140/thumbnail-3479479-360p.png?key=20aea963919f">
+<meta name="twitter:player:width" content="1280">
+<meta name="twitter:player:height" content="720">
+<meta name="twitter:player" content="https://medal.tv/clip/3479479">
+<meta name="twitter:player:stream" content="https://files.medal.tv/113140/sm-720p-3479479.mp4?key=20aea963919f">
+<meta name="twitter:player:stream:content_type" content="video/mp4">
+<link rel="alternate" type="application/json+oembed" href="http://api.medal.tv/embed?url=https://medal.tv/clips/3479479" title="Fortnite - This whole squad gets clapped" />
+ <link rel="alternate" type="application/xml+oembed" href="http://api.medal.tv/embed?format=xml&url=https://medal.tv/clips/3479479" title="Fortnite - This whole squad gets clapped" />
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="icon" href="/assets/img/favicon.ico">
+<script type="application/javascript">
+                        function currentClipId() {
+                            return 3479479;
+                        }
+
+                    </script><script type="application/javascript">
+                         loadedContentId=3479479;
+                         medalKey="d1337OUgKSlU";
+                    </script><script type="application/javascript">
+                         window.history.replaceState({page: "Fortnite - This whole squad gets clapped"}, "Fortnite - This whole squad gets clapped", "/clips/3479479/0152b701786c" + window.location.search);
+                    </script>
+<!--<![endif]-->
+
+<script>
+
+                    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+                    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+                    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+                    fbq('init', '378039685677361'); // Insert your pixel ID here.
+                    fbq('track', 'PageView');
+                </script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=378039685677361&ev=PageView&noscript=1"/></noscript>
+
+
+<script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-98208613-7', 'auto');
+        ga('send', 'pageview');
+
+        ga('create', 'UA-101634769-1', 'auto', 'website');
+        ga('website.send', 'pageview');
+    </script>
+</head>
+<body style="font-family: 'Gudea', sans-serif; background-color: #18191c; margin: 0 auto">
+<div id="root"></div>
+
+<script type="text/javascript" src="/medal.js?t=26"></script></body>
+</html>

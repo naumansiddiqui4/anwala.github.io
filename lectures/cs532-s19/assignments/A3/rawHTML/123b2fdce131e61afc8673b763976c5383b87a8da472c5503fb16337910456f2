@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="windows-1252">
+  <title>Redirecting...</title>
+
+<!-- Default Statcounter code for TW-2 - 2bmoae.top
+http://2bmoae.top -->
+<script type="text/javascript">
+var sc_project=11948075; 
+var sc_invisible=1; 
+var sc_security="3c6c2358"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="hit counter"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/11948075/0/3c6c2358/1/"
+alt="hit counter"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
+<script language="javascript">
+setTimeout("top.location.href = 'http://pofheadlines.com/all/tw'",1000);
+</script>
+
+</head>
+<body>
+    <p>Please Wait Loading....</p>
+</body>
+</html>

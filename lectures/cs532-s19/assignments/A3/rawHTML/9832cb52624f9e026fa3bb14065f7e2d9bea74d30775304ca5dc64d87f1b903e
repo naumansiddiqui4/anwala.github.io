@@ -1,0 +1,1254 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+<meta http-equiv="Content-language" content="ja"/>
+    <meta name="viewport" content="width=1012">
+<meta name="google-site-verification" content="REPvQprbgdR7hZqw1hpgcPQhLrwAoTScLLRLMp7-GGU" />
+<link rel="apple-touch-icon" href="//s.eximg.jp/exnews/a/img/apple-touch-icon.png">
+<link rel="icon" href="//s.eximg.jp/extop/img/lep.png" type="image/png">
+<title>カカクコムとKDDI、「食べログ」と「au PAY」連携で店舗集客を推進　ビックデータ分析基盤も構築 (2019年2月13日) - エキサイトニュース</title>
+    <meta name="description" content="カカクコムとKDDIは、カカクコムが運営する「食べログ」と、2019年4月よりKDDIが提供開始するスマホ決済サービス「auPAY」において連携を開始した。KDDIは、「auかんたん決済」や「auWA..."/>
+    <meta name="keywords" content="au,NTTドコモ,ソフトバンク" />
+    <meta name="news_keywords" content="au,NTTドコモ,ソフトバンク"/>
+<link rel="canonical" href="https://www.excite.co.jp/news/article/Markezine_30368/"/>
+
+    <link rel="amphtml" href="https://www.excite.co.jp/news/article-amp/Markezine_30368/" />
+    <meta name="exad" content="in_article" />
+<meta name="referrer" content="origin" />
+<link rel="apple-touch-icon" href="https://s.eximg.jp/exnews/a/img/apple-touch-icon.png" />
+<meta property="fb:app_id" content="242604012520302" />
+    <meta name="category" content="it" />
+
+    <meta name="rich-contents" content="2" />
+        <meta property="og:title" content="カカクコムとKDDI、「食べログ」と「au PAY」連携で店舗集客を推進　ビックデータ分析基盤も構築 (2019年2月13日) - エキサイトニュース" />
+    <meta property="og:description" content="カカクコムとKDDIは、カカクコムが運営する「食べログ」と、2019年4月よりKDDIが提供開始するスマホ決済サービス「auPAY」において連携を開始した。KDDIは、「auかんたん決済」や「auWA..." />
+    <meta property="og:url" content="https://www.excite.co.jp/news/article/Markezine_30368/">
+    <meta property="og:type" content="article" />
+    <meta property="og:site_name" content="エキサイトニュース" />
+    <meta property="og:image" content="https://s.eximg.jp/exnews/a/img/apple-touch-icon_200.png" />
+        <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@ExciteJapan"/>
+    <meta name="twitter:title" content="カカクコムとKDDI、「食べログ」と「au PAY」連携で店舗集客を推進　ビックデータ分析基盤も構築 (2019年2月13日) - エキサイトニュース">
+    <meta name="twitter:description" content="カカクコムとKDDIは、カカクコムが運営する「食べログ」と、2019年4月よりKDDIが提供開始するスマホ決済サービス「auPAY」において連携を開始した。KDDIは、「auかんたん決済」や「auWA...">
+            <meta name="twitter:image" content="https://s.eximg.jp/exnews/logo/noimg_1200x630_trend-topic.jpg">
+                    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-400370-108"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+                    gtag('set', {"content_group1":"pc","content_group2":"trend-topic","content_group3":"it","content_group4":"Markezine","content_group5":"off"});
+                gtag('config', 'UA-400370-108');
+    </script>
+        <link rel="stylesheet" href="/news/css/app-pc.css?id=028d86f082c748375dd7">
+        <script src="//image.excite.co.jp/jp/ox/geoedge.js"></script>
+<script>var googletag=googletag||{};googletag.cmd=googletag.cmd||[];</script>
+<script src="//image.excite.co.jp/jp/ox/gpt/pc_news.js"></script>
+    </head>
+        <body>
+            <header class="header">
+    <div class="header-nav">
+        <div class="logo-wrap">
+                            
+                <a href="https://www.excite.co.jp/news/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'logo'});"><span class="logo">エキサイト</span><span class="logo-sub">ニュース</span></a>
+                    </div>
+        <div class="nav-header">
+            <a href="https://www.excite.co.jp/news/">ニューストップ</a>｜<a href="/">エキサイト</a>
+        </div>
+    </div>
+    <nav class="global-nav">
+        <ul>
+                                                <li><a href="https://www.excite.co.jp/news/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'top-page'});">トップ</a></li>
+                                                                <li><a href="https://www.excite.co.jp/news/domestic-topic/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'domestic-topic'});">国内</a></li>
+                                                                <li><a href="https://www.excite.co.jp/news/world-topic/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'world-topic'});">海外</a></li>
+                                                                <li><a href="https://www.excite.co.jp/news/entertainment-topic/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'entertainment-topic'});">芸能</a></li>
+                                                                <li><a href="https://www.excite.co.jp/news/sports-topic/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'sports-topic'});">スポーツ</a></li>
+                                                                <li><a href="https://www.excite.co.jp/news/trend-topic/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'trend-topic'});">トレンド</a></li>
+                                                                <li><a href="https://www.excite.co.jp/news/omoshiro-topic/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'omoshiro-topic'});">おもしろ</a></li>
+                                                                <li><a href="https://www.excite.co.jp/news/column-topic/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'column-topic'});">コラム</a></li>
+                                                                <li><a href="https://www.excite.co.jp/news/view-ranking/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'rank'});">ランキング</a></li>
+                                                                <li><a href="https://www.excite.co.jp/news/today/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'today'});">今日のニュース</a></li>
+                                    </ul>
+    </nav>
+    </header>
+            <div class="contents">
+                <nav class="breadcrumb" aria-label="breadcrumb">
+    <ol class="breadcrumb-list" itemscope itemtype="http://schema.org/BreadcrumbList">
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.excite.co.jp/news/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'breadcrumb-1'});"><span itemprop="name">ニュース</span></a><meta itemprop="position" content="1"></li>
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.excite.co.jp/news/trend-topic/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'breadcrumb-2'});"><span itemprop="name">トレンド</span></a><meta itemprop="position" content="2"></li>
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.excite.co.jp/news/it/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'breadcrumb-3'});"><span itemprop="name">IT</span></a><meta itemprop="position" content="3"></li>
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.excite.co.jp/news/it/tag/au/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'breadcrumb-4'});"><span itemprop="name">au</span></a><meta itemprop="position" content="4"></li>
+                    <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.excite.co.jp/news/article/Markezine_30368/" onclick="gtag('event', 'click', {'event_category': 'header', 'event_label': 'breadcrumb-5'});"><span itemprop="name">カカクコムとKDDI、「食べログ」と「au PAY」連携で店舗集客を推進　ビックデータ分析基盤も構築</span></a><meta itemprop="position" content="5"></li>
+            </ol>
+</nav>
+                <div style="margin-bottom: 24px;">
+                    <div id="gpt_pc_news_banner"></div>
+                </div>
+                <main role="main">
+                    <div class="main-contents">
+                        
+        <div class="article">
+            <div class="article-header">
+            <h1 class="article-title">カカクコムとKDDI、「食べログ」と「au PAY」連携で店舗集客を推進　ビックデータ分析基盤も構築</h1>
+            <div class="article-info">
+                
+                
+                                
+                                            <a href="http://markezine.jp/" target="_blank"
+                            rel="nofollow"                            class="source-media">
+                            
+                            <img src="https://s.eximg.jp/exnews/logo/markezine.gif" alt="MarkeZine" class="source-logo">
+                        </a>
+                                                    <div class="article-status">
+                    <div class="fl">
+                        
+                                                <time datetime="2019-02-13T11:45:00+09:00" itemprop="datePublished">2019年2月13日 11:45</time>
+                                                    <a href="https://www.excite.co.jp/news/article-comment/Markezine_30368/#post-spot"><span class="parts parts-comment"><span class="icon-comment"></span>0</span></a>
+                                            </div>
+                                     <div class="social-module">
+        <div class="twitterBtn fl mr-xs">
+            
+            <a href="https://twitter.com/share" class="twitter-share-button"
+               rel="nofollow"
+               data-count="horizontal"
+               data-url="https://www.excite.co.jp/news/article/Markezine_30368/"
+               data-counturl="https://www.excite.co.jp/news/article/Markezine_30368/"
+               data-related="ExciteJapan:エキサイトニュース編集部"
+               data-via="ExciteJapan"
+               data-lang="ja">
+                Tweet
+            </a>
+        </div>
+        
+        <div class="facebookBtn">
+            <div class="fb-like" rel="nofollow" data-href="https://www.excite.co.jp/news/article/Markezine_30368/" data-layout="button_count" data-show-faces="false"></div>
+        </div>
+    </div>
+                                </div>
+            </div>
+                    </div>
+                
+        <div class="article-body">
+                        
+                        
+            <div class="story">
+                　カカクコムとKDDIは、カカクコムが運営する「食べログ」と、2019年4月よりKDDIが提供開始する<a href="https://www.excite.co.jp/news/it/tag/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3/" class="person_link" title="スマートフォンに関するニュース">スマホ</a>決済サービス「<a href="https://www.excite.co.jp/news/it/tag/au/" class="person_link" title="auに関するニュース">au</a> PAY」において連携を開始した。<br /><br />　KDDIは、「auかんたん決済」や「au WALLET」の事業基盤を活用した決済領域の強化を進めており、2019年4月よりバーコードやQRコードを使った新たなスマホ決済サービス「au PAY」を開始する。<br /><br />　両社は、「食べログ」で「au PAYが使えるお店」の紹介や、「食べログ」掲載店舗で「au PAY」を利用するユーザーにポイントを還元するなど、共同で「au PAY」加盟店の開拓と、店舗集客の支援を実施していく。<br /><br />　また2019年2月より、共同でビッグデータ分析を行うデータ基盤（以下、共同分析基盤）を構築する。共同分析基盤では、KDDIが保有する性年代等の属性データと、カカクコムが保有する消費行動などを、KDDIグループのSupershipの環境下で統合的に管理し、AI技術等を駆使することで、高度なビッグデータ分析を行う。これにより、「価格.com」や、「食べログ」に登録する店舗向けに、集客支援サービスなどの提供を行っていく。<br /><br />【関連記事】<br />・<a href="http://markezine.jp/article/detail/29672" target="_blank" rel="nofollow">食べログのネット予約がAppleマップ上で完結！アプリとの連携で氏名や連絡先の入力も不要に</a><br />・<a href="http://markezine.jp/article/detail/28524" target="_blank" rel="nofollow">食べログ、NTTドコモのAIエージェントサービス「my daiz」にサービス提供を開始</a><br />・<a href="http://markezine.jp/article/detail/28314" target="_blank" rel="nofollow">「食べログ」のネット予約人数が累計3,500万人を突破　前年の倍以上のペースで推移</a><br />・<a href="http://markezine.jp/article/detail/29977" target="_blank" rel="nofollow">KDDI、西武鉄道らと「駅のロッカー」を活用した実証実験を開始／野菜・日用品が終電まで受け取り可能に</a><br />・<a href="http://markezine.jp/article/detail/29948" target="_blank" rel="nofollow">KDDIとALBERT、資本業務提携を締結！データドリブン経営の加速へ</a><br /><br /><a href="http://markezine.jp/article/detail/30368" target="_blank" rel="nofollow">■記事全文へ</a>
+            </div>
+
+                        
+            <div id="gpt_pc_news_inread"></div>
+
+        </div>
+
+        
+        <section>
+    <h2 class="mt-m ml-m">あわせて読みたい</h2>
+    <ul class="text-list">
+                    <li><a href="https://www.excite.co.jp/news/article/BcnRetail_107785/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'related-list-1'});">通常より得、「auでんき」「東電ガスとくとくガスプランfor au」</a></li>
+                    <li><a href="https://www.excite.co.jp/news/article/BcnRetail_96879/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'related-list-2'});">auの学割キャンペーン「auゼロ学割」、「Netflixプラン学割」も</a></li>
+                    <li><a href="https://www.excite.co.jp/news/article/Gizmodo_201801_au-spring-smartphones-2018/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'related-list-3'});">au初となるファーウェイ製スマホも登場。auの春モデルはエントリーラインナップが充実してました</a></li>
+                    <li><a href="https://www.excite.co.jp/news/article/Itmedia_mobile_20190222116/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'related-list-4'});">auの「Galaxy S9／S9+」がOSバージョンアップ　Android 9 Pieに</a></li>
+                    <li><a href="https://www.excite.co.jp/news/article/Narinari_20170201_42065/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'related-list-5'});">au「INFOBAR」がトランスフォーマーに</a></li>
+                    <li><a href="https://www.excite.co.jp/news/article/Octoba_515287/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'related-list-6'});">『らくらくウェザーニュース for au』見やすく簡単な天気予報・災害情報アプリ！</a></li>
+            </ul>
+</section>
+
+<section class="article-keyword">
+    <h2 class="relation-title"><span>気になるキーワード</span></h2>
+
+    
+    
+    
+        <ul class="tags">
+                        <li><a href="https://www.excite.co.jp/news/it/tag/au/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'related-tag-au'});">au</a></li>
+                        <li><a href="https://www.excite.co.jp/news/it/tag/NTT%E3%83%89%E3%82%B3%E3%83%A2/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'related-tag-NTTドコモ'});">NTTドコモ</a></li>
+                        <li><a href="https://www.excite.co.jp/news/it/tag/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'related-tag-ソフトバンク'});">ソフトバンク</a></li>
+            </ul>
+    
+    
+</section>
+
+<div class="ovh mt-m mb-m">
+    <div class="fl">
+        <div id="gpt_pc_news_article_left"></div>
+    </div>
+    <div class="fr">
+        <div id="gpt_pc_news_article_right"></div>
+    </div>
+</div>
+
+
+
+    <a href="https://www.excite.co.jp/news/source/Markezine/" class="button primary-button">
+        MarkeZineの記事をもっと見る<span class="icon-arrow-right"></span>
+    </a>
+    <a href="https://www.excite.co.jp/news/it/20190213/" class="button primary-button">
+        2019年2月13日のIT記事<span class="icon-arrow-right"></span>
+    </a>
+
+        
+        <div class="article-comment">
+                    <ul class="comment-list" id="page-comment-list">
+                
+                <div><li></li></div>
+            </ul>
+                <a href="https://www.excite.co.jp/news/article-comment/Markezine_30368/#post-spot" class="button primary-button button-block" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'comment-article'});"><span class="icon-text"><span class="icon-comment"></span>この記事にコメントする</span></a>
+    </div>
+
+    
+            
+        <div class="mt-m">
+            <p class="sns-share-title">＼　みんなに教えてあげよう！　／</p>
+        <ul class="sns-share">
+        <li>
+            <a href="https://twitter.com/share?count=horizontal&original_referer=https%3A%2F%2Fwww.excite.co.jp%2Fnews%2Farticle%2FMarkezine_30368&text=%E3%82%AB%E3%82%AB%E3%82%AF%E3%82%B3%E3%83%A0%E3%81%A8KDDI%E3%80%81%E3%80%8C%E9%A3%9F%E3%81%B9%E3%83%AD%E3%82%B0%E3%80%8D%E3%81%A8%E3%80%8Cau%20PAY%E3%80%8D%E9%80%A3%E6%90%BA%E3%81%A7%E5%BA%97%E8%88%97%E9%9B%86%E5%AE%A2%E3%82%92%E6%8E%A8%E9%80%B2%E3%80%80%E3%83%93%E3%83%83%E3%82%AF%E3%83%87%E3%83%BC%E3%82%BF%E5%88%86%E6%9E%90%E5%9F%BA%E7%9B%A4%E3%82%82%E6%A7%8B%E7%AF%89%20%282019%E5%B9%B42%E6%9C%8813%E6%97%A5%29%20-%20%E3%82%A8%E3%82%AD%E3%82%B5%E3%82%A4%E3%83%88%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&url=https%3A%2F%2Fwww.excite.co.jp%2Fnews%2Farticle%2FMarkezine_30368%2F&via=ExciteJapan" rel="nofollow"
+                    onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'social-bottom-twitter'});">
+                <div class="share-button share-twitter"><span>Twitterでシェア</span>Twitter</div>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.excite.co.jp%2Fnews%2Farticle%2FMarkezine_30368%2F"
+               rel="nofollow"
+                    onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'social-bottom-facebook'});">
+                <div class="share-button share-facebook"><span>Facebookでシェア</span>Facebook</div>
+            </a>
+        </li>
+    </ul>
+            </div>
+    </div>
+
+    
+
+    
+    <section>
+                                            <h2 class="default-title">次に読みたい関連記事「NTTドコモ」のニュース</h2>
+        <ul class="list">
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Itmedia_nl_20190221144/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'select-related-list-parallel-1-1'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FItmedia_nl%2FItmedia_nl_20190221144_d284_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="NTTドコモの「みえる電話」が正式サービスに　通話相手の発言を文字にして伝えてくれる">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        NTTドコモの「みえる電話」が正式サービスに　通話相手の発言を文字にして伝えてくれる
+                        </p>
+                        <time datetime="2019-02-21T22:27:00+09:00" class="parts parts-day">
+                            2019年2月21日
+                        </time>
+                        <p class="summary">
+                        NTTドコモが、耳の聞こえにくい人向けのサービス「みえる電話」を3月1日から開始します（利用にはドコモの回線契約が必要）。相手の発話内容を自動で文字に起こし、リアルタイムにスマートフォンへ表示してくれ...
+                        </p>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Cobs_1874627/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'select-related-list-parallel-1-2'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FCobs%2FCobs_1874627_640c_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="NTTドコモ提供のLG製スマートフォン「V20 PRO L-01J」に脆弱性 - IPA">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        NTTドコモ提供のLG製スマートフォン「V20 PRO L-01J」に脆弱性 - IPA
+                        </p>
+                        <time datetime="2019-02-13T10:14:00+09:00" class="parts parts-day">
+                            2019年2月13日
+                        </time>
+                        <p class="summary">
+                        IPA(情報処理推進機構)セキュリティセンターおよびJPCERT/CCは2月12日、NTTドコモが提供しているLGエレクトロニクス製スマートフォン「V20PROL-01J」にクラッシュが引き起こされる...
+                        </p>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Itmedia_mobile_20190201117/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'select-related-list-parallel-1-3'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FItmedia_mobile%2FItmedia_mobile_20190201117_bfc9_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="NTTドコモが中古端末の「SIMロック解除」要件を緩和　2018年度内に対応へ">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        NTTドコモが中古端末の「SIMロック解除」要件を緩和　2018年度内に対応へ
+                        </p>
+                        <time datetime="2019-02-01T18:00:00+09:00" class="parts parts-day">
+                            2019年2月1日
+                        </time>
+                        <p class="summary">
+                        総務省は2月1日、「モバイル市場の競争環境に関する研究会」の第8回会合を開催した。その資料の中で、NTTドコモが2018年度内（2019年3月末まで）に中古端末のSIMロック解除要件を緩和することが明...
+                        </p>
+                    </div>
+                </a>
+            </li>
+                        
+            
+            <li class=list-item><div id="gpt_pc_news_article_infeed01"></div></li>
+        </ul>
+        <a href="https://www.excite.co.jp/news/it/tag/NTT%E3%83%89%E3%82%B3%E3%83%A2/" class="button primary-button" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'select-related-more-1'});">次に読みたい関連記事「NTTドコモ」のニュースをもっと見る<span class="icon-arrow-right"></span></a>
+    </section>
+        <section>
+                                            <h2 class="default-title">次に読みたい関連記事「ソフトバンク」のニュース</h2>
+        <ul class="list">
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Itmedia_mobile_20190222048/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'select-related-list-parallel-2-1'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FItmedia_mobile%2FItmedia_mobile_20190222048_b368_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="“ソフトバンク効果”で急成長のLINEモバイル　カギは「通信品質」と「店舗拡大」">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        “ソフトバンク効果”で急成長のLINEモバイル　カギは「通信品質」と「店舗拡大」
+                        </p>
+                        <time datetime="2019-02-22T06:00:00+09:00" class="parts parts-day">
+                            2019年2月22日
+                        </time>
+                        <p class="summary">
+                        「IIJmio」や「mineo」など、大手MVNOの個人向けサービス（格安SIM）の契約数がここ最近伸び悩んでいる中で、「LINEモバイル」は急成長を続けている。同社は2018年4月からソフトバンクの...
+                        </p>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Buzzap_54870/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'select-related-list-parallel-2-2'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FBuzzap%2FBuzzap_54870_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="カウントフリーを総務省が規制へ、ソフトバンクやLINEモバイルなどのMVNOに激震">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        カウントフリーを総務省が規制へ、ソフトバンクやLINEモバイルなどのMVNOに激震
+                        </p>
+                        <time datetime="2019-02-19T06:04:00+09:00" class="parts parts-day">
+                            2019年2月19日
+                        </time>
+                        <p class="summary">
+                        通信料金の低廉化を目指して700以上のMVNOを参入させたところ、市場がレッドオーシャン化したため、新たに第4のキャリアとして楽天の携帯電話事業を認可した総務省。しかし低価格を武器としたサービスを開始...
+                        </p>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Itmedia_news_20190218086/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'select-related-list-parallel-2-3'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FItmedia_news%2FItmedia_news_20190218086_b07b_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="トヨタとソフトバンクの「モネ」、勤務先まで送迎　丸の内でシャトルバス実証実験">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        トヨタとソフトバンクの「モネ」、勤務先まで送迎　丸の内でシャトルバス実証実験
+                        </p>
+                        <time datetime="2019-02-18T13:24:00+09:00" class="parts parts-day">
+                            2019年2月18日
+                        </time>
+                        <p class="summary">
+                        ソフトバンクとトヨタ自動車が設立したMONETTechnologies（モネ・テクノロジーズ）は2月18日、三菱地所と共同で「オンデマンド通勤シャトル」の実証実験を都内で行うと発表した。吉祥寺、豊洲、...
+                        </p>
+                    </div>
+                </a>
+            </li>
+                        
+            
+            <li class=list-item><div id="gpt_pc_news_article_infeed02"></div></li>
+        </ul>
+        <a href="https://www.excite.co.jp/news/it/tag/%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF/" class="button primary-button" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'select-related-more-2'});">次に読みたい関連記事「ソフトバンク」のニュースをもっと見る<span class="icon-arrow-right"></span></a>
+    </section>
+
+    
+    <section>
+        <h2 class="default-title">新着トピックス</h2>
+        <ul class="list">
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Radiolife_30013/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'recent-topics-list-it-1'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FRadiolife%2FRadiolife_30013_0efe_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="パラボラ集音器で30m離れた会話をキャッチした">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        パラボラ集音器で30m離れた会話をキャッチした
+                        </p>
+                        <time datetime="2019-02-24T12:05:00+09:00" class="parts parts-day">
+                            12時05分
+                        </time>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/MoguraVR_baten-vr-experience-exhibition/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'recent-topics-list-it-2'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FMoguraVR%2FMoguraVR_baten-vr-experience-exhibition_7d47_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="自身のドッペルゲンガーと“VR対峙”？東京大学でVR体験展示会「ば展」開催">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        自身のドッペルゲンガーと“VR対峙”？東京大学でVR体験展示会「ば展」開催
+                        </p>
+                        <time datetime="2019-02-24T12:00:00+09:00" class="parts parts-day">
+                            12時00分
+                        </time>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/BcnRetail_107808/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'recent-topics-list-it-3'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FBcnRetail%2FBcnRetail_107808_4397.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="55インチ以上液晶テレビ、ソニー製が人気！ 売れ筋ランキングTOP5">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        55インチ以上液晶テレビ、ソニー製が人気！ 売れ筋ランキングTOP5
+                        </p>
+                        <time datetime="2019-02-24T12:00:00+09:00" class="parts parts-day">
+                            12時00分
+                        </time>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/MoguraVR_vtuber-yozakuratama/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'recent-topics-list-it-4'});" class="list-a">
+                                        <div class="list-body">
+                        <p class="title">
+                        VTuber界のマルチタスク雀士「夜桜たま」の魅力とは？ひとり四面打ち麻雀+実況解説+コメント拾いまで！？
+                        </p>
+                        <time datetime="2019-02-24T11:45:00+09:00" class="parts parts-day">
+                            11時45分
+                        </time>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/MoguraVR_social-vr-hacking-measures/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'recent-topics-list-it-5'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FMoguraVR%2FMoguraVR_social-vr-hacking-measures_7320_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="ソーシャルVRにも必要なハッキング対策 盗聴やなりすましができる脆弱性も">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        ソーシャルVRにも必要なハッキング対策 盗聴やなりすましができる脆弱性も
+                        </p>
+                        <time datetime="2019-02-24T11:30:00+09:00" class="parts parts-day">
+                            11時30分
+                        </time>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Cobs_1877066/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'recent-topics-list-it-6'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FCobs%2FCobs_1877066_6868_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="15分でおかず、タイガーの「炊飯器調理」 - 一人暮らし歴1年の編集者が体験">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        15分でおかず、タイガーの「炊飯器調理」 - 一人暮らし歴1年の編集者が体験
+                        </p>
+                        <time datetime="2019-02-24T11:00:00+09:00" class="parts parts-day">
+                            11時00分
+                        </time>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Cobs_1878352/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'recent-topics-list-it_biz-7'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FCobs%2FCobs_1878352_3839_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="人気の複数パスワードマネージャにメモリリークの問題、対処後に利用を">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        人気の複数パスワードマネージャにメモリリークの問題、対処後に利用を
+                        </p>
+                        <time datetime="2019-02-24T10:50:00+09:00" class="parts parts-day">
+                            10時50分
+                        </time>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Itmedia_pcuser_20190224018/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'recent-topics-list-it-8'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FItmedia_pcuser%2FItmedia_pcuser_20190224018_d1a9_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="「SORCERIAN COMPLETE」がWindows 10対応になって新登場">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        「SORCERIAN COMPLETE」がWindows 10対応になって新登場
+                        </p>
+                        <time datetime="2019-02-24T10:20:00+09:00" class="parts parts-day">
+                            10時20分
+                        </time>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Cobs_1878871/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'recent-topics-list-it-9'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FCobs%2FCobs_1878871_5060_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="Windows 10ミニTips 第354回 Windows 10 Proで「機能更新プログラム」の受信タイミングを延期する">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        Windows 10ミニTips 第354回 Windows 10 Proで「機能更新プログラム」の受信タイミングを延期する
+                        </p>
+                        <time datetime="2019-02-24T10:00:00+09:00" class="parts parts-day">
+                            10時00分
+                        </time>
+                    </div>
+                </a>
+            </li>
+                        <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Cobs_1878651/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'recent-topics-list-apple-10'});" class="list-a">
+                                            <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FCobs%2FCobs_1878651_087e_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=360&amp;h=220" alt="iPhone基本の「き」 第338回 これ知ってる? 毎日の活用度に差が出る - iPhoneカメラ使いこなし小技・便利技編">
+                        </div>
+                                        <div class="list-body">
+                        <p class="title">
+                        iPhone基本の「き」 第338回 これ知ってる? 毎日の活用度に差が出る - iPhoneカメラ使いこなし小技・便利技編
+                        </p>
+                        <time datetime="2019-02-24T10:00:00+09:00" class="parts parts-day">
+                            10時00分
+                        </time>
+                    </div>
+                </a>
+            </li>
+                    </ul>
+    </section>
+
+            <script type="text/javascript" src="//image.excite.co.jp/jp/ad/wisteria/pc_news_wisteria.js"></script>
+<div id="_wisteria_recommend_contents"></div>    
+    
+    <div id=""></div>
+                    </div>
+                </main>
+                <div class="side-contents">
+                
+    <div id="gpt_pc_news_1st_rec"></div>
+
+    
+    <section>
+    <h2 class="default-title">ITニュースアクセスランキング</h2>
+    <ul class="list">
+                            <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Radiolife_30010/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-it-1'});" class="list-a">
+                                        <div class="list-img">
+                        <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FRadiolife%2FRadiolife_30010_69e9_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="レーザー式の新型オービスにも対応できるアプリ">
+                    </div>
+                                        <div class="list-body">
+                        <p class="title">レーザー式の新型オービスにも対応できるアプリ</p>
+                        <span class="parts parts-user">339pt</span>
+                    </div>
+                </a>
+            </li>
+            
+                            
+                                
+                                                <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Radiolife_30011/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-it-2'});" class="list-a">
+                                        <div class="list-img">
+                        <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FRadiolife%2FRadiolife_30011_8a72_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="YouTubeを120％楽しむためのテクニック5選">
+                    </div>
+                                        <div class="list-body">
+                        <p class="title">YouTubeを120％楽しむためのテクニック5選</p>
+                        <span class="parts parts-user">145pt</span>
+                    </div>
+                </a>
+            </li>
+            
+                            
+                                
+                                                <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Gizmodo_201902_huawei-mate-x-live-blog/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-it-3'});" class="list-a">
+                                        <div class="list-body">
+                        <p class="title">【実況するよ！】Huaweiも続く「折りたたみスマホ」。発表は、明日22時から！</p>
+                        <span class="parts parts-user">145pt</span>
+                    </div>
+                </a>
+            </li>
+            
+                            
+                                    <li class=list-item><div id="gpt_pc_news_rightcolumn_ranking_infeed01"></div></li>
+                                
+                                    
+                                                <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Itmedia_news_20190216020/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-it-4'});" class="list-a">
+                                        <div class="list-img">
+                        <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FItmedia_news%2FItmedia_news_20190216020_5a5d_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="「昭和ミニラジカセ」が懐かしすぎる">
+                    </div>
+                                        <div class="list-body">
+                        <p class="title">「昭和ミニラジカセ」が懐かしすぎる</p>
+                        <span class="parts parts-user">106pt</span>
+                    </div>
+                </a>
+            </li>
+            
+                            
+                                
+                                                <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Itmedia_enterprise_20190221072/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-it-5'});" class="list-a">
+                                        <div class="list-img">
+                        <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FItmedia_enterprise%2FItmedia_enterprise_20190221072_3da4_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="圧縮・解凍ソフト「WinRAR」にコード実行の脆弱性　19年前から存在">
+                    </div>
+                                        <div class="list-body">
+                        <p class="title">圧縮・解凍ソフト「WinRAR」にコード実行の脆弱性　19年前から存在</p>
+                        <span class="parts parts-user">102pt</span>
+                    </div>
+                </a>
+            </li>
+            
+                            
+                                
+                                                <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Macotakara_36927/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-it-6'});" class="list-a">
+                                        <div class="list-img">
+                        <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FMacotakara%2FMacotakara_36927_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="Apple Store、DecodedのiPhone XS用高級レザーケース「Decoded Leather Snap-On Case for iPhone XS」販売開始">
+                    </div>
+                                        <div class="list-body">
+                        <p class="title">Apple Store、DecodedのiPhone XS用高級レザーケース「Decoded Leather Snap-On Case for iPhone XS」販売開始</p>
+                        <span class="parts parts-user">97pt</span>
+                    </div>
+                </a>
+            </li>
+            
+                            
+                                    <li class=list-item><div id="gpt_pc_news_rightcolumn_ranking_infeed02"></div></li>
+                                
+                                    
+                                                <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Itmedia_news_20190224017/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-it-7'});" class="list-a">
+                                        <div class="list-img">
+                        <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FItmedia_news%2FItmedia_news_20190224017_21ee_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="Googleがゲーム機？　謎の招待状">
+                    </div>
+                                        <div class="list-body">
+                        <p class="title">Googleがゲーム機？　謎の招待状</p>
+                        <span class="parts parts-user">97pt</span>
+                    </div>
+                </a>
+            </li>
+            
+                            
+                                
+                                                <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Shouhin_128473/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-it-8'});" class="list-a">
+                                        <div class="list-img">
+                        <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FShouhin%2FShouhin_128473_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="25周年なので25種類の素材をブレンド！『爽健美茶』特別限定ブレンドの明らかに違う味を飲んだ">
+                    </div>
+                                        <div class="list-body">
+                        <p class="title">25周年なので25種類の素材をブレンド！『爽健美茶』特別限定ブレンドの明らかに違う味を飲んだ</p>
+                        <span class="parts parts-user">48pt</span>
+                    </div>
+                </a>
+            </li>
+            
+                            
+                                
+                                                <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Cobs_1878896/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-it-9'});" class="list-a">
+                                        <div class="list-img">
+                        <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FCobs%2FCobs_1878896_11d1_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="トリプルカメラに5G!! OPPOが最新スマホの2019年Q2発売を宣言">
+                    </div>
+                                        <div class="list-body">
+                        <p class="title">トリプルカメラに5G!! OPPOが最新スマホの2019年Q2発売を宣言</p>
+                        <span class="parts parts-user">48pt</span>
+                    </div>
+                </a>
+            </li>
+            
+                            
+                                    <li class=list-item><div id="gpt_pc_news_rightcolumn_ranking_infeed03"></div></li>
+                                
+                                    
+                                                <li class="list-item">
+                <a href="https://www.excite.co.jp/news/article/Markezine_30443/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-it-10'});" class="list-a">
+                                        <div class="list-img">
+                        <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FMarkezine%2FMarkezine_30443.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="バナー広告より「動画広告」に不快感／よりエンゲージメントにつながるのは？【ジャストシステム調査】">
+                    </div>
+                                        <div class="list-body">
+                        <p class="title">バナー広告より「動画広告」に不快感／よりエンゲージメントにつながるのは？【ジャストシステム調査】</p>
+                        <span class="parts parts-user">48pt</span>
+                    </div>
+                </a>
+            </li>
+            
+                        </ul>
+    <a href="https://www.excite.co.jp/news/view-ranking/it/" class="button primary-button" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'rank-more-it'});">ITランキングをもっと見る<span class="icon-arrow-right"></span></a>
+</section>
+
+    
+    
+    <section>
+    <h2 class="default-title">コメントランキング</h2>
+    <ul class="list">
+                    
+                            <li class="col-2">
+                    <a href="https://www.excite.co.jp/news/article/Bunshun_10712/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'comment-rank-1'});" class="list-a">
+                        <div class="col-2-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FBunshun%2FBunshun_10712_806a_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=284&amp;h=184" alt="「SMAP解散」連続記録を抜いた！ 夕刊フジの「韓国一面祭り」が意味するもの" />
+                        </div>
+                        <div class="list-body">
+                            <p class="title">「SMAP解散」連続記録を抜いた！ 夕刊フジの「韓国一面祭り」が意味するもの</p>
+                            <span class="parts parts-comment"><span class="icon-comment"></span>435</span>
+                        </div>
+                    </a>
+                </li>
+                                
+                            <li class="col-2">
+                    <a href="https://www.excite.co.jp/news/article/Hazardlab_28200/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'comment-rank-2'});" class="list-a">
+                        <div class="col-2-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FHazardlab%2FHazardlab_28200_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=284&amp;h=184" alt="韓国議長「天皇の謝罪で慰安婦問題は解決」日本政府が謝罪要求" />
+                        </div>
+                        <div class="list-body">
+                            <p class="title">韓国議長「天皇の謝罪で慰安婦問題は解決」日本政府が謝罪要求</p>
+                            <span class="parts parts-comment"><span class="icon-comment"></span>82</span>
+                        </div>
+                    </a>
+                </li>
+                                
+                            <li class="list-item">
+                    <a href="https://www.excite.co.jp/news/article/Bunshun_10795/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'comment-rank-it-3'});" class="list-a">
+                                                <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FBunshun%2FBunshun_10795_0634_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="まるで“国際ロマンス詐欺”？ 「安倍首相がハマり込んだプーチン無間地獄」" />
+                        </div>
+                                                <div class="list-body">
+                            <p class="title">まるで“国際ロマンス詐欺”？ 「安倍首相がハマり込んだプーチン無間地獄」</p>
+                            <span class="parts parts-comment"><span class="icon-comment"></span>25</span>
+                        </div>
+                    </a>
+                </li>
+                                
+                            <li class="list-item">
+                    <a href="https://www.excite.co.jp/news/article/Toushin_8982/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'comment-rank-it-4'});" class="list-a">
+                                                <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FToushin%2FToushin_8982_d716_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="テレビに偏向報道7割、偏向番組スポンサーの商品を買いたくない3割" />
+                        </div>
+                                                <div class="list-body">
+                            <p class="title">テレビに偏向報道7割、偏向番組スポンサーの商品を買いたくない3割</p>
+                            <span class="parts parts-comment"><span class="icon-comment"></span>23</span>
+                        </div>
+                    </a>
+                </li>
+                                
+                            <li class="list-item">
+                    <a href="https://www.excite.co.jp/news/article/Tocana_201901_post_19283/" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'comment-rank-it-5'});" class="list-a">
+                                                <div class="list-img">
+                            <img src="//imgc.eximg.jp/cv/trim?i=https%3A%2F%2Fs.eximg.jp%2Fexnews%2Ffeed%2FTocana%2FTocana_201901_post_19283_185c_1.jpg&amp;t=jpeg&amp;q=100&amp;trim=1&amp;w=184&amp;h=184" alt="【衝撃】GPSを体に埋め込み「人間コンパス」になった男！ 北を感知するシックスセンスを創造「脳のパワー解き放った」" />
+                        </div>
+                                                <div class="list-body">
+                            <p class="title">【衝撃】GPSを体に埋め込み「人間コンパス」になった男！ 北を感知するシックスセンスを創造「脳のパワー解き放った」</p>
+                            <span class="parts parts-comment"><span class="icon-comment"></span>17</span>
+                        </div>
+                    </a>
+                </li>
+                        </ul>
+    <a href="https://www.excite.co.jp/news/comment-ranking/" class="button primary-button" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'comment-rank-more'});">コメントランキングをもっと見る<span class="icon-arrow-right"></span></a>
+</section>
+
+    
+    <div id="gpt_pc_news_2nd_rec"></div>
+
+    
+    <section>
+    <h2 class="default-title">
+        トレンドの人気のキーワード一覧
+    </h2>
+    <ul class="tags">
+                    <li>
+                <a href="https://www.excite.co.jp/news/it/tag/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-プログラミング'});">
+                    プログラミング
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E4%B8%AD%E8%8F%AF%E6%96%99%E7%90%86/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-中華料理'});">
+                    中華料理
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-とんかつ'});">
+                    とんかつ
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E3%82%AB%E3%83%95%E3%82%A7/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-カフェ'});">
+                    カフェ
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E3%81%8A%E3%81%B0%E3%82%93%E3%81%96%E3%81%84/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-おばんざい'});">
+                    おばんざい
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/comic-anime/tag/%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%83%90%E3%83%B3%E3%83%80%E3%82%A4/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-プレミアムバンダイ'});">
+                    プレミアムバンダイ
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E3%82%B1%E3%83%BC%E3%82%AD/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-ケーキ'});">
+                    ケーキ
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E4%BA%AC%E6%96%99%E7%90%86/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-京料理'});">
+                    京料理
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E7%82%8A%E3%81%8D%E8%BE%BC%E3%81%BF%E3%81%94%E9%A3%AF/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-炊き込みご飯'});">
+                    炊き込みご飯
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/it/tag/%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-スマートフォン'});">
+                    スマートフォン
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E3%82%B9%E3%82%A4%E3%83%BC%E3%83%84/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-スイーツ'});">
+                    スイーツ
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/comic-anime/tag/%E7%94%B0%E4%B8%B8%E7%AF%A4%E5%BF%97/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-田丸篤志'});">
+                    田丸篤志
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E3%83%87%E3%82%B6%E3%83%BC%E3%83%88/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-デザート'});">
+                    デザート
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E3%81%86%E3%81%AA%E3%81%8E/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-うなぎ'});">
+                    うなぎ
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/it/tag/Amazon/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-Amazon'});">
+                    Amazon
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/comic-anime/tag/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-仮面ライダー'});">
+                    仮面ライダー
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E3%83%AF%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-ワインバー'});">
+                    ワインバー
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/it/tag/Mac/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-Mac'});">
+                    Mac
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E3%83%89%E3%83%BC%E3%83%8A%E3%83%84/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-ドーナツ'});">
+                    ドーナツ
+                </a>
+            </li>
+                    <li>
+                <a href="https://www.excite.co.jp/news/gourmet/tag/%E5%B1%85%E9%85%92%E5%B1%8B/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-居酒屋'});">
+                    居酒屋
+                </a>
+            </li>
+            </ul>
+</section>
+
+    <section>
+        <h2 class="default-title">
+           新着キーワード一覧
+        </h2>
+        <ul class="tags">
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/baseball/tag/%E8%97%A4%E5%B7%9D%E7%90%83%E5%85%90/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-藤川球児'});">
+                        藤川球児
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/society/tag/%E7%9A%87%E5%AE%A4/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-皇室'});">
+                        皇室
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/entertainment/tag/%E3%83%90%E3%83%8A%E3%83%8A%E3%83%9E%E3%83%B3/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-バナナマン'});">
+                        バナナマン
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/sports/tag/%E3%83%86%E3%83%8B%E3%82%B9/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-テニス'});">
+                        テニス
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/fashion/tag/%E3%82%B9%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%BC/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-スニーカー'});">
+                        スニーカー
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/lifestyle/tag/%E3%83%96%E3%83%AD%E3%82%B0/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-ブログ'});">
+                        ブログ
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/entertainment/tag/%E6%97%A5%E6%9C%AC%E3%83%86%E3%83%AC%E3%83%93/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-日本テレビ'});">
+                        日本テレビ
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/politics/tag/%E7%AB%8B%E6%86%B2%E6%B0%91%E4%B8%BB%E5%85%9A/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-立憲民主党'});">
+                        立憲民主党
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/entertainment/tag/%E5%A4%A7%E5%B3%B6%E5%84%AA%E5%AD%90/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-大島優子'});">
+                        大島優子
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/entertainment/tag/%E5%AE%89%E8%97%A4%E3%82%B5%E3%82%AF%E3%83%A9/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-安藤サクラ'});">
+                        安藤サクラ
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/entertainment/tag/%E5%87%BA%E5%B7%9D%E5%93%B2%E6%9C%97/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-出川哲朗'});">
+                        出川哲朗
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/entertainment/tag/%E3%82%AC%E3%83%AA%E3%83%83%E3%83%88%E3%83%81%E3%83%A5%E3%82%A6/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-ガリットチュウ'});">
+                        ガリットチュウ
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/it/tag/MR/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-MR'});">
+                        MR
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/economy/tag/%E3%83%9B%E3%83%B3%E3%83%80/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-ホンダ'});">
+                        ホンダ
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/entertainment/tag/%E4%B8%AD%E6%9D%91%E5%8B%98%E4%B9%9D%E9%83%8E/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-中村勘九郎'});">
+                        中村勘九郎
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/lifestyle/tag/%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-トレーニング'});">
+                        トレーニング
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/baseball/tag/%E6%96%8E%E8%97%A4%E4%BD%91%E6%A8%B9/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-斎藤佑樹'});">
+                        斎藤佑樹
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/sports/tag/%E9%8C%A6%E7%B9%94%E5%9C%AD/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-錦織圭'});">
+                        錦織圭
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/baseball/tag/%E5%B7%A5%E8%97%A4%E5%85%AC%E5%BA%B7/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-工藤公康'});">
+                        工藤公康
+                    </a>
+                </li>
+                            <li>
+                    
+                    <a href="https://www.excite.co.jp/news/entertainment/tag/%E8%A9%A9%E7%B9%94/" class="button-gray" onclick="gtag('event', 'click', {'event_category': 'article-page', 'event_label': 'keyword-list-詩織'});">
+                        詩織
+                    </a>
+                </li>
+                    </ul>
+    </section>
+
+    <div id="gpt_pc_news_text_keyword"></div>
+
+    
+    
+    
+    <section class="media-introduction">
+        <h2 class="default-title">このカテゴリーについて</h2>
+        <p class="introduction-description">最新IT業界情報やiPhoneやAndroidやガジェット、話題のサービス、IoT情報、スタートアップにまつわるニュースをお届け中。</p>
+    </section>
+
+                </div>
+            </div>
+            <footer class="footer">
+    <div class="footer-cont-width">
+        <div class="footer-upper-item">
+            <a href="https://www.excite.co.jp/?stpg=1" class="footer-add-button" onclick="gtag('event', 'click', {'event_category': 'footer', 'event_label': 'start-page'});">スタートページに設定</a>
+            
+            <div class="footer-sns">
+                <ul class="flex">
+                    <li>
+                       <a href="https://twitter.com/ExciteJapan" class="twitter-official" onclick="gtag('event', 'click', {'event_category': 'footer', 'event_label': 'social-twitter'});"><span>公式Twitter</span></a>
+                    </li>
+                    <li>
+                       <a href="https://www.facebook.com/ExciteNews16/" class="facebook-official" onclick="gtag('event', 'click', {'event_category': 'footer', 'event_label': 'social-facebook'});"><span>公式Facebook</span></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-category">
+                        <dl>
+                <dt><a class="has-text-weight-semibold has-text-grey-dark" href="https://www.excite.co.jp/news/domestic-topic/">国内</a></dt>
+                                <dd>
+                    <ul>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/society/">社会</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/economy/">経済</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/politics/">政治</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/matome/domestic-topic/">まとめ</a></li>
+                                            </ul>
+                </dd>
+                            </dl>
+                        <dl>
+                <dt><a class="has-text-weight-semibold has-text-grey-dark" href="https://www.excite.co.jp/news/world-topic/">海外</a></dt>
+                                <dd>
+                    <ul>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/world/">国際総合</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/china/">中国</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/matome/world-topic/">まとめ</a></li>
+                                            </ul>
+                </dd>
+                            </dl>
+                        <dl>
+                <dt><a class="has-text-weight-semibold has-text-grey-dark" href="https://www.excite.co.jp/news/entertainment-topic/">芸能</a></dt>
+                                <dd>
+                    <ul>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/entertainment/">芸能総合</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/movie/">映画</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/music/">音楽</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/celebrity/">海外セレブ</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/asia-entertainment/">韓流</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/matome/entertainment-topic/">まとめ</a></li>
+                                            </ul>
+                </dd>
+                            </dl>
+                        <dl>
+                <dt><a class="has-text-weight-semibold has-text-grey-dark" href="https://www.excite.co.jp/news/sports-topic/">スポーツ</a></dt>
+                                <dd>
+                    <ul>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/sports/">スポーツ総合</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/baseball/">野球</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/football/">サッカー</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/golf/">ゴルフ</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/matome/sports-topic/">まとめ</a></li>
+                                            </ul>
+                </dd>
+                            </dl>
+                        <dl>
+                <dt><a class="has-text-weight-semibold has-text-grey-dark" href="https://www.excite.co.jp/news/trend-topic/">トレンド</a></dt>
+                                <dd>
+                    <ul>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/review/">レビュー</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/comic-anime/">マンガ・アニメ</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/game/">ゲーム</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/it/">IT</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/gourmet/">グルメ</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/fashion/">ファッション</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/matome/trend-topic/">まとめ</a></li>
+                                            </ul>
+                </dd>
+                            </dl>
+                        <dl>
+                <dt><a class="has-text-weight-semibold has-text-grey-dark" href="https://www.excite.co.jp/news/omoshiro-topic/">おもしろ</a></dt>
+                                <dd>
+                    <ul>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/odd/">びっくり</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/bit/">コネタ</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/matome/omoshiro-topic/">まとめ</a></li>
+                                            </ul>
+                </dd>
+                            </dl>
+                        <dl>
+                <dt><a class="has-text-weight-semibold has-text-grey-dark" href="https://www.excite.co.jp/news/column-topic/">コラム</a></dt>
+                                <dd>
+                    <ul>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/smadan/">スマダン</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/woman-column/">女性コラム</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/lifestyle/">ライフスタイル</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/travel/">トラベル</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/90s/">90s チョベリー</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/matome/column-topic/">まとめ</a></li>
+                                            </ul>
+                </dd>
+                            </dl>
+                        <dl>
+                <dt><a class="has-text-weight-semibold has-text-grey-dark" href="https://www.excite.co.jp/news/view-ranking/">ランキング</a></dt>
+                                <dd>
+                    <ul>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/view-ranking/domestic-topic/">国内</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/view-ranking/world-topic/">海外</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/view-ranking/entertainment-topic/">芸能</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/view-ranking/sports-topic/">スポーツ</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/view-ranking/trend-topic/">トレンド</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/view-ranking/omoshiro-topic/">おもしろ</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/view-ranking/column-topic/">コラム</a></li>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/comment-ranking/">コメント</a></li>
+                                            </ul>
+                </dd>
+                            </dl>
+                        <dl>
+                <dt><a class="has-text-weight-semibold has-text-grey-dark" href="https://www.excite.co.jp/news/today/">今日のニュース</a></dt>
+                                <dd>
+                    <ul>
+                                                <li><a class="has-text-grey" href="https://www.excite.co.jp/news/release/">リリース</a></li>
+                                            </ul>
+                </dd>
+                            </dl>
+                        <ul class="footer-more">
+                <li><a href="/news/source/">メディア一覧</a></li>
+                <li><a href="/news/view-ranking/">ランキング</a></li>
+                <li><a href="/news/tag/">キーワード一覧</a></li>
+                <li><a href="/news/comment/">コメント一覧</a></li>
+                <li><a href="/news/sitemap/">サイトマップ</a></li>
+                <li><a href="/news/help/">ヘルプ</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-service-link">
+        <ul class="footer-text-link">
+            <li><a href="/news/">ニュース</a></li>
+            <li><a href="http://weather.excite.co.jp">天気</a></li>
+            <li><a href="/world/">翻訳</a></li>
+            <li><a href="https://fortune.woman.excite.co.jp/">占い</a></li>
+            <li><a href="https://d.excite.co.jp/">電話占い</a></li>
+            <li><a href="https://friends.excite.co.jp/">フレンズ</a></li>
+            <li><a href="https://wedding.excite.co.jp/">婚活</a></li>
+            <li><a href="http://realestate.excite.co.jp/">不動産</a></li>
+            <li><a href="https://shopping.excite.co.jp/">ショッピング</a></li>
+            <li><a href="https://erecipe.woman.excite.co.jp/sp/">レシピ</a></li>
+            <li><a href="https://bb.excite.co.jp/">最安プロバイダ</a></li>
+            <li><a href="https://woman.excite.co.jp/">ウーマンエキサイト</a></li>
+            <li><a href="/">エキサイト</a></li>
+        </ul>
+        <ul class="footer-text-link">
+            <li><a href="/sitemap/">サービス一覧</a></li>
+            <li><a href="https://help.excite.co.jp/hc/ja">ヘルプ/お問い合わせ</a></li>
+            <li><a href="http://corp.excite.co.jp/outline/">会社概要</a></li>
+            <li><a href="https://protection.excite.co.jp/">個人情報保護</a></li>
+            <li><a href="https://cookie.excite.co.jp/">情報取得について</a></li>
+            <li><a href="https://disclaimer.excite.co.jp/">免責事項</a></li>
+        </ul>
+        <div class="copyright">
+                            <p>Copyright &copy; MarkeZine</p>
+                        <p>Copyright &copy; 1997-2019 Excite Japan Co., Ltd. All Rights Reserved.</p>
+        </div>
+    </div>
+</footer>
+            <script language="JavaScript" type="text/javascript" src="//image.excite.co.jp/jp/ad/bsb.js" charset="UTF-8"></script>
+                    <script>
+            function displayComments($this) {
+                ['disnon-list', 'disnon-more'].forEach(function(targetClass) {
+                    var targetElements = document.getElementsByClassName(targetClass);
+                    [].forEach.call(targetElements, function(elem) {
+                        elem.classList.remove(targetClass);
+                    })
+                });
+                $this.parentNode.removeChild($this);
+            }
+        </script>
+        <script type="application/ld+json">
+{
+    "@context":"http://schema.org",
+    "@type":"NewsArticle",
+    "headline":"カカクコムとKDDI、「食べログ」と「au PAY」連携で店舗集客を推進　ビックデータ分析基盤も構築 (2019年2月13日) - エキサイトニュース",
+    "datePublished":"2019-02-13JST11:45+09:00",
+    "dateModified":"2019-02-13JST12:07+09:00",
+    "mainEntityOfPage":{
+        "@type": "WebPage",
+        "@id":"https://www.excite.co.jp/news/article/Markezine_30368/"
+    },
+    "image":{
+        "@type": "ImageObject",
+                    "url":"https://s.eximg.jp/exnews/a/img/apple-touch-icon_200.png",
+            "width":"200",
+            "height":"200"
+            },
+    "publisher":{
+        "@type": "Organization",
+        "name": "エキサイトニュース",
+        "logo":{
+        "@type": "ImageObject",
+        "url": "https://s.eximg.jp/exnews/logo/logo-amp-excitenews.png",
+        "width": "274",
+        "height": "60"
+        }
+    },
+            "author":{
+            "@type": "Organization",
+            "name": "MarkeZine"
+        },
+    "articleSection":"ITニュース",
+            "articleBody": "　カカクコムとKDDIは、カカクコムが運営する「食べログ」と、2019年4月よりKDDIが提供開始するスマホ決済サービス「au PAY」において連携を開始した。　KDDIは、「auかんたん決済」や「au WALLET」の事業基盤を活用した決済領域の強化を進めており、2019年4月よりバーコードやQRコードを使った新たなスマホ決済サービス「au PAY」を開始する。　両社は、「食べログ」で「au PAYが使えるお店」の紹介や、「食べログ」掲載店舗で「au PAY」を利用するユーザーにポイントを還元するなど、共同で「au PAY」加盟店の開拓と、店舗集客の支援を実施していく。　また2019年2月より、共同でビッグデータ分析を行うデータ基盤（以下、共同分析基盤）を構築する。共同分析基盤では、KDDIが保有する性年代等の属性データと、カカクコムが保有する消費行動などを、KDDIグループのSupershipの環境下で統合的に管理し、AI技術等を駆使することで、高度なビッグデータ分析を行う。これにより、「価格.com」や、「食べログ」に登録する店舗向けに、集客支援サービスなどの提供を行っていく。【関連記事】・食べログのネット予約がAppleマップ上で完結！アプリとの連携で氏名や連絡先の入力も不要に・食べログ、NTTドコモのAIエージェントサービス「my daiz」にサービス提供を開始・「食べログ」のネット予約人数が累計3,500万人を突破　前年の倍以上のペースで推移・KDDI、西武鉄道らと「駅のロッカー」を活用した実証実験を開始／野菜・日用品が終電まで受け取り可能に・KDDIとALBERT、資本業務提携を締結！データドリブン経営の加速へ■記事全文へ",
+                "description": "カカクコムとKDDIは、カカクコムが運営する「食べログ」と、2019年4月よりKDDIが提供開始するスマホ決済サービス「auPAY」において連携を開始した。KDDIは、「auかんたん決済」や「auWA..."
+    }
+</script>
+    <script>
+      var newscode = "Markezine_30368";
+      var asyncParam = "mode=param_top_good_list";
+    </script>
+    <script src="/news/js/commentaction.js" defer async></script>
+    
+    <script>
+        gtag(
+            'event',
+            'view',
+            {
+                'event_category': 'article-page',
+                'event_action': 'click-deep-contents',
+                'event_label': 'sub0-parallel2-it'
+            }
+        );
+    </script>
+            <script>
+    window.fbAsyncInit = function () {
+        FB.init(
+            {appId: '242604012520302', xfbml: true, version: 'v2.5'}
+        );
+        FB.Event.subscribe('edge.create', function (url) {
+            ga('send', 'event', 'socialBtn', 'click', "facebookBtn");
+        });
+    };
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {
+            return;
+        }
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/ja_JP/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>        <script>
+    window.twttr = function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https',
+            t = window.twttr || {};
+        if (!d.getElementById(id)) {
+            js = d.createElement(s);
+            js.id = id;
+            js.src = p + '://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }
+        t._e = [];
+        t.ready = function(f) {
+            t._e.push(f);
+        };
+        return t;
+    }(document, 'script', 'twitter-wjs');
+    twttr.ready(function (twttr) {
+        // Now bind our custom intent events
+        twttr.events.bind('tweet', function (e) {
+            ga('send', 'event', 'socialBtn', 'click', "twitterBtn");
+        });
+    });
+</script>        </body>
+</html>

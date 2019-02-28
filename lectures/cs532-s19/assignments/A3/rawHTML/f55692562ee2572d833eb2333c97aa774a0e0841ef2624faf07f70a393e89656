@@ -1,0 +1,480 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+<title>Free Download @ DownloadsPalace.com: Devart Excel Add-ins Database Pack (Business) - Powered by Downloads Palace v2.0</title>
+<meta name="description" content="Devart Excel Add-ins Database Pack includes Excel Add-ins that allow working with database data like with usual worksheets." />
+<meta name="keywords" content="excel connect, connection, add-in, export, import, load, external data, pack, bundle, cloud database" />
+<base href="http://downloadspalace.com/" />
+<link id="page_favicon" href="http://downloadspalace.com/templates/images/Favicon/favicon3.ico" rel="icon" type="image/x-icon" />
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+
+<link rel="stylesheet" type="text/css"
+      href="https://fonts.googleapis.com/css?family=Tangerine">
+<meta property="og:title" content="">
+<meta property="og:image" content="">
+<meta property="og:site_name" content="Downloadsplace.com">
+<meta property="og:description" content="[Read more here...]">
+
+
+
+
+<script type="text/javascript" src="templates/js/swfobject.js"></script>
+<link rel="alternate" type="application/rss+xml" title="About Us" href="?p=rss-feed" />
+<script type="text/javascript" src="templates/iBox/ibox.js"></script>
+<script type="text/javascript">iBox.setPath('templates/iBox/');</script>
+<link rel="stylesheet" href="templates/iBox/skins/lightbox/lightbox.css" type="text/css" media="screen"/>
+<script type="text/javascript" src="templates/js/comments.js"></script>
+<script type="text/javascript" src="templates/js/behavior.js"></script>
+<script type="text/javascript" src="templates/js/rating.js"></script>
+<link rel="stylesheet" type="text/css" href="rating.css" />
+
+
+
+
+</head>
+
+<body >
+<!-- Google Analytics added by Abdu 10.17.16 start -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85908109-1', 'auto');
+  ga('send', 'pageview');
+
+</script><!-- Google Analytics added by Abdu 10.17.16 End -->
+
+<!--facebook api added by abdu 8.28.16 -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7&appId=1787215761490596";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Start Site Wrapper -->
+<div id="wrapper">
+
+<!-- Top Bar -->
+<div id="topBar">
+  <p>Currently listing 607 Downloads in 20 categories!</p>
+  <span class="rss"><a href="?p=rss-feed" title="Latest Downloads">Latest Downloads</a></span>
+</div>  
+<!-- End Top Bar -->
+
+
+<!-- Start Header -->
+<div id="header">
+<table width = 1000>
+<tr><td><img src="templates/images/dp_logo.png" height=80></td><td colspan = 4><div style="font-family: 'Tangerine', serif;"><b><font style="font-size: 70pt" color="c43333">DownloadsPalace.com</div></font></B></td>
+<td colspan = 4>
+<center>
+<div>
+<a href="https://twitter.com/Downloadspalace" target="_blank">
+<img class="rotate" alt="" src="templates/images/DP_twitter.png" width="60" height="60"></a>&nbsp;
+<a href="https://www.facebook.com/Downloadspalace-259349377781448" target="_blank">
+<img class="rotate" alt="" src="templates/images/DP_facebook.png" width="60" height="60"></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCN0qnsBNr1Qh5ZMs2tzYKOA" target="_blank">
+<img class="rotate" alt="" src="templates/images/DP_youtube.png" width="60" height="60"></a>&nbsp;
+<a href="http://www.pinterest.com/downloadspalace/" target="_blank">
+<img class="rotate" alt="" src="templates/images/DP_pinterest.png" width="60" height="60"></a>
+</div>
+</center></td>
+</tr>
+</center>
+</table> 
+</div>
+<!-- End Header -->
+
+
+
+<!-- Start Menu Bar -->
+<div id="menu">
+  <table width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><a href="index.php" title="Home">HOME</a></td>
+    <!--removed by abdu check file removed ref 005 -->
+    <td><a href="?p=about-us" title="About Us">ABOUT US</a></td>
+    <td><a href="?p=contact-us" title="Contact Us">CONTACT US</a></td>
+	<td><a href="donate.php" title="Please donate">DONATE</a></td>
+    <td class="search">
+    
+    <!-- Search Form -->
+    <form method="post" action="index.php">
+    <div>
+    <input type="hidden" name="search" value="1" />
+    <input type="text" name="keys" class="box" value="Please enter your keywords.." onclick="this.value=''" /> <input class="button" type="submit" value="Search" title="Search" />
+    </div>
+    </form>
+    <!-- End Search Form -->
+    
+    </td>
+  </tr>
+  </table>
+</div>
+<!-- End Menu Bar -->
+
+<!-- Start Content Wrapper -->
+<div id="contentWrapper">
+
+<!-- Flash Bar -->
+<!-- disble flash header by abdu 7.23.16 start
+
+<div id="flashBar">
+  <div id="flash" style="padding:0px;margin:0px">You need flash installed to view this header!</div>
+    <script type="text/javascript">
+	   var flash = new SWFObject("flash-header.swf?xml_path=index.php?p=flash", "flash", "914", "200", "8", "#f1ebb7", true)
+	   flash.addParam("movie", "flash-header.swf?xml_path=index.php?p=flash");
+	   flash.addParam("menu", "false");
+	   flash.addParam("wmode", "opaque");
+	   flash.addParam("scale", "noscale");
+	   flash.write("flash")
+    </script>    
+</div>
+<!-- End Flash Bar -->
+<!-- Start Google AdSense -->
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 728x90, created 1/2/10 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-1086978547778237"
+     data-ad-slot="2345114899"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+<!-- End Google AdSense -->
+
+<!-- Added Sumome snipet by Abdu 9.18.16 -->
+<script src="//load.sumome.com/" data-sumo-site-id="0530b1b2777e4569b2d22c4e835fb3259c524f79447cb1ca7e47d4944b293918" async="async"></script>
+
+<!-- disble flash header by abdu 7.23.16 end --><!-- Start Body Area -->
+<div id="bodyArea">
+
+<div class="left">
+
+  <span class="headLeft">Devart Excel Add-ins Database Pack:</span>
+  
+      	<!--removed by abdu check file removed ref 003 -->
+		
+
+  
+ <br>
+	 <b> Description: </b> 
+  
+<table>
+<col width="300">
+  <col width="250">
+ <tr> 
+<td ROWSPAN=2 >
+  
+  
+  <p class="ingredients">Devart Excel Add-ins Database Pack includes Excel Add-ins that allow working with database data like with usual worksheets. It includes add-ins for DB2, MySQL, Oracle, PostgreSQL, SQL Server, SQLite.</p>
+</td>
+<td> 
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Recipe Try outs recipes.tpl.php -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-1086978547778237"
+     data-ad-slot="7018585533"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+  </td></tr>
+  <td>  	 <b> <center>Image Link</center></b> <br>
+ <center><img src="https://www.devart.com/excel-addins/images/edit-hubspot.png" height='300' width='250'></center></td>
+</table>
+
+  <span class="victoria">
+  <table>
+  <col width="110">
+  <col width="200">
+  <col width="20">
+  <col width="110">
+  <col width="200">
+
+  <tr><td>
+
+     <b> File name: </b> 
+  </td><td>
+     Devart Excel Add-ins Database Pack<br>
+  </td>
+
+<td></td>  
+   <td>
+	 <b> Version: </b>
+  </td><td>	 
+     1.0<br>
+	</td></tr> 
+	
+	<tr><td> 
+	 <b> Home Page: </b>
+  </td><td>	 
+     <a href="https://www.devart.com/excel-addins/cloud-database-packs.html">
+     Click here for homepage</a><br>
+ </td> 
+ 
+<td></td>
+    <!-- added by abdu 7.21.16 start -->
+	<td>
+	 <b> Download Link: </b>
+  </td><td>	 
+	 <a href="https://www.devart.com/excel-addins/db2/devartexcel.exe">
+	 Click here to Download</a><br>
+  </td></tr>
+  
+	 <tr><td>
+	 <b> Date added: </b> 
+	   </td><td>
+     2017-06-29<br>
+  </td>
+ <td></td>
+	 <td>
+	 <b> Author: </b> 
+	   </td><td>
+     Ekaterina<br>
+  </td></tr>
+  
+	 <tr><td>
+	 <b> Runs on: </b> 
+	   </td><td>
+     Windows<br>
+  </td>
+ <td></td> 
+	 <td>
+	 <b> License: </b>
+  </td><td>	 
+     Shareware<br>
+	  </td></tr>
+	  
+	 <tr><td>	 
+	 <b> File Size: </b> 
+	   </td><td>
+     4857856<br>
+	   </td>
+<td></td>	 
+	 <td>
+	 <b> Downloads: </b> 
+	   </td><td>
+     <br>
+	   </td></tr>
+	   
+	   
+	 <tr><td>
+	 <b> Price: </b> 
+	   </td><td>
+     249.95<br>
+	   </td>
+	   
+	   <td></td>  
+   <td>
+	 <b> Listed in: </b>
+  </td><td>	 
+      <a href="" title="Business">Business</a> <br /></span>	
+	</td> 
+	   
+	   
+	 <td>	  
+
+	</td>    
+	 </tr>  
+	   </table>
+	 <br>  
+	 
+
+	 
+	</span> 
+</br>
+
+  <!-- added by abdu 7.21.16 end -->
+  
+  
+<!--removed by abdu check file removed ref 004 -->
+  
+
+  
+  <span class="headLeft">Visitor Comments (0):</span>
+<p class="noData">This Download currently has 0 comments. Add your own comment in the right hand menu.</p>
+  
+  <p>&nbsp;</p>
+
+</div>
+
+<div class="right">
+
+  <span class="headRight">Download Links:</span>
+  
+  <p class="rightP">
+        	<!--removed by abdu check file removed ref 001 -->
+		
+    	
+<a href="javascript:window.open('https://www.facebook.com/sharer/sharer.php?app_id=1787215761490596&sdk=joey&u=
+http%253A%252F%252Fdownloadspalace.com%252F%253Fp%253Drecipe%2526recipe%253D
+
+650
+&display=popup&ref=plugin&src=share_button', 'Share on Facebook', 'width=200,height=150');"><img src='http://downloadspalace.com/templates/images/facebook_share.png'/></a><br>
+
+<a href="https://twitter.com/share?hashtags=awesome,sharing&text=My Page Title or Something Else to share&via=MyTwitterHandle"><img src="http://downloadspalace.com/templates/images/twitter_share1.png" title="Share this page on Twitter" /></a>
+
+
+
+
+
+	
+	
+	
+    <span class="link"><a class="contact" href="http://downloadspalace.com/?p=contact-recipe&amp;recipe=650" title="Contact us about this Download">Contact us about this Download</a></span>
+    <span class="link"><a class="friend" href="http://downloadspalace.com/?p=tell-a-friend&amp;recipe=650" title="Tell a Friend about this Download">Tell a Friend about this Download</a></span>
+    
+	<!--removed by abdu check file removed ref 002 -->
+  </p>
+
+  <span class="headRightMid">Rate this Download:</span>
+<div class="ratingblock">
+<div id="unit_long650">
+  <ul id="unit_ul650" class="unit-rating" style="width:160px;">
+     <li class="current-rating" style="width:57.92px;">Currently 1.81/5</li>
+<li><a href="index.php?p=rating&amp;rsystem=rbar&amp;r=650&amp;j=1&amp;q=650&amp;t=128.82.7.26&amp;c=5" title="1 out of 5" class="r1-unit rater" rel="nofollow">1</a></li>
+<li><a href="index.php?p=rating&amp;rsystem=rbar&amp;r=650&amp;j=2&amp;q=650&amp;t=128.82.7.26&amp;c=5" title="2 out of 5" class="r2-unit rater" rel="nofollow">2</a></li>
+<li><a href="index.php?p=rating&amp;rsystem=rbar&amp;r=650&amp;j=3&amp;q=650&amp;t=128.82.7.26&amp;c=5" title="3 out of 5" class="r3-unit rater" rel="nofollow">3</a></li>
+<li><a href="index.php?p=rating&amp;rsystem=rbar&amp;r=650&amp;j=4&amp;q=650&amp;t=128.82.7.26&amp;c=5" title="4 out of 5" class="r4-unit rater" rel="nofollow">4</a></li>
+<li><a href="index.php?p=rating&amp;rsystem=rbar&amp;r=650&amp;j=5&amp;q=650&amp;t=128.82.7.26&amp;c=5" title="5 out of 5" class="r5-unit rater" rel="nofollow">5</a></li>
+  </ul>
+  <p>Rating: <strong> 1.8</strong>/5 (16 votes cast)  </p>
+</div>
+</div>
+
+  
+  <span class="headRightMid">Comment on this Download:</span>
+<p class="addCommWrap">
+
+<label style="padding-top:0">Your Name:</label>
+<input type="text" class="ac_box" name="name" id="name" value="" />
+
+<label>Your E-Mail (Not Published):</label>
+<input type="text" class="ac_box" name="ctct" id="ctct" value="" />
+
+<label>Your Comments:</label>
+<textarea name="comments" class="ac_textarea" id="comments" rows="4" cols="20"></textarea>
+
+<span class="ac_captcha_wrap">
+  <span class="ac_captcha_txt">For spam prevention, enter code:</span>
+  <span class="ac_captcha_image"><img src="index.php?p=comment-captcha" id="image" alt="" title="" /></span>
+  <span class="ac_captcha_code"><a href="#" onclick="document.getElementById('image').src = 'index.php?p=comment-captcha&amp;sid=' + Math.random(); return false" title="Click to refresh captcha code">Code</a>: <input type="text" class="ac_captcha_box" name="code" id="code" value="" /></span>
+  <br class="break" />
+</span>
+
+
+<span class="sc_button_area"><input onclick="addRecipeComment('650','Please complete all fields..','yes','yes');return false" class="ac_button" type="image" src="templates/images/add-comment.gif" alt="Comment on this Download" title="Comment on this Download" /></span>
+
+</p>
+  
+  <span class="headRightMid">Jump to Category:</span>
+  
+  <p class="rightP">
+    <select onchange="if(this.value!= 0){location=this.options[this.selectedIndex].value}">
+    <option value="0">- - - - - - - - - - - - - - - - - -</option>
+    <option value="?p=category&amp;cat=89"> Ads Space for Rent</option>
+<option value="?p=category&amp;cat=9"> Funny Pictures</option>
+<option value="?p=category&amp;cat=105">Appliance Manuals</option>
+<option value="?p=category&amp;cat=80">Audio</option>
+<option value="?p=category&amp;cat=95">Business</option>
+<option value="?p=category&amp;cat=106">Car Manuals</option>
+<option value="?p=category&amp;cat=96">Desktop</option>
+<option value="?p=category&amp;cat=91">Directory</option>
+<option value="?p=category&amp;cat=104">Diy Plans</option>
+<option value="?p=category&amp;cat=92">Domain Names</option>
+<option value="?p=category&amp;cat=85">Ebooks</option>
+<option value="?p=category&amp;cat=33">Games</option>
+<option value="?p=category&amp;cat=98">Home &amp; Education</option>
+<option value="?p=category&amp;cat=100">Internet</option>
+<option value="?p=category&amp;cat=14">Logo Design</option>
+<option value="?p=category&amp;cat=101">Multimedia</option>
+<option value="?p=category&amp;cat=103">Television Shows</option>
+<option value="?p=category&amp;cat=102">Utilities</option>
+<option value="?p=category&amp;cat=51">Videos</option>
+<option value="?p=category&amp;cat=97">Web Design &amp; Development</option>
+    </select>
+  </p>
+  
+  <span class="headRightMid">Other Downloads in this Category:</span>
+  
+  <p class="rightP">
+    <span class="link"><a href="http://downloadspalace.com/?p=recipe&amp;recipe=100" title="Portable Efficient Reminder Free">Portable Efficient Reminder Free</a></span>
+<span class="link"><a href="http://downloadspalace.com/?p=recipe&amp;recipe=105" title="Tipard PDF Converter Platinum">Tipard PDF Converter Platinum</a></span>
+<span class="link"><a href="http://downloadspalace.com/?p=recipe&amp;recipe=87" title="CustomerRegister 2">CustomerRegister 2</a></span>
+<span class="link"><a href="http://downloadspalace.com/?p=recipe&amp;recipe=92" title="RentBoss Single User">RentBoss Single User</a></span>
+<span class="link"><a href="http://downloadspalace.com/?p=recipe&amp;recipe=93" title="BS1 Enterprise Accounting">BS1 Enterprise Accounting</a></span>
+  </p>
+
+  <span class="headRightMid">Advertise here:  </span>
+  
+
+  <p class="victoriaP">
+  
+  <img class="displayed" src="http://downloadspalace.com/Ads/images/ad_downloadspalace_234x60_1.png">
+  
+  </p>
+  
+  <span class="headRightMid">Download Cloud Tags:</span>
+<div id="wrapCloud">
+  <ul id="cloudTags">
+  <li class="tag1"><a href="?p=search-free-recipes&amp;keys=devart&amp;filter=all&amp;cat=0" title="devart">devart</a></li>
+<li class="tag1"><a href="?p=search-free-recipes&amp;keys=usual&amp;filter=all&amp;cat=0" title="usual">usual</a></li>
+<li class="tag1"><a href="?p=search-free-recipes&amp;keys=database&amp;filter=all&amp;cat=0" title="database">database</a></li>
+<li class="tag1"><a href="?p=search-free-recipes&amp;keys=excel&amp;filter=all&amp;cat=0" title="excel">excel</a></li>
+<li class="tag1"><a href="?p=search-free-recipes&amp;keys=working&amp;filter=all&amp;cat=0" title="working">working</a></li>
+<li class="tag1"><a href="?p=search-free-recipes&amp;keys=includes&amp;filter=all&amp;cat=0" title="includes">includes</a></li>
+<li class="tag1"><a href="?p=search-free-recipes&amp;keys=allow&amp;filter=all&amp;cat=0" title="allow">allow</a></li>
+
+  </ul>
+  <br class="break" />
+</div>
+  
+  <div id="hitCount">
+    <span class="hitCountTxt">- Download Hit Count -</span>
+    <img src="templates/images/digits/0.gif" alt="0" title="0" /><img src="templates/images/digits/0.gif" alt="0" title="0" /><img src="templates/images/digits/1.gif" alt="1" title="1" /><img src="templates/images/digits/8.gif" alt="8" title="8" /><img src="templates/images/digits/0.gif" alt="0" title="0" /><img src="templates/images/digits/2.gif" alt="2" title="2" />  </div>
+  
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+
+</div>
+
+<br class="break" />
+
+</div>
+<!-- End Body Area -->
+
+<!-- Footer -->
+<div id="footer">
+ <p class="links"><a href="index.php" title="Home">Home</a>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+ <a href="?p=add-recipe" title="Add Download">Add Download</a>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+ <a href="?p=about-us" title="About Us">About Us</a>&nbsp;&nbsp;&#8226;&nbsp;&nbsp;
+ <a href="?p=contact-us" title="Contact Us">Contact Us</a></p>
+ <p class="copyright">Powered by <a href="http://www.DownloadsPalace.com/" onclick="window.open(this);return false" title="Downloads Palace v2.0"><b>Downloads Palace v2.0</b></a><br />&copy; 2006-2019 Oklahomies Script World. All Rights Reserved.</p>
+</div>
+<!-- End Footer -->
+
+</div>
+<!-- End Content Wrapper -->
+
+</div>
+<!-- End Site Wrapper -->
+
+<p>&nbsp;</p>
+<!-- For the addition of new comments ONLY -->
+<div id="msgCommentsAdded">
+ <p><img src="templates/images/ok.gif" alt="" title="" /></p>
+ <p class="text">Thank you, your comments will be reviewed shortly!</p>
+</div>
+<!-- End div -->
+</body>
+</html>

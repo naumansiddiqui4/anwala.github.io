@@ -1,0 +1,821 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr" />
+<meta http-equiv="Cache-Control" content="No-store, No-cache, Must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<meta http-equiv="Content-Language" content="ko">
+<meta http-equiv="imagetoolbar" content="no">
+<meta name="robots" content="index,follow" />
+
+<meta http-equiv="keywords" content="월드비전, 월드비젼, 아동후원, 아동결연, 긴급구호, 나눔, 후원">
+<meta name="description" content="당신의 착한 포기(Give Up)는 기아로 고통 받는 전 세계 7억 9천5백만 명을 살리는 기적이 됩니다.">
+<meta name="copyright" content="World Vision Korea" />
+
+
+<!-- FaceBook -->
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://www.worldvision.or.kr/campaign/2015/images_giveup/share_giveup.jpg" />
+<meta property="og:site_name" content="WorldVision Korea"/>
+<meta property="og:title" content="[월드비전] 2015 세계 식량의 날 특집 - 기부 업 캠페인" />
+<meta property="og:description" content="전 세계 배고픈 아이들을 위해 한 달에 한번 실천하는 착한 포기 기부 업(Give Up). 당신의 착한 포기는 아이들을 살리는 기적이 됩니다." /> 
+<meta property="og:url" content="http://www.worldvision.or.kr/campaign/2015/giveup.asp?mcode=3567" />
+<meta property="og:locale:alternate" content="ko_KR" />
+
+
+
+<link rel="stylesheet" type="text/css" href="/common/css/base.css" />
+<link rel="stylesheet" type="text/css" href="/common/css/util.css" />
+<link rel="stylesheet" type="text/css" href="images/campaign.css"/>
+
+<title>[월드비전] 기부 업 캠페인</title>
+
+<script language="javascript">
+<!--
+function setPng24(obj) {
+obj.width=obj.height=1;
+obj.className=obj.className.replace(/\bpng24\b/i,'');
+obj.style.filter =
+"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='"+ obj.src +"',sizingMethod='image');"
+obj.src='';
+return '';
+}
+
+ var slider;
+//-->
+	
+</script>
+
+<script type="text/javascript" src="/common/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/campaign/2015/images/jquery-scrolltofixed.js"></script>
+<script type="text/javascript" src="/Common/bxslider/jquery.bxslider.js"></script>
+
+<script type="text/javascript" src="http://adpick.co.kr/apis/apTracker.js"></script>
+
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+
+        var summaries = $('.btnArea');
+        summaries.each(function(i) {
+            var summary = $(summaries[i]);
+            var next = summaries[i + 1];
+
+            summary.scrollToFixed({
+                marginTop: $('#board_campaign_topmenu').outerHeight(true) ,
+                limit: function() {
+                    var limit = 0;
+                    if (next) {
+                        limit = $(next).offset().top - $(this).outerHeight(true)+1000;
+                    } else {
+                        limit = $('.footer').offset().top - $(this).outerHeight(true)+1000;
+                    }
+                    return limit;
+                },
+                zIndex: 999
+            });
+        });
+
+
+
+	slider = $('.bxslider').bxSlider( {
+		mode: 'fade',
+		captions: false,
+		keyboardEnabled: true,
+		auto : true,
+		autoStart : false,
+		autoControls: true
+	});
+
+});
+
+</script>
+
+<link rel="stylesheet" type="text/css" href="/Common/Css/NanumBarunGothic/nanumbarungothic_all.css">
+<link rel="stylesheet" type="text/css" href="/common/css/topmenu.css" />
+
+<style type="text/css">
+
+	.footer {width:100%; background:#fff; border-top:1px solid #b8b8b8; position:relative; text-align:center;z-index:999999;}
+	.footer * {margin:0; padding:0;}
+
+	#footer_business {clear:both;width:960px; height:167px; margin:0 auto; padding-top:8px; position:relative; background:#fff; text-align:left;} 
+	#footer_business .fmenu {position:absolute;top:62px; left:0;}
+	#footer_business .fmenu {position:absolute;top:18px; left:0;}/* 1103 수정 */
+	#footer_business .fmenu li {float:left; padding-right:13px; list-style:none;}/* 1103 수정 */
+	#footer_business .copy {position:absolute;top:122px; left:0;}
+	#footer_business .family01 {position:absolute;top:17px; right:165px; z-index:9999;}
+	#footer_business .family02 {position:absolute;top:17px; right:0; z-index:9999;}
+	#footer_business .family01 select, #footer_business .family02 select {width:155px;}
+	#footer_business .ngo {width:960px; position:absolute; top:50px; left:0;}/* 1103 수정 */
+	#footer_business .ngo ul {width:845px; padding-top:10px; overflow:hidden; } 
+	#footer_business .ngo ul li {float:left; padding-right:24px; list-style:none;}
+	
+	.giveupArea		{width:680px; height:260px; clear:both; list-style:none; margin-top:20px;}
+	.giveupArea .w220	{width:220px; height:200px; float:left; background:#f4f3ed; list-style:none; padding:30px 0px; text-align:center; font-size:13px; }
+	.giveupArea .w220 .txtSUB	{color:#8e4600; font-size:16px; font-weight:700;}
+	.giveupBOX	{width:620px; height:100%; padding:30px; clear:both; margin-bottom:40px; background:#f4f3ed;}
+	.giveupBOX table	{width:100%;}
+	.giveupBOX table th	{color:#8e4600; font-size:15px; font-weight:700; text-align:left; width:20%; background:url(images_giveup/table_border_right.gif) no-repeat right top; }
+	.giveupBOX table td	{font-size:13px; text-align:left;}
+
+
+
+
+
+
+
+	/** RESET AND LAYOUT
+	===================================*/
+	#photo_slider .bx-wrapper { position: relative; margin: 0 auto 0px; padding: 0; *zoom: 1; }
+	#photo_slider .bx-wrapper img { max-width: 100%; display: block; }
+
+	/** THEME
+	===================================*/
+	#photo_slider .bx-wrapper .bx-viewport { -moz-box-shadow: 0 0 0px #ccc; -webkit-box-shadow: 0 0 0px #ccc; box-shadow: 0 0 0px #ccc; border: solid #fff 0px; left: 0px; background: #fff; }
+
+	#photo_slider .bx-wrapper .bx-pager,
+	#photo_slider .bx-wrapper .bx-controls-auto { position: absolute; bottom: -20px; width: 100%; }
+
+	/* LOADER */
+	#photo_slider .bx-wrapper .bx-loading { min-height: 50px; background: url(/common/bxslider/images/bx_loader.gif) center center no-repeat #fff; height: 100%; width: 100%; position: absolute; top: 0; left: 0; z-index: 2000; }
+
+	/* PAGER */
+	#photo_slider .bx-wrapper .bx-pager { text-align: center; font-size: .85em; font-family: Arial; font-weight: normal; color: #ffffff; padding-top: 0px;  }
+	#photo_slider .bx-wrapper .bx-pager .bx-pager-item, .bx-wrapper .bx-controls-auto .bx-controls-auto-item { display: inline-block; *zoom: 1; *display: inline; }
+	#photo_slider .bx-wrapper .bx-pager.bx-default-pager a { background: #eaeaea; text-indent: -9999px; display: block; width: 8px; height: 8px; margin: 0 2px; padding-top:1px; outline: 0; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; color:ffaa66;}
+	#photo_slider .bx-wrapper .bx-pager.bx-default-pager a:hover, 
+	#photo_slider .bx-wrapper .bx-pager.bx-default-pager a.active { background: #ffaa66; color:#eaeaea; }
+
+	/* DIRECTION CONTROLS (NEXT / PREV) */
+	/*#photo_slider .bx-wrapper .bx-prev { left: 0px; background: url(/common/bxslider/images/controls_orange.png) no-repeat 0 -32px; }
+	#photo_slider .bx-wrapper .bx-next { right: 0px; background: url(/common/bxslider/images/controls_orange.png) no-repeat -43px -32px; }*/
+
+	#photo_slider .bx-wrapper .bx-prev { left: 15px; background: url(/aboutus/images_wv/arrow_l.png) no-repeat 0 0px; }
+	#photo_slider .bx-wrapper .bx-next { right: 15px; background: url(/aboutus/images_wv/arrow_r.png) no-repeat 0 0px; }
+
+	/*#photo_slider .bx-wrapper .bx-prev { left: 55px; background: url(/images/main/main_arrow.png) no-repeat 0 0px; }
+	#photo_slider .bx-wrapper .bx-next { right: 55px; background: url(/images/main/main_arrow.png) no-repeat -80px 0px; }*/
+
+	/*#photo_slider .bx-wrapper .bx-prev:hover { background-position: 0 0; }
+	#photo_slider .bx-wrapper .bx-next:hover { background-position: -43px 0; }*/
+	#photo_slider .bx-wrapper .bx-controls-direction a { position: absolute; top: 50%; margin-top: -31px; outline: 0; width: 62px; height: 62px; text-indent: -9999px; z-index: 9999; }
+	#photo_slider .bx-wrapper .bx-controls-direction a.disabled { display: none; }
+
+	/* AUTO CONTROLS (START / STOP) */
+	#photo_slider .bx-wrapper .bx-controls-auto { text-align: center; }
+	#photo_slider .bx-wrapper .bx-controls-auto .bx-start { display: block; text-indent: -9999px; width: 10px; height: 11px; outline: 0; background: url(/common/bxslider/images/controls.png) -86px -11px no-repeat; margin: 0 3px; }
+	#photo_slider .bx-wrapper .bx-controls-auto .bx-start:hover,
+	#photo_slider .bx-wrapper .bx-controls-auto .bx-start.active { background-position: -86px 0; }
+	#photo_slider .bx-wrapper .bx-controls-auto .bx-stop { display: block; text-indent: -9999px; width: 9px; height: 11px; outline: 0; background: url(/common/bxslider/images/controls.png) -86px -44px no-repeat; margin: 0 3px; }
+	#photo_slider .bx-wrapper .bx-controls-auto .bx-stop:hover,
+	#photo_slider .bx-wrapper .bx-controls-auto .bx-stop.active { background-position: -86px -33px; }
+
+	/* PAGER WITH AUTO-CONTROLS HYBRID LAYOUT */
+	#photo_slider .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-pager { text-align: left; width: 80%; }
+	#photo_slider .bx-wrapper .bx-controls.bx-has-controls-auto.bx-has-pager .bx-controls-auto { right: 0; width: 35px; }
+
+	/* IMAGE CAPTIONS */
+	#photo_slider .bx-wrapper .bx-caption { position: absolute; bottom: 0; left: 0; background: #666\9; background: rgba(80, 80, 80, 0.75); width: 100%; }
+	#photo_slider .bx-wrapper .bx-caption span { color: #fff; font-family: Arial; display: block; font-size: 10pt; padding: 10px; }
+
+
+
+</style>
+
+
+<script type="text/javascript">
+
+
+	function shareFB() {
+		ga('send','event','outbound','clicked','2015기부업 페이스북공유');
+		window.open('https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent('http://www.worldvision.or.kr/campaign/2015/giveup.asp?mcode=3567'), 'fb_share', 'width=600,height=450');
+	}
+
+</script>
+
+</head>
+
+<body>
+
+	<!-- 메인메뉴 -->
+	<div id="topmenu" >
+	<script type="text/javascript" src="/common/js/jquery.innerfade.js"></script>
+<script type="text/javascript">
+(function($){
+	$(document).ready(function(){
+
+		$('.wvlogo').innerfade({
+			speed: 1500,
+			timeout: 4000,
+			type: 'sequence',
+			containerheight:'50px'
+		});
+
+	//	$('.wvlogo').show();
+
+	});
+})(jQuery);
+
+</script>
+
+<script type="text/javascript">
+	function addFavorite(){
+		var title = document.title;
+		//var url = location.href;
+		var url = "http://www.worldvision.or.kr?mcode=3212";
+		if(window.sidebar && window.sidebar.addPanel){
+			window.sidebar.addPanel(title, url,"");
+		} else if(window.opera && window.print){
+			var elem = document.createElement('a');
+			elem.setAttribute('href',url);
+			elem.setAttribute('title',title);
+			elem.setAttribute('rel','sidebar');
+			elem.click();
+		} else if(document.all){
+			window.external.AddFavorite( url, title);
+		} else{
+			alert("해당브라우저는 즐겨찾기 추가기능이 지원되지 않습니다.\n\n수동으로 즐겨찾기에 추가해주세요.");
+			return true;
+		}
+	}
+
+
+	function addbookmark() {
+		var url = "http://www.worldvision.or.kr?mcode=3212";
+		var title = "[월드비전] 아동후원, 긴급구호, 기아체험, 사랑의빵, 북한사업";
+		var browser=navigator.userAgent.toLowerCase();
+		if (window.sidebar) {
+			window.sidebar.addPanel(title, url,"");
+		} else if( window.external) {
+			if (browser.indexOf('chrome')==-1){
+				window.external.AddFavorite( url, title);
+			} else {
+				alert('CTRL+D 또는 Command+D를 눌러 즐겨찾기에 추가해주세요.');
+			}
+		} else if(window.opera && window.print) {
+			var elem = document.createElement('a');
+			elem.setAttribute('href',url);
+			elem.setAttribute('title',title);
+			elem.setAttribute('rel','sidebar');
+			elem.click();
+			return true;
+		} else if (browser.indexOf('konqueror')!=-1) {
+			alert('CTRL+B를 눌러 즐겨찾기에 추가해주세요.');
+		} else if (browser.indexOf('webkit')!=-1){
+			alert('CTRL+B 또는 Command+B를 눌러 즐겨찾기에 추가해주세요.');
+		} else {
+			alert('사용하고 계시는 브라우저에서는 이 버튼으로 즐겨찾기를 추가할 수 없습니다. 수동으로 링크를 추가해주세요.')
+		}
+	}
+
+
+</script>
+
+
+
+<!-- top menu -->
+<div id="main2015_topmenu">
+	<dl>
+		<dt onmouseover="$('#broadcastlist').hide();"><a href="/sponsor/support/special/sp_company.asp" target="_blank" >기업 사회 공헌</a></dt>
+		<dt><a href="javascript:void(0);" onmouseover="$('#broadcastlist').show();">나눔 방송</a></dt>
+		<dd class="tvSub" style="display:none;" id="broadcastlist" onmouseout="$('#broadcastlist').hide();">
+			<ul onmouseover="$('#broadcastlist').show();">
+				<li onmouseover="$('#broadcastlist').show();"><a href="/campaign/ebsnanum.asp" target="_blank" >EBS 글로벌 프로젝트 나눔</a></li>
+				<li onmouseover="$('#broadcastlist').show();"><a href="/campaign/2015/sbsHopeTV2.asp" target="_blank" >희망TV SBS</a></li>
+				<li onmouseover="$('#broadcastlist').show();"><a href="/campaign/2015/healtheworld.asp" target="_blank" >CBS 힐더월드</a></li>
+				<li onmouseover="$('#broadcastlist').show();"><a href="/campaign/2015/childSupport4.asp" target="_blank" >위기아동캠페인</a></li>
+			</ul>
+		</dd>
+
+		<dt onmouseover="$('#broadcastlist').hide();"><a href="http://www.famine24.net" target="_blank" >기아체험</a></dt>
+
+		<dt><a href="http://www.wvadvocacy.or.kr" target="_blank" >변화를 위한 목소리</a></dt>
+
+		<dt class="dt_r"><a href="http://orangeact.worldvision.or.kr" target="_blank" >오렌지액트</a></dt>
+	</dl>
+
+	<dl class="dl_r" >
+	
+		<dt><a href="/html/common/login.asp?returnUrl=/campaign/2015/giveup.asp" >로그인</a></dt>
+	
+
+		<dt><a href="http://my.worldvision.or.kr/qna/faqList.asp" >온라인 상담</a></dt>
+
+		<dt><a href="/etc/topmenu/sitemap.asp" >사이트맵</a></dt>
+
+		<dt class="dt_r"><a href="javascript:addbookmark();" >즐겨찾기</a></dt>
+	</dl>
+</div>
+
+
+<!-- menu -->
+<div id="main2015_menu">
+  <dl>
+	<div style="position:absolute;">
+		<div class="wvlogo">
+			<li><a href="/" ><img src="/images/common/logo_50px_kor.gif" alt="월드비전" /></a></li>
+			<li><a href="/" ><img src="/images/common/logo_50px_eng.gif" alt="월드비전" /></a></li>
+		</div>
+	</div>
+
+	<div style="position:absolute;right:0px;">
+		<dt><a href="/sponsor/support/support_main.asp" >후원하기</a></dt>
+
+		<dt><a href="/business/worldvision/worldvision_main.asp" >월드비전</a></dt>
+
+		<dt><a href="/business/business/international_development/area_dev01.asp" >사업소개</a></dt>
+
+		<dt><a href="/sponsor/visionStory/hopebusiness/hope_list.asp" >스토리</a></dt>
+
+		<dt><a href="/sponsor/participation/wvCampaign/wvCampaign01_list.asp" >참여하기</a></dt>
+
+		<dt><a href="/business/dataCenter/worldNews/worldNews_list.asp" >자료센터</a></dt>
+
+		<dt class="myWV"><a href="http://my.worldvision.or.kr/main.asp" target="_blank" >나의 월드비전</a></dt>
+	</div>
+  </dl>
+</div>
+
+
+<script type="text/javascript">
+	$(document).ready(function() {
+
+		$('#gnb li a img').mouseover(function(){
+			var gnbname = $(this).attr('src');
+			$(this).attr('src', gnbname.replace('_off.gif','_on.gif'));
+		});
+		$('#gnb li a img').mouseout(function(){
+			var gnbname = $(this).attr('src');
+			if ($(this).attr('id') != '0000')
+			{
+				$(this).attr('src', gnbname.replace('_on.gif','_off.gif'));
+			}
+		});
+
+
+
+
+		$('#lnb li:not(.on, #lnb li ol li) img').mouseover(function(){
+			var filename = $(this).attr('src');
+			$(this).attr('src',filename.replace('_off.gif','_on.gif'));
+		});
+
+		$('#lnb li:not(.on, .depth) img').mouseout(function(){
+			var filename = $(this).attr('src');
+			if ($(this).attr('id') != '0000' && $(this).attr('id') != '0000')
+			{
+				$(this).attr('src',filename.replace('_on.gif','_off.gif'));
+			}
+		});
+
+		$('#lnb a').click(function(){
+			var a = $(this).attr('href');
+			if (a.length > 0)
+			{
+				location.href = a;
+			}
+		});
+	});
+</script>
+
+
+
+	</div>
+	<!-- //메인메뉴 -->
+<div id="board_campaign_head" style="background:url(images_giveup/topbg_C.jpg) center top repeat-x">
+	<p style="text-align:center; padding-top:60px;"><img src="images_giveup/top_title_c.png" alt="기부업 캠페인-굶주린 아이들을 위한, 착한 포기"/></p>   
+</div>
+<div id="board_campaign_body" style="height:1500px;">
+<!-- content start -->
+	<div class="contentArea">
+		<h1 class="pd_b20"><center><img src="images_giveup/cont_title.gif" alt="매일 2만5천명이 식량 위기로 죽어갑니다. 아동사망의 50%는 굶주림 때문입니다." /></center></h1>
+
+		<!--photo slide -->
+		<div class="galleryArea" id="photo_slider" style="overflow:hidden;height:370px;">
+		
+			<ul class="bxslider" id="bxslider">
+				<li><img src="images_giveup/gallery_01.jpg" id="pic01" alt="당신의 밥상은 얼마인가요?" title="당신의 밥상은 얼마인가요?" /></li>
+				<li><img src="images_giveup/gallery_02.jpg" id="pic02" alt="대한민국 직장인 평균 점심값 약 6500원<출처: 잡코리아 설문조사> 아프리카 아이의 한 끼 약 300원<출처: WFP>" title="대한민국 직장인 평균 점심값 약 6500원<출처: 잡코리아 설문조사> 아프리카 아이의 한 끼 약 300원<출처: WFP>" /></li>
+				<li><img src="images_giveup/gallery_03.jpg" id="pic03" alt="5세 미만 아동 사망 원인 1위 영양실조. 전 세계 9명 중 1명은 매일 굶주림에 고통 받습니다." title="5세 미만 아동 사망 원인 1위 영양실조. 전 세계 9명 중 1명은 매일 굶주림에 고통 받습니다." /></li>
+				<li><img src="images_giveup/gallery_04.jpg" id="pic04" alt="하사나 태어난 그해는 니제르가 가장 가물고 배고팠던 해. 10명 중 8명은 먹을 것을 찾아 헤매던 때. 엄마 젖도 제대로 빨아본 적이 없는 1살 하사나." title="하사나 태어난 그해는 니제르가 가장 가물고 배고팠던 해. 10명 중 8명은 먹을 것을 찾아 헤매던 때. 엄마 젖도 제대로 빨아본 적이 없는 1살 하사나." /></li>
+				<li><img src="images_giveup/gallery_05.jpg" id="pic05" alt="한 번도 무엇을 먹일까 고민해본 적이 없는 엄마. 엄마에게는 선택의 여지가 없습니다. 무엇이든 먹일 수만 있다면 좋을 텐데." title="한 번도 무엇을 먹일까 고민해본 적이 없는 엄마. 엄마에게는 선택의 여지가 없습니다. 무엇이든 먹일 수만 있다면 좋을 텐데." /></li>
+				<li><img src="images_giveup/gallery_06.jpg" id="pic06" alt="매일 왕복 18km를 걷는 여덟 살 탄틴. 누나와 함께 먼 길을 가는 이유는 우유 한 잔." title="매일 왕복 18km를 걷는 여덟 살 탄틴. 누나와 함께 먼 길을 가는 이유는 우유 한 잔." /></li>
+				<li><img src="images_giveup/gallery_07.jpg" id="pic07" alt="엄마가 종일 아이들을 위해 일을 해도 제대로 된 끼니를 먹일 수가 없고 탄틴은 매일 나뭇가지처럼 말라갑니다." title="엄마가 종일 아이들을 위해 일을 해도 제대로 된 끼니를 먹일 수가 없고 탄틴은 매일 나뭇가지처럼 말라갑니다." /></li>
+				<li><img src="images_giveup/gallery_08.jpg" id="pic08" alt="전 세계 기아인구 7억9천5백만 명. 이들은 내일도 오늘처럼 배고픈 하루를 보내게 되겠죠? 이들을 위해 나는 무엇을 할 수 있을까요?" title="전 세계 기아인구 7억9천5백만 명. 이들은 내일도 오늘처럼 배고픈 하루를 보내게 되겠죠? 이들을 위해 나는 무엇을 할 수 있을까요?"/>
+			</ul>
+
+		</div>
+        <!-- //photo slide -->
+
+        <h2><img src="images_giveup/cont_txt_01.gif" alt="배고픈 아이들에게 희망을 전하는 착한 포기, 기부 업" /></h2>
+
+		<p>한 달에 한 번 아이들을 위해 내가 실천할 기부 업은?</p>
+        <div class="giveupArea">
+        	<ul class="w220 mr_10">
+            	<li class="pd_b10"><img src="images_giveup/cont_img_01.gif" alt="달콤한 커피 2잔 기부 업 아프리카 영양실조 아동 1주일 치 영양 치료식"/></li>
+                <li class="txtSUB">달콤한 커피 2잔 기부 업 =</li>
+                <li>아프리카 영양실조 아동<br />1주일 치 영양 치료식</li>
+                <li class="pd_t10"><a href="https://my.worldvision.or.kr/sponsor/oneStopSelect.asp?code=2905&amount_cd=3101&moti=19284" target="_blank"><img src="images_giveup/cont_btn_01.gif" alt="1만원 기부 업 하기"/></a></li>
+            </ul>
+            <ul class="w220 mr_10">
+            	<li class="pd_b10"><img src="images_giveup/cont_img_02.gif" alt="맛있는 치킨 1마리 기부 업 아프리카 영양실조 아동 1주일 치 영양 치료식"/></li>
+                <li class="txtSUB">맛있는 치킨 1마리 기부 업 =</li>
+                <li>빈곤국가 6인 가족<br />3주 치 식량</li>
+                <li class="pd_t10"><a href="https://my.worldvision.or.kr/sponsor/oneStopSelect.asp?code=2905&amount_cd=3102&moti=19284" target="_blank"><img src="images_giveup/cont_btn_02.gif" alt="2만원 기부 업 하기"/></a></li>
+            </ul>
+            <ul class="w220">
+            	<li class="pd_b10"><img src="images_giveup/cont_img_03.gif" alt="근사한 외식 1번 기부 업 아프리카 영양실조 아동 1주일 치 영양 치료식"/></li>
+                <li class="txtSUB">근사한 외식 1번 기부 업 =</li>
+                <li>빈곤국가 6인 가족<br />한달 치 식량</li>
+                <li class="pd_t10"><a href="https://my.worldvision.or.kr/sponsor/oneStopSelect.asp?code=2905&amount_cd=3103&moti=19284" target="_blank"><img src="images_giveup/cont_btn_03.gif" alt="3만원 기부 업 하기"/></a></li>
+            </ul>
+      </div>
+      <p class="caption mg_b30">* 후원금은 수단, 남수단, 콩고민주공화국, 중앙아프리카공화국, 소말리아, 파키스탄의 식량위기대응사업에 사용됩니다.</p>
+
+        <h2><img src="images_giveup/cont_txt_02.gif" alt="월드비전이 당신의 착한 포기를 응원합니다." /></h2>
+		<p class="pd_b15">전 세계 배고픈 아이들을 위해 달콤한 커피, 맛있는 치킨, 근사한 외식을 포기한 당신께 월드비전이 커피, 치킨, 외식 상품권을 선물합니다.</p>
+        <div class="giveupBOX">
+        	<table border="0" cellpadding="0" cellspacing="0">
+              <tbody>
+              	<tr>
+                  <th>이벤트 기간</td>
+                  <td>2015.10.05~11.05</td>
+                </tr>
+                <tr>
+                  <th>추첨대상</td>
+                  <td>이벤트 기간 중 기부 업 정기후원 신청자</td>
+                </tr>
+                <tr>
+                  <th valign="top">당첨선물</td>
+                  <td>추첨을 통해 커피 2잔(1만원 후원), 치킨 한 마리(2만원 후원), 외식 상품권(3만원 후원)<br />기프티콘 각 10명씩 증정</td>
+                </tr>
+                <tr>
+                  <th>당첨발표</td>
+                  <td>캠페인 종료 후 개별 연락 예정</td>
+                </tr>
+              </tbody>
+            </table>
+      </div>
+        <h2><img src="images_giveup/cont_txt_03.gif" alt="월드비전은 굶주림 없는 세상을 위해 일합니다." /></h2>
+		<p style="position:relative" class="pd_b10"><span style="position:absolute; left:70px; top:-40px;"> 월드비전은 UN 산하 유엔세계식량계획(WFP)의 최장, 최대 공식협력기관으로 식량문제가 극심한 <span style="font-weight:700">전 세계 30개 국가에서 170개 이상의 식량 위기 대응 프로그램</span>을 진행하고 있습니다.</span></p>
+
+      <div class="cont_02_wrap pd_b40">
+            <div class="vod" id="vodplayer">
+            	<iframe src="https://player.vimeo.com/video/117546797?color=ff9933&title=0&byline=0&portrait=0" width="680" height="382" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            </div>
+        </div>
+
+	</div>
+  <!-- //content end -->
+  <!-- right sponsor -->
+	<div class="rightWrap" style="height:1860px;overflow:hidden;">
+		<!-- //scroll start	-->
+		<div class="btnArea">
+			<h1>전 세계 배고픈 아이들을 위한  착한 포기 기부 업(Give Up).<br />해외식량위기대응사업 후원하기</h1>
+
+		<a href="https://my.worldvision.or.kr/sponsor/oneStopSelect.asp?code=2905&amount_cd=3103&moti=19284" target="_blank"><img src="images_giveup/btn_sponsor.png" alt="기부 업 하기" /></a>
+
+            <!--아동이미지 추가 end-->
+			<!-- 관련 컨텐츠 start -->
+			<div class="rightContent">
+            <ul>
+					<li><a href="javascript:shareFB();"><img src="/campaign/images/btn_facebook.png" alt="페이스북 공유하기" /></a></li>
+			  </ul>
+				<ul>
+					<li class="cont_thumb"><a href="http://blog.worldvision.or.kr/220484881507" target="_blank" onclick="ga('send','event','outbound','clicked','짐바브웨의 자립을 위한 식량지원')"><img src="images_giveup/left_thumb_01.jpg" alt="짐바브웨의 자립을 위한 식량지원" /></a></li>
+					<li class="cont_title"><a href="http://blog.worldvision.or.kr/220484881507" target="_blank" onclick="ga('send','event','outbound','clicked','짐바브웨의 자립을 위한 식량지원')">#1 짐바브웨의 자립을 위한 식량지원</a></li>
+				</ul>
+                <ul>
+					<li class="cont_thumb"><a href="http://blog.worldvision.or.kr/220484896841" target="_blank" onclick="ga('send','event','outbound','clicked','#마을에 울려 퍼지는 기쁨의 노래')"><img src="images_giveup/left_thumb_02.jpg" alt="마을에 울려 퍼지는 기쁨의 노래" /></a></li>
+					<li class="cont_title"><a href="http://blog.worldvision.or.kr/220484896841" target="_blank" onclick="ga('send','event','outbound','clicked','마을에 울려 퍼지는 기쁨의 노래')">#2 마을에 울려 퍼지는 기쁨의 노래</a></li>
+				</ul>
+                <ul>
+					<li class="cont_thumb"><a href="http://blog.worldvision.or.kr/220484946156" target="_blank" onclick="ga('send','event','outbound','clicked','식량안보란 무엇일까?')"><img src="images_giveup/left_thumb_03.jpg" alt="식량안보란 무엇일까?" /></a></li>
+					<li class="cont_title"><a href="http://blog.worldvision.or.kr/220484946156" target="_blank" onclick="ga('send','event','outbound','clicked','식량안보란 무엇일까?')">#3 (칼럼) 식량안보란 무엇일까?</a></li>
+				</ul>
+			</div>
+			<!-- 관련 컨텐츠 END -->
+		</div>
+		<!-- //scroll  end-->
+	</div>
+  <!-- //right sponsor  end-->
+</div>
+
+
+<div id="board_campaign_foot">
+   
+<script type="text/javascript">
+<!--
+
+	function addbookmark() {
+		var url = "?mcode=3212";
+		var title = "[월드비전] 아동후원, 긴급구호, 기아체험, 사랑의빵, 북한사업";
+		var browser=navigator.userAgent.toLowerCase();
+		if (window.sidebar) {
+			window.sidebar.addPanel(title, url,"");
+		} else if( window.external) {
+			if (browser.indexOf('chrome')==-1){
+				window.external.AddFavorite( url, title);
+			} else {
+				alert('CTRL+D 또는 Command+D를 눌러 즐겨찾기에 추가해주세요.');
+			}
+		} else if(window.opera && window.print) {
+			var elem = document.createElement('a');
+			elem.setAttribute('href',url);
+			elem.setAttribute('title',title);
+			elem.setAttribute('rel','sidebar');
+			elem.click();
+			return true;
+		} else if (browser.indexOf('konqueror')!=-1) {
+			alert('CTRL+B를 눌러 즐겨찾기에 추가해주세요.');
+		} else if (browser.indexOf('webkit')!=-1){
+			alert('CTRL+B 또는 Command+B를 눌러 즐겨찾기에 추가해주세요.');
+		} else {
+			alert('사용하고 계시는 브라우저에서는 이 버튼으로 즐겨찾기를 추가할 수 없습니다. 수동으로 링크를 추가해주세요.')
+		}
+	}
+
+
+//-->
+</script>
+
+<style type="text/css">
+<!--
+
+/* Sub_Footer_20160422_수정
+-----------------------------------------------------------------------------*/
+.sub_footer_wrap {text-align:left; position:relative; min-width:960px; background:#fff; border-top: 1px solid #ddd;}
+.sub_footer {position: relative; width: 960px; height:auto; margin: 0 auto; padding: 30px 0 30px 0; background:#fff; }
+.sub_footer .menu { margin-bottom: 20px; font-family:"nanum gothic"}
+.sub_footer .menu a {font-size: 14px; color: #999; margin-right: 15px; font-weight: 600;}
+.sub_footer .menu a span { display: inline-block; vertical-align: text-bottom;}
+
+.sub_footer .menu2 { position: absolute; margin-bottom: 20px; right: 0; top: 30px; font-family:"nanum gothic"}
+.sub_footer .menu2 a {font-size: 14px; color: #999; margin-left: 7px; font-weight: 600;}
+.sub_footer .menu2 a span { display: inline-block; vertical-align: text-bottom;}
+.sub_footer .menu2 a .facebook { width: 16px; height: 15px; background:url(/images/main/sns_14.png) no-repeat -15px 0;}
+.sub_footer .menu2 a .instagram { width: 16px; height: 15px; background:url(/images/main/sns_14.png) no-repeat -15px -15px;}
+.sub_footer .menu2 a .twitter { width: 16px; height: 15px; background:url(/images/main/sns_14.png) no-repeat -15px -30px;}
+.sub_footer .menu2 a .blog { width: 16px; height: 15px; background:url(/images/main/sns_14.png) no-repeat -15px -45px;}
+.sub_footer .menu2 a .youtube { width: 16px; height: 15px; background:url(/images/main/sns_14.png) no-repeat -15px -60px;}
+
+.sub_footer .copyright { display: block; font-size: 12px; line-height: 18px; color: #999; margin-bottom:30px; font-family:"nanum gothic"}
+.sub_footer .copyright span { display: block; margin-bottom: 10px;}
+
+.sub_footer_select  { display: block; position: relative;}
+.sub_footer_select .select_wrap { display: block; float: left; width:188px; height:30px; border: 1px solid #ddd; background:transparent; margin-top: 10px; margin-bottom: 20px;   margin-right: 10px;}
+.sub_footer_select .select_wrap form select { width:170px;}
+
+
+
+-->
+</style>
+
+<div class="sub_footer_wrap">
+	<div class="sub_footer">
+		<p class="menu">
+
+			<a href="/etc/footmenu/info_privacyPolicy.asp" onclick="ga('send','event','PC캠페인','푸터','개인정보처리방침');">개인정보처리방침</a>
+			<a href="/etc/footmenu/child_protect.asp" onclick="ga('send','event','PC캠페인','푸터','아동보호정책');" >아동보호정책</a>
+			<a href="/etc/footmenu/use_terms.asp" onclick="ga('send','event','PC캠페인','푸터','이용약관');" >이용약관</a>
+			<a href="/etc/footmenu/mail_collectRefuse.asp" onclick="ga('send','event','PC캠페인','푸터','이메일수집거부');" >이메일 무단 수집거부</a>
+			<a href="/business/worldvision/recruitment/recruitment_list.asp" onclick="ga('send','event','PC캠페인','푸터','인재채용');" >인재채용</a>
+			<a href="/eng/main.asp" target="_blank" onclick="ga('send','event','PC캠페인','푸터','ENGLISH');" >ENGLISH</a>
+		
+			<a href="https://my.worldvision.or.kr/hope/faq.asp" onclick="ga('send','event','PC서브','푸터','FAQ');" >FAQ</a>
+		
+			<a href="https://my.worldvision.or.kr/hope/myworld_qna.asp" onclick="ga('send','event','PC서브','푸터','온라인상담');" >온라인상담</a>
+			<a href="/etc/topmenu/sitemap.asp" onclick="ga('send','event','PC캠페인','푸터','사이트맵');" >사이트맵 </a>
+			<a href="javascript:addbookmark();" onclick="ga('send','event','PC캠페인','푸터','즐겨찾기');" >즐겨찾기</a>
+		</p>
+		<!--p class="menu2">
+			<a href="http://www.facebook.com/worldvisionkorea" target="_blank" onclick="ga('send','event','PC캠페인','푸터','페이스북');" ><span class="facebook"></span>&nbsp;페이스북</a>
+			<a href="https://www.instagram.com/worldvisionkorea" target="_blank" onclick="ga('send','event','PC캠페인','푸터','인스foa타그램');" ><span class="instagram"></span>&nbsp;인스타그램</a>
+			<a href="https://twitter.com/wvkorea" target="_blank" onclick="ga('send','event','PC캠페인','푸터','트위터');" ><span class="twitter"></span>&nbsp;트위터</a>
+			<a href="http://blog.worldvision.or.kr" target="_blank" onclick="ga('send','event','PC캠페인','푸터','블로그');" ><span class="blog"></span>&nbsp;블로그</a>
+			<a href="http://www.youtube.com/worldvisionkorea" target="_blank" onclick="ga('send','event','PC캠페인','푸터','유투브');" ><span class="youtube"></span>&nbsp;유투브</a>
+
+		</p-->
+
+		<p class="copyright">
+			<span>국제구호개발옹호 NGO 월드비전은 전세계 100여개 나라에서 1억명의 지구촌 어린이와 이웃을 위해 일합니다. <br>
+			WFP 최대 공식협력기관 &nbsp; | &nbsp; 2010 호암상 사회복지상 대상 수상 &nbsp; | &nbsp; 2010 대한민국 BSC 전략경영대상 수상 &nbsp; | &nbsp; 제 3회 삼일투명경영대상 수상기관<br></span>
+			서울시 영등포구 여의나루로 77-1 (07327) 사회복지법인 월드비전 &nbsp; | &nbsp; 사업자번호 116-82-00276 | 회장 양호승<br>
+			대표전화 02-2078-7000 &nbsp; | &nbsp; 상담시간 (월~금) 09:00~18:00
+		</p>
+
+	</div>
+
+
+
+<iframe src="/wvinfo/wvinfo_frame.asp?Q_HTTP_HOST=www%2Eworldvision%2Eor%2Ekr&Q_HTTP_REFERER=&Q_INFO_PATH=%2Fcampaign%2F2015%2Fgiveup%2Easp&Q_QUERY_STRING=utm%5Fsource%3Dadpicpc%26utm%5Fmedium%3Dbanner%26utm%5Fcampaign%3Dgiveup%26mcode%3D3576%26%5Fcode%3D4042344&Q_MCODE=3576&Q_TEST=B" width="0" height="0" frameborder="0" id="wvinfo" style="display:none;"></iframe>
+
+
+	<!-- ////////////////////////// Cresendo -->
+
+<script type="text/javascript" src="/wvinfo/js/buildV63.js"></script>
+
+
+
+	<!-- ////////////////////////// CRESENDO END -->
+
+	<!-- Mobon Tracker v3.1 [������] start -->
+	
+	<!-- Mobon Tracker v3.1 [������] end -->
+
+
+
+	<!-- ////////////////////////// NAVER -->
+	<script type="text/javascript" src="//wcs.naver.net/wcslog.js"> </script> 
+	
+	<script type="text/javascript"> 
+	if (!wcs_add) var wcs_add={};
+	wcs_add["wa"] = "s_150adf83085b";
+	if (!_nasa) var _nasa={};
+	wcs.inflow("worldvision.or.kr");
+	wcs_do(_nasa);
+	</script>
+	<!-- ////////////////////////// NAVER END -->
+
+	<!-- ////////////////////////// GOOGLE REMARKETING -->
+	
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 971761843;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/971761843/?value=0&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+	
+	<!-- ////////////////////////// GOOGLE REMARKETING END -->
+
+	<!-- ////////////////////////// DAUM -->
+	
+	<script type="text/javascript">
+		var roosevelt_params = {
+			retargeting_id:'z9WJ_y.V_Gqpeptpy71ALw00',
+			tag_label:'1p4sngGvQTeU05j9HYAxgw'
+			};
+	</script>
+	<script type="text/javascript" src="//adimg.daumcdn.net/rt/roosevelt.js" async></script>
+	
+	<!-- ////////////////////////// DAUM END -->
+
+	<!-- ////////////////////////// NEOCLICK -->
+	
+	<!-- ////////////////////////// NEOCLICK END -->
+
+
+	<!-- ////////////////////////// FACEBOOK -->
+	<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '153269305319302');
+	fbq('track', "PageView");
+	
+	fbq('track', 'Lead');
+	
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=153269305319302&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- ////////////////////////// FACEBOOK END -->
+
+	<!-- ////////////////////////// KAKAO -->
+	
+	<!-- ////////////////////////// KAKAO END -->
+
+	<!-- ////////////////////////// TX -->
+	
+	<script type="text/javascript" src="//static.tagmanager.toast.com/tag/view/410"></script>
+	<script type="text/javascript">
+	window.ne_tgm_q = window.ne_tgm_q || [];
+	window.ne_tgm_q.push(
+	{
+	    tagType: 'visit',
+	    device:'web'/*web*/,
+	    pageEncoding:'utf-8'
+	});
+	</script>
+		
+	<!-- ////////////////////////// TX END -->
+
+
+	<!-- ////////////////////////// MEDIA CUBE -->
+	
+	<script type="text/javascript" src='//pixel.mathtag.com/event/js?mt_id=1052176&mt_adid=168919&v1=&v2=&v3=&s1=&s2=&s3='></script>
+		
+	<!-- ////////////////////////// MEDIA CUBE END -->
+
+
+	<!-- ////////////////////////// TABOOLA -->
+	<script type='text/javascript'>
+  	window._tfa = window._tfa || [];
+  	window._tfa.push({notify: 'event', name: 'page_view'});
+  	!function (t, f, a, x) {
+         if (!document.getElementById(x)) {
+            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
+         }
+  	}(document.createElement('script'),
+  	document.getElementsByTagName('script')[0],
+  	'//cdn.taboola.com/libtrc/unip/1139943/tfa.js',
+  	'tb_tfa_script');
+	</script>
+	<noscript>
+  	<img src='//trc.taboola.com/1139943/log/3/unip?en=page_view'
+      width='0' height='0' style='display:none'/>
+	</noscript>
+	<!-- ////////////////////////// TABOOLA END -->
+
+
+
+	<!-- ////////////////////////// WIDERPLANET -->
+	
+	<div id="wp_tg_cts" style="display:none;"></div>
+	<script type="text/javascript">
+	var wptg_tagscript_vars = wptg_tagscript_vars || [];
+	wptg_tagscript_vars.push(
+	(function() {
+		return {
+			wp_hcuid:"",
+			ti:"12342",
+			ty:"Home",
+			device:"web"
+			
+		};
+	}));
+	</script>
+	<script type="text/javascript" async src="//cdn-aitg.widerplanet.com/js/wp_astg_4.0.js"></script>
+		
+	<!-- ////////////////////////// WIDERPLANET END -->
+
+	<!-- ////////////////////////// A SQUARE END -->
+	
+	<script type="text/javascript">
+	var _nSA=(function(_g,_c,_s,_p,_d,_i,_h){ 
+		if(_i.wgc!=_g){var _ck=(new Image(0,0)).src=_p+'//'+_c+'/?cookie';_i.wgc=_g;_i.wrd=(new Date().getTime());
+		var _sc=_d.createElement('script');_sc.src=_p+'//sas.nsm-corp.com/'+_s+'gc='+_g+'&dn='+escape(_h)+'&rd='+_i.wrd;
+		var _sm=_d.getElementsByTagName('script')[0];_sm.parentNode.insertBefore(_sc, _sm);_i.wgd=_c;} return _i;
+	})('CF2B40474017517','ngc18.nsm-corp.com','sa-w.js?',location.protocol,document,window._nSA||{},location.hostname);
+	</script><noscript><img src="//ngc18.nsm-corp.com/?uid=CF2B40474017517&je=n&" border=0 width=0 height=0></noscript>
+	
+	<!-- ////////////////////////// A SQUARE END -->
+
+
+	<!-- ////////////////////////// MOUSEFLOW -->
+	
+	<script type="text/javascript">
+		var _mfq = _mfq || [];
+		(function() {
+			var mf = document.createElement("script");
+			mf.type = "text/javascript"; mf.async = true;
+			mf.src = "//cdn.mouseflow.com/projects/8925d2f1-e3f9-4c18-9292-4e72ee2095a2.js";
+			document.getElementsByTagName("head")[0].appendChild(mf);
+		})();
+	</script>
+	
+	<!-- ////////////////////////// MOUSEFLOW END -->
+
+
+
+<!--  ////////////////////////// Emforce ROI Tag Start--> 
+<script src = "/wvinfo/js/general_gd.js"></script>
+
+
+<!--  ////////////////////////// Emforce ROI Tag End--> 
+
+
+
+
+
+
+<style type="text/css">
+   <!--
+	html body iframe[name=google_conversion_frame] { display:none; visibility:hidden; height:0 !important; }
+   -->
+</style>
+
+
+
+</div>
+
+
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,547 @@
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Book Tweeters | We tweet your book! Twitter book promotion!</title>
+<link rel="pingback" href="http://booktweeters.com/xmlrpc.php"><link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Book Tweeters &raquo; Feed" href="http://booktweeters.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Book Tweeters &raquo; Comments Feed" href="http://booktweeters.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Book Tweeters &raquo; HOME Comments Feed" href="http://booktweeters.com/home/feed/" />
+
+<script type="text/javascript" data-cfasync="false">
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-33248228-4';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-33248228-4', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+
+ <script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/booktweeters.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='x-stack-css' href='http://booktweeters.com/wp-content/themes/x/framework/dist/css/site/stacks/icon.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_reset_css-css' href='http://booktweeters.com/wp-content/plugins/gravityforms/css/formreset.min.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css' href='http://booktweeters.com/wp-content/plugins/gravityforms/css/formsmain.min.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css' href='http://booktweeters.com/wp-content/plugins/gravityforms/css/readyclass.min.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css' href='http://booktweeters.com/wp-content/plugins/gravityforms/css/browsers.min.css?ver=2.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='x-gravity-forms-css' href='http://booktweeters.com/wp-content/themes/x/framework/dist/css/site/gravity_forms/icon.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='x-cranium-migration-css' href='http://booktweeters.com/wp-content/themes/x/framework/legacy/cranium/dist/css/site/icon.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='x-child-css' href='http://booktweeters.com/wp-content/themes/x-child/style.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gform_coupon_style-css' href='http://booktweeters.com/wp-content/plugins/gravityformscoupons/css/gcoupons.min.css?ver=2.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://booktweeters.com/wp-content/plugins/takereal-twitter-text/js/twitter-text.js?ver=4.9.9'></script>
+<script type='text/javascript' src='http://booktweeters.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://booktweeters.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://booktweeters.com/wp-content/plugins/takereal-twitter-text/js/takereal-twitter-text.js?ver=4.9.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/booktweeters.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://booktweeters.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=7.0.6'></script>
+<script type='text/javascript' src='http://booktweeters.com/wp-content/plugins/cornerstone/assets/dist/js/site/cs-head.js?ver=3.1.4'></script>
+<script type='text/javascript' src='http://booktweeters.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file is not allowed. Must be one of the following: ","delete_file":"Delete this file","in_progress":"in progress","file_exceeds_limit":"File exceeds size limit","illegal_extension":"This type of file is not allowed.","max_reached":"Maximum number of files reached","unknown_error":"There was a problem while saving the file on the server","currently_uploading":"Please wait for the uploading to complete","cancel":"Cancel","cancel_upload":"Cancel this upload","cancelled":"Cancelled"},"vars":{"images_url":"http:\/\/booktweeters.com\/wp-content\/plugins\/gravityforms\/images"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://booktweeters.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.2.3'></script>
+<script type='text/javascript' src='http://booktweeters.com/wp-content/plugins/gravityforms/js/conditional_logic.min.js?ver=2.2.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gform_coupon_script_strings = {"ajaxurl":"http:\/\/booktweeters.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://booktweeters.com/wp-content/plugins/gravityformscoupons/js/coupons.min.js?ver=2.6'></script>
+<link rel='https://api.w.org/' href='http://booktweeters.com/wp-json/' />
+<link rel="canonical" href="http://booktweeters.com/" />
+<link rel='shortlink' href='http://booktweeters.com/' />
+<link rel="alternate" type="application/json+oembed" href="http://booktweeters.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbooktweeters.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://booktweeters.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fbooktweeters.com%2F&#038;format=xml" />
+
+<script>
+jQuery(function($){
+	$("#imageurl").on("keyup",function(){
+		$.post("http://booktweeters.com/tweet-image/index.php",{ "tweet_url":$("#imageurl").val() },function(data){
+			if(data){
+				$("#message").html(data);
+			}
+		});
+	});
+});
+</script>
+
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '340182546143699']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=340182546143699&amp;ev=PixelInitialized" /></noscript>
+<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+#input_1_21_3, #input_1_22_3, #input_1_23_3, #input_1_24_3, #input_1_25_3 {
+width: 70px;
+}		</style>
+<style id="x-generated-css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,#respond .required,.x-pagination a:hover,.x-pagination span.current,.widget_tag_cloud .tagcloud a:hover,.widget_product_tag_cloud .tagcloud a:hover,.x-scroll-top:hover,.x-comment-author a:hover,.mejs-button button:hover{color:#008bc6;}a:hover{color:#677b8c;}a.x-img-thumbnail:hover,textarea:focus,input[type="text"]:focus,input[type="password"]:focus,input[type="datetime"]:focus,input[type="datetime-local"]:focus,input[type="date"]:focus,input[type="month"]:focus,input[type="time"]:focus,input[type="week"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="color"]:focus,.uneditable-input:focus,.x-pagination a:hover,.x-pagination span.current,.widget_tag_cloud .tagcloud a:hover,.widget_product_tag_cloud .tagcloud a:hover,.x-scroll-top:hover{border-color:#008bc6;}.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.x-portfolio-filters,.x-entry-share .x-share:hover,.widget_price_filter .ui-slider .ui-slider-range,.mejs-time-current{background-color:#008bc6;}.x-portfolio-filters:hover{background-color:#677b8c;}.entry-title:before{display:none;}.x-comment-author,.x-comment-time,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label{font-family:""Open Sans",sans-serif";}.x-comment-time,.entry-thumb:before,.p-meta{color:rgb(58,57,57);}.entry-title a:hover,.x-comment-author,.x-comment-author a,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.x-accordion-heading .x-accordion-toggle,.x-nav-tabs > li > a:hover,.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover,.mejs-button button{color:#0f90c7;}.h-comments-title small,.h-feature-headline span i,.x-portfolio-filters-menu,.mejs-time-loaded{background-color:#0f90c7 !important;}@media (min-width:1200px){.x-sidebar{width:250px;}body.x-sidebar-content-active,body[class*="page-template-template-blank"].x-sidebar-content-active.x-blank-template-sidebar-active{padding-left:250px;}body.x-content-sidebar-active,body[class*="page-template-template-blank"].x-content-sidebar-active.x-blank-template-sidebar-active{padding-right:250px;}}html{font-size:21px;}@media (min-width:480px){html{font-size:21px;}}@media (min-width:767px){html{font-size:21px;}}@media (min-width:979px){html{font-size:21px;}}@media (min-width:1200px){html{font-size:21px;}}body{font-style:normal;font-weight:400;color:rgb(58,57,57);background-color:rgb(3,62,86);}.w-b{font-weight:400 !important;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Open Sans",sans-serif;font-style:normal;font-weight:800;}h1,.h1{letter-spacing:-0.035em;}h2,.h2{letter-spacing:-0.035em;}h3,.h3{letter-spacing:-0.035em;}h4,.h4{letter-spacing:-0.035em;}h5,.h5{letter-spacing:-0.035em;}h6,.h6{letter-spacing:-0.035em;}.w-h{font-weight:800 !important;}.x-container.width{width:88%;}.x-container.max{max-width:1200px;}.site,.x-site{width:88%;max-width:1200px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:1rem;}body,input,button,select,textarea{font-family:"Lato",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:#0f90c7;}.cfc-h-tx{color:#0f90c7 !important;}.cfc-h-bd{border-color:#0f90c7 !important;}.cfc-h-bg{background-color:#0f90c7 !important;}.cfc-b-tx{color:rgb(58,57,57) !important;}.cfc-b-bd{border-color:rgb(58,57,57) !important;}.cfc-b-bg{background-color:rgb(58,57,57) !important;}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:#008bc6;background-color:#0f90c7;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #8c7e82,0 4px 9px rgba(0,0,0,0.75);border-radius:100em;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#ffffff;border-color:#333333;background-color:#565656;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #939393,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #8c7e82,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #939393,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}body .gform_wrapper .gfield_required{color:#008bc6;}body .gform_wrapper h2.gsection_title,body .gform_wrapper h3.gform_title,body .gform_wrapper .top_label .gfield_label,body .gform_wrapper .left_label .gfield_label,body .gform_wrapper .right_label .gfield_label{font-weight:800;}body .gform_wrapper h2.gsection_title{letter-spacing:-0.035em !important;}body .gform_wrapper h3.gform_title{letter-spacing:-0.035em !important;}body .gform_wrapper .top_label .gfield_label,body .gform_wrapper .left_label .gfield_label,body .gform_wrapper .right_label .gfield_label{color:#0f90c7;}body .gform_wrapper .validation_message{font-weight:400;}.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li a{color:#999999;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a{color:#272727;}.x-navbar .desktop .x-nav > li > a{height:90px;padding-top:37px;}.x-navbar .desktop .x-nav > li ul{top:90px;}@media (min-width:1200px){body.x-sidebar-content-active .x-widgetbar,body.x-sidebar-content-active .x-navbar-fixed-top,body[class*="page-template-template-blank"].x-sidebar-content-active.x-blank-template-sidebar-active .x-widgetbar,body[class*="page-template-template-blank"].x-sidebar-content-active.x-blank-template-sidebar-active .x-navbar-fixed-top{left:250px;}body.x-content-sidebar-active .x-widgetbar,body.x-content-sidebar-active .x-navbar-fixed-top,body[class*="page-template-template-blank"].x-content-sidebar-active.x-blank-template-sidebar-active .x-widgetbar,body[class*="page-template-template-blank"].x-content-sidebar-active.x-blank-template-sidebar-active .x-navbar-fixed-top{right:250px;}}@media (max-width:979px){}.x-navbar.x-navbar-fixed-top.x-container.max.width{width:88%;max-width:1200px;}.x-navbar-inner{min-height:90px;}.x-brand{margin-top:22px;font-family:"Open Sans",sans-serif;font-size:42px;font-style:normal;font-weight:700;letter-spacing:-0.035em;color:#272727;}.x-brand:hover,.x-brand:focus{color:#272727;}.x-brand img{width:100px;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Lato",sans-serif;font-style:normal;font-weight:700;letter-spacing:0.085em;text-transform:uppercase;}.x-navbar .desktop .x-nav > li > a{font-size:13px;}.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce){padding-left:20px;padding-right:20px;}.x-navbar .desktop .x-nav > li > a > span{padding-right:calc(1.25em - 0.085em);}.x-btn-navbar{margin-top:20px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:24px;}@media (max-width:979px){.x-widgetbar{left:0;right:0;}}.gform_wrapper li.field_description_above .gfield_description{font-size:16px;color:#333;}.gform_wrapper .top_label .gsection_description{font-size:16px;color:#333;}body .gform_wrapper .top_label .gfield_label{font-weight:600;color:#0078a6;}.pulse_section{color:#b52025 !important;}body #gform_wrapper_11 .gform_body .gform_fields .gsection .gsection_title{color:#b52025 !important;}</style><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Open+Sans:800,700&#038;subset=latin,latin-ext" type="text/css" media="all" data-x-google-fonts /></head>
+<body class="home page-template page-template-template-blank-4 page-template-template-blank-4-php page page-id-5 x-icon x-boxed-layout-active x-full-width-active x-post-meta-disabled x-page-title-disabled x-child-theme-active x-navbar-static-active x-v6_1_4 cornerstone-v3_1_4">
+<div id="x-root" class="x-root">
+<div id="top" class="site">
+
+<header class="masthead masthead-inline" role="banner">
+
+ 
+<div class="x-navbar-wrap">
+<div class="x-navbar">
+<div class="x-navbar-inner">
+<div class="x-container max width">
+
+<h1 class="visually-hidden">Book Tweeters</h1>
+<a href="http://booktweeters.com/" class="x-brand img" title="We tweet your book! Twitter book promotion!">
+<img src="//booktweeters.com/wp-content/uploads/2014/05/logo3.jpg" alt="We tweet your book! Twitter book promotion!"></a> 
+<a href="#" id="x-btn-navbar" class="x-btn-navbar collapsed" data-x-toggle="collapse-b" data-x-toggleable="x-nav-wrap-mobile" aria-selected="false" aria-expanded="false" aria-controls="x-widgetbar">
+<i class="x-icon-bars" data-x-icon="&#xf0c9;"></i>
+<span class="visually-hidden">Navigation</span>
+</a>
+<nav class="x-nav-wrap desktop" role="navigation">
+<ul id="menu-sidebar" class="x-nav"><li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-109"><a href="http://booktweeters.com/#home"><span>Home</span></a></li>
+<li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-98"><a href="http://booktweeters.com/#howitworks"><span>How It Works</span></a></li>
+<li id="menu-item-65" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-65"><a href="http://booktweeters.com/#pricing"><span>Pricing</span></a></li>
+<li id="menu-item-78" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://booktweeters.com/contact-us/"><span>Contact Us</span></a></li>
+</ul></nav>
+<div id="x-nav-wrap-mobile" class="x-nav-wrap mobile x-collapsed" data-x-toggleable="x-nav-wrap-mobile" data-x-toggle-collapse="1" aria-hidden="true" aria-labelledby="x-btn-navbar">
+<ul id="menu-sidebar-1" class="x-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-109"><a href="http://booktweeters.com/#home"><span>Home</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-98"><a href="http://booktweeters.com/#howitworks"><span>How It Works</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-65"><a href="http://booktweeters.com/#pricing"><span>Pricing</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a href="http://booktweeters.com/contact-us/"><span>Contact Us</span></a></li>
+</ul></div>
+</div>
+</div>
+</div>
+</div>
+
+</header>
+<div class="x-main full" role="main">
+
+<article id="post-5" class="post-5 page type-page status-publish hentry no-post-thumbnail">
+<div class="entry-wrap">
+
+<div class="entry-content content">
+<div id="home"></div>
+<div id="x-content-band-1" class="x-content-band border-bottom man" style="background-color: #fff;"><div class="x-container max width"> <h2 class="h-custom-headline center-text accent" style="margin-top: 0px !important;"><span>We Tweet Your Books</span></h2> </div></div>
+<div id="x-content-band-2" class="x-content-band bg-image man" data-x-element="content_band" data-x-params="{&quot;type&quot;:&quot;image&quot;,&quot;parallax&quot;:false}" style="background-image: url(http://booktweeters.com/wp-content/uploads/2014/04/tweet-draw.jpg); background-color: transparent; border-top: 5px #0b74a1 solid;border-bottom: 5px #0b74a1 solid;"><div class="x-container max width"> <div class="x-column x-sm x-4-5" style="color:#06374c;">
+<i class="x-icon x-icon-toggle-right" data-x-icon="&#xf152;" aria-hidden="true"></i> Doing a free promo? <strong style="color:#0277a9;">We tweet those!</strong><br /><i class="x-icon x-icon-toggle-right" data-x-icon="&#xf152;" aria-hidden="true"></i> How about a Countdown Deal? <strong style="color:#0277a9;">We tweet those too!</strong><br /><i class="x-icon x-icon-toggle-right" data-x-icon="&#xf152;" aria-hidden="true"></i> New releases, Kickstarters, Kindle Scout, Kindle Unlimited, and general promos too!<br /><strong style="color:#0277a9;font-size:20px;">We want to promote your book to our 505,000+ followers!</strong></p>
+<p>Whether you are running a promo or just need more exposure for your book, we&#8217;ll tweet your book to our network of <strong style="color:#0277a9;">505,000+ readers &#038; authors!</strong> <strong>Don&#8217;t miss out on this opportunity!</strong></p>
+<div class="x-btn-circle-wrap x-btn-jumbo"><a class="x-btn x-btn-rounded x-btn-jumbo" href="#howitworks" data-options="thumbnail: ''">Get Started Now!</a></div> </div> <div class="x-column x-sm x-1-5 last" style=""> </div> </div></div>
+<div style="padding-left:50px;padding-right:50px;">
+<h3 id="howitworks">Promote Your Books with BookTweeters</h3>
+<img class="x-img x-img-thumbnail right" src="http://ebookshabit.com/wp-content/uploads/2015/03/new-logo-tagline.png" alt="Text">We are authors ourselves and we have worked directly with more than 14,000 authors in the past 3 years to help them to promote their books via our sister site, eBooksHabit.com.</p>
+<p><strong>We know what authors want&#8230; they want more exposure! We will help you to promote your book, free, discounted, or otherwise, to our followers on Twitter.</strong></p>
+<p>We will tweet your book 24 times a day, to our 505,000+ followers across our 2 accounts (<a href="http://twitter.com/eBooksHabit" target="_blank">@eBooksHabit</a>, <a href="http://twitter.com/TheBookTweeters" target="_blank">@TheBookTweeters</a>). These are real followers comprised of mainly readers and authors that we have connected with!</p>
+<p>Your book will be tweeted throughout the day at random intervals on each account! This allows people to see it no matter what time of day they are on Twitter to help ensure maximum exposure!  (Tweets go out between 3:00am and 8:00pm Pacific time, with more frequent tweets during prime time when people are home.)</p>
+<p><strong>You may enter your desired tweets below, or you can provide us with the book link and promo details, and we will construct the tweet for you! Whichever way you prefer is fine with us! Then, after we process the order, we will tweet your books on the dates you ordered!</strong></p>
+<h3 id="pricing">Pricing</h3>
+<div class="x-pricing-table cf five-columns">
+<div class="x-pricing-column"><h2 class="man">Bronze</h2><div class="x-pricing-column-info"><h3 class="x-price">$15</h3><span class="x-interval">1 Day of Tweets</span>
+<ul class="x-ul-icons">
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>1 Day</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>24 Tweets</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>505,000+ Followers</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>Book Exposure</li>
+</ul>
+<h4>Scroll down and choose below.</h4>
+</div></div>
+<div class="x-pricing-column"><h2 class="man">Silver</h2><div class="x-pricing-column-info"><h3 class="x-price">$29</h3><span class="x-interval">2 Days of Tweets</span>
+<ul class="x-ul-icons">
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>2 Days</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>48 Tweets</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>505,000+ Followers</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>More Exposure</li>
+</ul>
+<h4>Scroll down and choose below.</h4>
+</div></div>
+<div class="x-pricing-column featured"><h2 class="man">Gold <span class="x-featured-sub">Most Popular</span></h2><div class="x-pricing-column-info"><h3 class="x-price">$43</h3><span class="x-interval">3 Days of Tweets</span>
+<ul class="x-ul-icons">
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>3 Days</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>72 Tweets</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>505,000+ Followers</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>Great Exposure</li>
+</ul>
+<h4>Scroll down and choose below.</h4>
+</div></div>
+<div class="x-pricing-column"><h2 class="man">Platinum</h2><div class="x-pricing-column-info"><h3 class="x-price">$55</h3><span class="x-interval">4 Days of Tweets</span>
+<ul class="x-ul-icons">
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>4 Days</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>96 Tweets</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>505,000+ Followers</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>High Exposure</li>
+</ul>
+<h4>Scroll down and choose below.</h4>
+</div></div>
+<div class="x-pricing-column"><h2 class="man">Diamond</h2><div class="x-pricing-column-info"><h3 class="x-price">$65</h3><span class="x-interval">5 Days of Tweets</span>
+<ul class="x-ul-icons">
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>5 Days</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>120 Tweets</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>505,000+ Followers</li>
+<li class="x-li-icon"><i class="x-icon-check" data-x-icon="&#xf00c;" aria-hidden="true"></i>Huge Exposure!</li>
+</ul>
+<h4>Scroll down and choose below.</h4>
+</div></div>
+</div>
+<h3 id="order">Purchase A Book Tweeting Package</h3>
+<p><strong style="color:#880101;">NOTE: We do not accept books with hate speech and we reserve the right to not accept other books that we deem not appropriate for our audience, without explanation (you will receive a refund).</p>
+<p>Please make sure all tweets are at most PG-13.</strong></p>
+<p><strong style="color:#01739d;">ALSO: We need at least 48 hours notice in order to properly process your order. Thank you for this consideration.</strong></p>
+<div style="width:66%">
+<div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' style='display:none'><a id='gf_1' class='gform_anchor'></a><form method='post' enctype='multipart/form-data' id='gform_1' action='/#gf_1'>
+<div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_above'><li id='field_1_5' class='gfield gsection field_sublabel_below field_description_above gfield_visibility_visible'><h2 class='gsection_title'>Packages and Options</h2><div class='gsection_description'>Choose how many days you want us to tweet about your book!</div></li><li id='field_1_65' class='gfield gfield_html gfield_html_formatted field_sublabel_below field_description_above gfield_visibility_visible'><div style="background-color:#183449;color:white;padding:0 15px 15px 15px;"><h4 style="padding:0px !important;">Welcome Facebook Author!!!</h4>
+<strong>Be sure to use the following coupon to get 25% off:<br /><br />
+FACEBOOK25
+<br /><br />
+We will also list it below right above the coupon field for you to remember before checking out.
+</strong>
+</div></li><li id='field_1_2' class='gfield gfield_price gfield_price_1_2 gfield_product_1_2 gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label'>Choose your tweet package level:<span class='gfield_required'>*</span></label><div class='gfield_description'>Choose which package is right for you! </div><div class='ginput_container ginput_container_radio'><ul class='gfield_radio' id='input_1_2'><li class='gchoice_1_2_0'><input name='input_2' type='radio' value='1|15' checked='checked' id='choice_1_2_0' tabindex='1' onclick='gf_apply_rules(1,[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14]);' onkeypress='gf_apply_rules(1,[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14]);' /><label for='choice_1_2_0' id='label_1_2_0'>Bronze (1 Day of Tweets) - $15</label></li><li class='gchoice_1_2_1'><input name='input_2' type='radio' value='2|29' id='choice_1_2_1' tabindex='2' onclick='gf_apply_rules(1,[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14]);' onkeypress='gf_apply_rules(1,[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14]);' /><label for='choice_1_2_1' id='label_1_2_1'>Silver (2 Days of Tweets) - $29</label></li><li class='gchoice_1_2_2'><input name='input_2' type='radio' value='3|43' id='choice_1_2_2' tabindex='3' onclick='gf_apply_rules(1,[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14]);' onkeypress='gf_apply_rules(1,[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14]);' /><label for='choice_1_2_2' id='label_1_2_2'>Gold (3 Days of Tweets) - $43</label></li><li class='gchoice_1_2_3'><input name='input_2' type='radio' value='4|55' id='choice_1_2_3' tabindex='4' onclick='gf_apply_rules(1,[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14]);' onkeypress='gf_apply_rules(1,[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14]);' /><label for='choice_1_2_3' id='label_1_2_3'>Platinum (4 Days of Tweets) - $55</label></li><li class='gchoice_1_2_4'><input name='input_2' type='radio' value='5|65' id='choice_1_2_4' tabindex='5' onclick='gf_apply_rules(1,[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14]);' onkeypress='gf_apply_rules(1,[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14]);' /><label for='choice_1_2_4' id='label_1_2_4'>Diamond (5 Days of Tweets) - $65</label></li></ul></div></li><li id='field_1_4' class='gfield gfield_price gfield_price_1_ gfield_total gfield_total_1_ field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_4'>Total</label><div class='ginput_container ginput_container_total'>
+<span class='ginput_total ginput_total_1'>$0.00</span>
+<input type='hidden' name='input_4' id='input_1_4' class='gform_hidden' />
+</div></li><li id='field_1_8' class='gfield gsection field_sublabel_below field_description_above gfield_visibility_visible'><h2 class='gsection_title'>Tweet Details</h2><div class='gsection_description'><strong>>>> Please read all of it!</strong>
+<br /><br />
+We will send out 1 tweet message per day (24x per day across 2 accounts). So, if you pick 5 days, you can enter 5 different tweets (you don't have to).
+<br /><br />
+Tweets MUST be 275 characters or less (we have to add some random characters to the end to ensure all tweets are unique according to Twitter policies)!<br /><br />
+Also, ALL links count as 23 characters, whether they are longer or shorter than that amount. We will shorten tweets if necessary, at our discretion (we will keep the link and important info).
+<br /><br />
+Lastly, the tweets below are suggestions only... if we need to change the tweet, we will keep the general spirit of the tweet, but we reserve the right to tweak it as necessary to properly deliver the service in full and remain within the Twitter guidelines!</div></li><li id='field_1_43' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_43'>What&#039;s the main genre you write?<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_select'><select name='input_43' id='input_1_43' onchange='gf_apply_rules(1,[45,46,47,48,49,50,51,52,53,54,55,56,57,58]);' class='medium gfield_select' tabindex='6' aria-required="true" aria-invalid="false"><option value=''></option><option value='actadv'>Action &amp; Adventure</option><option value='advice'>Advice &amp; How-To</option><option value='chicklit'>Chick Lit</option><option value='child'>Children&#039;s &amp; Middle Grade</option><option value='christfic'>Christian Fiction</option><option value='cooking'>Cooking</option><option value='fantasy'>Fantasy</option><option value='histfic'>Historical Fiction</option><option value='horror'>Horror</option><option value='myst'>Mysteries</option><option value='newadult'>New Adult</option><option value='nonfic'>Nonfiction</option><option value='romance'>Romance</option><option value='scifi'>Science Fiction</option><option value='shortstories'>Short Stories</option><option value='suspense'>Suspense</option><option value='teenya'>Teen &amp; Young Adult</option><option value='thrillers'>Thrillers</option><option value='other'>Other / None of the above</option></select></div></li><li id='field_1_45' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Teen & Young Adult</span>
+<br />
+<div style="margin-left:30px;">
+#YALitChat<br />
+#YA<br />
+#YALit<br />
+</div></li><li id='field_1_46' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Fantasy</span>
+<br />
+<div style="margin-left:30px;">
+#Fantasy<br />
+#DarkFantasy<br />
+#UrbanFantasy<br />
+</div></li><li id='field_1_47' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Science Fiction</span>
+<br />
+<div style="margin-left:30px;">
+#ScienceFiction<br />
+#SciFi<br />
+#SciFiChat<br />
+</div></li><li id='field_1_48' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Romance</span>
+<br />
+<div style="margin-left:30px;">
+#Romance<br />
+#RomanceWriter<br />
+#Romantic<br />
+#RomanticSuspense<br />
+#RWA<br />
+</div></li><li id='field_1_49' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Nonfiction</span>
+<br />
+<div style="margin-left:30px;">
+#NonFiction<br />
+#MemoirChat<br />
+#Comedy<br />
+#Inspiration<br />
+</div></li><li id='field_1_50' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Short Stories</span>
+<br />
+<div style="margin-left:30px;">
+#Short<br />
+#ShortStories<br />
+#ShortReads<br />
+#ShortStory<br />
+</div></li><li id='field_1_51' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Mysteries</span>
+<br />
+<div style="margin-left:30px;">
+#Mystery<br />
+#Paranormal<br />
+#Crime<br />
+#Dystopian<br />
+</div></li><li id='field_1_52' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Thrillers</span>
+<br />
+<div style="margin-left:30px;">
+#Thriller<br />
+#Paranormal<br />
+#Crime<br />
+#Dystopian<br />
+</div></li><li id='field_1_53' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Suspense</span>
+<br />
+<div style="margin-left:30px;">
+#Suspense<br />
+#Paranormal<br />
+#Crime<br />
+#Dystopian<br />
+</div></li><li id='field_1_54' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtag for: Horror</span>
+<br />
+<div style="margin-left:30px;">
+#Horror<br />
+</div></li><li id='field_1_55' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Historical Fiction</span>
+<br />
+<div style="margin-left:30px;">
+#Historical<br />
+#History<br />
+#HistFic<br />
+#HistNovel<br />
+</div></li><li id='field_1_56' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Childrens & Middle Grade</span>
+<br />
+<div style="margin-left:30px;">
+#KidLitChat<br />
+#KidLit<br />
+#MGLit<br />
+</div></li><li id='field_1_57' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested Hashtags for: Cooking</span>
+<br />
+<div style="margin-left:30px;">
+#Food<br />
+#Recipes<br />
+#Cooking<br />
+#Cookbooks<br />
+</div></li><li id='field_1_58' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'><span class="gfield_label" style="color:#00a4e3;">Suggested General Hashtags</span>
+<br />
+<div style="margin-left:30px;">
+#IndieAuthors &nbsp;&nbsp;&nbsp;&nbsp; #Novel &nbsp;&nbsp;&nbsp;&nbsp; #Literature<br />
+#Book &nbsp;&nbsp;&nbsp;&nbsp; #ebook &nbsp;&nbsp;&nbsp;&nbsp; #Fiction<br />
+#IARTG &nbsp;&nbsp;(indie author retweet group)<br />
+#mustread &nbsp;&nbsp;&nbsp;&nbsp; #bestread<br />
+#kdp &nbsp;&nbsp;&nbsp;&nbsp; #greatreads<br />
+</div></li><li id='field_1_21' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label gfield_label_before_complex' for='input_1_21_1'>Tweet #1 Date<span class='gfield_required'>*</span></label><div class='gfield_description'><strong style="color:darkorange;">The start date CANNOT be today or tomorrow. We need at least 48 hours notice.</strong>
+<br /><br />
+<strong style="color:red;">
+Dates <u>NOT</u> available: 2/14, 2/15, 2/16,
+</strong>
+</div><div id='input_1_21' class='ginput_container ginput_container_date'><div class='clear-multi'><div class='gfield_date_month ginput_container ginput_container_date' id='input_1_21_1_container'>
+<input type='text' maxlength='2' name='input_21[]' id='input_1_21_1' value='' tabindex='7' />
+<label for='input_1_21_1'>MM</label>
+</div><div class='gfield_date_day ginput_container ginput_container_date' id='input_1_21_2_container'>
+<input type='text' maxlength='2' name='input_21[]' id='input_1_21_2' value='' tabindex='8' />
+<label for='input_1_21_2'>DD</label>
+</div><div class='gfield_date_year ginput_container ginput_container_date' id='input_1_21_3_container'>
+<input type='text' maxlength='4' name='input_21[]' id='input_1_21_3' value='' tabindex='9' />
+<label for='input_1_21_3'>YYYY</label>
+</div>
+</div></div></li><li id='field_1_60' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_60'>(OPTIONAL) Upload an image to include with Tweet #1.</label><div class='gfield_description'>(The best size for Twitter is 1024x1024 or any square image at least 512px wide.)</div><div class='ginput_container ginput_container_fileupload'><input type='hidden' name='MAX_FILE_SIZE' value='2097152' /><input name='input_60' id='input_1_60' type='file' class='medium' aria-describedby='extensions_message_1_60' onchange='javascript:gformValidateFileSize( this, 2097152 );' tabindex='10' /><span id='extensions_message_1_60' class='screen-reader-text'>Accepted file types: jpg, gif, png, jpeg.</span><div class='validation_message'></div></div></li><li id='field_1_10' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_10'>Tweet Suggestion #1 (The link to your book MUST be here)<span class='gfield_required'>*</span></label><div class='gfield_description'><strong style="color:darkorange;">THE LINK TO THE BOOK (or author website, or other related links) MUST appear in the Tweet Suggestion box below!</strong> Failure to include it here, could result in the promotion going to Twitter without the link for people to buy the book.</div><div class='ginput_container ginput_container_textarea'><textarea name='input_10' id='input_1_10' class='textarea small' tabindex='11' aria-required="true" aria-invalid="false" rows='10' cols='50'></textarea></div></li><li id='field_1_22' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label gfield_label_before_complex' for='input_1_22_1'>Tweet #2 Date<span class='gfield_required'>*</span></label><div class='gfield_description'><strong style="color:darkorange;">The start date CANNOT be today or tomorrow. We need at least 48 hours notice.</strong>
+<br /><br />
+<strong style="color:red;">
+Dates <u>NOT</u> available: 2/14, 2/15, 2/16
+</strong>
+</div><div id='input_1_22' class='ginput_container ginput_container_date'><div class='clear-multi'><div class='gfield_date_month ginput_container ginput_container_date' id='input_1_22_1_container'>
+<input type='text' maxlength='2' name='input_22[]' id='input_1_22_1' value='' tabindex='12' />
+<label for='input_1_22_1'>MM</label>
+</div><div class='gfield_date_day ginput_container ginput_container_date' id='input_1_22_2_container'>
+<input type='text' maxlength='2' name='input_22[]' id='input_1_22_2' value='' tabindex='13' />
+ <label for='input_1_22_2'>DD</label>
+</div><div class='gfield_date_year ginput_container ginput_container_date' id='input_1_22_3_container'>
+<input type='text' maxlength='4' name='input_22[]' id='input_1_22_3' value='' tabindex='14' />
+<label for='input_1_22_3'>YYYY</label>
+</div>
+</div></div></li><li id='field_1_61' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_61'>(OPTIONAL) Upload an image to include with Tweet #2.</label><div class='gfield_description'>(The best size for Twitter is 1024x1024 or any square image at least 512px wide.)
+<em>(Note: If you uploaded an image in other tweets above, and you want to use the same image, <strong>you do need to upload it</strong> for each tweet you want it to appear.)</em></div><div class='ginput_container ginput_container_fileupload'><input type='hidden' name='MAX_FILE_SIZE' value='2097152' /><input name='input_61' id='input_1_61' type='file' class='medium' aria-describedby='extensions_message_1_61' onchange='javascript:gformValidateFileSize( this, 2097152 );' tabindex='15' /><span id='extensions_message_1_61' class='screen-reader-text'>Accepted file types: jpg, gif, png, jpeg.</span><div class='validation_message'></div></div></li><li id='field_1_11' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_11'>Tweet Suggestion #2 (not required) - (The link to your book MUST be here)</label><div class='gfield_description'><strong style="color:darkorange;">THE LINK TO THE BOOK (or author website, or other related links) MUST appear in the Tweet Suggestion box below!</strong> Failure to include it here, could result in the promotion going to Twitter without the link for people to buy the book.</div><div class='ginput_container ginput_container_textarea'><textarea name='input_11' id='input_1_11' class='textarea small' tabindex='16' aria-invalid="false" rows='10' cols='50'></textarea></div></li><li id='field_1_23' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label gfield_label_before_complex' for='input_1_23'>Tweet #3 Date<span class='gfield_required'>*</span></label><div id='input_1_23' class='ginput_container ginput_container_date'><div class='clear-multi'><div class='gfield_date_month ginput_container ginput_container_date' id='input_1_23_1_container'>
+<input type='text' maxlength='2' name='input_23[]' id='input_1_23_1' value='' tabindex='17' />
+<label for='input_1_23_1'>MM</label>
+</div><div class='gfield_date_day ginput_container ginput_container_date' id='input_1_23_2_container'>
+<input type='text' maxlength='2' name='input_23[]' id='input_1_23_2' value='' tabindex='18' />
+<label for='input_1_23_2'>DD</label>
+</div><div class='gfield_date_year ginput_container ginput_container_date' id='input_1_23_3_container'>
+<input type='text' maxlength='4' name='input_23[]' id='input_1_23_3' value='' tabindex='19' />
+<label for='input_1_23_3'>YYYY</label>
+</div>
+</div></div></li><li id='field_1_62' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_62'>(OPTIONAL) Upload an image to include with Tweet #3.</label><div class='gfield_description'>(The best size for Twitter is 1024x1024 or any square image at least 512px wide.)
+<em>(Note: If you uploaded an image in other tweets above, and you want to use the same image, <strong>you do need to upload it</strong> for each tweet you want it to appear.)</em></div><div class='ginput_container ginput_container_fileupload'><input type='hidden' name='MAX_FILE_SIZE' value='2097152' /><input name='input_62' id='input_1_62' type='file' class='medium' aria-describedby='extensions_message_1_62' onchange='javascript:gformValidateFileSize( this, 2097152 );' tabindex='20' /><span id='extensions_message_1_62' class='screen-reader-text'>Accepted file types: jpg, gif, png, jpeg.</span><div class='validation_message'></div></div></li><li id='field_1_12' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_12'>Tweet Suggestion #3 (not required) - (The link to your book MUST be here)</label><div class='gfield_description'><strong style="color:darkorange;">THE LINK TO THE BOOK (or author website, or other related links) MUST appear in the Tweet Suggestion box below!</strong> Failure to include it here, could result in the promotion going to Twitter without the link for people to buy the book.</div><div class='ginput_container ginput_container_textarea'><textarea name='input_12' id='input_1_12' class='textarea small' tabindex='21' aria-invalid="false" rows='10' cols='50'></textarea></div></li><li id='field_1_24' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label gfield_label_before_complex' for='input_1_24'>Tweet #4 Date<span class='gfield_required'>*</span></label><div id='input_1_24' class='ginput_container ginput_container_date'><div class='clear-multi'><div class='gfield_date_month ginput_container ginput_container_date' id='input_1_24_1_container'>
+<input type='text' maxlength='2' name='input_24[]' id='input_1_24_1' value='' tabindex='22' />
+<label for='input_1_24_1'>MM</label>
+</div><div class='gfield_date_day ginput_container ginput_container_date' id='input_1_24_2_container'>
+<input type='text' maxlength='2' name='input_24[]' id='input_1_24_2' value='' tabindex='23' />
+<label for='input_1_24_2'>DD</label>
+</div><div class='gfield_date_year ginput_container ginput_container_date' id='input_1_24_3_container'>
+<input type='text' maxlength='4' name='input_24[]' id='input_1_24_3' value='' tabindex='24' />
+<label for='input_1_24_3'>YYYY</label>
+</div>
+</div></div></li><li id='field_1_63' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_63'>(OPTIONAL) Upload an image to include with Tweet #4.</label><div class='gfield_description'>(The best size for Twitter is 1024x1024 or any square image at least 512px wide.)
+<em>(Note: If you uploaded an image in other tweets above, and you want to use the same image, <strong>you do need to upload it</strong> for each tweet you want it to appear.)</em></div><div class='ginput_container ginput_container_fileupload'><input type='hidden' name='MAX_FILE_SIZE' value='2097152' /><input name='input_63' id='input_1_63' type='file' class='medium' aria-describedby='extensions_message_1_63' onchange='javascript:gformValidateFileSize( this, 2097152 );' tabindex='25' /><span id='extensions_message_1_63' class='screen-reader-text'>Accepted file types: jpg, gif, png, jpeg.</span><div class='validation_message'></div></div></li><li id='field_1_13' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_13'>Tweet Suggestion #4 (not required) - (The link to your book MUST be here)</label><div class='gfield_description'><strong style="color:darkorange;">THE LINK TO THE BOOK (or author website, or other related links) MUST appear in the Tweet Suggestion box below!</strong> Failure to include it here, could result in the promotion going to Twitter without the link for people to buy the book.</div><div class='ginput_container ginput_container_textarea'><textarea name='input_13' id='input_1_13' class='textarea small' tabindex='26' aria-invalid="false" rows='10' cols='50'></textarea></div></li><li id='field_1_25' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label gfield_label_before_complex' for='input_1_25'>Tweet #5 Date<span class='gfield_required'>*</span></label><div id='input_1_25' class='ginput_container ginput_container_date'><div class='clear-multi'><div class='gfield_date_month ginput_container ginput_container_date' id='input_1_25_1_container'>
+<input type='text' maxlength='2' name='input_25[]' id='input_1_25_1' value='' tabindex='27' />
+<label for='input_1_25_1'>MM</label>
+</div><div class='gfield_date_day ginput_container ginput_container_date' id='input_1_25_2_container'>
+<input type='text' maxlength='2' name='input_25[]' id='input_1_25_2' value='' tabindex='28' />
+<label for='input_1_25_2'>DD</label>
+</div><div class='gfield_date_year ginput_container ginput_container_date' id='input_1_25_3_container'>
+<input type='text' maxlength='4' name='input_25[]' id='input_1_25_3' value='' tabindex='29' />
+<label for='input_1_25_3'>YYYY</label>
+</div>
+</div></div></li><li id='field_1_64' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_64'>(OPTIONAL) Upload an image to include with Tweet #5.</label><div class='gfield_description'>(The best size for Twitter is 1024x1024 or any square image at least 512px wide.)
+<em>(Note: If you uploaded an image in other tweets above, and you want to use the same image, <strong>you do need to upload it</strong> for each tweet you want it to appear.)</em></div><div class='ginput_container ginput_container_fileupload'><input type='hidden' name='MAX_FILE_SIZE' value='2097152' /><input name='input_64' id='input_1_64' type='file' class='medium' aria-describedby='extensions_message_1_64' onchange='javascript:gformValidateFileSize( this, 2097152 );' tabindex='30' /><span id='extensions_message_1_64' class='screen-reader-text'>Accepted file types: jpg, gif, png, jpeg.</span><div class='validation_message'></div></div></li><li id='field_1_14' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_14'>Tweet Suggestion #5 (not required) - (The link to your book MUST be here)</label><div class='gfield_description'><strong style="color:darkorange;">THE LINK TO THE BOOK (or author website, or other related links) MUST appear in the Tweet Suggestion box below!</strong> Failure to include it here, could result in the promotion going to Twitter without the link for people to buy the book.</div><div class='ginput_container ginput_container_textarea'><textarea name='input_14' id='input_1_14' class='textarea small' tabindex='31' aria-invalid="false" rows='10' cols='50'></textarea></div></li><li id='field_1_15' class='gfield gsection field_sublabel_below field_description_above gfield_visibility_visible'><h2 class='gsection_title'>Additional Details</h2></li><li id='field_1_16' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_16'>Your Name<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_text'><input name='input_16' id='input_1_16' type='text' value='' class='medium' tabindex='32' aria-required="true" aria-invalid="false" /></div></li><li id='field_1_1' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_1'>Best Contact Email<span class='gfield_required'>*</span></label><div class='gfield_description'>Enter the best e-mail to get in touch with you with. You may pay with a different PayPal email, that is fine.</div><div class='ginput_container ginput_container_email'>
+<input name='input_1' id='input_1_1' type='text' value='' class='medium' tabindex='33' aria-required="true" aria-invalid="false" />
+</div></li><li id='field_1_19' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_19'>Author Name<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_text'><input name='input_19' id='input_1_19' type='text' value='' class='medium' tabindex='34' aria-required="true" aria-invalid="false" /></div></li><li id='field_1_44' class='gfield field_sublabel_below field_description_above gfield_visibility_hidden'><label class='gfield_label' for='input_1_44'>Twitter Name (please include @)</label><div class='gfield_description'>We don't tweet directly to you (we tweet to our network of followers). This is so we can eventually promote your Twitter account to our followers on an on-going basis. (coming later in 2015)</div><div class='ginput_container ginput_container_text'><input name='input_44' id='input_1_44' type='text' value='' class='medium' tabindex='35' aria-invalid="false" /></div></li><li id='field_1_17' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_17'>Book Title<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_text'><input name='input_17' id='input_1_17' type='text' value='' class='medium' tabindex='36' aria-required="true" aria-invalid="false" /></div></li><li id='field_1_18' class='gfield gfield_contains_required field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_18'>Book Link<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_text'><input name='input_18' id='input_1_18' type='text' value='' class='medium' tabindex='37' aria-required="true" aria-invalid="false" /></div></li><li id='field_1_39' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_39'>Any additional notes??</label><div class='gfield_description'><strong style="color:red;">DO NOT PUT BOOK LINKS OR IMAGE LINKS HERE... </strong>they belong in the Tweet Text fields above. If they are not included in the Tweet Text fields above, it could cause delays in processing your order.</div><div class='ginput_container ginput_container_textarea'><textarea name='input_39' id='input_1_39' class='textarea small' tabindex='38' aria-invalid="false" rows='10' cols='50'></textarea></div></li><li id='field_1_66' class='gfield gfield_html gfield_html_formatted field_sublabel_below field_description_above gfield_visibility_visible'><div style="background-color:#183449;color:white;padding:0 15px 15px 15px;"><h4 style="padding:0px !important;">Facebook Author!</h4>
+<strong>Be sure to use the following coupon code below to get 25% off:<br /><br />
+FACEBOOK25
+<br /><br />
+Don't forget to hit "Apply!"
+</strong>
+</div></li><li id='field_1_41' class='gfield field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='gf_coupon_code_1'>Coupon Code</label><div class='gfield_description'><strong>Enter your coupon code here and BE SURE TO click "Apply".</strong> <i>(Note, you won't find active coupon codes on other sites. We only issue them to our prior customer list. So, place an order and you will receive our next coupon when we release one.)</i></div><div class='ginput_container' id='gf_coupons_container_1'><input id='gf_coupon_code_1' class='gf_coupon_code' onkeyup='DisableApplyButton(1);' onchange='DisableApplyButton(1);' onpaste='setTimeout(function(){DisableApplyButton(1);}, 50);' type='text' tabindex='39' /><input type='button' disabled='disabled' onclick='ApplyCouponCode(1);' value='Apply' id='gf_coupon_button' class='button' tabindex='40' /> <img style='display:none;' id='gf_coupon_spinner' src='http://booktweeters.com/wp-content/plugins/gravityformscoupons/images/spinner.gif' alt='please wait' /><div id='gf_coupon_info'></div><input type='hidden' id='gf_coupon_codes_1' name='input_41' value='' /><input type='hidden' id='gf_total_no_discount_1' /><input type='hidden' id='gf_coupons_1' name='gf_coupons_1' value='' /></div></li><li id='field_1_20' class='gfield gfield_price gfield_price_1_ gfield_total gfield_total_1_ field_sublabel_below field_description_above gfield_visibility_visible'><label class='gfield_label' for='input_1_20'>Total</label><div class='ginput_container ginput_container_total'>
+<span class='ginput_total ginput_total_1'>$0.00</span>
+<input type='hidden' name='input_20' id='input_1_20' class='gform_hidden' />
+</div></li><li id='field_1_32' class='gfield gform_hidden field_sublabel_below field_description_above gfield_visibility_visible'><input name='input_32' id='input_1_32' type='hidden' class='gform_hidden' aria-invalid="false" value='' /></li><li id='field_1_33' class='gfield gform_hidden field_sublabel_below field_description_above gfield_visibility_visible'><input name='input_33' id='input_1_33' type='hidden' class='gform_hidden' aria-invalid="false" value='' /></li><li id='field_1_34' class='gfield gform_hidden field_sublabel_below field_description_above gfield_visibility_visible'><input name='input_34' id='input_1_34' type='hidden' class='gform_hidden' aria-invalid="false" value='' /></li><li id='field_1_40' class='gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible'>Please double check your tweets for accuracy. Make sure all links are correct. By submitting below, you confirm that you have double-checked everything.
+As noted below, we are not able to make changes to the submissions once they have been processed, unless the error is on our part. PLEASE DOUBLE CHECK!</li><li id='field_1_42' class='gfield gform_hidden field_sublabel_below field_description_above gfield_visibility_visible'><input name='input_42' id='input_1_42' type='hidden' class='gform_hidden' aria-invalid="false" value='' /></li>
+</ul></div>
+<div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Submit &amp; Pay for Order' tabindex='41' onclick='if(window["gf_submitting_1"]){return false;}  window["gf_submitting_1"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} window["gf_submitting_1"]=true;  jQuery("#gform_1").trigger("submit",[true]); }' />
+<input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+<input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+<input type='hidden' class='gform_hidden' name='state_1' value='WyJ7XCIyXCI6W1wiYTM4NWYxZjBkZDVkMjg4ZGM1ZWViZWRhMDRiNmFiYzRcIixcIjY0NmYwNmNiZjlhZWQzZTMwZDU0YjIwNmJmNjExNmJjXCIsXCIxMTBlOTE2MmVlNzQ4YmI2Y2I5NTFmY2FmZDE0ZjJkY1wiLFwiMmUzZmQ0MTI0MzZiNmRjNThjOWNjNDIzOWQ0OGRhMGRcIixcIjRmNjA4ZjM1MDY2YmU3MDliNTc4MjljNDcxYTBhOTMzXCJdfSIsIjljNmUwOTMzZDNlM2Q5Zjc4ZWFhNzZhZGIxOTVmOGUzIl0=' />
+<input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+<input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+<input type='hidden' name='gform_field_values' value='' />
+</div>
+</form>
+</div><script type='text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/booktweeters.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/booktweeters.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {gf_global["number_formats"][1] = {"5":{"price":false,"value":false},"65":{"price":false,"value":false},"2":{"price":"decimal_dot","value":false},"4":{"price":false,"value":false},"8":{"price":false,"value":false},"43":{"price":false,"value":false},"45":{"price":false,"value":false},"46":{"price":false,"value":false},"47":{"price":false,"value":false},"48":{"price":false,"value":false},"49":{"price":false,"value":false},"50":{"price":false,"value":false},"51":{"price":false,"value":false},"52":{"price":false,"value":false},"53":{"price":false,"value":false},"54":{"price":false,"value":false},"55":{"price":false,"value":false},"56":{"price":false,"value":false},"57":{"price":false,"value":false},"58":{"price":false,"value":false},"21":{"price":false,"value":false},"27":{"price":false,"value":false},"60":{"price":false,"value":false},"10":{"price":false,"value":false},"22":{"price":false,"value":false},"28":{"price":false,"value":false},"61":{"price":false,"value":false},"11":{"price":false,"value":false},"23":{"price":false,"value":false},"29":{"price":false,"value":false},"62":{"price":false,"value":false},"12":{"price":false,"value":false},"24":{"price":false,"value":false},"30":{"price":false,"value":false},"63":{"price":false,"value":false},"13":{"price":false,"value":false},"25":{"price":false,"value":false},"31":{"price":false,"value":false},"64":{"price":false,"value":false},"14":{"price":false,"value":false},"15":{"price":false,"value":false},"16":{"price":false,"value":false},"1":{"price":false,"value":false},"19":{"price":false,"value":false},"44":{"price":false,"value":false},"17":{"price":false,"value":false},"18":{"price":false,"value":false},"39":{"price":false,"value":false},"66":{"price":false,"value":false},"41":{"price":false,"value":false},"20":{"price":false,"value":false},"32":{"price":false,"value":false},"33":{"price":false,"value":false},"34":{"price":false,"value":false},"40":{"price":false,"value":false},"42":{"price":false,"value":false}};if(window['jQuery']){if(!window['gf_form_conditional_logic'])window['gf_form_conditional_logic'] = new Array();window['gf_form_conditional_logic'][1] = { logic: { 65: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"32","operator":"is","value":"facebook"},{"fieldId":"33","operator":"is","value":"ad"},{"fieldId":"34","operator":"is","value":"ads25ad"}]},"nextButton":null,"section":""},45: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"teenya"}]},"nextButton":null,"section":""},46: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"fantasy"}]},"nextButton":null,"section":""},47: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"scifi"}]},"nextButton":null,"section":""},48: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"romance"}]},"nextButton":null,"section":""},49: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"nonfic"}]},"nextButton":null,"section":""},50: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"shortstories"}]},"nextButton":null,"section":""},51: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"myst"}]},"nextButton":null,"section":""},52: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"thrillers"}]},"nextButton":null,"section":""},53: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"suspense"}]},"nextButton":null,"section":""},54: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"horror"}]},"nextButton":null,"section":""},55: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"histfic"}]},"nextButton":null,"section":""},56: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"child"}]},"nextButton":null,"section":""},57: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"43","operator":"is","value":"cooking"}]},"nextButton":null,"section":""},58: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"43","operator":"isnot","value":""}]},"nextButton":null,"section":""},27: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"1"},{"fieldId":"2","operator":"is","value":"2"},{"fieldId":"2","operator":"is","value":"3"},{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},60: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"1"},{"fieldId":"2","operator":"is","value":"2"},{"fieldId":"2","operator":"is","value":"3"},{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},22: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"2"},{"fieldId":"2","operator":"is","value":"3"},{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},28: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"2"},{"fieldId":"2","operator":"is","value":"3"},{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},61: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"2"},{"fieldId":"2","operator":"is","value":"3"},{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},11: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"2"},{"fieldId":"2","operator":"is","value":"3"},{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},23: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"3"},{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},29: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"3"},{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},62: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"3"},{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},12: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"3"},{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},24: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},30: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},63: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},13: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"4"},{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},25: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},31: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},64: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},14: {"field":{"actionType":"show","logicType":"any","rules":[{"fieldId":"2","operator":"is","value":"5"}]},"nextButton":null,"section":""},66: {"field":{"actionType":"show","logicType":"all","rules":[{"fieldId":"32","operator":"is","value":"facebook"},{"fieldId":"33","operator":"is","value":"ad"},{"fieldId":"34","operator":"is","value":"ads25ad"}]},"nextButton":null,"section":""} }, dependents: { 65: [65],45: [45],46: [46],47: [47],48: [48],49: [49],50: [50],51: [51],52: [52],53: [53],54: [54],55: [55],56: [56],57: [57],58: [58],27: [27],60: [60],22: [22],28: [28],61: [61],11: [11],23: [23],29: [29],62: [62],12: [12],24: [24],30: [30],63: [63],13: [13],25: [25],31: [31],64: [64],14: [14],66: [66] }, animation: 0, defaults: {"2":["choice_1_2_0"],"43":"","21":{"m":"","d":"","y":""},"27":"None","22":{"m":"","d":"","y":""},"28":"None","29":"None","30":"None","31":"None"}, fields: {"5":[],"65":[],"2":[27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14],"4":[],"8":[],"43":[45,46,47,48,49,50,51,52,53,54,55,56,57,58],"45":[],"46":[],"47":[],"48":[],"49":[],"50":[],"51":[],"52":[],"53":[],"54":[],"55":[],"56":[],"57":[],"58":[],"21":[],"27":[],"60":[],"10":[],"22":[],"28":[],"61":[],"11":[],"23":[],"29":[],"62":[],"12":[],"24":[],"30":[],"63":[],"13":[],"25":[],"31":[],"64":[],"14":[],"15":[],"16":[],"1":[],"19":[],"44":[],"17":[],"18":[],"39":[],"66":[],"41":[],"20":[],"32":[65,66],"33":[65,66],"34":[65,66],"40":[],"42":[]} }; if(!window['gf_number_format'])window['gf_number_format'] = 'decimal_dot';jQuery(document).ready(function(){gf_apply_rules(1, [65,45,46,47,48,49,50,51,52,53,54,55,56,57,58,27,60,22,28,61,11,23,29,62,12,24,30,63,13,25,31,64,14,66], true);jQuery('#gform_wrapper_1').show();jQuery(document).trigger('gform_post_conditional_logic', [1, null, true]);} );} if(window["gformInitPriceFields"]) jQuery(document).ready(function(){gformInitPriceFields();} );} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>
+</div>
+<p><strong style="color:#880101;">Are you having problems completing payment? Please try to submit again (with a different browser if possible). Then, if you still aren&#8217;t able to, please use the <a href="http://booktweeters.com/contact-us/" target="_blank">Contact Us button</a> to let us know, so we can get it solved so we can promote your books.</strong></p>
+<h5>Fine Print</h5>
+<div style="font-size:75%;">
+&#8212; As noted above, we reserve the right to reject books, without a reason given. If a book is not approved, we will refund you in full.</p>
+<p>&#8212; We make no guarantees as to how many retweets, favorites, clicks, or sales your tweets or links will receive. We only guarantee that we have built a legitimate following of mostly readers and authors, and that the amount of tweets you order will be fulfilled.</p>
+<p>&#8212; Please ensure that your tweet character counts are correct. We will attempt to make sure that they are correct, and will make necessary changes. If your character counts are not correct, we assume no responsibility for the corrections/edits made by our staff.</p>
+<p>&#8212; We cannot make changes to the tweets after we have entered them into our system, so please ensure the links, details, etc. are correct. We can only make corrections due to errors on our end.</p>
+<p>&#8212; We love working with authors, but we&#8217;re human. We will make mistakes. We will do what we can to rectify the mistakes, but please treat us like humans and with decency if we make a mistake on your order. Thank you.</p>
+<p>&#8212; If you are looking for a <a href="http://booktweeters.com/booktweeters-coupon-discount-code/" target="_blank">BookTweeters coupon</a>, we only release them via our previous customers email list. The ones you find on other sites will usually be expired by the time you find them. Place an order above, then you will be on the list to get updates and coupons.</p>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+<footer class="x-colophon top">
+<div class="x-container max width">
+<div class="x-column x-md x-1-3"></div><div class="x-column x-md x-1-3"></div><div class="x-column x-md x-1-3 last"></div>
+</div>
+</footer>
+<footer class="x-colophon bottom" role="contentinfo">
+<div class="x-container max width">
+<div class="x-colophon-content">
+<p>Copyright © 2014-2018 - eBooksHabit.com</p> </div>
+<div class="x-social-global"></div>
+<ul id="menu-footer" class="x-nav"><li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://booktweeters.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://booktweeters.com/terms-of-service/">Terms of Service</a></li>
+<li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://booktweeters.com/contact-us/">Contact Us</a></li>
+</ul>
+</div>
+</footer>
+</div> 
+</div> 
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"http:\/\/booktweeters.com\/wp-admin\/admin-ajax.php","force_ajax_send":"","is_crawler":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://booktweeters.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=2.0.39'></script>
+<script type='text/javascript' src='http://booktweeters.com/wp-content/plugins/cornerstone/assets/dist/js/site/cs-body.js?ver=3.1.4'></script>
+<script type='text/javascript' src='http://booktweeters.com/wp-content/themes/x/framework/dist/js/site/x.js?ver=6.1.4'></script>
+<script type='text/javascript' src='http://booktweeters.com/wp-includes/js/comment-reply.min.js?ver=4.9.9'></script>
+<script type='text/javascript' src='http://booktweeters.com/wp-includes/js/wp-embed.min.js?ver=4.9.9'></script>
+<script id="x-custom-js"><script src="lib/js/config.js"></script>
+<script src="lib/js/util.js"></script>
+<script src="lib/js/jquery.emojiarea.js"></script>
+<script src="lib/js/emoji-picker.js"></script></script>
+</body>
+</html>

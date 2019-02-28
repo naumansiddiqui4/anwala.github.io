@@ -1,0 +1,24 @@
+
+
+
+<html>
+<head>
+	<script>
+
+		
+			_djangofy_t_ = {};
+			_djangofy_t_['label_loading'] = "Memuat";
+			var ROOT_DOMAIN = 'shopee.co.id';
+			var universalLandingPrefix = '/universal\u002Dlink';
+		
+	</script>
+
+
+	<script type="text/javascript" src="//shopee.co.id/static/jslib_min/jslib_base.js?2e45e2464ea8&6"></script>
+	<script type="text/javascript" src="//shopee.co.id/static/jsutil_min/site.js?61da21e8fe81&6"></script>
+	<script type="text/javascript" src="//shopee.co.id/static/jsutil_min/jsutil_base.js?ecb23cd0c592&6"></script>
+	<script type="text/javascript" src="//shopee.co.id/static/jsutil_min/BJBridgeReceiver.js?37e54840a567&6"></script>
+
+	<script type="text/javascript" src="//shopee.co.id/static/pagejs_min/home/universal_landing_page.js?16ae137a817e&6"></script>
+</head>
+</html>

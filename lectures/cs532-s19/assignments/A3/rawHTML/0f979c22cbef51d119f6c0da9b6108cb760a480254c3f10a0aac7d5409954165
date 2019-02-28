@@ -1,0 +1,1419 @@
+	
+<!doctype html>
+<html lang="es" itemscope itemtype="http://schema.org/Article"><head>
+
+			<link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i|Roboto:300,400,700|PT+Sans:400,400i,700,700i" rel="stylesheet">
+	
+				<link rel="stylesheet" type="text/css" href="https://assets.entrepreneur.com/css/desktop-orion-65741782ce.min.css.gz">
+
+
+	
+	
+
+	
+
+
+	<title>¡Atención! Netflix abrirá oficinas en México en 2019</title>
+
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" charset="utf-8" />
+
+	<meta name="copyright" content="Copyright 2019 Entrepreneur Media, Inc. All rights reserved." />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAQPWVZADgcDVVdQ"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+
+	<meta name="robots" content="index,follow,NOODP" />
+	<meta name="googlebot" content="index,follow,NOODP" />
+	<meta itemscope itemprop="mainEntityOfPage" itemType="https://schema.org/WebPage" itemid="https://www.entrepreneur.com/article/327921" />
+	<meta name="msvalidate.01" content="54B5AAADAA61BB7748D0BA219F04B657" />
+	<meta name="msapplication-config" content="none" />
+	<meta name="verify-v1" content="VytPswCXjUV52BPf9/JrqfKb64cLEpXc4JqfxtlVlME=" />
+	<meta name="google-site-verification" content="j89zX5NotAYNRfZwuCAeYpH7TnOCKSFupnj9FrMps0E" />
+	<meta name="google-site-verification" content="BpKqlkTvR3VgkOSfbJnY-nTEpU5L_JZ-0T48pWf6EU4" />
+	<meta name="google-site-verification" content="j89zX5NotAYNRfZwuCAeYpH7TnOCKSFupnj9FrMps0E" />
+	<meta name="linkedin:owner" content="mid:21884750" />
+	<meta property="fb:app_id" content="279152967822" />
+		<meta property="fb:pages" content="35585623895,110827745661639,125874504101787" />
+	<meta property="og:site_name" content="Entrepreneur" />
+	<link rel="publisher" href="https://plus.google.com/112642400145469652250" />
+	<meta property="article:publisher" content="https://www.facebook.com/EntrepreneurEnEspanol" />
+
+		<meta name="theme-color" content="#131318">
+
+	<link rel="apple-touch-icon" href="https://assets.entrepreneur.com/ent-apple-touch-icon.jpg" />
+	<link rel="shortcut icon" type="image/ico" href="https://assets.entrepreneur.com/favicon.ico" />
+
+					<meta name="edition" content="es">
+
+
+			<meta name="contentEdition" content="es">
+	
+			<meta id="adObject" name="adObject" json='{"keywords" : "netflix,noticias,327921", "objectId" : "327921"}'>
+	
+	<meta name="description" content="La compañía está apostando al mercado mexicano por lo que traerá 50 nuevas producciones originales para el mercado nacional y estará buscando nuevas ideas." />
+	<meta name="keywords" itemprop="keywords" content="Netflix,Noticias" />
+
+	<meta http-equiv="last-modified" content="2019-02-12@17:07:45 UTC" />
+
+	<meta name="unitName" content="/6280/Entrepreneur/article">
+
+	<meta name="author" property="article:author" itemprop="author" content="Entrepreneur en Español" />
+	
+
+
+	<meta name="news_keywords" content="Netflix,Noticias,article" />
+
+	<meta name="original-source" content="https://www.entrepreneur.com/article/327921" />
+	<link rel="canonical" href="https://www.entrepreneur.com/article/327921" />
+
+	<link rel="amphtml" href="https://www.entrepreneur.com/amphtml/327921" />
+
+
+
+	<meta property="og:title" content="¡Atención! Netflix abrirá oficinas en México en 2019" />
+	<meta property="og:description" itemprop="description" content="La compañía está apostando al mercado mexicano por lo que traerá 50 nuevas producciones originales para el mercado nacional y estará buscando nuevas ideas." />
+	<meta property="og:url" itemprop="url" content="https://www.entrepreneur.com/article/327921" />
+	<meta itemprop="image" property="og:image" content="https://assets.entrepreneur.com/content/3x2/2000/20190115195423-Depositphotos-114712606-l-2015.jpeg" />
+	<meta property="og:type" itemprop="genre" content="article" />
+
+	<meta name="sailthru.date" content="2019-02-12T17:04:00Z" />
+	<meta name="sailthru.title" content="¡Atención! Netflix abrirá oficinas en México en 2019" />
+	<meta name="sailthru.tags" content="Netflix,Noticias" />
+	<meta name="sailthru.author" content="Entrepreneur en Español" />
+	<meta name="sailthru.vars" content="edition:es" />
+
+				<meta property="article:published_time" itemprop="datePublished" content="2019-02-12T17:04:00Z" />
+		<meta property="article:modified_time" itemprop="dateModified" content="2019-02-12@17:07:45 UTC" />
+		<meta property="article:section" itemprop="articleSection" content="" />
+		<meta property="article:tag" content="Netflix,Noticias" />
+		<meta name="twitter:card" content="summary_large_image">
+					<meta name="twitter:site" content="@SoyEntrepreneur">
+		
+					<meta name="twitter:creator" content="@SoyEntrepreneur">
+		
+		<meta name="twitter:title" content="¡Atención! Netflix abrirá oficinas en México en 2019">
+		<meta name="twitter:description" content="La compañía está apostando al mercado mexicano por lo que traerá 50 nuevas producciones originales para el mercado nacional y estará buscando nuevas ideas.">
+		<meta name="twitter:url" content="https://www.entrepreneur.com/article/327921">
+		<meta name="twitter:image:src" content="https://assets.entrepreneur.com/content/3x2/2000/20190115195423-Depositphotos-114712606-l-2015.jpeg">
+		<meta name="twitter:domain" content="entrepreneur.com">
+	
+
+	<link rel="shortlink" href="http://entm.ag/tgx" />
+
+	
+		<script>
+		var viewEdition = "us";
+		var edition = "es";
+		dataLayer = [{'edition': viewEdition}];
+
+		var apiServer = "https://api.entrepreneur.com";
+
+	</script>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+	
+
+	<script>
+		_objectMetaData = {
+			'authorName'     : 'Entrepreneur en Español',
+			'authorType'     : 'Entrepreneur Staff',
+			'publicationDate': '2019-02-12 17:04:00',
+			'primaryTopic'   : 'Noticias',
+			'contentId'      : '327921',
+			'isNative'       : '',
+			'templateType'   : 'Basic',
+			'articleEdition' : 'es',
+		};
+
+		dataLayer.push(_objectMetaData);
+
+			</script>
+
+		
+
+	<link rel="alternate" hreflang="es" href="https://www.entrepreneur.com/article/327921" />
+
+
+
+
+
+
+
+
+
+	<script src="https://cdn.adsafeprotected.com/iasPET.1.js"></script>
+
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PNLC48');</script>
+
+			<script async="" defer="" src="//survey.g.doubleclick.net/async_survey?site=pjrzefew226mqmyhrndziibfce"></script>
+	</head>
+
+<body >
+					<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PNLC48" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	
+				<div id="understitial">
+			<div class="adbox nomax" id="uad" data-key="uad"></div>
+		</div>
+	
+			<div id="nvh" class="tpd">
+	<nav>
+				<div class="logo-container">
+			<a href="#" class="button-collapse gutter-left gutter-right" data-activates="slide-out"><i class="icon-hamburger"></i></a>
+			<a class="logo ga-click" href="/" data-ga-action="click" data-ga-category="navigation.top" data-ga-label="logo"><img src="https://assets.entrepreneur.com/static/20160721060814-ENT-logo-white.svg" alt="Entrepreneur - es edition"></a>
+		</div>
+
+				<div class="links-container center">
+							<a href="/watch" class="ga-click" data-ga-category="navigation.top" data-ga-action="click" data-ga-label="watch"><span class="label">Video</span></a>
+				<a href="/listen" class="ga-click" data-ga-category="navigation.top" data-ga-action="click" data-ga-label="listen"><span class="label">Podcasts</span></a>
+				<a href="/business-opportunities" class="ga-click" data-ga-category="navigation.top" data-ga-action="click" data-ga-label="start-a-business" title="Start A Business"><span class="label">Start A Business</span></a>
+				<a href="https://subscribe.hearstmags.com/subscribe/ENT/225367?source=ent_navigation" target="_blank" class="ga-click" data-ga-category="navigation.top" data-ga-action="click" data-ga-label="subscribe" title="Subscribe"><span class="label">Subscribe</span></a>
+				<a href="https://aerbook.com/store/EntrepreneurBooks" class="ga-click" data-ga-category="navigation.top" data-ga-action="click" data-ga-label="books" target="_blank"><span class="label">Books</span></a>
+					</div>
+
+				<div class="icon-container">
+			<span class="entnatv nlinks" data-type="site-chrome-promo"> </span>
+			<span class="nlinks gcsinit ga-click" data-ga-category="navigation.top" data-ga-action="display" data-ga-label="search" id="scsearch">
+				<div class="searchbox"></div>
+				<i class="icon-search"></i>
+			</span>
+			<a href="#" data-target="queue1" id="mobile-queue" class="nlinks qdd modal-trigger nav-queue ga-click" data-ga-action="display" data-ga-category="navigation.top" data-ga-label="queue"><i class="icon-queue-unbranded"></i></a>
+			<a data-target="login-modal" class="nlinks nprofile ga-click modal-trigger" data-ga-category="navigation.top" data-ga-action="display" data-ga-label="profile" href="#"><i id="lgnchck" class="icon-user-profile icon-spinner icon-spin"></i></a>
+		</div>
+	</nav>
+
+			</div>
+
+
+
+<ul id="profiledd" class="dropdown-content mini ">
+	<li class="userinfo">
+		<div class="avatar">
+			<i class="icon-cool"></i>
+		</div>
+		<div class="username">My Account</div>
+	</li>
+	<li><a href="/dashboard"><i class="icon-dashboard"></i> Dashboard</a></li>
+	<li><a href="/dashboard/insider"><i class="icon-insider"></i> Entrepreneur Insider</a></li>
+	<li><a href="/dashboard/content"><i class="icon-saved"></i> Saved Content</a></li>
+	<li><a href="/dashboard/profile"><i class="icon-account"></i> My Account</a></li>
+	<li class="divider"></li>
+	<li><a href="#pr-logout" class="modal-trigger light-blue-text">Sign Out</a></li>
+</ul><ul id="slide-out" class="side-nav ">
+	<li>
+		<ul class="collapsible" data-collapsible="accordion">
+			<li>
+				<span class="main logo ga-click" href="#" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="logo">
+					<a class="sidenav-close" href="#"><i class="icon-close white-text"></i></a>
+					<a href="/"><img class="padding-top padding-bottom" src="https://assets.entrepreneur.com/static/20160721060814-ENT-logo-white.svg"/></a>
+				</span>
+			</li>
+			<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="watch" href="/watch"><i class="icon-watch"></i> Video</a></li>
+			<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="listen" href="/listen"><i class="icon-listen"></i> Podcasts</a></li>
+			<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="read" href="/read"><i class="icon-read"></i> Articles</a></li>
+			<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="start-a-business" href="/business-opportunities"><i class="icon-front-store"></i> Start A Business</a></li>
+			<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="store" href="https://store.entrepreneur.com/?utm_source=entrepreneur.com&utm_medium=navbar" target="_blank"><i class="icon-cart"></i> Store</a></li>
+			<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="books" href="https://aerbook.com/store/EntrepreneurBooks" target="_blank"><i class="icon-book"></i> Books</a></li>
+							<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="women" href="/women">Women Entrepreneur</a></li>
+				<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="green" href="https://www.greenentrepreneur.com" target="_blank">Green Entrepreneur</a></li>
+				<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="ask-an-expert" href="/ask-an-expert">Ask An Expert</a></li>
+				<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="shop" href="https://shop.entrepreneur.com" target="_blank">Shop Entrepreneur</a></li>
+			
+
+			<li>
+				<div class="main collapsible-header ga-click" data-ga-category="navigation.flyout" data-ga-action="display" data-ga-label="franchise">Franchise<i class="icon-chevron-down"></i></div>
+				<div class="collapsible-body">
+					<ul>
+						<li><a href="/franchises" class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="franchise-home">Franchise Home</a></li>
+						<li><a href="/franchise500" class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="franchise-500">Franchise 500 Ranking</a></li>
+						<li><a href="/bizopportunities" class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="franchise-bizopp">Business Opportunities List</a></li>
+						<li><a href="/business-opportunities" class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="franchise-oppfinder">Franchises For Sale</a></li>
+					</ul>
+				</div>
+			</li>
+
+			<li>
+				<div class="main collapsible-header ga-click" data-ga-category="navigation.flyout" data-ga-action="display" data-ga-label="product">Products<i class="icon-chevron-down"></i></div>
+				<div class="collapsible-body">
+					<ul>
+						<li><a href="/watch" class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="product-network">Network</a></li>
+						<li><a href="/listen" class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="product-podcast">Podcasts</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="product-books" href="https://aerbook.com/store/EntrepreneurBooks" target="_blank">Books</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="product-connect" href="http://connect.entrepreneur.com" target="_blank">Connect</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="product-insurance" href="https://www.entrepreneur.com/insurance?utm_campaign=EntrepreneurInsurance&utm_source=Entrepreneur&utm_medium=Site&utm_content=SideNav">Entrepreneur Insurance</a></li>
+					</ul>
+				</div>
+			</li>
+			<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="events" href="/events">Events</a></li>
+			<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="spotlight" href="/spotlight">Spotlight</a></li>
+
+			<li>
+				<div class="main collapsible-header ga-click" data-ga-category="navigation.flyout" data-ga-action="display" data-ga-label="topic">Topics<i class="icon-chevron-down"></i></div>
+				<div class="collapsible-body">
+					<ul>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="topic-leadership" href="/topic/leadership">Leadership</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="topic-inspiration" href="/topic/inspiration">Inspiration</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="topic-growth" href="/topic/growth-strategies">Growth Strategies</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="topic-marketing" href="/topic/marketing">Marketing</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="topic-technology" href="/topic/technology">Technology</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="topic-social" href="/topic/social-media">Social Media</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="topic-finance" href="/topic/finance">Finance</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="topic-entrepreneurs" href="/topic/entrepreneurs">Entrepreneurs</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="topic-starting" href="/topic/starting-a-business">Starting a Business</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="topic-franchise" href="/franchise">Franchise</a></li>
+					</ul>
+				</div>
+			</li>
+
+			<li>
+				<div class="main collapsible-header ga-click" data-ga-category="navigation.flyout" data-ga-action="display" data-ga-label="magazine">Magazine<i class="icon-chevron-down"></i></div>
+				<div class="collapsible-body">
+					<ul>
+													<li><a href="/magazine" class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="magazine-issues">Issues</a></li>
+												<li><a href="https://www.suscribiendome.com/entrepreneur/" target="_blank" class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="magazine-subscribe">Subscribe</a></li>
+													<li><a href="https://subscribe.hearstmags.com/subscribe/splits/ENT/ent_gift_nav" target="_blank" class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="magazine-gift">Gift Subscription</a></li>
+							<li><a href="https://subscription.entrepreneur.com/pubs/EN/ENT/ENT_custcare.jsp?cds_page_id=55998&cds_mag_code=ENT&id=1391478550901&lsid=40341948473027861&vid=3" target="_blank" class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="magazine-services">Subscription Services</a></li>
+											</ul>
+				</div>
+			</li>
+
+			<li>
+				<div class="main collapsible-header ga-click" data-ga-category="navigation.flyout" data-ga-action="display" data-ga-label="newsletter">Newsletter<i class="icon-chevron-down"></i></div>
+				<div class="collapsible-body">
+					<ul>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="newsletter-subscribe" href="http://link.entrepreneur.com/join/signup" target="_blank">Subscribe</a></li>
+											</ul>
+				</div>
+			</li>
+
+			<li>
+				<div class="main collapsible-header ga-click" data-ga-category="navigation.flyout" data-ga-action="display" data-ga-label="edition">Editions<i class="icon-chevron-down"></i></div>
+				<div class="collapsible-body">
+					<ul>
+						<li><a href="/us" data-edition='us' class="edition-switch ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="edition-us">United States</a></li>
+						<li><a href="/in" data-edition='in' class="edition-switch ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="edition-in">India</a></li>
+						<li><a href="/ap" data-edition='ap' class="edition-switch ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="edition-ap">Asia Pacific</a></li>
+						<li><a href="/me" data-edition='me' class="edition-switch ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="edition-me">Middle East</a></li>
+						<li><a href="/eu" data-edition='eu' class="edition-switch ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="edition-eu">Europe</a></li>
+												<li><a href="/es" data-edition='es' class="edition-switch ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="edition-es">Espa&ntilde;ol</a></li>
+												<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="edition-cn" href="http://www.cyzone.cn" rel="nofollow" target="_blank">China</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="edition-ph" href="http://www.entrepreneur.com.ph" rel="nofollow" target="_blank">Philippines</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="edition-za" href="http://www.entrepreneurmag.co.za" rel="nofollow" target="_blank">South Africa</a></li>
+					</ul>
+				</div>
+			</li>
+
+			<li>
+				<div class="main collapsible-header ga-click" data-ga-category="navigation.flyout" data-ga-action="display" data-ga-label="other">Other<i class="icon-chevron-down"></i></div>
+				<div class="collapsible-body">
+					<ul>
+													<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="other-contact" href="/contact">Contact</a></li>
+															<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="other-advertise" href="http://entrepreneurmedia.com/" target="_blank">Advertise</a></li>
+														<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="other-reprints" href="http://www.entrepreneurreprints.com/" target="_blank">Reprints &amp; Licensing</a></li>
+												<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="other-terms" href="/terms-of-service">Terms of Use</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="other-privacy" href="/privacy-policy">Privacy Policy</a></li>
+						<li><a class="ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="other-cookies" href="/cookie-policy">Cookies Policy</a></li>
+					</ul>
+				</div>
+			</li>
+			<li><a class="main ga-click" data-ga-category="navigation.flyout" data-ga-action="click" data-ga-label="sitemap" href="/sitemaps/main">Site Map</a></li>
+		</ul>
+	</li>
+</ul>
+<div id="userq" class="">
+	<div class="qhead">
+		<h6>
+			<a href="#" class="queue-close right ga-click" data-ga-category="queue.top" data-ga-action="display" data-ga-label="close"><i class="icon-cross"></i></a>
+			My Queue
+		</h6>
+	</div>
+	<ul class="tabs qtabs">
+		<li class="tab ga-click" data-ga-category="queue.top" data-ga-action="display" data-ga-label="read" data-queue="qread"><a data-page="1" data-type="article"  class="active" href="#qread">Articles</a></li>
+		<li class="tab ga-click" data-ga-category="queue.top" data-ga-action="display" data-ga-label="watch" data-queue="qwatch"><a data-page="1" data-type="video"  href="#qwatch">Videos</a></li>
+		<li class="tab ga-click" data-ga-category="queue.top" data-ga-action="display" data-ga-label="listen" data-queue="qlisten"><a data-page="1" data-type="podcast"  href="#qlisten">Podcasts</a></li>
+		<li class="tab ga-click" data-ga-category="queue.top" data-ga-action="display" data-ga-label="authors" data-queue="qauthor"><a data-page="1" data-type="author"  href="#qauthor">Authors</a></li>
+	</ul>
+	<div class="qholder">
+		<div id="qwatch">
+			<div class="qempty">
+				<p class="grey-text text-lighten-1">There are no Videos in your queue.</p>
+				<p class="grey-text text-lighten-1" style="margin-bottom: 2rem;">Click on the <span class="white-text"><i class="icon-plus"></i>Add to</span> next to any video to save to your queue.</p>
+				<div class="center">
+					<a href="/watch" data-ga-category="queue.top" data-ga-action="click" data-ga-label="watch-cta" class="btn ga-click ">See Latest Videos</a>
+				</div>
+			</div>
+		</div>
+		<div id="qread">
+			<div class="qempty">
+				<p class="grey-text text-lighten-1">There are no Articles in your queue.</p>
+				<p class="grey-text text-lighten-1" style="margin-bottom: 2rem;">Click on the <span class="white-text"><i class="icon-plus"></i>Add to</span> next to any article to save to your queue.</p>
+				<div class="center">
+					<a href="/read" data-ga-category="queue.top" data-ga-action="click" data-ga-label="read-cta" class="btn ga-click ">See Latest Articles</a>
+				</div>
+			</div>
+		</div>
+		<div id="qlisten">
+			<div class="qempty">
+				<p class="grey-text text-lighten-1">There are no Podcasts in your queue.</p>
+				<p class="grey-text text-lighten-1" style="margin-bottom: 2rem;">Click on the <span class="white-text"><i class="icon-plus"></i>Add to</span> next to any podcast episode to save to your queue.</p>
+				<div class="center">
+					<a href="/listen" data-ga-category="queue.top" data-ga-action="click" data-ga-label="podcast-cta" class="btn ga-click ">See Latest Podcasts</a>
+				</div>
+			</div>
+		</div>
+		<div id="qauthor">
+			<div class="qempty">
+				<p class="grey-text text-lighten-1">You're not following any authors.</p>
+				<p class="grey-text text-lighten-1" style="margin-bottom: 2rem;">Click the <span class="white-text">Follow</span> button on any author page to keep up with the latest content from your favorite authors.</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="queue1" class="modal bottom-sheet"></div>	
+
+	<main class=" tpd">
+		
+		
+			<div class="maincontent">
+									
+	
+		<div class="fw-container adhesion top-banner-ad">
+		<div class="banner-ad adbox " 
+					data-adsync="true"
+							data-key="had"
+		>
+	</div>
+		</div>
+					
+					<div class="adbox" id="skin" data-adsync="true" data-key="skin"></div>
+
+				
+<article id="art-v2">
+	<div id="art-v2-container" class="container " >
+		<section class="art2-holder " data-word-count="778">
+
+				
+	<a class="articlekicker ga-click kickertags" href="/topic/netflix" data-activates="tags" data-ga-category="article-breadcrumb" data-ga-label="tier.2" data-ga-action="Netflix" itemprop="articleSection">Netflix</a>
+
+	
+
+			<h1 class="headline" itemprop="headline">
+				¡Atención! Netflix abrirá oficinas en México en 2019
+			</h1>
+
+							<div class="art-deck" itemprop="description">
+					La compañía está apostando al mercado mexicano por lo que traerá 50 nuevas producciones originales para el mercado nacional y estará buscando nuevas ideas.
+				</div>
+			
+							<div class="art-share">
+						<div class="socialsharebar " id="share327921article-share" data-ga-category="article-share-share" data-ga-label="share-327921" data-ga-action="display" data-shareid="share327921article-share" data-share-title="¡Atención! Netflix abrirá oficinas en México en 2019" data-share-deck="La compañía está apostando al mercado mexicano por lo que traerá 50 nuevas producciones originales para el mercado nacional y estará buscand..." data-author-handle="@SoyEntrepreneur" data-share-url="http://entm.ag/tgx">
+					<a href="/article/326379" data-ga-category="article-next-button-326379" data-ga-label="Next Article Button" data-ga-action="click" data-next="/article/326379" class="btn-flat ga-click right uppercase bold ">
+									Next Article <i class="icon-arrow-right right"></i>
+							</a>
+		
+					<ul>
+									<li class="count"><span id="ent-share-count-display">--</span>shares</li>
+				
+				<li class="ga-click socialcolor facebook solid" data-ga-category="article-share-share" data-ga-label="share-327921" data-ga-action="facebook" title="Share on Facebook" data-network="facebook"><i class="icon-facebook"></i></li>
+				<li class="ga-click socialcolor twitter solid" data-ga-category="article-share-share" data-ga-label="share-327921" data-ga-action="twitter" title="Share on Twitter" data-network="twitter"><i class="icon-twitter"></i></li>
+				<li class="ga-click socialcolor linkedin solid" data-ga-category="article-share-share" data-ga-label="share-327921" data-ga-action="linkedin" title="Share on LinkedIn" data-network="linkedin"><i class="icon-linkedin2"></i></li>
+				<li class="ga-click black solid sharelink" data-ga-category="article-share-share" data-ga-label="share-327921" data-ga-action="clipboard" title="Copy Link" data-network="sharelink"><i class="icon-link"></i></li>
+							</ul>
+							<a href="#" class="qs addqueue btn btn-inverse btn-small hide-on-small-only  gutter-left ga-click " title="Add to your queue" data-ga-category="article-share-queue" data-ga-label="queue-327921" data-ga-action="click" data-queueaction="add" data-queueitemid="327921" data-queuetype="article">
+					Add to Queue
+				</a>
+						</div>
+				</div>
+			
+												<div class="hero-ad">
+						
+	<div class="island-ad adbox  " 
+							data-adsync="true"
+							data-key="vad" 
+		>
+	</div>
+					</div>
+				
+								<figure class="heroimage">
+					<div class="imgcont">
+													<img class="lazy lazyload" itemprop="image" itemscope itemtype="https://schema.org/ImageObject" alt="¡Atención! Netflix abrirá oficinas en México en 2019" data-src="https://assets.entrepreneur.com/content/3x2/2000/20190115195423-Depositphotos-114712606-l-2015.jpeg?width=700&crop=2:1" src="https://assets.entrepreneur.com/content/3x2/2000/20190115195423-Depositphotos-114712606-l-2015.jpeg?width=700&crop=2:1&quality=20" />
+																			<div class="credit">
+								Cr&eacute;dito:
+
+																	Depositphotos.com
+															</div>
+											</div>
+									</figure>
+			
+				<div class="author-info  ">
+					<a href="/author/staff-entrepreneur" rel="author" itemprop="author" itemscope itemtype="https://schema.org/Person" class="hero ga-click"  data-ga-category="article.author" data-ga-label="image" data-ga-action="click">
+				<img src="https://assets.entrepreneur.com/content/1x1/300/20160302184813-avatar.jpeg?width=100" alt="Entrepreneur en Español" />
+			</a>
+		
+		<div class="block">
+			<a href="/author/staff-entrepreneur" rel="author" itemprop="author" itemscope itemtype="https://schema.org/Person" class="authorname ga-click"  data-ga-category="article.author" data-ga-label="name" data-ga-action="click">
+				<div itemprop="name">Entrepreneur en Español</div>
+			</a>
+
+											<div class="tooltipped tier" data-tooltip="Entrepreneur Staff are full-time editors and writers for Entrepreneur magazine and Entrepreneur.com.">Entrepreneur Staff</div>
+			
+			
+							<div class="socialaccounts">
+					<a class="facebook ga-click" target="_blank" data-ga-category="article.author.social" data-ga-label="facebook" data-ga-action="click" href="https://www.facebook.com/EntrepreneurEnEspanol/"><i class="icon-facebook"></i></a>					<a class="twitter ga-click" target="_blank" data-ga-category="article.author.social" data-ga-label="twitter" data-ga-action="click" href="https://twitter.com/SoyEntrepreneur"><i class="icon-twitter"></i></a>					<a class="linkedin ga-click" target="_blank" data-ga-category="article.author.social" data-ga-label="linkedin" data-ga-action="click" href="https://www.linkedin.com/company/entrepreneur-mexico"><i class="icon-linkedin2"></i></a>										<a class="google ga-click" target="_blank" data-ga-category="article.author.social" data-ga-label="google" data-ga-action="click" href="https://plus.google.com/+EntrepreneurMexico/posts"><i class="icon-google-plus"></i></a>														</div>
+					</div>
+	</div>
+
+						<div class="art-v2-body" id="articleAdd">
+
+									<div class="fs-h grey-text ff-default">
+						<time datetime="2019-02-12 17:04:00" itemprop="datePublished" content="2019-02-12T17:04:00Z">
+							February
+							12, 2019
+						</time>
+													4 min read
+											</div>
+				
+				
+
+				<small class="grey-text text-darken-1">
+	</small>
+				
+				
+	
+	<p><b>Netflix </b>anunci&oacute; que <b>abrir&aacute; oficinas en la Ciudad de M&eacute;xico </b>este 2019 y que, apostando por el talento nacional, <b>presentar&aacute; m&aacute;s de 50 proyectos</b> incluyendo contenido original y coproducciones (que actualmente se encuentran en diferentes etapas de producci&oacute;n) para el resto de el a&ntilde;o en curso&nbsp;y el 2020.</p><p>En el marco del foro <i>Un evento original de Netflix</i> en la Ciudad de M&eacute;xico,Ted Sarandos, director ejecutivo de contenidos en Netflix se reuni&oacute; con la comunidad creativa para hablar de la importancia de M&eacute;xico en el mundo del entretenimiento y los planes de la compa&ntilde;&iacute;a a futuro.</p><p>El actor <b>Diego Luna</b> fue moderador del panel con&nbsp;Sarandos durante el evento. Entre varias preguntas que el histri&oacute;n le hizo el ejecutivo, destac&oacute; una sobre la definici&oacute;n de &quot;&eacute;xito&quot; para Netflix:&nbsp;</p><p>&quot;Cuando la gente comienza a hablar de un programa en&nbsp;la oficina. Cuando se ve el amor a un personaje y sobre todo, cuando se habla del programa en las redes sociales. Los primeros 30 d&iacute;as que alguien contrata son fundamentales para ver si le agrad&oacute; o no el show&quot;.&nbsp;</p><p>A esto, Luna cuestion&oacute; al directivo sobre c&oacute;mo las personas&nbsp;pueden llevar un proyecto a Netflix.&nbsp;</p><blockquote><p>&quot;Buscamos cosas relevantes, pero algo muy importante, es que puedan transmitirse a otros pa&iacute;ses. La gente debe enamorarse de los personajes, deben tener una historia que transmitir.&nbsp;Nosotros te damos la plataforma, pero t&uacute; nos dar&aacute;s la visi&oacute;n, eso es importante para Netflix&quot;.&nbsp;</p></blockquote><p>De esta manera, la principal compa&ntilde;&iacute;a del mundo de streaming de contenido confirm&oacute; cuatro pel&iacute;culas locales actualmente en diferentes etapas de desarrollo que llegar&aacute;n al servicio en los pr&oacute;ximos dos a&ntilde;os. Los proyectos incluyen <b><i>Como ca&iacute;do del cielo</i></b>, una comedia musical inspirada en las canciones del ic&oacute;nico int&eacute;rprete mexicano <b>Pedro Infante</b>, protagonizada por Omar Chaparro (<i>Overboard, No manches Frida, La boda de Valentina</i>) y Ana Claudia Talanc&oacute;n (<i>Perfectos desconocidos, El recluso, El crimen del padre Amaro</i>), escrita y dirigida por Pepe Boj&oacute;rquez (<i>M&aacute;s sabe el diablo por viejo</i>); <i>Fondeados</i>, con Marcos Bucay (<i>Club de Cuervos; Yo, Potro</i>) en su debut como director y escritor de largometraje; <i>Se busca pap&aacute;</i>, una pel&iacute;cula familiar producida por <b>Coraz&oacute;n Films</b>; y <i>Ah&iacute; te encargo</i>, una mirada moderna a la comedia rom&aacute;ntica, escrita por Leonardo Zimbr&oacute;n y Tiar&eacute; Scanda y producida por Traziende Films.</p><p>Por su parte, <i>R&iacute;o Grande, R&iacute;o Bravo</i> es un proyecto de cinco cortometrajes documentales con <b>Gael Garc&iacute;a Bernal </b>como productor ejecutivo y producidos por Elena Fortes y Daniela Alatorre de No Ficci&oacute;n, e incluye directores como Trisha Ziff, Juan Carlos Rulfo y Everardo Gonz&aacute;lez, contando historias que suceden en la frontera entre M&eacute;xico y Estados Unidos. Adem&aacute;s, se estrenar&aacute;n otros documentales antes del final del a&ntilde;o que tocan temas como eventos hist&oacute;ricos, crimen, deporte y gastronom&iacute;a.</p><p>Entre las<b> series originales mexicanas</b> se sumar&aacute;n varios proyectos nuevos, entre los cuales se destacan <i>Los corruptores, </i>basada en la novela hom&oacute;nima de Jorge Zepeda Patterson, y la serie adolescente <i>Sof&iacute;a H., </i>ambas producidas por Lemon Films; <i>Bandidos, </i>producida por Leonardo Zimbr&oacute;n y creada por Alejandro Brugues y Esteban Orozco; <i>El Club, </i>que ya se encuentra en su fase de producci&oacute;n, producida por Argos, creada por Camila Ibarra y protagonizada por Alejandro Speitzer, Minnie West, Jorge Caballero, Axel Arenas y Arcelia Ram&iacute;rez; y un <i>thriller</i> a&uacute;n sin t&iacute;tulo<i> </i>producida por The Immigrant, con producci&oacute;n ejecutiva de Camila Jimenez y Silvana Aguirre.</p><p>Proyectos previamente anunciados que empezar&aacute;n rodaje este a&ntilde;o incluyen<b> <i>Selena: La serie</i></b>, basada en la vida de Selena Quintanilla y producida por Campanario; la segunda temporada de <b><i>La casa de las flores</i> de Manolo Caro</b>; y <i><b>American Jesus</b>, </i>basada en la novela gr&aacute;fica de <b>Mark Millar</b> y producida por los hermanos Leopoldo y Everardo Gout. Luego del &eacute;xito de sus primeros especiales de comedia en <b>Netflix</b>, Franco Escamilla y Daniel Sosa tambi&eacute;n regresar&aacute;n con nuevos especiales este a&ntilde;o.</p><p><b><i>Con informaci&oacute;n de Josie Palma.&nbsp;</i></b></p>
+
+
+									<div class="entnatv clearfix " data-type="article-footer-promo"></div>
+							</div>
+		</section>
+	</div>
+
+	</article>
+
+
+<section class="art-narrow">
+	<h2 class="heading">Keep Reading</h2>
+	<div class="pl-heroleft">
+						
+
+
+
+
+
+<div id="" class="pl  " >
+							<div class="hero ">
+				<a class="ga-click" href="https://www.mexicodesconocido.com.mx/mirador-natural-en-la-sierra-tarahumara.html"  data-ga-category="home-news" data-ga-label="playlist.1" data-ga-action="image">
+					<img class="lazyload lazy " data-src="https://www.mexicodesconocido.com.mx/wp-content/uploads/2019/02/CEROCAHUI-XIV.jpg?" src="https://www.mexicodesconocido.com.mx/wp-content/uploads/2019/02/CEROCAHUI-XIV.jpg?&quality=20" alt="Conoce el impresionante mirador natural en la Sierra Tarahumara" />
+				</a>
+							</div>
+			
+	<div class="block">
+				
+															<a class="kicker ga-click " href="https://www.mexicodesconocido.com.mx/mirador-natural-en-la-sierra-tarahumara.html" data-ga-category="home-news" data-ga-label="playlist.1" data-ga-action="kicker">Mexico Desconocido</a>
+									
+		<h3 ><a href="https://www.mexicodesconocido.com.mx/mirador-natural-en-la-sierra-tarahumara.html" class="ga-click "  data-ga-category="home-news" data-ga-label="playlist.1" data-ga-action="headline">Conoce el impresionante mirador natural en la Sierra Tarahumara</a></h3>
+
+		
+								<div class="deck">El Cerro del Gallego en Cerocahui es un impresionante mirador natural en la Sierra Tarahumara. Te contamos su ancestral historia.</div>
+					
+		
+				<div class="byline">
+					<a class="ga-click" href="https://www.mexicodesconocido.com.mx/mirador-natural-en-la-sierra-tarahumara.html" data-ga-category="home-news" data-ga-label="playlist.1" data-ga-action="authorname">
+				
+				<span class="name">Nicolás Triedo</span>
+			</a>
+		
+		
+			</div>
+
+		
+			</div>
+</div>						
+
+
+
+
+
+<div id="" class="pl  " >
+							<div class="hero ">
+				<a class="ga-click" href="https://www.nupciasmagazine.com/boda/decoracion/ideas-de-decoracion-para-las-sillas-de-boda/"  data-ga-category="home-news" data-ga-label="playlist.2" data-ga-action="image">
+					<img class="lazyload lazy " data-src="https://www.nupciasmagazine.com/wp-content/uploads/2019/02/portada-sillas.jpg?" src="https://www.nupciasmagazine.com/wp-content/uploads/2019/02/portada-sillas.jpg?&quality=20" alt="Ideas de decoración para las sillas de boda" />
+				</a>
+							</div>
+			
+	<div class="block">
+				
+															<a class="kicker ga-click " href="https://www.nupciasmagazine.com/boda/decoracion/ideas-de-decoracion-para-las-sillas-de-boda/" data-ga-category="home-news" data-ga-label="playlist.2" data-ga-action="kicker">Nupcias Magazine</a>
+									
+		<h3 ><a href="https://www.nupciasmagazine.com/boda/decoracion/ideas-de-decoracion-para-las-sillas-de-boda/" class="ga-click "  data-ga-category="home-news" data-ga-label="playlist.2" data-ga-action="headline">Ideas de decoración para las sillas de boda</a></h3>
+
+		
+								<div class="deck">Inspírate y adorna las sillas perfectas para ese día tan especial. </div>
+					
+		
+				<div class="byline">
+					<a class="ga-click" href="https://www.nupciasmagazine.com/boda/decoracion/ideas-de-decoracion-para-las-sillas-de-boda/" data-ga-category="home-news" data-ga-label="playlist.2" data-ga-action="authorname">
+				
+				<span class="name">Fernanda Orendain</span>
+			</a>
+		
+		
+			</div>
+
+		
+			</div>
+</div>						
+
+
+
+
+
+<div id="" class="pl  " >
+							<div class="hero ">
+				<a class="ga-click" href="https://www.cinepremiere.com.mx/cruz-azul-cameo-birds-of-prey.html"  data-ga-category="home-news" data-ga-label="playlist.3" data-ga-action="image">
+					<img class="lazyload lazy " data-src="https://www.cinepremiere.com.mx/wp-content/uploads/2019/02/Harley-Quinn-Cruz-Azul-Birds-of-Prey.jpeg?" src="https://www.cinepremiere.com.mx/wp-content/uploads/2019/02/Harley-Quinn-Cruz-Azul-Birds-of-Prey.jpeg?&quality=20" alt="Cruz Azul se integra al DC Extended Universe" />
+				</a>
+							</div>
+			
+	<div class="block">
+				
+															<a class="kicker ga-click " href="https://www.cinepremiere.com.mx/cruz-azul-cameo-birds-of-prey.html" data-ga-category="home-news" data-ga-label="playlist.3" data-ga-action="kicker">Cine Premiere</a>
+									
+		<h3 ><a href="https://www.cinepremiere.com.mx/cruz-azul-cameo-birds-of-prey.html" class="ga-click "  data-ga-category="home-news" data-ga-label="playlist.3" data-ga-action="headline">Cruz Azul se integra al DC Extended Universe</a></h3>
+
+		
+								<div class="deck">Tal vez tenga 21 años sin título, pero el Cruz Azul ya puede presumir ser el primer equipo mexicano con presencia en la popular franquicia.</div>
+					
+		
+				<div class="byline">
+					<a class="ga-click" href="https://www.cinepremiere.com.mx/cruz-azul-cameo-birds-of-prey.html" data-ga-category="home-news" data-ga-label="playlist.3" data-ga-action="authorname">
+				
+				<span class="name">Luis Miguel Cruz</span>
+			</a>
+		
+		
+			</div>
+
+		
+			</div>
+</div>						
+
+
+
+
+
+<div id="" class="pl  " >
+							<div class="hero ">
+				<a class="ga-click" href="https://www.altonivel.com.mx/empresas/huachicoleo-electrico-cuesta-cfe-robo-electricidad/"  data-ga-category="home-news" data-ga-label="playlist.4" data-ga-action="image">
+					<img class="lazyload lazy " data-src="https://www.altonivel.com.mx/wp-content/uploads/2019/02/CFE.jpg?" src="https://www.altonivel.com.mx/wp-content/uploads/2019/02/CFE.jpg?&quality=20" alt="¿Huachicoleo eléctrico? Esto le cuesta a CFE el robo de energía" />
+				</a>
+							</div>
+			
+	<div class="block">
+				
+															<a class="kicker ga-click " href="https://www.altonivel.com.mx/empresas/huachicoleo-electrico-cuesta-cfe-robo-electricidad/" data-ga-category="home-news" data-ga-label="playlist.4" data-ga-action="kicker">Altonivel</a>
+									
+		<h3 ><a href="https://www.altonivel.com.mx/empresas/huachicoleo-electrico-cuesta-cfe-robo-electricidad/" class="ga-click "  data-ga-category="home-news" data-ga-label="playlist.4" data-ga-action="headline">¿Huachicoleo eléctrico? Esto le cuesta a CFE el robo de energía</a></h3>
+
+		
+								<div class="deck">El director de la CFE asegura que el robo de energía eléctrica no solo proviene de locales callejeros, sino de grandes empresas.</div>
+					
+		
+				<div class="byline">
+					<a class="ga-click" href="https://www.altonivel.com.mx/empresas/huachicoleo-electrico-cuesta-cfe-robo-electricidad/" data-ga-category="home-news" data-ga-label="playlist.4" data-ga-action="authorname">
+				
+				<span class="name">Notimex</span>
+			</a>
+		
+		
+			</div>
+
+		
+			</div>
+</div>			</div>
+</section>
+
+	<div class="container transparent">
+	<h2 class="heading nb">
+		More from Entrepreneur
+	</h2>
+	<div class="equal-height addSpacing">
+		<div class="row pl-heroabove">
+												<div class="col s12 m4 card-panel hoverable">
+							
+	
+	
+
+
+
+<div id="" class="pl nm np " >
+							<div class="hero ">
+				<a class="ga-click" href="https://www.entrepreneur.com/ask-an-expert?utm_campaign=AskAnExpert&amp;utm_source=Entrepreneur&amp;utm_medium=Site&amp;utm_content=Product&amp;utm_term=KimPerell"  data-ga-category="article-product-promo" data-ga-label="playlist.1" data-ga-action="image">
+					<img class="lazyload lazy " data-src="https://assets.entrepreneur.com/static/20181205073710-Ask-an-Expert-Kim-Perell.jpg?format=jpg&amp;width=400&amp;crop=16:9" src="https://assets.entrepreneur.com/static/20181205073710-Ask-an-Expert-Kim-Perell.jpg?format=jpg&amp;width=400&amp;crop=16:9&quality=20" alt="" />
+				</a>
+							</div>
+			
+	<div class="block">
+				
+		<h3 ><a href="https://www.entrepreneur.com/ask-an-expert?utm_campaign=AskAnExpert&amp;utm_source=Entrepreneur&amp;utm_medium=Site&amp;utm_content=Product&amp;utm_term=KimPerell" class="ga-click "  data-ga-category="article-product-promo" data-ga-label="playlist.1" data-ga-action="headline"></a></h3>
+
+		
+								<div class="deck">Kim's expertise can help you become a strong leader, pitch VCs for capital, and develop a growth strategy.</div>
+					
+					<a class="btn btn-flat ga-click"  data-ga-category="article-product-promo" data-ga-label="playlist.1" data-ga-action="cta" href="https://www.entrepreneur.com/ask-an-expert?utm_campaign=AskAnExpert&amp;utm_source=Entrepreneur&amp;utm_medium=Site&amp;utm_content=Product&amp;utm_term=KimPerell" >Book Your Session</a>
+		
+		
+		
+			</div>
+</div>					</div>
+																<div class="col s12 m4 card-panel hoverable">
+							
+	
+	
+
+
+
+<div id="" class="pl nm np " >
+							<div class="hero ">
+				<a class="ga-click" href="http://entrepreneurmedia.com/books/entrepreneur-authors/ "  data-ga-category="article-product-promo" data-ga-label="playlist.1" data-ga-action="image">
+					<img class="lazyload lazy " data-src="https://assets.entrepreneur.com/static/20181018114141-EP-Authors-Product-Promo-Option-1.jpg?format=jpg&amp;width=400&amp;crop=16:9" src="https://assets.entrepreneur.com/static/20181018114141-EP-Authors-Product-Promo-Option-1.jpg?format=jpg&amp;width=400&amp;crop=16:9&quality=20" alt="" />
+				</a>
+							</div>
+			
+	<div class="block">
+				
+		<h3 ><a href="http://entrepreneurmedia.com/books/entrepreneur-authors/ " class="ga-click "  data-ga-category="article-product-promo" data-ga-label="playlist.1" data-ga-action="headline"></a></h3>
+
+		
+								<div class="deck">In as little as seven months, the Entrepreneur Authors program will turn your ideas and expertise into a professionally presented book.</div>
+					
+					<a class="btn btn-flat ga-click"  data-ga-category="article-product-promo" data-ga-label="playlist.1" data-ga-action="cta" href="http://entrepreneurmedia.com/books/entrepreneur-authors/ " >Apply Now</a>
+		
+		
+		
+			</div>
+</div>					</div>
+																<div class="col s12 m4 card-panel hoverable">
+							
+	
+	
+
+
+
+<div id="" class="pl nm np " >
+							<div class="hero ">
+				<a class="ga-click" href="/insurance"  data-ga-category="article-product-promo" data-ga-label="playlist.1" data-ga-action="image">
+					<img class="lazyload lazy " data-src="https://assets.entrepreneur.com/content/3x2/2000/20180917174058-EN-E-Insurance-Product-Promo-2000x1334.jpeg?format=jpg&amp;width=400&amp;crop=16:9" src="https://assets.entrepreneur.com/content/3x2/2000/20180917174058-EN-E-Insurance-Product-Promo-2000x1334.jpeg?format=jpg&amp;width=400&amp;crop=16:9&quality=20" alt="" />
+				</a>
+							</div>
+			
+	<div class="block">
+				
+		<h3 ><a href="/insurance" class="ga-click "  data-ga-category="article-product-promo" data-ga-label="playlist.1" data-ga-action="headline"></a></h3>
+
+		
+								<div class="deck">Are paying too much for business insurance? Do you have critical gaps in your coverage? Trust Entrepreneur to help you find out.</div>
+					
+					<a class="btn btn-flat ga-click"  data-ga-category="article-product-promo" data-ga-label="playlist.1" data-ga-action="cta" href="/insurance" >Get Your Quote Now</a>
+		
+		
+		
+			</div>
+</div>					</div>
+									</div>
+	</div>
+</div>
+	<div class="container transparent">
+	<h2 class="heading">
+		<a target="_blank" class="black-text ga-click" data-ga-category="home-franchise-tabs" data-ga-label="title" data-ga-action="click" href="https://aerbook.com/store/EntrepreneurBooks">
+			Related Books
+			<i class="icon-cta-arrow"></i>
+		</a>
+	</h2>
+
+	<div class="row pl-heroabove book-image">
+					<div class="col s6 s6-clear m4 m4-clear l2">
+				
+	
+<div class="pl">
+	<a class="hero modal-trigger ga-click" href="#327371-book" data-target="1-book" data-ga-category="books-promo-article-327921" data-ga-label="book-image" data-ga-action="display.9781599186306">
+		<img src="https://assets.entrepreneur.com/content/custom/600/20190201161253-9781599186306-FC.jpeg?width=200" alt="The Direct Mail Revolution" />
+	</a>
+	<div class="block">
+		<h3><a class="ga-click modal-trigger" href="#327371-book" data-target="1-book" data-ga-category="books-promo-article-327921" data-ga-label="headline" data-ga-action="display.9781599186306">The Direct Mail Revolution</a></h3>
+		
+					<a class="btn btn-inverse ga-click modal-trigger" href="#327371-book" data-target="1-book" data-ga-category="books-promo-article-327921" data-ga-label="cta" data-ga-action="display.9781599186306">Buy From</a>
+			</div>
+</div>
+
+<div id="327371-book" class="modal buyfrom">
+	<div class="modal-content left-align">
+				<a class="left gutter-right gutter-bottom">
+			<img src="https://assets.entrepreneur.com/content/custom/600/20190201161253-9781599186306-FC.jpeg?width=100" alt="The Direct Mail Revolution" />
+		</a>
+		<div class="gutter-top">
+			<h3 class="fw-bold gutter-bottom fs-e">The Direct Mail Revolution</h3>
+					</div>
+		<div class="clearfix"></div>
+		<div class="subtitle border-top gutter-top">Buy From</div>
+		<ul class="dropdown-content display">
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://amzn.to/2CrpHo7" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.amazon" data-ga-action="click.9781599186306">Amazon</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.jdoqocy.com/click-8040801-11811597?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-direct-mail-revolution-robert-w-bly%2F1129534599%3Fean%3D9781599186306&amp;cjsku=9781599186306" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.barnesNoble" data-ga-action="click.9781599186306">Barnes &amp; Noble</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://geo.itunes.apple.com/us/book/the-direct-mail-revolution/id1447487312?mt=11&amp;at=11l9r7" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.iBooks" data-ga-action="click.9781599186306">iBooks</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.indiebound.org/book/9781599186306?aff=EntPress" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.indieBound" data-ga-action="click.9781599186306">IndieBound</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.kqzyfj.com/click-8040801-42121?url=http%3A%2F%2Fwww.booksamillion.com%2Fproduct%2F9781599186306" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.booksAMillion" data-ga-action="click.9781599186306">Books-A-Million</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://play.google.com/store/books/details/Robert_W_Bly_The_Direct_Mail_Revolution?id=yY6ADwAAQBAJ" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.googlePlay" data-ga-action="click.9781599186306">Google Play</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://aerbook.com/maker/productcard-4009924-2045.html" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.entrepreneurBooks" data-ga-action="click.9781599186306">Entrepreneur Books</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://800ceoread.com/products/direct-mail-revolution-robert-w-bly-english" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.800CEOREAD" data-ga-action="click.9781599186306">800-CEO-READ</a></li>
+					</ul>
+	</div>
+</div>
+			</div>
+					<div class="col s6 s6-clear m4 m4-clear l2">
+				
+	
+<div class="pl">
+	<a class="hero modal-trigger ga-click" href="#327367-book" data-target="2-book" data-ga-category="books-promo-article-327921" data-ga-label="book-image" data-ga-action="display.9781599186375">
+		<img src="https://assets.entrepreneur.com/content/custom/600/20190201153718-9781599186375-FC.jpeg?width=200" alt="The Power of Passive Income" />
+	</a>
+	<div class="block">
+		<h3><a class="ga-click modal-trigger" href="#327367-book" data-target="2-book" data-ga-category="books-promo-article-327921" data-ga-label="headline" data-ga-action="display.9781599186375">The Power of Passive Income</a></h3>
+		
+					<a class="btn btn-inverse ga-click modal-trigger" href="#327367-book" data-target="2-book" data-ga-category="books-promo-article-327921" data-ga-label="cta" data-ga-action="display.9781599186375">Buy From</a>
+			</div>
+</div>
+
+<div id="327367-book" class="modal buyfrom">
+	<div class="modal-content left-align">
+				<a class="left gutter-right gutter-bottom">
+			<img src="https://assets.entrepreneur.com/content/custom/600/20190201153718-9781599186375-FC.jpeg?width=100" alt="The Power of Passive Income" />
+		</a>
+		<div class="gutter-top">
+			<h3 class="fw-bold gutter-bottom fs-e">The Power of Passive Income</h3>
+					</div>
+		<div class="clearfix"></div>
+		<div class="subtitle border-top gutter-top">Buy From</div>
+		<ul class="dropdown-content display">
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://amzn.to/2RWsU4i" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.amazon" data-ga-action="click.9781599186375">Amazon</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.kqzyfj.com/click-8040801-11811597?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-power-of-passive-income-nightingale-learning-systems%2F1129633600%3Fean%3D9781599186375&amp;cjsku=9781599186375" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.barnesNoble" data-ga-action="click.9781599186375">Barnes &amp; Noble</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://geo.itunes.apple.com/us/book/the-power-of-passive-income/id1442502872?mt=11&amp;at=11l9r7" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.iBooks" data-ga-action="click.9781599186375">iBooks</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.indiebound.org/book/9781599186375?aff=EntPress" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.indieBound" data-ga-action="click.9781599186375">IndieBound</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.jdoqocy.com/click-8040801-42121?url=http%3A%2F%2Fwww.booksamillion.com%2Fproduct%2F9781599186375" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.booksAMillion" data-ga-action="click.9781599186375">Books-A-Million</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://play.google.com/store/books/details/Nightingale_Conant_The_Power_of_Passive_Income?id=ofJ5DwAAQBAJ" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.googlePlay" data-ga-action="click.9781599186375">Google Play</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://aerbook.com/maker/productcard-4009925-2045.html" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.entrepreneurBooks" data-ga-action="click.9781599186375">Entrepreneur Books</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://800ceoread.com/products/power-of-passive-income-nightingale-learning-systems-staff-of-media-english" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.800CEOREAD" data-ga-action="click.9781599186375">800-CEO-READ</a></li>
+					</ul>
+	</div>
+</div>
+			</div>
+					<div class="col s6 s6-clear m4 m4-clear l2">
+				
+	
+<div class="pl">
+	<a class="hero modal-trigger ga-click" href="#322150-book" data-target="3-book" data-ga-category="books-promo-article-327921" data-ga-label="book-image" data-ga-action="display.9781599186399">
+		<img src="https://assets.entrepreneur.com/content/custom/600/20181022213118-9781599186399-FC.jpeg?width=200" alt="The Franchisee Handbook" />
+	</a>
+	<div class="block">
+		<h3><a class="ga-click modal-trigger" href="#322150-book" data-target="3-book" data-ga-category="books-promo-article-327921" data-ga-label="headline" data-ga-action="display.9781599186399">The Franchisee Handbook</a></h3>
+		
+					<a class="btn btn-inverse ga-click modal-trigger" href="#322150-book" data-target="3-book" data-ga-category="books-promo-article-327921" data-ga-label="cta" data-ga-action="display.9781599186399">Buy From</a>
+			</div>
+</div>
+
+<div id="322150-book" class="modal buyfrom">
+	<div class="modal-content left-align">
+				<a class="left gutter-right gutter-bottom">
+			<img src="https://assets.entrepreneur.com/content/custom/600/20181022213118-9781599186399-FC.jpeg?width=100" alt="The Franchisee Handbook" />
+		</a>
+		<div class="gutter-top">
+			<h3 class="fw-bold gutter-bottom fs-e">The Franchisee Handbook</h3>
+					</div>
+		<div class="clearfix"></div>
+		<div class="subtitle border-top gutter-top">Buy From</div>
+		<ul class="dropdown-content display">
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://amzn.to/2yPGXQC" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.amazon" data-ga-action="click.9781599186399">Amazon</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.anrdoezrs.net/click-8040801-11811597?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fthe-franchisee-handbook-mark-siebert%2F1128978945%3Fean%3D9781599186399&amp;cjsku=9781599186399" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.barnesNoble" data-ga-action="click.9781599186399">Barnes &amp; Noble</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.indiebound.org/book/9781599186399?aff=EntPress" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.indieBound" data-ga-action="click.9781599186399">IndieBound</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.kqzyfj.com/click-8040801-42121?url=http%3A%2F%2Fwww.booksamillion.com%2Fproduct%2F9781599186399" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.booksAMillion" data-ga-action="click.9781599186399">Books-A-Million</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://aerbook.com/maker/productcard-3866941-2045.html" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.entrepreneurBooks" data-ga-action="click.9781599186399">Entrepreneur Books</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://800ceoread.com/products/franchisee-handbook-mark-siebert-english" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.800CEOREAD" data-ga-action="click.9781599186399">800-CEO-READ</a></li>
+					</ul>
+	</div>
+</div>
+			</div>
+					<div class="col s6 s6-clear m4 m4-clear l2">
+				
+	
+<div class="pl">
+	<a class="hero modal-trigger ga-click" href="#312401-book" data-target="4-book" data-ga-category="books-promo-article-327921" data-ga-label="book-image" data-ga-action="display.9781599186351">
+		<img src="https://assets.entrepreneur.com/content/custom/600/20180814232528-9781599186357-FC.jpeg?width=200" alt="Entrepreneur Voices on Emotional Intelligence" />
+	</a>
+	<div class="block">
+		<h3><a class="ga-click modal-trigger" href="#312401-book" data-target="4-book" data-ga-category="books-promo-article-327921" data-ga-label="headline" data-ga-action="display.9781599186351">Entrepreneur Voices on Emotional Intelligence</a></h3>
+		
+					<a class="btn btn-inverse ga-click modal-trigger" href="#312401-book" data-target="4-book" data-ga-category="books-promo-article-327921" data-ga-label="cta" data-ga-action="display.9781599186351">Buy From</a>
+			</div>
+</div>
+
+<div id="312401-book" class="modal buyfrom">
+	<div class="modal-content left-align">
+				<a class="left gutter-right gutter-bottom">
+			<img src="https://assets.entrepreneur.com/content/custom/600/20180814232528-9781599186357-FC.jpeg?width=100" alt="Entrepreneur Voices on Emotional Intelligence" />
+		</a>
+		<div class="gutter-top">
+			<h3 class="fw-bold gutter-bottom fs-e">Entrepreneur Voices on Emotional Intelligence</h3>
+					</div>
+		<div class="clearfix"></div>
+		<div class="subtitle border-top gutter-top">Buy From</div>
+		<ul class="dropdown-content display">
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://amzn.to/2Hpbqf6" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.amazon" data-ga-action="click.9781599186351">Amazon</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.tkqlhce.com/click-8040801-11811597?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fentrepreneur-voices-on-emotional-intelligence-inc-the-staff-of-entrepreneur-media%2F1128491762%3Fean%3D9781599186351&amp;cjsku=9781599186351" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.barnesNoble" data-ga-action="click.9781599186351">Barnes &amp; Noble</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://www.indiebound.org/book/9781599186351?aff=EntPress" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.indieBound" data-ga-action="click.9781599186351">IndieBound</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.jdoqocy.com/click-8040801-42121?url=http%3A%2F%2Fwww.booksamillion.com%2Fproduct%2F9781599186351" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.booksAMillion" data-ga-action="click.9781599186351">Books-A-Million</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://aerbook.com/maker/productcard-3759786-2045.html" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.entrepreneurBooks" data-ga-action="click.9781599186351">Entrepreneur Books</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://800ceoread.com/products/entrepreneur-voices-on-emotional-intelligence-inc-the-staff-of-entrepreneur-media-english?" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.800CEOREAD" data-ga-action="click.9781599186351">800-CEO-READ</a></li>
+					</ul>
+	</div>
+</div>
+			</div>
+					<div class="col s6 s6-clear m4 m4-clear l2">
+				
+	
+<div class="pl">
+	<a class="hero modal-trigger ga-click" href="#317701-book" data-target="5-book" data-ga-category="books-promo-article-327921" data-ga-label="book-image" data-ga-action="display.9781599186313">
+		<img src="https://assets.entrepreneur.com/content/custom/600/20180815181529-9781599186313-FC-border.jpeg?width=200" alt="Unstoppable" />
+	</a>
+	<div class="block">
+		<h3><a class="ga-click modal-trigger" href="#317701-book" data-target="5-book" data-ga-category="books-promo-article-327921" data-ga-label="headline" data-ga-action="display.9781599186313">Unstoppable</a></h3>
+		
+					<a class="btn btn-inverse ga-click modal-trigger" href="#317701-book" data-target="5-book" data-ga-category="books-promo-article-327921" data-ga-label="cta" data-ga-action="display.9781599186313">Buy From</a>
+			</div>
+</div>
+
+<div id="317701-book" class="modal buyfrom">
+	<div class="modal-content left-align">
+				<a class="left gutter-right gutter-bottom">
+			<img src="https://assets.entrepreneur.com/content/custom/600/20180815181529-9781599186313-FC-border.jpeg?width=100" alt="Unstoppable" />
+		</a>
+		<div class="gutter-top">
+			<h3 class="fw-bold gutter-bottom fs-e">Unstoppable</h3>
+					</div>
+		<div class="clearfix"></div>
+		<div class="subtitle border-top gutter-top">Buy From</div>
+		<ul class="dropdown-content display">
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://amzn.to/2EvTMAF" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.amazon" data-ga-action="click.9781599186313">Amazon</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.dpbolvw.net/click-8040801-11811597?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Funstoppable-ben-angel%2F1128856299%3Fean%3D9781599186313&amp;cjsku=9781599186313" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.barnesNoble" data-ga-action="click.9781599186313">Barnes &amp; Noble</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://geo.itunes.apple.com/us/book/unstoppable/id1428482424?mt=11&amp;at=11l9r7" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.iBooks" data-ga-action="click.9781599186313">iBooks</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://www.indiebound.org/book/9781599186313?aff=EntPress" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.indieBound" data-ga-action="click.9781599186313">IndieBound</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.tkqlhce.com/click-8135521-42121?url=http%3A%2F%2Fwww.booksamillion.com%2Fproduct%2F9781599186313" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.booksAMillion" data-ga-action="click.9781599186313">Books-A-Million</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://play.google.com/store/books/details/Ben_Angel_Unstoppable?id=ZhxpDwAAQBAJ" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.googlePlay" data-ga-action="click.9781599186313">Google Play</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://aerbook.com/maker/productcard-3883795-2045.html" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.entrepreneurBooks" data-ga-action="click.9781599186313">Entrepreneur Books</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://800ceoread.com/products/unstoppable-ben-angel-english" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.800CEOREAD" data-ga-action="click.9781599186313">800-CEO-READ</a></li>
+					</ul>
+	</div>
+</div>
+			</div>
+					<div class="col s6 s6-clear m4 m4-clear l2">
+				
+	
+<div class="pl">
+	<a class="hero modal-trigger ga-click" href="#315954-book" data-target="6-book" data-ga-category="books-promo-article-327921" data-ga-label="book-image" data-ga-action="display.9781599186245">
+		<img src="https://assets.entrepreneur.com/content/custom/600/20180730205635-9781599186245-FC.jpeg?width=200" alt="Driven" />
+	</a>
+	<div class="block">
+		<h3><a class="ga-click modal-trigger" href="#315954-book" data-target="6-book" data-ga-category="books-promo-article-327921" data-ga-label="headline" data-ga-action="display.9781599186245">Driven</a></h3>
+		
+					<a class="btn btn-inverse ga-click modal-trigger" href="#315954-book" data-target="6-book" data-ga-category="books-promo-article-327921" data-ga-label="cta" data-ga-action="display.9781599186245">Buy From</a>
+			</div>
+</div>
+
+<div id="315954-book" class="modal buyfrom">
+	<div class="modal-content left-align">
+				<a class="left gutter-right gutter-bottom">
+			<img src="https://assets.entrepreneur.com/content/custom/600/20180730205635-9781599186245-FC.jpeg?width=100" alt="Driven" />
+		</a>
+		<div class="gutter-top">
+			<h3 class="fw-bold gutter-bottom fs-e">Driven</h3>
+					</div>
+		<div class="clearfix"></div>
+		<div class="subtitle border-top gutter-top">Buy From</div>
+		<ul class="dropdown-content display">
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://amzn.to/2qU33Am" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.amazon" data-ga-action="click.9781599186245">Amazon</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.kqzyfj.com/click-8040801-11811597?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2Fdriven-manny-khoshbin%2F1127948331%3Fean%3D9781599186245&amp;cjsku=9781599186245" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.barnesNoble" data-ga-action="click.9781599186245">Barnes &amp; Noble</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://geo.itunes.apple.com/us/book/driven/id1417849325?mt=11&amp;at=11l9r7" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.iBooks" data-ga-action="click.9781599186245">iBooks</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://www.indiebound.org/book/9781599186245?aff=EntPress" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.indieBound" data-ga-action="click.9781599186245">IndieBound</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="http://www.tkqlhce.com/click-8040801-42121?url=http%3A%2F%2Fwww.booksamillion.com%2Fproduct%2F9781599186245" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.booksAMillion" data-ga-action="click.9781599186245">Books-A-Million</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://play.google.com/store/books/details/Manny_Khoshbin_Driven?id=qVxmDwAAQBAJ" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.googlePlay" data-ga-action="click.9781599186245">Google Play</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://aerbook.com/maker/productcard-3736228-2045.html" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.entrepreneurBooks" data-ga-action="click.9781599186245">Entrepreneur Books</a></li>
+							<li><a class="ga-click center grey-text text-darken-3 fw-light" href="https://800ceoread.com/products/driven-manny-khoshbin-english" target="_blank" data-ga-category="books-promo-article-327921" data-ga-label="bookstore-option.800CEOREAD" data-ga-action="click.9781599186245">800-CEO-READ</a></li>
+					</ul>
+	</div>
+</div>
+			</div>
+			</div>
+</div>
+<div class="art-narrow">
+	</div>
+
+
+
+		<div class="banner-ad adbox " 
+							data-key="had"
+		>
+	</div>
+	
+<section class="art-narrow">
+	<div id="more" class="scrollspy">
+		<h2 class="heading gutter-top xxl ">Latest on Entrepreneur</h2>
+		<div class="pl-heroleft  ent-iscroll" data-trackingcategory="article-iscroll-327921" data-imagewidth="400" data-imageratio="3:2" data-templateid="listTemplate" data-asyncurl='/async/latest/' data-asyncpage='0'></div>
+	</div>
+</section>
+
+			</div>
+		
+			</main>
+
+			<footer class="page-footer ">
+			<div class="container">
+	<div class="row">
+		<div class="col m8 s12 hide-on-small-only">
+			<div class="row">
+				<div class="col s4">
+					<div class="title ltr-space">Company</div>
+					<ul>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="advertise" href="http://entrepreneurmedia.com/?utm_campaign=Entrepreneur&utm_source=Site&utm_medium=SiteFooter&utm_content=MediaKitPromo" target="_blank">Advertise</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="brand-licensing-program" href="/brand-licensing-program">Brand Licensing</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="contact" href="/contact">Contact Us</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="staff" href="/staff">Staff</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="contributors" href="/page/276150">Contribute</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="reprints" href="http://www.entrepreneurreprints.com/" target="_blank">Reprints &amp; Licensing</a></li>
+					</ul>
+				</div>
+
+				<div class="col s4">
+					<div class="title ltr-space">Products</div>
+					<ul>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="women" href="/women">Women Entrepreneur</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="green" href="https://www.greenentrepreneur.com" target="_blank">Green Entrepreneur</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="ask-an-expert" href="/ask-an-expert">Ask An Expert</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="insurance" href="/insurance?utm_campaign=EntrepreneurInsurance&utm_source=Entrepreneur&utm_medium=Site&utm_content=Footer">Entrepreneur Insurance</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="franchise" href="/franchise">Franchise</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="network" href="/watch">Network</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="listen" href="/listen">Podcasts</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="connect" href="http://connect.entrepreneur.com" target="_blank">Connect</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="bookstore" href="http://www.entrepreneurmedia.com/books" target="_blank">Publish Your Book</a></li>
+						<li><a class="flink ga-click" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="shop" href="https://shop.entrepreneur.com" target="_blank">Shop</a></li>
+					</ul>
+				</div>
+
+				<div class="col s4">
+					<div class="title ltr-space">Editions</div>
+					<ul>
+	<li><a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="edition-us" href="/us" data-edition="us" class="flink ga-click edition-switch">United States</a></li>
+	<li><a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="edition-eu" href="/eu" data-edition="eu" class="flink edition-switch">Europe</a></li>
+	<li><a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="edition-me" href="/me" data-edition="me" class="flink ga-click edition-switch">Middle East</a></li>
+		<li><a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="edition-in" href="/in" data-edition="in" class="flink ga-click edition-switch">India</a></li>
+	<li><a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="edition-ap" href="/ap" data-edition="ap" class="flink ga-click edition-switch">Asia Pacific</a></li>
+	<li><a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="edition-es" href="/es" data-edition="es" class="flink ga-click edition-switch">Espa&ntilde;ol</a></li>
+		<li><a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="edition-philipines" class="flink ga-click" href="http://www.entrepreneur.com.ph" rel="nofollow" target="_blank">Philippines</a></li>
+	<li><a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="edition-southafrica" class="flink ga-click" href="http://www.entrepreneurmag.co.za" rel="nofollow" target="_blank">South Africa</a></li>
+	<li><a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="edition-china" class="flink ga-click" href="http://www.cyzone.cn" rel="nofollow" target="_blank">China</a></li>
+</ul>				</div>
+			</div>
+		</div>
+
+		<div class="col m4 s12">
+			<div class="title ltr-space">Get the Magazine</div>
+			<div class="magsubs">
+									<a target="_blank" class="magcover ga-click"  data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="magazine" href="https://subscribe.hearstmags.com/subscribe/splits/ENT/ent_sub_link_footer">
+						<img data-src="https://assets.entrepreneur.com/content/3x4/600/20190103174002-ent19-janfeb-cover.jpeg?width=150" src="https://assets.entrepreneur.com/content/3x4/600/20190103174002-ent19-janfeb-cover.jpeg?width=150&quality=15"
+						class="magazine lazy lazyload"
+						alt="Edition: January 2019"
+						title="Edition: January 2019">
+					</a>
+								<ul class="subbuttons">
+					<li><a target="_blank" class="ga-click svg" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="magazine.appstore" href="http://entm.ag/OxS7Pu"><img src="https://assets.entrepreneur.com/static/20170802101805-app-store-badge.svg" alt="Download on App Store" /></a></li>
+					<li><a target="_blank" class="ga-click svg" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="magazine.googleplay" href="http://entm.ag/magappgplay"><img src="https://assets.entrepreneur.com/static/20170822072948-google-play-badge.svg" alt="Download on Play Store" /></a></li>
+					<li><a target="_blank" class="ga-click svg" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="magazine.kindle" href="http://entm.ag/kindle"><img src="https://assets.entrepreneur.com/static/20180731102717-amazon-badge.svg" alt="Download on Kindle" /></a></li>
+					<li><a target="_blank" class="ga-click btn" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="magazine.subscribe" href="https://subscribe.hearstmags.com/subscribe/ENT/225367?source=ent_navigation">Subscribe</a></li>
+				</ul>
+			</div>
+
+			<div class="title np ltr-space">Join Our Newsletter</div>
+			<form name="h3.0-nlsu" id="v3-newsl-form-nav-0" class="row newsletter-signup" data-parsley-validate>
+	<div class="input-field col s12 fnews">
+		<input type="email" name="email" placeholder="Email..." required />
+		<input type="hidden" name="edition" value="es"/>
+		<input type="hidden" name="source" value="footer"/>
+		<input type="hidden" name="nltrs" value="newsletters,weekly_nl,events,brand,third_party"/>
+									<button class="btn default ga-click" data-ga-category="navigation.footer" data-ga-label="submit" data-ga-action="click" type="submit"><i class="icon-cta-arrow"></i></button>
+						</div>
+</form>
+		</div>
+	</div>
+	<div class="footer-copyright">
+	<div class="row nm">
+		<div class="col s12 l6">
+			<a href="/" data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="logo" class="logo ga-click"><img src="https://assets.entrepreneur.com/static/20160721060814-ENT-logo-white.svg" alt="Entrepreneur"></a>
+			<div class="social-icons">
+	<div>
+		<a class="ga-click" data-ga-category="navigation.footer" data-ga-label="facebook" data-ga-action="click" href="https://www.facebook.com/EntrepreneurEnEspanol" target="_blank" title="Facebook"><i class="icon-facebook"></i></a>
+		<a class="ga-click" data-ga-category="navigation.footer" data-ga-label="twitter" data-ga-action="click" href="https://twitter.com/soyentrepreneur" target="_blank" title="Twitter"><i class="icon-twitter"></i></a>
+		<a class="ga-click" data-ga-category="navigation.footer" data-ga-label="linkedIn" data-ga-action="click" href="https://www.linkedin.com/company/entrepreneur-mexico" target="_blank" title="LinkedIn"><i class="icon-linkedin2"></i></a>
+		<a class="ga-click" data-ga-category="navigation.footer" data-ga-label="pinterest" data-ga-action="click" href="https://www.pinterest.com.mx/entrepreneur_en/pins/" target="_blank" title="Pinterest"><i class="icon-pinterest"></i></a>
+		<a class="ga-click" data-ga-category="navigation.footer" data-ga-label="instagram" data-ga-action="click" href="https://www.instagram.com/entrepreneur_es/" target="_blank" title="Instagram"><i class="icon-instagram"></i></a>
+		<a class="ga-click" data-ga-category="navigation.footer" data-ga-label="uouTube" data-ga-action="click" href="https://www.youtube.com/user/soyentrepreneurtv" target="_blank" title="YouTube"><i class="icon-youtube"></i></a>
+	</div>
+</div>		</div>
+		<div class="col s12 l6 right-align">
+			<a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="terms-of-service" href="/terms-of-service" class="pipe ga-click">Terms of Use</a>
+			<a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="privacy-policy" href="/privacy-policy" class="pipe ga-click">Privacy Policy</a>
+			<a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="cookie-policy" href="/cookie-policy" class="pipe ga-click">Cookie Policy</a>
+			<a data-ga-category="navigation.footer" data-ga-action="click" data-ga-label="sitemaps" href="/sitemaps/main" class="ga-click">Site Map</a>
+
+			<div class="copyslug">
+				Copyright &copy; 2019 Entrepreneur Media, Inc. All rights reserved.
+							</div>
+		</div>
+	</div>
+</div></div>
+
+		</footer>
+	
+	
+
+	
+	
+			<!-- Modal Structure -->
+<div id="login-modal" class="modal">
+	<div class="modal-content">
+		<div class="row nm">
+			<div id="account-login" class="col s12 active account-frame">
+				<div class="row">
+					<div class="col s12">
+						<a class="btn btn-flat right ga-click" href="#" id="signup-now" data-ga-category="login-modal" data-ga-label="new-account" data-ga-action="display">Create new account</a>
+						<h2 class="heading">
+							Login
+						</h2>
+
+						<div class="clearfix"></div>
+						<div class="gutter-bottom">
+							<form method="post" name="member-signinFb">
+								<button type="submit" class="socialogin btn gutter-bottom socialcolor facebook ga-click" data-ga-category="login-modal" data-ga-label="facebook" data-ga-action="click" name="signinFb" value="1"><i class="icon-facebook left"></i> <span class="hide-on-small-and-down">Login with</span> Facebook</button>
+							</form>
+
+							<form method="post" name="member-signinGp">
+								<button type="submit" class="socialogin btn socialcolor google ga-click" data-ga-category="login-modal" data-ga-label="google" data-ga-action="click" name="signinGp" value="1"><i class="icon-google left"></i> <span class="hide-on-small-and-down">Login with</span> Google</button>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<form method="post" name="member-signin" data-parsley-validate="" autocomplete="off">
+						<input type="hidden" name="sId" value="">
+						<div class="input-field col s12">
+							<input data-parsley-trigger="change" id="loginemail" required name="email" type="email" />
+							<label for="loginemail">Email</label>
+						</div>
+						<div class="input-field col s12">
+							<input data-parsley-trigger="change" id="loginpw" required name="password" type="password" />
+							<label for="loginpw">Password</label>
+						</div>
+						<div class="input-field col s12 gutter-top">
+							<div class="login-messages login"></div>
+							<a href="/dashboard/forgot" id="forgot" class="btn btn-flat right ga-click" data-ga-category="login-modal" data-ga-label="forgot" data-ga-action="click">Forgot password?</a>
+							<button type="submit" class="btn ga-click" data-ga-category="login-modal" data-ga-label="login" data-ga-action="display" name="signin" value="1">Login</button>
+						</div>
+					</form>
+				</div>
+			</div>
+
+			<div id="account-register" class="account-frame col s12">
+				<div class="row">
+					<div class="col s12">
+						<a class="btn btn-flat login-now right ga-click" data-ga-category="login-modal-register" data-ga-label="login" data-ga-action="display" href="#">Have an account? Login here.</a>
+						<h2 class="heading">
+							Sign Up
+						</h2>
+						<div class="clearfix"></div>
+						<div class="gutter-bottom">
+							<form method="post" name="member-signinFb">
+								<button type="submit" class="socialogin btn gutter-bottom socialcolor facebook ga-click" data-ga-category="login-modal-register" data-ga-label="facebook" data-ga-action="click" name="signinFb" value="1"><i class="icon-facebook left"></i> <span class="hide-on-small-and-down">Login with</span> Facebook</button>
+							</form>
+							<form method="post" name="member-signinGp">
+								<button type="submit" class="socialogin btn socialcolor google ga-click" data-ga-category="login-modal-register" data-ga-label="google" data-ga-action="click" name="signinGp" value="1"><i class="icon-google left"></i> <span class="hide-on-small-and-down">Login with</span> Google</button>
+							</form>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<form method="post" name="member-newAccount" data-parsley-validate="">
+						<div class="col s6 input-field clearfix">
+							<input name="first_name" id="regfirstname" maxlength="100" type="text" data-parsley-validation-threshold="4" data-parsley-trigger="change" required/>
+							<label for="regfirstname">First Name</label>
+						</div>
+						<div class="col s6 input-field">
+							<input name="last_name" id="reglastname" maxlength="100" type="text" data-parsley-validation-threshold="4" data-parsley-trigger="change" required/>
+							<label for="reglastname">Last Name</label>
+						</div>
+						<div class="col s6 input-field clearfix">
+							<input name="email" id="registeremail" type="email" data-parsley-trigger="change" required/>
+							<label for="registeremail">Email</label>
+						</div>
+						<div class="col s6 input-field">
+							<input name="email2" id="registeremail2" type="email" data-parsley-equalto="#registeremail" data-parsley-trigger="change" required/>
+							<label for="registeremail2">Confirm Email</label>
+						</div>
+						<div class="col s6 input-field clearfix">
+							<input name="password" id="step1pwd" minlength="8" type="password" data-parsley-trigger="change" data-parsley-error-message="Password must be 8 characters or longer" required />
+							<label for="step1pwd">Password</label>
+						</div>
+						<div class="col s6 input-field">
+							<input name="password2" id="step2pwd" data-parsley-equalto="#step1pwd" type="password" data-parsley-trigger="change" required />
+							<label for="step2pwd">Confirm Password</label>
+						</div>
+
+						<div class="col s12 input-field gutter-top">
+							<input type="checkbox" id="newsletters" name="nltrs" value="newsletters,weekly_nl,events,brand,third_party" />
+							<label for="newsletters">Yes, I want to receive the Entrepreneur newsletter.</label>
+							<p>
+								<input type="checkbox" id="userterms" name="userterms" required />
+								<label for="userterms">I agree to the Entrepreneur <a class="ga-click" href="/privacy-policy" target="_blank" data-ga-category="login-modal" data-ga-label="privacy" data-ga-action="click">Privacy Policy</a> and <a class="ga-click" data-ga-category="login-modal" data-ga-label="terms" data-ga-action="click" href="/terms-of-service" target="_blank">Terms of Use</a>.</label>
+							</p>
+							<div class="login-messages"></div>
+							<button type="submit" class="btn ga-click gutter-top" data-ga-category="login-modal-register" data-ga-label="create-account" data-ga-action="display" name="newAccount" value="1">Create Account</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	
+		<script id="site-chrome-promo" type="x-tmpl-mustache">
+		
+			<a class="ga-click" href="{{ link }}"
+				{{ #isExternalLink }}
+					target="_blank"
+				{{ /isExternalLink }}
+				data-ga-action="click" data-ga-category="navigation.top" data-ga-label="promo">
+				<img src="{{ image }}" />
+			</a>
+		
+	</script>
+
+	<script id="nav-live-promo" type="x-tmpl-mustache">
+		
+			<a class="nticker ga-click" href="{{ link }}"
+				{{ #isExternalLink }}
+					target="_blank"
+				{{ /isExternalLink }}
+				data-ga-action="click" data-ga-category="navigation.top" data-ga-label="ticker">
+				LIVE {{ dateCopy }}:
+				<span>{{ linkLegend }} </span>
+				<span> | </span>
+				{{ copy }}
+			</a>
+		
+	</script>
+
+			<script id="article-footer-promo" type="x-tmpl-mustache">
+			
+				<div class='ga-click pr-holder hoverable'
+						{{ ^isExternalLink }}
+							onClick="location.href='{{ link }}';"
+						{{ /isExternalLink }}
+						{{ #isExternalLink }}
+							onclick="window.open('{{ link }}', '_blank');"
+						{{ /isExternalLink }}
+
+						data-ga-category="article-footer-promo-{{ article.objectId }}" data-ga-label="playlist.0" data-ga-action="click">
+					<div class='row nm'>
+						<div class="col m2 hide-on-small-only">
+							<img class='gutter-top' src='https://assets.entrepreneur.com/static/20180827111639-megaphone-yellow.png' alt='{{{ title }}}'>
+						</div>
+						<div class='col s12 m10'>
+							<h3>{{{ title }}}</h3>
+							<div class="deck">
+								{{{ copy }}}
+							</div>
+							<br />
+							<span class="btn btn-inverse">{{{ linkLegend }}}</span>
+						</div>
+					</div>
+				</div>
+			
+		</script>
+	
+	
+	
+			<script id="listTemplate" type="x-tmpl-mustache">
+			
+				<div class="pl">
+					{{ #rawImageName }}
+					<a href="{{ url }}" class="hero ga-click" data-ga-category="{{ trackingCategory }}" data-ga-label="playlist.{{ index }}" data-ga-action="click">
+						<img src="https://assets.entrepreneur.com/content/3x2/2000/{{ rawImageName }}?width={{ imageWidth }}&crop={{ imageRatio }}" alt="{{ headline }}">
+					</a>
+					{{ /rawImageName }}
+
+					<div class="block">
+						{{ #kickerName }}
+							<a class="kicker ga-click" href="{{ kickerUrl }}" data-ga-category="{{ trackingCategory }}" data-ga-label="playlist.{{ index }}" data-ga-action="click">{{ kickerName }}</a>
+						{{ /kickerName }}
+						<h3><a href="{{ url }}" class="ga-click" data-ga-category="{{ trackingCategory }}" data-ga-label="playlist.{{ index }}" data-ga-action="click">{{{ headline }}}</a></h3>
+						<div class="deck">{{{ deck }}}</div>
+						<div class="byline">
+							{{ #authorName }}
+								<a class="authorbyline ga-click" href="{{ authorUrl }}" data-ga-category="{{ trackingCategory }}" data-ga-label="playlist.{{ index }}" data-ga-action="click"><span class="name">{{ authorName }}</span></a>
+								<span class="spacer">|</span>
+							{{ /authorName }}
+
+							<span class="readtime">{{ readTime }} min read</span>
+						</div>
+					</div>
+				</div>
+			
+		</script>
+	
+	<div id="pr-logout" class="modal half">
+		<div class="modal-content">
+			<h4 class="bold">Are you sure you want to logout?</h4>
+		</div>
+		<div class="modal-footer">
+			<a href="/signout" class="waves-effect waves-light btn">Logout</a>
+			<button class="modal-action modal-close waves-effect waves-light right text-text btn-flat">Cancel</button>
+		</div>
+	</div>
+
+				<div id="pr-ticker">
+	<div class="pl-heroleft row">
+					<div class="col">
+				<div id=''>
+					
+
+
+
+
+
+<div id="" class="pl  " >
+					
+	<div class="block">
+				
+															<a class="kicker ga-click " href="/topic/netflix" data-ga-category="article-ticker" data-ga-label="playlist.1" data-ga-action="kicker">Netflix</a>
+									
+		<h3 ><a href="/article/326379" class="ga-click "  data-ga-category="article-ticker" data-ga-label="playlist.1" data-ga-action="headline">Estos son los nuevos precios de suscripción de Netflix</a></h3>
+
+		
+		
+		
+		
+		
+			</div>
+</div>				</div>
+			</div>
+					<div class="col">
+				<div id=''>
+					
+
+
+
+
+
+<div id="" class="pl  " >
+					
+	<div class="block">
+				
+															<a class="kicker ga-click " href="/topic/netflix" data-ga-category="article-ticker" data-ga-label="playlist.2" data-ga-action="kicker">Netflix</a>
+									
+		<h3 ><a href="/article/325635" class="ga-click "  data-ga-category="article-ticker" data-ga-label="playlist.2" data-ga-action="headline">Netflix te pide que no hagas el 'Bird Box Challenge'</a></h3>
+
+		
+		
+		
+		
+		
+			</div>
+</div>				</div>
+			</div>
+					<div class="col">
+				<div id='nativo-t1'>
+					
+
+
+
+
+
+<div id="" class="pl  " >
+					
+	<div class="block">
+				
+															<a class="kicker ga-click " href="/topic/netflix" data-ga-category="article-ticker" data-ga-label="playlist.3" data-ga-action="kicker">Netflix</a>
+									
+		<h3 ><a href="/article/322490" class="ga-click "  data-ga-category="article-ticker" data-ga-label="playlist.3" data-ga-action="headline">Así son las contundentes prácticas de despido de Netflix</a></h3>
+
+		
+		
+		
+		
+		
+			</div>
+</div>				</div>
+			</div>
+					<div class="col">
+				<div id=''>
+					
+
+
+
+
+
+<div id="" class="pl  " >
+					
+	<div class="block">
+				
+															<a class="kicker ga-click " href="/topic/netflix" data-ga-category="article-ticker" data-ga-label="playlist.4" data-ga-action="kicker">Netflix</a>
+									
+		<h3 ><a href="/article/321635" class="ga-click "  data-ga-category="article-ticker" data-ga-label="playlist.4" data-ga-action="headline">Internan al primer 'adicto' a Netflix</a></h3>
+
+		
+		
+		
+		
+		
+			</div>
+</div>				</div>
+			</div>
+					<div class="col">
+				<div id='nativo-t2'>
+					
+
+
+
+
+
+<div id="" class="pl  " >
+					
+	<div class="block">
+				
+															<a class="kicker ga-click " href="/topic/netflix" data-ga-category="article-ticker" data-ga-label="playlist.5" data-ga-action="kicker">Netflix</a>
+									
+		<h3 ><a href="/article/303741" class="ga-click "  data-ga-category="article-ticker" data-ga-label="playlist.5" data-ga-action="headline">Estos serán los nuevos precios de Netflix en México</a></h3>
+
+		
+		
+		
+		
+		
+			</div>
+</div>				</div>
+			</div>
+			</div>
+</div>
+			
+	<script src="https://assets.entrepreneur.com/js/slick-0fd10ad545.js.gz"></script>
+	<script src="https://assets.entrepreneur.com/js/desktop-orion-16c02c3475.min.js.gz"></script>
+
+
+
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0ed0f24c15","applicationID":"643162","transactionName":"MlVWMEdXD0FZBxFaVgsfdxFGQg5fFyUXR1AGXFEkUlMV","queueTime":0,"applicationTime":94,"atts":"HhJBRg9NHB4aBUcJQhhN","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

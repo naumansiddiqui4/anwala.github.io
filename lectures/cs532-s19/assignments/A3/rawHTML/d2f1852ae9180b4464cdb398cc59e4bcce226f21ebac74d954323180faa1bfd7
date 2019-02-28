@@ -1,0 +1,737 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=shift_jis" />
+<title>K`¯ñ@`OêiK`jõ`¨ÁÏ¢`l</title>
+<meta name="keywords" content="GA¨ÁÏ¢AûAüûAA_gA®æATvAAVADA³C³ ¨ÁÏ¢`l@¨ÁÏ¢`lwix">
+</meta>
+<meta name="description" content="GG[r[Ì®æª©¦éTCgÌ²ÐîI
+±Ìy[W©çÙÆñÇ·×ÄÌG®æTCgÉs­±ÆªÅ«Ü·B">
+</meta>
+<link rel="stylesheet" media="all" type="text/css" href="css/default.css" />
+<link rel="stylesheet" media="all" type="text/css" href="css/common.css" />
+<link rel="stylesheet" media="all" type="text/css" href="css/index03.css" />
+<link rel="stylesheet" media="all" type="text/css" href="css/searchpage.css" />
+<script language="javascript" type="text/javascript" src="js/iepngfix.js"></script>
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="js/pngfix.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="js/common.js" charset="utf8"></script>
+<script type="text/javascript" src="js/duration.js"></script>
+<script type="text/javascript">
+
+$(function(){
+$("#recent_search_wrapper").load("recent_search.html");
+
+$("#header_out").load("header.html");
+
+$("#nav_out").load("nav.html");	
+
+$("#footer_out").load("footer.html");
+
+});
+
+</script>
+</head>
+
+<body>
+<div id="wrapper"> 
+  
+  <!-- main start -->
+  
+  <div id="main" class="clearfix"> 
+    
+    <!-- Åßõ³ê½®æ -->
+    
+    <div class="header"><img src="https://www.marumise.com/gachiken/top/header01.gif" /></div>
+    <div id="recent_search_wrapper"> </div>
+    <!-- #recent_search_wrapper end --> 
+    
+    <!-- ³çÉièñÅõ -->
+    
+    <div class="header"> <img src="https://www.marumise.com/gachiken/searchpage/search_header.gif" alt="³çÉièñÅõ"/> </div>
+    
+    <!-- step_one -->
+    <form name="searchpage" action="" onSubmit="return false;">
+      <div id="step_one">
+        <div class="step"> <img src="https://www.marumise.com/gachiken/searchpage/step1.jpg" alt="step1" />
+          <p>L[[hðüêÄ­¾³¢«</p>
+        </div>
+        <div class="keyword_search">
+          <input id="search_q" type="text" name="q" placeholder="L[[hâD¼ÈÇ" class="searchfield_page" value="">
+          <ul id="radio">
+            <li>
+              <input type="radio" name="o" value="and">
+              <label>SÄÌL[[hðÜÞ</label>
+            </li>
+            <li>
+              <input type="radio" name="o" value="or" checked>
+              <label>¢¸ê©ÌL[[hðÜÞ</label>
+            </li>
+          </ul>
+        </div>
+        <p id="ie_notice">²gpÌIE11ÅÍAL[[hõÍ²p¢½¾¯Ü¹ñB</p>
+      </div>
+      
+      <!-- step_two -->
+      
+      <div id="step_two">
+        <div class="step"> <img src="https://www.marumise.com/gachiken/searchpage/step2.jpg" alt="step2" />
+          <p>Y·éJeS[ðIñÅ­¾³¢i¡IðÂj«</p>
+        </div>
+        <div class="category"> <img src="https://www.marumise.com/gachiken/searchpage/site.gif" alt="TCg" />
+          <p class="text">v<span>61234</span>{o^</p>
+        </div>
+        <div class="subcategory"><span>Dn</span></div>
+        <ul>
+          <li>
+            <input type="checkbox" name="site_id" value="2468"/>
+            JrAR</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2470"/>
+            ê{¹</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2478"/>
+            GbNXWpy</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2665"/>
+            HEYZO</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2401"/>
+            Pikkur</li>
+        </ul>
+        <div class="subcategory"><span>fln</span></div>
+        <ul>
+          <li>
+            <input type="checkbox" name="site_id" value="2471"/>
+            VRÞ·ß</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2476"/>
+            uÁÄcv</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2520"/>
+            Gb`È4610</li>
+        </ul>
+        <div class="subcategory"><span>lÈ/n</span></div>
+        <ul>
+          <li>
+            <input type="checkbox" name="site_id" value="2469"/>
+            pRpR}}</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2521"/>
+            Gb`È0930</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2535"/>
+            lÈaè</li>
+        </ul>
+        <div class="subcategory"><span>}jA</span></div>
+        <ul>
+          <li>
+            <input type="checkbox" name="site_id" value="2543"/>
+            à¯V </li>
+          <li>
+            <input type="checkbox" name="site_id" value="2546"/>
+            Gb`È0230</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2572"/>
+            B¹</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2564"/>
+            gFfFlFn</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2540"/>
+            Rc-EROS.NET</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2581"/>
+            Gb`È0930 WORLD</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2514"/>
+            Ì¼«UC</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2550"/>
+            ¤ñ±½ê</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2544"/>
+            ÌÌµñÒ</li>
+        </ul>
+        <div class="subcategory"><span>Pi</span></div>
+        <ul>
+          <li>
+            <input type="checkbox" name="site_id" value="2486"/>
+            Hey®æ</li>
+          <li>
+            <input type="checkbox" name="site_id" value="2477"/>
+            JrARv~A</li>
+        </ul>
+        <div class="category"> <img src="https://www.marumise.com/gachiken/searchpage/joyu.gif" alt="D^Cv" />
+          <p class="text">v<span>14271</span>{o^</p>
+        </div>
+        <div class="subcategory"><span>^Cv</span></div>
+        <ul>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,107" />
+            Vl</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="3" />
+            L¼D</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="2" />
+            ù©µÌAVD</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,31" />
+            AChn</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,20" />
+            </li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,23" />
+            ü­</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,9" />
+            ¨o³ñn</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,10" />
+            OL</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,11" />
+            lÈEn</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,110" />
+            s</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,136" />
+            |\l</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,7" />
+            Mn</li>
+        </ul>
+        <div class="subcategory"><span>Ì^</span></div>
+        <ul>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,19" />
+            X_[</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,125" />
+            ÛÁ¿áè</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,15" />
+            ür</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,114" />
+            û</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,16" />
+            üK</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,21" />
+            ÷ûEnû</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,17" />
+            üû</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,22" />
+            ¬¿</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="1,18" />
+            ·g</li>
+        </ul>
+        <div class="category"> <img src="https://www.marumise.com/gachiken/searchpage/taikei.gif" alt="Ì^" />
+          <p class="text">v<span>29477</span>{o^</p>
+        </div>
+        <ul>
+          <li>
+            <input type="checkbox" name="uc_id" value="19" />
+            X_[</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="125" />
+            ÛÁ¿áè</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="15" />
+            ür</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="114" />
+            û</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="16" />
+            üK</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="21" />
+            ÷ûEnû</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="17" />
+            üû</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="22" />
+            ¬¿</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="18" />
+            ·g</li>
+        </ul>
+        <div class="category"> <img src="https://www.marumise.com/gachiken/searchpage/fechi.gif" alt="tF`" />
+          <p class="text">v<span>30093</span>{o^</p>
+        </div>
+        <ul>
+          <li>
+            <input type="checkbox" name="uc_id" value="107" />
+            Vl</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="15" />
+            ür</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="114" />
+            û</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="16" />
+            üK</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="21" />
+            ÷ûEnû</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="17" />
+            üû</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="130" />
+            êû</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="112" />
+            pCp</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="32" />
+            RXv</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="27" />
+            §</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="28" />
+            u}</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="29" />
+            uU[</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="30" />
+            XN[</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="35" />
+            ßªË</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="36" />
+            </li>
+          <li>
+            <input type="checkbox" name="uc_id" value="38" />
+            ßE¨</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="39" />
+            Ch</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="40" />
+            pW}</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="41" />
+            WF[</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="42" />
+            Gv</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="144" />
+            r</li>
+        </ul>
+        <div class="category"> <img src="https://www.marumise.com/gachiken/searchpage/josei.gif" alt="«^Cv" />
+          <p class="text">v<span>54684</span>{o^</p>
+        </div>
+        <ul>
+          <li>
+            <input type="checkbox" name="uc_id" value="1" />
+            `uDEL¼D</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="4" />
+            fl</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="126" />
+            </li>
+          <li>
+            <input type="checkbox" name="uc_id" value="20" />
+            Eü­En</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="14" />
+            fn</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="108" />
+            üµn</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="109" />
+            F</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="8" />
+            ¬§</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="7" />
+            M</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="9" />
+            ¨o³ñ</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="24" />
+            qw¶</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="10" />
+            nk</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="110" />
+            s</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="131" />
+            Dw</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="136" />
+            |\l</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="11" />
+            lÈEn</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="12" />
+            áÈ</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="141" />
+            ü</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="142" />
+            ülÈ</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="33" />
+            ³t</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="34" />
+            Åìw</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="37" />
+            `AK[</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="139" />
+            ­ì</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="92" />
+            m¨</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="93" />
+            à¯</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="145" />
+            10ã</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="146" />
+            20ã</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="147" />
+            30ã</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="148" />
+            40ã</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="149" />
+            50ã</li>
+        </ul>
+        <div class="category"> <img src="https://www.marumise.com/gachiken/searchpage/mania.gif" alt="}jA" />
+          <p class="text">v<span>19683</span>{o^</p>
+        </div>
+        <ul>
+          <li>
+            <input type="checkbox" name="uc_id" value="47" />
+            rl</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="123" />
+            n[hn</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="49" />
+            {e[W</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="133" />
+            À^/hL^[</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="122" />
+            B</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="86" />
+            ìOIo</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="87" />
+            Â­</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="48" />
+            S©Eè</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="50" />
+            ÚBµ</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="112,140" />
+            pCpEäÑ</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="44" />
+            NXR</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="53" />
+            QC</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="52" />
+            Y</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="138" />
+            j[n[t</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="78" />
+            ¨µÁ±(úA)</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="118" />
+            Ai</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="77" />
+            XJg</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="85" />
+            ¤ñ±</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="127" />
+            p`¹`</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="128" />
+            E p</li>
+        </ul>
+        <div class="category"> <img src="https://www.marumise.com/gachiken/searchpage/play.gif" alt="vC" />
+          <p class="text">v<span>52539</span>{o^</p>
+        </div>
+        <ul>
+          <li>
+            <input type="checkbox" name="uc_id" value="84" />
+            RoEð</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="45" />
+            oCuE[^[</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="116" />
+            èRL</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="113" />
+            Iij[</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="117" />
+            UX</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="119" />
+            Nj</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="46" />
+            [VvC</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="79" />
+            tF</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="82" />
+            C}`I</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="80" />
+            ûà­Ë</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="81" />
+            ²Á­ñ</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="120" />
+            ¶nE¶­</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="91" />
+            oµ</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="115" />
+            pCY</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="111" />
+            ª«</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="88" />
+            U[</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="89" />
+            ÔÁ©¯</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="90" />
+            çË</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="5" />
+            nBè</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="6" />
+            ip</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="121" />
+            s¿</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="124" />
+            ­­</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="129" />
+            }bT[W</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="135" />
+            úê</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="137" />
+            }OÔµ</li>
+          <li>
+            <input type="checkbox" name="uc_id" value="143" />
+            J[ZbNX</li>
+        </ul>
+      </div>
+      
+      <!-- step_three -->
+      
+      <div class="step"> <img src="https://www.marumise.com/gachiken/searchpage/step3.jpg" alt="step3" />
+        <p>ãLÌîñÉY·éìið¡·®õ«</p>
+      </div>
+      <div id="searchbtn_page">
+        <input onclick="sp_op('./search.html?q=')" type="image" src="https://www.marumise.com/gachiken/searchpage/search_btn.gif" >
+      </div>
+    </form>
+    <script>
+<!--
+function sp_op(adrs){
+  va=encodeURIComponent(document.searchpage.q.value);
+  va=adrs + va;
+
+  // and/or radio
+  vo = $('input[@name="o"]:checked').val();
+  if (vo == 'and')
+     va=va + "&op="+vo;
+
+  // site_id checkbox
+  //vs = $('input[name="site_id"]:checked').val();
+  var vs = new Array();
+  $('input:checkbox[name="site_id"]:checked').each(function() {
+       vs.push($(this).val());
+  });
+
+  if (vs.length != 0)
+     va=va + "&site_id="+vs;
+
+  var vc = new Array();
+  $('input:checkbox[name="uc_id"]:checked').each(function() {
+       vc.push($(this).val());
+  });
+
+  if (vc.length != 0)
+     va=va + "&uc_id="+vc;
+
+  location.href= va;
+}
+
+//-->
+</script>
+    <div class="back_top"><a href="#wrapper">ª±Ìy[WÌgbvÉßéª</a></div>
+    
+    <!-- DXÌéæðüêég@-->
+    <div class="dx_kikaku">
+      <hr />
+      <p><span>Ít@bNAC}`IA`eI»µÄT[sNc</span><br />
+        uú{lDÝÌà¯ºÚÌ®æTCgIv</p>
+      <a href="http://click.dtiserv2.com/Click2/67770351-356-163789" target="_blank"><img src="https://affiliate.dtiserv.com/image/kin8/1356001.jpg"></a> <br>
+      <br>
+      <p><span>V@\ª±XÆoêc</span><br />
+        u¿åÁÆGb`È«¶\InSNSTCgIv</p>
+      <a href="http://click.dtiserv2.com/Click/67770351-360-163789" target="_blank"><img src="https://affiliate.dtiserv.com/image/monroo/1360001_b.jpg"></a> <br>
+      <br>
+      <p><span>V´oLb`~[g[N</span><br />
+        uÂ¤¢ÌqÆyµ­ÂÈªéSNSTCgIv</p>
+      <a href="http://click.dtiserv2.com/Click/6777035-494-163789" target="_blank"><img src="https://affiliate.dtiserv.com/image/sumakoi/1494001.jpg"></a> <br>
+      <br>
+      <p><span>£ÍIÈ«ÆZuÅamÈj«Ìïõ§oï¢n</span><br />
+        uðÛäy V[Nbgu j«ÌûÍ±¿ç©çIv</p>
+      <a href="http://click.dtiserv2.com/Click4/6777035-510-163789" target="_blank"><img src="https://affiliate.dtiserv.com/image/secretlove/1510001.jpg"></a> <br>
+      <br>
+      <p><span>`bgÆEIuì¨à¿á</span><br />
+        u«o^2lÈãI«ÁÆ©Â©éDÝÌqv</p>
+      <a href="http://click.dtiserv2.com/Click100/6777035-103-163789" target="_blank"><img src="https://affiliate.dtiserv.com/image/dxlive/103-700-01.jpg"></a> </div>
+    <!-- DXÌéæðüêég END --> 
+    
+  </div>
+  <!-- #main end -->
+  
+  <div id="right_col">
+    <div id="review_wrapper">
+      <div class="header"><a href="review.html"><img src="https://www.marumise.com/gachiken/top/header03.gif" /></a></div>
+      <!--
+<iframe src="review_index.html"  width="194" height="424" frameborder="no" scrolling="no"></iframe>
+<p><a href="review.html" class="tsuzuki">àÁÆr[ð©é>></a></p>
+--> 
+      <script type="text/javascript" src="js/tgp_review.js" charset="UTF-8"></script> 
+      <script type="text/javascript" src="js/review.js" charset="UTF-8"></script> 
+      <script>
+  show_reviews(163789,'');
+</script> 
+    </div>
+    <!-- #review_wrapper end -->
+    
+    <div id="joyu_wrapper">
+      <div class="header"><a href="joyu.html"><img src="https://www.marumise.com/gachiken/top/header04.gif" /></a></div>
+      <ul class="left">
+        <li class="thumb"><a href="javascript:hd_search('qJ',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu02_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('qJ',1)" class="black_underline">qJ</a></li>
+      </ul>
+      <ul class="left">
+        <li class="thumb"><a href="javascript:hd_search('Hó',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu01_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('Hó',1)" class="black_underline">Hó</a></li>
+      </ul>
+      <ul class="right">
+        <li class="thumb"><a href="javascript:hd_search('mÈSØ',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu04_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('mÈSØ',1)" class="black_underline">mÈSØ</a></li>
+      </ul>
+      <ul class="left">
+        <li class="thumb"><a href="javascript:hd_search('AIKA',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu05_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('AIKA',1)" class="black_underline">AIKA</a></li>
+      </ul>
+      <ul class="right">
+        <li class="thumb"><a href="javascript:hd_search('g½ìß',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu06_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('g½ìß',1)" class="black_underline">g½ìß</a></li>
+      </ul>
+      <ul class="left">
+        <li class="thumb"><a href="javascript:hd_search('kìµ',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu07_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('kìµ',1)" class="black_underline">kìµ</a></li>
+      </ul>
+      <ul class="right">
+        <li class="thumb"><a href="javascript:hd_search('tç ¸Ý',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu14_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('tç ¸Ý',1)" class="black_underline">tç ¸Ý</a></li>
+      </ul>
+      <ul class="left">
+        <li class="thumb"><a href="javascript:hd_search('¡ ¢±',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu13_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('¡ ¢±',1)" class="black_underline">¡ ¢±</a></li>
+      </ul>
+      <ul class="right">
+        <li class="thumb"><a href="javascript:hd_search('±ÌÍ',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu16_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('±ÌÍ',1)" class="black_underline">±ÌÍ</a></li>
+      </ul>
+      <ul class="left">
+        <li class="thumb"><a href="javascript:hd_search('DóÜ±Æ',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu08_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('DóÜ±Æ',1)" class="black_underline">DóÜ±Æ</a></li>
+      </ul>
+      <ul class="left">
+        <li class="thumb"><a href="javascript:hd_search('yß®Ý',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu09_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('yß®Ý',1)" class="black_underline">yß®Ý</a></li>
+      </ul>
+      <ul class="right">
+        <li class="thumb"><a href="javascript:hd_search('Maika',1)"><img src="https://www.marumise.com/gachiken/joyu/joyu19_s.jpg" /></a></li>
+        <li class="name"><a href="javascript:hd_search('Maika',1)" class="black_underline">Maika</a></li>
+      </ul>
+      <p><a href="joyu.html" class="red_underline">SDXg(3722l)ð©é>></a></p>
+    </div>
+    <!-- #joyu_wrapper end --> 
+    
+  </div>
+  <!-- #right_col end -->
+  
+  <div id="affifooter">-GG[r[Ì®æª©½¢lÍãÌTvæðNbNI âÁÏè¨ÁÏ¢ÍæÅÈ­®æÅhêÄ¢éÌð©éÌªÅÅ·I-</div>
+  <div id="footer_out"></div>
+  <div id="header_out"></div>
+  <div id="nav_out"></div>
+</div>
+<!-- wrapper end -->
+
+</body>
+</html>

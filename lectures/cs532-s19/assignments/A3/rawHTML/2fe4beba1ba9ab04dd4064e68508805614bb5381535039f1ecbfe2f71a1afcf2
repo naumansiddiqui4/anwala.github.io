@@ -1,0 +1,184 @@
+
+
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <script>
+//<![CDATA[
+function logError(b,d,e,c,a){try{var g,h,k="";a=a||b;b=(a.message||a.description||b).toString();g=(a.stack||a.backtrace||a.stacktrace||"").toString();h=a.target||"";d=(d||a.fileName||a.sourceURL||h.src).toString();c=c||window.event&&window.event.errorCharacter;e=(e||a.lineNumber||a.line).toString()+(c?":"+c:"");try{localStorage.setItem("test","test"),localStorage.removeItem("test"),(new FormData).append("test","test")}catch(m){k="1"}var f,l={m:b,s:g,f:d||"",l:e||"",u:document.location,w:k};b="";for(f in l)b+=
+f+"="+encodeURIComponent(l[f])+"&";(new Image).src="/track/jserror?"+b}catch(m){}}window.onerror=logError;
+
+//]]>
+</script>
+    <title>札束でしばいた事、しばかれた事ありますか？ | ask.fm/iamr099</title>
+    <meta name="description" content="ないよw" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0" />
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="oFHOU0YRzIEXdyVdKcltdeU9LRQ+sw6H6PMaepulYN6ih8ZFHkegAiaoYekyldWhlIe/eulGdancgou9Ifdx1g==" />
+    <link rel="manifest" href="/manifest.json" />
+        <meta property="fb:app_id" content="129215213762342" />
+    <meta property="og:site_name" content="ASKfm" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="札束でしばいた事、しばかれた事ありますか？ | ask.fm/iamr099" />
+    <meta property="og:description" content="ないよw" />
+    <meta property="og:url" content="https://ask.fm/iamr099/answers/154983267072" />
+    <meta property="og:image" content="https://akimg0.ask.fm/95c/da385/050d/4788/b154/d677bb133e29/normal/361179.jpg" />
+    <meta property="og:image" content="https://static.ask.fm/assets/logo-preview-8de04b038ed54339d316d36c3f9ebb1fcae0fad398b7f968908d8e2d4ae20318.png" />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:image" content="https://akimg0.ask.fm/95c/da385/050d/4788/b154/d677bb133e29/normal/361179.jpg" />
+    <link rel="canonical" href="https://ask.fm/iamr099/answers/154983267072" />
+    <link rel="image_src" href="https://akimg0.ask.fm/95c/da385/050d/4788/b154/d677bb133e29/normal/361179.jpg" />
+
+    <link rel="stylesheet" media="all" href="https://static.ask.fm/assets/application_ltr-7528b9f278d08fc9474e6dc983d1ccffe4a4e3aa6f1522496faf39246a7ae3b2.css" data-turbolinks-track="true" />
+    <script src="https://static.ask.fm/assets/application-1be3ef6152c9676ed4d4e0cd17076037f92308cdd03c75e0bff4d71b28534cd5.js" data-turbolinks-track="true"></script>
+    
+  <!-- Start. SmartAD CMP -->
+  <script type="text/javascript" src="//cmp.smartadserver.mgr.consensu.org/stub.js"></script>
+  <script type="text/javascript" src="//cmp.smartadserver.mgr.consensu.org/cmp.js" async="true"></script>
+  <!-- End. SmartAD CMP -->
+
+  </head>
+  
+
+  <body class="theme-0 twoColumnBody" data-id="profile/answer" data-js-perf-url="/track/jsperf"><script>
+  window.Config && window.Config.init({"poller:interval":30000,"poller:cache_limit":10,"poller:title":true,"mass_ask_limit":50,"flash:delay":3000,"gtm":true,"uploader:max_size":8388608,"uploader:resize:enabled":false,"uploader:resize:max_size":13000000,"uploader:resize:max_dimension":2048,"ads_post_message_urls":["https://askfm.adspirit.de","https://ask.fm"],"ads_post_message_values":["mobile-stream-1","mobile-stream-2","mobile-stream-3","mobile-stream-4","mobile-stream-5","desktop-stream-1","desktop-stream-2","side","side-2"],"in_dap_if":false,"page:category":"Guest Profile","page:type":"Answer","page:user_id":null,"cpm_privacy_link":"\u003ca target=\"_blank\" rel=\"noopener\" href=\"https://about.ask.fm/privacy-policy/?lang=en\"\u003ePrivacy Policy\u003c/a\u003e","pw:log_level":"info","pw:app_code":"E34BC-ACDB0","pw:push_title":"ASKfm","pw:push_image":"https://ask.fm/apple-touch-icon-180x180.png","pw:cookie_ttl_days":90,"fb_sharing:client_id":129215213762342,"fb_sharing:version":"v3.0"});
+</script>
+<div id="loaderMother" style="display:none"></div>
+    <script src="//get.optad360.io/sf/477093ba-acef-11e8-a82b-06048607e8f8/plugin.min.js" async="async"></script>
+
+    <header id="topMenu" class="topMenu">
+      
+      <div class="rsp-eql-desktop">
+  <section class="topBar rsp-container">
+    <a class="icon-askfm-logo topBar-left" href="/"></a>
+
+
+        <div class="topBar-right">
+          <a class="btn-action plain" href="/signup">Sign up</a>
+          <a class="btn-action plain" href="/login">Log in</a>
+        </div>
+
+  </section>
+</div>
+
+<div class="rsp-lte-tablet rsp-container">
+  <section class="topBar">
+
+      <div class="topBar-left">
+        <a class="btn-action plain" href="/signup">Sign up</a>
+      </div>
+      <div class="topBar-right">
+        <a class="btn-action plain" href="/login">Log in</a>
+      </div>
+      <a class="icon-askfm-logo" href="/"></a>
+
+  </section>
+  
+</div>
+
+      
+<div style="display:none" class="flash-message notice">
+  <p class="util-relative rsp-container">
+    <a href="" class="icon-close" data-action="FlashHide"></a>
+    
+</p></div>
+      
+</header>
+    <main id="contentArea" class="rsp-container">
+      <div id="smart_ad_cmp_statistics" data-url="/track/smart_ad_cmp" style="display:none"></div>
+
+
+      <div class="main-content util-clearfix">
+        <div class="main-column util-clearfix">
+          
+
+
+  
+
+<article class="item streamItem streamItem-single">
+
+  
+
+  <header class="streamItem_header" dir="ltr">
+    <h1>札束でしばいた事、しばかれた事ありますか？</h1>
+    
+    </header>
+
+        <div class="streamItem_properties">
+        <div class="streamItem_avatar"><a style="background-image:url(https://akimg0.ask.fm/95c/da385/050d/4788/b154/d677bb133e29/thumb_big/361179.jpg)" class="userAvatar " href="/iamr099"></a></div>
+          <div class="profileBox_label"><a class="btn-circle-following icon-add-friend " data-action="PopupOpen" data-url="/login/prompt" href="#"></a></div>
+        <div class="streamItem_details">
+          <div class="streamItem_meta"><a class="" href="/iamr099">ぱん。</a></div>
+          <a title="February 15, 2019 01:58:30 GMT" class="streamItem_meta" href="/iamr099/answers/154983267072"><time datetime="2019-02-15T01:58:30">9 days ago</time></a>
+        </div>
+    </div>
+
+
+  <div class="streamItem_content">ないよw<p class="readMore"><a class="button" data-action="ReadMore" href="#">View more</a></p></div>
+
+
+  <div class="streamItem_footer popover_container">
+    <div class="heartButton">
+    <a class="icon-like" data-action="PopupOpen" data-url="/login/prompt" href="#"></a>
+
+  <a class="counter" style="display:none" href="/iamr099/answers/154983267072">0</a>
+</div>
+
+    
+    <a title="More" class="icon-more streamItem_option" data-action="PopoverOpen" href="#"></a><nav class="popover right" style="display:none"><a class="icon-flag" data-action="PopupOpen" data-url="/iamr099/answers/154983267072/flag" href="#">Report post</a><a class="rsp-lte-tablet streamItem_option icon-reask" title="Re-ask the question" data-action="PopupOpen" data-url="/login/prompt" href="#"><span>Re-ask the question</span></a></nav>
+    <a class="rsp-eql-desktop streamItem_option icon-reask" title="Re-ask the question" data-action="PopupOpen" data-url="/login/prompt" href="#"><span>Re-ask the question</span></a>
+
+    <a title="Share now" class="icon-share streamItem_option" data-action="PopoverOpen" href="#"></a><nav class="popover right" icon_class="icon-share" title="Share now" style="display:none"><a title="Facebook" class="icon-facebook" href="/login/prompt">Facebook</a><a title="Twitter" class="icon-twitter" href="/login/prompt">Twitter</a><a title="VK" class="icon-vkontakte" href="/login/prompt">VK</a></nav>
+
+    <a class="streamItem_option icon-send" title="Keep asking" data-action="PopupOpen" data-url="/iamr099/unregistered_followup_question_denied" href="#"></a>
+  </div>
+
+  </article>
+    <div class="item-pager streamUsers" data-title="Liked by"></div>
+  
+
+
+    
+
+
+        </div>
+          <aside class="rsp-eql-desktop side-column">
+              
+              <section class="askfm-ad-slot askfm-ad-slot-side " data-url="/ads/304?login=iamr099" data-count-url="/track/ad_slot?ad_block_slot=304"><a target="_blank" rel="noopener" class="askfm-default-ad" style="display:none" href="http://support.ask.fm"><img src="https://static.ask.fm/assets/house_banner_support_center-85ea197689891192f6f5ea6ceb68ad0ac922bde59f45262a122d44cbe00fd78f.png" /></a></section>
+            <footer>
+  <nav class="siteLinks">
+    <a target="_blank" rel="noopener" href="https://about.ask.fm?lang=en">About ASKfm</a>
+    <a target="_blank" rel="noopener" href="https://about.ask.fm/terms/?lang=en">Terms of use</a>
+    <a target="_blank" rel="noopener" href="https://safety.ask.fm?lang=en">Safety center</a>
+    <a target="_blank" rel="noopener" href="https://about.ask.fm/privacy-policy/?lang=en">Privacy policy</a>
+    <a target="_blank" rel="noopener" href="https://support.ask.fm/">Help</a>
+    <a target="_blank" rel="noopener" href="https://about.ask.fm/cookie-policy/?lang=en">Cookies policy</a>
+    <a target="_blank" rel="noopener" href="https://askfm.io/?utm_source=askfm_platform&amp;utm_medium=not_reg_user">ICO</a>
+    <a target="_blank" rel="noopener" href="https://ico.ask.fm/">ICO blog</a>
+  </nav>
+  <nav class="social-links">
+  <a class="icon-askfm-inverse" target="_blank" href="https://ask.fm/askfm"></a>
+  <a class="icon-facebook" target="_blank" rel="noopener" href="https://www.facebook.com/askfmpage"></a>
+  <a class="icon-instagram" target="_blank" rel="noopener" href="https://instagram.com/askfm"></a>
+  <a class="icon-twitter" target="_blank" rel="noopener" href="https://twitter.com/askfm"></a>
+  <a class="icon-vkontakte" target="_blank" rel="noopener" href="https://vk.com/askfm"></a>
+</nav>
+
+  <div class="languageBox">
+    Language: <a class="language " title="Choose language" data-action="PopupOpen" data-url="/home/languages" href="#">English</a>
+  </div>
+  <div class="copyright">&copy; Ask.fm 2019</div>
+  <section class="askfm-ad-slot askfm-ad-slot-side-2 " data-url="/ads/404?login=iamr099" data-count-url="/track/ad_slot?ad_block_slot=404"></section>
+</footer>
+
+          </aside>
+      </div>
+</main>
+      <div class="rsp-eql-mobile askfm-ad-slot-bottom-container">
+        <section class="askfm-ad-slot askfm-ad-slot-bottom " data-url="/ads/504?login=iamr099" data-count-url="/track/ad_slot?ad_block_slot=504"></section>
+      </div>
+
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W5DVX4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+</body>
+  
+</html>

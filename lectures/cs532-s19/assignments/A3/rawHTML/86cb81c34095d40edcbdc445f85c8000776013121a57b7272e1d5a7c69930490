@@ -1,0 +1,4401 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+
+
+
+
+<head>
+    <title>네이버TV</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="robots" content="noindex">
+    
+
+
+
+
+
+
+
+
+
+    
+    <meta name="twitter:card" content="summary_large_image">
+    
+    
+    <meta name="twitter:image" content="https://phinf.pstatic.net/tvcast/20190214_45/I385b_1550140660938kTiX3_JPEG/B120041702_EPI0606_19_B.jpg?type=f880_495_s">
+    
+    
+    <meta property="al:android:url" content="naverplayer://vod_play?minAppVersion=1600&amp;schemeVersion=2&amp;clipNo=5375306">
+    <meta property="al:android:app_name" content="Naver TV">
+    <meta property="al:android:package" content="com.nhn.android.naverplayer">
+    <meta property="al:web:url" content="https://tv.naver.com/v/5375306">
+    
+
+    <meta property="fb:admins" content="100012287952710" />
+    <meta property="fb:app_id" content="232491033870086" />
+
+    <meta property="og:url" content='https://tv.naver.com/v/5375306'>
+    <meta property="og:title" content="&#39;최초공개&#39; 솔로 출격 &#39;화사&#39;의 &#39;멍청이(twit)&#39; 무대">
+    <meta property="og:description" content="M COUNTDOWN | M COUNTDOWN｜Ep.606
+
+퀸화사 &#39;#화사&#39;
+이래서 퀸화사 퀸화사 하나봅니다. (화)사 (사)랑해!!! &#39;멍청이(twit)&#39; 무대!
+Hwa Sa - twit
+
+World No.1 Kpop Chart Show M COUNTDOWN 
+Every Thur 6PM(KST) Mnet Live on Air 
+매주 목요일 저녁 6시 엠넷 생방송">
+    
+    <meta property="og:type" content='video'>
+    
+
+    
+    
+        
+        <meta property="og:video:url" content='https://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=EB39E635EF0B90B0F34838C2A208A000A855&outKey=V12593da21477a1880c419b4ae236e28da6e2e1f9b90a986942969b4ae236e28da6e2&controlBarMovable=true&jsCallable=true&isAutoPlay=true&skinName=tvcast_white'>
+        <meta property="og:video:secure_url" content='https://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=EB39E635EF0B90B0F34838C2A208A000A855&outKey=V12593da21477a1880c419b4ae236e28da6e2e1f9b90a986942969b4ae236e28da6e2&controlBarMovable=true&jsCallable=true&isAutoPlay=true&skinName=tvcast_white'>
+        <meta property="og:video:type" content='text/html'>
+        <meta property="og:video:width" content='1280'>
+        <meta property="og:video:height" content='720'>
+        
+        <meta property="og:video:url" content='https://sstatic-g.rmcnmv.naver.net/resources/flash/NVP_web_player_container.swf?vid=EB39E635EF0B90B0F34838C2A208A000A855&outKey=V12593da21477a1880c419b4ae236e28da6e2e1f9b90a986942969b4ae236e28da6e2&controlBarMovable=true&isAutoPlay=true'>
+        <meta property="og:video:secure_url" content='https://sstatic-g.rmcnmv.naver.net/resources/flash/NVP_web_player_container.swf?vid=EB39E635EF0B90B0F34838C2A208A000A855&outKey=V12593da21477a1880c419b4ae236e28da6e2e1f9b90a986942969b4ae236e28da6e2&controlBarMovable=true&isAutoPlay=true'>
+        <meta property="og:video:type" content='application/x-shockwave-flash'>
+        <meta property="og:video:width" content='1280'>
+        <meta property="og:video:height" content='720'>
+        
+        
+        <meta property="og:video:tag" content='화사'>
+        
+        <meta property="og:video:tag" content='HwaSa'>
+        
+        <meta property="og:video:tag" content='멍청이'>
+        
+        <meta property="og:video:tag" content='twit'>
+        
+        <meta property="og:video:tag" content='엠카운트다운'>
+        
+        <meta property="og:video:tag" content='엠카'>
+        
+        <meta property="og:video:tag" content='MCD'>
+        
+        <meta property="og:video:tag" content='M COUNTDOWN'>
+        
+        <meta property="og:video:tag" content='엠넷'>
+        
+        <meta property="og:video:tag" content='Mnet'>
+        
+        <meta property="og:video:tag" content='케이팝'>
+        
+        <meta property="og:video:tag" content='K-POP'>
+        
+        <link rel="alternate" type="application/json+oembed" href="https://tv.naver.com/oembed?url=https://tv.naver.com/v/5375306&format=json" title="&#39;최초공개&#39; 솔로 출격 &#39;화사&#39;의 &#39;멍청이(twit)&#39; 무대">
+        <link rel="alternate" type="text/xml+oembed" href="https://tv.naver.com/oembed?url=https://tv.naver.com/v/5375306&format=xml" title="&#39;최초공개&#39; 솔로 출격 &#39;화사&#39;의 &#39;멍청이(twit)&#39; 무대">
+    
+    
+
+    
+    <meta property="og:image" content='https://phinf.pstatic.net/tvcast/20190214_45/I385b_1550140660938kTiX3_JPEG/B120041702_EPI0606_19_B.jpg?type=f880_495'>
+    
+    
+    <meta property="og:article:author" content="M COUNTDOWN">
+    
+    
+    <meta property="og:article:author:image" content="https://phinf.pstatic.net/tvcast/20180426_78/GKQIf_1524713141069Ap4mi_JPEG/22082272.jpg">
+    
+    
+    <meta property="naver:video:type" content="rmc">
+    <meta property="naver:video:id" content="EB39E635EF0B90B0F34838C2A208A000A855">
+    <meta property="naver:video:play_time" content="301">
+    <meta property="naver:video:play_count" content="231358">
+    <meta property="naver:video:likeit_count" content="6768">
+    
+
+
+
+
+    <link rel="stylesheet" type="text/css" href='/resources/release/css/tvcast_20190221061205.css'  />
+    <link rel="stylesheet" type="text/css" href='/resources/release/css/contest_20190221061205.css'  />
+    <script type="text/javascript" src="https://ssl.pstatic.net/img.tvcast/pc/js/jindo/jindo.desktop.2_10_0.20160609.min.js"></script>
+    <script type="text/javascript" src='/resources/release/js/clickcr_20190221061205.js'></script>
+    <script type="text/javascript" src='/resources/release/js/tvcast.Common_20190221061205.js'></script>
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src='/resources/release/js/respond/respond.src_20190221061205.js'></script>
+    <![endif]-->
+</head>
+
+
+
+
+
+
+
+
+<body class="    ">
+<div id="u_skip">
+    <a href="#aside" onclick="document.getElementById('aside').tabIndex=-1;document.getElementById('aside').focus();return false;"><span>메인 메뉴로 바로가기</span></a>
+    <a href="#container" id="gnb_goContent" onclick="document.getElementById('container').tabIndex=-1;document.getElementById('container').focus();return false;"><span>본문으로 바로가기</span></a>
+</div>
+<div id="wrap" style="padding-left: 180px;">
+
+
+
+
+
+
+
+
+
+<div id="header">
+    <iframe frameborder="0" scrolling="no" src="about:blank" style="position:absolute;left:0;top:0;width:100%;height:55px;border:none;vertical-align:bottom" title="헤더"></iframe>
+    <div class="header_wrap">
+        <div class="header_content">
+            <h1 class="head_logo">
+                <a href="https://tv.naver.com" class="logo_navertv" onclick="clickcr(this, 'STA.tvcastlogo', '', '', event)" title="NAVERTV">
+                    <span class="blind">네이버 TV</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="134" height="22">
+                        <defs>
+                            <linearGradient id="a" x1="50%" x2="50%" y1="87.237%" y2="-1.735%">
+                                <stop offset="0%" stop-color="#00DE7B"></stop>
+                                <stop offset="100%" stop-color="#00BA6E"></stop>
+                            </linearGradient>
+                        </defs>
+                        <g fill="none" fill-rule="evenodd">
+                            <g fill-rule="nonzero" transform="translate(-2 -2)">
+                                <path fill="url(#a)" d="M2 4.96h5.78V21.1H2z"></path>
+                                <rect width="5.78" height="21.08" x="8.498" y="6.51" fill="#00DE7B" rx="2.89" transform="rotate(58 11.388 17.05)"></rect>
+                                <rect width="5.79" height="21.116" x="8.495" y="-1.633" fill="#00DE7B" rx="2.89" transform="rotate(-58.055 11.39 8.925)"></rect>
+                            </g>
+                            <path d="M36.882 4.928v6.998L30.54 4.128c-.467-.563-1.044-1.084-2.088-1.084h-.37C26.914 3.044 26 3.9 26 4.994v12.078c0 1.063.924 1.928 2.059 1.928 1.135 0 2.059-.865 2.059-1.928V9.77l6.595 8.103c.468.563 1.045 1.084 2.09 1.084h.115c1.167 0 2.082-.857 2.082-1.95V4.928C41 3.865 40.076 3 38.94 3c-1.135 0-2.058.865-2.058 1.928zm15.205 7.076H48.85l1.619-3.979 1.618 3.979zm.631-7.525C52.305 3.525 51.558 3 50.615 3h-.188c-.957 0-1.711.525-2.125 1.48l-5.09 11.866c-.105.239-.212.523-.212.825 0 1.026.77 1.829 1.751 1.829.767 0 1.413-.449 1.73-1.203l.953-2.308h6.07l.912 2.203c.363.856.982 1.308 1.79 1.308C57.213 19 58 18.178 58 17.128c0-.238-.06-.487-.19-.78l-5.092-11.87zM85.114 15.41h-6.998v-2.67h5.848c1.04 0 1.885-.8 1.885-1.785 0-.995-.845-1.805-1.885-1.805h-5.848V6.59H85c1.04 0 1.886-.8 1.886-1.784C86.886 3.81 86.04 3 85 3h-8.93C74.91 3 74 3.87 74 4.982v12.036c0 1.111.91 1.982 2.07 1.982h9.044c1.04 0 1.886-.8 1.886-1.784 0-.996-.846-1.806-1.886-1.806m13.01-6.902v.044c0 1.178-.838 1.881-2.24 1.881h-3.05V6.604h2.986c1.05 0 2.304.33 2.304 1.904M102 8.377v-.044c0-1.507-.47-2.786-1.36-3.698C99.599 3.565 98.027 3 96.098 3h-5.18C89.842 3 89 3.864 89 4.966v12.068c0 1.102.842 1.966 1.917 1.966 1.075 0 1.917-.864 1.917-1.966v-3.062h2.213l3.114 4.046c.505.66 1.106.982 1.837.982.9 0 1.832-.686 1.832-1.835 0-.642-.28-1.059-.596-1.47l-2.051-2.555c1.845-.91 2.817-2.55 2.817-4.763M68.183 4.339L64.5 13.446l-3.683-9.105C60.468 3.451 59.846 3 58.967 3 57.864 3 57 3.841 57 4.915c0 .342.11.649.219.905l4.965 11.696C62.593 18.473 63.415 19 64.5 19c1.085 0 1.907-.527 2.317-1.485L71.78 5.82c.108-.256.219-.563.219-.905C72 3.841 71.136 3 70.033 3c-.878 0-1.501.451-1.85 1.339zm39.614 2.408h3.977v10.21c0 1.07.862 1.937 1.926 1.937a1.932 1.932 0 0 0 1.926-1.937V6.747h4.286l4.476 10.769c.4.957 1.206 1.484 2.269 1.484 1.062 0 1.867-.527 2.268-1.485l4.861-11.696c.106-.255.214-.562.214-.904A1.9 1.9 0 0 0 132.074 3c-.86 0-1.47.451-1.81 1.339l-3.606 9.104-3.63-9.161a1.815 1.815 0 0 0-1.686-1.15h-13.545c-.992 0-1.797.809-1.797 1.807 0 .998.805 1.808 1.797 1.808" fill="#3C3C3C"></path>
+                        </g>
+                    </svg>
+                </a>
+            </h1>
+            <div class="head_info">
+                
+                <div class="gnb_wrap">
+                    <div id="gnb">
+                    </div>
+                </div>
+                
+            </div>
+
+            
+            
+                
+                    
+                    
+                
+            
+
+            <div class="head_search">
+                <!-- search -->
+                <div class="search">
+                    <form id="searchForm">
+                        <fieldset>
+                            <legend>검색</legend>
+                            <div class="input_wrap">
+                                <span class="ipt_srch">
+                                    <label for="searchQuery" class="blind">검색어 입력</label>
+                                    <input id="searchQuery" class="" name="query" value="" type="text" title="검색어를 입력하세요" style="width:100%" autocomplete="off">
+                                    <!-- TODO : 이미지 경로 수정 필요 -->
+                                    <span class="auto_tx"><a href="#" onclick="return false;" title="자동완성 펼치기"><img src="https://ssl.pstatic.net/img.tvcast/pc/img/srch_arrow_down5.png" width="5" height="3" id="acButton" title="자동완성 펼치기" alt="자동완성 펼치기"></a></span>
+                                </span>
+                                <a href="javascript:;" title="검색" id="searchButton" class="btn_search">검색</a>
+
+                                <div class="auto_tx_area ly_atcmp wrap" id="acView" style="display:none;">
+                                    <iframe frameborder="0" scrolling="no" src="about:blank" style="position:absolute;left:0;top:0;width:100%;height:100%;border:none;vertical-align:bottom" title="검색폼"></iframe>
+                                    <div class="auto_txt words">
+                                        <ul class="_resultBox">
+                                            <li data-searchType="not used">
+                                                <a href="javascript:void(0);" class="atcmp_keyword">
+                                                    <span class="atcmp_keyword_img">@imageTag@</span>
+                                                    <span class="atcmp_keyword_txt">@txt@</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <ul class="_resultBox">
+                                            <li data-search-type="channel" data-display-channel-id="@linkUrl@">
+                                                <a href="javascript:void(0);" class="atcmp_keyword">
+                                                <span class="atcmp_keyword_img">@imageTag@</span>
+                                                <span class="atcmp_keyword_txt">@txt@</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                        <ul class="_resultBox list_keyword_hash">
+                                            <li data-search-type="tag">
+                                                <a href="javascript:void(0);" class="atcmp_keyword">
+                                                <span class="atcmp_keyword_hash">#</span>
+                                                <span class="atcmp_keyword_txt">@txt@</span>
+                                                </a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <p class="at_alert _alert" style="display:none;">자동완성 기능이 활성화되었습니다.</p>
+                                    <div class="auto_tx_foorer _footer">
+                                        <a href="#" id="searchButtonAll" class="all_result _search" onclick="return false;">전체 검색 결과보기</a>
+                                        <p class="auto_tx_etc">
+                                            <a href="#" class="clse _unuse_btn" onclick="return false;">자동완성 끄기</a>
+                                        </p>
+                                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/img_atcmp.png" width="268" height="28" class="help _use_guide" style="display:none;position:absolute;bottom:25px;right:4px" alt="기능을 다시 켤 때는 검색창 우측 아이콘을 클릭하세요">
+                                    </div>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </form>
+                </div>
+                <!-- //search -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+	var ghtGnb = {
+		sRequestUrl: 'https://ac.tv.naver.com/ac',
+		sAutoComplete: '/resources/release/js/autocomplete/nhn.Autocomplete_20190221061205.js',
+        sAutoTemplateImageTag: '<img src="https://phinf.pstatic.net/tvcast@emblemUrl@?type=round_31_31" onerror="this.src=\'https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png?type=round_31_31\'" width="22" height="22" alt="임시 이미지">',
+        bIsLogin : false
+    };
+</script>
+
+
+
+
+
+
+
+
+
+
+<div id="aside" class="side_menu" style="left: 0px;">
+	<a href="javascript:;" class="btn_folding open" id="menuButton"><span class="_menu_txt">메뉴 접기</span></a>
+	<iframe frameborder="0" scrolling="no" src="about:blank" title="메뉴토글 버튼"></iframe>
+    <iframe frameborder="0" scrolling="no" src="about:blank" style="position:absolute;left:0;top:0;width:100%;height:100%;border:none;vertical-align:bottom" title="왼쪽 메뉴"></iframe>
+    <div class="aside_wrap _sideMenu">
+        <div id="menuScrollBox" class="scrollbar" style="display:block;">
+            <div class="scrollbar-box">
+                <div class="scrollbar-content">
+                	<div id="menuStudio" style="display:none">
+	                	<a href="https://studio.tv.naver.com" target="_blank" class="link_studio" >
+	                		<i class="logo_studio"></i>
+	                		<span>크리에이터 스튜디오</span>
+	                	</a>
+                	</div>
+                    <div class="menu_top">
+                        <ul>
+                        	<li>
+                        		<a href="https://tv.naver.com/" onClick="clickcr(this, 'mnu.home', '', '', event)">홈</a>
+                        	</li>
+                        	<li>
+	                            <a href="https://tv.naver.com/r/" onClick="clickcr(this, 'mnu.top100', '', '', event)">인기</a>
+	                        </li>
+                            <li>
+                                <a href="https://tv.naver.com/l/livehome" onClick="clickcr(this, 'mnu.livetb', '', '', event)">라이브 <em class="ic ic_beta">beta</em></a>
+                            </li>
+                            <li>
+                                <ul class="menu_ch" id="myArea" data-login="false">
+                                    
+                                    
+
+
+
+
+
+
+
+
+<li><a href="https://tv.naver.com/my/playlist/?type=recent" class="menu_cnt" onClick="clickcr(this, 'mnu.history', '', '', event)">최근 본 동영상</a></li>
+<li><a href="https://tv.naver.com/my/playlist/?type=watch_later" class="menu_cnt" onClick="clickcr(this, 'mnu.history', '', '', event)">나중에 볼 동영상</a></li>
+<li><a href="https://tv.naver.com/my/playlist/?type=likeit" class="menu_cnt" onClick="clickcr(this, 'mnu.history', '', '', event)">좋아요 한 동영상</a></li>
+<li>
+	<h2>
+		<a href="https://tv.naver.com/my/subscription/updated" class="menu_cnt" onClick="clickcr(this, 'mnu.update', '', '', event)">구독</a>
+	</h2>
+	<ul class="menu">
+		
+			
+			
+			
+				<li class="menu_noresult">
+					<p>관심있는 채널을 <em class="sub">구독</em>하여<br>업데이트 동영상을 받아보세요.</p>
+					<a href="/r/channel" class="btn_src" onClick="clickcr(this, 'mnu.watch', '', '', event)">
+						<span>채널 탐색하기</span>
+					</a>
+				</li>
+			
+		
+	</ul>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    
+                    <div class="menu_theme _exclusiveMenu" id="brandArea">
+                        <h2><a href="/p/webdrama" class="menu_tit">테마</a></h2>
+                        <ul class="menu _brand" >
+                        </ul>
+                        <a href="javascript:;" class="btn_fold _click" data-event="foldExclusiveMenu">
+                            <span class="blind _exclusiveMenuFoldState">접기</span>
+                        </a>
+                    </div>
+					
+
+                    <div id="smrBrandArea" class="menu_smr">
+                        <h2 class="menu_tit">방송관</h2>
+                        <ul class="menu _smrBrand"></ul>
+                        <div class="etc">
+							<ul class="menu">
+								<li>
+									<a href="/s/vingo" onClick="clickcr(this, 'mnu.vingo', '', '', event)"><em class="ic_vingo"><img src="https://ssl.pstatic.net/img.tvcast/pc/img/exclusive/ic_vingo4.png" width="67" height="10" alt="TVING TV"></em>실시간 무료</a>
+								</li>
+							</ul>
+						</div>
+                    </div>
+
+                    <div class="menu_bottom">
+                        <ul class="menu">
+                            <li>
+                                <a href="/recommend/playlist" onClick="clickcr(this, 'mnu.rcmpl', '', '', event)">추천 재생목록</a>
+                            </li>
+                            <li>
+                                <a href="/play/" onClick="clickcr(this, 'mnu.playleague', '', '', event)">플레이리그</a>
+                            </li>
+                            <li>
+                                <a href="http://nstore.naver.com/broadcasting/home.nhn" onClick="clickcr(this, 'mnu.tvlink', '', '', event)" target="_blank">방송 다시보기<em class="ic ic_bu"></em></a>
+                            </li>
+                            <li>
+                                <a href="http://blog.naver.com/nv_tvcast" target="_blank" onClick="clickcr(this, 'mnu.attention', '', '', event)">공식블로그</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- 배너영역 -->
+                    
+                        
+                        
+                        
+                        
+                    
+                    <!-- //배너영역 -->
+                </div>
+            </div>
+
+            <div id="menuScrollBar" class="scrollbar-v" style="float: right;">
+                <div class="scrollbar-button-up"></div>
+                <div class="scrollbar-track">
+                    <div class="scrollbar-thumb">
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/blank.gif" class="scrollbar-thumb-head" alt="scrollbar-head"/>
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/blank.gif" class="scrollbar-thumb-body" alt="scrollbar-body"/>
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/blank.gif" class="scrollbar-thumb-foot" alt="scrollbar-foot"/>
+                    </div>
+                </div>
+                <div class="scrollbar-button-down"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+<div id="container" class="end_container" role="main">
+
+
+
+
+
+
+
+<div id="clipEndTop">
+
+
+<div id="topChannelInfo" class="end_title" >
+    <div class="info_wrap">
+    
+        
+        
+        
+        
+            
+
+
+
+
+
+
+
+
+
+<div class="ch_tit">
+    <a href="https://tv.naver.com/mcountdown" class="ic_ch" onclick="clickcr(this, 'chi.title', '', '', null)">
+         <img
+           src="https://phinf.pstatic.net/tvcast/20180426_78/GKQIf_1524713141069Ap4mi_JPEG/22082272.jpg?type=round_96_96"
+           onerror='this.src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png?type=round_96_96"'
+           alt="M COUNTDOWN"
+           width="38" height="38">
+    	 <span class="mask"></span>
+   	</a>
+   	<h2>
+    	<a href="https://tv.naver.com/mcountdown" onclick="clickcr(this, 'chi.title', '', '', null)" title="M COUNTDOWN">
+		M COUNTDOWN
+		</a>
+    </h2>
+</div>
+
+
+<div class="ch_sp">
+    <a href="javascript:;" class="_subscribe btn_subscribe" data-channel-id="mcountdown" data-subscription-count="-1" data-area-code="chi" style="display:none">
+		<span class="txt"><em class="ic"></em>구독</span>
+	</a>
+   	
+		<a href="https://series.naver.com/broadcasting/detail.nhn?originalProductId=100000472" target="_blank" onclick="clickcr(this, 'chi.down', '', '', null)" class="btn_store">방송 다시보기</a>
+	
+</div>
+<span class="brod_inf">
+	
+		
+		
+		
+	
+	<span class="sub">구독 160,363명</span>
+</span>
+
+ 
+        
+        
+        
+        
+
+        
+    
+    
+	<a href="/b/cjenm" class="btn_brand" onclick="clickcr(this, 'chi.brdhome', '', '')">
+	     <span class="smr_bi cjenm"><em class="blind">CJ ENM</em></span>
+	     <span class="txt">전체보기<em class="ic"></em></span>
+	 </a>
+	 
+   </div>
+</div>
+    
+
+</div>
+
+
+
+    <!-- 플레이어 -->
+    <div class="player">
+        <div class="player_container" id="wrap_player">
+            <!-- 플레이어 영역 -->
+            <div class="video_player _player">
+                <div class="video_area">
+                    <div id="playerArea" class="video_content">
+                        
+                        	
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+    
+    	
+    
+    
+        
+    
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/resources/release/css/player/vod_guide_20190221061205.css"/>
+
+
+
+
+
+
+	
+		
+		
+			
+			
+			
+			
+			
+		
+	
+
+	
+		
+	
+
+	<div id="object" style="display:none;"></div>
+	<div id="download" style="display:none;"></div>
+
+	
+
+	
+	<div id="player" style="width:100%; height:100%"></div>
+	
+	
+	
+	
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+	<script type="text/javascript" src="https://sstatic-g.rmcnmv.naver.net/resources/js/naver_web_player_2010_pc_min.js?20190224"></script>
+	
+	<script type="text/javascript" src="/resources/release/js/player/tvcast.PlayLogger_20190221061205.js"></script>
+	<script type="text/javascript" src="/resources/release/js/player/tvcast.pc.PlayTimeLogger_20190221061205.js"></script>
+	<script type="text/javascript" src="/resources/release/js/tvcast.pc.MyPage_20190221061205.js"></script>
+	<script type="text/javascript" src="/resources/release/js/player/WrapPlayer_20190221061205.js"></script>
+
+	
+
+
+	<script type="text/javascript">
+		var nGapTime = 1550978385588 - new Date().getTime(),
+			isGlobalExpand = !!'';
+		var ghtRmcPlayerControlOption = {
+			visible : {
+				logo : false,
+				expand : true,
+				scrap : false,
+				playbackRate: true
+			}
+			, clicked : {
+				expand : !!''
+			}
+		};
+		var nowPlayClipNo = "5375306";
+		var isMT = Boolean(false);
+		var isUHD = Boolean(false);
+		var isVr360 = Boolean(false);
+		var TechType = nhn.rmcnmv.TechType.AUTO;
+		var isPc = "true";
+
+		if (isMT) {
+			TechType = nhn.rmcnmv.TechType.FLASH;
+		} else if (isVr360) {
+			if (jindo.$Agent().navigator().ie && jindo.$Agent().navigator().version == 11) {
+				TechType = nhn.rmcnmv.TechType.FLASH;
+			}
+		}
+
+		
+		
+		jindo.$Cookie().remove("ISAUTO");
+		
+		jindo.$Cookie().remove("AUTOCNT");
+		
+
+		var NFM_cookie = jindo.$Cookie().get("NFM_TV");
+
+		
+		
+		
+		var autoPlayVal = "true";
+		
+		
+
+		var playerOptions = {
+			"videoId" : "EB39E635EF0B90B0F34838C2A208A000A855",
+			"inKey" : "V121a2292bbd3e6858b0b9b4ae236e28da6e281f7c51929abca4193da1477a1880c419b4ae236e28da6e2",
+			"rmcSid" : "2010",
+			"serviceapiDomainRMC" : "https://serviceapi.rmcnmv.naver.com",
+			"wmode" : "window",
+			"autoPlay" : autoPlayVal,
+			"coverImageUrl" : 'https://phinf.pstatic.net/tvcast/20190214_45/I385b_1550140660938kTiX3_JPEG/B120041702_EPI0606_19_B.jpg?type=mfullfill_880_495',
+			"p2pEnable" : "false",
+			"nsc" : "tvcast.end",
+			"apiAd" : "http://ad.nmv.naver.com/ad",
+			"protocol" : "rtmpe",     /* playerMode 에 따라 값이 변경됨. */
+			"advertiseInfo" : '[{"adSystem":"AMS"}]',
+			"advertiseUrl" : "https://ams.rmcnmv.naver.com/item/create/2010/SMR?ams_ctgr=ARTIS&ams_chnl=mcountdown&ams_videoId=EB39E635EF0B90B0F34838C2A208A000A855&ams_cp=3&navervodtype=RMC&programid=C01_B120041702&clipid=C01_227383&adlink=cpid%3DCG%26channelid%3DC17%26category%3D01%26section%3D08%26programid%3DC01_B120041702%26clipid%3DC01_227383%26contentnumber%3D606%26targetnation%3DKR%26isonair%3DY%26ispay%3DN%26vodtype%3DC%26broaddate%3D20190214%26playtime%3D301%26starttime%3D0%26endtime%3D0&ams_rule=%5B%7B%22type%22%3A%22post%22%2C%22exposure%22%3Atrue%2C%22replayExposure%22%3Atrue%2C%22interval%22%3Anull%2C%22timeTable%22%3Anull%7D%5D",
+			"vendor" : "CJENM",
+			"countryCode" : "US",
+			"interfaceLang" : "en_US",
+			"isSMR" : "Y",
+			"techType" : TechType,
+			"serviceDomain" : "https://tv.naver.com",
+			"clipNo" : "5375306",
+			"vr360" : Boolean(false),
+			"isMT" : isMT,
+			"isGlobalExpand" : isGlobalExpand,
+			"isAdult" : "N",
+			"playerAuth" : "player",
+			"channelId" : "mcountdown"
+
+		};
+
+		
+		
+		playerOptions.smrTrackingData = {"type":"SMR","params":{"adlink":"cpid=CG&channelid=C17&category=01&section=08&programid=C01_B120041702&clipid=C01_227383&contentnumber=606&targetnation=KR&isonair=Y&ispay=N&vodtype=C&broaddate=20190214&playtime=301&starttime=0&endtime=0","uuid":"","clipid":"C01_227383","programid":"C01_B120041702"}};
+		
+		
+		
+		
+
+		
+
+
+		
+		if (false) {
+			if(false) {
+				rmcPlayer.setNotAllowPlay('해당 기기에선 재생이 지원되지 않습니다.<br/>양해 부탁드리며 PC에서 감상해주시기 바랍니다.');
+			}
+		}
+
+		function playRelationVideo(clipNo) {
+			location.href = "https://tv.naver.com/v/" + clipNo;
+		}
+
+		function diagnosisPopup() {
+			window.open('/special/p2p/help/cassiodDiagnosis','cassiodDiagnosisPopup','width=620,height=502, scrollbars=yes, resizable=yes');
+		}
+
+		function helpPopup() {
+			window.open('https://help.naver.com/support/contents/contents.nhn?serviceNo=705&categoryNo=6030','cassiodHelpPopup','width=1008,height=800, scrollbars=yes, resizable=yes');
+		}
+
+		
+		function expandPlayer(sIsExpand) {
+
+			isGlobalExpand = sIsExpand === 'true';
+			if(WrapPlayer){
+				WrapPlayer._options["isGlobalExpand"] = isGlobalExpand;
+			}
+			var ClipEnd = tvcast.pc.ClipEnd;
+			var ClipEndExpand = ClipEnd.getClipEndExpand();
+
+			ClipEndExpand.setExpand(isGlobalExpand);
+		}
+
+	</script>
+
+
+
+
+<script type="text/javascript">
+	jindo.$Cookie().set('smr_ppc', '1', 30);
+	jindo.$Cookie().set('smr_pb', 'cjenm', 30);
+
+    function reloadPage() {
+        document.location.reload();
+    }
+</script>
+
+
+	
+		<div id="player_country" class="nation_error" style="display:none;">
+			<div class="nation_box">
+				
+				<p class="en_US">According to the request of the right holder,<br> the clip is not available in your country.</p>
+			</div>
+		</div>
+		<div id="player_auth" style="display:none;width:100%; height:100%; background-color:#000;">
+			
+			<div class="player_error">
+					
+				<div class="error_box">
+					<p class="msg">
+						
+						<span class="txt">19세 미만 청소년은 감상하실 수 없는 동영상으로<br>본인인증 후 이용이 가능합니다.</span>
+						<a href="https://nid.naver.com/user2/help/realNameCheck.nhn?type=11&a_version=2&surl=https://tv.naver.com/v/5375306&rurl=https://tv.naver.com/v/5375306" class="btn_more">본인인증하기</a>
+						
+					</p>
+				</div>
+			</div>
+				
+		</div>
+                        <span class="mask"></span>
+                        <span class="mask2"></span>
+                    </div>
+                </div>
+
+                
+                
+
+
+
+
+
+
+ 
+	
+	
+
+
+
+<div id="clipEndInfo">
+	<div id="clipInfoArea" class="video_watch open">
+		
+
+
+
+
+
+
+
+
+
+    
+        
+    
+    
+
+
+<div class="watch_title">
+    <h3 class="_clipTitle" title="&#039;최초공개&#039; 솔로 출격 &#039;화사&#039;의 &#039;멍청이(twit)&#039; 무대">&#039;최초공개&#039; 솔로 출격 &#039;화사&#039;의 &#039;멍청이(twit)&#039; 무대</h3>
+    
+    <div class="title_info">
+        <span class="play">
+            <strong class="u_hc">재생수</strong>231,358
+        </span>
+        <em class="bar">|</em>
+        <span class="date"><strong>등록</strong>2019.02.14.</span>   
+        <a href="#" class="report _click" data-contentsType="VOD" data-contentsNo="5375306" data-event="report">신고</a>
+    </div>
+</div>
+
+<div class="watch_btn">
+    
+    <div class="u_likeit_list_module">
+        <a href="javascript:;" class="u_likeit_list_btn u_type_brigh _button" title="좋아요" data-sid="TVCAST" data-did="TVCAST" data-cid="5375306" data-likeit="0"></a>
+    </div>
+    
+    <a href="#comment_focus" class="btn_comment" onclick="clickcr(this, 'inf.reply', '', '')">
+        <span class="icon"><em class="blind">댓글</em></span>
+        <span class="count _commentCount"></span>
+    </a>
+    
+    <a href="javascript:;" class="btn_put _click" data-event="setWatchLater" data-clipno="5375306" data-type="current" title="나중에 보기">
+        <span class="icon"></span>
+        <span class="txt">나중에 보기</span>
+    </a>
+    <div class="pop_toast _currentWatchLaterToast" style="display:none;">
+        <div class="toast_box">
+            <p>'나중에 보기'에 저장되었습니다.</p>
+        </div>
+    </div>
+    
+    
+    <a href="javascript:;" id="spiButton" class="btn btn_splugin naver-splugin _shareButton _click"
+       data-event="share"
+       data-style="type_a"
+       data-url="https://tv.naver.com/v/5375306"
+       data-title="&#039;최초공개&#039; 솔로 출격 &#039;화사&#039;의 &#039;멍청이(twit)&#039; 무대"
+       title="퍼가기">퍼가기
+    </a>
+     
+</div>
+
+
+
+<div class="hash_box">
+    <ul class="list_hash">
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('%ED%99%94%EC%82%AC', 'clipEnd', '5375306'); location.href='/search/clip?query=%ED%99%94%EC%82%AC&isTag=true'" href="javascript:void(0);">#화사</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('HwaSa', 'clipEnd', '5375306'); location.href='/search/clip?query=HwaSa&isTag=true'" href="javascript:void(0);">#HwaSa</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('%EB%A9%8D%EC%B2%AD%EC%9D%B4', 'clipEnd', '5375306'); location.href='/search/clip?query=%EB%A9%8D%EC%B2%AD%EC%9D%B4&isTag=true'" href="javascript:void(0);">#멍청이</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('twit', 'clipEnd', '5375306'); location.href='/search/clip?query=twit&isTag=true'" href="javascript:void(0);">#twit</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('%EC%97%A0%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4', 'clipEnd', '5375306'); location.href='/search/clip?query=%EC%97%A0%EC%B9%B4%EC%9A%B4%ED%8A%B8%EB%8B%A4%EC%9A%B4&isTag=true'" href="javascript:void(0);">#엠카운트다운</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('%EC%97%A0%EC%B9%B4', 'clipEnd', '5375306'); location.href='/search/clip?query=%EC%97%A0%EC%B9%B4&isTag=true'" href="javascript:void(0);">#엠카</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('MCD', 'clipEnd', '5375306'); location.href='/search/clip?query=MCD&isTag=true'" href="javascript:void(0);">#MCD</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('MCOUNTDOWN', 'clipEnd', '5375306'); location.href='/search/clip?query=MCOUNTDOWN&isTag=true'" href="javascript:void(0);">#MCOUNTDOWN</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('%EC%97%A0%EB%84%B7', 'clipEnd', '5375306'); location.href='/search/clip?query=%EC%97%A0%EB%84%B7&isTag=true'" href="javascript:void(0);">#엠넷</a></li>
+		
+		<li><a onclick="clickcr(this, 'inf.tag', '', ''); TagAZ.tagClickEncoded('Mnet', 'clipEnd', '5375306'); location.href='/search/clip?query=Mnet&isTag=true'" href="javascript:void(0);">#Mnet</a></li>
+		 
+    </ul>
+</div>
+
+
+
+
+    <a href="javascript:;" class="btn_more _click _clipInfoButton" data-event="showClipInfo" title="">
+        <span class="blind"></span>
+    </a>
+
+
+
+<div class="watch_desc _clipInfo">
+    <div class="info_box _infoBox">
+        
+        
+        <p class="desc">M COUNTDOWN｜Ep.606<br><br>퀸화사 &#039;#화사&#039;<br>이래서 퀸화사 퀸화사 하나봅니다. (화)사 (사)랑해!!! &#039;멍청이(twit)&#039; 무대!<br>Hwa Sa - twit<br><br>World No.1 Kpop Chart Show M COUNTDOWN <br>Every Thur 6PM(KST) Mnet Live on Air <br>매주 목요일 저녁 6시 엠넷 생방송</p>
+        
+
+        
+        
+        <dl class="rating_list">
+            <dt class="tit">영상물 등급</dt>
+            <dd class="col">Rated 15</dd>
+            
+            <dt class="tit">프로그램</dt>
+            <dd class="col">엠카운트다운</dd>
+            
+            
+            
+            <dt class="tit">방영일</dt>
+            <dd class="col">2019.02.14.</dd>
+            
+            
+            <dt class="tit">회차</dt>
+            <dd class="col">606</dd>
+            
+            <dt class="tit">카테고리</dt>
+            <dd class="col"><a href="/c/music" style="color:#7ba7df;" onclick="clickcr(this, 'chi.cat', '', '')">뮤직</a></dd>
+        </dl>
+        
+        
+        
+        
+        <ul class="list_url out_link">
+            
+            <li>
+                <a href="http://goo.gl/gy6T9X" target="_blank" onclick="clickcr(this, 'inf.outlink', '', '', event)" class="link_box">
+                    <strong class="tag"><em class="ico site"></em></strong>
+                    <span class="txt">엠카운트다운 tving에서 다시보기<em class="bu"></em></span>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://goo.gl/kHfhRE" target="_blank" onclick="clickcr(this, 'inf.outlink', '', '', event)" class="link_box">
+                    <strong class="tag"><em class="ico site"></em></strong>
+                    <span class="txt">Mnet 실시간TV 보러가기<em class="bu"></em></span>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.tving.com/smr/vod/player/P/C01_B120041702" target="_blank" onclick="clickcr(this, 'inf.outlink', '', '', event)" class="link_box">
+                    <strong class="tag"><em class="ico site"></em></strong>
+                    <span class="txt">M COUNTDOWN 최신 클립 다시보기<em class="bu"></em></span>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.tving.com/vod/player/E002115220" target="_blank" onclick="clickcr(this, 'inf.outlink', '', '', event)" class="link_box">
+                    <strong class="tag"><em class="ico site"></em></strong>
+                    <span class="txt">M COUNTDOWN 본편 VOD 다시보기<em class="bu"></em></span>
+                </a>
+            </li>
+            
+            <li>
+                <a href="http://www.tving.com/live/player/C00579" target="_blank" onclick="clickcr(this, 'inf.outlink', '', '', event)" class="link_box">
+                    <strong class="tag"><em class="ico site"></em></strong>
+                    <span class="txt">Mnet 실시간TV 무료보기 링크<em class="bu"></em></span>
+                </a>
+            </li>
+            
+        </ul>
+        
+        
+
+        
+        
+        <ul class="list_url in_link _inLink">
+            
+                <li>
+                    <a href="https://series.naver.com/broadcasting/detail.nhn?originalProductId=100000472" class="link_box" target="_blank" onclick="clickcr(this, 'inf.inlink', '', '', event)">
+                        <strong class="tag"><em class="ico naver"></em>N스토어</strong>
+                        <span class="txt">&#039;M COUNTDOWN&#039; 다시보기<em class="bu"></em></span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://entertain.naver.com/tvBrand/659252" class="link_box" target="_blank" onclick="clickcr(this, 'inf.inlink', '', '', event)">
+                        <strong class="tag"><em class="ico naver"></em>TV연예</strong>
+                        <span class="txt">&#039;M COUNTDOWN&#039; 관련기사와 TALK 보기<em class="bu"></em></span>
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://music.naver.com/album/index.nhn?albumId=2844384&trackId=25561136" class="link_box" target="_blank" onclick="clickcr(this, 'inf.inlink', '', '', event)">
+                        <strong class="tag"><em class="ico naver"></em>뮤직</strong>
+                        <span class="txt">화사 &#039;멍청이(twit)&#039; 다운받기<em class="bu"></em></span>
+                    </a>
+                </li>
+            
+        </ul>
+        
+        
+    </div>
+</div>
+
+
+	</div>
+	
+	
+	
+</div>
+            </div>
+            <!-- //플레이어 영역 -->
+
+            
+            
+
+
+
+
+
+<div id="clipEndPlaylist">
+	
+	<div id="channelInfo" class="video_aside"
+		>
+		<div class="video_ch">
+			
+			<div class="ch_tit">
+				<h2>
+					<em class="ic"></em>
+					<span class="_playlistTitle" title="MCOUNTDOWN 606화 (20)">
+					
+						MCOUNTDOWN 606화
+					
+					</span>
+				</h2>
+				
+				<a href="javascript:;" class="btn_more _click _showPlaylistGroupButton" data-event="showPlaylistGroup" title="회차목록보기">회차목록보기</a>
+				
+			</div>
+			
+		</div>
+		
+		<div id="playlistArea" class="video_list">
+			
+
+
+
+
+
+
+
+
+<div class="list_tit">
+    <strong class="cnt">
+    	<em class="_playlistPaging">3 / 20</em>
+    </strong>
+    <div class="list_btn">
+        <div class="btn_refresh" >
+            <a href="javascript:;" class="btn default _click _playbackOrderBtn" data-event="changePlaybackOrder" title="">
+            	<em class="ic"></em>
+            </a>
+            <div class="tooltip _playbackOrderTooltip" style="display: none;">
+                <i class="index repeat_playlist">연속재생 켜짐</i>
+                <i class="index repeat_clip">1개 반복재생</i>
+                <i class="index default">연속재생 꺼짐</i>
+                <a href="javascript:;" class="btn_close _click" data-event="closeTooltip" title="닫기">닫기</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="list_area">
+    <div class="list_scroll">
+        <div id="playlistClipScrollBox" class="scrollbar _playlistScrollbox">
+            <div class="scrollbar-box">
+                <div class="scrollbar-content">
+                    <ul id="playlistClip" class="item_list type1 ">
+                        
+
+
+
+
+
+
+
+
+
+
+<li class="  _rec_playlist" data-clipno="5343068" data-stats-type="PLGEN">
+    
+    <div id="playlistInfo" data-title="MCOUNTDOWN 606화" data-count="20" style="display: none;"></div>
+    
+
+    <div class="inner">
+        <strong class="lank">1</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5343068"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5343068/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190214_231/Yvgyj_1550151730201Q2gWq_GIF/82af1861-2e82-11e9-908b-246e963a3ab9.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="초콜릿보다 달콤한 이번 주 엠카운트다운 라인업은?">
+            <img src="https://phinf.pstatic.net/tvcast/20190212_171/DlQjE_1549947406700wW1oi_JPEG/B120041702_EPI0606_01_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190212_171/DlQjE_1549947406700wW1oi_JPEG/B120041702_EPI0606_01_B.jpg?type=f120_68"
+				 data-aflag="false" alt="초콜릿보다 달콤한 이번 주 엠카운트다운 라인업은?" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">0:23</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5343068"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5343068/list/311110'
+			    
+        	
+					title="초콜릿보다 달콤한 이번 주 엠카운트다운 라인업은?">
+                    초콜릿보다 달콤한 이번 주 엠카운트다운 ..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>27,475</span>
+                <span class="like"><span class="blind">좋아요 수</span>179</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5375367" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">2</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5375367"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5375367/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190218_121/WGzGW_1550477213535Ek3zB_GIF/1b0ec502-3045-11e9-a4e1-246e96396bf5.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="&#039;1위&#039; 힐링X킬링 &#039;세븐틴&#039;의 &#039;Home&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_110/cOCLg_1550140963702E0GLI_JPEG/B120041702_EPI0606_20_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_110/cOCLg_1550140963702E0GLI_JPEG/B120041702_EPI0606_20_B.jpg?type=f120_68"
+				 data-aflag="false" alt="&#039;1위&#039; 힐링X킬링 &#039;세븐틴&#039;의 &#039;Home&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:26</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5375367"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5375367/list/311110'
+			    
+        	
+					title="&#039;1위&#039; 힐링X킬링 &#039;세븐틴&#039;의 &#039;Home&#039; 무대">
+                    '1위' 힐링X킬링 '세븐틴'의 'Home' 무대
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>40,654</span>
+                <span class="like"><span class="blind">좋아요 수</span>2,870</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="on  _rec_playlist" data-clipno="5375306" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">3</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5375306"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5375306/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_3/rdN8J_1550192212245EKRQ4_GIF/6e268baa-3044-11e9-8394-246e96398865.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="&#039;최초공개&#039; 솔로 출격 &#039;화사&#039;의 &#039;멍청이(twit)&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_45/I385b_1550140660938kTiX3_JPEG/B120041702_EPI0606_19_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_45/I385b_1550140660938kTiX3_JPEG/B120041702_EPI0606_19_B.jpg?type=f120_68"
+				 data-aflag="false" alt="&#039;최초공개&#039; 솔로 출격 &#039;화사&#039;의 &#039;멍청이(twit)&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">5:01</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5375306"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5375306/list/311110'
+			    
+        	
+					title="&#039;최초공개&#039; 솔로 출격 &#039;화사&#039;의 &#039;멍청이(twit)&#039; 무대">
+                    '최초공개' 솔로 출격 '화사'의 '멍청이(tw..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>231,358</span>
+                <span class="like"><span class="blind">좋아요 수</span>6,768</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5375155" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">4</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5375155"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5375155/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_3/nLQyy_1550192508786bJNkg_GIF/006baf5c-3043-11e9-a4e1-246e96396bf5.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="&#039;COMEBACK&#039; 데뷔 20주년! &#039;코요태&#039;의 &#039;팩트&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_161/KWHqB_1550140062279bGs57_JPEG/B120041702_EPI0606_18_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_161/KWHqB_1550140062279bGs57_JPEG/B120041702_EPI0606_18_B.jpg?type=f120_68"
+				 data-aflag="false" alt="&#039;COMEBACK&#039; 데뷔 20주년! &#039;코요태&#039;의 &#039;팩트&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:45</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5375155"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5375155/list/311110'
+			    
+        	
+					title="&#039;COMEBACK&#039; 데뷔 20주년! &#039;코요태&#039;의 &#039;팩트&#039; 무대">
+                    'COMEBACK' 데뷔 20주년! '코요태'의 '팩트..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>27,522</span>
+                <span class="like"><span class="blind">좋아요 수</span>407</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5378017" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">5</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5378017"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5378017/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_181/rRiUA_1550192514573H0YDi_GIF/dd0a87c0-305c-11e9-9659-246e9639634d.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="아름답고 찬란한 &#039;우주소녀&#039;의 &#039;La La Love&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_271/cC4Aa_1550151175589zemKC_JPEG/B120041702_EPI0606_17_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_271/cC4Aa_1550151175589zemKC_JPEG/B120041702_EPI0606_17_B.jpg?type=f120_68"
+				 data-aflag="false" alt="아름답고 찬란한 &#039;우주소녀&#039;의 &#039;La La Love&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:29</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5378017"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5378017/list/311110'
+			    
+        	
+					title="아름답고 찬란한 &#039;우주소녀&#039;의 &#039;La La Love&#039; 무대">
+                    아름답고 찬란한 '우주소녀'의 'La La Love..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>22,822</span>
+                <span class="like"><span class="blind">좋아요 수</span>629</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5375048" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">6</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5375048"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5375048/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_81/C2dXW_1550192522324nQDoq_GIF/4b136e8b-3042-11e9-9659-246e9639634d.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="&#039;최초공개&#039; 악몽의 끝! &#039;드림캐쳐&#039;의 &#039;PIRI&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_226/J4qbe_15501397379239avXK_JPEG/B120041702_EPI0606_16_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_226/J4qbe_15501397379239avXK_JPEG/B120041702_EPI0606_16_B.jpg?type=f120_68"
+				 data-aflag="false" alt="&#039;최초공개&#039; 악몽의 끝! &#039;드림캐쳐&#039;의 &#039;PIRI&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:44</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5375048"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5375048/list/311110'
+			    
+        	
+					title="&#039;최초공개&#039; 악몽의 끝! &#039;드림캐쳐&#039;의 &#039;PIRI&#039; 무대">
+                    '최초공개' 악몽의 끝! '드림캐쳐'의 'PIRI..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>35,252</span>
+                <span class="like"><span class="blind">좋아요 수</span>1,413</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374974" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">7</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374974"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374974/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_272/5mAE9_1550192528269eszDF_GIF/95f74b4a-3041-11e9-a4e1-246e96396bf5.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="설렘 폭발! &#039;임팩트&#039;의 &#039;Only U&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_54/25jIA_1550139407345uu0GU_JPEG/B120041702_EPI0606_15_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_54/25jIA_1550139407345uu0GU_JPEG/B120041702_EPI0606_15_B.jpg?type=f120_68"
+				 data-aflag="false" alt="설렘 폭발! &#039;임팩트&#039;의 &#039;Only U&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:54</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374974"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374974/list/311110'
+			    
+        	
+					title="설렘 폭발! &#039;임팩트&#039;의 &#039;Only U&#039; 무대">
+                    설렘 폭발! '임팩트'의 'Only U' 무대
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>8,773</span>
+                <span class="like"><span class="blind">좋아요 수</span>95</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374970" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">8</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374970"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374970/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_180/S4QpG_1550192534268RJCy7_GIF/93b4fcba-3041-11e9-9659-246e9639634d.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="귀염뽀짝 &#039;노태현&#039;의 &#039;I Wanna Know&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_239/3vnBw_1550139400122R7yHX_JPEG/B120041702_EPI0606_14_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_239/3vnBw_1550139400122R7yHX_JPEG/B120041702_EPI0606_14_B.jpg?type=f120_68"
+				 data-aflag="false" alt="귀염뽀짝 &#039;노태현&#039;의 &#039;I Wanna Know&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:11</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374970"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374970/list/311110'
+			    
+        	
+					title="귀염뽀짝 &#039;노태현&#039;의 &#039;I Wanna Know&#039; 무대">
+                    귀염뽀짝 '노태현'의 'I Wanna Know' 무대
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>17,497</span>
+                <span class="like"><span class="blind">좋아요 수</span>439</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374908" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">9</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374908"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374908/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_275/1BLF7_1550192546098hjjPg_GIF/eabbff73-3040-11e9-908b-246e963a3ab9.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="&#039;HOT DEBUT&#039; 괴물 신인 &#039;ITZY&#039;의 &#039;달라달라&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_39/IFdTV_1550139166153xV3S1_JPEG/B120041702_EPI0606_13_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_39/IFdTV_1550139166153xV3S1_JPEG/B120041702_EPI0606_13_B.jpg?type=f120_68"
+				 data-aflag="false" alt="&#039;HOT DEBUT&#039; 괴물 신인 &#039;ITZY&#039;의 &#039;달라달라&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:38</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374908"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374908/list/311110'
+			    
+        	
+					title="&#039;HOT DEBUT&#039; 괴물 신인 &#039;ITZY&#039;의 &#039;달라달라&#039; 무대">
+                    'HOT DEBUT' 괴물 신인 'ITZY'의 '달라달라..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>779,942</span>
+                <span class="like"><span class="blind">좋아요 수</span>13,757</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374906" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">10</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374906"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374906/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_13/lnRXX_1550192801619zFnDN_GIF/e9db6370-3040-11e9-908b-246e963a3ab9.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="※상큼주의※ &#039;베리베리&#039;의 &#039;불러줘(Ring Ring Ring)&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_31/of1wX_1550139161212DhBMv_JPEG/B120041702_EPI0606_12_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_31/of1wX_1550139161212DhBMv_JPEG/B120041702_EPI0606_12_B.jpg?type=f120_68"
+				 data-aflag="false" alt="※상큼주의※ &#039;베리베리&#039;의 &#039;불러줘(Ring Ring Ring)&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:11</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374906"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374906/list/311110'
+			    
+        	
+					title="※상큼주의※ &#039;베리베리&#039;의 &#039;불러줘(Ring Ring Ring)&#039; 무대">
+                    ※상큼주의※ '베리베리'의 '불러줘(Ring Rin..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>41,386</span>
+                <span class="like"><span class="blind">좋아요 수</span>239</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374833" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">11</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374833"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374833/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_147/gMTmd_1550192817626UC7PM_GIF/3578f419-3040-11e9-9659-246e9639634d.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="&#039;에이티즈&#039;의 특급 퍼포먼스! &#039;HALA HALA&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_20/dAYsE_1550138868805PN1zw_JPEG/B120041702_EPI0606_11_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_20/dAYsE_1550138868805PN1zw_JPEG/B120041702_EPI0606_11_B.jpg?type=f120_68"
+				 data-aflag="false" alt="&#039;에이티즈&#039;의 특급 퍼포먼스! &#039;HALA HALA&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:27</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374833"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374833/list/311110'
+			    
+        	
+					title="&#039;에이티즈&#039;의 특급 퍼포먼스! &#039;HALA HALA&#039; 무대">
+                    '에이티즈'의 특급 퍼포먼스! 'HALA HALA' ..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>10,657</span>
+                <span class="like"><span class="blind">좋아요 수</span>236</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374832" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">12</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374832"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374832/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_73/L9yG6_1550192821646Ozvwp_GIF/36d21af0-3040-11e9-908b-246e963a3ab9.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="상큼 매력 UP! &#039;체리블렛&#039;의 &#039;Q&amp;A&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_111/lyvqJ_15501388664838qiD0_JPEG/B120041702_EPI0606_10_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_111/lyvqJ_15501388664838qiD0_JPEG/B120041702_EPI0606_10_B.jpg?type=f120_68"
+				 data-aflag="false" alt="상큼 매력 UP! &#039;체리블렛&#039;의 &#039;Q&amp;A&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:28</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374832"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374832/list/311110'
+			    
+        	
+					title="상큼 매력 UP! &#039;체리블렛&#039;의 &#039;Q&amp;A&#039; 무대">
+                    상큼 매력 UP! '체리블렛'의 'Q&amp;A' 무대
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>23,266</span>
+                <span class="like"><span class="blind">좋아요 수</span>361</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374724" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">13</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374724"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374724/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_101/VCdHk_1550192827873CkwFN_GIF/7efccc16-303f-11e9-908b-246e963a3ab9.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="&#039;COMEBACK&#039; 반전 매력 &#039;온앤오프&#039;의 &#039;사랑하게 될 거야&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_217/xRkxP_1550138514765UD7My_JPEG/B120041702_EPI0606_09_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_217/xRkxP_1550138514765UD7My_JPEG/B120041702_EPI0606_09_B.jpg?type=f120_68"
+				 data-aflag="false" alt="&#039;COMEBACK&#039; 반전 매력 &#039;온앤오프&#039;의 &#039;사랑하게 될 거야&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:29</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374724"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374724/list/311110'
+			    
+        	
+					title="&#039;COMEBACK&#039; 반전 매력 &#039;온앤오프&#039;의 &#039;사랑하게 될 거야&#039; 무대">
+                    'COMEBACK' 반전 매력 '온앤오프'의 '사랑..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>21,164</span>
+                <span class="like"><span class="blind">좋아요 수</span>675</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374557" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">14</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374557"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374557/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_211/c8Vsh_1550192838129PWK01_GIF/19ac7951-303e-11e9-a4e1-246e96396bf5.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="통통 튀는 매력! &#039;일급비밀&#039;의 &#039;WAKE UP&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190215_253/fif8K_1550196839651mh8Kr_JPEG/1550196835727.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190215_253/fif8K_1550196839651mh8Kr_JPEG/1550196835727.jpg?type=f120_68"
+				 data-aflag="false" alt="통통 튀는 매력! &#039;일급비밀&#039;의 &#039;WAKE UP&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:13</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374557"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374557/list/311110'
+			    
+        	
+					title="통통 튀는 매력! &#039;일급비밀&#039;의 &#039;WAKE UP&#039; 무대">
+                    통통 튀는 매력! '일급비밀'의 'WAKE UP' ..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>4,915</span>
+                <span class="like"><span class="blind">좋아요 수</span>39</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374465" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">15</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374465"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374465/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_163/aWOAx_1550192862307wcYvR_GIF/6836a22a-303d-11e9-908b-246e963a3ab9.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="청순 발랄 &#039;네이처&#039;의 &#039;꿈꿨어&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_202/lYaLT_1550137618998RjpUb_JPEG/B120041702_EPI0606_06_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_202/lYaLT_1550137618998RjpUb_JPEG/B120041702_EPI0606_06_B.jpg?type=f120_68"
+				 data-aflag="false" alt="청순 발랄 &#039;네이처&#039;의 &#039;꿈꿨어&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:22</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374465"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374465/list/311110'
+			    
+        	
+					title="청순 발랄 &#039;네이처&#039;의 &#039;꿈꿨어&#039; 무대">
+                    청순 발랄 '네이처'의 '꿈꿨어' 무대
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>12,653</span>
+                <span class="like"><span class="blind">좋아요 수</span>156</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374298" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">16</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374298"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374298/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_279/Xfxx2_15501928792045LAR6_GIF/167ca85d-303c-11e9-8394-246e96398865.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="매력 보이스 &#039;우디&#039;의 &#039;이 노래가 클럽에서 나온다면&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_218/M0L7s_1550137071411ybxsB_JPEG/B120041702_EPI0606_05_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_218/M0L7s_1550137071411ybxsB_JPEG/B120041702_EPI0606_05_B.jpg?type=f120_68"
+				 data-aflag="false" alt="매력 보이스 &#039;우디&#039;의 &#039;이 노래가 클럽에서 나온다면&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:44</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374298"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374298/list/311110'
+			    
+        	
+					title="매력 보이스 &#039;우디&#039;의 &#039;이 노래가 클럽에서 나온다면&#039; 무대">
+                    매력 보이스 '우디'의 '이 노래가 클럽에서..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>15,452</span>
+                <span class="like"><span class="blind">좋아요 수</span>79</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374227" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">17</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374227"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374227/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_34/25BHE_1550192897193l2nKY_GIF/51f9f4d9-303b-11e9-908b-246e963a3ab9.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="新한류돌 &#039;G-MOST&#039;의 &#039;Fallin&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_144/ZFe7a_1550136766138xwK0L_JPEG/B120041702_EPI0606_04_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_144/ZFe7a_1550136766138xwK0L_JPEG/B120041702_EPI0606_04_B.jpg?type=f120_68"
+				 data-aflag="false" alt="新한류돌 &#039;G-MOST&#039;의 &#039;Fallin&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:05</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374227"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374227/list/311110'
+			    
+        	
+					title="新한류돌 &#039;G-MOST&#039;의 &#039;Fallin&#039; 무대">
+                    新한류돌 'G-MOST'의 'Fallin' 무대
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>6,003</span>
+                <span class="like"><span class="blind">좋아요 수</span>30</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5374225" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">18</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5374225"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5374225/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190215_107/ZybYx_1550193107968rEhN1_GIF/509275e7-303b-11e9-a4e1-246e96396bf5.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="청량 매력! &#039;VANNER&#039;의 &#039;배로 두 배로&#039; 무대">
+            <img src="https://phinf.pstatic.net/tvcast/20190214_115/ilLJH_1550136762720Opmay_JPEG/B120041702_EPI0606_03_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190214_115/ilLJH_1550136762720Opmay_JPEG/B120041702_EPI0606_03_B.jpg?type=f120_68"
+				 data-aflag="false" alt="청량 매력! &#039;VANNER&#039;의 &#039;배로 두 배로&#039; 무대" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">3:15</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5374225"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5374225/list/311110'
+			    
+        	
+					title="청량 매력! &#039;VANNER&#039;의 &#039;배로 두 배로&#039; 무대">
+                    청량 매력! 'VANNER'의 '배로 두 배로' 무..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>6,961</span>
+                <span class="like"><span class="blind">좋아요 수</span>118</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5415431" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">19</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5415431"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5415431/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190218_171/7rYW4_155045772272355vV7_GIF/8ecc8cd6-3324-11e9-9659-246e9639634d.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="2월  둘째 주 TOP10은 누구?">
+            <img src="https://phinf.pstatic.net/tvcast/20190218_279/2a8IW_1550456803126rWCGI_JPEG/B120041702_EPI0606_21_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190218_279/2a8IW_1550456803126rWCGI_JPEG/B120041702_EPI0606_21_B.jpg?type=f120_68"
+				 data-aflag="false" alt="2월  둘째 주 TOP10은 누구?" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">1:00</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5415431"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5415431/list/311110'
+			    
+        	
+					title="2월  둘째 주 TOP10은 누구?">
+                    2월  둘째 주 TOP10은 누구?
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>674</span>
+                <span class="like"><span class="blind">좋아요 수</span>28</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+<li class="  _rec_playlist" data-clipno="5419600" data-stats-type="PLGEN">
+    
+
+    <div class="inner">
+        <strong class="lank">20</strong>
+			 <a class="_click thumb"
+				data-moveclipno="5419600"
+				data-playlistno="311110"
+				data-categorycode="ARTIS"
+				data-issmr="false"
+				data-event="moveAnotherClipByUser"
+        
+			
+		    
+			   href='https://tv.naver.com/v/5419600/list/311110'
+		    
+        
+				 
+					 data-anisrc="https://phinf.pstatic.net/tvcast/20190219_240/d1Se9_1550551016515fkMwx_GIF/24a6c774-3354-11e9-a4e1-246e96396bf5.gif?type=fcrop_120_68_ani_limit15"
+				 
+				title="2월 둘째 주 1위 ′세븐틴′의 ′Home′ 앵콜 무대! (Full ver.)">
+            <img src="https://phinf.pstatic.net/tvcast/20190218_162/DeIw9_1550477269561phHLa_JPEG/B120041702_EPI0606_22_B.jpg?type=f120_68"
+				 data-src="https://phinf.pstatic.net/tvcast/20190218_162/DeIw9_1550477269561phHLa_JPEG/B120041702_EPI0606_22_B.jpg?type=f120_68"
+				 data-aflag="false" alt="2월 둘째 주 1위 ′세븐틴′의 ′Home′ 앵콜 무대! (Full ver.)" width="120" height="68"
+                 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+			<img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+            <span class="mask _top_ani_area"></span>
+            <em class="time">5:03</em>
+        </a>
+        <dl>
+            <dt>
+				<a class="_click"
+				   data-moveclipno="5419600"
+				   data-playlistno="311110"
+				   data-categorycode="ARTIS"
+				   data-event="moveAnotherClipByUser"
+            
+	        	
+			    
+						href='https://tv.naver.com/v/5419600/list/311110'
+			    
+        	
+					title="2월 둘째 주 1위 ′세븐틴′의 ′Home′ 앵콜 무대! (Full ver.)">
+                    2월 둘째 주 1위 &prime;세븐틴&prime;의 &prime;Home&prime; 앵콜 ..
+                </a>
+            </dt>
+            
+            
+            <dd class="info">
+                <span class="hit"><span class="blind">재생 수</span>1,691</span>
+                <span class="like"><span class="blind">좋아요 수</span>199</span>
+            </dd>
+        </dl>
+    </div>
+</li>
+
+                    </ul>
+                    
+					<div class="upnext_box">
+						<ul class="auto_list">
+                   		
+                    	
+                    		<li class="">
+								<a href="/playlist/305100"
+								   data-moveclipno="5204202"
+								   data-playlistno="305100"
+								   class="inner" title="M COUNTDOWN 604화" onclick="clickcr(this, 'plt.prplist', '', '', '');">
+									<div class="info">
+										<span class="txt">이전 재생목록</span>
+										<strong class="tit">M COUNTDOWN 604화</strong>
+									</div>
+									<span class="thumb">
+										<img src="https://phinf.pstatic.net/tvcast/20190129_23/xJQ1K_1548740225958Wg5Mo_JPEG/B120041702_EPI0604_01_B.jpg?type=f120_68"
+											 data-aflag="false"
+											 alt="M COUNTDOWN 604화"
+											 width="120" height="68"
+											 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+										<span class="mask"></span>
+										<!-- 재생목록 -->
+										<span class="play">
+											<em class="ic"></em>
+											<strong class="cnt">19</strong>
+											<span class="bg"></span>
+										</span>
+										<!-- //재생목록 -->
+									</span>
+								</a>
+							</li>
+                    	
+                    	
+                    	
+                    	
+                    	
+                    		<li class="">
+								<a href="/playlist/314697"
+								   data-moveclipno="5429738"
+								   data-playlistno="314697"
+								   class="inner" title="M COUNTDOWN 607화" onclick="clickcr(this, 'plt.neplist', '', '', '');">
+									<div class="info">
+										<span class="txt">다음 재생목록</span>
+										<strong class="tit">M COUNTDOWN 607화</strong>
+									</div>
+									<span class="thumb">
+										<img src="https://phinf.pstatic.net/tvcast/20190219_218/xNZOi_15505510195202utoP_JPEG/B120041702_EPI0607_01_B.jpg?type=f120_68"
+											 data-aflag="false"
+											 alt="M COUNTDOWN 607화"
+											 width="120" height="68"
+											 onerror="this.src='https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f120_68'">
+										<span class="mask"></span>
+										<!-- 재생목록 -->
+										<span class="play">
+											<em class="ic"></em>
+											<strong class="cnt">20</strong>
+											<span class="bg"></span>
+										</span>
+										<!-- //재생목록 -->
+									</span>
+								</a>
+							</li>
+                    	
+                    	
+						</ul>
+					</div>
+					
+                </div>
+            </div>
+            <div class="scrollbar-v">
+                <div class="scrollbar-track">
+                    <div class="scrollbar-thumb">
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/blank.gif" class="scrollbar-thumb-head" alt="scrollbar-head"/>
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/blank.gif" class="scrollbar-thumb-body" alt="scrollbar-body"/>
+                        <img src="https://ssl.pstatic.net/img.tvcast/pc/img/blank.gif" class="scrollbar-thumb-foot" alt="scrollbar-foot"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    
+	<div class="list_drop _playlistGroupArea" style="display:none;">
+		<div class="list_tit">
+			<strong class="cnt">재생목록 <em></em></strong>
+			<div class="list_sort" id="playlistGroupSort">
+		    <!-- [D]정렬 선택시 class="btn_sort on" -->
+				<a href="#" class="btn_sort" data-type="btn">최신순<em class="ic"></em></a>
+				<div class="layer" style="display:none">
+					<ul>
+						<li class="on"><a href="#" data-type="latest">최신순</a></li>
+						<li><a href="#" data-type="date">등록일순</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="drop_box">
+			
+			<div id="playlistGroupScrollBox" class="scroll_dropbox scrollbar _playlistScrollbox">
+    			<div class="scrollbar-box">
+					<div class="scrollbar-content _append_content">
+					</div>
+				</div>
+				<div class="scrollbar-v">
+					<div class="scrollbar-track">
+						<div class="scrollbar-thumb">
+							<img src="https://ssl.pstatic.net/img.tvcast/pc/img/blank.gif" class="scrollbar-thumb-head" alt="scrollbar-head"/>
+							<img src="https://ssl.pstatic.net/img.tvcast/pc/img/blank.gif" class="scrollbar-thumb-body" alt="scrollbar-body"/>
+							<img src="https://ssl.pstatic.net/img.tvcast/pc/img/blank.gif" class="scrollbar-thumb-foot" alt="scrollbar-foot"/>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</div>
+
+
+		</div>
+		
+	</div>
+	
+
+	
+	<div id="expandChannelInfo" class="video_high"
+		style="display: none;" >
+		
+
+
+
+
+
+
+
+
+<div class="high_wrap">
+    <div class="video_tit">
+        <div class="tit_area">
+            <h4>
+            	<em class="ic"></em>
+            	
+					
+					
+					MCOUNTDOWN 606화
+					
+				
+                <em class="cnt _expandPlaylistPaging">3 / 20</em>
+            </h4>
+
+            <div class="btn_refresh" >
+                <a href="javascript:;" class="btn refresh _click _playbackOrderBtn" data-event="changePlaybackOrder" title="연속재생">연속재생</a>
+                <div class="tooltip _playbackOrderTooltip" style="display: none;">
+                    <i class="index repeat_playlist">연속재생 켜짐</i>
+                    <i class="index repeat_clip">1개 반복재생</i>
+                    <i class="index default">연속재생 꺼짐</i>
+                    <a href="javascript:;" class="btn_close _click" data-event="closeTooltip" title="닫기">닫기</a>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="video_ch">
+            <!-- 채널 타이틀 -->
+            <div class="ch_tit">
+                <a href="https://tv.naver.com/mcountdown" class="ic_ch">
+                    <img
+                            
+                            
+                            
+                            src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png?type=round_31_31"
+                            
+                            
+                            data-src="https://phinf.pstatic.net/tvcast/20180426_78/GKQIf_1524713141069Ap4mi_JPEG/22082272.jpg?type=round_31_31"
+                            onerror='this.src="https://phinf.pstatic.net/tvcast/20161227_13/photoinfra_1482831946369BANUd_PNG/default_round_ch.png?type=round_31_31"'
+                            alt="M COUNTDOWN"
+                            width="46" height="46">
+                    <span class="mask"></span>
+                </a>
+                <h2>
+                    <a href="https://tv.naver.com/mcountdown">M COUNTDOWN</a>
+                </h2>
+            </div>
+            <!-- //채널 타이틀 -->
+
+            <div class="ch_sp">
+	            <!-- 소셜링크 -->
+	            <a href="javascript:;" class="_subscribe btn_subscribe" data-channel-id="mcountdown" data-subscription-count="-1" data-area-code="chi" style="display:none">
+					<span class="txt"><em class="ic"></em>구독</span>
+				</a>
+	            <!-- //소셜링크 -->
+		        
+			        <a href="https://series.naver.com/broadcasting/detail.nhn?originalProductId=100000472" target="_blank" onclick="clickcr(this, 'chi.down', '', '', null)" class="btn_store">방송 다시보기</a>
+		        
+            </div>
+        </div>
+        
+    </div>
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+<div class="high_rolling">
+
+  
+  <a href="javascript:;" class="btn_roll left _click" data-event="moveLeft" title="왼쪽으로">왼쪽으로</a>
+  
+
+  <div id="rollingPlaylist" class="high_container">
+    <ul class="item_list type2 _rollingPlaylistClipUnorderedList" style="width:70000px">
+
+      
+      
+
+      
+        
+          
+        
+      
+
+      
+
+      
+        
+          
+            
+            
+          
+          
+            
+            
+          
+        
+        
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5343068"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5343068/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190214_231/Yvgyj_1550151730201Q2gWq_GIF/82af1861-2e82-11e9-908b-246e963a3ab9.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="초콜릿보다 달콤한 이번 주 엠카운트다운 라인업은?">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190212_171/DlQjE_1549947406700wW1oi_JPEG/B120041702_EPI0606_01_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="초콜릿보다 달콤한 이번 주 엠카운트다운 라인업은?"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">0:23</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5343068" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5343068/list/311110" title="초콜릿보다 달콤한 이번 주 엠카운트다운 라인업은?">
+          초콜릿보다 달콤한 이번 주 엠카운트다운 라인업은?
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>27,475</span>
+                <span class="like"><span class="blind">좋아요 수</span>179</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5375367"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5375367/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190218_121/WGzGW_1550477213535Ek3zB_GIF/1b0ec502-3045-11e9-a4e1-246e96396bf5.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="&#039;1위&#039; 힐링X킬링 &#039;세븐틴&#039;의 &#039;Home&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_110/cOCLg_1550140963702E0GLI_JPEG/B120041702_EPI0606_20_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="&#039;1위&#039; 힐링X킬링 &#039;세븐틴&#039;의 &#039;Home&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:26</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5375367" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5375367/list/311110" title="&#039;1위&#039; 힐링X킬링 &#039;세븐틴&#039;의 &#039;Home&#039; 무대">
+          '1위' 힐링X킬링 '세븐틴'의 'Home' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>40,654</span>
+                <span class="like"><span class="blind">좋아요 수</span>2,870</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class="on ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5375306"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5375306/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_3/rdN8J_1550192212245EKRQ4_GIF/6e268baa-3044-11e9-8394-246e96398865.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="&#039;최초공개&#039; 솔로 출격 &#039;화사&#039;의 &#039;멍청이(twit)&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_45/I385b_1550140660938kTiX3_JPEG/B120041702_EPI0606_19_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="&#039;최초공개&#039; 솔로 출격 &#039;화사&#039;의 &#039;멍청이(twit)&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">5:01</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5375306" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5375306/list/311110" title="&#039;최초공개&#039; 솔로 출격 &#039;화사&#039;의 &#039;멍청이(twit)&#039; 무대">
+          '최초공개' 솔로 출격 '화사'의 '멍청이(twit)' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>231,358</span>
+                <span class="like"><span class="blind">좋아요 수</span>6,768</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5375155"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5375155/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_3/nLQyy_1550192508786bJNkg_GIF/006baf5c-3043-11e9-a4e1-246e96396bf5.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="&#039;COMEBACK&#039; 데뷔 20주년! &#039;코요태&#039;의 &#039;팩트&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_161/KWHqB_1550140062279bGs57_JPEG/B120041702_EPI0606_18_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="&#039;COMEBACK&#039; 데뷔 20주년! &#039;코요태&#039;의 &#039;팩트&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:45</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5375155" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5375155/list/311110" title="&#039;COMEBACK&#039; 데뷔 20주년! &#039;코요태&#039;의 &#039;팩트&#039; 무대">
+          'COMEBACK' 데뷔 20주년! '코요태'의 '팩트' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>27,522</span>
+                <span class="like"><span class="blind">좋아요 수</span>407</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5378017"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5378017/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_181/rRiUA_1550192514573H0YDi_GIF/dd0a87c0-305c-11e9-9659-246e9639634d.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="아름답고 찬란한 &#039;우주소녀&#039;의 &#039;La La Love&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_271/cC4Aa_1550151175589zemKC_JPEG/B120041702_EPI0606_17_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="아름답고 찬란한 &#039;우주소녀&#039;의 &#039;La La Love&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:29</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5378017" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5378017/list/311110" title="아름답고 찬란한 &#039;우주소녀&#039;의 &#039;La La Love&#039; 무대">
+          아름답고 찬란한 '우주소녀'의 'La La Love' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>22,822</span>
+                <span class="like"><span class="blind">좋아요 수</span>629</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5375048"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5375048/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_81/C2dXW_1550192522324nQDoq_GIF/4b136e8b-3042-11e9-9659-246e9639634d.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="&#039;최초공개&#039; 악몽의 끝! &#039;드림캐쳐&#039;의 &#039;PIRI&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_226/J4qbe_15501397379239avXK_JPEG/B120041702_EPI0606_16_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="&#039;최초공개&#039; 악몽의 끝! &#039;드림캐쳐&#039;의 &#039;PIRI&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:44</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5375048" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5375048/list/311110" title="&#039;최초공개&#039; 악몽의 끝! &#039;드림캐쳐&#039;의 &#039;PIRI&#039; 무대">
+          '최초공개' 악몽의 끝! '드림캐쳐'의 'PIRI' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>35,252</span>
+                <span class="like"><span class="blind">좋아요 수</span>1,413</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374974"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374974/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_272/5mAE9_1550192528269eszDF_GIF/95f74b4a-3041-11e9-a4e1-246e96396bf5.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="설렘 폭발! &#039;임팩트&#039;의 &#039;Only U&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_54/25jIA_1550139407345uu0GU_JPEG/B120041702_EPI0606_15_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="설렘 폭발! &#039;임팩트&#039;의 &#039;Only U&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:54</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374974" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374974/list/311110" title="설렘 폭발! &#039;임팩트&#039;의 &#039;Only U&#039; 무대">
+          설렘 폭발! '임팩트'의 'Only U' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>8,773</span>
+                <span class="like"><span class="blind">좋아요 수</span>95</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374970"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374970/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_180/S4QpG_1550192534268RJCy7_GIF/93b4fcba-3041-11e9-9659-246e9639634d.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="귀염뽀짝 &#039;노태현&#039;의 &#039;I Wanna Know&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_239/3vnBw_1550139400122R7yHX_JPEG/B120041702_EPI0606_14_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="귀염뽀짝 &#039;노태현&#039;의 &#039;I Wanna Know&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:11</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374970" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374970/list/311110" title="귀염뽀짝 &#039;노태현&#039;의 &#039;I Wanna Know&#039; 무대">
+          귀염뽀짝 '노태현'의 'I Wanna Know' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>17,497</span>
+                <span class="like"><span class="blind">좋아요 수</span>439</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374908"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374908/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_275/1BLF7_1550192546098hjjPg_GIF/eabbff73-3040-11e9-908b-246e963a3ab9.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="&#039;HOT DEBUT&#039; 괴물 신인 &#039;ITZY&#039;의 &#039;달라달라&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_39/IFdTV_1550139166153xV3S1_JPEG/B120041702_EPI0606_13_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="&#039;HOT DEBUT&#039; 괴물 신인 &#039;ITZY&#039;의 &#039;달라달라&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:38</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374908" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374908/list/311110" title="&#039;HOT DEBUT&#039; 괴물 신인 &#039;ITZY&#039;의 &#039;달라달라&#039; 무대">
+          'HOT DEBUT' 괴물 신인 'ITZY'의 '달라달라' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>779,942</span>
+                <span class="like"><span class="blind">좋아요 수</span>13,757</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374906"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374906/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_13/lnRXX_1550192801619zFnDN_GIF/e9db6370-3040-11e9-908b-246e963a3ab9.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="※상큼주의※ &#039;베리베리&#039;의 &#039;불러줘(Ring Ring Ring)&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_31/of1wX_1550139161212DhBMv_JPEG/B120041702_EPI0606_12_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="※상큼주의※ &#039;베리베리&#039;의 &#039;불러줘(Ring Ring Ring)&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:11</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374906" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374906/list/311110" title="※상큼주의※ &#039;베리베리&#039;의 &#039;불러줘(Ring Ring Ring)&#039; 무대">
+          ※상큼주의※ '베리베리'의 '불러줘(Ring Ring Ring)' ..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>41,386</span>
+                <span class="like"><span class="blind">좋아요 수</span>239</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374833"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374833/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_147/gMTmd_1550192817626UC7PM_GIF/3578f419-3040-11e9-9659-246e9639634d.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="&#039;에이티즈&#039;의 특급 퍼포먼스! &#039;HALA HALA&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_20/dAYsE_1550138868805PN1zw_JPEG/B120041702_EPI0606_11_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="&#039;에이티즈&#039;의 특급 퍼포먼스! &#039;HALA HALA&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:27</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374833" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374833/list/311110" title="&#039;에이티즈&#039;의 특급 퍼포먼스! &#039;HALA HALA&#039; 무대">
+          '에이티즈'의 특급 퍼포먼스! 'HALA HALA' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>10,657</span>
+                <span class="like"><span class="blind">좋아요 수</span>236</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374832"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374832/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_73/L9yG6_1550192821646Ozvwp_GIF/36d21af0-3040-11e9-908b-246e963a3ab9.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="상큼 매력 UP! &#039;체리블렛&#039;의 &#039;Q&amp;A&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_111/lyvqJ_15501388664838qiD0_JPEG/B120041702_EPI0606_10_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="상큼 매력 UP! &#039;체리블렛&#039;의 &#039;Q&amp;A&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:28</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374832" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374832/list/311110" title="상큼 매력 UP! &#039;체리블렛&#039;의 &#039;Q&amp;A&#039; 무대">
+          상큼 매력 UP! '체리블렛'의 'Q&amp;A' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>23,266</span>
+                <span class="like"><span class="blind">좋아요 수</span>361</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374724"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374724/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_101/VCdHk_1550192827873CkwFN_GIF/7efccc16-303f-11e9-908b-246e963a3ab9.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="&#039;COMEBACK&#039; 반전 매력 &#039;온앤오프&#039;의 &#039;사랑하게 될 거야&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_217/xRkxP_1550138514765UD7My_JPEG/B120041702_EPI0606_09_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="&#039;COMEBACK&#039; 반전 매력 &#039;온앤오프&#039;의 &#039;사랑하게 될 거야&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:29</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374724" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374724/list/311110" title="&#039;COMEBACK&#039; 반전 매력 &#039;온앤오프&#039;의 &#039;사랑하게 될 거야&#039; 무대">
+          'COMEBACK' 반전 매력 '온앤오프'의 '사랑하게 될 거..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>21,164</span>
+                <span class="like"><span class="blind">좋아요 수</span>675</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374557"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374557/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_211/c8Vsh_1550192838129PWK01_GIF/19ac7951-303e-11e9-a4e1-246e96396bf5.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="통통 튀는 매력! &#039;일급비밀&#039;의 &#039;WAKE UP&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190215_253/fif8K_1550196839651mh8Kr_JPEG/1550196835727.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="통통 튀는 매력! &#039;일급비밀&#039;의 &#039;WAKE UP&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:13</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374557" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374557/list/311110" title="통통 튀는 매력! &#039;일급비밀&#039;의 &#039;WAKE UP&#039; 무대">
+          통통 튀는 매력! '일급비밀'의 'WAKE UP' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>4,915</span>
+                <span class="like"><span class="blind">좋아요 수</span>39</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374465"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374465/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_163/aWOAx_1550192862307wcYvR_GIF/6836a22a-303d-11e9-908b-246e963a3ab9.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="청순 발랄 &#039;네이처&#039;의 &#039;꿈꿨어&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_202/lYaLT_1550137618998RjpUb_JPEG/B120041702_EPI0606_06_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="청순 발랄 &#039;네이처&#039;의 &#039;꿈꿨어&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:22</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374465" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374465/list/311110" title="청순 발랄 &#039;네이처&#039;의 &#039;꿈꿨어&#039; 무대">
+          청순 발랄 '네이처'의 '꿈꿨어' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>12,653</span>
+                <span class="like"><span class="blind">좋아요 수</span>156</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374298"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374298/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_279/Xfxx2_15501928792045LAR6_GIF/167ca85d-303c-11e9-8394-246e96398865.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="매력 보이스 &#039;우디&#039;의 &#039;이 노래가 클럽에서 나온다면&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_218/M0L7s_1550137071411ybxsB_JPEG/B120041702_EPI0606_05_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="매력 보이스 &#039;우디&#039;의 &#039;이 노래가 클럽에서 나온다면&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:44</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374298" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374298/list/311110" title="매력 보이스 &#039;우디&#039;의 &#039;이 노래가 클럽에서 나온다면&#039; 무대">
+          매력 보이스 '우디'의 '이 노래가 클럽에서 나온다면'..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>15,452</span>
+                <span class="like"><span class="blind">좋아요 수</span>79</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374227"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374227/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_34/25BHE_1550192897193l2nKY_GIF/51f9f4d9-303b-11e9-908b-246e963a3ab9.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="新한류돌 &#039;G-MOST&#039;의 &#039;Fallin&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_144/ZFe7a_1550136766138xwK0L_JPEG/B120041702_EPI0606_04_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="新한류돌 &#039;G-MOST&#039;의 &#039;Fallin&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:05</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374227" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374227/list/311110" title="新한류돌 &#039;G-MOST&#039;의 &#039;Fallin&#039; 무대">
+          新한류돌 'G-MOST'의 'Fallin' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>6,003</span>
+                <span class="like"><span class="blind">좋아요 수</span>30</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5374225"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5374225/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190215_107/ZybYx_1550193107968rEhN1_GIF/509275e7-303b-11e9-a4e1-246e96396bf5.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="청량 매력! &#039;VANNER&#039;의 &#039;배로 두 배로&#039; 무대">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190214_115/ilLJH_1550136762720Opmay_JPEG/B120041702_EPI0606_03_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="청량 매력! &#039;VANNER&#039;의 &#039;배로 두 배로&#039; 무대"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">3:15</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5374225" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5374225/list/311110" title="청량 매력! &#039;VANNER&#039;의 &#039;배로 두 배로&#039; 무대">
+          청량 매력! 'VANNER'의 '배로 두 배로' 무대
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>6,961</span>
+                <span class="like"><span class="blind">좋아요 수</span>118</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5415431"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5415431/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190218_171/7rYW4_155045772272355vV7_GIF/8ecc8cd6-3324-11e9-9659-246e9639634d.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="2월  둘째 주 TOP10은 누구?">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190218_279/2a8IW_1550456803126rWCGI_JPEG/B120041702_EPI0606_21_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="2월  둘째 주 TOP10은 누구?"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">1:00</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5415431" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5415431/list/311110" title="2월  둘째 주 TOP10은 누구?">
+          2월  둘째 주 TOP10은 누구?
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>674</span>
+                <span class="like"><span class="blind">좋아요 수</span>28</span>
+            </span>
+</li>
+          
+            
+            
+
+
+
+
+
+
+
+
+
+<li class=" ">
+
+        <a class="_click" data-event="moveAnotherClipByUser"
+            data-moveclipno="5419600"
+            data-playlistno="311110"
+            data-categorycode="ARTIS"
+            data-issmr="false"
+    
+    
+            href='https://tv.naver.com/v/5419600/list/311110'
+    
+    
+    
+    
+            
+                data-anisrc="https://phinf.pstatic.net/tvcast/20190219_240/d1Se9_1550551016515fkMwx_GIF/24a6c774-3354-11e9-a4e1-246e96396bf5.gif?type=fcrop_236_133_ani_limit15"
+            
+            title="2월 둘째 주 1위 ′세븐틴′의 ′Home′ 앵콜 무대! (Full ver.)">
+
+                <span class="thumb">
+                    
+                    
+                      
+                      
+                        <img
+                                src="https://phinf.pstatic.net/tvcast/20161227_263/photoinfra_1482831787654EeESz_PNG/default_clip.png?type=f236_133"
+                                data-src="https://phinf.pstatic.net/tvcast/20190218_162/DeIw9_1550477269561phHLa_JPEG/B120041702_EPI0606_22_B.jpg?type=f236_133"
+                                data-aflag="false"
+                                alt="2월 둘째 주 1위 ′세븐틴′의 ′Home′ 앵콜 무대! (Full ver.)"
+                                width="236" height="133">
+                      
+                    
+                    <img src="https://ssl.pstatic.net/img.tvcast/pc/img/bg_blank.png" style="position:absolute; left:0px; top:0px; opacity:0" class="_ani_img" alt="">
+                    <span class="mask"></span>
+                    <em class="time">5:03</em>
+                    <span class="btn_my _click" data-event="setWatchLater" data-clipno="5419600" data-type="">나중에 보기</span>
+                </span>
+    </a>
+    <dl>
+      <dt>
+        <a href="https://tv.naver.com/v/5419600/list/311110" title="2월 둘째 주 1위 ′세븐틴′의 ′Home′ 앵콜 무대! (Full ver.)">
+          2월 둘째 주 1위 &prime;세븐틴&prime;의 &prime;Home&prime; 앵콜 무대! (Full..
+        </a>
+      </dt>
+        
+    </dl>
+            <span class="info">
+                <span class="hit"><span class="blind">재생 수</span>1,691</span>
+                <span class="like"><span class="blind">좋아요 수</span>199</span>
+            </span>
+</li>
+          
+        
+      
+
+    </ul>
+  </div>
+
+  
+  <a href="javascript:;" class="btn_roll right _click" data-event="moveRight" title="오른쪽으로">오른쪽으로</a>
+  
+
+</div>
+
+
+</div>
+
+	</div>
+</div>
+
+        </div>
+    </div>
+    <!-- //플레이어 -->
+
+    <div id="content">
+        
+        <div id="empty" style="height:500px"></div>
+    </div>
+
+</div>
+<!-- //ct -->
+
+<div class="pl_layer" id="free_movie_notice" style="display:none;">
+    <iframe src="about:blank" style="position:absolute;left:0;top:0;width:100%;height:100%;border:none" frameborder="0" scrolling="no" title="빈 프레임"></iframe>
+    <div class="layer_wrap">
+        <div class="layer_ct">
+            <div class="layer_pop v2">
+                <div class="layer_box">
+                    <p class="text_notify">
+                        영상 초반에 연령등급 고지되어 있습니다. <br>
+                        항상 확인 후 연령이 이보다 낮으신 경우 <br>
+                        이용을 삼가 주시기 바랍니다.
+                    </p>
+                    <div class="check_section"><input type="checkbox" id="notice_check" name="" class="chk_notify">
+                        <label for="notice_check" class="label_notify">해당 내용을 숙지하였습니다.</label>
+                        <div class="btn_area">
+                            <a href="#" class="btn _click">확인</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="pop_toast" id="toastTimestamp" style="display:none">
+    <div class="toast_box">
+        <p id="timestamp_alert">광고 종료 후 이동합니다.</p>
+    </div>
+</div>
+
+
+
+
+<script type="text/template" id="extraSocialPluginTpl">
+<li id="sharePlayer" class="_spi_cnt_copyurl spi_lnk_share">
+    <div class="splugin_panel">
+        <table border="0" summary="퍼가기 레이어" class="splugin_form">
+            <colgroup>
+                <col width="33px">
+                <col width="179px">
+                <col width="59px">
+                <col width="27px">
+            </colgroup>
+            <tbody>
+            <tr >
+                <th><label for="resolution">크기</label></th>
+                <td>
+                    <div class="select_box _playerSizeSelectBoxArea" id="resolution">
+                        <strong class="sel_btn">
+                            <a href="javascript:;" id="playerSizeSelectBox" class="_playerSizeSelectBox _click" data-event="showPlayerSizeSelectBox" data-width="544">544px * 306px</a>
+                        </strong>
+                        <ul class="ly_lst _playerSizeList">
+                            <li class="on"><a href="javascript:;" class="_click" data-event="setPlayerSize" data-width="544">544px * 306px</a></li>
+                            <li><a href="javascript:;" class="_click" data-event="setPlayerSize" data-width="740">740px * 416px</a></li>
+                            <li><a href="javascript:;" class="_click" data-event="setPlayerSize" data-width="936">936px * 526px</a></li>
+                            <li><a href="javascript:;" class="_click" data-event="setPlayerSize" data-width="1280">1280px * 720px</a></li>
+                        </ul>
+                    </div>
+                </td>
+                <th><label for="clipShareHtmlAutoPlayCheckbox">자동 재생</label></th>
+                <td>
+                <span id="sharePlayerAutoPlay" class="check_box chk_on _clipShareHtmlAutoPlay">
+                    <input type="checkbox" name="" id="clipShareHtmlAutoPlayCheckbox" class="chb _click" data-event="setAutoPlay">
+                    <span></span>
+                </span>
+                </td>
+            </tr>
+            <tr class="code ">
+                <th><label>코드</label></th>
+                <td colspan="3">
+                    
+                    <input id="sharePlayerTagInput" class="input_url _clipShareHtmlInput" name=""  value="{=sharePlayerTag}" title="코드 복사" disabled><a href="javascript:;" id="sharePlayerTagCopyButton" class="btn_copy _clipShareHtmlButton" data-clipboard-text="{=sharePlayerTag}" data-type="clipShareHtml">복사</a>
+                    <div class="panel_notice">
+                        Flash 미지원으로 Object 코드 퍼가기 기능은<br>더 이상 지원되지 않습니다.
+                        <a href="https://help.naver.com/support/contents/contents.nhn?serviceNo=3609&categoryNo=3591"  data-event="helpLink" class="_spi_btn_help _click">도움말</a>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</li>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+    var ghtCommentOptions = {
+        "pageName" : "clips", //service.controller init 구분자
+        "cbox" : {
+            isLogin : false // 사용자의 로그인 여부를 true, false 로 지정
+            , isAuth : true // 사용자의 실명인증 여부를 true, false 로 지정
+            , objectUrl : 'https://tv.naver.com/v/5375306' // objectUrl 지정
+            , pwBlockUrl : 'http://commentbox.naver.com/not_available.nhn'
+            , pwReportUrl : 'http://commentbox.naver.com/report.nhn'
+            , profileHome : 'http://commentbox.naver.com/redirect.nhn'
+            , formation : ['count','write','list','page']
+            , commands : ['recommend','discommend','reply','delete','report']
+            , layers : ['profile','naverHelp','bestInfo']
+            , descs : ['policy']
+            , maxDepth: 2
+            , maximumCommentLength : 500
+            , pageSize: 5
+            , paginateSize: 5
+            , useSpan: true
+            , enableMultiLine : true
+            , enableSpotLight : false
+            , useRecommendArea : true
+            , useSortArea : true
+            , sortOptionList : ['newest', 'oldest']
+            , useInfoArea : true
+            , useMobile : true
+        },
+        "cbox_template" : {
+            comment :
+                    '<li class="cbox_comment cbox_thumb_off comment_no_{=commentNo}" >'+
+                    '{if replyLevel > 1} <span class="cbox_bu_subnode">ㄴ</span> {/if}'+
+                    '<div class="cbox_comment_area">'+
+                    '<div class="cbox_info_area">'+
+                    '<div class="cbox_section">'+
+                    '{if config.option(\'usePersonacon\') && personacon}<img class="cbox_personacon sticker" src="{=personacon}"/>{/if}'+
+                    '<span class="cbox_nick_name">{if writerNickName != null && writerNickName != ""}{=writerNickName}{else}{=writerId}{/if}</span>'+
+                    '<span class="cbox_date">{=registeredDate}</span> '+
+                    '{if config.option(\'useSocialComment\') && isMine && (isMe2day || isFacebook || isTwitter)}'+
+                    '{if !(replyLevel > 1 && !isSocialReplyActive)}' +
+                    '<span class="cbox_sns_share">'+
+                    '{if \'true\'== isMe2day}<a href="{js jindo.$S((=config.option(\'urlList\').social.redirectSns)).format((=ticket),(=commentNo),\'ME2DAY\')}" {if !isSocialLinkOpen}onclick="return false;"{/if} class="me2 N=a:CML.me2" target="_blank">미투데이</a>{/if}'+
+                    '{if \'true\'== isFacebook}<a href="{js jindo.$S((=config.option(\'urlList\').social.redirectSns)).format((=ticket),(=commentNo),\'FACEBOOK\')}" {if !isSocialLinkOpen}onclick="return false;"{/if} class="facebook N=a:CML.fb" target="_blank">페이스북</a>{/if}'+
+                    '{if \'true\'== isTwitter}<a href="{js jindo.$S((=config.option(\'urlList\').social.redirectSns)).format((=ticket),(=commentNo),\'TWITTER\')}" {if !isSocialLinkOpen}onclick="return false;"{/if} class="twitter N=a:CML.tw" target="_blank">트위터</a>{/if}'+
+                //'{if \'true\'== isYozm}<a href="{js jindo.$S((=config.option(\'urlList\').social.redirectSns)).format((=ticket),(=commentNo),\'YOZM\')}" {if !isSocialLinkOpen}onclick="return false;"{/if} class="thesedays N=a:CML.yozm" target="_blank">요즘</a>{/if}'+
+                    '</span>'+
+                    '{/if}' +
+                    '{/if}'+
+                    '</div>'+
+                    '<div class="cbox_section2">'+
+                    '</div>'+
+                    '</div>'+
+                    '<div class="cbox_desc_comment">'+
+                    '<p class="cbox_desc" style="word-break:break-all;line-break: all;word-wrap:break-word;">'+
+                    '{=contents}'+
+                    '</p>'+
+                    '</div>'+
+                    '</div>'+
+                    '<ul>'+
+                    '</ul>'+
+                    '</li>',
+            countSimple : '<h3 class="h_comment"><em>{js convertCurrency((=count))}</em><span>개의 댓글</span></h3>',
+            bestInfo : '<span class="cbox_best_info" style="" id="bestInfo">BEST 댓글 운영 기준 안내 <a href="#none"><img src="https://ssl.pstatic.net/img.tvcast/service/img/btn_tip_white.gif" width="14" height="14" title="BEST 댓글 운영 안내 보기" alt="BEST 댓글 운영 안내 보기" border="0"></a></span>',
+            bestInfoLayer :
+                    '<div class="cbox_layer_popup best_info_layer" tier="2" style="top:32px;right:0;display:none">'+
+                    '<strong class="cbox_blind">BEST 댓글 운영 기준 안내 레이어</strong>'+
+                    '<button type="button" class="cbox_close" title="BEST 댓글 운영 기준 안내 레이어 닫기"><span><em>닫기</em></span></button>'+
+                    '<p>타인에게 불쾌감을 주거나 저자의 요청을 <br>받은 경우 베스트 댓글에서 제외될 수 있습니다.</p>'+
+                    '</div>',
+            subNode : '<span class="cbox_bu_subnode">ㄴ</span>',
+            pageArea : '<div class="cbox_paginate"></div>',
+            page : '<a href="#" class="cbox_page{=page} N=a:CML.page,r:{=page}">{=page}</a>',
+            currentPage : '<strong class="cbox_page{=page}">{=page}</strong>',
+            firstPage : '<a class="cbox_pre_end" href="#">맨앞</a>',
+            prevPage : '<a class="cbox_pre N=a:CML.pre" href="#">이전</a>',
+            nextPage : '<a class="cbox_next N=a:CML.next" href="#">다음</a>',
+            lastPage : '<a class="cbox_next_end" href="#">맨뒤</a>',
+
+            userRecommendImgTag : '<img src="https://ssl.pstatic.net/img.tvcast/service/img/ico_best_comment_cn2.png" width="33" height="15" title="네이버 이용자들이 공감한 댓글입니다." alt="네이버 이용자들이 공감한 댓글입니다." class="recommend2">',
+
+            policyDesc :
+                    '<div class="cbox_desc2">'+
+                    '<p><span>주제와 무관한 댓글, 악플은 삭제될 수 있습니다.</span>'+
+                    '<a href="#" target="_blank"></a></p>'+
+                    '</div>',
+
+            replyAreaPage :
+                    '<li class="cbox_comment cbox_thumb_off cbox_pagination">'+
+                    '<p class="cbox_best_paginate">'+
+                    '<a href="#" class="cbox_best_pre">이전 답글</a>'+
+                    '<span class="cbox_best_page"><em><span class="cbox_blind">현재 선택된 페이지 </span> {=curPage}</em>/<em><span class="cbox_blind">전체 페이지 수 </span>{=totalPage}</em></span>'+
+                    '<a href="#" class="cbox_best_next">다음 답글</a>'+
+                    '</p>'+
+                    '</li>',
+
+            spanWriteBox :
+                    '<div class="cbox_txt_area">'+
+                    '<table cellspacing="0" class="cbox_section">'+
+                    '<caption>덧글 입력박스</caption>'+
+                    '<tbody>'+
+                    '<tr>'+
+                    '<td></td>'+
+                    '<td>'+
+                    '<textarea class="cbox_txt_focus_area" cols="80" rows="20" name="" title="댓글 입력창"></textarea>'+
+                    '</td>'+
+                    '<td class="cbox_btn_area N=a:CMW.ok">'+
+                    '<input type="image" src="https://ssl.pstatic.net/img.tvcast/pc/img/btn_wrt_upld.png" alt="등록">'+
+                    '</td>'+
+                    '</tr>'+
+                    '<tr style="display:none;">'+
+                    '<td></td>'+
+                    '<td>'+
+                    '<div class="cbox_desc_area">'+
+                    '</div>'+
+                    '</td>'+
+                    '<td></td>'+
+                    '</tr>'+
+                    '</tbody>'+
+                    '</table>'+
+                    '</div>',
+
+            mobileIcon : '<img src="https://ssl.pstatic.net/img.tvcast/service/img/ico_mobile_white.gif" width="9" height="12" class="ico_mobile"> ',
+            mobileLayer : '<div style="top:26px; left:159px; z-index:30" class="ly_mobile"><em></em></div>'
+        },
+
+        "cbox_create" : ['.cbox_module', 'channel01', '5375306'],
+        "rolling" : [],
+        "realtime" : "jRealTimeTab",
+        "scrollbar" : [
+            "scrollbox"
+        ],
+        "bestMoveTab":"jBestTab",
+        "dropdown" : [
+            { "eventArea":"#jClipendTitle",
+                "eventAreaButton" : ["dt.btn_arrw_down","dt.btn_arrw_up"],
+                "viewArea":"#scrollbox"
+            }]
+    };
+
+    try {
+        if( RollingArray && RollingArray.length != 0  ) {
+            ghtCommentOptions.rolling = ghtCommentOptions.rolling.concat(RollingArray);
+        }
+    } catch(e){
+
+    }
+
+    function convertCurrency(sText) {
+        var sText = sText+"";
+        if(isNaN(parseFloat(sText,10))){
+            return sText;
+        }
+        var nDot = 0,
+                sReturn = "",
+                nDotPosition = sText.indexOf("."),
+                nLastPosition = sText.length;
+
+        if (nDotPosition > -1) {
+            nLastPosition = nDotPosition - 1;
+        }
+
+        //세자리마다 ,찍어 통화형식으로 만들기
+        for (var i = sText.length; i >= 0; i--) {
+            var sChar = sText.charAt(i);
+            if (i > nLastPosition) {
+                sReturn = sChar + sReturn;
+                continue;
+            }
+            if (/[0-9]/.test(sChar)) {
+                if (nDot >= 3) {
+                    sReturn = ',' + sReturn;
+                    nDot = 0;
+                }
+                nDot++;
+                sReturn = sChar + sReturn;
+            }
+        }
+        return sReturn;
+    }
+
+</script>
+
+
+
+
+
+
+    
+    
+    
+
+
+<script type="text/javascript" src='/resources/release/js/jindo.component.LazyLoading_1_10_0.20140220_20190221061205.js'></script>
+<script type="text/javascript" src='/resources/release/js/comment/jindo.desktop.min.ns.2.8.0.commentJ_20190221061205.js'></script>
+<script type="text/javascript" src='/resources/release/js/comment/jindo_component.1.7.0.commentJ_20190221061205.js'></script>
+
+<script>
+    var continuousPlayList = {"list" : [], "playIndex" : 0};
+    
+    continuousPlayList.list.push({
+        clipNo : '5343068',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5375367',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5375306',
+        isAdult : 'N'
+    });
+    
+    continuousPlayList.playIndex = 2 || 0;
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5375155',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5378017',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5375048',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374974',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374970',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374908',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374906',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374833',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374832',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374724',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374557',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374465',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374298',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374227',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5374225',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5415431',
+        isAdult : 'N'
+    });
+    
+    
+    continuousPlayList.list.push({
+        clipNo : '5419600',
+        isAdult : 'N'
+    });
+    
+    
+</script>
+
+
+
+    
+        
+    
+    
+
+
+<script type="text/javascript">
+    var nsc = 'tvcast.end';
+    var timeStamp = '1550978385569';
+    var ghtEnv = {
+        sPageName : "clipEnd"
+        , nClipNo : 5375306
+        , sPartnerNo : '3'
+        , sStationNo : '12'
+        , sVideoId : 'EB39E635EF0B90B0F34838C2A208A000A855'
+        , sSearchKeyword : ''
+        , sChannelId : 'mcountdown'
+        , sDisplayChannelId: 'mcountdown'
+        , sChannelName : 'M COUNTDOWN'
+        , sClipNo : '5375306'
+        , sCategoryCodeAsString : 'ARTIS'
+        , nLikeItCount : 6768
+        , sLikeItDomain : 'https://common.like.naver.com'
+        , bIsLogin : false
+        , isPlayableAuth : 'notAdult'
+        , sAccessKey : ''
+        , nPlaylistNo : 311110
+        , sPlaylistType : 'GENERAL'
+        , nNextClipNo : '5375155'
+        , nNextPlaylistNo : '311110'
+        , sContinuousPlayCookieKey : 'NTC_ContPL'
+        , sClipboardSwfUrl : '/resources/swf/clipboard.swf'
+        , sCurrentClipUrl : 'https://tv.naver.com/v/5375306/list/311110'
+        , sNextClipUrl : 'https://tv.naver.com/v/5375155/list/311110'
+        , bIsDescriptionAvailable : true
+        , bIsDescriptionOpened : true
+        , bCommentOpen : false
+        , bIsSmr : true
+        , htComment2Option : {"domain":"https://ssl.pstatic.net/static.cbox","apiDomain":"https://apis.naver.com/commentBox/cbox","login":false,"ticket":"channel01","templateId":"default","objectId":"5375306","language":"ko","country":"KR","pageType":"default","pageSize":20,"indexSize":5,"replyPageSize":5,"cssId":"tvcast","cssUrl":"https://tv.naver.com/resources/release/css/comment/pc_20190221061205.css","id":"cbox_module","likeItId":"5375306","help":"down","groupId":"mcountdown"}
+        , bIsComment2 : true
+        , apiDomain : "https://api.tv.naver.com"
+        , logApiDomain : "https://logapi.tv.naver.com"
+        , nstoreFreeMovie : "false"
+        , sQuery : ""
+        , sPlClips : ""
+		, specialDAYn : "N",
+        "sPhotoInfraUrl" : "https://phinf.pstatic.net/tvcast"
+        , oCurrentPlaylist : this.continuousPlayList
+    };
+
+    
+
+    window.attachEvent ? window.attachEvent('onload', loadHandler) : window.addEventListener('load', loadHandler, false);
+
+    function loadHandler() {
+        var aLoadJs = new Array();
+
+        aLoadJs.push('https://ssl.pstatic.net/img.tvcast/pc/js/jindo/jindo.component.1_13_0.20140930.min.js');
+        aLoadJs.push('/resources/release/js/lcslog_20190221061205.js');
+        aLoadJs.push('/resources/release/js/tvcast.Namespace_20190221061205.js');
+        aLoadJs.push('/resources/release/js/tvcast.pc.Gnb_20190221061205.js');
+
+        
+        
+        aLoadJs.push('/resources/release/js/clipEnd/tvcast.pc.ClipEnd.all_20190221061205.js');
+        
+        
+        
+        jindo.LazyLoading.load(aLoadJs, function() {
+            tvcast.pc.Gnb = new Gnb();
+            tvcast.pc.ClipEnd = new ClipEnd();
+            tvcast.pc.LikeIt = new LikeIt(ghtEnv);
+            tvcast.pc.Comment = new Comment();
+            tvcast.pc.RecommendStats = new tvcast.RecommendStats({
+                apiDomain : 'https://logapi.tv.naver.com'
+                , clipNo : '5375306'
+                , device : 'PC'
+                , brandId : 'cjenm'});
+            tvcast.pc.Subscription = new Subscription();
+            tvcast.pc.CreatorSubscription = new CreatorSubscription();
+            //tvcast.pc.pplCommerce.init(channelPPL);
+
+			tvcast.pc.AnimateThumb.init({
+                "baseEl" : "container"
+            });
+
+			if (typeof rmcPlayer == "undefined") {
+				var playLoggerOptions = {
+					apiDomain: 'https://logapi.tv.naver.com',
+					clipNo: '5375306',
+					playlistNo: '',
+					beforeClipNo: jindo.$Cookie().get("NTC_BEFORE_CLIP"),
+					device: Boolean(isPc) ? 'PC' : 'MO'
+				};
+				tvcast.PlayLogger = new PlayLogger(playLoggerOptions);
+				typeof WrapPlayer != "undefined" && WrapPlayer.init(playerOptions);
+			}
+
+		});
+
+        aLoadJs = null;
+    }
+</script>
+
+
+
+
+
+<div class="floating_top">
+    <iframe frameborder="0" src="about:blank" style="position:absolute;left:0;top:0;width:100%;height:100%;border:none;vertical-align:bottom" title="TOP"></iframe>
+    <a href="/" class="btn btn_home" onclick="clickcr(this, 'mov.home', '', '', event)" title="홈">홈</a>
+    <a href="#" class="btn btn_top" onclick="goTop();clickcr(this, 'mov.top', '', '', event)" title="TOP">TOP</a>
+</div>
+
+<script>
+    function goTop(){
+		window.scrollTo(0, 0);
+		var topEl = document.getElementById('u_skip');
+		if (topEl) {
+			topEl.tabIndex = -1;
+			topEl.focus();
+			topEl.removeAttribute('tabIndex');
+		}
+    }
+</script>
+
+</div>
+
+
+
+
+
+<div id="footer" style="padding-left: 180px;">
+<ul>
+    <li class="first"><a href="http://www.naver.com/rules/service.html" target="_blank" onClick="clickcr(this, 'fot.agreement', '', '', event);">이용약관</a></li>
+    <li><a href="http://www.naver.com/rules/privacy.html" target="_blank" onClick="clickcr(this, 'fot.privacy', '', '', event);">개인정보처리방침</a></li>
+    <li><a href="http://www.naver.com/rules/disclaimer.html" target="_blank" onClick="clickcr(this, 'fot.disclaimer', '', '', event);">책임의 한계와 법적고지</a></li>
+    <li><a href="https://help.naver.com/support/service/main.nhn?serviceNo=705" target="_blank" onClick="clickcr(this, 'fot.helpdesk', '', '', event);">네이버TV 고객센터</a></li>
+    <li><a href="https://studio.tv.naver.com/join" target="_blank" onClick="clickcr(this, 'fot.chopen', '', '', event);">네이버TV 첫 채널 만들기 신청</a></li>
+    <li><a href="/play/agreement/tos">플레이리그 이용 및 운영원칙</a></li>
+</ul>
+<p class="info">본 콘텐츠의 저작권은 저작권자에 있으며, 이를 무단으로 이용하는 경우 저작권법 등에 따라 법적 책임을 질 수 있습니다.</p>
+<address>
+    <a href="http://www.naver.com" class="nhn" target="_blank" onClick="clickcr(this, 'fot.navercorp', '', '', event);">
+        <img src="https://ssl.pstatic.net/static/common/footer/ci_naver.png" width="63" height="11" alt="NAVER">
+    </a>
+    <em>Copyright ©</em>
+    <a href="http://www.navercorp.com" target="_blank" onClick="clickcr(this, 'fot.navercorp', '', '', event);">NAVER Corp.</a>
+    <span>All Rights Reserved.</span>
+</address>
+
+</div>
+
+<div class="dimd" id="layerDimd" style="display:none"></div>
+
+<script type="text/javascript" src="https://ssl.pstatic.net/img.tvcast/mobile/js/splog_m.js"></script>
+<script type="text/javascript">window.BMR.run('https://sp.naver.com/sp');</script>
+<script type="text/javascript">
+	function redirectMobile() {
+		setCookie("NTC_PC_MODE", "false");
+		var sRedirectPcUrl = "";
+		
+		if (location.search === "") {
+			sRedirectPcUrl = 'https://m.tv.naver.com'+ location.pathname;
+		} else {
+			sRedirectPcUrl = 'https://m.tv.naver.com' +
+							  location.pathname +
+	        				  location.search.split("&")[0];
+		}
+		location.href = sRedirectPcUrl;
+	}
+	
+	function setCookie(name, value) {
+		var domain = ".tv.naver.com";
+		var path = "/";
+		document.cookie = name + "=" + value + "; path=" + path + "; domain=" + domain;
+    }
+
+	var TagAZ = {
+		query: function (obj) {
+			var q = "";
+			if (obj) {
+				q = "?";
+				for (var key in obj) {
+					q += key + "=" + obj[key] + "&";
+				}
+			}
+			return q;
+		},
+		getPageName: function() {
+			if (typeof ghtEnv !== 'undefined') {
+				return ghtEnv.pageName ? ghtEnv.pageName : "";
+			}
+			return "";
+		},
+		getPageContentsId: function() {
+			if (typeof ghtEnv !== 'undefined') {
+				return ghtEnv.pageContentsId ? ghtEnv.pageContentsId : "";
+			}
+			return "";
+		},
+		url: function(obj) {
+			if(obj.href) {
+				return obj.href;
+			}
+			return "";
+		},
+		send: function (r) {
+			var sReq =r;
+			var oImg = new Image();
+			oImg.src = sReq;
+		},
+		tagClickEncoded : function (tagName, pageId, contentId) {
+			TagAZ.clicklog(tagName, pageId, contentId);
+		},
+		tagClick : function(tagName, pageId, contentId) {
+			tagName = encodeURIComponent(tagName);
+			TagAZ.clicklog(tagName, pageId, contentId);
+		},
+		clicklog : function (tagName, pageId, contentId) {
+			var obj = {
+				a : nsc,
+				c : contentId,
+				d : location.href,
+				f : (document.referrer ? document.referrer : ""),
+				p : pageId,
+				t : tagName, // tagName
+
+			}
+			var q = TagAZ.query(obj);
+			TagAZ.send("/api/az/nc" + q);
+		}
+	};
+
+</script>
+</body>
+</html>

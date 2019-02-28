@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga("create","UA-97619536-12","auto");
+ga("send","pageview");
+</script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BoxFresh</title>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="1cXnXwFJ5sopvQQlC22L8a5MX7AWtEwZqRWzE/EY4tsQyXqwu9UIroHOnhKYRzic9N5YH9PXVmtUB613nb3E3w==" />
+    <link rel=”shortcut icon” href="http://boxfresh.site/favicon.ico" />
+    <meta name="apple-itunes-app" content="app-id=1417033792">
+    <meta name="twitter:title" content="まーさまのBoxFreshです" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://storage.googleapis.com/boxfresh-awesome-bucket/uploads/admin_question/image/4bbfbfa9-4331-4e3c-a4e2-6faa8206119e20190129-24783-191ee6t.png" />
+    <meta name="twitter:description" content="質問・回答はこちら" />
+    <meta name="twitter:url" content="http://boxfresh.site/questions/55n0cjqm-3u32-hwqb-gd5e-ym155qug2fzt" />
+    <meta name="twitter:site" content="@box_fresh" />
+    <meta name="twitter:domain" content="boxfresh.site" />
+    <meta property="og:title" content="まーさまのBoxFreshです" />
+    <meta property="og:url" content="http://boxfresh.site/questions/55n0cjqm-3u32-hwqb-gd5e-ym155qug2fzt" />
+    <meta property="og:image" content="https://storage.googleapis.com/boxfresh-awesome-bucket/uploads/admin_question/image/4bbfbfa9-4331-4e3c-a4e2-6faa8206119e20190129-24783-191ee6t.png" />
+    <meta property="og:description" content="質問・回答はこちら" />
+    <meta property="og:locale" content="ja_JP" />
+    <link rel="stylesheet" media="all" href="/assets/application-cb51ebeff52b57f7e98f0caf7b78a5d4d40985dd8c24ece500206d8e1b346253.css" />
+    <script src="/assets/application-1eb2b813585094527285abdefd867aab6d115c9e28ef05b84f8a9bdbce3a6cb4.js"></script>
+  </head>
+
+  <body>
+    <header><div class="col-xs-12 custom-header"><a href="/"><p class="header-reg-reserved">BoxFresh</p></a><div class="settings"><a target="_blank" class="header-reg-area" type="button" onclick="ga('send', 'event', 'link', 'click', 'Store_Button_Above_Pages', 0);" href="https://play.google.com/store/apps/details?id=jp.co.app_cm.boxfresh"><img class="header-reg-img" src="/assets/reg_button_bf-fd6e304bf936d546499bd38dc1f5548c2e59a19c95c89c4903889f9f9c498eff.png" /></a></div></div></header>
+    
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-xs-12"><div class="user-label"><a href="/hickey_love2">@まーさまさんのBoxFreshはこちら</a></div><div class="program-ask"><div class="answer-box"><div class="date"><span>02月15日</span></div><br />あるよー<br /></div><img class="program-img" src="https://storage.googleapis.com/boxfresh-awesome-bucket/uploads/admin_question/image/4bbfbfa9-4331-4e3c-a4e2-6faa8206119e20190129-24783-191ee6t.png" /></div></div><div class="col-xs-12"><div class="user-label"><p>別の質問をしてみましょう</p><div class="col-xs-12"><p class="needapp-area"><a target="_blank" class="emoji-notice" onclick="ga('send', 'event', 'link', 'click', 'store_from_under_question_button', 0);" href="https://play.google.com/store/apps/details?id=jp.co.app_cm.boxfresh">*アプリで質問すると回答の通知が届きます。質問は匿名のままです。絵文字も使えます。</a></p><form class="simple_form new_question" id="new_question" novalidate="novalidate" action="/hickey_love2/questions" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="lB2KGWouz5ItJHYmbqspwblPC+aDT5fWN/JdXUnopGRRlEjX7eokPWHjDvaxosvbmpkT7yERPj6WuY2y9bOytg==" /><div class="form-group text required question_content"><textarea class="form-control text required user-form-text" rows="3" name="question[content]" id="question_content">
+</textarea></div><p class="text-note">まーさまさんに匿名で質問してみよう！</p><input type="submit" name="commit" value="質問をおくる" data-disable-with="送信中です..." class="btn btn-default button-form-submit center-block" /></form></div><div class="col-xs-12" style="margin-top: 25px;"></div></div></div>
+        <div class="col-xs-12 footer-ad"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" data-ad_client="ca-pub-3682748215352091" data-ad_format="auto" data-ad_slot="2255755184" style="display:block"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+        <div class="col-xs-12"><p class="profile-edit-area"><a target="_blank" class="emoji-notice" onclick="ga('send', 'event', 'link', 'click', 'store_from_other_users_page', 0);" href="https://play.google.com/store/apps/details?id=jp.co.app_cm.boxfresh">まーさまさんの他の回答一覧をアプリで見る（まーさまさんをフォローしている必要があります）</a></p></div>
+        <div class="col-xs-8 col-xs-offset-2"><div class="go_to_top"><a class="btn btn-default go-to-top-button" type="button" href="/"><b><i class="fa fa-caret-right"></i>登録/ログインはTOPへ</b></a></div></div>
+        <footer class="col-xs-12"><div class="links"><a target="_blank" href="http://www.app-cm.co.jp/terms/">利用規約</a><a target="_blank" href="http://www.app-cm.co.jp/privacy/">プライバシーポリシー</a><a href="https://twitter.com/boxfresh_site">公式Twitter</a></div><div class="links"><a target="_blank" href="http://www.app-cm.co.jp/terms2/">スター回答利用規約</a></div><div class="links"><a target="_blank" href="http://www.app-cm.co.jp/act-on-specified-commercial-transactions/">特定商取引法に基づく表記</a></div><small><a href="/">© 2019 BoxFresh</a></small><div class="col-xs-12 footer-ad"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" data-ad_client="ca-pub-3682748215352091" data-ad_format="auto" data-ad_slot="2255755184" style="display:block"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script><p class="footer-offset"></p><div id="google_translate_element"></div></div></footer>
+      </div>
+    </div>
+    
+    <div class="footer-reg"><div class="col-xs-12"><p class="footer-reg-title">BoxFreshを無料でダウンロード</p><p class="footer-reg-p">あなたに届く質問に回答しよう。</p><p class="footer-reg-p"><a target="_blank" class="btn btn-default footer-apponly-button" onclick="ga('send', 'event', 'link', 'click', 'Store_Button_Click', 0);" href="https://play.google.com/store/apps/details?id=jp.co.app_cm.boxfresh">無料アプリを使ってみる</a></p></div></div>
+    <!-- Twitter universal website tag code -->
+    <script>
+      !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+      // Insert Twitter Pixel ID and Standard Event data below
+      twq('init','o0xne');
+      twq('track','PageView');
+    </script>
+    <!-- End Twitter universal website tag code -->
+  </body>
+</html>
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+       new google.translate.TranslateElement({pageLanguage: 'ja', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+    }
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>        

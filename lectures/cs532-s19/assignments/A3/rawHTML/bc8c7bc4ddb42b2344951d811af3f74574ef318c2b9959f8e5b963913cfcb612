@@ -1,0 +1,2359 @@
+
+
+
+
+
+
+
+<meta charset="utf-8">
+
+
+
+<html><head>
+<meta property="og:image" content="https://asked.kr/asked.jpg" />
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:title" content="íì´ì¤ë¶ ìµëªì§ë¬¸" />
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+<script src="//developers.kakao.com/sdk/js/kakao.min.js"></script>
+<script type="text/javascript" src="//t1.daumcdn.net/adfit/static/ad.min.js"></script>
+<script src="./js/clipboard.min.js"></script>
+<script src="https://www.youtube.com/player_api"></script>
+<script src="./js/iscroll.js"></script>
+<script src="./ad.js"></script>
+<meta property="og:description"  content="ë¸ë£¨ëìê² ì§ë¬¸ì í´ë³´ì¸ì! "/>
+<meta property="al:android:app_name" content="asked" />
+<meta property="al:android:package" content="com.mobions.asked" />
+<meta property="al:android:url" content="https://asked.kr/eksldi_love" />
+<title>ë¸ë£¨ - asked ìì ë¡ì´ ì§ë¬¸ëµë³! </title>
+<link rel="stylesheet" type="text/css" href="./css/asked.css">
+
+
+<script src="./js/fb.js"></script>
+<script>
+
+	var lo_fb_chk=0;
+    facebookAppId = '1592212707723472';
+    facebookDefaultScope = ["email","user_friends"];
+    staticUrl = '/static/';
+    function facebookJSLoaded(){
+        FB.init({appId: facebookAppId, status: false, cookie: true, xfbml: true, oauth: true});
+    }
+    window.fbAsyncInit = facebookJSLoaded;
+    F = new facebookClass(facebookAppId);
+    F.load();
+
+
+  function statusChangeCallback(response) {
+    if (response.status === 'connected') {
+    } else if (response.status === 'not_authorized') {
+    } else {
+    }
+  }
+  function checkLoginState() {
+    FB.getLoginStatus(function(response) {
+      statusChangeCallback(response);
+    });
+  }
+
+  window.fbAsyncInit = function() {
+  FB.init({
+    appId      : '1592212707723472',
+    cookie     : true,  // ì¿ í¤ê° ì¸ìì ì°¸ì¡°í  ì ìëë¡ íì©
+    xfbml      : true,  // ìì íë¬ê·¸ì¸ì´ ìì¼ë©´ ì²ë¦¬
+    version    : 'v2.1' // ë²ì  2.1 ì¬ì©
+  });
+    FB.getLoginStatus(function(response) {
+      statusChangeCallback(response);
+    });
+
+  };
+
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/ko_KR/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+
+  function testAPI() {
+    FB.api('me?fields=id,name,picture,email', function(response) {
+		//íë¶ê°ìì íìë¼ì¸
+		$.ajax({
+            url:'./query.php?query=20&fbid='+response.id,
+            dataType:'html',
+            success:function(data){
+		    if(data.trim()!=''){
+			 location.href="https://asked.kr/eksldi_love";
+			}else{
+			post_to_url('fb_join.php', {'reg_name':response.name,'reg_fbid':response.id, 'reg_fbemail':response.email});
+			}
+            }
+        })
+	  
+    });
+  }
+function post_to_url(path, params, method) {
+    method = method || "post";  //method ë¶ë¶ì ìë ¥ìíë©´ ìëì¼ë¡ postê° ëë¤.
+    var form = document.createElement("form");
+    form.setAttribute("method", method);
+    form.setAttribute("action", path);
+    //input type hidden name(key) value(params[key]);
+    for(var key in params) {
+        var hiddenField = document.createElement("input");
+        hiddenField.setAttribute("type", "hidden");
+        hiddenField.setAttribute("name", key);
+        hiddenField.setAttribute("value", params[key]);
+        form.appendChild(hiddenField);
+    }
+    document.body.appendChild(form);
+    form.submit();
+}
+</script>
+
+
+</head>
+
+
+
+
+
+<script>
+var chk = 0;
+	function viewMenu(){
+	 $( "#toggle" ).toggle( "slide" );
+	}	
+
+   function sideMenu()
+   {
+    viewMenu();
+    if(chk == 0)
+    {
+     document.getElementById("myarea").style.display = 'block';
+	 document.getElementById("asked_back").style.display = 'block';
+	 $("body").css({overflow:'hidden'}).bind('touchmove', function(e){e.preventDefault()});
+	 document.body.style.overflow= 'hidden';
+     chk=1;
+    }
+    else
+    {
+     document.getElementById("myarea").style.display = 'none';
+	 document.getElementById("asked_back").style.display = 'none';
+	 document.body.style.overflow= 'visible';
+	 $("body").unbind('touchmove');
+     chk=0;
+    }
+   }
+
+function appDown(){
+
+var ua = String( navigator.userAgent ).toLowerCase();
+		//ìëë¡ì´ëì ê²½ì°
+		if(/android/.test(ua)){
+			location.href="https://ref.ad-brix.com/v1/referrallink?ak=621347963&ck=6496173&Deeplink=true";
+		}else if(/iphone/.test(ua)){
+			location.href="https://goo.gl/JGKM92";
+		}
+
+}
+
+
+
+
+</script>
+
+  
+<script>
+function machk(){
+	alert('ë§ì¹´ë¡± 1000ê°ë¶í° ì ì²­ ê°ë¥í©ëë¤.');	
+
+}
+
+</script>
+
+<div id="asked_back" class=" asked_back" style="position: fixed;z-index: 100;width: 100%;left: 0px;top: 0px;display: none;height: 100%;background-color: rgba(0, 0, 0, 0.498039);" onClick="sideMenu()"></div>
+<div id="myarea" class="myarea" style="display: none; position: fixed; left: 0px; top: 0px; height: 100%;z-index: 1000;background: #fff;">
+
+
+<div style="width:100%; height:100%; overflow:scroll; -webkit-overflow-scrolling:touch;z-index: 100000;overflow-x: hidden;
+    overflow-y: auto;">
+<div id="page-wrapper" style="z-index: 1000;">
+	<div id="sidebar-wrapper">
+		<ul class="sidebar-nav">
+		    					    <li class="side_menu_txt"><p class="side_middle_menu">ê³ì </p></li>
+					<li class="nico1"><a onclick="location.href='./';" class="arrow">ããê°ìíê¸° </a></li>
+					<li class="nico2"><a onclick="location.href='./';" class="arrow">ããë¡ê·¸ì¸ </a></li>
+					<li class="nico3"><a onclick="appDown();" class="arrow">ããì±ë¤ì´ </a></li>
+					<li class="ico6"><a onclick="javascript:location.href='info.html'" class="arrow">ããê°ì¸ì ë³´ì²ë¦¬ë°©ì¹¨</a></li>
+					<li class="ico6"><a onclick="javascript:location.href='service.html'" class="arrow">ããì½ê´ ë° ì ì±</a></li>
+
+
+		</ul>
+		<p class="side_txt"><a href="service.html">ì´ì©ì½ê´ | </a> help@asked.kr</p>
+	</div>
+	</div>
+	
+</div>
+</div>
+
+</div><body>
+
+
+
+
+
+
+
+<div id="asked_back3" class=" asked_back2" style="position: fixed;z-index: 1005;width: 100%;left: 0px;top: 0px;display: none;height: 100%;background-color: rgba(0, 0, 0, 0.498039);" onClick="close_more();">
+</div>
+
+
+<div id="asked_back2" class=" asked_back2" style="position: fixed;z-index: 1005;width: 100%;left: 0px;top: 0px;display: none;height: 100%;background-color: rgb(0, 0, 0);" onClick="view_pto()">
+<p id="cm" class="hh vc">
+<a class="ico_close"></a>
+</p>
+</div>
+
+
+<script>var more_app=0;var more_app2=0;</script>
+
+<script>
+console.log('cafe24');
+var page=0;
+var chks=1;
+var viewpage=0;
+var scrol_chk=0;
+$( window ).scroll(function() {
+ var scrollHeight = document.compatMode=="CSS1Compat"? document.documentElement.scrollHeight : document.body.scrollHeight;
+ var clientHeight = document.compatMode=="CSS1Compat"? document.documentElement.clientHeight : document.body.clientHeight;
+ var ScrollTop = document.compatMode == "CSS1Compat"? document.documentElement.scrollTop : document.body.scrollTop;
+ var scrollPos = scrollHeight - ScrollTop;
+ if (clientHeight + 300 > scrollPos)
+ {
+  if(page!=-1 && chks==1 && viewpage==0 ){
+	if(more_app!=1 || more_app2==0){
+			page+=1;
+			chks=0;
+			 $('.more').css("display", "block");
+			 $.ajax({
+            url:'./query.php?query=1&page='+page+'&id=eksldi_love' ,
+            dataType:'html',
+            success:function(data){
+			$($.trim(data)).appendTo('#cards');
+			$('.more').css("display", "none");  
+			cnt_re();
+			chks=1;
+
+			if($.trim(data).length<20){
+			page=-1;
+			}
+            }
+        })
+}
+		}else if(page!=-1 && chks==1 && viewpage==1 ){
+			page+=1;
+			chks=0;
+			 $('.more').css("display", "block");
+			 $.ajax({
+            url:'./query.php?query=2&page='+page+'&id=eksldi_love' ,
+            dataType:'html',
+            success:function(data){
+			$($.trim(data)).appendTo('#cards');
+			$('.more').css("display", "none");  
+			cnt_re();
+			chks=1;
+			if($.trim(data).length<20){
+			page=-1;
+			}
+            }
+        })
+		}else if(page!=-1 && chks==1 && viewpage==2 ){
+			page+=1;
+			chks=0;
+			 $('.more').css("display", "block");
+			 $.ajax({
+            url:'./query.php?query=3&page='+page+'&id=eksldi_love' ,
+            dataType:'html',
+            success:function(data){
+			$($.trim(data)).appendTo('#cards');
+			$('.more').css("display", "none");  
+			cnt_re();
+			chks=1;
+			if($.trim(data).length<20){
+			page=-1;
+			}
+            }
+        })
+		}
+ }
+});
+
+var currentState = history.state;
+console.log(currentState);
+
+function ask_post(id){
+
+$('.ask_bottom_buttom').attr('disabled',true);
+
+if(show_user == true){
+	post_show_user='1';
+}else{
+	post_show_user='0';
+}
+
+var content=$('#ask_content').val();
+$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=0",   
+      data: { id: id, content: content, makarong_bat: makarong_bat, show_user: post_show_user },
+      success: function(data){ 
+	 if($.trim(data)=="success"){
+		if($('.makarong_input').val()!='0'){
+			downmakarong = Number($('.sidebar_makarong_cnt').html())-Number($('.makarong_input').val());
+			$('.sidebar_makarong_cnt').html(downmakarong);
+			$('.my_makarong_input').val(downmakarong);
+		 }
+		$('.ask_bottom_buttom').attr('disabled',false);
+		if(/android/.test(ua)){
+				ask_cnt=get_ask_cnt();
+				if(ask_cnt==0 || ask_cnt < 0){
+				 $('#ask_content').attr('readonly','true');
+				 $('#ask_content').attr('onclick' , 'go_app();');
+				 $('.ask_btn').attr('onclick' , 'go_app();');
+				}
+		}
+
+      $('#ask_content').val("")
+
+  	    var ua = String( navigator.userAgent ).toLowerCase();
+		//ìëë¡ì´ëì ê²½ì°
+		if(/android/.test(ua)){
+			$('#asked_back3').css("display", "block");
+			$('.new_ask_div').css("display", "block");
+			document.body.scrollTop = 0;
+
+			history.pushState(null, null, location.href);
+			window.onpopstate = function(event) {
+				close_back();
+
+			ga('send','event','ì§ë¬¸ë³´ë´ê¸°','click','ë¹ë¡ê·¸ì¸');
+			};
+
+		}else if(/iphone/.test(ua)){
+			$('#new_bottom_div_right1').attr('onclick', 'location.href=\'https://goo.gl/uEVPq4\';');
+			$('#asked_back3').css("display", "block");
+			$('.new_ask_div').css("display", "block");
+			document.body.scrollTop = 0;
+			ga('send','event','ì§ë¬¸ë³´ë´ê¸°','click','ë¹ë¡ê·¸ì¸');
+		}else{
+			alert('ë±ë¡ëììµëë¤.');
+			ga('send','event','ì§ë¬¸ë³´ë´ê¸°','click','ë¹ë¡ê·¸ì¸');		}
+
+      $('#counter').html('0' + '/500');
+	  cnt_re();
+	  com_ask();
+      }else{
+	 alert($.trim(data));
+	 $('.ask_bottom_buttom').attr('disabled',false);
+	}
+    }
+})
+
+}
+
+function go_app(){
+	location.href='market://details?id=com.mobions.asked&url=asked%3a%2f%2fstart%3flinkType%3d1%26contentId%3d'+199891666;
+}
+
+function close_back(){
+ $('#asked_back3').css("display", "none");
+ $('.new_ask_div').css("display", "none");
+ $('.new_ask_div2').css("display", "none");
+}
+
+function get_ask_cnt(){
+
+var cookie = document.cookie;
+var startIndexOf = cookie.indexOf('ask_cnt');
+ 
+ 
+var endIndexOf = cookie.indexOf(';',startIndexOf);
+if(endIndexOf == -1)endIndexOf = cookie.length;
+ 
+var ask_cnt=cookie.substring(startIndexOf+'ask_cnt='.length, endIndexOf);
+return ask_cnt;
+
+}
+
+
+function com_ask(){
+			
+			$("#ask_complete").addClass("active");
+			$("#ask_new").removeClass("active");
+			$("#ask_rej").removeClass("active");
+
+var pages=0;
+$.ajax({
+            url:'./query.php?query=1&page='+pages+'&id=eksldi_love' ,
+            dataType:'html',
+            success:function(data){
+			$("#cards").html($.trim(data));
+			cnt_re();
+			page=0;
+			viewpage=0;
+
+			if($.trim(data)==''){
+				$("#cards").html('<img src="./img/no_ask.png" style="left: calc(50% - 125px);width:250px;position: relative;">');
+			}
+            }
+
+        })
+
+}
+
+function new_ask(){
+
+			$("#ask_complete").removeClass("active");
+			$("#ask_new").addClass("active");
+			$("#ask_rej").removeClass("active");
+
+var pages=0;
+$.ajax({
+            url:'./query.php?query=2&page='+pages+'&id=eksldi_love' ,
+            dataType:'html',
+            success:function(data){
+			$("#cards").html($.trim(data));
+			cnt_re();
+			page=0;
+			viewpage=1;
+			if($.trim(data)==''){
+				$("#cards").html('<img src="./img/no_ask.png" style="left: calc(50% - 125px);width:250px;position: relative;">');
+			}
+            }
+
+        })
+
+}
+
+function rej_ask_load(){
+
+			$("#ask_complete").removeClass("active");
+			$("#ask_new").removeClass("active");
+			$("#ask_rej").addClass("active");
+
+var pages=0;
+$.ajax({
+            url:'./query.php?query=3&page='+pages+'&id=eksldi_love' ,
+            dataType:'html',
+            success:function(data){
+			$("#cards").html($.trim(data));
+			cnt_re();
+			page=0;
+			viewpage=2;
+			if($.trim(data)==''){
+				$("#cards").html('<img src="./img/no_ask.png" style="left: calc(50% - 125px);width:250px;position: relative;">');
+			}
+            }
+
+        })
+
+}
+//cnt load
+function cnt_re(){
+$.ajax({
+            url:'./query.php?query=4&id=eksldi_love' ,
+            dataType:'json',
+            success:function(data){
+			var cnt_re = new Array();
+			var cnt_re = data;
+			$('#compelte_count').html(cnt_re[0]);
+			$('#new_count').html(cnt_re[1]);
+			$('#reject_count').html(cnt_re[2]);
+			if(cnt_re[3]==1){
+			 $('.alram').addClass("nalram");
+			 $('.nalram').removeClass("alram"); 
+			}else{
+			 $('.nalram').addClass("alram");
+			 $('.alram').removeClass("nalram"); 
+			}
+            }
+        })
+			refresh_timer();
+}
+
+
+function registration_post(listnum,chk){
+
+var id ='eksldi_love';
+var content=$('#content_'+listnum).val();
+$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=5",   
+      data: { id: id, content: content, listnum: listnum },
+      success: function(data){ 
+	 if($.trim(data)=="success"){
+		 if($('#time_'+listnum).html()!='00:00:00'){
+			upmakarong = Number($('#mcnt_'+listnum).html())+Number($('.sidebar_makarong_cnt').html());
+			$('.sidebar_makarong_cnt').html(upmakarong);
+			$('.my_makarong_input').val(upmakarong);
+		 }
+	  var ua = String( navigator.userAgent ).toLowerCase();
+		//ìëë¡ì´ëì ê²½ì°
+		if(/android/.test(ua)){
+			$('#asked_back3').css("display", "block");
+			$('.new_ask_div2').css("display", "block");
+
+			history.pushState(null, null, location.href);
+			window.onpopstate = function(event) {
+				close_back();
+				ga('send','event','ëµë³íê¸°','click','ìëë¡ì´ë');
+			};
+
+		}else if(/iphone/.test(ua)){
+			$('#new_bottom_div_right2').attr('onclick', 'location.href=\'https://goo.gl/tjsmWp\';');
+			$('#asked_back3').css("display", "block");
+			$('.new_ask_div2').css("display", "block");
+			document.body.scrollTop = 0;
+			ga('send','event','ëµë³íê¸°','click','ìì´í°');
+
+		}else{
+			alert('ëµë³ì´ ë±ë¡ëììµëë¤.');
+			ga('send','event','ëµë³íê¸°','click','ì¹');
+		}
+	  cnt_re();
+	   if(chk!=1){
+	     $('#card_'+listnum).remove();
+	     $('#answer_'+listnum).remove();
+	     $('#answer_selector_'+listnum).remove();
+	      new_ask();
+	    }else{
+		  $('#card_'+listnum+'>.card_answer').html(content);
+		  $('#close_more_'+listnum).attr('onclick' , 'javascript:more_askre('+listnum+')');
+	    }
+
+      }else if($.trim(data)=="error:2"){
+	 alert('ë¡ê·¸ì¸ ì ë³´ê° ë§ë£ëììµëë¤.\në¤ì ë¡ê·¸ì¸ í´ì£¼ì¸ì.');
+	 location.href="https://asked.kr";
+	}else if($.trim(data)=="error:-3"){
+		alert('ë§ì¹´ë¡±ì§ë¬¸ì ìì íì¤ ì ììµëë¤.');
+	}else if($.trim(data)=="app"){
+		alert('ì±ìì ëµë³íì¤ ì ììµëë¤.');
+	}
+    }
+})
+
+
+
+
+
+}
+
+
+function rej_re_post(listnum){
+
+var id ='eksldi_love';
+var content=$('#rej_content_'+listnum).val();
+$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=5",   
+      data: { id: id, content: content, listnum: listnum },
+      success: function(data){ 
+	 if($.trim(data)=="success"){
+	  alert("ëµë³ì´ ë±ë¡ëììµëë¤.");
+	  //$('.sidebar_makarong_cnt').html(Number($('#mcnt_'+listnum).html())+Number($('.sidebar_makarong_cnt').html()))
+	 $('#card_'+listnum).remove();
+	 $('#answer_'+listnum).remove();
+	 $('#answer_selector_'+listnum).remove();
+	  cnt_re();
+	  rej_ask_load();
+      }else if($.trim(data)=="error:2"){
+	 alert('ë¡ê·¸ì¸ ì ë³´ê° ë§ë£ëììµëë¤.\në¤ì ë¡ê·¸ì¸ í´ì£¼ì¸ì.');
+	 location.href="https://asked.kr";
+	}else if($.trim(data)=="error:ety"){
+		alert('ëµë³ë´ì©ì´ ê³µë°± ìëë¤.');
+	}else if($.trim(data)=="error:-3"){
+		alert('ë§ì¹´ë¡±ì§ë¬¸ì ìì íì¤ ì ììµëë¤.');
+	}
+    }
+})
+
+}
+
+function rej_ask(listnum,chk){
+
+if(chk == 1){
+	confirms ='ë§ì¹´ë¡± ì§ë¬¸ì ê±°ì  íìê² ìµëê¹?\n\n24ìê° ë´ ë§ì¹´ë¡± ì§ë¬¸ì ëµë³ì\në³´ë´ì£¼ìë©´ ë§ì¹´ë¡±ì´ ì ë¦½ë©ëë¤.';
+}else{
+	confirms ='ì íí ì§ë¬¸ì ê±°ì  íìê² ìµëê¹?\nì§ë¬¸ ê±°ì  í ë¤ì ëµë³í  ì ììµëë¤.';
+}
+
+if (confirm(confirms) == true){    //íì¸
+
+var id ='eksldi_love';
+$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=6",   
+      data: { id: id, listnum: listnum },
+      success: function(data){ 
+	 if($.trim(data)=="success"){
+	 $('#card_'+listnum).remove();
+	 $('#answer_'+listnum).remove();
+	 $('#answer_selector_'+listnum).remove();
+	  cnt_re();
+	  new_ask();
+      }else if($.trim(data)=="error:2"){
+	 alert('ë¡ê·¸ì¸ ì ë³´ê° ë§ë£ëììµëë¤.\në¤ì ë¡ê·¸ì¸ í´ì£¼ì¸ì.');
+	 location.href="https://asked.kr";
+	}
+    }
+})
+
+}else{   //ì·¨ì
+    return;
+}
+
+
+
+}
+
+
+    var clipboard = new Clipboard('#share_down');
+    clipboard.on('success', function(e) {
+	var url='url';
+	$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=11",   
+      data: { url:url },
+      success: function(data){ 
+    }
+	})
+		alert('ì£¼ìê° ë³µì¬ëììµëë¤.\nì£¼ìë¥¼ ê³µì í´ì£¼ì¸ì.');
+        console.log(e);
+    });
+    clipboard.on('error', function(e) {
+        javascript:linkshare();
+		console.log(e);
+    });
+	function linkshare(){
+	var url='url';
+	$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=11",   
+      data: { url:url },
+      success: function(data){ 
+    }
+	})
+	 var inputString = prompt('ì£¼ìë¥¼ ë³µì¬íì¬ ê³µì í´ë³´ì¸ì.', 'https://asked.kr/eksldi_love');
+	}
+
+
+//re_form load
+function showRe(num){
+
+    // html dom ì´ ë¤ ë¡ë©ë í ì¤íëë¤.
+        // menu í´ëì¤ ë°ë¡ íìì ìë a íê·¸ë¥¼ í´ë¦­íìë
+            var submenu = $('#answer_'+num);
+            // submenu ê° íë©´ìì ë³´ì¼ëë ìë¡ ë³´ëëê² ì ê³  ìëë©´ ìëë¡ ë³´ëëê² í¼ì¹ê¸°
+            if( submenu.is(":visible") ){
+                submenu.slideUp(250);
+            }else{
+                submenu.slideDown(250);
+				$('html, body').animate({
+			      scrollTop: $("#answer_"+num).offset().top - document.body.clientHeight + $("#answer_"+num).height()+210
+				}, 600);
+            }
+}
+
+//cntcheck
+$(function() {
+      $('#ask_content').keyup(function (e){
+          var content = $(this).val();
+          $('#counter').html(content.length + '/500');
+      });
+      $('#ask_content').keyup();
+});
+
+
+
+function close_more(num){
+			$('.new_ask_div').css("display", "none");
+			var asked_back3 = $('#asked_back3');
+            var close_more = $('#closemore_'+num);
+
+
+            if( asked_back3.is(":visible") ){
+	            asked_back3.css("display", "none");
+	            document.body.style.overflow= 'visible';
+				$("body").unbind('touchmove');
+                close_more.css("display", "none");
+				$('#report_post_div').css("display", "none");
+				$('.join_pop').css("display", "none");
+            }else{
+			    asked_back3.css("display", "block");
+			    document.body.style.overflow= 'hidden';
+				$("body").css({overflow:'hidden'}).bind('touchmove', function(e){e.preventDefault()});
+			    close_more.css("display", "block");
+				asked_back3.attr('onclick','close_more('+num+')');
+            }
+}
+
+function login_pop(){
+	close_more();
+	$('.join_pop').css("display", "block");
+	document.body.scrollTop = 0;
+}
+
+//ëµë³ìë£ í­ìì ìì íê¸° 1024
+function more_askre(listnum){
+
+
+if (confirm('ëµë³ ë´ì©ì ìì íìê² ìµëê¹??') == true){    //íì¸
+var tempask=$('#card_'+listnum+'>.card_answer').html();
+$('#card_'+listnum+'>.card_answer').html('<textarea id="content_'+listnum+'" maxlength="1000" class="input_answer" name="content" onclick="close_ad();" onblur="open_ad();"></textarea><div class="answer_bottom_div"><div class="answer_bottom"><p>ìµë 1000ìê¹ì§ ìë ¥ê°ë¥í©ëë¤.</p></div><button type="button" class="answer_bottom_buttom" onclick="javascript:registration_post('+listnum+',1);"><span>ëµë³ë±ë¡</span></button></div>');
+$('#content_'+listnum).val($.trim(tempask));
+close_more(listnum);
+$('#close_more_'+listnum).removeAttr('onclick');
+}else{   //ì·¨ì
+    return;
+}
+}
+
+
+function close_up(listnum){
+
+if (confirm('ëµë³ ë´ì©ì ì­ì íìê² ìµëê¹?\nì­ì í ì§ë¬¸ì ìì§ë¬¸ì¼ë¡ ì´ëí©ëë¤.') == true){    //íì¸
+
+var id ='eksldi_love';
+$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=7",   
+      data: { id: id, listnum: listnum },
+      success: function(data){ 
+	 if($.trim(data)=="success"){
+	  $('#card_'+listnum).remove();
+	  $('#bottomline_'+listnum).remove();
+	  document.body.style.overflow= 'visible';
+	  $("body").unbind('touchmove');
+	  $('#asked_back3').css("display", "none");
+	  cnt_re();
+      }else if($.trim(data)=="error:2"){
+	 alert('ë¡ê·¸ì¸ ì ë³´ê° ë§ë£ëììµëë¤.\në¤ì ë¡ê·¸ì¸ í´ì£¼ì¸ì.');
+	 location.href="https://asked.kr";
+	}else if($.trim(data)=="error:-3"){
+	 alert("ë§ì¹´ë¡± ëµë³ì ì­ì íì¤ ì ììµëë¤.");
+	}
+    }
+})
+}else{   //ì·¨ì
+    return;
+}
+}
+//ëµë³ì­ì 
+function delete_ask(listnum, chk){
+
+if(chk == 1){
+	confirms ='í´ë¹ ì§ë¬¸ì ì­ì  í  ê²½ì°\në§ì¹´ë¡±ì ì ë¦½ëì§ ììµëë¤.';
+}else{
+	confirms ='ê±°ì  ë´ì©ì ì­ì íìê² ìµëê¹?\nì­ì í ì§ë¬¸ì ë³µêµ¬ëì§ ììµëë¤.';
+}
+
+if (confirm(confirms) == true){    //íì¸
+
+
+var id ='eksldi_love';
+$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=10",   
+      data: { id: id, listnum: listnum },
+      success: function(data){ 
+	 if($.trim(data)=="success"){
+	  $('#card_'+listnum).remove();
+	  $('#answer_selector_'+listnum).remove();
+	  $('#answer_'+listnum).remove();
+	  $('#asked_back3').css("display", "none");
+	  document.body.style.overflow= 'visible';
+	  $("body").unbind('touchmove');
+	  cnt_re();
+      }else if($.trim(data)=="error:2"){
+	 alert('ë¡ê·¸ì¸ ì ë³´ê° ë§ë£ëììµëë¤.\në¤ì ë¡ê·¸ì¸ í´ì£¼ì¸ì.');
+	 location.href="https://asked.kr";
+	}
+    }
+})
+}else{   //ì·¨ì
+    return;
+}
+}
+
+
+
+
+
+
+//ê³µì íê¸°
+function fb_share_click(){
+	var url='fb';
+	$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=11",   
+      data: { url:url },
+      success: function(data){ 
+    }
+	})
+	window.open('https://www.facebook.com/sharer/sharer.php?u=http://asked.kr/eksldi_love', '_blank'); 
+}
+
+function tw_share_click(){
+	var url='tw';
+	$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=11",   
+      data: { url:url },
+      success: function(data){ 
+    }
+	})
+	window.open('https://twitter.com/intent/tweet?text=ìµëªì§ë¬¸ì ë¨ê²¨ì£¼ì¸ì.&url=http://asked.kr/eksldi_love', '_blank'); 
+
+}
+
+function ks_share_click(){
+	var url='kt';
+	$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=11",   
+      data: { url:url },
+      success: function(data){ 
+    }
+	})
+	window.open('https://story.kakao.com/share?url=http://asked.kr/eksldi_love', '_blank'); 
+}
+
+
+
+function rating(num){
+
+$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=12",   
+      data: { num: num },
+      success: function(data){ 
+	 if($.trim(data)=="success"){
+		 rating_complete(num);
+      }else{
+	if (confirm('ì±ìì ì´ì©í  ì ììµëë¤.\nì± ë¤ì´ íë©´ì¼ë¡ ì´ëí©ëë¤.') == true){    //íì¸
+		
+		var ua = String( navigator.userAgent ).toLowerCase();
+		//ìëë¡ì´ëì ê²½ì°
+		if(/android/.test(ua)){
+			location.href="https://ref.ad-brix.com/v1/referrallink?ak=621347963&ck=2704199&Deeplink=true";
+		}else if(/iphone/.test(ua)){
+			location.href="https://goo.gl/NpNJAs";
+		}
+	
+		}else{   //ì·¨ì
+		 return;
+		}
+	}
+    }
+})
+
+
+}
+
+function rating_complete(num){
+  var rating = $('#rating_'+num);
+  var rating_cnt = $('#rating_cnt_'+num);
+  var cnt=$('#rating_cnt_'+num).html();
+  if(!rating.is(".heart_click")){
+	rating.addClass("heart_click");
+	rating_cnt.addClass("rating_cnt_click");
+	$('#rating_cnt_'+num).html(++cnt);
+  }else{
+    rating.removeClass("heart_click");
+	rating_cnt.removeClass("rating_cnt_click");
+	$('#rating_cnt_'+num).html(--cnt);
+  }
+}
+
+
+
+function view_pto(){
+	var view_pto = $('#asked_back2');
+	if( view_pto.is(":visible") ){
+	$('#asked_back2').css("display", "none");
+	document.body.style.overflow= 'visible';
+	$("body").unbind('touchmove');
+	}else{
+	$('#asked_back2').css("display", "block");
+	document.body.style.overflow= 'hidden';
+	$("body").css({overflow:'hidden'}).bind('touchmove', function(e){e.preventDefault()});
+	}
+}
+
+function report_ask_list(num){
+	var id ='';
+   if(id!=''){
+	var close_more = $('#closemore_'+num);
+
+  close_more.css("display", "none");
+  $('#report_post_div').css("display", "block");
+  $('.bottom_div_right').attr('onclick', 'report_ask_confirm('+num+')');
+
+
+
+  if($("#control_div_check").length==0){
+	$('.control_div').html('<p id="control_div_check" ></p><label class="control control--radio">ê´´ë¡­í ëë ì¨ë¼ì¸ ìë°<input type="radio" name="report" value="BU" checked="checked"><div class="control__indicator"></div></label><label class="control control--radio">ìì´ ëë ìí´<input type="radio" name="report" value="SC"><div class="control__indicator"></div></label><label class="control control--radio">íì¤ë°ì¸ ëë ìì¤<input type="radio" name="report" value="AB"><div class="control__indicator"></div></label><label class="control control--radio">í­ë ¥ ë° ë²ì£ íë ì ë<input type="radio" name="report" value="VL"><div class="control__indicator"></div></label><label class="control control--radio">ìëë¬¼, ì±ì  í¬ë¡±, ì ì²´ë¸ì¶<input type="radio" name="report" value="SX"><div class="control__indicator"></div></label><label class="control control--radio">íë³´ ë° ììì  ê´ê³  ëë ëë°°<input type="radio" name="report" value="PM"><div class="control__indicator"></div></label><label class="control control--radio">ê°ì¸ì ë³´ ìì²­ ë° ê¸°í<input type="radio" name="report" value="PV"><div class="control__indicator"></div></label>');
+	$('.control-group').css("height","366px"); 
+	$('.control_div').css("padding-left","10px"); 
+	$('<div class="bottom_div"><div class="bottom_div_left" onclick="close_more();">ì·¨ì</div><div class="bottom_div_right" onclick="report_ask_confirm('+num+')">íì¸</div></div>').appendTo('.control-group');
+  }
+   }else{
+	   alert('ë¡ê·¸ì¸í ì¬ì©í  ì ììµëë¤.');
+   }
+}
+
+
+function report_ask_confirm(num){
+	var report_type=$(':radio[name="report"]:checked').val();
+	$('#report_type').val(report_type);
+	$('#report_num').val(num);
+
+var chks=1;
+	if(chks==0){
+	$('.control_div').html('<div class="report_div_tab1" onclick="report_ask(\''+report_type+'\',\''+num+'\',\'0\');">ê²ìë¬¼ ì ê³ </div><div class="report_div_tab2" onclick="report_ask(\''+report_type+'\',\''+num+'\',\'1\');">ê²ìë¬¼ ì ê³  ë° ìì±ì ì°¨ë¨</div>');
+	$('.control-group').css("height","180px"); 
+	}else if(chks==1){
+	$('.control_div').html('<div class="report_div_tab1" onclick="report_ask(\''+report_type+'\',\''+num+'\',\'2\');">ê²ìë¬¼ ì ê³ </div>');
+	$('.control-group').css("height","130px"); 
+	}
+
+	$('.bottom_div').remove();
+	
+	$('.control_div').css("padding-left","0px"); 
+}
+
+
+
+function report_ask(report_type,listnum,chk){
+$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=15",   
+      data: { report_type: report_type, listnum: listnum, chk:chk },
+      success: function(data){ 
+	 if($.trim(data)=="success"){
+	  alert('ì§ë¬¸ì´ ì ê³ ëììµëë¤.');
+	  history.go(0);
+      }else if($.trim(data)=="error:2"){
+	 alert('ë¡ê·¸ì¸ ì ë³´ê° ë§ë£ëììµëë¤. \n ë¤ì ë¡ê·¸ì¸ í´ì£¼ì¸ì.');
+	 location.href="https://asked.kr";
+	}
+    }
+})
+}
+
+
+
+function get_memb_id(){
+$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=19",   
+      success: function(data){ 
+	  data=$.trim(data);
+	 if(data=="false"){
+		 return false;
+		  
+	}
+    }
+})
+}
+
+function following(num){
+var fw = $('#fw_'+num);
+
+$.ajax({   
+      type: "POST",   
+      url: "./query.php?query=22",   
+      data: { num: num },
+      success: function(data){ 
+	 if($.trim(data)=="success"){
+		 //rating_complete(id);
+		fw.removeClass("fwmoff");
+		fw.removeClass("fwmon")
+		
+		fw.addClass("fwmon");
+      }else if($.trim(data)=="success2"){
+		 //rating_complete(id);
+		 fw.removeClass("fwmon");
+		 fw.removeClass("fwmoff");
+
+		fw.addClass("fwmoff");
+      }else{
+	 alert('ë¡ê·¸ì¸í ì¬ì©í  ì ììµëë¤.');
+	}
+    }
+})
+
+
+}
+
+
+			slideChk = 0;
+			$(document).ready(function(){
+
+				var topBar = $(".mobileads").offset();
+				var myscrol=0;
+				$(window).scroll(function(){
+					
+					var docScrollY = $(document).scrollTop()
+					var barThis = $(".ask_selector");
+					var top_bar_fix_ad = $("#top_ad");
+					var fixNext = $("#cards");
+
+
+
+
+					var top_ad = $(".mobileads");
+
+					if( docScrollY > 509 ) {
+						scrol_chk=1;
+						top_ad.addClass("top_ad_fix");
+						if(slideChk == 0){
+							top_ad.css("display", "none");
+							if(adscrol == 1){
+								$(".mobileads").slideDown(250);
+							}
+							slideChk = 1;
+						}
+						
+					}else{
+
+						top_ad.removeClass("top_ad_fix");
+						if(adscrol == 1){
+							top_ad.css("display", "block");
+						}
+						slideChk = 0;
+					}
+
+				});
+
+			})
+
+
+function app_install(){
+	if (confirm('ì±ìì ì´ì©í  ì ììµëë¤.\nì± ë¤ì´ íë©´ì¼ë¡ ì´ëí©ëë¤.') == true){    //íì¸
+		
+		var ua = String( navigator.userAgent ).toLowerCase();
+		//ìëë¡ì´ëì ê²½ì°
+		if(/android/.test(ua)){
+			location.href="https://ref.ad-brix.com/v1/referrallink?ak=621347963&ck=2704199&Deeplink=true";
+		}else if(/iphone/.test(ua)){
+			location.href="https://goo.gl/NpNJAs";
+		}
+	}
+}
+
+function back(){
+
+ history.go(-1);
+
+
+}
+
+
+adscrol=1;
+function open_ad(){
+	$('#askedTitle').css("display", "block");
+	$('.ask_selector').css("display", "block");
+	adscrol=1;
+}
+
+function close_ad(){
+	$('#askedTitle').css("display", "none");
+	$('.ask_selector').css("display", "none");
+	adscrol=0;
+}
+
+function cash_scroll_down(){
+ $('.cash_ask_div').slideDown(300);
+ $(".makarong_pay_btn").addClass("makarong_pay_btn_chk");
+ $(".makarong_btn").addClass("makarong_up_btn");
+ $('.makarong_pay_btn').attr('onclick' , 'cash_scroll_up();');
+ $('.min_maka').css("display", "block"); 
+ $('#counter').css("display", "none"); 
+ close_ad();
+}
+function cash_scroll_up(){
+ open_ad();
+ $('.cash_ask_div').slideUp(300);
+ $(".makarong_pay_btn").removeClass("makarong_pay_btn_chk");
+ if(makarong_bat==-1){
+	$(".makarong_btn").removeClass("makarong_up_btn");
+ }
+ $('.makarong_pay_btn').attr('onclick' , 'cash_scroll_down();');
+ $('.min_maka').css("display", "none"); 
+ $('#counter').css("display", "block"); 
+}
+
+
+//ìê°ê°ì ¸ì¤ê¸°
+
+
+
+    function toMMSS(sec_num) {
+        var pad = function(x) {
+            return (x < 10) ? "0" + x : x;
+        }
+        return pad(parseInt(sec_num / (60 * 60))) + ":" +
+            pad(parseInt(sec_num / 60 % 60)) + ":" +
+            pad(sec_num % 60)
+    }
+
+
+    function refresh_timer() {
+		$('.makarong_time_bar').each(function(index) {
+		makarong_time = $(this).attr("time");
+		if (makarong_time <= 18000) {
+            $(this).attr('id', 'makarong_core_nantime');  
+        }
+		
+		if (makarong_time <= 7200) {
+            $(this).attr('id', 'makarong_core_nantime2');  
+        } 
+
+            $(this)
+                .width(100 * (makarong_time / 86400) + "%")
+        
+        if (makarong_time > 0){
+		        makarong_time--;
+				$(this).children().first().html(toMMSS(makarong_time));
+				$(this).attr("time",makarong_time);
+		}else{
+			$(this).children().first().html('00:00:00');
+		}
+		
+
+		});
+
+		
+    }
+
+
+    var timer = setInterval(refresh_timer, 1000);
+
+
+makarong_bat = -1;
+function makarong_batting(){
+	makarong_bat=$('.makarong_input').val();
+	if(Number($('.makarong_input').val()) != '0'){
+		if(Number($('.makarong_input').val()) > Number($('.my_makarong_input').val())){
+			alert("ë³´ì íì  ë§ì¹´ë¡±ë³´ë¤ ë§ìµëë¤.");
+		}else{
+			$('.makarong_pay_btn').html(makarong_bat+'ê°');
+			cash_scroll_up();
+			$(".makarong_btn").addClass("makarong_up_btn");
+		}
+	}else{
+		cash_scroll_up();
+		makarong_bat = -1;
+		$(".makarong_btn").removeClass("makarong_up_btn");
+	}
+}
+
+
+show_user = false;
+function ask_user_show(){
+	if(!show_user){
+		if('N' != 'N' ){
+			show_user = true;
+			$('#user_show_txt').html('ê³µê° â¼');
+			//$('#user_show_profile').attr('style' , 'background-image: url(https://s3.ap-northeast-2.amazonaws.com/asking-nfs/asking);');
+		}else{
+			alert('ê³µê°ì§ë¬¸ì ë¡ê·¸ì¸ í ì¬ì© ê°ë¥í©ëë¤.');
+		}
+	}else{
+			show_user = false;
+			$('#user_show_txt').html('ìµëª â¼');
+			//$('#user_show_profile').attr('style' , '');
+	}
+}
+
+
+function peep_ask(id){
+
+	if (confirm('ë§ì¹´ë¡± 2ê°ë¥¼ ì´ì©í´ ëµë³ì íì¸íìê² ìµëê¹?') == true){
+		$.ajax({   
+			  type: "POST",   
+			  url: "./query.php?query=26",   
+			  data: { id: id },
+			  success: function(data){ 
+			 if($.trim(data)=="success"){
+				location.href='/deep_link.php?contents='+id;
+			  }else if($.trim(data)=="login"){
+				  if (confirm('ë¡ê·¸ì¸ í ì¬ì©íì¤ ì ììµëë¤.\në¡ê·¸ì¸ íë©´ì¼ë¡ ì´ëíìê² ìµëê¹?') == true){
+					location.href='/';
+				  }
+			  }else if($.trim(data)=="ncash"){
+				  if (confirm('ë§ì¹´ë¡±ì´ ë¶ì¡±í©ëë¤.\në§ì¹´ë¡±êµ¬ë§¤ íë©´ì¼ë¡ ì´ëíìê² ìµëê¹?') == true){
+					location.href='/';
+				  }
+			  }else{
+			 alert($.trim(data));
+			}
+			}
+		})
+	}else{   //ì·¨ì
+		return;
+	}
+
+}
+
+</script>
+
+
+
+
+
+
+<div id="askedTop">
+<div id="askedTitle">
+<div id="userTopName"><a href="eksldi_love">eksldi_love</a></div><button type="button" id="myLogin" onclick="jvavscript:location.href='./';"><span class="menu_txt">íìê°ì</span></button><button type="button" id="menuBtn" onclick="jvavscript:sideMenu();"></button><div class="mobileads" style="background:#7986cb;height: 35px;z-index:15;">
+<a onclick="mobilead_loc();">
+<img id="btm_ad" src="./img/mobileTopAd.png" height="35" style="
+    position: absolute;
+    left: calc(50% - 157px);
+    z-index: 10;
+"></a>
+</div>
+
+</div>
+
+
+
+
+<div id="myProfile">
+
+  <div id="profileTop">
+    <div class="profile_bg">
+      <div class="profile_wrapper"  id="fburl">
+        <div class="profile_pic" id="profile_image"></div>
+      </div>
+	    </div>
+    <div class="profile_id">
+       ë¸ë£¨ <span class="profile_certification"></span>
+    </div>
+    <div class="profile_mention">
+       ìµëªì§ë¬¸ì ë¨ê²¨ì£¼ì¸ì.    </div>
+
+<div class="menLine"></div>
+
+
+
+	<div class="fwcnt"><span class="fo_txt">íë¡ì</span> <span class="fo_cnt">0</span></div><div id="fwdiv_199891666"><button id="fw_199891666" onclick="following(199891666)" class="following fwmoff"></button></div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+</div>
+  <div id="askWrap">
+
+
+					
+
+	<div class="ask_div" style="display: block;">
+
+			<textarea id="ask_content" class="input_ask" name="content" maxlength="500"  placeholder="ì§ë¬¸ì ìë ¥í´ì£¼ì¸ì."></textarea>
+
+		
+
+	</div>
+
+	<div>
+	<div class="profile_chk_btn" onclick="ask_user_show();"><span id="user_show_txt">ìµëª â¼</span></div>
+			<button type="button" class="ask_bottom_buttom" onclick="ask_post('eksldi_love');">
+				<span>ì§ë¬¸íê¸°</span>
+			</button>
+			</div>
+
+
+
+<style>
+
+.ad-icons {
+    background-image: url(icos.png);
+    background-size: 12px 12px;
+    width: 12px;
+    height: 12px;
+    margin-top: 2px;
+    position: absolute;
+}
+
+.ad-area {
+    font-size: 15px;
+    margin-left: 5px;
+    color: #111;
+    font-weight: bold;
+    margin-top: 2px;
+    margin-bottom: 15px;
+}
+
+.ad-imgs{
+  margin-left: -12px;
+}
+
+
+.min_maka {
+    font-size: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    display: block;
+    float: right;
+    color: #000;
+}
+
+.menu_select_div {
+    margin-top: 20;
+    text-align: center;
+    margin-bottom: -10px;
+}
+
+.menu_select_1 {
+    background: url(../img/ask_post_store.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: 0;
+    width: 150px;
+    height: 90px;
+    border: 0px;
+    margin-top: -30px;
+    outline-style: none;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-left: 10px;
+    float: left;
+}
+
+#profileSponCard{
+ padding: 2 5 0 0;
+ height:55px;
+}
+
+
+.menu_select_2 {
+    background: url(../img/mymakarong.png);
+    background-repeat: no-repeat;
+    background-size: 150px;
+    background-position: 0;
+    width: 150px;
+    height: 90px;
+    border: 0px;
+    margin-left: 10px;
+    margin-top: -30px;
+    outline-style: none;
+    margin-right: 10px;
+    float: right;
+}
+
+#askedTop {
+    background: #fff;
+}
+
+#main_ads {
+	margin-top: 0px;
+}
+
+.se_div {
+    margin-top: 20px;
+    margin-left: 0px;
+}
+
+.se2_div {
+    margin-top: 3px;
+    margin-left: 0px;
+}
+
+.my_ma_cnt{
+   font-size: 11px;
+	color: #333;
+	margin-right:3px;
+	font-weight: bold;
+}
+
+
+.my_ma_cnt2{
+    font-size: 11px;
+	color:#eb6380;
+	margin-right:3px;
+	font-weight: bold;
+}
+
+#my_ma_in{
+    width: 60px;
+    border-radius: 20px;
+    border: 1px solid #bdbdbd;
+    text-align: right;
+    padding-right: 10px;
+	height: 22px;
+    background: #f0f0f0;
+}
+
+
+
+#my_ma_in2{
+    width: 60px;
+    border-radius: 20px;
+    border: 1px solid #eb6380;
+	text-align: right;
+	padding-right: 10px;
+	height: 22px;
+
+}
+</style>
+
+
+
+			<div class="cash_ask_div">
+				<button type="button" class="makarong_post" onclick="location.href='makarong_pop.php'";></button>
+
+
+				<div class="menu_select_div">
+				<div class="menu_select_1" onclick="location.href='/pay/makarong/pay.php'"></div>
+				
+<div class="menu_select_2">
+    
+    <div class="se_div">
+		<span class="my_ma_cnt">ëì ë³´ì  ë§ì¹´ë¡±</span><input class="my_makarong_input" id='my_ma_in' type="text" value ='0' readonly"> 
+    </div>
+
+
+<div class="se2_div">
+    <span class="my_ma_cnt2">ì¬ì© ë§ì¹´ë¡± ìë ¥</span><input id="my_ma_in2" class="makarong_input" value="0" type="text">
+</div>
+
+
+</div>
+
+
+
+				</div>
+
+				<button type="button" class="makarong_check" onclick="makarong_batting();">íì¸</button>
+			
+
+			</div>
+
+
+
+  </div>
+
+
+
+  
+
+
+
+<div id="main_ads">
+<ins class="daum_ddn_area" style="display:none;width:100%;" 
+ data-ad-unit    = "DAN-1jyg0vy75i3q9" 
+ data-ad-media   = "4F2" 
+ data-ad-pubuser = "yo" 
+ data-ad-type    = "A" 
+ data-ad-width   = "320" 
+ data-ad-height  = "100"></ins> 
+</div>
+
+
+
+
+</div>
+
+<div class="askscrol"></div>
+
+<div class="ask_selector aon ask_relative">
+			<a onClick="javascript:com_ask();">
+                <div class="ask_complete a_child active" id="ask_complete">
+                    <div class="num" id="compelte_count">115</div>
+                    ëµë³ìë£
+                </div>
+            </a>
+
+<a onClick="alert('ì°ì¸¡ìë¨ ë¡ê·¸ì¸ ë²í¼ì í´ë¦­í´ì£¼ì¸ì.\nìì´ëë ì ì²´ì£¼ìë¥¼ ë³µì¬íì¬ ë¡ê·¸ì¸ í´ì£¼ì¸ì.\nâ»ìê¸°ì§ë¬¸ë§ íì¸í  ì ììµëë¤.');">                <div class="ask_new a_child" id="ask_new">
+                    <div class="num" id="new_count">5</div>
+                    ìì§ë¬¸
+                </div>
+            </a>
+
+
+<a onClick="alert('ì°ì¸¡ìë¨ ë¡ê·¸ì¸ ë²í¼ì í´ë¦­í´ì£¼ì¸ì.\nìì´ëë ì ì²´ì£¼ìë¥¼ ë³µì¬íì¬ ë¡ê·¸ì¸ í´ì£¼ì¸ì.\nâ»ìê¸°ì§ë¬¸ë§ íì¸í  ì ììµëë¤.');">
+                <div class="ask_reject a_child" id="ask_rej">
+                    <div class="num" id="reject_count">10</div>
+                    ê±°ì ì§ë¬¸
+                </div>
+            </a>
+</div>
+
+
+
+
+
+<div id="cards">
+
+
+
+
+
+
+
+<div id="card_221405583" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_221405583" class="close" style="none" title="ì­ì " onclick="close_more(221405583);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_221405583" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(221405583);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ë¬´ì¨ì¼ ììëì...ê±±ì ë©ëë¤..  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   6days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ì....ìë¬´ì¼ ììì¼ë©´ ì¢ê² ë¤ì..ãã  </div>
+</div>
+
+<div id="bottomline_221405583" class="bottomline"><a id="rating_221405583" class="heart" onclick="rating(221405583);"></a><span id="rating_cnt_221405583" class="rating_cnt">0</span></div>
+
+
+
+<div class="card com_card">
+
+<div class="ad-imgs">
+
+
+<center>
+<ins class="kakao_ad_area" style="display:none;" 
+ data-ad-unit    = "DAN-s100gjtpovu8" 
+ data-ad-width   = "300" 
+ data-ad-height  = "250"></ins> 
+
+ </center>
+
+
+</div>
+</div>
+
+
+
+<div id="card_221299755" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_221299755" class="close" style="none" title="ì­ì " onclick="close_more(221299755);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_221299755" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(221299755);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ì´ë©ì´ë¼ ë¶ëë¬ì....
+ë²ê½ê°ì ë°ì íí¬ìì ê¸ë¦¬í° ë¤ì´ê°ë ìëì° ìì´ì¸ë¦´ê² ê°ìì..ã ã â¡  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   7days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   í ìê·¸ëë íí¬ìª½ ê³ì´ë¡ í´ë´¤ëë°!! ì¶ì² ê³ ë§ìì© â¤ï¸â¤ï¸â¤ï¸  </div>
+</div>
+
+<div id="bottomline_221299755" class="bottomline"><a id="rating_221299755" class="heart" onclick="rating(221299755);"></a><span id="rating_cnt_221299755" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_221138623" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_221138623" class="close" style="none" title="ì­ì " onclick="close_more(221138623);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_221138623" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(221138623);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ì¤ë¡ëë ì§ë¬¸ì´ì§ë§ã ã  í¸ìí°ìì ì ì¸ ë§ëë©´ ì´ë¤ ëëì´ìì..?ì¤ì¹ ë§ëëê±°ë ëëì´ ë¤ë¥¸ê°ì..?
+ì ë ì¸íë ì¬ëìëë° ëë¬´ í¼ìë§ ê·¸ë°ìª½ì¼ë¡ ììí´ì...  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   7days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ì....ì ë í¸ìí°ë¥¼ íë¤ê° ì  í¸ì¹ì´ë ì ì¸ ì¬ì´ë¡ ë°ì íê² ë ì¼ì´ì¤ì¬ìã ã ã ã ìì ëª¨ë¥´ê² ë¤ì í³ ã ã ã  ì¸íë ë¶ì´ë ê¼­ ì ëì¨ì¼ë©´ ì¢ê² ì´ì!  </div>
+</div>
+
+<div id="bottomline_221138623" class="bottomline"><a id="rating_221138623" class="heart" onclick="rating(221138623);"></a><span id="rating_cnt_221138623" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_220879811" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_220879811" class="close" style="none" title="ì­ì " onclick="close_more(220879811);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_220879811" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(220879811);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ë¸ë£¨ë... ë¸ë£¨ëì ì¬ëíë ì¬ëì ê¼­ ëíë ê±°ìì... ëë¬´ ì¸ë¡ì íìì§ ìì¼ì¨ì ì¢ê² ì´ì...  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   8days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ê³ ë§ìì..ã  </div>
+</div>
+
+<div id="bottomline_220879811" class="bottomline"><a id="rating_220879811" class="heart" onclick="rating(220879811);"></a><span id="rating_cnt_220879811" class="rating_cnt">0</span></div>
+
+<div class="card com_card"><center><div id="realssp_opzz662400001_21848" class="realssp_dv" data-mcode="b3B6ejY2MjQwMDAwMV8yMTg0OA==" title="ë¦¬ì¼í´ë¦­ ë°°ëê´ê³ "></div><script src="//ssp.realclick.co.kr/realclickssp.js?v=1.0&m=opzz662400001_21848&t=j" async></script></center></div>
+
+<div id="card_220510866" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_220510866" class="close" style="none" title="ì­ì " onclick="close_more(220510866);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_220510866" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(220510866);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ëªì´ì´ìì??  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   10days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   20ì´ì´ìì©  </div>
+</div>
+
+<div id="bottomline_220510866" class="bottomline"><a id="rating_220510866" class="heart" onclick="rating(220510866);"></a><span id="rating_cnt_220510866" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_220066697" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_220066697" class="close" style="none" title="ì­ì " onclick="close_more(220066697);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_220066697" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(220066697);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ë¸ë£¨ëã  ì  ì ì¸ì´ë ë¬´ì¨ì¼ ìì¼ì¨ì´ì??ã íêµ¬  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   11days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ì ìê¸° ëª» ëë¦¬ê² ì´ì ì£ì¡í´ì...  </div>
+</div>
+
+<div id="bottomline_220066697" class="bottomline"><a id="rating_220066697" class="heart" onclick="rating(220066697);"></a><span id="rating_cnt_220066697" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219985854" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219985854" class="close" style="none" title="ì­ì " onclick="close_more(219985854);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219985854" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219985854);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ì¬ì§ ì´ììë¤ ë³¸ì¸ì´ì¸ì? ãã  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   12days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ë¹ ì ìì  </div>
+</div>
+
+<div id="bottomline_219985854" class="bottomline"><a id="rating_219985854" class="heart" onclick="rating(219985854);"></a><span id="rating_cnt_219985854" class="rating_cnt">0</span></div>
+
+<div class="card com_card"><center><div id="realssp_opzz662400001_21850" class="realssp_dv" data-mcode="b3B6ejY2MjQwMDAwMV8yMTg1MA==" title="ë¦¬ì¼í´ë¦­ ë°°ëê´ê³ "></div><script src="//ssp.realclick.co.kr/realclickssp.js?v=1.0&m=opzz662400001_21850&t=j" async></script></center></div>
+
+<div id="card_219978711" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219978711" class="close" style="none" title="ì­ì " onclick="close_more(219978711);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219978711" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219978711);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ë¬´ì¨ì¼ì´ ìëì§ëëª¨ë¥´ì§ë§ ì£½ì§ë§ìì¬
+ëì¢ìì¼ì´ ììê±°ìì
+  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   12days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ê³ ë§ìì  </div>
+</div>
+
+<div id="bottomline_219978711" class="bottomline"><a id="rating_219978711" class="heart" onclick="rating(219978711);"></a><span id="rating_cnt_219978711" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219870630" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219870630" class="close" style="none" title="ì­ì " onclick="close_more(219870630);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219870630" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219870630);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ë¸ë£¨ë í¹ì ê³µë¶ê³ ìì¼ì¸ì©..??  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   12days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ìëì© ìì´ì~  </div>
+</div>
+
+<div id="bottomline_219870630" class="bottomline"><a id="rating_219870630" class="heart" onclick="rating(219870630);"></a><span id="rating_cnt_219870630" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219854581" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219854581" class="close" style="none" title="ì­ì " onclick="close_more(219854581);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219854581" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219854581);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ëì´ ëê² ìë»ì. ì ìë ëë ìë»¤ëë° ì§ê¸ë ìë»ì.  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   12days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ìì´ê³ ã ã ã ã ã ê°ì¬í©ëë¤ ë ììë¨ ë§ ì²ì ë¤ì´ë´ì... ã ã ã  ê°ì¬í´ì  </div>
+</div>
+
+<div id="bottomline_219854581" class="bottomline"><a id="rating_219854581" class="heart" onclick="rating(219854581);"></a><span id="rating_cnt_219854581" class="rating_cnt">0</span></div>
+
+<div class="card com_card"><center><div id="realssp_opzz662400001_21852" class="realssp_dv" data-mcode="b3B6ejY2MjQwMDAwMV8yMTg1Mg==" title="ë¦¬ì¼í´ë¦­ ë°°ëê´ê³ "></div><script src="//ssp.realclick.co.kr/realclickssp.js?v=1.0&m=opzz662400001_21852&t=j" async></script></center></div>
+
+<div id="card_219831740" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219831740" class="close" style="none" title="ì­ì " onclick="close_more(219831740);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219831740" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219831740);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ì¤ëì ì´ëì? ë§ì´ ìíì§ ììì¼ë©´ ì¢ê² ëë°. ëª°ë ê°ëì© ë°ë¼ë³´ê³  ìì´ì ëë¬´ ìí íë£¨ë ìëìê¸°ë¥¼ ë°ë¼ë©´ì.  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   12days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ì¤ëì ì´ì ë³´ë¨ ëìê±°ê°ìì ë ëìì§ë ¤ê³  ëë¦ì ë¸ë ¥ì¤ì´ìì. ë  ê±±ì í´ì¤ì ê³ ë§ìì  </div>
+</div>
+
+<div id="bottomline_219831740" class="bottomline"><a id="rating_219831740" class="heart" onclick="rating(219831740);"></a><span id="rating_cnt_219831740" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219818203" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219818203" class="close" style="none" title="ì­ì " onclick="close_more(219818203);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219818203" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219818203);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ìë¤ ì¹´ë©ë¼ ì±ì ìë ë³´ì  í¨ê³¼ ì¬ì©íìëì??    </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   12days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ì ê·¸ê±´ ì´ë¨ì¼ ì¬ì©íëê±´ê°ì....?ã ã ã ã ã ê·¸ë¥ ì± ê¹ê³  ìë¬´ê²ë ì ê±´ëë¦¬ê³  íí°ë§ ë°ê¿ì ë°ë¡ ì¬ì©íëë°...ì ëª¨ë¥´ê² ì´ìã ã ã   </div>
+</div>
+
+<div id="bottomline_219818203" class="bottomline"><a id="rating_219818203" class="heart" onclick="rating(219818203);"></a><span id="rating_cnt_219818203" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219674416" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219674416" class="close" style="none" title="ì­ì " onclick="close_more(219674416);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219674416" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219674416);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ì§ê¸ê¹ì§ ì ì¸ ëª ë² ì¬ê·ì´ë³´ì¨ëì??  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   13days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   4ë² ì ëì..ìë§?  </div>
+</div>
+
+<div id="bottomline_219674416" class="bottomline"><a id="rating_219674416" class="heart" onclick="rating(219674416);"></a><span id="rating_cnt_219674416" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219628877" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219628877" class="close" style="none" title="ì­ì " onclick="close_more(219628877);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219628877" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219628877);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ê°ì ì¬ìë¥¼ ì¢ìíë¤ë ê² ì¬ëì¼ë¡ ì·¨ê¸ë°ì§ ëª»í ì ì´ ìëì?  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   13days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ì......ì¬ëì¼ë¡ ì·¨ê¸ë°ì§ ëª»íë¤....ê·¸ê±´ ìëê±°ê°ìì. ê·¼ë° ì ë íì¤í ë¨ììê² ë ëë¦¬ëê±´ ë§ëë¯ íë¤ì..  </div>
+</div>
+
+<div id="bottomline_219628877" class="bottomline"><a id="rating_219628877" class="heart" onclick="rating(219628877);"></a><span id="rating_cnt_219628877" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219623480" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219623480" class="close" style="none" title="ì­ì " onclick="close_more(219623480);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219623480" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219623480);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ë§ì£¼ë³ì´ ìì´ì... ê·¸ëë ê´ì°®ì¼ì¸ì?  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   13days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ê´ì°®ìì .:)  </div>
+</div>
+
+<div id="bottomline_219623480" class="bottomline"><a id="rating_219623480" class="heart" onclick="rating(219623480);"></a><span id="rating_cnt_219623480" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219621983" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219621983" class="close" style="none" title="ì­ì " onclick="close_more(219621983);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219621983" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219621983);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ì°¨ê°ì´ ë§ìì ë°ë»íê² í´ì£¼ê³  ì¶ìì´ì ê·¸ë¦¬ê³  ì¬ëì¤ë½ê³  ë§¤ë ¥ ìì´ì  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   13days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ê³ ë§ìì, ëë ëì í ëì?  </div>
+</div>
+
+<div id="bottomline_219621983" class="bottomline"><a id="rating_219621983" class="heart" onclick="rating(219621983);"></a><span id="rating_cnt_219621983" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219620023" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219620023" class="close" style="none" title="ì­ì " onclick="close_more(219620023);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219620023" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219620023);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ì  ë¸ë£¨ë ì¢ìì ìë¬´ê²ë ìí´ë...   </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   13days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ëë¥¼ ì ì¢ìí´ì£¼ëì§ ë¬¼ì´ë´ëë¼ì?  </div>
+</div>
+
+<div id="bottomline_219620023" class="bottomline"><a id="rating_219620023" class="heart" onclick="rating(219620023);"></a><span id="rating_cnt_219620023" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219616960" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219616960" class="close" style="none" title="ì­ì " onclick="close_more(219616960);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219616960" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219616960);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ë°ë»íê² ììì¤ê²ì   </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   13days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ëêµ°ì§ ìê³ ì¶ì´ì.  </div>
+</div>
+
+<div id="bottomline_219616960" class="bottomline"><a id="rating_219616960" class="heart" onclick="rating(219616960);"></a><span id="rating_cnt_219616960" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219616567" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219616567" class="close" style="none" title="ì­ì " onclick="close_more(219616567);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219616567" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219616567);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ë§ì´ ë§ì´ ìë»í´ì¤ê²ì   </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   13days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ê³ ë§ìì ììì¤ì  </div>
+</div>
+
+<div id="bottomline_219616567" class="bottomline"><a id="rating_219616567" class="heart" onclick="rating(219616567);"></a><span id="rating_cnt_219616567" class="rating_cnt">0</span></div>
+
+
+
+<div id="card_219615937" class="card com_card" >
+
+  <div class="closediv"><a id="close_up_219615937" class="close" style="none" title="ì­ì " onclick="close_more(219615937);"></a></div><span class="ask_name">ìµëª</span><div id="closemore_219615937" class="closemore" style=" display: none;"><span class="more_ico"></span><p class="close_more_txt" onclick="report_ask_list(219615937);"><img src="./img/more_de.png" width="20" height="20" style="margin-left: -18px;">ì ê³ íê¸°</p></div>  <div class="card_ask">
+   ìì ë¸ë£¨ë ë§ìì ì§ ëì´ëë¦¬ê³  íë£¨íë£¨ ë§¤ì¼ ìë»í´ì£¼ê³  ì¶ì´ì  </div>
+  <div id="profileAnserCard">
+    <div class="profile_card_bg">
+      <div class="profile_card_wrapper" id="fburl"  >
+        <div class="profile_card_pic" id="profile_image"></div>
+      </div>
+    </div>
+    <div class="profile_card_id">
+       ë¸ë£¨	   <span class="profile_certification"></span>
+    </div>
+    <div class="card_time">
+	   13days ago    </div>
+  </div>
+  <div class="img_div"></div>
+  <div class="card_answer">
+   ê³ ë§ìì, ë ì¢ ìë»í´ì¤ëì?  </div>
+</div>
+
+<div id="bottomline_219615937" class="bottomline"><a id="rating_219615937" class="heart" onclick="rating(219615937);"></a><span id="rating_cnt_219615937" class="rating_cnt">0</span></div>
+
+
+<a id="MOVE_TOP_BTN" href="#"><img src="./img/top.png" width="30" height="30"></a></div>
+
+
+
+<div class="more" style="display:none">
+</div>
+
+
+
+
+
+<script>
+    $(function() {
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 1500) {
+                $('#MOVE_TOP_BTN').fadeIn();
+            } else {
+                $('#MOVE_TOP_BTN').fadeOut();
+            }
+        });
+        
+        $("#MOVE_TOP_BTN").click(function() {
+            $('html, body').animate({
+                scrollTop : 0
+            }, 400);
+            return false;
+        });
+    });
+
+</script>
+
+<center>
+<div style="margin:10 0 10 0;">
+<a class="agreement" href="service.html">ì´ì©ì½ê´ | </a><a class="agreement">help@asked.kr</a>
+</div>
+</center>
+ 
+
+<div id="report_post_div" class="hc vc" style="display: none;margin-top:100px;position: fixed;">
+
+<div class="control-group">
+ <div class="top_div">
+    <p class="top_text_class">ì ê³ íê¸°</p>
+	<input type="text" id="report_type" style="display:none;">
+	<input type="text" id="report_num" style="display:none;">
+ </div>
+ <div class="control_div">
+	<p id="control_div_check" style="dispay:none;"></p>
+    <label class="control control--radio">ê´´ë¡­í ëë ì¨ë¼ì¸ ìë°
+      <input type="radio" name="report" value="BU" checked="checked">
+      <div class="control__indicator"></div>
+    </label>
+    <label class="control control--radio">ìì´ ëë ìí´
+      <input type="radio" name="report" value="SC">
+      <div class="control__indicator"></div>
+    </label>
+    <label class="control control--radio">íì¤ë°ì¸ ëë ìì¤
+      <input type="radio" name="report" value="AB">
+      <div class="control__indicator"></div>
+    </label>
+    <label class="control control--radio">í­ë ¥ ë° ë²ì£ íë ì ë
+      <input type="radio" name="report" value="VL">
+      <div class="control__indicator"></div>
+    </label>
+    <label class="control control--radio">ìëë¬¼, ì±ì  í¬ë¡±, ì ì²´ë¸ì¶
+      <input type="radio" name="report" value="SX">
+      <div class="control__indicator"></div>
+    </label>
+    <label class="control control--radio">íë³´ ë° ììì  ê´ê³  ëë ëë°°
+      <input type="radio" name="report" value="PM">
+      <div class="control__indicator"></div>
+    </label>
+    <label class="control control--radio">ê°ì¸ì ë³´ ìì²­ ë° ê¸°í
+      <input type="radio" name="report" value="PV">
+      <div class="control__indicator"></div>
+    </label>
+  </div>
+
+<div class="bottom_div">
+ <div class="bottom_div_left" onclick="close_more();">ì·¨ì</div>
+ <div class="bottom_div_right" onclick="report_ask_confirm(802)">íì¸</div>
+</div>
+
+</div>
+
+</div>
+
+<div class="new_ask_div" style="display:none">
+<div class="new_ask_img">
+<div class="new_control_div">
+  <img src="./img/ask_bg.png" width="245">
+</div>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/ko_KR/sdk.js#xfbml=1&version=v2.12&appId=1592212707723472&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div style="margin-top: -70px;width: 100%;height: 70px;margin-left:0px;">
+<div class="fb-like" data-href="https://facebook.com/askedkor" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+</div>
+
+
+<div class="new_bottom_div" style="margin-top: -33;margin-left: -1px;">
+ <div class="new_bottom_div_left" onclick="close_back();">ì·¨ì</div>
+ <div id="new_bottom_div_right1" class="new_bottom_div_right" style="margin-right: -1px;" onclick="location.href='https://ref.ad-brix.com/v1/referrallink?ak=621347963&ck=7203543';">íì¸</div>
+</div>
+</div>
+</div>
+
+<div class="new_ask_div2" style="display:none">
+<div class="new_ask_img">
+<div class="new_control_div">
+  <img src="./img/ask_bg2.png" width="245">
+</div>
+<div class="new_bottom_div" style="margin-top: -33;margin-left: -1px;">
+ <div class="new_bottom_div_left" onclick="close_back();">ì·¨ì</div>
+ <div id="new_bottom_div_right2" class="new_bottom_div_right" style="margin-right: -1px;" onclick="location.href='https://ref.ad-brix.com/v1/referrallink?ak=621347963&ck=6204054&Deeplink=true';">íì¸</div>
+</div>
+</div>
+</div>
+
+<script>
+function mobilead_loc(){
+	var ua = String( navigator.userAgent ).toLowerCase();
+	if(/android/.test(ua)){
+		location.href='https://goo.gl/fRo1AY';
+	}else if(/iphone/.test(ua)){
+		location.href='https://goo.gl/oIiZ0Z';
+	}
+}
+</script>
+
+ <div style="height: 100px;"></div>
+
+<div class="mobilead" id="mobilead">
+
+
+<center>
+<ins class="kakao_ad_area" style="display:none;" 
+ data-ad-unit    = "DAN-1k25l5g4fb5ma" 
+ data-ad-width   = "320" 
+ data-ad-height  = "50"></ins> 
+</center>
+
+</div>
+
+
+
+
+
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ko_KR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47330322-1', 'asked.kr');
+  ga('send', 'pageview');
+
+	var ua = String( navigator.userAgent ).toLowerCase();
+	if(/android/.test(ua)){
+		$('#btm_ad').attr('src','./img/mobileTopAd.png');
+	}else if(/iphone/.test(ua)){
+		$('#btm_ad').attr('src','./img/mobileTopAd.png');
+	}
+</script>
+
+
+<script>
+
+    refresh_timer();
+</script>
+<link rel="stylesheet"
+href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+
+<style>
+
+
+.navbg {
+    background-color: rgba(0, 0, 0, 0.70);
+    position: fixed;
+    left: 0;
+    bottom: 0px;
+    z-index: 12;
+    width: 100%;
+    height: 54px;
+}
+
+.navtxt{
+    line-height: 53px;
+    float: right;
+    padding-right: 26px;
+    color: #fff;
+}
+
+.bottom-menu {
+position: fixed;
+left: 0;
+bottom: 0;
+z-index: 10;
+width: 100%;
+height: 50px;
+background: white;
+padding-bottom: 4px;
+box-shadow: 4px 4px 7px 7px rgba(0, 0, 0, 0.13);
+outline-style: none;
+-webkit-tap-highlight-color:transparent;
+}
+
+.bottom-menu a {
+display: block;
+float: left;
+width: 25%;
+text-align: center;
+padding: 30px 0 0;
+margin-top: 6px;
+font-size: .400em;
+outline-style: none;
+}
+
+.nc{
+color: #bdbdbd;
+}
+
+.fc{
+	color: #071b9a;
+}
+
+.home {
+	background: url(../img/nav/home.png) no-repeat 50% 1px;
+	background-size: 24px auto;
+	background-position: 50% 30%;
+}
+
+.search {
+	background: url(../img/nav/search.png) no-repeat 50% 1px;
+	background-size: 22px auto;
+	background-position: 50% 30%;
+}
+
+.alram {
+	background: url(../img/nav/alram.png) no-repeat 50% 1px;
+	background-size: 20px auto;
+	background-position: 50% 30%;
+}
+
+.nalram {
+	background: url(../img/nav/nalram.png) no-repeat 50% 1px;
+	background-size: 20px auto;
+	background-position: 50% 30%;
+}
+
+.myfeed {
+	background: url(../img/nav/myfeed.png) no-repeat 50% 1px;
+	background-size: 22px auto;
+	background-position: 50% 30%;
+}
+
+
+.home_s {
+	background: url(../img/nav/home_s.png) no-repeat 50% 1px;
+	background-size: 24px auto;
+	background-position: 50% 30%;
+}
+
+.search_s {
+	background: url(../img/nav/search_s.png) no-repeat 50% 1px;
+	background-size: 22px auto;
+	background-position: 50% 30%;
+}
+
+.alram_s {
+	background: url(../img/nav/alram_s.png) no-repeat 50% 1px;
+	background-size: 20px auto;
+	background-position: 50% 30%;
+}
+
+.myfeed_s {
+	background: url(../img/nav/myfeed_s.png) no-repeat 50% 1px;
+	background-size: 22px auto;
+	background-position: 50% 30%;
+}
+
+</style>
+ 
+ 
+ <div class="navbg" onclick="location.href='./';"><span class="navtxt">ë¡ê·¸ì¸</span></div>
+ <div style="height: 50px;"></div>
+<nav id="bottomMenu" class="bottom-menu">
+	<a href="/newsfeed.php" class="nc home">ë´ì¤í¼ë</a>
+    <a href="/user_search.php" class="nc search">ê²ì</a>
+    <a href="/new_noti.php" class="nc alram"></span>ìë¦¼</a>
+</nav>
+	
+	
+	
+
+
+
+
+
+<div id="ann">
+</div>
+</body>
+</html>
+
+

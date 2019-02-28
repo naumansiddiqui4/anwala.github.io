@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='UTF-8'>
+<script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"f8eb810d89","applicationID":"85289823","transactionName":"dFpZQREKCl1URh4VQFJGQ1wMC0lYVQ==","queueTime":0,"applicationTime":160,"agent":""}</script>
+<script>window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta content='width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1' name='viewport'>
+<script>
+//<![CDATA[
+window.gon={};
+//]]>
+</script>
+<script>
+  (function(w,d,s,l,i){
+    w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true; j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-5TQCM53');
+</script>
+<script async='async' data-cfasync='false' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script data-cfasync='false' type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script data-cfasync='false' type='text/javascript'>
+googletag.cmd.push(function() {
+  googletag.defineSlot(
+    '/46915819/Peing_sp_//*//_rectangle_01',[[336, 280], [300, 250]],
+    'div-gpt-ad-1548667441747-0').addService(googletag.pubads());
+
+  googletag.defineSlot(
+    '/46915819/Peing_sp_//*//_rectangle_02',[[300, 250], [336, 280]],
+    'div-gpt-ad-1548667720770-0').addService(googletag.pubads());
+
+  googletag.defineSlot(
+    '/46915819/Peing_sp_//*//_rectangle_03',[[300, 250], [336, 280]],
+    'div-gpt-ad-1548667954263-0').addService(googletag.pubads());
+
+  googletag.defineSlot(
+    '/46915819/Peing_sp_//box_rectangle_01', [[300, 250], [336, 280]],
+    'div-gpt-ad-1548668365691-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//box_rectangle_02',
+    [[300, 250], [336, 280]],
+    'div-gpt-ad-1548668467748-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//box//reply_rectangle_01',
+    ['fluid', [300, 250], [336, 280]],
+    'div-gpt-ad-1548669169534-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//box//reply_rectangle_02',
+    ['fluid', [300, 250], [336, 280]],
+    'div-gpt-ad-1548669243880-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//box//dust_rectangle_01',
+    ['fluid', [300, 250], [336, 280]],
+    'div-gpt-ad-1548669462813-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//box//dust_rectangle_02',
+    [[336, 280], 'fluid', [300, 250]],
+    'div-gpt-ad-1548669530712-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//q//_rectangle_01',
+    [[336, 280], [320, 100], 'fluid', [300, 250]],
+    'div-gpt-ad-1549589083787-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//q//_rectangle_02',
+    ['fluid', [300, 250], [336, 280]],
+    'div-gpt-ad-1548668874449-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//q//_rectangle_03',
+    [[300, 250], [336, 280], 'fluid'],
+    'div-gpt-ad-1548668949381-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//follows//_rectangle_01',
+    [[336, 280], 'fluid', [300, 250]],
+    'div-gpt-ad-1548669680286-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//follows//_rectangle_02',
+    ['fluid', [300, 250], [336, 280]],
+    'div-gpt-ad-1548670225838-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//stg_rectangle_01',
+    [[336, 280], [300, 250], 'fluid'],
+    'div-gpt-ad-1548670157722-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//stg_rectangle_02',
+    [[336, 280], 'fluid', [300, 250]],
+    'div-gpt-ad-1548670323079-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//hp_rectangle_01',
+    [[336, 280], [300, 600], 'fluid', [300, 250]],
+    'div-gpt-ad-1548670574468-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//hp_rectangle_02',
+    [[336, 280], 'fluid', [300, 250]],
+    'div-gpt-ad-1548670938235-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//q_rectangle_01',
+    [320, 100],
+    'div-gpt-ad-1549007566842-0').addService(googletag.pubads());
+
+  googletag.defineSlot('/46915819/Peing_sp_//q_rectangle_02',
+    [[336, 280], [300, 250]],
+    'div-gpt-ad-1549007658416-0').addService(googletag.pubads());
+
+  googletag.enableServices();
+});
+</script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="iwdRruM3uv95w741xusYgn4JLnMrq/a98Qsz7/KvdcQqkIvTppBHB31QLHlFKXGeGVOYdHYnpwt+m0EMGIfdjQ==" />
+<link rel="shortcut icon" type="image/x-icon" href="//s3.peing.net/t/favicon.ico" />
+<title>付き合っている彼とこの先もずっと仲良くしていきたいです。
+彼も同じ気持ちでいてくれてるのか時々 | Peing -質問箱-</title>
+<meta name="description" content="#マナカ白猫タロット 「気持ち」を土台にするのは豆腐の上に建物を建てるようなものです。ハラハラドキドキの若い恋愛の場合はその不安定さが醍醐味でもあります。「気持ち」を主軸にする事のあやふやさと刹那である事を理解して楽しむ事と、他者の感情や気持ちに「永遠」や「安定」を求めるならば「関係性」「日常」「習慣」をコントロールする事です。 実際に何をして、何を当たり前の日常にするかを「根気よく育む」行為こそが安定した関係性を生み出します。 「同じ気持ち」になれるかどうかはともかく、「日常」ほど強い絆はないと考えています。">
+<meta name="keywords" content="質問, twitter">
+<link rel="canonical" href="https://peing.net/q/1b6b9925-6999-4731-98f2-22bc11ffd8d0">
+<meta name="twitter:title" content="yamaguchi_manakaの質問箱です">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://s3.peing.net/t/uploads/item/eye_catch/140908642/54f8ddb3.jpg">
+<meta name="twitter:image:alt" content="付き合っている彼とこの先もずっと仲良くしていきたいです。
+彼も同じ気持ちでいてくれてるのか時々 聞いてみるのですが、いつも不安になってしまいます。
+どうしたら安心できるのでしょうか
+@ポッキー">
+<meta name="twitter:description" content="質問・回答はこちら">
+<meta name="twitter:url" content="https://peing.net/ja/q/1b6b9925-6999-4731-98f2-22bc11ffd8d0">
+<meta name="twitter:site" content="@peing_net">
+<meta name="twitter:domain" content="peing.net">
+<meta property="og:title" content="yamaguchi_manakaの質問箱です">
+<meta property="og:url" content="https://peing.net/ja/q/1b6b9925-6999-4731-98f2-22bc11ffd8d0">
+<meta property="og:site_name" content="Peing -質問箱-">
+<meta property="og:image" content="https://s3.peing.net/t/uploads/item/eye_catch/140908642/54f8ddb3.jpg">
+<meta property="og:image:alt" content="付き合っている彼とこの先もずっと仲良くしていきたいです。
+彼も同じ気持ちでいてくれてるのか時々 聞いてみるのですが、いつも不安になってしまいます。
+どうしたら安心できるのでしょうか
+@ポッキー">
+<meta property="og:description" content="質問・回答はこちら">
+<meta property="og:locale" content="ja_JP">
+<meta name="robots" content="noarchive">
+<meta name="copyright" content="Copyright &amp;copy; Peing -質問箱- All right reserved.">
+<link href='/assets/application-6102c6acea50963f6c8fd434d89c12310a595a5d26f6396413e404a08123005e.css' rel='prefetch'>
+<link rel="stylesheet" media="all" href="//s3.peing.net/t/assets/application-6102c6acea50963f6c8fd434d89c12310a595a5d26f6396413e404a08123005e.css" />
+<script src="//s3.peing.net/t/assets/i18n-190197ff676fb82448318655c67c84334d9e9c401dcd16a8b9bd13cec1c06527.js"></script>
+<script src="//s3.peing.net/t/packs/i18n/ja-c15f90760cc09ba2f7e8.js" defer="defer"></script>
+<script src="//s3.peing.net/t/packs/vendor-7330ee615abd345f8d66.js"></script>
+<script src="//s3.peing.net/t/packs/entry/question/id-1ace4fe81681d39a84a4.js"></script>
+<script type='text/javascript'>
+I18n.defaultLocale = "ja";
+I18n.locale = "ja";
+I18n.availableLocales = "en,ja,zh-CN,zh-TW,ko".split(',');
+</script>
+<link href='https://fonts.googleapis.com/css?family=Neucha' rel='stylesheet prefetch'>
+
+
+</head>
+<body class='question_id not_login' data-route-question-id=''>
+<noscript>
+<iframe height='0' src='https://www.googletagmanager.com/ns.html?id=GTM-5TQCM53' style='display:none;visibility:hidden' width='0'></iframe>
+</noscript>
+
+<div data-is-login='false' data-vue-component='the-header' data-wakaba-img='//s3.peing.net/t/assets/wakaba-e9d625b4d0086758313cc2bd066b93ae2d72da67e10530c7faa20330117f693a.png'></div>
+<!-- / 本体 -->
+<div class='yield-container' data-route-question-id-main='' id='main'>
+<div id='item-id'>
+<div class='ad-wrapper'>
+<!-- /46915819/Peing_sp_//q//_rectangle_01 -->
+<div id='div-gpt-ad-1549589083787-0'>
+<script data-cfasync='false' type='text/javascript'>
+googletag.cmd.push(function() { googletag.display(`div-gpt-ad-1549589083787-0`); });
+</script>
+</div>
+
+</div>
+
+<div class='container'>
+<div class='answer-box'>
+<div class='date'>
+<span class='' style=''>
+2/15
+</span>
+</div>
+<div class='eye-catch-wrapper'>
+<h1><a target="_blank" href="https://s3.peing.net/t/uploads/item/eye_catch/140908642/54f8ddb3.jpg"><img alt="付き合っている彼とこの先もずっと仲良くしていきたいです。
+彼も同じ気持ちでいてくれてるのか時々 聞いてみるのですが、いつも不安になってしまいます。
+どうしたら安心できるのでしょうか
+@ポッキー" class="question-eye-catch" src="https://s3.peing.net/t/uploads/item/eye_catch/140908642/54f8ddb3.jpg" /></a>
+</h1></div>
+<div class='user-link-container'>
+<a class="user-page-link" href="/ja/manaka_kotohogi"><div class='icon'>
+<img alt="yamaguchi_manaka" src="https://s3.peing.net/t/uploads/user/icon/3288926/7c6e2da7.jpg" />
+</div>
+<div class='names-wrapper'>
+<div class='name'>yamaguchi_manaka</div>
+</div>
+</a></div>
+<div class='answer'>
+<p class='text'> #マナカ白猫タロット
+「気持ち」を土台にするのは豆腐の上に建物を建てるようなものです。ハラハラドキドキの若い恋愛の場合はその不安定さが醍醐味でもあります。「気持ち」を主軸にする事のあやふやさと刹那である事を理解して楽しむ事と、他者の感情や気持ちに「永遠」や「安定」を求めるならば「関係性」「日常」「習慣」をコントロールする事です。
+実際に何をして、何を当たり前の日常にするかを「根気よく育む」行為こそが安定した関係性を生み出します。
+「同じ気持ち」になれるかどうかはともかく、「日常」ほど強い絆はないと考えています。</p>
+
+
+</div>
+
+<div class='question-link-container'>
+<div class='button'>
+<a class="link" href="/ja/q/1b6b9925-6999-4731-98f2-22bc11ffd8d0#user-id">自分も質問する</a>
+<i class='fa fa-angle-down icon'></i>
+</div>
+<div class='button'>
+<a class="link" href="/ja/q/1b6b9925-6999-4731-98f2-22bc11ffd8d0#other-answers">他の回答をみる</a>
+<i class='fa fa-angle-down icon'></i>
+</div>
+</div>
+
+</div>
+
+</div>
+<div class='ad-wrapper'>
+<!-- /46915819/Peing_sp_//q//_rectangle_02 -->
+<div id='div-gpt-ad-1548668874449-0'>
+<script data-cfasync='false' type='text/javascript'>
+googletag.cmd.push(function() { googletag.display(`div-gpt-ad-1548668874449-0`); });
+</script>
+</div>
+
+</div>
+
+<div id='user-id'>
+<div class='container user-label'>ここから匿名でyamaguchi_manakaさんに質問を送れます</div>
+<div class='container user-form-area c-question-request-form'>
+<form action="/ja/manaka_kotohogi/message" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="r39zoSUstZ5g0y0eqizLwm7DIPDQDjFzE5NzUCFNk97SrAk/2Trdh85sMuZfZf8F/e1Cw6XnBFnExrpAFtSTew==" />
+<textarea style="" name="item[body]"></textarea>
+<input value="manaka_kotohogi" type="hidden" name="user[account]" id="user_account" />
+<input value="leave" type="hidden" name="item[hope_answer_type]" id="item_hope_answer_type" />
+<p><a href="/ja/trm">利用規約</a>、<a href="/ja/pvy">プライバシーポリシー</a>に同意の上ご利用ください</p>
+<div class='submit-buttons'>
+<div data-event-theme-color='' data-guide-image='//s3.peing.net/t/assets/ja/baton/baton_guide-a9f983d3908ce7071ef1f6ea69a966c2aedf60096fde3be69be7030d86472f9a.png' data-is-login='false' data-locale='ja' data-vue-component='question-request-form'></div>
+</div>
+</form></div>
+
+</div>
+<div class='container'>
+<img src="//s3.peing.net/t/assets/ja/signup-introduction/intro-0fe579cdf6205cb2a6c345dd8f0ef0f708d49e5136c8bc3e1f683965c8572102.png" />
+<div class='oauth-buttons' id='signup-buttons'>
+<form class="button_to" method="get" action="/auth/twitter"><button class="ui button twitter oauth-login-button" data-gtag-action="click" data-gtag-category="登録/ログイン" data-gtag-label="twitter登録/ログイン" type="submit"><i class='fa fa-twitter'></i>
+Twitterで登録/ログイン
+</button></form>
+<form class="button_to" method="get" action="/auth/instagram"><button class="ui button instagram oauth-login-button" data-gtag-action="click" data-gtag-category="登録/ログイン" data-gtag-label="instagram登録/ログイン" type="submit"><i class='fa fa-instagram'></i>
+Instagramで登録/ログイン
+</button></form>
+<form class="button_to" method="get" action="/auth/facebook"><button class="ui button facebook oauth-login-button" data-gtag-action="click" data-gtag-category="登録/ログイン" data-gtag-label="facebook登録/ログイン" type="submit"><i class='fa fa-facebook'></i>
+Facebookで登録/ログイン
+</button></form>
+<div class='webview-hide'>
+<form class="button_to" method="get" action="/auth/google_oauth2"><button class="ui button google_oauth2 oauth-login-button" data-gtag-action="click" data-gtag-category="登録/ログイン" data-gtag-label="google_oauth2登録/ログイン" type="submit"><i class='fa fa-google_oauth2'></i>
+Gmailで登録/ログイン
+</button></form></div>
+
+<form class="button_to" method="get" action="/ja/acc/regist"><button class="ui button positive peing-id" type="submit">PeingIDで登録する
+</button></form><a class="login-link" href="/ja/acc/login">PeingIDでログインする
+</a>
+<p>
+※<a href="/ja/trm">利用規約</a>、<a href="/ja/pvy">プライバシーポリシー</a>に同意の上ご利用ください
+</p>
+</div>
+</div>
+
+<div class='container'>
+<div id='other-answers'>
+<div class='label-info'>yamaguchi_manakaさんの他の回答</div>
+</div>
+</div>
+<div class='container'>
+<a class="question-box-link" href="/ja/q/696d2cd2-3cfb-4277-86a6-665b5cc790cd"><div class='question-box'>
+<div class='date'>
+<span class='' style=''>
+2/22
+</span>
+</div>
+<div class='box-background' style='float:right;width:50px;'>
+<img class="box-background" src="//s3.peing.net/t/assets/ja/box-background-476082cf6444bc1eb8c4840392ca54840fb247a94824232c02201012156d1e31.png" />
+</div>
+<div class='link'>
+マナカさんこの間はタロットをお引き下さりありがとうございました。引き続き質問すみません。
+
+今別の場所でお仕事のオファーも来ているので、彼とは離れることにします。本当は海外にまた行きたいけど、彼の元で働いてた分のお給料があまりに少なく、全くお金が無い状態です。
+
+去年の努力は無事成果に繋がり、彼の元にはお金が入りましたが私自身が貰った分は労力に見合っていなくて苦しいです。
+
+彼に正当な額を請求し、貰った分で海外に行きやりたかったことを学ぶか、それとも諦めて別のとこから貰ったオファーの方で新たに働くか、
+
+どちらが私にとって幸せな未来に繋がる道でしょうか？
+
+よろしくお願い致します。
+
+
+</div>
+<div class='tools clearfix'>
+<div class='show-answer-text'>
+回答を見る
+<i class='fa fa-chevron-right'></i>
+</div>
+</div>
+</div>
+
+</a>
+<a class="question-box-link" href="/ja/q/32abb8ba-a9d6-4538-8e5a-abd92602b4ca"><div class='question-box'>
+<div class='date'>
+<span class='' style=''>
+2/21
+</span>
+</div>
+<div class='box-background' style='float:right;width:50px;'>
+<img class="box-background" src="//s3.peing.net/t/assets/ja/box-background-476082cf6444bc1eb8c4840392ca54840fb247a94824232c02201012156d1e31.png" />
+</div>
+<div class='link'>
+（質問でなくお礼です）
+見ていただきましたKです。
+ありがとうございました。
+お言葉がよく伝わってきました。
+一番見ていただきたいことが整理できたらちゃんと鑑定をお願いしたいなと思いました。
+いつもありがとうございます。
+</div>
+<div class='tools clearfix'>
+<div class='show-answer-text'>
+回答を見る
+<i class='fa fa-chevron-right'></i>
+</div>
+</div>
+</div>
+
+</a>
+<a class="question-box-link" href="/ja/q/9ba24a9e-63a3-42af-bfb0-5314af44bbf9"><div class='question-box'>
+<div class='date'>
+<span class='' style=''>
+2/21
+</span>
+</div>
+<div class='box-background' style='float:right;width:50px;'>
+<img class="box-background" src="//s3.peing.net/t/assets/ja/box-background-476082cf6444bc1eb8c4840392ca54840fb247a94824232c02201012156d1e31.png" />
+</div>
+<div class='link'>
+高3生の母です。メッセージ拝読しました。ありがとうございます。
+
+確かに、サポートしよう（何かしてあげよう）とするばかりに、娘の気持ちや話を聞いて受け入れる余裕が無かったかもしれません。
+あと残り少ないですが、彼女の気持ちを受け止めるようにしたいと思います。ありがとうございました。
+</div>
+<div class='tools clearfix'>
+<div class='show-answer-text'>
+回答を見る
+<i class='fa fa-chevron-right'></i>
+</div>
+</div>
+</div>
+
+</a>
+</div>
+<div class='ad-wrapper'>
+<!-- /46915819/Peing_sp_//q//_rectangle_03 -->
+<div id='div-gpt-ad-1548668949381-0'>
+<script data-cfasync='false' type='text/javascript'>
+googletag.cmd.push(function() { googletag.display(`div-gpt-ad-1548668949381-0`); });
+</script>
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div data-fixed-pages='[{&quot;id&quot;:1,&quot;slug&quot;:&quot;askfm&quot;,&quot;title&quot;:&quot;「Ask.fm」の特徴&quot;},{&quot;id&quot;:2,&quot;slug&quot;:&quot;sarahah&quot;,&quot;title&quot;:&quot;Sarahah(サラハ)の特徴&quot;}]' data-is-login='false' data-vue-component='the-footer'></div>
+<div class='links' style='text-align: center;'>
+Language:
+<select name='localeSetting' style='font-size: 11px;'>
+<option selected value='ja'>日本語</option>
+<option value='en'>English</option>
+<option value='zh-CN'>簡体字</option>
+<option value='zh-TW'>繁体字</option>
+<option value='ko'>한국</option>
+</select>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,580 @@
+<!doctype html>
+<html lang="en-US">
+    <head>
+        <title>Libra Zodiac Sign: Free Astrology Horoscope of the Day</title>
+        <meta charset="UTF-8"/>
+        <meta name="HandheldFriendly" content="true" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+                    <meta name="description" content="Read the free Astrology Horoscope of the Day for the Libra zodiac sign" />
+        <meta name="keywords" content="twittascope, twittascopes, horoscope, horoscopes, astrology horoscope, astrology horoscopes, free horoscope, free horoscopes, horoscope of the day, daily horoscope, daily horoscopes, libra, libra zodiac, libra horoscope, libra horoscopes" />
+    
+        
+            <meta property="og:title"       content="Libra Horoscope for Saturday, February 23, 2019" />
+        <meta property="og:description" content="Relationships matter more than possessions in your world. A current project " />
+    
+    <meta property="og:url"         content="http://www.twittascope.com/?sign=7" />
+    <meta property='og:image'       content='https://gfx.tarot.com/images/mobile-twittascope/signs/sign-7-165x208.jpg' />
+
+
+        <link href="/fonts/Clarendon-Bold/font.css" rel="stylesheet" type="text/css">
+        <link media="screen" rel="stylesheet" href="https://gfx.tarot.com/bundle/_css_vendor_skeleton_css_f658a5ed031f79871c6df37f48d3d9de972b3f2b.css">
+        <link media="screen" rel="stylesheet" href="https://gfx.tarot.com/bundle/_css_type_css_9528cfaffeccef711b9f65542f6d72d926606adf.css">
+        <link media="screen" rel="stylesheet" href="https://gfx.tarot.com/bundle/_css_layout_css_32b5934d756cd1f1a84af85e64c213c552f0745e.css">
+        <link media="screen" rel="stylesheet" href="https://gfx.tarot.com/bundle/_css_main_css_80f99de331226cf2ef1874cbe68f2264fe6b5334.css">
+        <link media="screen" rel="stylesheet" href="https://gfx.tarot.com/bundle/_css_responsive_css_07d4828a6ca39baeeef1040b2ef58a7980fc3ace.css">
+
+        <link media="screen" rel="stylesheet" href="https://gfx.tarot.com/bundle/_css_dfp-ads_css_ecdd25d7caa2206deb52e623b2e860d31df5c912.css">
+        <script>
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+
+    (function() {
+        var sortable_lib = document.createElement('script');
+        sortable_lib.async = true;
+        sortable_lib.type = 'text/javascript';
+        sortable_lib.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//tags-cdn.deployads.com/a/dfp.twittascope.com.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(sortable_lib, node);
+    })();
+
+    
+    window.googletag = window.googletag || {};
+    
+    googletag.cmd = googletag.cmd || [];
+
+    window.deployads = window.deployads || [];
+
+    googletag.cmd.push(function() {
+        
+            var mapping0 = googletag.sizeMapping()
+                                    .addSize([1024, 768], [[728,90]])
+                                    .addSize([980, 690], [[728,90]])
+                                    .addSize([0, 0], [[728,90]])
+                
+                .build();
+            googletag.defineSlot("/2498354/twittascope.com/Top", [[728,90]], "dfp-Top-58")
+                .defineSizeMapping(mapping0)
+                .setCollapseEmptyDiv(true)
+                .addService(googletag.pubads());
+        
+            var mapping1 = googletag.sizeMapping()
+                                    .addSize([1024, 768], [[300,250],[300,600]])
+                                    .addSize([980, 690], [[300,250]])
+                                    .addSize([0, 0], [[300,250]])
+                
+                .build();
+            googletag.defineSlot("/2498354/twittascope.com/Rail-1", [[300,250],[300,600]], "dfp-Rail-1-46")
+                .defineSizeMapping(mapping1)
+                .setCollapseEmptyDiv(true)
+                .addService(googletag.pubads());
+        
+            var mapping2 = googletag.sizeMapping()
+                                    .addSize([1024, 768], [[300,250],[300,600]])
+                                    .addSize([980, 690], [[300,250]])
+                                    .addSize([0, 0], [[300,250]])
+                
+                .build();
+            googletag.defineSlot("/2498354/twittascope.com/Rail-2", [[300,250],[300,600]], "dfp-Rail-2-31")
+                .defineSizeMapping(mapping2)
+                .setCollapseEmptyDiv(true)
+                .addService(googletag.pubads());
+        
+            var mapping3 = googletag.sizeMapping()
+                                    .addSize([1024, 768], [[300,250]])
+                                    .addSize([980, 690], [[300,250]])
+                                    .addSize([0, 0], [[300,250]])
+                
+                .build();
+            googletag.defineSlot("/2498354/twittascope.com/Rail-3", [[300,250]], "dfp-Rail-3-13")
+                .defineSizeMapping(mapping3)
+                .setCollapseEmptyDiv(true)
+                .addService(googletag.pubads());
+        
+            var mapping4 = googletag.sizeMapping()
+                                    .addSize([1024, 768], [[728,90]])
+                                    .addSize([980, 690], [[728,90]])
+                                    .addSize([0, 0], [[728,90]])
+                
+                .build();
+            googletag.defineSlot("/2498354/twittascope.com/Bottom", [[728,90]], "dfp-Bottom-92")
+                .defineSizeMapping(mapping4)
+                .setCollapseEmptyDiv(true)
+                .addService(googletag.pubads());
+        
+
+        var adtest = window.location.search.match(/__adtest/);
+        googletag.pubads().collapseEmptyDivs();
+        googletag.pubads().setTargeting('SessionPageNumber', '1');
+        googletag.pubads().setTargeting('Test', (!!adtest).toString());
+        googletag.pubads().setTargeting('URL', window.location.pathname);
+        googletag.pubads().disableInitialLoad();
+        deployads.push(function () { deployads.gpt.enableServices(); });
+
+        var slotRenderEnded = new CustomEvent('slotRenderEnded');
+        googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+            if (event.isEmpty) {
+                return;
+            }
+            document.getElementById(event.slot.getSlotElementId()).dispatchEvent(slotRenderEnded);
+        });
+    });
+</script>
+
+
+        <script src="https://gfx.tarot.com/bundle/_js_vendor_matchMedia_js_d38e5184625c20f38f89ea8ac9eea538b9ed869c.js"></script>
+        <script src="https://gfx.tarot.com/bundle/_js_vendor_respond_min_js_78058b6e2291ee1b76da57d8ff11c7577c3cb6ad.js"></script>
+        <script src="https://gfx.tarot.com/bundle/_js_vendor_modernizr_js_662c453a65ff19ea994f79f13c0ca09f0e51aef6.js"></script>
+        <script src="https://gfx.tarot.com/bundle/_js_vendor_date-utils_min_js_879601c5f408223ac9842445a4aa230b5c296d81.js"></script>
+        <script src="https://gfx.tarot.com/bundle/_js_vendor_jquery-1_6_2_js_7622c9ac2335be6dcd3ab8b47132e94089cef931.js"></script>
+        <script src="https://gfx.tarot.com/bundle/_js_vendor_jquery_livequery_js_8e8e7b03b531b2aaf64a8dd3d0d5432bd9b1a5b1.js"></script>
+        <script src="https://gfx.tarot.com/bundle/_js_twittascope_js_5f64e603a28cb8187be71af567256236648a9cb4.js"></script>
+        <script src="https://gfx.tarot.com/bundle/_js_vendor_jquery-ui_min_js_6b22144e2483a57d8fa051ea4182ec58148732b5.js"></script>
+
+        
+
+        
+        
+    </head>
+    <body class="">
+        <script async src='//www.google-analytics.com/analytics.js'></script>
+        <script>
+            
+            window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+            
+            ga('create', 'UA-399837-12', 'auto');
+            ga('require', 'displayfeatures');
+            ga('send', 'pageview');
+        </script>
+
+        
+
+        <div id="site-container">
+            <header id="site-header">
+    <div class="container">
+        <div id="site-banner" class="sixteen columns">
+            <a href="/" class="twittascope logo" title="Twittascope"></a>
+            <div class="follow-box">
+                <p>Follow Us:</p>
+                <div>
+                    <a class="follow-link follow-facebook" target="_blank" href="https://www.facebook.com/pages/Twittascope/104380589511?ref=s"></a>
+                    <a class="follow-link follow-twitter" target="_blank" href="https://www.twitter.com/twittascope"></a>
+                </div>
+            </div>
+            
+    <div class="dfp-ad" id="dfp-Top-58" name="Top"></div>
+    <script>
+        googletag.cmd.push(function() {
+            deployads.push(function() { deployads.gpt.display('dfp-Top-58'); });
+        });
+                    
+        
+    </script>
+
+
+        </div>
+    </div>
+    <nav class="site-nav">
+        <div class="container">
+            <ul class="site-nav-list">
+    <li class="horoscopes"><a href="/" title="Horoscopes">Horoscopes</a></li>
+    <li class="more-fun"><a href="/more-fun/love-compatibility" title="Compatibility">Compatibility</a></li>
+    <li class="psychics"><a href="http://twittascope.oranum.com" target="_blank" title="Psychics">Psychics</a></li>
+    <li class="account"><a href="/account" title="Account">Account</a></li>
+    <li class="about-us"><a href="/about-us" title="About Us">About Us</a></li>
+            <li class="login"><a href="/account/authenticate" id="site-login" title="Login">Login</a></li>
+    
+</ul>
+
+            <div class="follow-box">
+                <p>Follow Us:</p>
+                <div>
+                    <a class="follow-link follow-facebook" target="_blank" href="https://www.facebook.com/pages/Twittascope/104380589511?ref=s"></a>
+                    <a class="follow-link follow-twitter" target="_blank" href="https://www.twitter.com/twittascope"></a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+            <div id="site-content" class="daily-horoscope">
+                                    <div id="site-signup-banner">
+    <div class="container">
+        <div class="sixteen columns reverse">
+            <h2>Awesome, you're here!</h2>
+            <p>Get your horoscope posted to your Twitter account daily with Twittascope.</p>
+            <a href="/account/authorize" class="button tier1 signup">Sign up now »</a>
+        </div>
+    </div>
+</div>
+
+
+
+                
+                    
+    <div class="container">
+        <div class="sixteen columns">
+                            <h1>Libra's Horoscope <em>(Sep 23 - Oct 22)</em></h1>
+            
+            <h6 class="byline"></h6>
+        </div>
+        <div class="dh-wrapper">
+            <div class="dh-image three columns">
+                                    <a href="/libra/about-libra-horoscope-signs"><img src="https://gfx.tarot.com/images/mobile-twittascope/signs/sign-7-165x208.png" /></a>
+                
+            </div>
+            <div class="dh-copy seven columns">
+                <ul class="date-nav today clearfix">
+                    <li><a href="/?date=2019-02-22&sign=libra" class="yesterday" title="Yesterday">Yesterday</a></li>
+                    <li><a href="/?sign=libra" class="today" title="Today">Today</a></li>
+                    <li><a href="/?date=2019-02-24&sign=libra" class="tomorrow" title="Tomorrow">Tomorrow</a></li>
+                </ul>
+                <div class="dh-image-small">
+                                            <a href="/libra/about-libra-horoscope-signs"><img src="https://gfx.tarot.com/images/mobile-twittascope/signs/sign-7-165x208.png" alt="Libra" /></a>
+                    
+                </div>
+                <p><strong>Saturday, February 23, 2019</strong> - Relationships matter more than possessions in your world. A current project moves like molasses now, and you want nothing more than to see it fly. You may opt to be a bit bossier today, which could ruffle feathers in the wrong direction. Others are not likely to respond well to your insistence. You might not realize how much pressure you are placing on the situation. Step back from this scenario and ask yourself what you really want. Choose peace over progress.</p>
+                <div class="addthis-box"><script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=$pubid"></script><!-- AddThis Button BEGIN -->
+<div id='addthis-toolbox-11721654' class='addthis_toolbox addthis_default_style addthis_32x32_style ' addthis:url="http://www.twittascope.com/?sign=7">
+<a class="addthis_button_email"></a>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_compact"></a>
+<a class="addthis_counter addthis_bubble_style"></a>
+
+</div><script type="text/javascript">
+    addthis.toolbox(
+        '#addthis-toolbox-11721654',
+        {"data_track_clickback":true,"services_compact":"facebook,twitter,email,google,googlebuzz,addthis","pubid":"tarotdotcom"},
+        {"title":"Libra horoscope for Saturday, February 23, 2019","description":"Relationships matter more than possessions in your world. A current project ","templates":{"twitter":"{{url}} Relationships matter more than possessions in your world. A current project Relationships ... (via @twittascope)"},"url":"http:\/\/www.twittascope.com\/?sign=7"}
+    );
+</script>
+<!-- AddThis Button END --></div>
+                                    <a href="/signup" class="button tier1" title="Personalize Your Horoscope">Personalize Your Horoscope</a>
+                
+            </div>
+            <div class="dh-signlist ten columns">
+                <h4>Check Out the Fate of Your Buddies:</h4>
+<ul class="site-sign-list">
+            <li class="sign-item">
+            <a href="/?sign=aries" title="For Aries">
+                <div class="sign-icon sign-1"></div>
+                Aries
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=taurus" title="For Taurus">
+                <div class="sign-icon sign-2"></div>
+                Taurus
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=gemini" title="For Gemini">
+                <div class="sign-icon sign-3"></div>
+                Gemini
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=cancer" title="For Cancer">
+                <div class="sign-icon sign-4"></div>
+                Cancer
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=leo" title="For Leo">
+                <div class="sign-icon sign-5"></div>
+                Leo
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=virgo" title="For Virgo">
+                <div class="sign-icon sign-6"></div>
+                Virgo
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=libra" title="For Libra">
+                <div class="sign-icon sign-7"></div>
+                Libra
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=scorpio" title="For Scorpio">
+                <div class="sign-icon sign-8"></div>
+                Scorpio
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=sagittarius" title="For Sagittarius">
+                <div class="sign-icon sign-9"></div>
+                Sagittarius
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=capricorn" title="For Capricorn">
+                <div class="sign-icon sign-10"></div>
+                Capricorn
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=aquarius" title="For Aquarius">
+                <div class="sign-icon sign-11"></div>
+                Aquarius
+            </a>
+        </li>
+            <li class="sign-item">
+            <a href="/?sign=pisces" title="For Pisces">
+                <div class="sign-icon sign-12"></div>
+                Pisces
+            </a>
+        </li>
+    
+            <li class="sign-item">
+            <a href="/?sign=general" title="For Everyone">
+                <div class="sign-icon sign-0"></div>
+                Everyone
+            </a>
+        </li>
+    
+    <li class="sign-item">
+        <a href="#tooltip-signdates" class="tooltip" title="Don't know your sign?" data-tooltip="
+        <h4>Don't know your sign? Check your birthdate:</h4>
+        <p>
+                            <a class='dont-know-tooltip-link' href='/?sign=aries'>Aries (Mar 21 - Apr 19)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=taurus'>Taurus (Apr 20 - May 20)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=gemini'>Gemini (May 21 - Jun 20)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=cancer'>Cancer (Jun 21 - Jul 22)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=leo'>Leo (Jul 23 - Aug 22)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=virgo'>Virgo (Aug 23 - Sep 22)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=libra'>Libra (Sep 23 - Oct 22)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=scorpio'>Scorpio (Oct 23 - Nov 21)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=sagittarius'>Sagittarius (Nov 22 - Dec 21)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=capricorn'>Capricorn (Dec 22 - Jan 19)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=aquarius'>Aquarius (Jan 20 - Feb 18)</a><br />
+                <a class='dont-know-tooltip-link' href='/?sign=pisces'>Pisces (Feb 19 - Mar 20)
+            
+        </p>">
+        
+            <div class="sign-icon sign-13"></div>
+            Don't Know
+        </a>
+    </li>
+</ul>
+            </div>
+        </div>
+        <div class="six columns">
+            
+    <div class="dfp-ad" id="dfp-Rail-1-46" name="Rail-1"></div>
+    <script>
+        googletag.cmd.push(function() {
+            deployads.push(function() { deployads.gpt.display('dfp-Rail-1-46'); });
+        });
+                    
+        
+    </script>
+
+
+            
+    <div class="dfp-ad" id="dfp-Rail-2-31" name="Rail-2"></div>
+    <script>
+        googletag.cmd.push(function() {
+            deployads.push(function() { deployads.gpt.display('dfp-Rail-2-31'); });
+        });
+                    
+        
+    </script>
+
+
+        </div>
+    </div>
+            </div>
+                            <hgroup class="section-hgroup more-fun">
+    <div class="container">
+                    <h2 class="sixteen columns">Hey! More Fun Down Here!</h2>
+        
+    </div>
+</hgroup>
+<section class="section more-fun reverse">
+    <div class="container">
+        <div id="site-otd-list" class="eight columns">
+                            <h3>Daily Love Horoscope</h3>
+            
+            <div class="otd-promo love">
+                <a href="https://www.tarot.com/daily-love-horoscope/libra" target="_blank">
+                    <div class="otd-image love"></div>
+                    <div class="otd-copy">
+                                                    <h4>Libra</h4>
+                        
+                        <p>If you're being too controlling about a current romantic ...</p>
+                    </div>
+                    <div class="otd-arrow"></div>
+                </a>
+            </div>
+                            <h3>Tarot Card of the Day</h3>
+            
+            <div class="otd-promo tarot">
+                <a href="https://www.tarot.com/daily-tarot-card" target="_blank">
+                    <div class="otd-image tarot"></div>
+                    <div class="otd-copy">
+                        <h4>Page of Cups</h4>
+                        <p>This card is traditionally entitled the Page, but in ...</p>
+                    </div>
+                    <div class="otd-arrow"></div>
+                </a>
+            </div>
+                            <h3>Hexagram of the Day</h3>
+            
+            <div class="otd-promo hexagram">
+                <a href="https://www.tarot.com/daily-hexagram" target="_blank">
+                    <div class="otd-image hexagram"></div>
+                    <div class="otd-copy">
+                        <h4>19: Approach of Spring</h4>
+                        <p>It is as if spring is approaching. Good times ahead ...</p>
+                    </div>
+                    <div class="otd-arrow"></div>
+                </a>
+            </div>
+                            <h3>Number of the Day</h3>
+            
+                            <div class="otd-promo number">
+                    <a href="https://www.tarot.com/daily-number" target="_blank">
+                        <div class="otd-image number"></div>
+                        <div class="otd-copy">
+                            <h4>Your Number Awaits!</h4>
+                            <p>Sign up for FREE and get your number for today! Rock on!</p>
+                        </div>
+                        <div class="otd-arrow"></div>
+                    </a>
+                </div>
+             
+        </div>
+        <div class="eight columns">
+            <div id="psychic-bird">
+                <div class="bird-image">
+                    <img src="https://gfx.tarot.com/images/twittascope/3_0/psyche-bird-166x202.png" width="80" height="97" alt="picture of bird"/>
+                </div>
+                <div class="copy">
+                    <h2>Get Psyched!</h2>
+                    <h3>Call a live Psychic and get answers right now.</h3>
+                </div>
+                <a href="http://twittascope.oranum.com" class="button tier1" target="blank">Ask Your Free Question</a>
+            </div>
+            
+    <div class="dfp-ad" id="dfp-Rail-3-13" name="Rail-3"></div>
+    <script>
+        googletag.cmd.push(function() {
+            deployads.push(function() { deployads.gpt.display('dfp-Rail-3-13'); });
+        });
+                    
+        
+    </script>
+
+
+        </div>
+    </div>
+</section>
+
+            
+            <footer id="site-footer" class="reverse">
+    
+    <div class="dfp-ad" id="dfp-Bottom-92" name="Bottom"></div>
+    <script>
+        googletag.cmd.push(function() {
+            deployads.push(function() { deployads.gpt.display('dfp-Bottom-92'); });
+        });
+                    
+        
+    </script>
+
+
+
+
+    <nav class="site-nav">
+        <div class="container">
+            <ul class="site-nav-list">
+    <li class="horoscopes"><a href="/" title="Horoscopes">Horoscopes</a></li>
+    <li class="more-fun"><a href="/more-fun/love-compatibility" title="Compatibility">Compatibility</a></li>
+    <li class="psychics"><a href="http://twittascope.oranum.com" target="_blank" title="Psychics">Psychics</a></li>
+    <li class="account"><a href="/account" title="Account">Account</a></li>
+    <li class="about-us"><a href="/about-us" title="About Us">About Us</a></li>
+            <li class="login"><a href="/account/authenticate" id="site-login" title="Login">Login</a></li>
+    
+</ul>
+
+        </div>
+    </nav>
+    <div class="footer-copyright">
+        <div class="container">
+            <h2>Twittascope</h2>
+            <p>&copy; Copyright 2019 Zappallas USA. All Rights Reserved.</p>
+            <p>
+                <a href="https://www.tarot.com/contact-us" target="_blank">Contact Us</a> |
+                <a href="https://www.tarot.com/privacy-policy" target="_blank">Privacy Policy</a> |
+                <a href="http://zappallas-usa.com/advertisers/#ad-contact" target="_blank">Advertise With Us</a>
+                <span class="sortable-consent" style="display:none">
+                    | <a href="javascript:window.deployads.showConsentTool()">Your Privacy Settings</a>
+                </span>
+            </p>
+        </div>
+    </div>
+    <div class="footer-diglinks">
+        <div class="container">
+            <h2>Visit Our Sister Sites</h2>
+            <p class="text-links">
+                <a href="https://www.tarot.com/" title="Tarot.com" target="_blank">Tarot.com</a> |
+                <a href="https://www.dailyhoroscope.com/" title="DailyHoroscope.com" target="_blank">DailyHoroscope.com</a> |
+                <a href="https://www.numerology.com/" title="Numerology.com" target="_blank">Numerology.com</a><br /> |
+            </p>
+            <ul class="img-links">
+                <li>
+                    <a href="https://www.tarot.com/" title="Tarot.com" target="_blank">
+                        <div class="icon tarot"></div>
+                        <span>Tarot.com</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.dailyhoroscope.com/" title="DailyHoroscope.com" target="_blank">
+                        <div class="icon dailyhoroscope"></div>
+                        <span>DailyHoroscope.com</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.numerology.com/" title="Numerology.com" target="_blank">
+                        <div class="icon numerology"></div>
+                        <span>Numerology.com</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-mobile">
+        <div class="mobile">
+            <a href="http://m.twittascope.com/?nomobi=false" class="mobile">Visit our mobile site</a>
+        </div>
+    </div>
+</footer>
+
+        </div>
+
+        
+
+
+
+        <script src="/js/ga-tracking-events.js"></script>
+
+        
+
+        <script src="http://creatives.oranum.com/flash/flashPluginHelper.js" async></script>
+
+        <script type="text/javascript" src="//b-code.liadm.com/a-00cj.min.js" async="true" charset="utf-8"></script>
+
+        
+    </body>
+</html>

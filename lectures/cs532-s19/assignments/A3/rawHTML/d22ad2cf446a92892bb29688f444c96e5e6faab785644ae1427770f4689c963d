@@ -1,0 +1,3524 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en">
+<head>
+	<title>
+		Girl Landing Page | Girl Scouts Site US
+	</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<style id="antiClickjack">body{display:none;}</style>
+<script type="text/javascript">
+	if (self === top) {
+		var antiClickjack = document.getElementById("antiClickjack");antiClickjack.parentNode.removeChild(antiClickjack);
+	} else {
+		top.location = self.location;
+	}
+</script>
+
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta http-equiv="Cache-control" content="no-cache" />
+	<meta http-equiv="Expires" content="tue, 01 Jun 2010 19:45:00 GMT" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta property="og:title"  content="Order your Faves on my Digital Cookie Site Today" />
+	<meta property="og:description" content="That's right! You can order your favorite Girl Scout Cookies from me online, all while helping my troop and I do great things in our community and beyond! Check it out." />
+	<meta property="og:image" content="http://www.girlscouts.org/includes/cookie/digital_cookie/DC_social-media.jpg" />
+	<meta property="og:image:secure_url" content="https://digitalcookie.girlscouts.org/_ui/desktop/common/img/gs-cookie-program.png" />
+	
+	<link rel="stylesheet" href="/_ui/desktop/common/css/opensans.css">
+        <link rel="stylesheet" href="/_ui/desktop/common/css/checkout/jquery-ui-1.10.4.custom.min.css">
+        <link rel="stylesheet" href="/_ui/desktop/common/css/jquery-ui.icons.min.css" type="text/css" />
+        <link rel="stylesheet" href="/_ui/desktop/common/css/checkout/normalize.min.css">
+        <link rel="stylesheet" href="/_ui/desktop/common/css/checkout/main.min.css">
+         <link rel="stylesheet" href="/_ui/desktop/common/css/ge.min.css"/>
+        <link rel="stylesheet" href="/_ui/desktop/common/css/checkout/firefox.min.css">
+        <link rel="stylesheet" href="/_ui/desktop/common/css/checkout/tablet.min.css">
+        <link rel="stylesheet" href="/_ui/desktop/common/css/checkout/mobile.min.css">
+        <link rel="stylesheet" href="/_ui/desktop/common/css/checkout/faq.min.css">
+        <link rel="stylesheet" href="/_ui/desktop/common/css/magnific.min.css">
+        
+        <!--[if IE]>        
+           <link rel="stylesheet" href="/_ui/desktop/common/css/checkout/ie.min.css">   
+         <![endif]-->
+        <link rel="stylesheet" type="text/css" href="/_ui/desktop/common/css/checkout/1.4.1/slick.css" />
+    
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="/_ui/desktop/common/css/ie.css" />
+	<![endif]-->
+	
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" integrity="sha384-Pn+PczAsODRZ2PiGg0IheRROpP7lXO1NTIjiPo6cca8TliBvaeil42fobhzvZd74" crossorigin="anonymous"></script>
+<script> window.jQuery || document.write('<script src="/_ui/desktop/common/js/jquery-1.10.2.min.js"><\/script>'); </script>
+<script type="text/javascript"  src="/_ui/desktop/common/js/slick.min.js"></script>
+        <script type="text/javascript" src="/_ui/desktop/common/js/checkout/vendor/jquery-ui-1.10.4.min.js"></script>
+        <script src="/_ui/desktop/common/js/checkout/plugins.min.js"></script>
+        <script  src="/_ui/desktop/common/js/checkout/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+        <script type="text/javascript"  src="/_ui/desktop/common/js/checkout/jquery.creditCardValidator.min.js"></script>
+        <script type="text/javascript"  src="/_ui/desktop/common/js/checkout/jquery.simulate.js"></script>
+        <script type="text/javascript"  src="/_ui/desktop/common/js/jquery.validate.min.js"></script>
+		<script type="text/javascript"  src="/_ui/desktop/common/js/plugins.min.js"></script>
+		<script type="text/javascript"  src="/_ui/desktop/common/js/tab.min.js"></script>
+		<script type="text/javascript"  src="/_ui/desktop/common/js/modernizr-2.6.2.min.js"></script>
+		<script type="text/javascript"  src="/_ui/desktop/common/js/gsa.min.js"></script>
+		<script type="text/javascript"  src="/_ui/desktop/common/js/jquery.jscrollpane.min.js"></script>
+		<script type="text/javascript"  src="/_ui/desktop/common/js/jquery.mousewheel.min.js"></script>
+ 		<script type="text/javascript"  src="/_ui/desktop/common/js/jquery.blockUI.min.js"></script>
+		<script type="text/javascript"  src="/_ui/desktop/common/js/bootstrap-multiselect.min.js"></script>
+		<script type="text/javascript"  src="/_ui/desktop/common/js/globalize.min.js"></script>
+		<script type="text/javascript"  src="/_ui/desktop/common/js/jquery.tooltipster.min.js"></script>
+		<script type="text/javascript"  src="/_ui/desktop/common/js/jquery.cookie.min.js"></script>
+        <script type="text/javascript" src="/_ui/desktop/common/js/magnific.min.js"></script>
+        <script type="text/javascript" src="/_ui/desktop/common/js/checkout/gsa.checkout.js"></script>
+        <script type="text/javascript" src="/_ui/desktop/common/js/jquery.mask.min.js"></script>
+	<script>
+		var $buoop = { vs: { i: 10, f: -4, s: 10, c: -4 }, reminder: 0 };            
+            function $buo_f()
+            {
+                var e = document.createElement("script");
+                e.src = "//browser-update.org/update.js";
+                document.body.appendChild(e);
+            };
+            try { document.addEventListener("DOMContentLoaded", $buo_f, false) }
+            catch (e) { window.attachEvent("onload", $buo_f) }
+            
+            
+        </script>
+       
+
+<!-- GSA Custom JS for global CSRF protection -->
+<script type="text/javascript">
+    
+    var SYNCHRONIZER_TOKEN_KEY = '_requestConfirmationToken';
+    var SYNCHRONIZER_TOKEN_VALUE = '06459b3959d909427837713d1dfc3e76f1eb4434';
+</script>
+<script type="text/javascript" src="/_ui/desktop/common/js/gsa.ajaxPostPreFilter.js"></script>
+
+	
+
+		
+	
+	
+	
+    <link rel="shortcut icon" type="image/x-icon" media="all" href="/_ui/desktop/common/img/favicon.ico" />
+
+	
+	
+		
+    <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+   
+     ga('create', 'UA-2646810-31', 'auto');
+     ga('send', 'pageview');
+   
+</script>
+   
+
+    	
+   	
+</head>
+<body class="page-girlLandingPage pageType-ContentPage template-pages-layout-checkoutPageTemplate pageLabel--landingpage  language-en">
+   <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T85KSW"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T85KSW');</script>
+<!-- End Google Tag Manager -->
+
+   <div id="bodyWrapper">
+	<!--begin header content here -->
+	<style>
+    @media only screen and (min-width: 640px) and (max-width: 959px) {
+        .header-wrapper{
+            -webkit-box-orient:horizontal;
+            -webkit-box-direction:normal;
+            -ms-flex-flow:row wrap;
+            flex-flow:row wrap;
+        }
+
+        .header-urls {
+            -webkit-box-ordinal-group:0;
+            -ms-flex-order:-1;
+            order:-1;
+            padding: 0 0 10px 0;
+            width: 100%;
+        }
+    }
+</style>
+
+<script type="text/javascript">
+			$("html").addClass("consumer");
+		</script>
+	<div class="ge-header-container">
+					<header class="container_24 clearfix padding_20T">
+						<!--div class="textRight">
+							<p id="headerUrls">
+							</p>
+						</div-->
+						<div class="grid_12">
+							<p class="margin_0 floatleft">
+								<img src="/medias/GS-ORswWA-servicemark.png?context=bWFzdGVyfHJvb3R8NTI5NHxpbWFnZS9wbmd8aGM3L2g0ZS84OTEwMDg2MDEyOTU4LnBuZ3xlN2I3NzczYTc4NTRlMDAwMjJlOGZhODQ3OGQzNjg2MDQ1MDc4OTQ1ZTQ3ZGI1OGQ5YjI1ZGJlZDU5NjhjNGRj" alt="Logo" id="logo"
+									class="img-responsive" />
+							</p>
+						</div>
+						<div class="grid_12">
+							<p class="margin_0 floatright">
+								<img src="/_ui/desktop/common/img/gs-cookie-program.png"
+									alt="eCookie Digital Order Card" class="img-responsive" />
+							</p>
+						</div>
+					</header>
+				</div>
+			<script type="text/javascript">
+	checkWidth();
+</script><!--end  header content here -->
+	<div class="main-background">
+		<div class="main-container">
+		<!-- main content tag -->
+		<!-- begin main content here -->
+			<div class="main container_24 clearfix">
+				<!-- begin mainRow content here -->
+					<!--Girl Cookie Section with progress bar-->
+	<div class="grid_24 whiteBackGround margin_20B">
+		<div id="girlInfoWrapper">
+
+			<div class="width_680px girlInfo whiteBackGround">
+				<div class="padding_40T padding_40L">
+					<p id="girlName" class="openSansReg_32 margin_0">
+						Welcome to Agatha&#39;s Cookie World</p>
+					<div class="clear"></div>
+					<div class="padding_30T padding_20B">
+						<div>
+						<a class="getVideo" href="#openVideo" id="displayVideo">
+								<img id="videoImage"
+								src="/_ui/desktop/common/img/play-my-cookie-video.jpg"
+								class="floatleft margin_10R margin_10B" alt="Girl Image" />
+							</a> 
+							<input id="imageVideo" type="hidden" style="display: none" name="imageVideo" value="video" />
+						<p class="openSansExtraBold_20Black margin_0">My
+								Cookie Story</p>
+							<p id="cookieEarnings" class="padding_15T margin_0 dontWrap openSansReg_14Black">
+										With the money we make selling cookies, my troop will go to the swimming pool, go rollerskating and go to Camporee. We will also help Meals on Wheels and donate to animal rescue charities. </p>
+								<p id="cookieLearnings" class="padding_15T margin_0 dontWrap openSansReg_14Black">
+										This is my very first time selling cookies. I will also work at a booth. </p>
+								</div>
+					</div>
+				</div>
+				<div id="openVideo" class="modalDialog mfp-hide">
+					<div>
+						<div class="modalMainContent">
+							<div class="modalHeader padding_20L padding_20R padding_30B">
+								<button title="Close (Esc)" type="button" class="mfp-close">   </button>
+							</div>
+							<div class="clearfix"></div>
+							<div class="modalContent padding_20L padding_20R">
+								<div id="mainVideo">
+									<iframe
+										src="https://player.vimeo.com/video/317383530?title=0&amp;byline=0&amp;portrait=0"
+										width="680" height="382" frameborder="0" webkitallowfullscreen
+										mozallowfullscreen allowfullscreen> </iframe>
+								</div>
+								<div id="tabletVideo">
+									<iframe
+										src="https://player.vimeo.com/video/317383530?title=0&amp;byline=0&amp;portrait=0"
+										width="540" height="303" frameborder="0" webkitallowfullscreen
+										mozallowfullscreen allowfullscreen> </iframe>
+								</div>
+								<div id="mobileVideo">
+									<iframe
+										src="https://player.vimeo.com/video/317383530?title=0&amp;byline=0&amp;portrait=0"
+										width="240" height="135" frameborder="0" webkitallowfullscreen
+										mozallowfullscreen allowfullscreen> </iframe>
+								</div>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				</div>
+			<div class="mobile_girlInfo margin_20B">
+				<div class="padding_10T padding_10L padding_10R">
+					<div class="div_img">
+							<a class="getVideo" href="#openVideo" id="mobile_displayVideo"> 
+						<img src="/_ui/desktop/common/img/play-my-cookie-video.jpg"
+							class="floatleft margin_10R margin_10B" alt="Girl Image" />
+						</a>
+						<p class="openSansReg_32 margin_0 paddingTop-mobile">
+							<span id="girlName_320">Agatha's</span> <br> Cookie
+							World
+						</p>
+					</div>
+					<div class="clear"></div>
+					<div class="padding_10T">
+						<div class="bigtext">
+							<p id="mobile_cookieEarnings_320"
+										class="margin_0 dontWrap openSansReg_14Black">With the money we make selling cookies, my troop will go to the swimming pool, go rollerskating and go to Camporee. We will also help Meals on Wheels and donate to animal rescue charities. </p>
+								<p id="mobile_cookieLearnings"
+										class="padding_10T margin_0 dontWrap openSansReg_14Black">This is my very first time selling cookies. I will also work at a booth. </p>
+								</div>
+						<p class="margin_0 expand openSansReg_14Green">read more &gt;</p>
+						<p class="margin_0 contract hide openSansReg_14Green">show
+							less &gt;</p>
+					</div>
+				</div>
+			</div>
+			
+			
+			
+		<!--  scout Goal Progress -->		
+	<!--  end div -->			
+<!--  end div -->		
+			
+			
+<script type="text/javascript">
+	$(document).ready(function() {
+		var height = screen.height;
+		var width = screen.width;
+		if (width >= 320 && width <= 768) {			
+			$("#displayVideo iframe").attr("width", "301");
+			$("#displayVideo iframe").attr("height", "169");
+		}
+	});
+	$('.getVideo, .getShippingAdjust').magnificPopup({
+		type: 'inline',
+		alignTop: false,
+		overflowY: 'scroll',
+		closeOnContentClick: false,
+		closeOnBgClick: false
+	});
+	$("#approve").click(function() {
+		var goalMsg = $('#goalErrorMsg').val();
+		var lessonMsg = $('#lessonErrorMsg').val();
+		if (goalMsg.length > 0 || lessonMsg.length > 0) {
+			$('#goalPreview').html($('#goalPreviewErrorMsg').html());
+			$('#goalPreview').show();
+			return false;
+		} else {
+			$("#girlGoalApproveForm").submit();
+			return true;
+		}
+	})
+</script><div class="width_260px girlInfo whiteBackGround padding_20B">
+	<div id="div_girlGoal" class="margin_10T padding_20L padding_20R">
+		<div class="lightGrayBackGround">
+			<div class="col-inline width-60">
+                <p class="margin_20T openSansExtraBold_14Black">Help Me <br>Reach <br>My Goal</p>
+                <p id="girlGoal" class="margin_20T">
+                    <img id="goalArrow" src="/_ui/desktop/common/img/pink_illus_arrow.png" alt="arrow" />
+                    <span class="openSansReg_28 openSansReg_23_Tablet">28</span>
+                        <br> <span class="openSansReg_13Black openSansReg_12Black_Tablet">boxes left to go!</span>
+                </p>
+                <p class="padding_40T margin_20B openSansReg_13Black openSansReg_12Black_Tablet">Thanks for your support!</p>
+			</div>
+			<div class="col-inline width-40">
+				<div class="parent">
+					<div id="myGoals"></div>
+					<div class="child">
+						<img src="/_ui/desktop/common/img/Goal_fill_scribble_1.png"
+							alt="Cookie Progress" />
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+
+<div class="mobile_girlInfo margin_20B">
+	<div id="mobile_div_girlGoal" class="margin_10T padding_20L padding_20R">
+		<div class="lightGrayBackGround">
+			<div class="divLeft_60">
+				<div class="margin_20L">
+					<p>
+						<span class="openSansExtraBold_14Black">Help Me Reach My Goal</span>
+						<div class="clearfix"></div> 
+						<span id="girlGoal_320" class="margin_20L openSansReg_14Black"> 28 boxes left to go!</span>
+					</p>
+				</div>
+			</div>
+			<div class="divRight_40">
+				<div class="parent">
+					<div id="mobile_myGoals"></div>
+					<div class="mobile_Child">
+						<img src="/_ui/desktop/common/img/mobile/goal-meter_mobile.png" alt="Cookie Progress" />
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</div>
+
+</div>
+</div>
+<div id="cookiegoal" style="display: none">40</div>
+<div id="cookiePackagesSold" style="display: none">12</div>
+<div id="cookedToAchieveGoal" style="display: none">28</div>
+
+<script>
+;(function(){
+    var numBoxes = parseInt($('span.openSansReg_28').html(), 10);
+
+    if(numBoxes > 9999 && numBoxes < 99999){
+    $('#goalArrow').attr('style', 'margin-top: -8px');
+        $('span.openSansReg_28').attr('style', 'font-size: 25px');
+    }else if(numBoxes > 99999){
+        $('#goalArrow').attr('style', 'margin-top: -5px');
+        $('span.openSansReg_28').attr('style', 'font-size: 20px');
+    }
+
+    if(window.innerWidth < 959 && numBoxes < 9999){
+        $('#goalArrow').attr('style', 'margin-top: 5px; display: block; float: left; padding-right: 3px;');
+        $('span.openSansReg_28').attr('style', 'font-size: 20px');
+    }
+
+    $(window).on('resize', function(e){
+        e.preventDefault();
+        if(window.innerWidth < 959 && numBoxes < 9999){
+            $('#goalArrow').attr('style', 'margin-top: 5px; display: block; float: left; padding-right: 3px;');
+            $('span.openSansReg_28').attr('style', 'font-size: 20px');
+        }else if(numBoxes > 99999){
+            $('#goalArrow').attr('style', 'margin-top: -5px');
+            $('span.openSansReg_28').attr('style', 'font-size: 20px');
+        }else{
+            $('span.openSansReg_28').attr('style', 'font-size: 25px');
+        }
+    })
+})()
+</script>
+<!-- begin center content here -->
+					<div id="outerOrderForm" class="container_24">
+				
+						<!-- Pop-up window -->
+	<div id="modals">
+	<script>
+	    var cookieIMgsArray = [];
+        var i = 0;
+	</script>
+	
+
+
+
+
+
+
+
+	
+	<script>
+	    var imgList = {
+                imageURl:"/medias/dsd-main.png?context=bWFzdGVyfHJvb3R8ODg3NTV8aW1hZ2UvcG5nfGgxNS9oNGEvOTExNzg2MDcyNDc2Ni5wbmd8YmYxNjM3ZTUxNmJmN2ZlOWUxNGNlY2NiMmYyZGZlMmQzNDQyZmVmZWU3OTE1YmNmODBiNTE3YWZmNjQxMTJkOA",
+                imageURlNut:"/medias/dsd-nutrition.png?context=bWFzdGVyfHJvb3R8MTUyNzY5fGltYWdlL3BuZ3xoYTgvaGIxLzkxMTc5NDIwNTQ5NDIucG5nfDQxYWJhNTYzZjI3ZjRhNTY0Y2ZmNjVjODZlNjI2Y2EyMDEzYzBlMWFlMDQ3ZWE1Yjg0MTA5ODgxYWY0N2EwOTc",
+                imageURlDet:"/medias/dsd-detail.png?context=bWFzdGVyfHJvb3R8MTE2MzIzfGltYWdlL3BuZ3xoMWIvaDEzLzkxMTc4NjA4MjMwNzAucG5nfDU0YjY4OTU2NjY4Nzg5NjBiZjZmYTM5NGRmZTJmZjg1YmYwMmUyNjE4MTc4MTFiNWZkOTAyYzVjZDFlOTZjZDg",
+                id:"dsd"
+	    }
+
+	    cookieIMgsArray.push(imgList);
+	</script>
+	<div id="opendsd" class="modalDialog mfp-hide">
+		<div>
+			<div class="modalMainContent">
+				<div class="clearfix"></div>
+				<div class="modalHeader">
+					<button title="Close (Esc)" type="button" class="mfp-close">
+					</button>
+					<p class="openSansReg_32">
+						
+							
+							
+								All about Do-si-dos<sup>&reg;</sup>
+							
+						
+					</p>
+				</div>
+				
+				<div class="clearfix"></div>
+				<div class="modalContent">
+					<div class="clearfix"></div>
+					<div class="leftContent floatleft width_60P padding_20B">
+						<span class="cookieImgWrapper"></span> <br />
+						<p class="openSansReg_20 margin_20R">
+						These sandwich cookies give you crisp and crunchy oatmeal on the outside and a creamy peanut butter filling inside. But they're more than just tasty&mdash;they're a lesson in goal setting for the girl who sells them to you. She learns how to organize the cookie sale, set goals, and work hard&mdash;all skills she'll need in the future.<br/>
+						<span class="openSansReg_11Black">Manufactured for Little Brownie Bakers.</span>
+						</p>
+						    <div>
+						        
+                               
+						        <span class="cookieDetPlaceholder"> </span>
+						    </div>
+						</div>
+
+					<div class="rightContent floatright width_40P">
+					    <span class="cookieNutritionPlaceholder"></span>
+					</div>
+					<div id="nutritional_logo">
+						   <img src="/_ui/desktop/common/img/modals/LBB_logo.png" alt="Little Brownie" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           <img
+                               src="/_ui/desktop/common/img/modals/noHFCS_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/HydrogenatedBanner_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/0gTransFat_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                            <img
+                               src="/_ui/desktop/common/img/modals/RSPO_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+
+                        </div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+
+	
+	<script>
+	    var imgList = {
+                imageURl:"/medias/sam-main.png?context=bWFzdGVyfHJvb3R8MTIyNDc1fGltYWdlL3BuZ3xoOGEvaGFkLzkxMTc4NjA4ODg2MDYucG5nfDI1YjQ1ZTJjYTcyY2EwZjYxNjlmNGI2YmIwYTM0MGUyYTNlOGFiNzQ3YzMxNmU3YWUxYTkzMGQ3N2YwM2E3ODI",
+                imageURlNut:"/medias/sam-nutrition.png?context=bWFzdGVyfHJvb3R8MTc2MDU5fGltYWdlL3BuZ3xoODQvaDQzLzkxMTc5NDIwODc3MTAucG5nfDdkMzc2N2I0MjNmY2FlNzIzZjg4NmEwZDI3NWQ5MTIwMmNmZTdmZDRmNDlkM2RjNjRiNjk4NGJlZTFmYWI1NWU",
+                imageURlDet:"/medias/sam-detail.png?context=bWFzdGVyfHJvb3R8MTA0OTg3fGltYWdlL3BuZ3xoYTkvaGRiLzkxMTc4NjA5ODY5MTAucG5nfDZjYjhkY2Y1N2Y2ZjQ0OWJlNjhhY2EwNjRlZDE5Nzk2ZTQwNmU0NGI3MDUxODZjYzNjZTJmZGJjMGI0NWRhODA",
+                id:"sam"
+	    }
+
+	    cookieIMgsArray.push(imgList);
+	</script>
+	<div id="opensam" class="modalDialog mfp-hide">
+		<div>
+			<div class="modalMainContent">
+				<div class="clearfix"></div>
+				<div class="modalHeader">
+					<button title="Close (Esc)" type="button" class="mfp-close">
+					</button>
+					<p class="openSansReg_32">
+						
+							
+							
+								All about Samoas<sup>&reg;</sup>
+							
+						
+					</p>
+				</div>
+				
+				<div class="clearfix"></div>
+				<div class="modalContent">
+					<div class="clearfix"></div>
+					<div class="leftContent floatleft width_60P padding_20B">
+						<span class="cookieImgWrapper"></span> <br />
+						<p class="openSansReg_20 margin_20R">
+						A tasty treat isn't all that's involved with a box of our caramel and toasted coconut-covered cookies with dark chocolaty stripes. Through interaction with each customer and other Girl Scouts, a girl learns the importance of keeping her word, doing the right thing, and being fair. A girl learns the business ethics that will serve her throughout life.<br/>
+						<span class="openSansReg_11Black">Manufactured for Little Brownie Bakers.</span>
+						</p>
+						    <div>
+						        
+                               
+						        <span class="cookieDetPlaceholder"> </span>
+						    </div>
+						</div>
+
+					<div class="rightContent floatright width_40P">
+					    <span class="cookieNutritionPlaceholder"></span>
+					</div>
+					<div id="nutritional_logo">
+						   <img src="/_ui/desktop/common/img/modals/LBB_logo.png" alt="Little Brownie" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           <img
+                               src="/_ui/desktop/common/img/modals/noHFCS_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/0gTransFat_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                            <img
+                               src="/_ui/desktop/common/img/modals/RSPO_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+
+                        </div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+
+	
+	<script>
+	    var imgList = {
+                imageURl:"/medias/svsm-main.png?context=bWFzdGVyfHJvb3R8MTA2NTE0fGltYWdlL3BuZ3xoZDIvaGE1LzkxMTc4NjA1MjgxNTgucG5nfDQwNjI5OGU1NDE4OTVhMGE0N2UxNTQ3N2VhYTdkNzc0MjMxMzNjOWEwMzdmZmJlMDA4YWQ5NTlhMzk2OTQ4MzI",
+                imageURlNut:"/medias/svsm-nutrition.png?context=bWFzdGVyfHJvb3R8MTc0NTI0fGltYWdlL3BuZ3xoODAvaDI0LzkxMTc5NDIxMjA0NzgucG5nfGQ2NDE3MmEwODI5ZmNhNDExNDg0YjU1YmI3Y2FhNzVlYmVkYTMzNGNlNGE0YjgwZmU1YzgxZWQzMWFlYjU3MGI",
+                imageURlDet:"/medias/svsm-detail.png?context=bWFzdGVyfHJvb3R8MTI3MzAzfGltYWdlL3BuZ3xoMDYvaDJmLzkxMTc4NjA2MjY0NjIucG5nfDhmYTIzMjRmZjhiMDg1MWIxY2Q2YjE5ZTA4Nzk3MzBkMzc3ZWU1M2Q2Njg3MThiMjBlNjljNjllMWQ3ZmY3NzQ",
+                id:"svsm"
+	    }
+
+	    cookieIMgsArray.push(imgList);
+	</script>
+	<div id="opensvsm" class="modalDialog mfp-hide">
+		<div>
+			<div class="modalMainContent">
+				<div class="clearfix"></div>
+				<div class="modalHeader">
+					<button title="Close (Esc)" type="button" class="mfp-close">
+					</button>
+					<p class="openSansReg_32">
+						
+							
+							
+								All about Savannah Smiles<sup>&reg;</sup>
+							
+						
+					</p>
+				</div>
+				
+				<div class="clearfix"></div>
+				<div class="modalContent">
+					<div class="clearfix"></div>
+					<div class="leftContent floatleft width_60P padding_20B">
+						<span class="cookieImgWrapper"></span> <br />
+						<p class="openSansReg_20 margin_20R">
+						When you buy our zesty, lemon-flavored cookies dusted with powdered sugar, you're helping a girl learn to manage money, set goals, and work as part of a team. Thank you!<br/>
+						<span class="openSansReg_11Black">Manufactured for Little Brownie Bakers.</span>
+						</p>
+						    <div>
+						        
+                               
+						        <span class="cookieDetPlaceholder"> </span>
+						    </div>
+						</div>
+
+					<div class="rightContent floatright width_40P">
+					    <span class="cookieNutritionPlaceholder"></span>
+					</div>
+					<div id="nutritional_logo">
+						   <img src="/_ui/desktop/common/img/modals/LBB_logo.png" alt="Little Brownie" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           <img
+                               src="/_ui/desktop/common/img/modals/noHFCS_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/HydrogenatedBanner_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/0gTransFat_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                            <img
+                               src="/_ui/desktop/common/img/modals/RSPO_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+
+                        </div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+
+	
+	<script>
+	    var imgList = {
+                imageURl:"/medias/smores-main.png?context=bWFzdGVyfHJvb3R8MTAwNDYxfGltYWdlL3BuZ3xoNGYvaDMxLzkxMTc4NjE5Njk5NTAucG5nfDk0NTU1MjRjMDdkOWRkNTc3MTBhYmJkMzQwYTllZDc3M2ZlOGQxYmMzZDAxNzlkNWIyZTQxZjA5NmY3MWM0OWU",
+                imageURlNut:"/medias/smores-nutrition-label.png?context=bWFzdGVyfHJvb3R8MTY3NzUyfGltYWdlL3BuZ3xoNTIvaGU2LzkxMTc5NDIxNTMyNDYucG5nfGJiMDk3YjA2OTdlYWJmYzE0OGQwYWIyMzQ0NDRjYTA4NWU3YjBmZWE4ZTBlNzQ4ZTFlZjg0MWRkYjk2MjkyYTI",
+                imageURlDet:"/medias/smores-detail.png?context=bWFzdGVyfHJvb3R8MTg2NjcxfGltYWdlL3BuZ3xoNjQvaDcyLzkxMTc5NDExMDQ2NzAucG5nfGVjODQyYzNkYzAwYWNjNGFiMmY3ZWI0NjViZWI5ZDlmN2UxZTU5NWVlOWEzMzg0MjcyZmYxOGIwNDRiODhkYWQ",
+                id:"smores"
+	    }
+
+	    cookieIMgsArray.push(imgList);
+	</script>
+	<div id="opensmores" class="modalDialog mfp-hide">
+		<div>
+			<div class="modalMainContent">
+				<div class="clearfix"></div>
+				<div class="modalHeader">
+					<button title="Close (Esc)" type="button" class="mfp-close">
+					</button>
+					<p class="openSansReg_32">
+						
+							
+								All about Girl Scout S'mores<sup>&trade;</sup>
+							
+							
+						
+					</p>
+				</div>
+				
+				<div class="clearfix"></div>
+				<div class="modalContent">
+					<div class="clearfix"></div>
+					<div class="leftContent floatleft width_60P padding_20B">
+						<span class="cookieImgWrapper"></span> <br />
+						<p class="openSansReg_20 margin_20R">
+						Our new crunchy graham sandwich cookies with creamy chocolate and marshmallowy filling (YUM!) are one more delicious way to support her next adventure!<br/>
+						<span class="openSansReg_11Black">Manufactured for Little Brownie Bakers.</span>
+						</p>
+						    <div>
+						        
+                               
+						        <span class="cookieDetPlaceholder"> </span>
+						    </div>
+						</div>
+
+					<div class="rightContent floatright width_40P">
+					    <span class="cookieNutritionPlaceholder"></span>
+					</div>
+					<div id="nutritional_logo">
+						   <img src="/_ui/desktop/common/img/modals/LBB_logo.png" alt="Little Brownie" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           <img
+                               src="/_ui/desktop/common/img/modals/noHFCS_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/HydrogenatedBanner_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/0gTransFat_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                            <img
+                               src="/_ui/desktop/common/img/modals/RSPO_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+
+                        </div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+
+	
+	<script>
+	    var imgList = {
+                imageURl:"/medias/tag-main.png?context=bWFzdGVyfHJvb3R8ODQ5MjV8aW1hZ2UvcG5nfGhjOC9oMDMvOTExNzg2MTAxOTY3OC5wbmd8MmM1NjgwMmE3M2M4MTAxMzk5NTQzNmVjOGMxNzU0Y2QyY2IzNGJmMmQ3YzdlOTZlNmExNDgyMzI2M2ZiM2JhZg",
+                imageURlNut:"/medias/tag-nutrition.png?context=bWFzdGVyfHJvb3R8MTc5ODE4fGltYWdlL3BuZ3xoOWEvaDU0LzkxMTc5NDIwMjIxNzQucG5nfGE0MTNlNjBhZTViZWY1M2NmMTE0MmJkM2I5MTNmMzcxZTM0YWE1Mzg0ODI4ZjMxZjQ0MWU0NGNiM2YzYWQ5ZGE",
+                imageURlDet:"/medias/tag-detail.png?context=bWFzdGVyfHJvb3R8MTIzMDM3fGltYWdlL3BuZ3xoNDQvaGFiLzkxMTc4NjExODM1MTgucG5nfGE1MzI1YmQ5Njg5ZWNhZmFkOWZmYWYyNjkwOTY0MzlkMmIzY2QwNWVhNDljYTQ4Mzk4ZjlkZmNjYmFiZjExZWY",
+                id:"tag"
+	    }
+
+	    cookieIMgsArray.push(imgList);
+	</script>
+	<div id="opentag" class="modalDialog mfp-hide">
+		<div>
+			<div class="modalMainContent">
+				<div class="clearfix"></div>
+				<div class="modalHeader">
+					<button title="Close (Esc)" type="button" class="mfp-close">
+					</button>
+					<p class="openSansReg_32">
+						
+							
+							
+								All about Tagalongs<sup>&reg;</sup>
+							
+						
+					</p>
+				</div>
+				
+				<div class="clearfix"></div>
+				<div class="modalContent">
+					<div class="clearfix"></div>
+					<div class="leftContent floatleft width_60P padding_20B">
+						<span class="cookieImgWrapper"></span> <br />
+						<p class="openSansReg_20 margin_20R">
+						These cookies, a layer of peanut butter coated with a rich chocolaty coating, are mouth-watering treats. But did you know that every box a girl sells helps her learn decision making? She makes a plan, solves problems on her own, and thinks creatively&mdash;skills she needs to be successful, now and in the future.<br/>
+						<span class="openSansReg_11Black">Manufactured for Little Brownie Bakers.</span>
+						</p>
+						    <div>
+						        
+                               
+						        <span class="cookieDetPlaceholder"> </span>
+						    </div>
+						</div>
+
+					<div class="rightContent floatright width_40P">
+					    <span class="cookieNutritionPlaceholder"></span>
+					</div>
+					<div id="nutritional_logo">
+						   <img src="/_ui/desktop/common/img/modals/LBB_logo.png" alt="Little Brownie" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           <img
+                               src="/_ui/desktop/common/img/modals/noHFCS_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/0gTransFat_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                            <img
+                               src="/_ui/desktop/common/img/modals/RSPO_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+
+                        </div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+
+	
+	<script>
+	    var imgList = {
+                imageURl:"/medias/tmint-main.png?context=bWFzdGVyfHJvb3R8ODA1NDJ8aW1hZ2UvcG5nfGg1OS9oM2UvOTExNzg2MTIxNjI4Ni5wbmd8N2Y4ODNkYWQ4Y2M5NzA0OTZmMzA1NjUxYjY2NDZjZjI0MDk0OTg3NjNjYmMwMWE4ZjkzYzZiMzdkZjQ3ZTkyYQ",
+                imageURlNut:"/medias/tmint-nutrition.png?context=bWFzdGVyfHJvb3R8MTY3MTM3fGltYWdlL3BuZ3xoM2EvaDFmLzkxMTc5NDE5ODk0MDYucG5nfDk4NjU1ODdiZTQxZjY5ZWI3NmNhMTdhMzFkNjVmNDNhYjg0NDcxMDk0NGI1NDRjMTFlMmIxOGQ4OGRiZDA3YzA",
+                imageURlDet:"/medias/tmint-detail.png?context=bWFzdGVyfHJvb3R8MTMxNTQ0fGltYWdlL3BuZ3xoMjUvaGI1LzkxMTc4NjEzMTQ1OTAucG5nfDM0ZmJlNjdiYWI3NzE1YTFiNjViZDJhMmU0YzlkOTQ3NWQ2YzM4MGQ1OGRmYTI5ZTJjYjY2MTVjYjNmZDQxNTA",
+                id:"tmint"
+	    }
+
+	    cookieIMgsArray.push(imgList);
+	</script>
+	<div id="opentmint" class="modalDialog mfp-hide">
+		<div>
+			<div class="modalMainContent">
+				<div class="clearfix"></div>
+				<div class="modalHeader">
+					<button title="Close (Esc)" type="button" class="mfp-close">
+					</button>
+					<p class="openSansReg_32">
+						
+							
+							
+								All about Thin Mints<sup>&reg;</sup>
+							
+						
+					</p>
+				</div>
+				
+				<div class="clearfix"></div>
+				<div class="modalContent">
+					<div class="clearfix"></div>
+					<div class="leftContent floatleft width_60P padding_20B">
+						<span class="cookieImgWrapper"></span> <br />
+						<p class="openSansReg_20 margin_20R">
+						Purchasing a box of Thin Mints, our round, mint-flavored cookies with a delicious chocolaty coating, helps a girl learn money management. She handles money, keeps records, even tracks orders activities that are essential to running a successful business.<br/>
+						<span class="openSansReg_11Black">Manufactured for Little Brownie Bakers.</span>
+						</p>
+						    <div>
+						        
+                                     <img src="/_ui/desktop/common/img/modals/VeganFlag.png" alt="Vegan Flag" class="custom_banner_logo" style="width: 5em;margin-top: 20px;position: absolute;"/>
+                               
+                               
+						        <span class="cookieDetPlaceholder"> </span>
+						    </div>
+						</div>
+
+					<div class="rightContent floatright width_40P">
+					    <span class="cookieNutritionPlaceholder"></span>
+					</div>
+					<div id="nutritional_logo">
+						   <img src="/_ui/desktop/common/img/modals/LBB_logo.png" alt="Little Brownie" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           <img
+                               src="/_ui/desktop/common/img/modals/noHFCS_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/0gTransFat_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                            <img
+                               src="/_ui/desktop/common/img/modals/RSPO_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+
+                        </div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+
+	
+	<script>
+	    var imgList = {
+                imageURl:"/medias/toffee-main.png?context=bWFzdGVyfHJvb3R8ODczMTR8aW1hZ2UvcG5nfGhhYS9oZGUvOTExNzg2MTc0MDU3NC5wbmd8NmUwYThiNTJkNDQ1OWM0ZTdmZDc2MGNmZTFmYTg2Yjc3NTdiMDIwMTQxYWYxNWIyNzI4MTE3YjA2YjA0MjJlZQ",
+                imageURlNut:"/medias/toffee-nutrition.png?context=bWFzdGVyfHJvb3R8MTYyMDM2fGltYWdlL3BuZ3xoYzEvaDU5LzkxMTc5NDIyMTg3ODIucG5nfGJiYTYyNjA0ZTc0NTIzOWU5ZjA0NWY5Y2I4MGIwZjUwOTQ3OTg2MzgzMTg1YjQyMGYwZDExMGQ2ODg5ZWJmMjA",
+                imageURlDet:"/medias/toffee-detail.png?context=bWFzdGVyfHJvb3R8MTA0OTY3fGltYWdlL3BuZ3xoZTUvaGVlLzkxMTc4NjE5MDQ0MTQucG5nfDdlYzEyODdiYTEyN2FiZWUxZTAwZmRjZGE2MGI3MGFiYjQ1M2M3NDU0ZDQ4NjRjOWU4ZTg3MTNiZTUzOGQzNzM",
+                id:"toffee"
+	    }
+
+	    cookieIMgsArray.push(imgList);
+	</script>
+	<div id="opentoffee" class="modalDialog mfp-hide">
+		<div>
+			<div class="modalMainContent">
+				<div class="clearfix"></div>
+				<div class="modalHeader">
+					<button title="Close (Esc)" type="button" class="mfp-close">
+					</button>
+					<p class="openSansReg_32">
+						
+							
+								All about Toffee-tastic<sup>&trade;</sup>
+							
+							
+						
+					</p>
+				</div>
+				
+				<div class="clearfix"></div>
+				<div class="modalContent">
+					<div class="clearfix"></div>
+					<div class="leftContent floatleft width_60P padding_20B">
+						<span class="cookieImgWrapper"></span> <br />
+						<p class="openSansReg_20 margin_20R">
+						Rich, buttery cookies with sweet, crunchy toffee bits.<br/>
+						<span class="openSansReg_11Black">Manufactured for Little Brownie Bakers.</span>
+						</p>
+						    <div>
+						        
+                               
+                                     <img src="/_ui/desktop/common/img/modals/NSF_GlutenFree_logo.png" alt="Gluten Free Logo" class="custom_banner_logo" style="width: 5em;margin-top: 20px;position: absolute;"/>
+                               
+						        <span class="cookieDetPlaceholder"> </span>
+						    </div>
+						</div>
+
+					<div class="rightContent floatright width_40P">
+					    <span class="cookieNutritionPlaceholder"></span>
+					</div>
+					<div id="nutritional_logo">
+						   <img src="/_ui/desktop/common/img/modals/LBB_logo.png" alt="Little Brownie" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           <img
+                               src="/_ui/desktop/common/img/modals/noHFCS_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/HydrogenatedBanner_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/0gTransFat_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                            <img
+                               src="/_ui/desktop/common/img/modals/RSPO_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+
+                        </div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+
+	
+	<script>
+	    var imgList = {
+                imageURl:"/medias/tre-main.png?context=bWFzdGVyfHJvb3R8ODYxNjF8aW1hZ2UvcG5nfGgyMy9oNjkvOTExNzg2MTM4MDEyNi5wbmd8MDBkOWU2ZWVmYzI2NzA2NzUxYmM4ODJiYzQyYzJlNGVmMDM3NzM2ZTA0YjBkY2ZhMWJkNDEzMWE0YzYwZDczMA",
+                imageURlNut:"/medias/tre-nutrition.png?context=bWFzdGVyfHJvb3R8MTY0MDM2fGltYWdlL3BuZ3xoZGEvaDBlLzkxMTc5NDIxODYwMTQucG5nfDFhNDI1NjlmMWEwZTlkYTRhNGMyZjM5MmQ3YWY1MWY5NjY5NzYxNDkzZmFjYjNmNDdmMDY0YzdkNDNkOTQ3ODM",
+                imageURlDet:"/medias/tre-detail.png?context=bWFzdGVyfHJvb3R8MTE0Mzc1fGltYWdlL3BuZ3xoNjUvaGU3LzkxMTc4NjE0Nzg0MzAucG5nfDA0ZjZjNmU1YWQ0MmE2MTgxNGYxMzYwYWI0NGIyODVjM2QxN2ExYWI0NTQ4YjQzMTM0MzllODJkZTg5Zjc4ZTg",
+                id:"tre"
+	    }
+
+	    cookieIMgsArray.push(imgList);
+	</script>
+	<div id="opentre" class="modalDialog mfp-hide">
+		<div>
+			<div class="modalMainContent">
+				<div class="clearfix"></div>
+				<div class="modalHeader">
+					<button title="Close (Esc)" type="button" class="mfp-close">
+					</button>
+					<p class="openSansReg_32">
+						
+							
+							
+								All about Trefoils<sup>&reg;</sup>
+							
+						
+					</p>
+				</div>
+				
+				<div class="clearfix"></div>
+				<div class="modalContent">
+					<div class="clearfix"></div>
+					<div class="leftContent floatleft width_60P padding_20B">
+						<span class="cookieImgWrapper"></span> <br />
+						<p class="openSansReg_20 margin_20R">
+						When you purchase a box of our traditional, delicate-tasting shortbread cookies, you're helping a girl learn money management. She handles money, keeps records, even tracks orders&mdash;activities that are essential to running a successful business.<br/>
+						<span class="openSansReg_11Black">Manufactured for Little Brownie Bakers.</span>
+						</p>
+						    <div>
+						        
+                               
+						        <span class="cookieDetPlaceholder"> </span>
+						    </div>
+						</div>
+
+					<div class="rightContent floatright width_40P">
+					    <span class="cookieNutritionPlaceholder"></span>
+					</div>
+					<div id="nutritional_logo">
+						   <img src="/_ui/desktop/common/img/modals/LBB_logo.png" alt="Little Brownie" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           <img
+                               src="/_ui/desktop/common/img/modals/noHFCS_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/HydrogenatedBanner_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                           
+                            <img
+                               src="/_ui/desktop/common/img/modals/0gTransFat_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+                            <img
+                               src="/_ui/desktop/common/img/modals/RSPO_logo.png"
+                               alt="Nutritional Logo" class="center_multiple_divs" style="width:8em; padding:2%;"/>
+
+                        </div>
+					<div class="clearfix"></div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+
+						
+						
+						
+						
+					
+
+
+
+	
+	
+	
+	
+	
+	<div id="openDonate" class="modalDialog mfp-hide">
+		<div>
+			<div class="modalMainContent">
+				<div class="modalHeader padding_20L padding_20R">
+					<button title="Close (Esc)" type="button" class="mfp-close"></button>
+					<p class="openSansReg_32">DONATE COOKIES</p>
+				</div>
+				<div class="clearfix"></div>
+				<div class="modalContent padding_20L padding_20R">
+					<div class="">
+					
+					<p>What could be more Girl Scout than giving back to the community? <br>Today, join us in bringing lots of smiles to Meals on Wheels by donating delicious Girl Scouts Cookies &mdash; the cookie varieties will be automatically selected. </p>
+					<p>Thank you for helping us continue our tradition of service!
+					</p>
+					
+					<div class="width_35P floatleft margin_20B">
+					<img src="/medias/opcp-main.png?context=bWFzdGVyfHJvb3R8OTg5Mzl8aW1hZ2UvcG5nfGg5Ni9oZjkvOTExNzg2MTUxMTE5OC5wbmd8OTM2MjljMmQ0ZTdkNTQ4ZTBhODlhMjNhYTM3NGMyMDgyZWZhY2U2Zjg0YmI1NzY5MzczMmFiNDRhN2UxZTdmYw" width="120px" alt="Donation Image" width="120px">
+							
+					</div>
+					<div class="mobileW_100 width_60P floatleft">
+						<p >
+							PRICE: $5.00 per box
+						</p>
+
+						<p>
+						    Donated cookies do not have a shipping cost and do not count towards the 4 box minimim for shipped orders.
+
+						 </p>
+						
+					</div>
+				</div>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="clearfix"></div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+<!-- Start: Defect Fix for GSA-181 by IDC  -->
+	<div id="closeModal" style="display: none"> </div>
+	<!-- End Defect Fix -->
+	</div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="openShippingnHandling" class="modalDialog longHeight mfp-hide">
+    <div>
+        <div class="modalMainContent">
+            <div class="modalHeader padding_20L padding_20R">
+                <button title="Close (Esc)" type="button" class="mfp-close"> </button>
+                    <p class="openSansReg_32">Shipping and Handling Fees </p>
+                </div>
+            <div class="clearfix"></div>
+           <div class="modalContent padding_20L padding_20R">
+                <div>
+                    <p>When you pay for shipping and handling, you're helping empower girls to do more with their cookie earnings. These fees go directly to the vendors who help us make sure your delicious cookies get to you and that the cookie money gets to her troop. That way, she and her friends can go out into their communities and do amazing things. Thank you for your support!</p>
+                    <p>
+                        <div><strong>There's a 4 box  minimum order for shipping.</strong> <br>
+                        Donated cookies do not have a shipping cost and do not count towards the 4 box minimim.</div>
+                        <div class="margin_20T">
+                            <img class="shippingDesktop" src="/_ui/desktop/common/img/ShippingTiers.png" alt="Shipping Tier" />
+                            <img class="shippingMobile" src="/_ui/desktop/common/img/ShippingTiers_mobile_01.png" alt="Shipping Tier" />
+                        </div>
+                    </p>
+                    <p>
+                        For orders of 12 boxes or more, shipping is calculated as follows:
+                        <ul>
+                            <li>13 boxes of cookies: tier D (12 boxes) + tier A (1 more box) = 13 boxes of cookies shipping cost</li>
+                            <li>25 boxes of cookies: tier D x 2 (24 boxes) + tier A (1 more box) = 25 boxes of cookies shipping cost</li>
+                        </ul>
+                    </p>
+                    <p>&nbsp;</p>
+                    <p>But wait! There's no need for you to do all that math. Just go to the Order Card, make your cookie selections, and we'll calculate the shipping for you!</p>
+
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="modalFooterContent">
+            <div class="modalFooter">
+                <p><b>Shipping Delivery Time</b></p>
+                <p class="openSans_semiBold margin_20B margin_20T">It takes 2 to 15 business days for your shipped order to arrive at U.S. and premium locations. </p>
+                <p>Need your delicious Girl Scout Cookies in a flash? Use the Shipping option to get them to your door &mdash; yum! Plus shipping your cookies allows you to support Girl Scouts around the country, not just locally. Shipping makes it easy as you don't have to be at home when it's time for delivery. Four box minimum order, please! </p>
+                <p>Shipping to a premium location such as Alaska, Hawaii, Puerto Rico, the U.S. Virgin Islands, or APO/FPO/DPO? We're happy to go the extra mile - we just need an additional $5 to make it happen. These cookies and the impact you're making with your purchase are sooo worth it.</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+
+
+<div id="openHandling" class="modalDialog mfp-hide" >
+    <div>
+        <div class="modalMainContent">
+        <div class="modalHeader padding_20L padding_20R">
+                <button title="Close (Esc)" type="button" class="mfp-close"> </button>
+             <p class="openSansReg_32">In-Person Delivery</p>
+                </div>
+            
+            <div class="clearfix"></div>
+           <div class="modalContent padding_20L padding_20R">
+               
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+        <div class="modalFooterContent">
+            <div class="margin_40L margin_40R padding_20T padding_20B">
+                <span class="openSansBold_14Black">Parent Approval</span>
+                <p>In-Person delivery requires approval by a girl's parent. If your request is approved, you'll receive an email. If your order is not approved within 10 days, your order will default to the secondary option you chose during checkout, and you'll receive a notification.</p>
+                <br>
+                <span class="openSansBold_14Black">Cookie Delivery Time</span>
+                <p>Cookies will be available to the troop around February 19. This is because the girl's local council has to place the order with the baker, receive the cookies, and then give them to the Girl Scout so she can deliver your awesome treats to your door. When your cookie order is ready, you'll be contacted to arrange your free delivery.</p>
+         
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+	
+
+
+	
+	
+	<a href="#openAdjust" id="openAdjustLink" class="getAdjust openSansBold_14 alignVTop" ></a>
+	<div id="openAdjust" class="modalDialog mfp-hide">
+    <div>
+        <div class="modalMainContent">
+            <div class="modalHeader padding_20L padding_20R">
+                <button title="Close (Esc)" type="button" class="mfp-close"> </button>      
+                <p class="openSansReg_20">Please Adjust Your Cookie Order</p>
+            </div>
+            <div class="clearfix"></div>
+            <div class="modalContent padding_20L padding_20R">
+            	<div class="">
+	                <p >
+	                    Whoops!  You've selected two cookie varieties that require either Shipping or In-Person delivery.
+	                </p>
+	                 <p>	                    
+	                 	Because both delivery options cannot be combined in one order, you'll need to remove one of the cookie varieties from your shopping cart.  This will ensure your delivery option matches for all cookies in your order.
+	                </p>
+	                 <p>
+	                    Really want that other box of deliciousness? No problem! Just place a second order for the cookies you removed.
+	                </p>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+         <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+
+
+
+
+
+
+
+
+
+<input type="hidden" id="checkoutType" value="" />
+<a class="getShippingAdjust hidden" href="#openShippingAdjust"></a>
+
+<div id="openShippingAdjust" class="modalDialog mfp-hide">
+<a id="deliveryLink" href="/scoutcheckout/agatha393386/startcheckout">&nbsp;</a>
+    <div>
+        <div class="modalMainContent">
+            <div class="modalHeader padding_20L padding_20R">
+                <button id="shippingCloseBtn" title="Close (Esc)" type="button" class="mfp-close">
+                
+                </button>
+                <p class="openSansReg_32">Your shipping fee</p>
+            </div>
+            <div class="clearfix"></div>
+            <div class="modalContent padding_20L padding_20R">
+                <div class="">
+                    <p>
+                When you updated your choice of cookies, this may have changed your shipping fee.
+                    </p>
+                    <p>You can see the updated fee right now or view it in your checkout summary.
+                    </p>
+                </div>
+                <div class="clearfix"></div>
+                    <div class="margin_30B">
+                        <button type="button" class="geButtonsWhite" onclick="closePopup();" >
+                        SEE SHIPPING FEE
+                        </button>
+
+
+                        <button id="shippingCheckoutBtn" type="button" class="geButtons floatright">
+                        CHECKOUT
+                        </button>
+            
+                    </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+
+<script type="text/javascript">
+
+function closePopup() {
+	var magnificPopup = $.magnificPopup.instance; 
+	magnificPopup.close();
+}
+</script>
+
+<div id="openDeliveryOptionInfo" class="modalDialog mfp-hide">
+	<div class="modalMainContent" style="width: 250px; padding: 20px; border:1px solid #000;">
+		<div class="modalHeader padding_20L padding_20R">
+			<button title="Close (Esc)" type="button" class="mfp-close"></button>
+		</div>
+		<div class="clearfix"></div>
+		<div class="modalContent padding_20L padding_20R">
+			<p id="chosenDeliveryMethodMessage">
+				<span id="toBeShipped">Since you chose a cookie that must be shipped, this delivery option has been selected for your order.</span>
+				<span id="toBeDeliveredInPerson">Since you chose a cookie that must be delivered in person, this delivery option has been selected for your order.</span>
+			</p>
+			<p id="shippedMinimumErrorMessage" style="display:none;">
+				You chose a cookie that must be shipped. Since there's a 4 box minimum for shipped orders, you'll need to add a few more boxes. Thank you.
+			</p>
+	    </div>
+	</div>
+</div>
+
+<div id="openDeliveryMethodChange" class="modalDialog mfp-hide">
+	<div class="modalMainContent" class="checkout-modal">
+		<div class="modalHeader padding_20L padding_20R">
+			<button title="Close (Esc)" type="button" class="mfp-close"></button>
+			<p>
+				<span class="openSansReg_32">Change Delivery Method</span><br/>
+				<strong>Change To:
+					<span id="shippingTitle">Ship the Cookies</span>
+					<span id="inPersonTitle">Deliver the Cookies In Person</span>
+				</strong>
+			</p>
+		</div>
+		<div class="clearfix"></div>
+		<div class="modalContent padding_20L padding_20R">
+			<div class="margin_30B">
+				<p id="changeShippingMessage">
+					<span class="some_entry_message" style="display: none">
+						Some of the cookies in your order must be shipped. If you decide to change how your order is delivered, then these cookies will automatically be removed from your cookie selection. What would you like to do?
+					</span>
+					<span class="all_entry_message" style="display: none">
+						All of the cookies in your order must be shipped. If you decide to change how your order is delivered, then these cookies will automatically be removed from your cookie order. You'll need to select different cookies. What would you like to do?
+					</span>
+				</p>
+				<p id="changeInPersonMessage">
+					<span class="some_entry_message" style="display: none">
+						Some of the cookies in your order must be delivered in person. If you decide to change how your order is delivered, then these cookies will automatically be removed from your cookie selection. There's a 4-box minimum for shipped orders. What would you like to do?
+					</span>
+					<span class="all_entry_message" style="display: none">
+						All of the cookies in your order must be delivered in person. If you decide to change how your order is delivered, then these cookies will automatically be removed from your cookie order. You'll need to select different cookies. What would you like to do?
+					</span>
+				</p>
+			</div>
+			<div class="clearfix"></div>
+			<div class="margin_30B">
+				<input type="hidden" value="" id="changeTo" />
+				<div class="checkout-button-wrapper">
+				    <span class="checkout-button__left">
+                        <button type="button" class="geButtonsWhite" id="changeDeliveryMethodBtn">Change delivery method</button>
+                    </span>
+                    <span class="checkout-button__right">
+                        <button type="button" class="geButtonsWhite" onclick="closePopup();">
+                            <span id="keepShipBtn">Keep "Ship the cookies"</span>
+                            <span id="keepInPrsnBtn">Keep "Deliver the cookies"</span>
+                        </button>
+                    </span>
+                </div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+	<div class="clearfix"></div>
+</div>
+
+
+
+
+
+<!--  see startIdleTimeoutTimer() in gsa.checkout.js for timeout implementation  -->
+
+<a class="getSessionTimedOut hidden" href="#openSessionTimedOut"></a>
+
+<div id="openSessionTimedOut" class="modalDialog mfp-hide">
+    <div>
+        <div class="modalMainContent">
+            <div class="modalHeader padding_20L padding_20R">
+                <button title="Close (Esc)" type="button" class="mfp-close" onclick="javascript:timeOutRedirect();">
+                
+                </button>
+                <p class="openSansReg_32">Session Time Out</p>
+            </div>
+            <div class="modalContent padding_20L padding_20R">
+                <div class="">
+                    <p>Unfortunately, you have been idle for too long and your session has timed out.</p>
+                    <p>Please click on the button to restart your cookie order.</p>                    
+                </div>
+                <div class="clearfix"></div>
+                    <div class="margin_30B" style="text-align:center;">
+                        <button type="button" class="geButtons" onclick="javascript:timeOutRedirect();" >
+                        RESTART CHECKOUT
+                        </button>           
+                    </div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+
+<script type="text/javascript">
+var girlSiteId = "agatha393386";
+
+function closePopup() {
+	var magnificPopup = $.magnificPopup.instance; 
+	magnificPopup.close();
+}
+</script>
+
+
+
+
+	
+	
+		<script>var isSiteSetup = false;</script>
+	
+
+
+<div id="orderForm" class="width_680px whiteBackGround">
+	<form id="landingform" role="form" action="/scoutcheckout/agatha393386/updateOrder" method="post">
+		
+			<div class="boxPurple">
+				<div style="float: left">
+					<p class="openSansExtraBold_20White margin_20L margin_0 margin_10T">Order
+						Your Girl Scout Cookies!</p>
+				</div>
+
+				<div style="float: right" class="arrow-left"></div>
+
+			</div>
+
+			<div id="cookie0" class="cookies margin_30L margin_30R">
+				<span style="color: red; font-size: 16px;" id="visaCheckoutError"></span>
+				<label id="visaCheckoutError2" class="error"></label>
+				
+				<br />
+				
+				<div class="cookieImage">&nbsp;</div>
+				<div class="cookielist cookieName">&nbsp;</div>
+				<div class="cookielist cookiePrice">
+					PRICE
+				</div>
+				<div class="cookielist cookieQty">
+					# OF BOXES
+				</div>
+				<div class="cookielist cookieCost">
+					AMOUNT
+				</div>
+			</div>
+
+			<!--Product Listing -->
+			
+			
+			
+			
+			
+
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+
+						
+						
+					
+				
+
+				<div class="clearfix"></div>
+				<div id="cookie1"
+					class="cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a id="dsd" class="getdsd openImgDetLoad" href="#opendsd" >
+							<img id="dsd" src="/medias/dsd-smallThumbnail.png?context=bWFzdGVyfHJvb3R8ODE3NnxpbWFnZS9wbmd8aGQxL2gwZC85MTE3ODYwNTYwOTI2LnBuZ3wzMzU2YzViZDk3YmY3ODY4YjMyZjBiZjJhNjUyNDdiNTYwMzEzNDFkY2NjMmRiZjBkMzJlMTJlMGJiMjJhYzFm"
+							alt="Do-si-dos" /></a>
+					</div>
+					<div class="cookielist cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="dsd" class="getdsd openImgDetLoad" href="#opendsd">Do-si-dos</a>
+						</p>
+					</div>
+					<div class="cookielist cookiePrice">
+						<p id="cookie1Price" class="margin_0 openSansReg_16">$5.00</p>
+					</div>
+					<div class="cookielist width_140Px">
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="cookie1Input" name="orderForm[dsd]" class="cookieInput all" onkeydown="clearCalculateErrors();" type="text" value="" maxlength="4" autocomplete="off"/>
+						
+					</div>
+					<div class="cookielist cookieCost">
+						
+							
+							
+								
+							
+						
+
+						<p id="cookie1Cost"
+							class="margin_0 openSansReg_16 cookieIndCost margin_20R"></p>
+					</div>
+					
+					
+				</div>
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+
+						
+						
+					
+				
+
+				<div class="clearfix"></div>
+				<div id="cookie2"
+					class="cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a id="sam" class="getsam openImgDetLoad" href="#opensam" >
+							<img id="sam" src="/medias/sam-smallThumbnail.png?context=bWFzdGVyfHJvb3R8OTMzMnxpbWFnZS9wbmd8aGEyL2g0Ny85MTE3ODYwODU1ODM4LnBuZ3w0ZGY4NDI5YmVhMjBkOTk3Y2VjNmI3Y2ZmOTk4OWU0NDkwYTE1ODQ4ODhiZjZiYmUwMmViYTIwOWM2NzljNGVk"
+							alt="Samoas" /></a>
+					</div>
+					<div class="cookielist cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="sam" class="getsam openImgDetLoad" href="#opensam">Samoas</a>
+						</p>
+					</div>
+					<div class="cookielist cookiePrice">
+						<p id="cookie2Price" class="margin_0 openSansReg_16">$5.00</p>
+					</div>
+					<div class="cookielist width_140Px">
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="cookie2Input" name="orderForm[sam]" class="cookieInput all" onkeydown="clearCalculateErrors();" type="text" value="" maxlength="4" autocomplete="off"/>
+						
+					</div>
+					<div class="cookielist cookieCost">
+						
+							
+							
+								
+							
+						
+
+						<p id="cookie2Cost"
+							class="margin_0 openSansReg_16 cookieIndCost margin_20R"></p>
+					</div>
+					
+					
+				</div>
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+
+						
+						
+					
+				
+
+				<div class="clearfix"></div>
+				<div id="cookie3"
+					class="cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a id="svsm" class="getsvsm openImgDetLoad" href="#opensvsm" >
+							<img id="svsm" src="/medias/svsm-smallThumbnail.png?context=bWFzdGVyfHJvb3R8NzcxNnxpbWFnZS9wbmd8aDI2L2hjNi85MTE3ODYwNjU5MjMwLnBuZ3wyMjQ5NjQzNGJhYzk3M2YwOTY5Yjg3OWFhYTEyNGU1NWJjYjc5N2UwYjA3YjhlYTdiNTIwOGNkMzUwMDZkYTEy"
+							alt="Savannah Smiles" /></a>
+					</div>
+					<div class="cookielist cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="svsm" class="getsvsm openImgDetLoad" href="#opensvsm">Savannah Smiles</a>
+						</p>
+					</div>
+					<div class="cookielist cookiePrice">
+						<p id="cookie3Price" class="margin_0 openSansReg_16">$5.00</p>
+					</div>
+					<div class="cookielist width_140Px">
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="cookie3Input" name="orderForm[svsm]" class="cookieInput all" onkeydown="clearCalculateErrors();" type="text" value="" maxlength="4" autocomplete="off"/>
+						
+					</div>
+					<div class="cookielist cookieCost">
+						
+							
+							
+								
+							
+						
+
+						<p id="cookie3Cost"
+							class="margin_0 openSansReg_16 cookieIndCost margin_20R"></p>
+					</div>
+					
+					
+				</div>
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+
+						
+						
+					
+				
+
+				<div class="clearfix"></div>
+				<div id="cookie4"
+					class="cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a id="smores" class="getsmores openImgDetLoad" href="#opensmores" >
+							<img id="smores" src="/medias/smores-smallThumbnail.png?context=bWFzdGVyfHJvb3R8OTU5MXxpbWFnZS9wbmd8aGYzL2g0Yy85MTE3ODYxODcxNjQ2LnBuZ3wzN2FlZGFlNGY2Nzg5MWVjMDlkNjM2MDRmMzk4OTc2Y2IwOTlhODcxMDBkZWQwMWE1ZDU3MjI3ZTJkZmNjMDgw"
+							alt="Girl Scout S'mores" /></a>
+					</div>
+					<div class="cookielist cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="smores" class="getsmores openImgDetLoad" href="#opensmores">Girl Scout S'mores</a>
+						</p>
+					</div>
+					<div class="cookielist cookiePrice">
+						<p id="cookie4Price" class="margin_0 openSansReg_16">$6.00</p>
+					</div>
+					<div class="cookielist width_140Px">
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="cookie4Input" name="orderForm[smores]" class="cookieInput all" onkeydown="clearCalculateErrors();" type="text" value="" maxlength="4" autocomplete="off"/>
+						
+					</div>
+					<div class="cookielist cookieCost">
+						
+							
+							
+								
+							
+						
+
+						<p id="cookie4Cost"
+							class="margin_0 openSansReg_16 cookieIndCost margin_20R"></p>
+					</div>
+					
+					
+				</div>
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+
+						
+						
+					
+				
+
+				<div class="clearfix"></div>
+				<div id="cookie5"
+					class="cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a id="tag" class="gettag openImgDetLoad" href="#opentag" >
+							<img id="tag" src="/medias/tag-smallThumbnail.png?context=bWFzdGVyfHJvb3R8Nzg3MnxpbWFnZS9wbmd8aDAzL2g3My85MTE3ODYxMTE3OTgyLnBuZ3w3M2Q3NzM4NTZiZWY5ODQ5NjRlYzI2YjA3MWQ1MDcyYjhjYTFiNWI4Y2U4NmI4ZDRkMzhmN2JiZWUzYjY0OGQ4"
+							alt="Tagalongs" /></a>
+					</div>
+					<div class="cookielist cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="tag" class="gettag openImgDetLoad" href="#opentag">Tagalongs</a>
+						</p>
+					</div>
+					<div class="cookielist cookiePrice">
+						<p id="cookie5Price" class="margin_0 openSansReg_16">$5.00</p>
+					</div>
+					<div class="cookielist width_140Px">
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="cookie5Input" name="orderForm[tag]" class="cookieInput all" onkeydown="clearCalculateErrors();" type="text" value="" maxlength="4" autocomplete="off"/>
+						
+					</div>
+					<div class="cookielist cookieCost">
+						
+							
+							
+								
+							
+						
+
+						<p id="cookie5Cost"
+							class="margin_0 openSansReg_16 cookieIndCost margin_20R"></p>
+					</div>
+					
+					
+				</div>
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+
+						
+						
+					
+				
+
+				<div class="clearfix"></div>
+				<div id="cookie6"
+					class="cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a id="tmint" class="gettmint openImgDetLoad" href="#opentmint" >
+							<img id="tmint" src="/medias/tmint-smallThumbnail.png?context=bWFzdGVyfHJvb3R8ODM0M3xpbWFnZS9wbmd8aDlmL2hkYi85MTE3ODYxMDg1MjE0LnBuZ3w0OThjN2FiMDgyZmIzOThjZDcxYzNkMWUxNGExY2Y4YzQ3YzhmMThjNDc3YTFmZDQyZjljMzQwMTUwZTQ0M2Vm"
+							alt="Thin Mints" /></a>
+					</div>
+					<div class="cookielist cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="tmint" class="gettmint openImgDetLoad" href="#opentmint">Thin Mints</a>
+						</p>
+					</div>
+					<div class="cookielist cookiePrice">
+						<p id="cookie6Price" class="margin_0 openSansReg_16">$5.00</p>
+					</div>
+					<div class="cookielist width_140Px">
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="cookie6Input" name="orderForm[tmint]" class="cookieInput all" onkeydown="clearCalculateErrors();" type="text" value="" maxlength="4" autocomplete="off"/>
+						
+					</div>
+					<div class="cookielist cookieCost">
+						
+							
+							
+								
+							
+						
+
+						<p id="cookie6Cost"
+							class="margin_0 openSansReg_16 cookieIndCost margin_20R"></p>
+					</div>
+					
+					
+				</div>
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+
+						
+						
+					
+				
+
+				<div class="clearfix"></div>
+				<div id="cookie7"
+					class="cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a id="toffee" class="gettoffee openImgDetLoad" href="#opentoffee" >
+							<img id="toffee" src="/medias/toffee-smallThumbnail.png?context=bWFzdGVyfHJvb3R8NzgxM3xpbWFnZS9wbmd8aGE4L2gzMy85MTE3ODYxNjA5NTAyLnBuZ3wzMzAwZWNkMjIyZmM5MjkyMzMxNTY3NzIzZmE5ZjQwYjc5NmRmM2FkNWRlZjBkYjI5YmI0Y2RlMzE1MTcxMzRm"
+							alt="Toffee-tastic" /></a>
+					</div>
+					<div class="cookielist cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="toffee" class="gettoffee openImgDetLoad" href="#opentoffee">Toffee-tastic</a>
+						</p>
+					</div>
+					<div class="cookielist cookiePrice">
+						<p id="cookie7Price" class="margin_0 openSansReg_16">$6.00</p>
+					</div>
+					<div class="cookielist width_140Px">
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="cookie7Input" name="orderForm[toffee]" class="cookieInput all" onkeydown="clearCalculateErrors();" type="text" value="" maxlength="4" autocomplete="off"/>
+						
+					</div>
+					<div class="cookielist cookieCost">
+						
+							
+							
+								
+							
+						
+
+						<p id="cookie7Cost"
+							class="margin_0 openSansReg_16 cookieIndCost margin_20R"></p>
+					</div>
+					
+					
+				</div>
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+
+						
+						
+					
+				
+
+				<div class="clearfix"></div>
+				<div id="cookie8"
+					class="cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a id="tre" class="gettre openImgDetLoad" href="#opentre" >
+							<img id="tre" src="/medias/tre-smallThumbnail.png?context=bWFzdGVyfHJvb3R8NzY5OHxpbWFnZS9wbmd8aDVlL2g1My85MTE3ODYxMzQ3MzU4LnBuZ3wyZTRhMjI0M2FkN2JhZjdhZDllYTJlODkxMDgxMWQ3ZjZjYWY3OGE0MGE3NmUxYjljZmU1NWI0NTI3MjQyYzM5"
+							alt="Trefoils" /></a>
+					</div>
+					<div class="cookielist cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="tre" class="gettre openImgDetLoad" href="#opentre">Trefoils</a>
+						</p>
+					</div>
+					<div class="cookielist cookiePrice">
+						<p id="cookie8Price" class="margin_0 openSansReg_16">$5.00</p>
+					</div>
+					<div class="cookielist width_140Px">
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="cookie8Input" name="orderForm[tre]" class="cookieInput all" onkeydown="clearCalculateErrors();" type="text" value="" maxlength="4" autocomplete="off"/>
+						
+					</div>
+					<div class="cookielist cookieCost">
+						
+							
+							
+								
+							
+						
+
+						<p id="cookie8Cost"
+							class="margin_0 openSansReg_16 cookieIndCost margin_20R"></p>
+					</div>
+					
+					
+				</div>
+			
+			<div class="clearfix"></div>
+			<div id="cookie100" class="yourCookiesLine cookies padding_10B margin_30L margin_30R">
+				<div class="cookieImage">&nbsp;</div>
+				<div class="cookieName" style="min-height: 23px;">
+					<p class="margin_0 openSansBold_16Black">Your Cookies</p>
+				</div>
+				<div class="cookiePrice" style="min-height: 23px;">&nbsp;</div>
+				<div id="grayWrapperYourCookie" class="lightGrayBackGround width_140Px" style="min-height: 23px;">
+					<p id="cookieTotalQty" class="margin_0 cookieQtyCount">
+						
+					</p>
+				</div>
+				<div class="cookieCost" style="min-height: 23px;">
+					<p id="cookieTotalCost" class="margin_0 openSansReg_16 margin_20R">
+						
+					</p>
+				</div>
+			</div>
+
+
+			
+				
+				
+				
+				
+
+				
+
+				
+					
+					
+						
+						
+					
+				
+				<div id="donateCookie"
+					class="cookies margin_30L margin_30R padding_30B">
+					<div class="cookieImage">
+						<a class="getDonate" href="#openDonate"><img id="donate"
+							src="/medias/opcp-smallThumbnail.png?context=bWFzdGVyfHJvb3R8NTQ0NnxpbWFnZS9wbmd8aDI4L2gyYy85MTE3ODYxNzczMzQyLnBuZ3w4Yjk4ZDFmODRlYWIyZWE4ZTUxM2JmY2FhMWNmZGVlNjlkMzBmMmYyZGJmMzM3NTM0MTkyNDI3YjM0Zjg4N2Ux" alt="Donate Image" /> </a>
+					</div>
+					<div class="cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a class="getDonate" href="#openDonate"> Donate Cookies </a>
+						</p>
+						<span class="openSansReg_14Gray" style="white-space: nowrap">
+							No Shipping cost.<br>
+							Does not count towards the 4 box minimum.
+						</span>
+					</div>
+					<div class="cookiePrice">
+						<p id="donatePrice" class="margin_0 openSansReg_16">$5.00</p>
+					</div>
+					<div id="donatePriceWrapper" class="width_140Px">
+						<input id="donateInput" name="orderForm[donate]" class="cookieDonate" onkeydown="clearCalculateErrors();" type="text" value="" maxlength="4" autocomplete="off"/>
+					</div>
+					<div class="cookieCost">
+						<p id="donateCost"
+							class="margin_0 openSansReg_16 donateIndCost margin_20R">
+							
+						</p>
+					</div>
+				</div>
+				<div class="donatelist"></div>
+				<div class="clearfix"></div>
+			
+
+
+			<div class="checkboxContainer margin_30L margin_30R">
+				
+				
+				<div class="block-relative">
+					
+						
+							<p class="margin_0 openSansBold_16 margin_10T">
+								Choose Your Delivery Method
+							</p>
+							<p class="margin_0 openSansReg_14Black margin_20B">
+								(these cannot be combined)
+							</p>
+						
+						
+					
+				</div>
+				<div class="clearfix"></div>
+                <div class="list-labels">
+                    <p id="deliveryChoiceError" class="errorContainer"
+                        style="display: none;">
+                        <label class="error"> Please select a delivery option.</label>
+                    </p>
+                    <p id="noCookiesError" class="errorContainer"
+                        style="display: none;">
+                        <label class="error"> You haven't ordered any cookies
+                            yet. Please use the order form to enter how many cookies you
+                            would like to purchase.</label>
+                    </p>
+                    <p id="shipInPersonError" class="errorContainer"
+                        style="display: none;">
+                        <label class="error"> In-person delivery cannot include
+                            cookies that are only available when shipped. </label>
+                    </p>
+                    <p id="personShipError" class="errorContainer"
+                        style="display: none;">
+                        <label class="error"> Shipping delivery cannot include
+                            cookies that are only available for in-person delivery. </label>
+                    </p>
+                    <p id="minimumShipError" class="errorContainer"
+                        style="display: none;">
+                        <label class="error"> A minimum of 4 boxes is needed to
+                            ship your order.</label>
+                    </p>
+                    <p id="donationDeliveryWarning" class="errorContainer"
+                        style="display: none;">
+                        <label class="error"> There's no charge for donated
+                            cookies. Please continue with your order. </label>
+                    </p>
+                </div>
+                <div class="clearfix"></div>
+                
+                <div id="shippingDiv" class="block-relative">
+                    <div class="block-relative ship-the-cookies">
+                        <p class="margin_0 openSansReg_14Black margin_5T">
+                            <input id="shipping" name="howToReceiveCookies" class="howToReceiveCookies" title="Ship the Cookies" autocomplete="off" name="shippingChoice" type="checkbox" value="shipped"/><input type="hidden" name="_howToReceiveCookies" value="on"/>
+                            <label for="shipping"><span id="shippingSpan"
+                                class="margin_20L chkbxOverflowContainer"></span> <a href="#openShippingnHandling"
+                                class="getShippingnHandling openSansBold_14 alignVMiddle">Ship the Cookies</a> <label class="alignVMiddle"> - 4 box
+                                    minimum </label></label>
+                            <div class="float-right">
+                                <p id="shipFee" class="margin_0 openSansReg_16 margin_5T alignVTop margin_20R"></p>
+
+                                <div id="btnWrapper" class="width_50P"
+                                    style="float: right; display: none;">
+                                    
+                                    
+                                        
+                                        
+                                            <input type="button" name="updateBtn" id="updateTtlBtn"
+                                                class="geButtonsWhite floatright"
+                                                onclick="calculateShippingTotal();" value="Recalculate"
+                                                 />
+                                        
+                                    
+                                </div>
+                            </div>
+                        </p>
+                        <div class="clearfix"></div>
+                        <ul id="shippingText"
+                            class="margin_0 openSansReg_14Black margin_10T"
+                            style="display:none">
+                            <li>Get your cookies super fast &mdash; in just 2 to 15 business days!</li>
+                            <li>Get your cookies even if you can't be home to receive them!</li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"></div>
+                    
+                        <div class="block-relative cookies-in-person">
+                            <p class="margin_0 openSansReg_14Black margin_20T">
+                                <input id="inPerson" name="howToReceiveCookies" class="howToReceiveCookies" title="In-Person" onClick="clear();" autocomplete="off" name="shippingChoice" type="checkbox" value="girl-delivery"/><input type="hidden" name="_howToReceiveCookies" value="on"/>
+                                <label for="inPerson"><span class="margin_20L chkbxOverflowContainer"></span>
+                                    <a href="#openHandling"
+                                    class="getHandling openSansBold_14 alignVMiddle">Deliver the Cookies In Person</a></label>
+                                <p id="freeTextInperson" class="hide-on-mobile margin_0 margin_20R openSans_semiBold" style="display:none">FREE</p>
+                            </p>
+                            <ul id="inPersonText"
+                                class="margin_0 openSansReg_14Black"
+                                style="display:none">
+                                <li>Have your order <span class="openSans_semiBold">delivered for free</span> by Girl Scout Agatha.</li>
+                                <li>Help her practice her people skills!</li>
+                                
+                                
+                                
+                                    <li>Within 2 weeks after your order is ready, you&#39;ll be <br/>contacted to arrange delivery.</li>
+                                
+                                
+                            </ul>
+                        </div>
+                    
+                </div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="clearfix"></div>
+			<div class="floatright margin_20T margin_20R width_250">
+
+				<hr class="margin_0">
+				<br>
+				<hr class="margin_0" style="margin-top: -20px;">
+				<div class="margin_10T">
+					<div class="floatleft">
+						<p class="margin_20L margin_0 openSansBold_16Black">Subtotal</p>
+					</div>
+					<div class="floatright">
+						<p id="subTotalCost"
+							class="textRight margin_20R margin_0 openSansBold_16Black">
+							
+								
+								
+								
+							
+							
+						</p>
+
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div id="checkoutBtn"
+				class="floatright margin_20T margin_20R margin_30B">
+				<div>
+				    <div>
+                        <button id="cookieButton" class="buttons openSansBold_16White" name="proceedToCheckout" >
+                            Start Checkout </button>
+                    </div>
+					
+					    <div class="textCenter">
+                            <p>&nbsp; - &nbsp; or &nbsp; - &nbsp;</p>
+                        </div>
+						<div>
+							<img id='myVisaCheckout' alt="Visa Checkout" class=""
+								role="button" onmouseover="" style="cursor: pointer;"
+								src="https://secure.checkout.visa.com/wallet-services-web/xo/button.png?width=250" tabindex="0"> 
+							<img id="theirVisaCheckout" alt="Visa Checkout" class="v-button"
+								role="button" style="display: none;"
+								src="https://secure.checkout.visa.com/wallet-services-web/xo/button.png?width=250"> 
+							<br> 
+							<a href="#" class="v-learn" data-locale="en_US" style="float: right">
+								Tell Me More
+							</a>
+						</div>
+					
+
+				</div>
+
+			</div>
+		
+	<input type="hidden" name="_requestConfirmationToken"  value="06459b3959d909427837713d1dfc3e76f1eb4434"/></form>
+</div>
+
+
+
+<div id="mobile_orderForm"
+	class="width_680px whiteBackGround margin_20B">
+	<form id="mobile_landingform" action="/scoutcheckout/agatha393386/updateOrder" method="post">
+		
+			<div class="boxPurple">
+				<div style="float: left">
+					<p class="openSansExtraBold_20White margin_20L margin_0 margin_10T">Order
+						Your Girl Scout Cookies!</p>
+				</div>
+
+				<div style="float: right" class="arrow-left"></div>
+			</div>
+			<div class="clearfix"></div>
+			<div id="cookieerror"
+				class="cookies margin_30L margin_30R margin_20B">
+				<label id="visaCheckoutError2_mobile" class="error"></label>
+			</div>
+
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+						
+					
+				
+
+				<div id="mobile_cookie1"
+					class="margin_10T cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a  id="mobile_dsd" class="getdsd openImgDetLoad" href="#opendsd"><img
+							id="mobile_dsd" src="/medias/dsd-smallThumbnail.png?context=bWFzdGVyfHJvb3R8ODE3NnxpbWFnZS9wbmd8aGQxL2gwZC85MTE3ODYwNTYwOTI2LnBuZ3wzMzU2YzViZDk3YmY3ODY4YjMyZjBiZjJhNjUyNDdiNTYwMzEzNDFkY2NjMmRiZjBkMzJlMTJlMGJiMjJhYzFm"
+							alt="Do-si-dos" /></a>
+					</div>
+					<div class="cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="mobile_dsd" class="getdsd openImgDetLoad" href="#opendsd">Do-si-dos</a><br />
+							<span id="mobile_cookie1Price"
+								class="margin_0 openSansReg_16">$5.00</span>
+							<span class="margin_0 openSansReg_16">/box</span>
+					</div>
+					<div>
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="mobile_cookie1Input" name="orderForm[dsd]" class="cookieInput mobile_all" onkeydown="mobile_clearCalculateErrors();" type="text" value="" maxlength="4"/>
+					</div>
+					<div class="cookieCost">
+						
+							
+							
+								
+							
+						
+						<p id="mobile_cookie1Cost"
+							class="margin_0 openSansReg_16 cookieIndCost"></p>
+					</div>
+					<div class="clearfix"></div>
+
+
+					<div id="mobile_cookie1Msg " class="mobileMessageCheckout hidden">
+						<div id="mobile_cookie1MsgTxt"
+							class="padding_10L openSansReg_14Black limitedOption"></div>
+					</div>
+
+				</div>
+				<div class="clearfix"></div>
+				
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+						
+					
+				
+
+				<div id="mobile_cookie2"
+					class="mobile_cookielist cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a  id="mobile_sam" class="getsam openImgDetLoad" href="#opensam"><img
+							id="mobile_sam" src="/medias/sam-smallThumbnail.png?context=bWFzdGVyfHJvb3R8OTMzMnxpbWFnZS9wbmd8aGEyL2g0Ny85MTE3ODYwODU1ODM4LnBuZ3w0ZGY4NDI5YmVhMjBkOTk3Y2VjNmI3Y2ZmOTk4OWU0NDkwYTE1ODQ4ODhiZjZiYmUwMmViYTIwOWM2NzljNGVk"
+							alt="Samoas" /></a>
+					</div>
+					<div class="cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="mobile_sam" class="getsam openImgDetLoad" href="#opensam">Samoas</a><br />
+							<span id="mobile_cookie2Price"
+								class="margin_0 openSansReg_16">$5.00</span>
+							<span class="margin_0 openSansReg_16">/box</span>
+					</div>
+					<div>
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="mobile_cookie2Input" name="orderForm[sam]" class="cookieInput mobile_all" onkeydown="mobile_clearCalculateErrors();" type="text" value="" maxlength="4"/>
+					</div>
+					<div class="cookieCost">
+						
+							
+							
+								
+							
+						
+						<p id="mobile_cookie2Cost"
+							class="margin_0 openSansReg_16 cookieIndCost"></p>
+					</div>
+					<div class="clearfix"></div>
+
+
+					<div id="mobile_cookie2Msg " class="mobileMessageCheckout hidden">
+						<div id="mobile_cookie2MsgTxt"
+							class="padding_10L openSansReg_14Black limitedOption"></div>
+					</div>
+
+				</div>
+				<div class="clearfix"></div>
+				
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+						
+					
+				
+
+				<div id="mobile_cookie3"
+					class="mobile_cookielist cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a  id="mobile_svsm" class="getsvsm openImgDetLoad" href="#opensvsm"><img
+							id="mobile_svsm" src="/medias/svsm-smallThumbnail.png?context=bWFzdGVyfHJvb3R8NzcxNnxpbWFnZS9wbmd8aDI2L2hjNi85MTE3ODYwNjU5MjMwLnBuZ3wyMjQ5NjQzNGJhYzk3M2YwOTY5Yjg3OWFhYTEyNGU1NWJjYjc5N2UwYjA3YjhlYTdiNTIwOGNkMzUwMDZkYTEy"
+							alt="Savannah Smiles" /></a>
+					</div>
+					<div class="cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="mobile_svsm" class="getsvsm openImgDetLoad" href="#opensvsm">Savannah Smiles</a><br />
+							<span id="mobile_cookie3Price"
+								class="margin_0 openSansReg_16">$5.00</span>
+							<span class="margin_0 openSansReg_16">/box</span>
+					</div>
+					<div>
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="mobile_cookie3Input" name="orderForm[svsm]" class="cookieInput mobile_all" onkeydown="mobile_clearCalculateErrors();" type="text" value="" maxlength="4"/>
+					</div>
+					<div class="cookieCost">
+						
+							
+							
+								
+							
+						
+						<p id="mobile_cookie3Cost"
+							class="margin_0 openSansReg_16 cookieIndCost"></p>
+					</div>
+					<div class="clearfix"></div>
+
+
+					<div id="mobile_cookie3Msg " class="mobileMessageCheckout hidden">
+						<div id="mobile_cookie3MsgTxt"
+							class="padding_10L openSansReg_14Black limitedOption"></div>
+					</div>
+
+				</div>
+				<div class="clearfix"></div>
+				
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+						
+					
+				
+
+				<div id="mobile_cookie4"
+					class="mobile_cookielist cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a  id="mobile_smores" class="getsmores openImgDetLoad" href="#opensmores"><img
+							id="mobile_smores" src="/medias/smores-smallThumbnail.png?context=bWFzdGVyfHJvb3R8OTU5MXxpbWFnZS9wbmd8aGYzL2g0Yy85MTE3ODYxODcxNjQ2LnBuZ3wzN2FlZGFlNGY2Nzg5MWVjMDlkNjM2MDRmMzk4OTc2Y2IwOTlhODcxMDBkZWQwMWE1ZDU3MjI3ZTJkZmNjMDgw"
+							alt="Girl Scout S'mores" /></a>
+					</div>
+					<div class="cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="mobile_smores" class="getsmores openImgDetLoad" href="#opensmores">Girl Scout S'mores</a><br />
+							<span id="mobile_cookie4Price"
+								class="margin_0 openSansReg_16">$6.00</span>
+							<span class="margin_0 openSansReg_16">/box</span>
+					</div>
+					<div>
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="mobile_cookie4Input" name="orderForm[smores]" class="cookieInput mobile_all" onkeydown="mobile_clearCalculateErrors();" type="text" value="" maxlength="4"/>
+					</div>
+					<div class="cookieCost">
+						
+							
+							
+								
+							
+						
+						<p id="mobile_cookie4Cost"
+							class="margin_0 openSansReg_16 cookieIndCost"></p>
+					</div>
+					<div class="clearfix"></div>
+
+
+					<div id="mobile_cookie4Msg " class="mobileMessageCheckout hidden">
+						<div id="mobile_cookie4MsgTxt"
+							class="padding_10L openSansReg_14Black limitedOption"></div>
+					</div>
+
+				</div>
+				<div class="clearfix"></div>
+				
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+						
+					
+				
+
+				<div id="mobile_cookie5"
+					class="mobile_cookielist cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a  id="mobile_tag" class="gettag openImgDetLoad" href="#opentag"><img
+							id="mobile_tag" src="/medias/tag-smallThumbnail.png?context=bWFzdGVyfHJvb3R8Nzg3MnxpbWFnZS9wbmd8aDAzL2g3My85MTE3ODYxMTE3OTgyLnBuZ3w3M2Q3NzM4NTZiZWY5ODQ5NjRlYzI2YjA3MWQ1MDcyYjhjYTFiNWI4Y2U4NmI4ZDRkMzhmN2JiZWUzYjY0OGQ4"
+							alt="Tagalongs" /></a>
+					</div>
+					<div class="cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="mobile_tag" class="gettag openImgDetLoad" href="#opentag">Tagalongs</a><br />
+							<span id="mobile_cookie5Price"
+								class="margin_0 openSansReg_16">$5.00</span>
+							<span class="margin_0 openSansReg_16">/box</span>
+					</div>
+					<div>
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="mobile_cookie5Input" name="orderForm[tag]" class="cookieInput mobile_all" onkeydown="mobile_clearCalculateErrors();" type="text" value="" maxlength="4"/>
+					</div>
+					<div class="cookieCost">
+						
+							
+							
+								
+							
+						
+						<p id="mobile_cookie5Cost"
+							class="margin_0 openSansReg_16 cookieIndCost"></p>
+					</div>
+					<div class="clearfix"></div>
+
+
+					<div id="mobile_cookie5Msg " class="mobileMessageCheckout hidden">
+						<div id="mobile_cookie5MsgTxt"
+							class="padding_10L openSansReg_14Black limitedOption"></div>
+					</div>
+
+				</div>
+				<div class="clearfix"></div>
+				
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+						
+					
+				
+
+				<div id="mobile_cookie6"
+					class="mobile_cookielist cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a  id="mobile_tmint" class="gettmint openImgDetLoad" href="#opentmint"><img
+							id="mobile_tmint" src="/medias/tmint-smallThumbnail.png?context=bWFzdGVyfHJvb3R8ODM0M3xpbWFnZS9wbmd8aDlmL2hkYi85MTE3ODYxMDg1MjE0LnBuZ3w0OThjN2FiMDgyZmIzOThjZDcxYzNkMWUxNGExY2Y4YzQ3YzhmMThjNDc3YTFmZDQyZjljMzQwMTUwZTQ0M2Vm"
+							alt="Thin Mints" /></a>
+					</div>
+					<div class="cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="mobile_tmint" class="gettmint openImgDetLoad" href="#opentmint">Thin Mints</a><br />
+							<span id="mobile_cookie6Price"
+								class="margin_0 openSansReg_16">$5.00</span>
+							<span class="margin_0 openSansReg_16">/box</span>
+					</div>
+					<div>
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="mobile_cookie6Input" name="orderForm[tmint]" class="cookieInput mobile_all" onkeydown="mobile_clearCalculateErrors();" type="text" value="" maxlength="4"/>
+					</div>
+					<div class="cookieCost">
+						
+							
+							
+								
+							
+						
+						<p id="mobile_cookie6Cost"
+							class="margin_0 openSansReg_16 cookieIndCost"></p>
+					</div>
+					<div class="clearfix"></div>
+
+
+					<div id="mobile_cookie6Msg " class="mobileMessageCheckout hidden">
+						<div id="mobile_cookie6MsgTxt"
+							class="padding_10L openSansReg_14Black limitedOption"></div>
+					</div>
+
+				</div>
+				<div class="clearfix"></div>
+				
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+						
+					
+				
+
+				<div id="mobile_cookie7"
+					class="mobile_cookielist cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a  id="mobile_toffee" class="gettoffee openImgDetLoad" href="#opentoffee"><img
+							id="mobile_toffee" src="/medias/toffee-smallThumbnail.png?context=bWFzdGVyfHJvb3R8NzgxM3xpbWFnZS9wbmd8aGE4L2gzMy85MTE3ODYxNjA5NTAyLnBuZ3wzMzAwZWNkMjIyZmM5MjkyMzMxNTY3NzIzZmE5ZjQwYjc5NmRmM2FkNWRlZjBkYjI5YmI0Y2RlMzE1MTcxMzRm"
+							alt="Toffee-tastic" /></a>
+					</div>
+					<div class="cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="mobile_toffee" class="gettoffee openImgDetLoad" href="#opentoffee">Toffee-tastic</a><br />
+							<span id="mobile_cookie7Price"
+								class="margin_0 openSansReg_16">$6.00</span>
+							<span class="margin_0 openSansReg_16">/box</span>
+					</div>
+					<div>
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="mobile_cookie7Input" name="orderForm[toffee]" class="cookieInput mobile_all" onkeydown="mobile_clearCalculateErrors();" type="text" value="" maxlength="4"/>
+					</div>
+					<div class="cookieCost">
+						
+							
+							
+								
+							
+						
+						<p id="mobile_cookie7Cost"
+							class="margin_0 openSansReg_16 cookieIndCost"></p>
+					</div>
+					<div class="clearfix"></div>
+
+
+					<div id="mobile_cookie7Msg " class="mobileMessageCheckout hidden">
+						<div id="mobile_cookie7MsgTxt"
+							class="padding_10L openSansReg_14Black limitedOption"></div>
+					</div>
+
+				</div>
+				<div class="clearfix"></div>
+				
+			
+				
+				
+				
+				
+				
+
+				
+					
+					
+						
+						
+						
+						
+					
+				
+
+				<div id="mobile_cookie8"
+					class="mobile_cookielist cookies margin_30L margin_30R">
+					<div class="cookieImage">
+						<a  id="mobile_tre" class="gettre openImgDetLoad" href="#opentre"><img
+							id="mobile_tre" src="/medias/tre-smallThumbnail.png?context=bWFzdGVyfHJvb3R8NzY5OHxpbWFnZS9wbmd8aDVlL2g1My85MTE3ODYxMzQ3MzU4LnBuZ3wyZTRhMjI0M2FkN2JhZjdhZDllYTJlODkxMDgxMWQ3ZjZjYWY3OGE0MGE3NmUxYjljZmU1NWI0NTI3MjQyYzM5"
+							alt="Trefoils" /></a>
+					</div>
+					<div class="cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a id="mobile_tre" class="gettre openImgDetLoad" href="#opentre">Trefoils</a><br />
+							<span id="mobile_cookie8Price"
+								class="margin_0 openSansReg_16">$5.00</span>
+							<span class="margin_0 openSansReg_16">/box</span>
+					</div>
+					<div>
+						
+							
+							
+							
+								
+							
+							
+						
+						<input id="mobile_cookie8Input" name="orderForm[tre]" class="cookieInput mobile_all" onkeydown="mobile_clearCalculateErrors();" type="text" value="" maxlength="4"/>
+					</div>
+					<div class="cookieCost">
+						
+							
+							
+								
+							
+						
+						<p id="mobile_cookie8Cost"
+							class="margin_0 openSansReg_16 cookieIndCost"></p>
+					</div>
+					<div class="clearfix"></div>
+
+
+					<div id="mobile_cookie8Msg " class="mobileMessageCheckout hidden">
+						<div id="mobile_cookie8MsgTxt"
+							class="padding_10L openSansReg_14Black limitedOption"></div>
+					</div>
+
+				</div>
+				<div class="clearfix"></div>
+				
+			
+
+			<div class="clearfix"></div>
+			<div id="mobile_cookie9" class="yourCookiesLine cookies margin_30L margin_30R lightGrayBackGround">
+				<div class="cookieName width_55PM">
+					<p class="margin_0 openSansBold_16Black">Your Cookies</p>
+				</div>
+				<div class="width_20P">
+					<p id="mobile_cookieTotalQty" class="margin_0 cookieQtyCount">
+						
+					</p>
+				</div>
+				<div>
+					<p id="mobile_cookieTotalCost" class="margin_0 openSansReg_16">
+						
+					</p>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+
+			
+				
+				
+				
+				
+
+				
+				
+					
+					
+						
+						
+					
+				
+				<div id="mobile_donateCookie"
+					class="cookies margin_30L margin_30R padding_30B donatelist">
+					<div class="cookieImage">
+						<a class="getDonate" href="#openDonate"><img
+							id="mobile_donate" src="/medias/opcp-smallThumbnail.png?context=bWFzdGVyfHJvb3R8NTQ0NnxpbWFnZS9wbmd8aDI4L2gyYy85MTE3ODYxNzczMzQyLnBuZ3w4Yjk4ZDFmODRlYWIyZWE4ZTUxM2JmY2FhMWNmZGVlNjlkMzBmMmYyZGJmMzM3NTM0MTkyNDI3YjM0Zjg4N2Ux" alt="Donate Image" />
+						</a>
+					</div>
+					<div class="cookieName">
+						<p class="margin_0 openSansBold_16Green">
+							<a class="getDonate" href="#openDonate"> Donate Cookies </a><br />
+							<span id="mobile_donatePrice" class="margin_0 openSansReg_16">$5.00</span>
+							<span class="margin_0 openSansReg_16">/box</span>
+						</p>
+					</div>
+
+					<div class="">
+						<input id="mobile_donateInput" name="orderForm[donate]" class="cookieDonate" onClick="mobile_clearCalculateErrors();" type="text" value="" maxlength="4"/>
+					</div>
+					<div class="cookieCost">
+						<p id="mobile_donateCost"
+							class="margin_0 openSansReg_16 donateIndCost">
+							
+						</p>
+					</div>
+					<div class="openSansReg_14Gray width_90P margin_20L">
+                        No Shipping cost. Does not count towards the 4 box minimum.
+                    </div>
+				</div>
+				<div class="clearfix"></div>
+			
+
+
+			
+			
+
+			<div
+				class="checkboxContainer cookies margin_30L margin_30R padding_5B ">
+
+				<div class="width_100P">
+				
+						
+							<p class="margin_0 openSansBold_16 margin_10T">
+								Choose Your Delivery Method
+							</p>
+							<p class="margin_0 openSansReg_14Black margin_20B">
+								(these cannot be combined)
+							</p>
+						
+						
+					
+				</div>
+
+				<div class="clearfix"></div>
+
+				<div style="width: 280px">
+					<div>
+						<p id="mobile_deliveryChoiceError" class="errorContainer"
+							style="display: none;">
+							<label class="error"> Please select a delivery option.</label>
+						</p>
+						<p id="mobile_noCookiesError" class="errorContainer"
+							style="display: none;">
+							<label class="error"> You haven't ordered any cookies
+								yet. Please use the order form to enter how many cookies you
+								would like to purchase.</label>
+						</p>
+						<p id="mobile_shipInPersonError" class="errorContainer"
+							style="display: none;">
+							<label class="error"> In-person delivery cannot include
+								cookies that are only available when shipped. </label>
+						</p>
+						<p id="mobile_personShipError" class="errorContainer"
+							style="display: none;">
+							<label class="error"> Shipping delivery cannot include
+								cookies that are only available for in-person delivery. </label>
+						</p>
+						<p id="mobile_minimumShipError" class="errorContainer"
+							style="display: none;">
+							<label class="error"> A minimum of 4 boxes is needed to
+								ship your order.</label>
+						</p>
+						<p id="mobile_donationDeliveryWarning" class="errorContainer"
+							style="display: none;">
+							<label class="error"> There's no charge for donated
+								cookies. Please continue with your order. </label>
+						</p>
+					</div>
+					<div class="margin_20T">
+					    <div class="block-relative">
+                            <p id="mobile_shipFee" class="margin_0 openSansReg_14Black floatright mobile-shipfee"></p>
+                            <div id="shippingDivMobile" class="block-relative">
+                                <div id='mobile_btnWrapper' class="margin_0 openSansReg_14Black" style="float: right; display: none">
+                                    
+                                    
+                                        
+                                        
+                                            <input type="button" name="updateBtn" id="mobile_updateTtlBtn"
+                                                class="geButtonsWhite"
+                                                onclick="mobile_calculateShippingTotal();" value="Recalculate"
+                                                 />
+                                        
+                                    
+                                </div>
+                                <p class="margin_0 openSansReg_14Black margin_5T">
+                                    <input id="mobile_shipping" name="howToReceiveCookies" class="howToReceiveCookies" title="Ship the Cookies" name="shippingChoice" type="checkbox" value="shipped"/><input type="hidden" name="_howToReceiveCookies" value="on"/>
+                                    <label for="mobile_shipping"><span
+                                        id="mobile_shippingSpan" class="margin_20L chkbxOverflowContainer"></span> <a
+                                        href="#openShippingnHandling"
+                                        class="getShippingnHandling openSansBold_14Green alignVMiddle">Ship the Cookies</a> </label>
+                                </p>
+                                <ul id="mobile_shippingText"
+                                    class="margin_0 openSansReg_14Black margin_10T margin_20B"
+                                    style="display:none">
+                                    <li>Get your cookies super fast &mdash; in just 2 to 15 business days!</li>
+                                    <li>Get your cookies even if you can't be home to receive them!</li>
+                                </ul>
+                            </div>
+                        </div>
+					</div>
+               	
+               	<p id="mobile_freeTextInperson" class="hide-on-mobile floatright margin_0 openSans_semiBold" style="margin-top:95px;">FREE</p>
+                    <div class="shippingDiv">
+                        <p class="margin_0 openSansReg_14Green margin_20T" style="width:100%">
+                            <input id="mobile_inPerson" name="howToReceiveCookies" class="howToReceiveCookies" title="In-Person" name="shippingChoice" onchange="mobile_clear()" type="checkbox" value="girl-delivery"/><input type="hidden" name="_howToReceiveCookies" value="on"/>
+                            <label for="inPerson"><span class="margin_20L chkbxOverflowContainer"></span><a
+                                href="#openHandling"
+                                class="getHandling openSansBold_14Green alignVMiddle">Deliver the Cookies In Person</a></label>
+                        </p>
+                        <div class="clearfix"></div>
+                        <ul id="mobile_inPersonText"
+									class="margin_0 openSansReg_14Black margin_20B floatleft"
+									style="display:none">
+									<li>Have your order <span class="openSans_semiBold">delivered for free</span> by Girl Scout Agatha.</li>
+									<li>Help her practice her people skills!</li>
+									
+									
+									
+										<li>Within 2 weeks after your order is ready, you&#39;ll be <br/>contacted to arrange delivery.</li>
+									
+									
+								</ul>
+                    </div>
+                    
+				</div>
+
+			</div>
+
+			<div class="clearfix"></div>
+
+			<div id="divSubtotal"
+				class="floatright margin_20T margin_20R width_250">
+				<hr class="margin_0">
+				<br />
+				<hr class="margin_0" style="margin-top: -20px;">
+				<div class="margin_10T">
+					<div class="floatleft">
+						<p class="margin_20L margin_0 openSansBold_16Black">Subtotal</p>
+					</div>
+					<div class="floatright">
+						<p id="mobile_subTotalCost"
+							class="textRight margin_20R margin_0 openSansBold_16Black">
+							
+								
+								
+								
+							
+							
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix"></div>
+			<div id="mobile_checkoutBtn"
+				class="margin_20T margin_20R width_80P">
+				<div class="margin_40T margin_30B">
+				    <div>
+                        <button id="mobile_cookieButton" class="buttons openSansBold_16White"
+                            name="proceedToCheckout"
+                            >
+                            Start Checkout</button>
+                    </div>
+					
+						<div>
+						    <div>
+                                <p>&nbsp; - &nbsp; or &nbsp; - &nbsp;</p>
+                            </div>
+							<img id="mobile_myVisaCheckout" alt="Visa Checkout" class=""
+								role="button" onmouseover="" style="cursor: pointer;"
+								src="https://secure.checkout.visa.com/wallet-services-web/xo/button.png?width=250" tabindex="0">
+							<img id="mobile_theirVisaCheckout" alt="Visa Checkout"
+								class="v-button" role="button" style="display: none;"
+								src="https://secure.checkout.visa.com/wallet-services-web/xo/button.png?width=250"> 
+							<br />
+							<a href="#" class="v-learn" data-locale="en_US" style="margin-left: 110px;">
+								Tell Me More
+							</a>
+						</div>
+					
+				</div>
+			</div>
+		
+		<div class="clearfix"></div>
+	<input type="hidden" name="_requestConfirmationToken"  value="06459b3959d909427837713d1dfc3e76f1eb4434"/></form>
+</div>
+
+
+
+
+<script type="text/javascript"  src="/_ui/desktop/common/js/checkout/mobile.numeric.plugin.js"></script>
+<script type="text/javascript">
+var recommendedAddressModal= false;
+var siteid="agatha393386";
+var vco422errorMessage = "<br>We are unable to process your request for Visa Checkout.<br> Please try again or continue with Standard Checkout.<br>";
+var vco500errorMessage = "<br>We are unable to process your request for Visa Checkout.<br> Please try again or continue with Standard Checkout.<br>";
+var allowGirlDelivery = true;
+var shipOnlyFirstCalc = true;
+if(allowGirlDelivery || $('#shipping').is(':checked') || $('#mobile_shipping').is(':checked')){
+	shipOnlyFirstCalc = false;
+}
+
+ function onVisaCheckoutReady(){
+		V.init({
+			apikey: "L9IJQN3TRKF973WR5KXD21WVaJmRWxZWgtqQqYnje_G99936M",
+			paymentRequest:{
+				currencyCode: "USD",
+				total: "",
+				subtotal: "",
+				countryCode: "US",
+				logoUrl:"https://digitalcookie.girlscouts.org/_ui/desktop/common/img/GSUSA_servicemark_150x68.png",
+				displayName:"Girl Scouts of the USA",
+				billingCountries:["US"],
+				customData: { "nvPair": [ {"name":"siteURLID", "value":"agatha393386"}]}
+			},
+			settings: {
+				shipping: {
+				  acceptedRegions: ["US"]
+				 }
+			},
+			payment: {
+			       cardBrands: [
+			        "VISA","MASTERCARD","AMEX","DISCOVER"
+			        ],
+			       billingCountries:["US"]
+			}
+		});
+
+		V.on("payment.success", function(payment)
+		  {
+			 $('.shippingDiv,.cookieInput,.cookieDonate').hide();
+			  var formInput = $("#jsonResponse");
+			  formInput.val(JSON.stringify(payment));
+			  var visaForm = $("#visaform");
+			  $.blockUI({ message: '<h1><img src="/_ui/desktop/common/img/loading_graphic.gif" /></h1>' });
+
+				$.ajax(
+						{
+							url : visaForm.attr("action"),
+							type : 'POST',
+							data: visaForm.serialize(),
+							dataType: 'json',
+							statusCode: {
+							     200: function(data) {
+									  $(location).attr('href', "/scoutcheckout/agatha393386/payment?vco=true");
+								 },
+								 412: function(data) {
+									  $.unblockUI();
+									  $('#visaCheckoutError2').html($.parseJSON(JSON.stringify(data))['responseJSON']);
+									  $('#visaCheckoutError2_mobile').html($.parseJSON(JSON.stringify(data))['responseJSON']);
+	  								  $('.shippingDiv,.cookieInput,.cookieDonate').show();
+								 },
+								 422: function(data) {
+									  
+									  $.unblockUI();
+									  $('#visaCheckoutError2').html(vco422errorMessage);
+									  $('#visaCheckoutError2_mobile').html(vco422errorMessage);
+									  $('.shippingDiv,.cookieInput,.cookieDonate').show();
+								 },
+								 500: function(data) {
+									  $.unblockUI();
+									  $('#visaCheckoutError2').html(vco500errorMessage);
+									  $('#visaCheckoutError2_mobile').html(vco500errorMessage);
+									  $('.shippingDiv,.cookieInput,.cookieDonate').show();
+								 }
+							}
+						});			  
+		  });
+		V.on("payment.cancel", function(payment)
+		  {// Nothing should happen if they close the box
+			canClickOnVisa = true;
+			});
+		V.on("payment.error", function(payment, error)
+		  { $('#visaCheckoutError').html("A technical error has occurred while attempting to contact Visa");
+		  	canClickOnVisa = true;
+		  });
+}
+ 
+$('.cookieInput, .cookieDonate').blockInput({ regex: '[0-9]' });
+// To accommodate mobile styling - type increases padding
+$(".cookieInput, .cookieDonate").removeAttr("type");
+</script>
+
+<form id="visaform" role="form" action="/scout/agatha393386/visa-checkout/success" method="post">
+    <input id="jsonResponse" name="jsonResponse" type="hidden" value=""/>
+<input type="hidden" name="_requestConfirmationToken"  value="06459b3959d909427837713d1dfc3e76f1eb4434"/></form>
+<script>
+	$(document).ready(function() {
+		var a = 0
+		$(".tabContainer").each(function (index) {
+			a = index+1;
+			//console.log("#tabContainer" + a);
+			$("#tabContainer" + a).Tabs();
+		});
+		
+		$(".cookieInput").keypress(function(event) {
+			return isNumberKeywithBkSp(event.charCode);
+		});
+		
+		$(".cookieDonate").keypress(function(event) {
+			return isNumberKeywithBkSp(event.charCode);
+		});
+		
+		$(".mobile_cookieInput").keypress(function(event) {
+			return isNumberKeywithBkSp(event.charCode);
+		});
+
+		$(".mobile_cookieInput").keypress(function(event) {
+
+		});
+
+		$('.openImgDetLoad').on('click', function(e) {
+             $('.cookieImgWrapper').html('');
+             $('.cookieNutritionPlaceholder').html('');
+             $('.cookieDetPlaceholder').html('');
+
+             var idCookie =  $(this).attr('id');
+             
+             //capture id for mobile
+              if (idCookie.indexOf('mobile_') > -1) {
+            	 idCookie = idCookie.substring(idCookie.indexOf('_') + 1, idCookie.length)
+             }
+             
+             for (var i = 0, len = cookieIMgsArray.length; i < len; i++) {
+                     if (cookieIMgsArray[i].id === idCookie){
+                          var img = $('<img class="center_img" alt="'+cookieIMgsArray[i].id+'  Image" src="'+ cookieIMgsArray[i].imageURl +'">');
+                          img.appendTo('.cookieImgWrapper');
+
+                          var imgNut = $('<img src="'+ cookieIMgsArray[i].imageURlNut +'" alt="'+cookieIMgsArray[i].id+'  Nutritional Info"  class="center_img" style="margin-bottom:120px;"/>');
+                          imgNut.appendTo('.cookieNutritionPlaceholder');
+
+                          var imgDet = $('<img src="'+ cookieIMgsArray[i].imageURlDet +'"  alt="'+cookieIMgsArray[i].id+'" class="center_img"/>');
+                          imgDet.appendTo('.cookieDetPlaceholder');
+
+                          return false;
+                    }
+                }
+
+         });
+		
+		
+
+
+		//$("#tabContainer1, #tabContainer2, #tabContainer3, #tabContainer4, #tabContainer5, #tabContainer6, #tabContainer7, #tabContainer8").Tabs();
+		//$("#tabContainer2").Tabs();
+	//Start: Defect Fix for GSA-181 by IDC
+		$(".close").click(function() {			
+			var current = parseInt($.trim($("#closeModal").html()));
+			//Start Defec fix GSA-1115 by Obika
+			// var old = current - 1;
+			
+			var old;
+			
+			if (current % 2 == 0){
+				old = current - 1;
+			}
+			else {
+				old = current;
+			}
+			
+			//end fix GSA-1115
+
+			document.getElementById("tabHeader" + current).removeAttribute("class");
+			document.getElementById("tabpage" + current).style.display="none";
+			document.getElementById("tabpage" + old).removeAttribute("style");
+			document.getElementById("tabHeader" + old).setAttribute("class","tabActiveHeader");
+							
+			//alert($("li#tabHeader" + current).closest('ul').data("current"));
+			$("li#tabHeader" + current).parent('ul').removeData("current");
+			$("li#tabHeader" + old).parent('ul').attr("data-current", old);						
+		});
+		
+		
+	//End: Defect Fix
+	
+	if ('' == 'true') {
+	 $(".getShippingAdjust").click();
+	}
+	}); 
+</script>
+<!-- end center content here -->
+					
+						<!-- begin right content here -->
+						<div id="sideBar">
+							<!-- Div skill layout-->
+<div id="poweredByWrapper"
+			class="margin_20B width_260px whiteBackGround">
+			<div class="padding_20L padding_20R">
+				<div class="lightGrayBackGround">
+					<div class="divWidth_100Gray">
+						<div class="textLeft margin_20L margin_20R">
+							<p id="sponsorText" class="margin_20T">
+								<strong>You Help Make it Possible</strong>
+							</p>
+							<div style="padding:10px;">
+								<p class="textCenter margin_0">
+									<img src="/medias/trefoil-order-card.png?context=bWFzdGVyfHJvb3R8MzE2NXxpbWFnZS9wbmd8aGIyL2g3YS85MTE4MTA0NDg1OTE4LnBuZ3w1NmYwMTA0YmI4NWQyYWVkODhkYmYwY2YyMmJmZGJhNGJkYTNiMmI0YmU1YjU0ZDNjYmY1YmU2ZDZmODFkZDkz" alt="Logo" style="vertical-align:top;"/>
+								</p>
+								<p>Cookie order proceeds:<br/>• stay 100% local<br/>• power unique, new experiences for girls.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<div id="divMeetCookies" class="margin_20B width_260px whiteBackGround">
+      <div class="padding_20L padding_20R">
+          <div class="lightGrayBackGround">
+              <div class="divWidth_100Gray">
+                  <div class="margin_20L margin_20R">
+                      <p class="margin_20T openSansExtraBold_14Black textCenter">Meet the Cookies
+                          <br />
+                      </p>
+                      <div class="meetCookies margin_20B">
+                      <div><a id="svsm" class="getsvsm openImgDetLoad" href="#opensvsm"><img id="rb_svsm" src="/medias/svsm-normal.png?context=bWFzdGVyfHJvb3R8MzAwODl8aW1hZ2UvcG5nfGhmOS9oZDAvOTExNzg2MDU5MzY5NC5wbmd8NmI2MTZhZGFkN2Y5N2I2MTEzMTJhMDhlZWJiNDJiOGI3YjlmMGIzMTRkYzM1MmY5ZTgyNGRhMmRmOGNhNzVhMQ" alt="Savannah Smiles" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Savannah Smiles</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Crisp, zesty, lemon cookies</p>
+                          </div>
+                          <div><a id="tmint" class="gettmint openImgDetLoad" href="#opentmint"><img id="rb_tmint" src="/medias/tmint-normal.png?context=bWFzdGVyfHJvb3R8MzIxODB8aW1hZ2UvcG5nfGg3YS9oY2MvOTExNzg2MTI0OTA1NC5wbmd8NjkzZTBjN2NmZTY4NTA5ZWJhNTBmZDgwZWQwMjc0MTlmMTc4N2UxNzQzZTFhZDEzZTZiODEyMTkyNTUyNzA0MQ" alt="Thin Mints" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Thin Mints</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Crisp, chocolaty and minty</p>
+                          </div>
+                          <div><a id="tre" class="gettre openImgDetLoad" href="#opentre"><img id="rb_tre" src="/medias/tre-normal.png?context=bWFzdGVyfHJvb3R8MzIxNjN8aW1hZ2UvcG5nfGhiZi9oZDEvOTExNzg2MTQxMjg5NC5wbmd8MmNmMDJiYWZmY2NmZmFkYzA1OTkwOTVkYjhkMzA2OTQzMWQ1N2JlYzZkZmY3NTdjYzdmZDk1NTdjMTlmMmZiMA" alt="Trefoils" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Trefoils</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Classic shortbread cookies</p>
+                          </div>
+                          <div><a id="sam" class="getsam openImgDetLoad" href="#opensam"><img id="rb_sam" src="/medias/sam-normal.png?context=bWFzdGVyfHJvb3R8NDE5ODd8aW1hZ2UvcG5nfGgzNi9oOGMvOTExNzg2MDkyMTM3NC5wbmd8MjUwYWNjNGRiYjI1YWMzMDhiYmZiOTY2MjRjOTlkOGVhZDM2MDI4MzllYWU1ZGI0MWNhMzlhMWNjMzMzMmIyYQ" alt="Samoas" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Samoas</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Chocolaty with caramel & coconut</p>
+                          </div>
+                          <div><a id="dsd" class="getdsd openImgDetLoad" href="#opendsd"><img id="rb_dsd" src="/medias/dsd-normal.png?context=bWFzdGVyfHJvb3R8MzU4Mzh8aW1hZ2UvcG5nfGg4Mi9oZDYvOTExNzg2MDc5MDMwMi5wbmd8MWE3NWI5NmQ3NWVlN2M1OTdlZGFhZjgxZTgxMTYwMzM2YTM0OGEwOGRjMmNmMTE5ZTk2MTA4MmQyNmQ4M2JiNA" alt="Do-si-dos" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Do-si-dos</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Peanut butter sandwich cookie</p>
+                          </div>
+                          <div><a id="tag" class="gettag openImgDetLoad" href="#opentag"><img id="rb_tag" src="/medias/tag-normal.png?context=bWFzdGVyfHJvb3R8MjQ0NjR8aW1hZ2UvcG5nfGgzZS9oNWQvOTExNzg2MTE1MDc1MC5wbmd8MzVmOGY0N2M2ZjA2ZTQ4ZDY1YWZhN2M3ZWEwYmNlNWVhYjkyNWNhMjAzMGYzZGUyY2M1YTJjOTE0Y2NkZTQ3ZQ" alt="Tagalongs" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Tagalongs</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Peanut butter patties</p>
+                          </div>
+                          <div><a id="toffee" class="gettoffee openImgDetLoad" href="#opentoffee"><img id="rb_toffee" src="/medias/toffee-normal.png?context=bWFzdGVyfHJvb3R8MzkzNDF8aW1hZ2UvcG5nfGhiOC9oNjIvOTExNzg2MTgzODg3OC5wbmd8ZjYxZTAzN2JlODgwZTI2OTQ0NjUzNmIxZTI3MzdjZDRlOWM4OGUwZmFlOWUxNzc1YzMxNWUwODA5MmQwMWUxZA" alt="Toffee-tastic" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Toffee-tastic</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Buttery cookie w/toffee bits</p>
+                          </div>
+                          <div><a id="smores" class="getsmores openImgDetLoad" href="#opensmores"><img id="rb_smores" src="/medias/smores-normal.png?context=bWFzdGVyfHJvb3R8MzM4MTJ8aW1hZ2UvcG5nfGgwYS9oYWMvOTExNzg2MjAwMjcxOC5wbmd8OTllZWVhYjEyOTM3NTM5OGM0YWIwMGI1NDcxNGI2ODk1NWFjZTZjODY3MTdhNzhkNDUzOTZlNWVlYWZiOWZhMA" alt="Girl Scout S'mores" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Girl Scout S'mores</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Chocolate, marshmallowy, graham cookies.</p>
+                          </div>
+                          </div>
+                      <div id="cookieBannerSpeed" class="hidden">2000</div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  
+  <!-- Div favorite cookies layout-->
+								<div id="divCookieBooth" class="margin_20B width_260px whiteBackGround">
+                                    <div class="padding_20L padding_20R">
+                                        <div class="lightGrayBackGround">
+                                            <div class="divWidth_100Gray">
+                                                <div class="margin_20L margin_20R">
+                                                    <p class="margin_15T openSansExtraBold_14Black">Buy from a Cookie Booth
+                                                    </p>
+                                                    <div class="margin_10T margin_10B">
+														<div id="cookieBoothInput">
+															<input type="text" id="cookieBoothZip" placeholder="Enter Zip Code" class="width_120" pattern="^[0-9]{5}(?:-[0-9]{4})?$" maxlength="10" tabindex="-1"/> <!--<INPUT type="submit" class="imgButton margin_5L" onclick="" value="">-->
+															<!--<a id="getBooth" href="#openBooth">-->
+																	<button id="getBooth" class="getBooth" >
+															<img alt="Green Arrow" src="/_ui/desktop/common/img/green-arrow.png" />
+															</button>    
+																	 <!--</a>-->
+														</div>
+														<div id="mobile_cookieBoothInput">
+															<input type="text" id="mobile_cookieBoothZip" placeholder="Enter Zip Code" class="width_120" pattern="^[0-9]{5}(?:-[0-9]{4})?$" maxlength="10" tabindex="-1"/> <!--<INPUT type="submit" class="imgButton margin_5L" onclick="" value="">-->
+															<!--<a id="getBooth" href="#openBooth">-->
+																	<button id="mobile_getBooth" class="getBooth" >
+															<img alt="Green Arrow" src="/_ui/desktop/common/img/green-arrow.png" />
+															</button>    
+																	 <!--</a>-->
+														</div>
+                                                    </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+									
+								<!-- Div favorite cookies layout-->
+<div id="divCookieFaq" class="margin_20B width_260px whiteBackGround">
+	<div class="padding_20L padding_20R">
+		<div class="lightGrayBackGround">
+			<div class="divWidth_100Gray">
+				<div class="margin_20L">
+					<p class="margin_15T openSansExtraBold_14Black">
+						FAQs on Cookie Orders
+						<!--<INPUT type="submit" class="imgButton margin_5L" value="">-->
+						<a id="getFAQ" onclick="active('1')"
+							href="/faq" class="simple-ajax-popup"><img
+							alt="Green Arrow" class="padding_5L"
+							src="/_ui/desktop/common/img/green-arrow.png" /> </a>
+					</p>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div></div>
+						<div id="mobile_sideBar">
+							<!-- Div skill layout-->
+<div id="poweredByWrapper"
+			class="margin_20B width_260px whiteBackGround">
+			<div class="padding_20L padding_20R">
+				<div class="lightGrayBackGround">
+					<div class="divWidth_100Gray">
+						<div class="textLeft margin_20L margin_20R">
+							<p id="sponsorText" class="margin_20T">
+								<strong>You Help Make it Possible</strong>
+							</p>
+							<div style="padding:10px;">
+								<p class="textCenter margin_0">
+									<img src="/medias/trefoil-order-card.png?context=bWFzdGVyfHJvb3R8MzE2NXxpbWFnZS9wbmd8aGIyL2g3YS85MTE4MTA0NDg1OTE4LnBuZ3w1NmYwMTA0YmI4NWQyYWVkODhkYmYwY2YyMmJmZGJhNGJkYTNiMmI0YmU1YjU0ZDNjYmY1YmU2ZDZmODFkZDkz" alt="Logo" style="vertical-align:top;"/>
+								</p>
+								<p>Cookie order proceeds:<br/>• stay 100% local<br/>• power unique, new experiences for girls.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<div id="divMeetCookies" class="margin_20B width_260px whiteBackGround">
+      <div class="padding_20L padding_20R">
+          <div class="lightGrayBackGround">
+              <div class="divWidth_100Gray">
+                  <div class="margin_20L margin_20R">
+                      <p class="margin_20T openSansExtraBold_14Black textCenter">Meet the Cookies
+                          <br />
+                      </p>
+                      <div class="meetCookies margin_20B">
+                      <div><a id="svsm" class="getsvsm openImgDetLoad" href="#opensvsm"><img id="rb_svsm" src="/medias/svsm-normal.png?context=bWFzdGVyfHJvb3R8MzAwODl8aW1hZ2UvcG5nfGhmOS9oZDAvOTExNzg2MDU5MzY5NC5wbmd8NmI2MTZhZGFkN2Y5N2I2MTEzMTJhMDhlZWJiNDJiOGI3YjlmMGIzMTRkYzM1MmY5ZTgyNGRhMmRmOGNhNzVhMQ" alt="Savannah Smiles" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Savannah Smiles</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Crisp, zesty, lemon cookies</p>
+                          </div>
+                          <div><a id="tmint" class="gettmint openImgDetLoad" href="#opentmint"><img id="rb_tmint" src="/medias/tmint-normal.png?context=bWFzdGVyfHJvb3R8MzIxODB8aW1hZ2UvcG5nfGg3YS9oY2MvOTExNzg2MTI0OTA1NC5wbmd8NjkzZTBjN2NmZTY4NTA5ZWJhNTBmZDgwZWQwMjc0MTlmMTc4N2UxNzQzZTFhZDEzZTZiODEyMTkyNTUyNzA0MQ" alt="Thin Mints" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Thin Mints</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Crisp, chocolaty and minty</p>
+                          </div>
+                          <div><a id="tre" class="gettre openImgDetLoad" href="#opentre"><img id="rb_tre" src="/medias/tre-normal.png?context=bWFzdGVyfHJvb3R8MzIxNjN8aW1hZ2UvcG5nfGhiZi9oZDEvOTExNzg2MTQxMjg5NC5wbmd8MmNmMDJiYWZmY2NmZmFkYzA1OTkwOTVkYjhkMzA2OTQzMWQ1N2JlYzZkZmY3NTdjYzdmZDk1NTdjMTlmMmZiMA" alt="Trefoils" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Trefoils</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Classic shortbread cookies</p>
+                          </div>
+                          <div><a id="sam" class="getsam openImgDetLoad" href="#opensam"><img id="rb_sam" src="/medias/sam-normal.png?context=bWFzdGVyfHJvb3R8NDE5ODd8aW1hZ2UvcG5nfGgzNi9oOGMvOTExNzg2MDkyMTM3NC5wbmd8MjUwYWNjNGRiYjI1YWMzMDhiYmZiOTY2MjRjOTlkOGVhZDM2MDI4MzllYWU1ZGI0MWNhMzlhMWNjMzMzMmIyYQ" alt="Samoas" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Samoas</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Chocolaty with caramel & coconut</p>
+                          </div>
+                          <div><a id="dsd" class="getdsd openImgDetLoad" href="#opendsd"><img id="rb_dsd" src="/medias/dsd-normal.png?context=bWFzdGVyfHJvb3R8MzU4Mzh8aW1hZ2UvcG5nfGg4Mi9oZDYvOTExNzg2MDc5MDMwMi5wbmd8MWE3NWI5NmQ3NWVlN2M1OTdlZGFhZjgxZTgxMTYwMzM2YTM0OGEwOGRjMmNmMTE5ZTk2MTA4MmQyNmQ4M2JiNA" alt="Do-si-dos" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Do-si-dos</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Peanut butter sandwich cookie</p>
+                          </div>
+                          <div><a id="tag" class="gettag openImgDetLoad" href="#opentag"><img id="rb_tag" src="/medias/tag-normal.png?context=bWFzdGVyfHJvb3R8MjQ0NjR8aW1hZ2UvcG5nfGgzZS9oNWQvOTExNzg2MTE1MDc1MC5wbmd8MzVmOGY0N2M2ZjA2ZTQ4ZDY1YWZhN2M3ZWEwYmNlNWVhYjkyNWNhMjAzMGYzZGUyY2M1YTJjOTE0Y2NkZTQ3ZQ" alt="Tagalongs" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Tagalongs</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Peanut butter patties</p>
+                          </div>
+                          <div><a id="toffee" class="gettoffee openImgDetLoad" href="#opentoffee"><img id="rb_toffee" src="/medias/toffee-normal.png?context=bWFzdGVyfHJvb3R8MzkzNDF8aW1hZ2UvcG5nfGhiOC9oNjIvOTExNzg2MTgzODg3OC5wbmd8ZjYxZTAzN2JlODgwZTI2OTQ0NjUzNmIxZTI3MzdjZDRlOWM4OGUwZmFlOWUxNzc1YzMxNWUwODA5MmQwMWUxZA" alt="Toffee-tastic" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Toffee-tastic</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Buttery cookie w/toffee bits</p>
+                          </div>
+                          <div><a id="smores" class="getsmores openImgDetLoad" href="#opensmores"><img id="rb_smores" src="/medias/smores-normal.png?context=bWFzdGVyfHJvb3R8MzM4MTJ8aW1hZ2UvcG5nfGgwYS9oYWMvOTExNzg2MjAwMjcxOC5wbmd8OTllZWVhYjEyOTM3NTM5OGM0YWIwMGI1NDcxNGI2ODk1NWFjZTZjODY3MTdhNzhkNDUzOTZlNWVlYWZiOWZhMA" alt="Girl Scout S'mores" border="0" /></a>
+                              <p class="openSansBold_16 textCenter margin_0">Girl Scout S'mores</p>
+                              <p class="openSansReg_14Black textCenter margin_0">Chocolate, marshmallowy, graham cookies.</p>
+                          </div>
+                          </div>
+                      <div id="cookieBannerSpeed" class="hidden">2000</div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
+  
+  <!-- Div favorite cookies layout-->
+								<div id="divCookieBooth" class="margin_20B width_260px whiteBackGround">
+                                    <div class="padding_20L padding_20R">
+                                        <div class="lightGrayBackGround">
+                                            <div class="divWidth_100Gray">
+                                                <div class="margin_20L margin_20R">
+                                                    <p class="margin_15T openSansExtraBold_14Black">Buy from a Cookie Booth
+                                                    </p>
+                                                    <div class="margin_10T margin_10B">
+														<div id="cookieBoothInput">
+															<input type="text" id="cookieBoothZip" placeholder="Enter Zip Code" class="width_120" pattern="^[0-9]{5}(?:-[0-9]{4})?$" maxlength="10" tabindex="-1"/> <!--<INPUT type="submit" class="imgButton margin_5L" onclick="" value="">-->
+															<!--<a id="getBooth" href="#openBooth">-->
+																	<button id="getBooth" class="getBooth" >
+															<img alt="Green Arrow" src="/_ui/desktop/common/img/green-arrow.png" />
+															</button>    
+																	 <!--</a>-->
+														</div>
+														<div id="mobile_cookieBoothInput">
+															<input type="text" id="mobile_cookieBoothZip" placeholder="Enter Zip Code" class="width_120" pattern="^[0-9]{5}(?:-[0-9]{4})?$" maxlength="10" tabindex="-1"/> <!--<INPUT type="submit" class="imgButton margin_5L" onclick="" value="">-->
+															<!--<a id="getBooth" href="#openBooth">-->
+																	<button id="mobile_getBooth" class="getBooth" >
+															<img alt="Green Arrow" src="/_ui/desktop/common/img/green-arrow.png" />
+															</button>    
+																	 <!--</a>-->
+														</div>
+                                                    </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+									
+								<!-- Div favorite cookies layout-->
+<div id="divCookieFaq" class="margin_20B width_260px whiteBackGround">
+	<div class="padding_20L padding_20R">
+		<div class="lightGrayBackGround">
+			<div class="divWidth_100Gray">
+				<div class="margin_20L">
+					<p class="margin_15T openSansExtraBold_14Black">
+						FAQs on Cookie Orders
+						<!--<INPUT type="submit" class="imgButton margin_5L" value="">-->
+						<a id="getFAQ" onclick="active('1')"
+							href="/faq" class="simple-ajax-popup"><img
+							alt="Green Arrow" class="padding_5L"
+							src="/_ui/desktop/common/img/green-arrow.png" /> </a>
+					</p>
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div></div>
+						<div id="openBooth" class="modalDialog mfp-hide">
+							<div>
+								<div class="modalHeader">
+									<button title="Close (Esc)" type="button" class="mfp-close"></button>
+								</div>
+								<div class="clearfix"></div>
+								<div class="modalContent padding_20L padding_20R cookieBoothHeight">
+									<iframe style="overflow: hidden; height: 100%; width: 96%; position: relative;" width="96%" height="100%" frameborder="0" webkitallowfullscreenÂ mozallowfullscreenÂ allowfullscreen></iframe>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		<!--end main content -->
+		
+	</div>	
+
+	<!--begin footer content here -->
+	<!--footer component -->
+<div style="display: none;">
+   <img src="/_ui/desktop/common/img/loading_graphic.gif" alt="" />
+</div>
+<div id="footerTemplate">
+				<div class="footer-container">
+					<footer class="container_24">
+						<div class="grid_12">
+							<p class="margin_0 margin_20L">
+								<img id="mobile_logo" src="/medias/GS-ORswWA-servicemark.png?context=bWFzdGVyfHJvb3R8NTI5NHxpbWFnZS9wbmd8aGM3L2g0ZS84OTEwMDg2MDEyOTU4LnBuZ3xlN2I3NzczYTc4NTRlMDAwMjJlOGZhODQ3OGQzNjg2MDQ1MDc4OTQ1ZTQ3ZGI1OGQ5YjI1ZGJlZDU5NjhjNGRj"
+											alt="Council Logo Image" />
+									</p>
+						</div>
+						<div class="clearfix"></div>
+						<div id="footer_links" class="floatleft">
+							<p class="margin_0 margin_20L margin_10B openSansReg_14White">
+
+								<span class="margin_20R"><a class="whiteColor"
+									href="http://www.girlscouts.org/en/about-girl-scouts/join.html"
+									target="_blank">Join</a></span> <span class="margin_20R"><a
+									class="whiteColor"
+									href="http://www.girlscouts.org/en/adults/volunteer.html"
+									target="_blank">Volunteer</a></span> <span class="margin_20R"><a
+									class="whiteColor"
+									href="http://pages.email.girlscouts.org/page.aspx?QS=5c591a8916642e73bbdd2b3af1ed17fabc34146f0ce469b314b683b748356c47"
+									target="_blank">Reconnect</a></span> <span class="margin_20R"><a
+									class="whiteColor"
+									href="http://www.girlscouts.org/help/privacy.asp"
+									target="_blank">Privacy</a></span> <span class="margin_20R"><a
+									class="whiteColor"
+									href="http://www.girlscouts.org/help/terms_conditions.asp"
+									target="_blank">Terms & Conditions</a></span> <span class="margin_20R"><a class="whiteColor"
+											href="https://0108d42180f76899de43-2ec832c3a4bccaac5a9b22805ef6f67b.ssl.cf2.rackcdn.com/contactus/dc-support-consumer.html"
+											target="_blank">Contact Us</a>
+									</span>
+								<a id="getFAQ1" onclick="active('false')" href="/faq" class="simple-ajax-popup openSansExtraBold_14Yellow">Help</a>
+							</p>
+						</div>
+						<div id="mobile_footer_links"
+							class="floatleft openSansReg_12White">
+							<div class="floatleft" style="width: 33.3%">
+								<p class="margin_0 margin_20L margin_10B">
+									<span class="margin_20R padding_20B"><a
+										class="whiteColor"
+										href="http://www.girlscouts.org/en/about-girl-scouts/join.html"
+										target="_blank">Join</a></span>
+								</p>
+								<p class="margin_0 margin_20L margin_10B ">
+									<span class="margin_20R padding_20B"><a
+										class="whiteColor"
+										href="http://www.girlscouts.org/en/adults/volunteer.html"
+										target="_blank">Volunteer</a></span>
+								</p>
+								<p class="margin_0 margin_20L margin_10B ">
+									<span class="margin_20R padding_20B"><a
+										class="whiteColor"
+										href="http://pages.email.girlscouts.org/page.aspx?QS=5c591a8916642e73bbdd2b3af1ed17fabc34146f0ce469b314b683b748356c47"
+										target="_blank">Reconnect</a></span>
+								</p>
+							</div>
+							<div class="floatleft" style="width: 55.3%">
+								<p class="margin_0 margin_20L margin_10B ">
+									<span class="margin_20R padding_20B"><a
+										class="whiteColor"
+										href="http://www.girlscouts.org/help/privacy.asp"
+										target="_blank">Privacy</a></span>
+								</p>
+								<p class="margin_0 margin_20L margin_10B ">
+									<span class="margin_20R padding_20B"><a
+										class="whiteColor"
+										href="http://www.girlscouts.org/help/terms_conditions.asp"
+										target="_blank">Terms & Conditions</a></span>
+								</p>
+								<p class="margin_0 margin_20L margin_10B ">
+									<span class="margin_20R padding_20B"><a class="whiteColor"
+												href="https://0108d42180f76899de43-2ec832c3a4bccaac5a9b22805ef6f67b.ssl.cf2.rackcdn.com/contactus/dc-support-consumer.html"
+												target="_blank">Contact Us</a>
+										</span>
+								</p>
+							</div>
+							<div class="floatright" style="width: 11.3%">
+								<p class="margin_0 margin_20L margin_10B">
+									<a id="getFAQ1" onclick="active('false')" href="/faq" class="simple-ajax-popup openSansExtraBold_14Yellow">Help</a>
+								</p>
+							</div>
+
+						</div>
+						<div id="socialIcons" class="floatright margin_10R">
+							<a href="http://www.facebook.com/GirlScoutsUSA" target="_blank"><img
+								src="/_ui/desktop/common/img/facebook_30_white.png"
+								alt="facebook" title="facebook" /></a> <a
+								href="http://twitter.com/girlscouts" target="_blank"> <img
+								src="/_ui/desktop/common/img/twitter_30_white.png"
+								alt="twitter" title="twitter" /></a> <a
+								href="http://www.youtube.com/girlscoutvideos" target="_blank">
+								<img src="/_ui/desktop/common/img/youtube.png" alt="youtube"
+								title="youtube" />
+							</a> <a href="http://instagram.com/girlscouts" target="_blank"> <img
+								src="/_ui/desktop/common/img/instagram_32_white.png"
+								alt="instagram" title="instagram" /></a> <a
+								href="http://pinterest.com/gsusa" target="_blank"> <img
+								src="/_ui/desktop/common/img/pinterest_30_white.png"
+								alt="pinterest" title="pinterest" /></a> <a
+								href="http://blog.girlscouts.org" target="_blank"> <img
+								src="/_ui/desktop/common/img/blogger_white_32.png"
+								alt="blogger" title="blogger" /></a> <a
+								href="http://www.linkedin.com/company/girl-scouts-of-the-usa/"
+								target="_blank"> <img
+								src="/_ui/desktop/common/img/linkedin_32_white.png"
+								alt="linkedin" title="linkedin" /></a>
+						</div>
+						<div class="clearfix"></div>
+						<div id="copyright" class="margin_20L">
+
+							<p class="openSansReg_11White">&copy; 2016-2019 Girl Scouts of the United States of America. A 501(c)(3) Organization. All Rights Reserved.</p>
+						</div>
+					</footer>
+				</div>
+
+			</div>
+
+		<!--end footer component -->
+<script>
+	$('#getFAQ1, #getHelpFAQ, #getHelpFAQ1,#getHelpFAQ2,#getHelpFAQ3').magnificPopup({
+		type : 'ajax',
+		alignTop : true,
+		overflowY : 'scroll',
+		closeOnContentClick : false,
+		closeOnBgClick : false
+	});
+</script>
+
+<!-- Image preloading for nav bar -->
+
+
+<!-- end footer content here --> 
+	</div>
+
+   <form name="accessiblityForm">
+      <input type="hidden" id="accesibility_refreshScreenReaderBufferField" name="accesibility_refreshScreenReaderBufferField" value="" />
+   <input type="hidden" name="_requestConfirmationToken"  value="06459b3959d909427837713d1dfc3e76f1eb4434"/></form>
+   <div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
+   <script type="text/javascript" src="/_ui/desktop/common/js/gsa.cookieorder.js"></script>
+   <script type="text/javascript" src="https://secure.checkout.visa.com/checkout-widget/resources/js/integration/v1/sdk.js"></script>
+   
+</body>
+
+</html>

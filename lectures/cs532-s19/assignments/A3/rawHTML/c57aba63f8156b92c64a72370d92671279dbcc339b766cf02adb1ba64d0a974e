@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="utf-8">
+<meta name="viewport" content="width=1200, initial-scale=1">
+<title>【AIビジネスのカタリスト】受託開発と人材育成を併せて提供――AI TOKYO LAB（後編） - DIGITALIST｜デジタリスト</title>
+<link rel="canonical" href="https://project.nikkeibp.co.jp/atcldgl/business/021200085/">
+<link rel="next" href="https://project.nikkeibp.co.jp/atcldgl/business/021200085/?P=2">
+<meta name="author" content="DIGITALIST">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/digitalist/2018/favi/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/images/digitalist/2018/favi/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/digitalist/2018/favi/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/images/digitalist/2018/favi/manifest.json">
+<link rel="mask-icon" href="/images/digitalist/2018/favi/safari-pinned-tab.svg" color="#333333">
+<link rel="shortcut icon" href="/images/digitalist/2018/favi/favicon.ico">
+<meta name="msapplication-config" content="/images/digitalist/2018/favi/browserconfig.xml">
+<meta name="description" content="リテール分野に特化したAI活用を支援するAI TOKYO LAB。目指しているビジネス像は？">
+<meta name="robots" content="noarchive">
+<meta name="theme-color" content="#4094ab">
+<meta property="og:title" content="【AIビジネスのカタリスト】受託開発と人材育成を併せて提供――AI TOKYO LAB（後編）">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://project.nikkeibp.co.jp/atcldgl/business/021200085/">
+<meta property="og:image" content="https://project.nikkeibp.co.jp/atcldgl/business/021200085/Thumbnail.jpg">
+<meta property="og:site_name" content="DIGITALIST">
+<meta property="og:description" content="リテール分野に特化したAI活用を支援するAI TOKYO LAB。目指しているビジネス像は？">
+<meta property="og:locale" content="ja_JP">
+<meta property="fb:app_id" content="162192074627866">
+<meta property="article:publisher" content="https://www.facebook.com/digitalist/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@digitalist_mag">
+<meta name="twitter:player" content="@digitalist_mag">
+<!--[if lt IE 9]><script type="text/javascript">
+!function(){for(var a=new Array("header","nav","section","article","aside","footer"),b=0,c=a.length;b<c;b++)document.createElement(a[b]);}();
+</script><![endif]-->
+<link rel="stylesheet" type="text/css" media="screen,print" href="/css/digitalist/2018/style.css?190104">
+<!-- Start TagManager -->
+<script src="https://assets.adobedtm.com/570a621a24b47ab0c04225f491ed07679e91176f/satelliteLib-c0f8f5e8f8119ca8294492a5195543cae62476bf.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KCGLNBV');</script>
+<!-- End TagManager -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+
+<script type="text/javascript">
+var dag_adslots = [];
+ 
+ var cX = cX || {};cX.callQueue = cX.callQueue || [];
+ cX.callQueue.push(['invoke',function(){
+  googletag.cmd.push(function() {
+   googletag.pubads().setTargeting('PRJserial','b983eb8e05');
+   googletag.pubads().setTargeting('CMStheme','dgl-business');
+   googletag.pubads().setTargeting('curtDN', location.hostname );
+   googletag.pubads().setTargeting('refDN', document.referrer.split('/')[2] || [] );
+   googletag.pubads().setTargeting('extPF', (function(q,k){var kv=q.split(k+"=")[1];if(kv){return kv.split("&")[0];}}(location.search,"extpf")) || []);
+   googletag.pubads().setTargeting('page', 'F');
+   googletag.pubads().setTargeting('CMSauth', 'AUTHNG');
+   googletag.pubads().setTargeting('CxSegments',cX.getUserSegmentIds({persistedQueryId:'7f33b36718301b094cd77f074490dbf21c1f1f4f'}));
+   googletag.pubads().setTargeting('a1','noseg');
+dag_adslots.DGL_rectangle1 = googletag.defineSlot('/54271731/Project/DGL/rectangle1/business', [[300, 250], [300, 300], [300, 600]], 'div-gpt-ad-DGL_rectangle1').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+googletag.pubads().enableSingleRequest();
+   googletag.enableServices();
+  });
+ }]);
+</script></head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id; js.async = true;
+js.src = 'https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.12';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="wrapper">
+
+<header class="header">
+
+<div class="headerAside">
+<nav class="localNavi">
+<div class="localNaviColumn">
+<div class="localNaviColumnLeft">
+<ul class="localNaviList">
+<li class="localNaviListItem"><a href="/digitalist/"><h1 class="logo_sizeA"><img src="/images/digitalist/2018/logo_w.svg" alt="digitalist"></h1></a></li>
+<li class="localNaviListItem"><a href="/digitalist/innovators/">Innovators</a></li>
+<li class="localNaviListItem"><a href="/digitalist/business/">Business</a></li>
+<li class="localNaviListItem"><a href="/digitalist/idea/">Idea</a></li>
+<li class="localNaviListItem"><a href="/digitalist/life/">Life</a></li>
+<li class="localNaviListItem"><a href="/digitalist/feature/">Feature</a></li>
+</ul>
+</div>
+<div class="localNaviColumnRight">
+<ul class="localNaviBox">
+<li class="localNaviBoxItem">
+<form class="searchBox" action="#" onsubmit="if(this.q.value===''){alert('検索ワードを入力してください。');}else{location.href='/digitalist/search/?q='+encodeURIComponent(this.q.value)};return(false);" >
+<input class="searchBoxForm js-toggleSearchTarget" type="text" value="" placeholder="Search" name="q">
+<input class="searchBoxBtn js-toggleSearchTrigger" type="submit" value="">
+</form>
+</li>
+<li class="localNaviBoxItem"><a href="#" onclick="trackClick('login', 'header');return(bpsso.liMov(0))"><img src="/images/digitalist/2018/icon_login.png?180822" alt="ログイン"></a></li>
+<li class="localNaviBoxItem"><a href="#" onclick="trackClick('regist', 'header');return(bpsso.rgMov(0))"><img src="/images/digitalist/2018/icon_register.png?180822" alt="新規会員登録"></a></li>
+</ul>
+</div>
+</div>
+</nav>
+<!-- /.localNavi -->
+</div>
+
+<div class="headerFix">
+
+<div class="headerFixBox">
+<div class="headerFixBoxInner">
+<div class="headerFixBoxInnerLogo">
+<a class="siteLogo logo_sizeB" href="/digitalist/"><img src="/images/digitalist/2018/logo.svg" alt="digitalist"></a>
+<!-- /.siteLogo -->
+</div>
+<div class="headerFixBoxInnerBtn">
+<div class="searchBox">
+<div class="searchBoxBtn js-modalMenu"></div>
+</div>
+<a class="headerFixBoxInnerBtnIcon js-toggleMenuBtn">
+<span></span>
+<span></span>
+<span></span>
+</a>
+</div>
+</div>
+</div>
+
+<div class="headerFixMenu js-toggleMenu">
+<div class="headerFixMenuLeft">
+<p class="headerFixMenuLeftTtl">CATEGORY MENU</p>
+<div class="headerFixMenuLeftList">
+<a href="/digitalist/innovators/" class="headerFixMenuLeftListItem">
+<span class="headerFixMenuLeftListItemEn">Innovators</span>
+<small class="headerFixMenuLeftListItemJa">イノベーター</small>
+</a>
+<a href="/digitalist/business/" class="headerFixMenuLeftListItem">
+<span class="headerFixMenuLeftListItemEn">Business</span>
+<small class="headerFixMenuLeftListItemJa">ビジネス</small>
+</a>
+<a href="/digitalist/idea/" class="headerFixMenuLeftListItem">
+<span class="headerFixMenuLeftListItemEn">Idea</span>
+<small class="headerFixMenuLeftListItemJa">アイデア</small>
+</a>
+<a href="/digitalist/life/" class="headerFixMenuLeftListItem">
+<span class="headerFixMenuLeftListItemEn">Life</span>
+<small class="headerFixMenuLeftListItemJa">ライフスタイル</small>
+</a>
+<a href="/digitalist/feature/" class="headerFixMenuLeftListItem headerFixMenuLeftListItem--type01">
+<span class="headerFixMenuLeftListItemEn">Feature</span>
+<small class="headerFixMenuLeftListItemJa">特集</small>
+</a>
+</div>
+</div>
+
+<div class="headerFixMenuRight">
+<a href="#" class="headerFixMenuRightBtn" onclick="trackClick('regist', 'header_n');return(bpsso.rgMov(0))">
+<span class="headerFixMenuRightBtnTxt">DIGITALISTの会員になる</span>
+<small class="headerFixMenuRightBtnSub">当サイト内の一部コンテンツ閲覧には会員登録（無料）が必要になります。</small>
+</a>
+<div class="headerFixMenuRightList">
+<a href="https://bpcgi.nikkeibp.co.jp/form-cgi/formhtml.cgi?form=nb1806/index.html" class="headerFixMenuRightListItem">お問い合わせ</a>
+<a href="/digitalist/about/" class="headerFixMenuRightListItem">About DIGITALIST</a>
+</div>
+</div>
+
+</div>
+</div>
+
+<div id="js-modalMenu" class="headersearchFix">
+<div class="headersearchFixBox">
+<div class="headersearchFixBoxInner">
+<div class="headersearchFixBoxInnerLogo">
+<a class="siteLogo" href="/digitalist/"><img src="/images/digitalist/2018/logo_menu.png" alt="digitalist"></a>
+<!-- /.siteLogo -->
+</div>
+<div class="headersearchFixBoxInnerBtn">
+<a class="headersearchFixBoxInnerBtnIcon js-modal-close is-active">
+<span></span>
+<span></span>
+<span></span>
+</a>
+</div>
+</div>
+</div>
+<div class="headersearcFixMenu">
+<div class="headersearcFixMenuInner">
+<form class="headersearcFixMenuInnerSearchbox" action="#" onsubmit="if(this.q.value===''){alert('検索ワードを入力してください。');}else{location.href='/digitalist/search/?q='+encodeURIComponent(this.q.value)};return(false);" >
+<input class="headersearcFixMenuInnerSearchboxForm" type="text" value="" placeholder="Search" name="q">
+<input class="headersearcFixMenuInnerSearchboxBtn" type="submit" value="">
+</form>
+<div class="headersearcFixMenuInnerTag">
+<div class="headersearcFixMenuInnerTagList">
+<a href="/digitalist/tags/?AI" class="headersearcFixMenuInnerTagListItem">#AI</a>
+<a href="/digitalist/tags/?%E3%83%AA%E3%83%86%E3%83%BC%E3%83%AB" class="headersearcFixMenuInnerTagListItem">#リテール</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</header>
+<div class="content content--page">
+
+<div class="side">
+
+<div class="sideSns js-boxFixed">
+<div class="sideSnsTtl">share</div>
+<ul class="sideSnsList">
+<li class="sideSnsListItem">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://project.nikkeibp.co.jp/atcldgl/business/021200085/" target="_blank">
+<img src="/images/digitalist/2018/icon_sns_01.png" alt="Facebook">
+</a>
+</li>
+<li class="sideSnsListItem">
+<a href="https://twitter.com/intent/tweet?text=%E3%80%90AI%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%81%AE%E3%82%AB%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%88%E3%80%91%E5%8F%97%E8%A8%97%E9%96%8B%E7%99%BA%E3%81%A8%E4%BA%BA%E6%9D%90%E8%82%B2%E6%88%90%E3%82%92%E4%BD%B5%E3%81%9B%E3%81%A6%E6%8F%90%E4%BE%9B%E2%80%95%E2%80%95AI+TOKYO+LAB%EF%BC%88%E5%BE%8C%E7%B7%A8%EF%BC%89%EF%BC%9ADiGITALIST+https://project.nikkeibp.co.jp/atcldgl/business/021200085/" target="_blank">
+<img src="/images/digitalist/2018/icon_sns_02.png" alt="Twitter">
+</a>
+</li>
+<li class="sideSnsListItem">
+<a href="https://plus.google.com/share?url=https://project.nikkeibp.co.jp/atcldgl/business/021200085/" target="_blank">
+<img src="/images/digitalist/2018/icon_sns_06.png" alt="Google+">
+</a>
+</li>
+<li class="sideSnsListItem">
+<a href="http://b.hatena.ne.jp/add?url=https://project.nikkeibp.co.jp/atcldgl/business/021200085/" target="_blank">
+<img src="/images/digitalist/2018/icon_sns_07.png" alt="はてなブックマーク">
+</a>
+</li>
+<li class="sideSnsListItem">
+<a href="http://getpocket.com/edit?url=https://project.nikkeibp.co.jp/atcldgl/business/021200085/" target="_blank">
+<img src="/images/digitalist/2018/icon_sns_08.png" alt="Pocket">
+</a>
+</li>
+<li class="sideSnsListItem">
+<a href="http://line.me/R/msg/text/?https://project.nikkeibp.co.jp/atcldgl/business/021200085/" target="_blank">
+<img src="/images/digitalist/2018/icon_sns_03.png" alt="Line">
+</a>
+</li>
+<li class="sideSnsListItem">
+<a href="https://8card.net/posts/links/new?application_id=374715678740251&url=https://project.nikkeibp.co.jp/atcldgl/business/021200085/" target="_blank">
+<img src="/images/digitalist/2018/icon_sns_09.png" alt="Eight">
+</a>
+</li>
+</ul>
+</div>
+
+</div>
+<div class="mainBox">
+<div class="mainBoxColumn js-sidebarContents">
+<div class="mainBoxColumnContent">
+
+<article class="article">
+
+<span class="articleCt">Business</span>
+<header class="articleHeader">
+<time class="time" datetime="2019-02-15T11:00:00+0900">2019.2.15</time>
+<h1 class="parentTitle">【AIビジネスのカタリスト】受託開発と人材育成を併せて提供――AI TOKYO LAB（後編）</h1>
+<address class="address">堀 純一郎＝HORI PARTNERS代表</address>
+<div class="grayBox">
+<p class="grayBoxTxt">リテール分野に特化したAI活用を支援するAI TOKYO LAB。目指しているビジネス像は？</p>
+</div>
+<div class="image">
+<img src="https://cdn-project.nikkeibp.co.jp/atcldgl/business/021200085/TypicalImageM.jpg?__scale=w:675,h:329&_sh=09f0ab0b10" width="675" height="329" /></div>
+<div class="socialButtons">
+<div class="socialButtonsList">
+<div class="socialButtonsListItem">
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">ツイート</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div class="socialButtonsListItem">
+<div class="fb-like" data-href="https://project.nikkeibp.co.jp/atcldgl/business/021200085/" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
+</div>
+<div class="socialButtonsListItem">
+<script src="https://apis.google.com/js/platform.js" async defer></script>
+<g:plusone size="medium"></g:plusone>
+</div>
+<div class="socialButtonsListItem">
+<a href="http://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+</div>
+<div class="socialButtonsListItem">
+<a data-pocket-label="pocket" data-pocket-count="none" class="pocket-btn" data-lang="en"></a>
+<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>
+</div>
+<div class="socialButtonsListItem">
+<div class="line-it-button" data-lang="ja" data-type="share-a" data-url="https://project.nikkeibp.co.jp/atcldgl/business/021200085/" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+</div>
+</div>
+</div>
+</header>
+
+<div class="articleBody">
+
+<p>
+（<a href="/atcldgl/business/021200084/" target="_blank">前編からのつづき</a>）
+
+<p>
+　起業3年目を迎え、リテール分野でのAI（人工知能）活用を目指して邁進中のAI TOKYO LAB。同社・北出宗治社長の、前職での顧客からのリクエストと、それに伴って生まれた北海道大学大学院情報研究科調和系工学研究室の川村秀憲教授との出会いが、AI TOKYO LABの創業につながった。
+</p>
+<br>
+<p>
+　前編では、北出社長のAIとの出会いや、AI TOKYO LABの事業内容について聞いた。後編では、同社の人材育成、北出氏自身の生い立ちと転機、目指しているビジネス像についてレポートする。
+</p>
+<br>
+<p>
+　AIのビジネスでは、優秀なAI技術者をいかに確保するかが競争力の源泉となる。2018年7～9月に日経クロストレンドが実施したAIスタートアップ向けのアンケート（調査機関：HORI PARTNERS、回答数：155件）では、経営課題の筆頭が「AIに対応できる技術者の確保」で3分の2に近い実に61.3％に上った。この傾向はその前年と同様で、各社は人材確保に躍起になっている。
+</p>
+
+<h3>
+受託開発と人材育成をワンストップで
+</h3>
+
+<p>
+　そんな中、AI TOKYO LABは北大と組むことでAIの研究者・技術者を確保できた。北出氏自身がAI技術に秀でているわけではなくとも、受託開発できる技術者とAI技術者を抱えているのは大きな強みである。そこで同社は、外部での開発を希望する企業には受託開発で支援し、社内で開発を希望する企業にはAIの人材育成を支援する体制を敷いている。
+</p>
+<br>
+<p>
+　「AI開発を希望する企業を、受託開発と人材育成の両面から支援できるワンストップ・ソリューションを提供しています。人材育成の講師を派遣することで顧客との関係性が深まり、受託に結び付くこともあります。人材育成だけをやっている会社もありますが、外注する場合は再度会社を探さなければなりませんが、当社は両方に対応できるので重宝されているようです」
+</p>
+<br>
+
+<div class="bpbox_center">
+<div class="bpimage_center" style="width:800px;"><div class="bpimage_image"><img src="/atcldgl/business/021200085/ph2.jpg" width="800" alt="" title=""></div><div class="bpimage_title">（資料提供：AI TOKYO LAB）</div></div>
+</div>
+
+<p>
+　ちなみに人材育成の講座は4コース用意されている。AI入門講座（基礎知識レベル）が2時間、AIビジネスプランナー講座（社内でAIを推進する人が対象）が4時間、AIテクニカルプランナー講座（ワトソンやグーグルのライブラリを使った画像認識・音声認識など）が15時間、AIエンジニア講座（プログラマー限定）が30時間という内訳だ。AIエンジニア講座は、経済産業省が推進する第四次産業革命スキル習得講座の認定を受けており、受講する側は助成金の対象となっている。
+</p>
+
+<h3>
+バックパッカーの旅で転機が
+</h3>
+
+<p>
+　苫小牧出身の北出氏は現在40歳。そもそもどんな生い立ちなのだろうか。実家は、祖父の代から父親の代まで、地元で果物や野菜の卸売市場を経営していた。長男として生まれた北出氏は、周りから当然跡を継ぐだろうと思われていたが、高校生の頃からそれがプレッシャーになっていたという。
+</p>
+<br>
+<p>
+　大学は東京に出てみたい気持ちはあったが、東京だと帰って来ないのではないかという周囲の心配もあって、あえて神奈川県の東海大学に進学した。学部は経営学部である。
+</p>
+<br>
+<p>
+　「跡を継ぐ意思を示しておくため、経営学部以外は考えられなかった」
+</p>
+<br>
+<p>
+　そんな北出氏にとって転機となったのは、自身の成人式の日だった。創業者の祖父が亡くなり、会社のスタッフ、親戚一同が集まる場で、あいまいにしておくのは良くないと考え、跡を継ぐ意思がないことを明かしたのである。
+</p>
+<br>
+<p>
+　「どう考えてもやる気が出ないし、血がつながっているからという理由だけで僕が来たって、誰も信頼してくれないし、会社がおかしくなってしまう。こんなに素晴らしい会社で働いている人たちに迷惑をかけたくない」という思いがあった。
+</p>
+<br>
+<p>
+　そこで初めて、自分はいったい何をやるのか、自分の人生をどうするのかを考えることになった。起こした行動は、自分探しのバックパッカーの旅。向かった先は米国で、2カ月間の旅だった。
+</p>
+<br>
+<p>
+　「泊まったユースホステルで絵ハガキを書いていると、ドイツやブラジル、ユーゴスラビアなどいろんな国から来ている旅人は、パソコン・コーナーで電子メールやチャットで彼女などとやり取りしていた。その姿を目の当たりにして、何をやってるんだ、この人たちは、と驚いた」
+</p>
+<br>
+<p>
+　今から20年ほど前の出来事である。当時はまだ、インターネットには馴染みが薄かった。帰国した北出氏は早速、パソコンを買ってインターネットを契約。趣味が音楽だった北出氏は、海外で出会った人たちに日本の音楽を伝えたいという思いから、日本の音楽のランキングを載せたり試聴ができたりするサイトをオープンさせた。すると・・・
+</p>
+<br>
+<p>
+　「大勢の人たちが見に来てくれるようになり、広告を貼ったら収入を得られるようになった。コタツの中でパソコンを操作しているだけで収入になった」
+</p>
+<br>
+
+<div class="bpbox_center">
+<div class="bpimage_center" style="width:800px;"><div class="bpimage_image"><img src="/atcldgl/business/021200085/ph3.jpg" width="800" alt="" title=""></div></div>
+</div>
+
+<p>
+　その影響で、「就職しなくても生活できる。もっと凄い人たちと切磋琢磨してITのことを学んで経験を積みたい」と思うようになった。大学卒業前から英会話学校に通い詰め、卒業後、再度渡米。インターンシップでITの調査・コンサルティングの会社に入った。
+</p>
+<br>
+<p>
+　入社してわずか数カ月後、9.11のテロが起きた。大口顧客の何社かがワールドトレードセンターに入っていたことで、会社の存続が危ぶまれ、結局は退社。その後、ニューヨークのレコード会社に転職しWebマーケティングを担当したものの、ビザの制限があり、やむなく日本に帰国することになった。
+</p>
+<br>
+<p>
+　帰国後、英会話学校のWebマーケティング部門の立ち上げや、ライブドアで堀江貴文氏の下、数々の新規事業の立ち上げを担当していた矢先にライブドア事件が勃発。新社長の下で考えた末、独立して事業を始めることにした。2006年、28歳の頃である。
+</p>
+<br>
+<p>
+　それから10年。自身のコンサルティング会社で様々な事業に携わった。
+</p>
+<br>
+<p>
+　「音楽のストリーミング事業やオンラインのカウンセリングなども手がけました。何かを立ち上げるのが好きなんですね。うまくいったものは、あまりないですね。迷走の10年間でした（笑）。AIの事業は、いくつもあるプロジェクトの一つとして、勢いでチャレンジしたんです。気づいたら40歳になっていました」
+</p>
+<br>
+<p>
+　北出氏の自己分析では、リスクマネジメントに長けているようだ。
+</p>
+<br>
+<p>
+　「アグレッシブな面もありますが、基本は保守的ですね。失敗しても大丈夫な程度しか風呂敷を広げなかったというのはありますね。何億円も借りて事業をやるぞ～というタイプではありません」
+</p>
+<br>
+<p>
+　“ITと英語に強みを持つ堅実な経営者”という印象だ。本人は“迷走の10年間”と表現したが、人脈の広さと豊富な経験、フットワークの軽さも強みだろう。
+</p>
+<br>
+<p>
+　「いろんな人とやりとりをしてきたので、苦手なタイプはないですね」
+</p>
+<br>
+
+<div class="loginBox">
+<p class="loginBoxTxt">ここから先は、DIGITALIST会員（登録無料）のみが閲覧することができます。</p>
+<div class="loginBoxColumn">
+<div class="loginBoxColumnLogin">
+<a href="#" class="loginBoxColumnLoginBtn" onclick="trackClick('login', 'dialog');return(bpsso.liMov(0))">ログイン</a>
+</div>
+<div class="loginBoxColumnRegister">
+<a href="#" class="loginBoxColumnRegisterBtn" onclick="trackClick('regist', 'dialog');return(bpsso.rgMov(0))">会員登録（無料）</a>
+</div>
+</div>
+</div>
+<!-- /.loginBox -->
+<div class="nextpage">
+<a href="/atcldgl/business/021200085/?P=2" class="nextpageDetail js-hover">
+<p class="nextpageDetailIcon">次ページ</p>
+<p class="nextpageDetailTxt">人を楽にしてあげたい</p>
+</a>
+<div class="nextpageDetail js-hoverTarget">
+<p class="nextpageDetailTxt nextpageDetailTxt--type02">会員の方は、ログインしてください。<br>会員でない方は、会員登録（無料）をお願いします。</p>
+</div>
+</div>
+<nav class="pagenation">
+<ul class="pagenationList">
+<li class="pagenationListItem active"><a href="?P=1">1</a></li>
+<li class="pagenationListItem"><a href="?P=2">2</a></li>
+<li class="pagenationListItem pagenationListItem--next"><a href="?P=2"></a></li>
+</ul>
+</nav>
+<div class="tag">
+<div class="tagList">
+<a href="/digitalist/tags/?AI" class="tagListItem">#AI</a>
+<a href="/digitalist/tags/?%E3%83%AA%E3%83%86%E3%83%BC%E3%83%AB" class="tagListItem">#リテール</a>
+</div>
+</div>
+<div class="breadcrumbs">
+<div class="breadcrumbsList">
+<div class="breadcrumbsListItem"><a href="/digitalist/">トップページ</a></div>
+<div class="breadcrumbsListItem"><a href="/digitalist/business/">Business</a></div>
+<div class="breadcrumbsListItem"><p>【AIビジネスのカタリスト】受託開発と人材育成を併せて提供――AI TOKYO LAB（後編）</p></div>
+</div>
+</div>
+</div>
+
+</article>
+
+</div>
+
+<aside class="mainBoxColumnSide asideRight js-sidebar">
+
+<div class="dag_bunner">
+<div id="div-gpt-ad-DGL_rectangle1">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-DGL_rectangle1');
+ });
+}]);
+</script>
+</div></div>
+<section class="ranking" id="pickup" style="display:none;" data-rows="5">
+<p class="rankingTtl">Pick Up<small class="rankingTtlSub">あなたにおすすめ記事</small></p>
+</section>
+<div class="js-sidebarFixed">
+
+<section class="ranking">
+<p class="rankingTtl">Article Ranking<br><small class="rankingTtlSub--type02">記事ランキング</small></p>
+<div class="rankingList">
+<div class="rankingListColumn">
+<div class="rankingListColumnImg">
+<a href="/atcldgl/feature/122500019/122600002/?n_cid=nbpdgl_digrkg"><img src="https://cdn-project.nikkeibp.co.jp/atcldgl/feature/122500019/122600002/Thumbnail.jpg?__scale=w:105,h:70&_sh=0cb0ad0240" width="105" height="70" /></a>
+</div>
+<div class="rankingListColumnDetail">
+<a class="rankingListTtl" href="/atcldgl/feature/122500019/122600002/?n_cid=nbpdgl_digrkg">【2019年はこうなる】EVが百花繚乱、街のインフラ変革も始動</a>
+</div>
+</div>
+<span class="rankingListNumber">01</span>
+</div>
+<div class="rankingList">
+<div class="rankingListColumn">
+<div class="rankingListColumnImg">
+<a href="/atcldgl/idea/020400028/?n_cid=nbpdgl_digrkg"><img src="https://cdn-project.nikkeibp.co.jp/atcldgl/idea/020400028/Thumbnail.jpg?__scale=w:105,h:70&_sh=0f30910fe0" width="105" height="70" /></a>
+</div>
+<div class="rankingListColumnDetail">
+<a class="rankingListTtl" href="/atcldgl/idea/020400028/?n_cid=nbpdgl_digrkg">サッカー型かバスケット型か？　組織づくりで考えたい2つのアプロー…</a>
+</div>
+</div>
+<span class="rankingListNumber">02</span>
+</div>
+<div class="rankingList">
+<div class="rankingListColumn">
+<div class="rankingListColumnImg">
+<a href="/atcldgl/life/020500046/?n_cid=nbpdgl_digrkg"><img src="https://cdn-project.nikkeibp.co.jp/atcldgl/life/020500046/Thumbnail.jpg?__scale=w:105,h:70&_sh=03d07f0ab0" width="105" height="70" /></a>
+</div>
+<div class="rankingListColumnDetail">
+<a class="rankingListTtl" href="/atcldgl/life/020500046/?n_cid=nbpdgl_digrkg">「歴史的転換点の最先端」、ハーレーも電動化の道へ</a>
+</div>
+</div>
+<span class="rankingListNumber">03</span>
+</div>
+<div class="rankingList">
+<div class="rankingListColumn">
+<div class="rankingListColumnImg">
+<a href="/atcldgl/feature/122500019/122700003/?n_cid=nbpdgl_digrkg"><img src="https://cdn-project.nikkeibp.co.jp/atcldgl/feature/122500019/122700003/ph4.jpg?__scale=w:105,h:70&_sh=0b40cc04f0" width="105" height="70" /></a>
+</div>
+<div class="rankingListColumnDetail">
+<a class="rankingListTtl" href="/atcldgl/feature/122500019/122700003/?n_cid=nbpdgl_digrkg">ロボット義手の進化に見る「デジタルの2018年」</a>
+</div>
+</div>
+<span class="rankingListNumber">04</span>
+</div>
+<div class="rankingList">
+<div class="rankingListColumn">
+<div class="rankingListColumnImg">
+<a href="/atcldgl/feature/012800021/012800001/?n_cid=nbpdgl_digrkg"><img src="https://cdn-project.nikkeibp.co.jp/atcldgl/feature/012800021/012800001/Thumbnail.jpg?__scale=w:105,h:70&_sh=05004d0f80" width="105" height="70" /></a>
+</div>
+<div class="rankingListColumnDetail">
+<a class="rankingListTtl" href="/atcldgl/feature/012800021/012800001/?n_cid=nbpdgl_digrkg">自動車の上下分離で、移動が楽しく豊かに</a>
+</div>
+</div>
+<span class="rankingListNumber">05</span>
+</div>
+</section>
+<!-- /.ranking -->
+<div class="dag_visualbox">
+<a class="dag_visualboxBanner" href="#" onclick="trackClick('regist', 'header');return(bpsso.rgMov(0))">
+<div class="dag_visualboxBannerInner">
+<p class="dag_visualboxBannerInnerTtl">会員限定コンテンツも配信中</p>
+<p class="dag_visualboxBannerInnerTxt">DIGITALIST会員（無料）になり<br>最新情報/イベント情報を受け取る</p>
+</div>
+</a>
+</div>
+</div>
+</aside>
+<footer class="contentFooter">
+
+<div class="socialButtons">
+<p class="socialButtonsTtl">DIGITALIST公式アカウントから最新情報を配信中</p>
+<div class="socialButtonsList">
+<div class="socialButtonsListItem">
+<a href="https://twitter.com/digitalist_mag" class="twitter-follow-button" data-show-count="false">フォローする</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div>
+<div class="socialButtonsListItem">
+<div class="fb-like" data-href="https://project.nikkeibp.co.jp/atcldgl/business/021200085/" data-layout="button" data-action="like" data-size="small" data-show-faces="false" data-share="false"></div>
+</div>
+<div class="socialButtonsListItem">
+<div class="line-it-button" data-lang="ja" data-type="friend" data-lineid="@uvv1048e" data-count="true" style="display: none;"></div>
+<script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+<aside class="asideBottom">
+
+<div class="asideBottomRecommend" id="recommend" style="display:none;" data-rows="6">
+<p class="asideBottomRecommendTtl">
+Recommend
+</p>
+</div>
+
+</aside>
+<!-- /.asideBottom -->
+</div>
+</div>
+<!-- /.content -->
+
+<footer class="footer">
+<nav class="localFooter">
+<ul class="localFooter__list">
+<li class="localFooter__list__item"><a href="/digitalist/about/">About DIGITALIST</a></li>
+<li class="localFooter__list__item"><a href="https://bpcgi.nikkeibp.co.jp/form-cgi/formhtml.cgi?form=nb1806/index.html">お問い合わせ</a></li>
+</ul>
+</nav>
+<nav class="localFooter">
+ <ul class="localFooter__list">
+<li class="localFooter__list__item">運営：<a href="http://www.nikkeibp.co.jp/bpi/" target="_blank">日経BP総研</a></li>
+<li class="localFooter__list__item"><a href="http://corporate.nikkeibp.co.jp/information/privacy/" target="_blank">プライバシーポリシー</a></li>
+</ul>
+</nav>
+<nav class="localFooter">
+<ul class="localFooter__list">
+<li class="localFooter__list__item">運営：<a href="https://jp.corp-sansan.com/" target="_blank">Sansan</a></li>
+<li class="localFooter__list__item"><a href="https://jp.sansan.com/privacy.html" target="_blank">プライバシーポリシー</a></li>
+</ul>
+</nav>
+<div class="corpLogo"><a href="/digitalist/" class="logo_sizeD"><img src="/images/digitalist/2018/logo.svg" alt="digitalist"></a></div>
+<section class="copyright">DIGITALISTは、日経BP総研とSansan株式会社が共同で企画・制作するWebマガジンです。<br>
+&copy; 2019 Nikkei Business Publications, Inc. /  Sansan, Inc.</section>
+</footer>
+</div>
+<!-- /#wrapper -->
+
+<script src="/js/bpcommon/jquery-2.x.min.js"></script>
+<script src="/js/digitalist/2018/slick.min.js"></script>
+<script src="/js/digitalist/2018/jquery.smartEllipsis.min.js"></script>
+<script src="/js/digitalist/2018/bpsso_dgl.js"></script>
+<script src="/js/digitalist/2018/dgl.js?20180821"></script>
+<script src="/js/digitalist/2018/common.js?190121"></script>
+<script src="/js/digitalist/2018/index.js?190121"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118989845-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118989845-1');
+</script>
+<!-- Start TagMnager（Common） -->
+<script src="/js/bpcommon/onetag/bpTrackVarsCommon.js">
+{
+"aggregateId":"project-dgl-business",
+"articleId": "00009E8m",
+"articlePageTotalNo": "2",
+"authKind": "FREE2DGL-v",
+"authorName": "",
+"authResult": "false",
+"category": "digitalist",
+"displayAuthorName": "堀 純一郎＝HORI PARTNERS代表",
+"pageStatus": "bparticle",
+"pageTitle": "【AIビジネスのカタリスト】受託開発と人材育成を併せて提供――AI TOKYO LAB（後編）",
+"parentThemeName": "",
+"parentTitle": "",
+"publishDate": "20190215",
+"mediaId": "BPI",
+"section": "1",
+"subSite": "digitalist",
+"tagName": "",
+"themeId": "dgl-business",
+"themeName": "Business",
+"tieupId": "TTS07666",
+"repTieupId": "",
+}
+</script>
+<!-- End TagManager（Common） --><!-- Start TagMnager（Origin） -->
+<!-- Start javascript_global_object -->
+<script src="/js/bpcommon/onetag/bpTrackVars.js">
+{
+'channel':'PRJ',
+'config.adobe.reportSuite': 'nbpdagallprod,nbpprjprod',
+'config.atlas.service': 'disable',
+'config.cx.siteId': '1131757104043798823',
+'config.fb.id': '151720335485995',
+'config.krux.siteId': 'sx62zr52h',
+}
+</script>
+<!-- End javascript_global_object --><!-- End TagMnager（Origin） -->
+<!-- Start TagMnager（Common2） -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCGLNBV" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End TagMnager（Common2） -->
+</body>
+</html>

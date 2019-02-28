@@ -1,0 +1,201 @@
+<!DOCTYPE html> <html> <head> <meta name="description" content="DANCO제약사에서 수입한 세계적으로 사용률 1위인  정품 미프진 제품만 취급합니다."> <meta property="og:title" content="DANCO KOREA-단코 코리아" /> <link rel="canonical" href="https://danco1.net"> <meta property="og:url" content="https://danco1.net" /> <meta property="og:image" content="https://danco1.net/public/home/images/kakao.gif"> <meta property="og:type" content="website"> <meta property="og:description" content="여자의 마음을 누구보다 잘 헤아리는 DANCOKOREA." /> <meta charset="utf-8"> <meta name="theme-color" content="#0AAB9B" /> <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"> <title>DANCO KOREA-단코 코리아</title> <meta content="DANCO제약사에서 수입한 세계적으로 사용률 1위인  정품 미프진 제품만 취급합니다. " name="description"> <meta name="keywords" content="미프진,미페프랙스,낙태알약,유산알약,초기임신낙태,mifegyne,mifeprex"> <link href="/public/home/css/normalize.min.css" rel="stylesheet"> <link href="/public/home/css/swiper.min.css" rel="stylesheet"> <link rel="stylesheet" href="/public/home/css/reset.css"> <link rel="stylesheet" href="/public/home/css/border.css"> <link rel="stylesheet" href="/public/home/css/style.css"> <link rel="stylesheet" media="(max-width:1024px)" href="/public/home/css/mediaqueries.css"> <link rel="stylesheet" href="/public/home/css/jquery.cxcalendar.css"> <link rel="icon" href="/logo-max.png" type="img/x-ico" /> <script src="/public/home/js/jquery.min.js"></script> <script src="/public/home/js/swiper.min.js"></script> <script src="/public/home/js/jquery.lazyload.min.js"></script> <script src="/public/home/js/jquery.cxcalendar.min.js"></script> <script src="/public/home/js/validator.min.js"></script> <script src="/public/home/js/main.js" charset="utf-8"></script> </head> <body>  <style type="text/css" media="screen">
+	#kakao{
+		height: 65px;
+	    width: 90px;
+	    text-align: center;
+	    line-height: 25px;
+	    padding-top: 10px;
+	    background-color: #0AAB9B;
+	    color: #fff;
+	    margin-top: 6px;
+	}
+	#cbob {
+		position: fixed;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		margin: auto;
+		background-color: rgba(0, 0, 0, 0.5);
+		z-index: 999;
+		display: none;
+	}
+	#close{
+		position: absolute;
+		right: 0px;
+		top: 0px;
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+		overflow: hidden;
+		text-align: center;
+		font-size: 40px;
+		font-weight: lighter;
+	}
+	#close:hover{
+		color: #0AAB9B
+	}
+	#cbob form {
+		width: 400px;
+		height: 400px;
+		background-color: #FFFFFF;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		display: flex;
+		flex-wrap: wrap;
+		align-content: space-between;
+		padding: 40px;
+		border-radius: 5px;
+		overflow: hidden;
+	}
+
+	#cbob h3 {
+		display: block;
+		text-align: center;
+		width: 100%;
+		height: 30px;
+		line-height: 30px;
+		font-weight: normal;
+		font-size: 16px;
+	}
+
+	#cbob input {
+		width: 100%;
+		height: 40px;
+		border: 1px solid #CCCCCC;
+		text-indent: 1em;
+	}
+
+	#cbob button {
+		height: 40px;
+		width: 120px;
+		background-color: #0AAB9B;
+		color: #FFFFFF;
+	}
+
+	#cbob button:hover {
+		background-color: #009484;
+	}
+	@media (max-width:960px) {
+		#cbob form {
+			width: 90%;
+			padding: 10%;
+		}
+	}
+</style> <script>
+window.GitpleConfig = { appCode: 'Vjj49Nr8mqjXHgEdxmkT7cldDxXJmmbv' };
+!function(){function e(){function e(){var e=t.contentDocument,a=e.createElement("script");a.type="text/javascript",a.async=!0,a.src=window[n]&&window[n].url?window[n].url+"/inapp-web/gitple-loader.js":"https://app.gitple.io/inapp-web/gitple-loader.js",a.charset="UTF-8",e.head&&e.head.appendChild(a)}var t=document.getElementById(a);t||((t=document.createElement("iframe")).id=a,t.style.display="none",t.style.width="0",t.style.height="0",t.addEventListener?t.addEventListener("load",e,!1):t.attachEvent?t.attachEvent("onload",e):t.onload=e,document.body.appendChild(t))}var t=window,n="GitpleConfig",a="gitple-loader-frame";if(!window.Gitple){document;var i=function(){i.ex&&i.ex(arguments)};i.q=[],i.ex=function(e){i.processApi?i.processApi.apply(void 0,e):i.q&&i.q.push(e)},window.Gitple=i,t.attachEvent?t.attachEvent("onload",e):t.addEventListener("load",e,!1)}}();
+Gitple('boot');
+</script> <div class="top-bar"> <div class="top-bar-inner"> <div class="top-bar-left"> <p class="top-bar-title"></p> </div> <div class="top-bar-right"> <a class="top-bar-link" href="javascript:void(0);" onclick="sel()">비회원 주문서확인</a> <a class="top-bar-link" href="/index.php?g=&m=login&a=login">로그인</a> <a class="top-bar-link" href="/index.php?g=&m=login&a=sign">회원가입</a> </div> </div> </div> <header> <div class="header-inner"> <div class="header-logo-wrap"> <a href="/index.php?g=&m=index&a=index"><img class="header-logo" src="/public/home/images/logo.png" alt="logo"></a> <div class="header-menu"> <span class="header-menu-line"></span> </div> </div> <div class="header-nav-wrap"> <ul class="header-nav"> <li class="header-nav-item" id="ds"><a class="header-nav-link" href="javascript:void(0);" onclick="sel()">비회원 주문서확인</a></li> <li class="header-nav-item" id="ds"><a class="header-nav-link" href="/index.php?g=&m=login&a=login">로그인</a></li> <li class="header-nav-item" id="ds"><a class="header-nav-link" href="/index.php?g=&m=login&a=sign">회원가입</a></li> <li class="header-nav-item"><a class="header-nav-link " href="/index.php?g=&m=index&a=jeso&sta=4">미프진 소개</a> </li> <li class="header-nav-item"><a class="header-nav-link " href="/index.php?g=&m=note&a=index&sta=3">문의게시판</a> </li> <li class="header-nav-item"><a class="header-nav-link " href="/index.php?g=&m=product&a=index&sta=2">미프진 구입</a> </li> <li class="header-nav-item"><a class="header-nav-link " href="/index.php?g=&m=pinglun&a=index&sta=5">미프진 복용후기</a> </li> <li class="header-nav-item"><a class="header-nav-link " href="/index.php?g=&m=blog&a=index&sta=6">미프진정보</a> </li> </ul> </div> <div id="kakao"> <div style="color:#FFEB00;"><b>KaKaoTalk</b></div> <div style="font-size:16px;">DANCO69</div> </div> </div> </header> <div id="cbob"> <form action="/index.php?g=&m=index&a=orderdetail" method="post"> <i id="close" class="cl">×</i> <h3>비회원 주문서확인</h3> <input type="text" name="id" value="" placeholder="ID"> <input type="text" name="key" value="" placeholder="KEY"> <button class="about-product-button" type="submit" name="button">조 회</button> </form> </div> <script type="text/javascript">
+		function sel(){
+			$('#cbob').show();
+			$("body").css("overflow","hidden");
+		}
+		$('.cl').click(function(){
+			$('#cbob').hide();
+			$("body").css("overflow","auto");
+		})
+	</script>  <main> <div class="main-inner">  <div class="swiper-wrap"> <div class="swiper-container" id="swiper"> <div class="swiper-wrapper"> <div class="swiper-slide" style="background-image:url(/public/Upload/image/2018-10-09/5bbc6d969eb92.jpg)"> <div class="swiper-text-wrap"> <div class="swiper-text-inner" data-swiper-parallax="-50%" data-swiper-parallax-duration="1000"> <h1 class="swiper-text-h1">여러분의 '아픔'을 함께 해 드리는</h1> <h4 class="swiper-text-h4">DANCO</h4> <small class="swiper-text-small">KOREA</small> </div> </div> </div><div class="swiper-slide" style="background-image:url(/public/Upload/image/2018-07-05/5b3d8755282b1.png)"> <div class="swiper-text-wrap"> <div class="swiper-text-inner" data-swiper-parallax="-50%" data-swiper-parallax-duration="1000"> <h1 class="swiper-text-h1">온 '마음'담아, 건강한 행복을 드리는</h1> <h4 class="swiper-text-h4">DANCO</h4> <small class="swiper-text-small">KOREA</small> </div> </div> </div><div class="swiper-slide" style="background-image:url(/public/Upload/image/2018-07-05/5b3d875523dbe.png)"> <div class="swiper-text-wrap"> <div class="swiper-text-inner" data-swiper-parallax="-50%" data-swiper-parallax-duration="1000"> <h1 class="swiper-text-h1">'진심' 을 담은 상담,여자의 마음을 누구보다 잘 헤아리는</h1> <h4 class="swiper-text-h4">DANCO</h4> <small class="swiper-text-small">KOREA</small> </div> </div> </div> </div> <div class="swiper-button-prev"></div> <div class="swiper-button-next"></div> </div> </div>   <div class="introduction-wrap" id="chanpin"> <div class="introduction-left"> <div class="introduction-text-inner"> <h1 class="introduction-title" style="color:#555555;"><b> Mifegyne이란?</b></h1> <div id="text7"><p style="text-align: left;">미프진(Mifegyne)은 자궁&nbsp;내벽에&nbsp;착상된&nbsp;수정체에&nbsp;대한&nbsp;영양공급을&nbsp;차단&nbsp;함으로써 수정체로&nbsp;하여금&nbsp;자궁내벽으로&nbsp;부터&nbsp;분리&nbsp;시킨후 자궁수축의&nbsp;작용으로&nbsp;분리해낸&nbsp;임신산물을&nbsp;체외로&nbsp;배출시키는&nbsp;방식으로&nbsp;임신중절을&nbsp;유도합니다.</p></div> </div> <a href="/index.php?g=&m=product&a=index&sta=2" class="introduction-more border">상세한 정보</a> </div> <div class="introduction-right"> <img class="introduction-img lazy" data-original="/public/Upload/image/2018-07-13/5b483ff132afb.png" alt=""> </div> </div>   <div class="about-wrap" id="renchen"> <div id="wenben"> <div class="about-info-wrap"> <div class="about-left" style="text-align: center;"> <h1 class="about-left-title" style="color:#555555;">ABOUT MIFEPREX</h1> <span style="color:#999999;">ABOUT MIFEGYNE</span> <div class="about-left-icon-wrap"> <div class="about-left-icon-item"> <div id="text"> <p class="about-left-icon-text" style="font-size: 18px;color:#555555;"><b>정품보장</b></p> <p class="about-left-icon-text" id="alit"><b style="color:#0aab9b;">——</b><b style="color:#555555;">——</b></p> <p class="about-left-icon-text">DANCO 제약사에서 직접 수입 한 100%정품만 취급합니다.</p> </div> <hr style="color:#ccc;"> <div id="image"> <img class="about-left-icon-img lazy" data-original="/public/Upload/image/2018-07-17/5b4dd5dc353a7.png" alt=""> </div> </div><div class="about-left-icon-item"> <div id="text"> <p class="about-left-icon-text" style="font-size: 18px;color:#555555;"><b>빠른배송</b></p> <p class="about-left-icon-text" id="alit"><b style="color:#0aab9b;">——</b><b style="color:#555555;">——</b></p> <p class="about-left-icon-text">최고로 빠른 배송 3 ~ 5일안으로 꼭 받는걸로 약속합니다</p> </div> <hr style="color:#ccc;"> <div id="image"> <img class="about-left-icon-img lazy" data-original="/public/Upload/image/2018-07-17/5b4dd5e3bf3d9.png" alt=""> </div> </div><div class="about-left-icon-item"> <div id="text"> <p class="about-left-icon-text" style="font-size: 18px;color:#555555;"><b>친절상담</b></p> <p class="about-left-icon-text" id="alit"><b style="color:#0aab9b;">——</b><b style="color:#555555;">——</b></p> <p class="about-left-icon-text">상담 및 복용전후 친절한 카톡상담 해드립니다</p> </div> <hr style="color:#ccc;"> <div id="image"> <img class="about-left-icon-img lazy" data-original="/public/Upload/image/2018-07-17/5b4dd5ed40c92.png" alt=""> </div> </div><div class="about-left-icon-item"> <div id="text"> <p class="about-left-icon-text" style="font-size: 18px;color:#555555;"><b>초기임신</b></p> <p class="about-left-icon-text" id="alit"><b style="color:#0aab9b;">——</b><b style="color:#555555;">——</b></p> <p class="about-left-icon-text">미프진은 최고 임신10주까지 복 용할수 있습니다</p> </div> <hr style="color:#ccc;"> <div id="image"> <img class="about-left-icon-img lazy" data-original="/public/Upload/image/2018-07-17/5b4dd5f58e165.png" alt=""> </div> </div> </div> </div> </div> </div> <div class="about-inner"> <div class="about-product-wrap" id="goumai"> <div class="about-product-left"> <div class="swiper-container" id="swiper-min"> <div class="swiper-wrapper"> <div class="swiper-slide"> <img class="swiper-slide-img" src="/public/Upload/simg/2018-07-05/5b3dc8ec244a6.png" alt=""> </div> </div> <div class="swiper-pagination"></div> </div> </div> <div class="about-product-right"> <div class="about-product-right-inner"> <h1 class="about-product-title"> <font class="about-product-title-text" style="color:#555555;"><b>미프진 (Mifegyne)</b></font> </h1> <h6 style="font-size: 18px;" class="about-product-price">미국FDA인증 받은 안전한 인공유산알약입니다.<br />10주전까지의 성공률은 99.99%입니다.</h6>  <a href="/index.php?g=&m=product&a=index&sta=2"><button class="about-product-button" type="submit" name="button">구매</button></a> </div> </div> </div> </div> </div> <div class="introduction-wrap" id="mafan" style="padding-bottom: 0px;"> <div class="about-right"> <div id="abri"> <h2 class="about-right-title" style="text-align: center;color:#555555;"><b>임신주수 계산기</b></h2> <p style="color:#999999;text-align: center;margin:15px;">PREGNANCY CYCLE CALCULATOR</p> <p class="about-left-icon-text" id="fac"><b style="color:#0aab9b;font-size:20px;">————</b></p> <p class="about-right-text">아래의 형식은 임신기간을 계산하는데 도움을 드릴것입니다. <br />마지막 생리기간의 첫번째 날(출혈이 보였던) 의 날짜를 기입하시면, 당신의 임신기간을 나타내 줄 것 입니다</p> <div class="about-right-input-wrap"> <div id="rili"> <input class="about-right-input" type="date" name="times" id="times" value=""> </div> <div id="tijiao"> <button class="about-right-button" id="ses" type="button" name="button">계산</button> </div> </div> <p id="select2" style="color:#0AAB9B;clear:both;"></p> <p class="about-right-tip"><b>낙태 유도제는 임신 후 10주이내에 복용하는 것이 가장 효과가 좋으며, 빠르면 빠를수록 낙태 성공률이 높습니다.</b><br /><b>만약 귀하의 임신 기간이 확인 되지 않으면, 패키지의 전송이 불가함을 알려 드립니다. 마지막 생리기간의 첫째날을 반드시 기입하여 주시기를 바랍니다.</b></p> </div> </div> </div> <div style="clear: both;"></div> <div class="introduction-wrap"> <div class="introduction-rightt"> <img class="introduction-img lazy" data-original="/public/Upload/image/2018-07-20/5b5176861e803.png" alt=""> </div> <div class="introduction-leftt"> <div class="introduction-text-inner"> <h1 class="introduction-title" style="color:#555555;"> <b>미프진(Mifegyne)의 부작용</b> </h1> <p class="introduction-text"> <span style="color: rgb(165, 165, 165); font-family: Helvetica, Tahoma, Arial, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Heiti SC&quot;, &quot;Microsoft YaHei&quot;, &quot;WenQuanYi Micro Hei&quot;, sans-serif; letter-spacing:3.6px; background-color: rgb(255, 255, 255);">미프진(Mifegyne)은 프랑스 루쎌 위클라프(Roussel Uclaf)에서 1980년도에 개발한 경구용 임신중절 약인 미페프리스톤(Mifepristone)의 브랜드명입니다</span> </p> </div> <a href="/index.php?g=&m=product&a=index&sta=2" class="introduction-more border">상세한 정보</a> </div> </div>   <div class="comment-wrap"> <div class="comment-inner"> <div class="comment-title-wrap"> <h1 class="comment-title" style="color:#555555;"><b>BLOG</b></h1> </div> <ul class="comment-items"> <li class="comment-item"> <a href="/index.php?g=&m=blog&a=detial&id=149" class="comment-item-link"> <img class="comment-item-img lazy" data-original="/public/Upload/image/2019-02-16/5c67a74f1b45d.jpg" alt=""> <div class="comment-info-inner"> <h3 class="comment-info-text">1461각인에 대한 상세한 설명</h3> <p class="comment-info-user">단코 코리아</p> <time class="comment-info-time">2019-02-16</time> </div> <hr class="comment-item-line border-top"> </a> </li><li class="comment-item"> <a href="/index.php?g=&m=blog&a=detial&id=148" class="comment-item-link"> <img class="comment-item-img lazy" data-original="/public/Upload/image/2018-11-17/5bef86d4cc9a3.png" alt=""> <div class="comment-info-inner"> <h3 class="comment-info-text">초기임신 아닌데 낙태유도제 미프진을 복용해도 될까요?</h3> <p class="comment-info-user">단코 코리아</p> <time class="comment-info-time">2018-11-17</time> </div> <hr class="comment-item-line border-top"> </a> </li><li class="comment-item"> <a href="/index.php?g=&m=blog&a=detial&id=147" class="comment-item-link"> <img class="comment-item-img lazy" data-original="/public/Upload/image/2018-10-22/5bcd8613c29ed.jpg" alt=""> <div class="comment-info-inner"> <h3 class="comment-info-text"> 미프진 낙태약을 복용하기전에 아래 사항을 확인 해 주시길 바랍니다.</h3> <p class="comment-info-user">단코 코리아</p> <time class="comment-info-time">2018-10-22</time> </div> <hr class="comment-item-line border-top"> </a> </li> </ul> <a class="comment-more border" href="/index.php?g=&m=blog&a=index&sta=6">상세한 정보</a> </div> </div>  </div> <style media="screen">
+			#pop {
+				position: fixed;
+				top: 0;
+				left: 0;
+				right: 0;
+				bottom: 0;
+				margin: auto;
+				background-color: rgba(0, 0, 0, 0.5);
+				z-index: 999;
+				display: none;
+			}
+			#closee{
+				position: absolute;
+				right: 0px;
+				top: 0px;
+				width: 40px;
+				height: 40px;
+				line-height: 40px;
+				overflow: hidden;
+				text-align: center;
+				font-size: 40px;
+				font-weight: lighter;
+			}
+			#closee:hover{
+				color: #0AAB9B
+			}
+			#pop form {
+				width: 400px;
+				height: 400px;
+				background-color: #FFFFFF;
+				position: absolute;
+				top: 50%;
+				left: 50%;
+				transform: translate(-50%, -50%);
+				display: flex;
+				flex-wrap: wrap;
+				align-content: space-between;
+				padding: 40px;
+				border-radius: 5px;
+				overflow: hidden;
+			}
+
+			#pop h3 {
+				display: block;
+				text-align: center;
+				width: 100%;
+				height: 30px;
+				line-height: 30px;
+				font-weight: normal;
+				font-size: 16px;
+			}
+
+			#pop input {
+				width: 100%;
+				height: 40px;
+				border: 1px solid #CCCCCC;
+				text-indent: 1em;
+			}
+
+			#pop button {
+				height: 40px;
+				width: 120px;
+				background-color: #0AAB9B;
+				color: #FFFFFF;
+			}
+
+			#pop button:hover {
+				background-color: #009484;
+			}
+			@media (max-width:960px) {
+				#pop form {
+					width: 90%;
+					padding: 7%;
+				}
+			}
+		</style> </main> <script type="text/javascript">
+		$('#pop').show();
+	</script> <script>
+		$('#closee').click(function(){
+			$('#pop').hide();
+		})
+	</script>  <script>
+		$("a").click(function () {
+		    $("html, body").animate({scrollTop: $($(this).attr("href")).offset().top -20+ "px"}, 700);
+		    return false;
+		});
+	</script> <script type="text/javascript">
+		$('#ses').click(function(){
+	        var select1 = $("#times").val();;
+	        $.ajax({
+	            url:"/index.php?g=&m=index&a=stype",
+	            type:'post',
+	            data:{selects1:select1},
+	            success:function(data){
+	                $('#select2').html(data);
+	            }
+	        });
+	    });
+	</script>  <footer> <div class="footer-inner"> <div class="footer-share-wrap"> <div class="footer-share-inner"> <ul class="footer-share-items"> <li class="footer-share-item"> <a href="" title="Share on Facebook" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&quote=' + encodeURIComponent(document.URL)); return false;"> <img class="footer-share-icon lazy" data-original="/public/home/images/facebook-icon.png" alt=""> </a> </li> <li class="footer-share-item"> <a href="https://plus.google.com/share?url=" onclick="javascript:window.open(this.href+encodeURIComponent(document.URL),'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><img class="footer-share-icon lazy" data-original="/public/home/images/google-icon.png" alt="Share on Google+"></a> </li> <li class="footer-share-item"> <span> <script type="text/javascript" src="https://ssl.pstatic.net/share/js/naver_sharebutton.js"></script> <script type="text/javascript">
+								new ShareNaver.makeButton({"type": "d" , "title":"DANCO"});
+								</script> </span> </li> <li class="footer-share-item"> <a href="https://twitter.com/intent/tweet?url=" target="_blank" title="Publish on WordPress" onclick="window.open('https://twitter.com/intent/tweet?url=' + encodeURIComponent(document.URL)); return false;"> <img class="footer-share-icon lazy" data-original="/public/home/images/wordpress-icon.png" alt=""> </a> </li> </ul> </div> </div> <div class="footer-content-wrap"> <div class="footer-content-inner"> <div class="footer-logo-wrap"> <img class="footer-logo lazy" data-original="/public/home/images/logo-max.png" alt=""> </div> <p class="footer-content-text">FDA appraved since 2000.</p> <p class="footer-content-text">A safe and effective non-surglcal option for ending earty pregnancy</p> <p class="footer-content-copyright border-top">-©2018. All rights reserved.does not provide diagnosis or treatment.</p> <ul class="footer-content-partner"> <li class="footer-content-partner-item"> <a href=""> <img class="footer-content-partner-img  lazy" data-original="/public/Upload/image/2018-07-05/5b3dc164063e0.png" alt="danco"> </a> </li><li class="footer-content-partner-item"> <a href=""> <img class="footer-content-partner-img  lazy" data-original="/public/Upload/image/2018-07-05/5b3dc184833cb.png" alt="fda"> </a> </li> </ul> </div> </div> </div> </footer>  </body> </html>

@@ -1,0 +1,1606 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta name="format-detection" content="address=no,email=no,telephone=no">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<title> Keith Richards anuncia a los 75 años que trata de corregir su “infame” estilo de vida | Gente y Famosos | EL PA&Iacute;S</title>
+<meta name="lang" 			content="es" />
+<meta name="author" 		content="El País" />
+<meta name="description" 	content="El integrante de los Rolling Stones asegura que solo bebe una copa de vino en las comidas y alguna cerveza.  Es como la heroína. El experimento ha terminado , dice" />
+<meta name="keywords" 		content="keith richards, anunciar, 75, año, tratar, corregir, infame, estilo, vida, integrante, rolling stones, asegurar, beber, copa, vino, comida, cerveza, ser, heroína, experimento, haber, terminar, decir" />
+<meta name="date" scheme="W3CDTF" content="2019-02-14T12:28:25+01:00" />
+<meta name="DC.date.issued" scheme="W3CDTF" content="2019-02-14" />
+<meta name="DC.date" 		scheme="W3CDTF" 	content="2019-02-14" />
+<meta name="organization" content="Ediciones EL PAÍS S.L."/>
+<meta property="article:modified_time" content="2019-02-14T12:28:25+01:00" />
+<meta property="article:publisher" content="https://www.facebook.com/elpais" />
+<meta property="article:published_time" content="2019-02-14" />
+<meta property="article:section" content="gente" />
+<meta property="article:tag" content="Keith Richards" />
+<meta property="article:tag" content="The Rolling Stones" />
+<meta property="article:tag" content="Gente" />
+<meta property="article:tag" content="Grupos música" />
+<meta property="article:tag" content="Famosos" />
+<meta property="article:tag" content="Música" />
+<meta name="news_keywords" content="Keith Richards,The Rolling Stones,Gente,Grupos música,Famosos,Música"/>
+<meta property="og:title" content="Keith Richards anuncia a los 75 años que trata de corregir su “infame” estilo de vida"/>
+<meta property="og:description" content="El integrante de los Rolling Stones asegura que solo bebe una copa de vino en las comidas y alguna cerveza.  Es como la heroína. El experimento ha terminado , dice"/>
+<meta property="og:image" content="https://ep00.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135566_rrss_normal.jpg"/>
+<meta property="og:image:width" content="720">
+<meta property="og:image:height" content="377">
+<meta property="og:updated_time" content="2019-02-14T12:28:25+01:00" />
+<meta property="og:url" 		content="https://elpais.com/elpais/2019/02/14/gente/1550134824_620631.html" />
+<meta property="og:type" 		content="article"/>
+<meta property="og:site_name"    	content="EL PAÍS"/>
+<meta property="fb:pages"       content="8585811569, 212722845575439, 1397320167179189, 358442097543367, 104260153017742, 171825147183, 122239794993797" />
+<meta property="fb:app_id" 		content="94039431626"/>
+<meta property="twitter:card" 	content="summary_large_image" />
+<meta property="twitter:site" 	content="@elpais_gente" />
+<link rel="alternate" href="https://elpais.com/rss/elpais/gente.xml" type="application/rss+xml" title="RSS de la sección Gente"/>
+<link rel="amphtml" href="https://elpais.com/elpais/2019/02/14/gente/1550134824_620631.amp.html" />
+<link rel="canonical" href="https://elpais.com/elpais/2019/02/14/gente/1550134824_620631.html" />
+<link rel="search" href="https://ep01.epimg.net/elpais/xml/opensearch/opensearch.xml" type="application/opensearchdescription+xml" title="elpais.com" />
+<link rel="icon" 		href="https://ep01.epimg.net/favicon.png" type="image/png" />
+<link rel="publisher" 	href="https://plus.google.com/+elpais"/>
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": ["ReportageNewsArticle"],
+    "mainEntityOfPage": "https:https://elpais.com/elpais/2019/02/14/gente/1550134824_620631.html",
+    "headline": "Keith Richards anuncia a los 75 años que trata de corregir su “infame” estilo de vida",
+    "description": "El integrante de los Rolling Stones asegura que solo bebe una copa de vino en las comidas y alguna cerveza. \"Es como la heroína. El experimento ha terminado\", dice",
+    "datePublished": "2019-02-14T12:28:25+01:00",
+    "dateModified": "2019-02-14T12:28:25+01:00",
+    "image": { "@type": "ImageObject", "url": "https://ep00.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135566_rrss_normal.jpg", "width": 720, "height": 377 },
+
+    "author": [         {
+		        "@type"   : "NewsMediaOrganization",
+		        "name"    : "El País",
+        "sameAs" : "https://elpais.com/tag/autor/el_pais/a/"
+        }        ],
+
+    "publisher": {
+        "@type": "NewsMediaOrganization",
+        "name" : "Ediciones EL PAÍS S.L.",
+        "logo" : {"@type":"ImageObject","url":"https://ep01.epimg.net/iconos/v1.x/v1.0/promos/promo_og_elpais.png"}
+    },
+    "publishingPrinciples": "https://elpais.com/estaticos/codigo-etico"
+}
+</script>
+<link href="//ep01.epimg.net/estilos/v2.x/v2.1/normalizado.css"  rel="stylesheet" />
+<link href="//ep01.epimg.net/estilos/v2.x/v2.2/comunes.css"  rel="stylesheet" />
+<link href="//ep01.epimg.net/estilos/v2.x/v2.1/cabecera.css"  rel="stylesheet" />
+<link href="//ep01.epimg.net/estilos/v2.x/v2.1/noticia.css"  rel="stylesheet" />
+<link href="//ep01.epimg.net/estilos/v2.x/v2.1/imprimir.css" media="print" rel="stylesheet" />
+<link href="//ep01.epimg.net/estilos/v2.x/v2.1/cintillos.css"  rel="stylesheet" />
+<link href="//ep01.epimg.net/estilos/v2.x/v2.1/comercial.css"  rel="stylesheet" />
+<link href="//ep01.epimg.net/elpais/estilos/v2.x/v2.1/gente/gente.css"  rel="stylesheet" />
+<script type="text/javascript" src="//ep01.epimg.net/js/v4.x/v4.1/noticia.min.js?v=7"></script>
+<script type="text/javascript">
+//<![CDATA[
+	var videoPublicityDown = false;
+	var videoFuente = "0";
+	var url_cache = "//ep02.epimg.net";
+	var url_reproductor_epet = "/reproductores/playerPEP.swf";
+
+	var UrlPublicidadOveron = "//pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=%2F7811748%2Foveron_player%2Felpais_web%2Fflash&ciu_szs=&impl=s&gdfp_req=1&env=vp&output=vast&correlator={random}&unviewed_position_start=1&description_url=[description_url]";
+
+	var publicidad_HTML5 = true;
+	var postroll_HTML5 = true;
+	var marcado_logtrust = true;
+	var modoSiguientesVideos = 0;
+
+	var retransmisiones = {"akamai_001":"akamaihls_001",
+	"level3_001":"level3hls_001"
+	};
+	var prebidVideoPEP = true;
+
+
+        //var id_player_mediateca_PEP = "141";
+        //var id_cuenta_mediateca_PEP = "elpais";
+        var mediateca_activo_PEP    = true;
+
+var id_player_mediateca_PEP = '141';
+var id_cuenta_mediateca_PEP = 'elpais';
+	var UrlPublicidad = '//pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=%2F7811748%2Felpais_web%2Fplayer_video%2Fflash&ciu_szs=&impl=s&gdfp_req=1&env=vp&output=xml_vast2&correlator={random}&unviewed_position_start=1&description_url=[description_url]';
+	var listado_norm_tags = 'keith_richards_a,the_rolling_stones_a,gente_a,grupos_musica_a,famosos_a,musica_a';
+	var DFP_tags = ["keith_richards_a","the_rolling_stones_a","gente_a","grupos_musica_a","famosos_a","musica_a"];
+	var listado_id_tags = '50129,88019,35061,36710,146649,60441';
+	var listado_id_autores = '80945';
+	var listado_norm_autores = 'el_pais_a';
+
+	var referrer = document.referrer;
+	if (referrer.indexOf("//t.co/") >-1 || (referrer.indexOf("twitter.com") > 0 && referrer.indexOf("twitter.com") < 30) )
+	{
+		if (typeof(DFP_tags) != "undefined")
+			DFP_tags.push("fromtwitter");
+		else
+			var DFP_tags = ["fromtwitter"];
+	}
+
+	var reg_ref_noticia = /http.?:\/\/[^\/]*\/[^\/]*\/\d+\/\d+\/\d+\/[^\/]*\/(.*?)\.html/i;
+	var result_rrn = reg_ref_noticia.exec(document.location.href);
+	if (result_rrn)
+	{
+		if (typeof(DFP_tags) != "undefined")
+			DFP_tags.push(result_rrn[1]);
+		else
+			var DFP_tags = [result_rrn[1]];
+	}
+
+//]]>
+</script>
+<script language="Javascript" type="text/javascript" src="//ep01.epimg.net/js/comun/cx/recomendador.min.js?20180627"></script></head>
+<body id="salida_articulo" class="salida_articulo"><div id="pxlhddncntrl" style="display:none"><script src="//ep00.epimg.net/js/prisa/user.js?i=1"></script><script src="//ep00.epimg.net/js/v4.x/v4.0/user.js"></script><script src="https://ep00.epimg.net/js/comun/avisopcgdpr.js?u=2018"></script><script src="https://gdpr.prisa.com/cmp.bundle.js?u=2018"></script><script src="//ep00.epimg.net/js/gdt/577c3689ea990d22d8d98c00c4aa568bec64a426/satelliteLib-28ad3885d20336165372ce7de5caf99dd332388c.js?20171005"></script><script src="//ep00.epimg.net/js/comun/comun.js"></script></div><script src="//ep00.epimg.net/js/comun/ll/lazyload.min.js"></script>
+<script type="text/javascript" src="//ep00.epimg.net/js/pbs/pbs.slots.js?20190123"></script>
+<div id="AdsCode" style="display:none">
+<script type="text/javascript">
+		var gtpadunit= '';
+		var gtpdivid= 'elpais_gpt';
+		var listadoKW = [];
+
+		if (typeof(DFP_tags) != "undefined" )
+			listadoKW = DFP_tags;
+
+		if (document.referrer == "https://elpais.com/" )
+		{
+			listadoKW.push("articuloportada");
+		}
+
+		var la_kw_edicion_y_pais = ['p_','g_US, hpage=2'];
+		listadoKW = listadoKW.concat(la_kw_edicion_y_pais);
+
+		if ( "" != "") {
+                    // Kw de directo
+                    listadoKW.push("");
+		}
+
+		if (typeof(PBS) != "undefined")
+		{
+
+			var lo_bit	 = "";
+			var pbs_dimensiones = EPETBrowserDims();
+			var lb_es_movil =  (dispositivoMovil) ? dispositivoMovil : false;
+
+			var gtpadunit="";
+
+			//WEB
+			if (lb_es_movil == false)
+				var ls_publi_tipo_acceso = "web";
+			//MOVIL
+			else
+				var ls_publi_tipo_acceso= "mob";
+
+			if ("elpais" == "elpais"){
+				switch ("gente") {
+			        case 'icon':
+			            gtpadunit = "icon_"+ls_publi_tipo_acceso+"/"+"noticias";
+			            break;
+			        case 'ciencia':
+			            gtpadunit = "elpais_materia_"+ls_publi_tipo_acceso+"/"+"noticias";
+			            break;
+			        case 'buenavida':
+			            gtpadunit = "elpais_buenavida_"+ls_publi_tipo_acceso+"/"+"noticias";
+			            break;
+			        case 'eps':
+			            gtpadunit = "elpais_eps_"+ls_publi_tipo_acceso+"/"+"noticias";
+			            break;
+			        default:
+			            gtpadunit = "elpais_"+ls_publi_tipo_acceso+"/"+"gente";
+			            break;
+			  	}
+			}else if ("elpais" == "elviajero"){
+				gtpadunit = "elviajero_"+ls_publi_tipo_acceso+"/"+"noticias";
+			}else if ("elpais" == "economia"){
+				gtpadunit = "elpais_finanzas_economia_"+ls_publi_tipo_acceso;
+			}else if ("elpais" == "deportes"){
+				switch ("gente") {
+                                    case 'mundial_futbol':
+                                        gtpadunit = "elpais_"+ls_publi_tipo_acceso+"/"+"elpais"+"/"+"gente";
+                                        break;
+                                    case 'actualidad':
+                                    default:
+                                        gtpadunit = "elpais_"+ls_publi_tipo_acceso+"/"+"elpais";
+                                        break;
+                                }
+			}else{
+				gtpadunit = "elpais_"+ls_publi_tipo_acceso+"/"+"elpais";
+			}
+
+
+
+			if (pbs_dimensiones.ancho >= 980){
+					var huecosPBS = {
+						'inter':true,
+						'skin':true,
+		                'ldb1':[[728, 90],[980, 90],[980,180],[980,220],[980,250],[970,250]],
+		                'ldb2':[[728, 90], [980, 90]],
+		                'ldb3':[980, 90],
+		                'mpu1':[[300, 250],[300, 600]],
+		                'mpu2':[300, 250],
+		                'mpu3':[300, 250]
+					};
+					lo_bit = "";
+			}else if (pbs_dimensiones.ancho >= 728) {
+					var huecosPBS = {
+						'inter':true,
+						'ldb1':[728, 90],
+						'ldb2':[728, 90],
+						'ldb3':[728, 90],
+						'mpu3':[300,250]
+					};
+					lo_bit = [{
+	                    sel:'#cuerpo_noticia > p, #cuerpo > p',
+	                    min:2,
+	                    cls:"publi_luto_vertical",
+	                    pos:{
+	                        'mpu1': [1,[[300,600],[300,250]]],
+	                        'mpu2': [5,[300,250]]
+	                      }
+	                	}];
+			}else{
+					var huecosPBS = {
+						'mldb1':[[320, 50],[320,100]],
+						'mldb3':[320, 50],
+						'mpu3':[300,250]
+					};
+
+					lo_bit = [{
+	                    sel:'#cuerpo_noticia > p, #cuerpo > p',
+	                    min:2,
+	                    cls:"publi_luto_vertical",
+	                    pos:{
+	                        'mpu1': [1,[[300,600],[300,250]]],
+	                        'mpu2': [5,[300,250]]
+	                      }
+	                	}];
+			}
+
+			// ----------------------------------------------------------- //
+			// Noticias sin columna dos, NO llevan robas MPU1, MPU2, MPU3
+			// ----------------------------------------------------------- //
+			if (false == true){
+				lo_bit = "";
+				//elimina los robas
+				if (typeof(huecosPBS.mpu1) != "undefined") delete(huecosPBS.mpu1);
+				if (typeof(huecosPBS.mpu2) != "undefined") delete(huecosPBS.mpu2);
+				if (typeof(huecosPBS.mpu3) != "undefined") delete(huecosPBS.mpu3);
+			}
+			// ----------------------------------------------------------- //
+
+			var la_opciones_publicidad = {
+				asy:true,
+				adunit:gtpadunit,
+				divid:gtpdivid,
+				key:{ paiskey:listadoKW },
+				ads:huecosPBS,
+				ced:true,
+				viT:{
+                   "sel":'#cuerpo_noticia > p, #cuerpo > p',
+                   "c":{
+                      "ch":300,
+                      "el":2,
+                      "mb":"20px",
+                      "f": "1D",
+                      "fc":"fr_pbs_VAST"
+                   }
+                }
+			};
+
+
+			if (lo_bit != ""){
+				la_opciones_publicidad["biT"] = lo_bit;
+			}
+
+			//En salida especial no pedimos publicidad
+                        if (document.body.className.indexOf('salida_articulo_especial') > -1){
+                                la_opciones_publicidad.ads = {};
+                                la_opciones_publicidad.viT = {};
+			}
+
+			//
+			PBS.setAds(la_opciones_publicidad);
+		}
+		else
+			var PBS = {display:function(){}};
+	</script>
+</div>
+<div class="envoltorio_publi estirar">
+<script type='text/javascript'>
+if (pbs_dimensiones.ancho >= 980) {
+	document.write("<div id='elpais_gpt-INTER'>	<script type='text/javascript'>	PBS.display('INTER');<\/script></div><div id='elpais_gpt-SKIN'><script type='text/javascript'>PBS.display('SKIN');<\/script></div>");
+}
+</script>
+</div>
+<div id="contenedor" class="contenedor">
+<main class="principal" id="principal">
+<div class="cabecera__envoltorio">
+<div class="envoltorio_publi envoltorio_publi_billboard  estirar">
+<script type='text/javascript'>
+
+	if ( pbs_dimensiones.ancho  >= 728){
+		document.write("<div id='elpais_gpt-LDB1' class='publi_luto_vertical'><script type='text/javascript'>PBS.display('LDB1');<\/script></div>");
+	}
+	else
+		document.write("<div id='elpais_gpt-MLDB1' class='publi_luto_vertical'><script type='text/javascript'>PBS.display('MLDB1');<\/script></div>");
+</script>
+</div>
+<header class="cabecera" id="cabecera">
+<div class="cabecera__interior" id="cabecera__interior">
+<div class="cabecera-superior">
+<div class="cabecera-superior__interior">
+<div class="contenedor_centro">
+<div class="ediciones">
+<div class="ediciones__interior">
+<span class="ediciones-titulo">Selecciona Edición</span>
+<nav class="ediciones-navegacion">
+<ul class="ediciones-navegacion-listado">
+<li class=""><a href="/s/setEspana.html"><abbr title="Edición España">ESP</abbr></a></li>
+<li class=""><a href="/s/setAmerica.html"><abbr title="Edición América">AME</abbr></a></li>
+<li class=""><a href="/s/setBrasil.html"><abbr title="Edición Brasil">BRA</abbr></a></li>
+<li class=""><a href="/s/setCat.html"><abbr title="Edición Cataluña">CAT</abbr></a></li>
+<li class=""><a href="//elpais.com/elpais/inenglish.html"><abbr title="Edición In English">ENG</abbr></a></li>
+</ul>
+</nav> 
+</div> 
+</div> 
+</div> 
+<div class="contenedor_derecha">
+<div class="navegacion-sucripcion">
+<ul itemtype="https://schema.org/SiteNavigationElement" itemscope="" class="sucripcion-listado">
+<li class="newsletter" itemprop="name"><a href="//usuarios.elpais.com/newsletters/?id_externo_promo=rpv_newsletters_bar_ep" itemprop="url">Newsletter</a></li>
+<li class="suscribete" itemprop="name"><a href="//suscripciones.elpais.com/?id_externo_promo=suscrip_cabecera_ep.com" itemprop="url">Suscríbete</a></li>
+</ul>
+</div>
+<div class="usuario" id="usuario">
+<a class="boton_usuario" id="boton_usuario" href="https://plus.elpais.com/conectar?prod=REG&o=CABEP&backURL=https%3A%2F%2Felpais.com%2Felpais%2F2019%2F02%2F14%2Fgente%2F1550134824_620631.html%3Fid_externo_rsoc%3DFB_CM">Con&eacute;ctate</a>
+<div id="usuario__interior"  class="oculto">
+<button class="boton_cerrar" id="cerrar_usuario">Cerrar</button>
+<div class="usuario-estado"></div>
+</div>
+</div> 
+<div class="buscador" id="buscador">
+<button class="boton_buscador" id="boton_buscador">Buscador</button>
+<div class="buscador__interior">
+<button class="boton_cerrar" id="cerrar_buscador">Cerrar</button>
+<div class="buscador-formulario">
+<form name="formulario_busquedas" action="/buscador/" method="POST">
+<input type="search" name="qt" placeholder="Buscar contenido" value="" autocomplete="off">
+<button class="boton_buscar" id="boton_buscar">Buscar</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cabecera-inferior">
+<div class="cabecera-inferior__interior">
+<div class="elpais" id="elpais">
+<div class="elpais-menu" id="elpais-menu">
+<button id="boton_elpais-menu" class="boton boton_elpais-menu"><span>Secciones</span> <span></span> <span></span> <span></span></button>
+<div class="elpais-menu__interior">
+<button id="cerrar_elpais-menu" class="boton_cerrar"><span>Cerrar</span> <span></span> <span></span> <span></span></button>
+<div class="ediciones">
+<div class="ediciones__interior">
+<span class="ediciones-titulo">Selecciona Edición</span>
+<nav class="ediciones-navegacion">
+<ul class="ediciones-navegacion-listado">
+<li class=""><a href="/s/setEspana.html"><abbr title="Edición España">ESP</abbr></a></li>
+<li class=""><a href="/s/setAmerica.html"><abbr title="Edición América">AME</abbr></a></li>
+<li class=""><a href="/s/setBrasil.html"><abbr title="Edición Brasil">BRA</abbr></a></li>
+<li class=""><a href="/s/setCat.html"><abbr title="Edición Cataluña">CAT</abbr></a></li>
+<li class=""><a href="//elpais.com/elpais/inenglish.html"><abbr title="Edición In English">ENG</abbr></a></li>
+</ul>
+</nav> 
+</div> 
+</div> 
+<div id="tamanoletra" class="tamanoletra"> <span class="tamanoletra-nombre">Tamaño letra</span>
+<button id="tamanoletra--disminuir" title="Disminuir tamaño de letra">a<sup>-</sup></button>
+<button id="tamanoletra--aumentar"  title="Aumentar tamaño de letra">A<sup>+</sup></button>
+</div>
+<div class="altocontraste" id="altocontraste">
+<button id="boton_altocontraste" class="boton_altocontraste"><span class="boton-nombre">Alto contraste</span> <span class="control"><span class="control-punto"></span></span> </button>
+</div>
+<nav class="elpais-navegacion">
+<div class="navegacion navegacion_secciones"> 
+<ul itemscope="" itemtype="https://schema.org/SiteNavigationElement" class="navegacion-listado" id="navegacion-listado">
+<li id="subnavegacion_internacional" itemprop="name" class="internacional navegacion_secciones--submenu">
+<a itemprop="url" href="//elpais.com/internacional/">Internacional</a>
+<button id="boton_subnavegacion_internacional">mostrar/ocultar menú Internacional</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/europa/a/">Europa</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/internacional/estados_unidos.html">Estados Unidos</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/internacional/mexico.html">México</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/latinoamerica/a/">América Latina</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/oriente_proximo/a/">Oriente Próximo</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/c/fc0affdd9ca95b29da5e148791d8b5d0">Asia</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/africa/a/">África</a></li>
+</ul>
+</div>
+</li>
+<li id="subnavegacion_opinion" itemprop="name" class="opinion navegacion_secciones--submenu">
+<a itemprop="url" href="//elpais.com/elpais/opinion.html">Opinión</a>
+<button id="boton_subnavegacion_opinion">mostrar/ocultar menú Opinión</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/c/aac32d0cdce5eeb99b187a446e57a9f7">Editoriales </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/c/514bd6a205caa1702b2026725f48a60d">Tribunas </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/c/ec7a643a2efd84d02c5948f7a9c86aa7">Viñetas </a></li>
+</ul>
+</div>
+</li>
+<li id="subnavegacion_politica" itemprop="name" class="politica navegacion_secciones--submenu">
+<a itemprop="url" href="//elpais.com/politica">España</a>
+<button id="boton_subnavegacion_politica">mostrar/ocultar menú España</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/andalucia/a/">Andalucía </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/ccaa/catalunya.html">Cataluña </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/comunidad_valenciana/a/">C. Valenciana </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/galicia/a/">Galicia </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/ccaa/madrid.html">Madrid </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/pais_vasco/a/">País Vasco </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/ccaa/">Más comunidades </a></li>
+</ul>
+</div>
+</li>
+<li id="subnavegacion_sociedad" itemprop="name" class="sociedad navegacion_secciones--submenu">
+<a itemprop="url" href="//elpais.com/sociedad/">Sociedad</a>
+<button id="boton_subnavegacion_sociedad">mostrar/ocultar menú Sociedad</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="/tag/educacion/a/">Educaci&oacute;n </a></li>
+<li itemprop="name"><a itemprop="url" href="/tag/medio_ambiente/a/">Medio Ambiente </a></li>
+<li itemprop="name"><a itemprop="url" href="/tag/igualdad_oportunidades/a/">Igualdad </a></li>
+<li itemprop="name"><a itemprop="url" href="/tag/sanidad/a/">Sanidad </a></li>
+<li itemprop="name"><a itemprop="url" href="/tag/consumo/a/">Consumo </a></li>
+<li itemprop="name"><a itemprop="url" href="/tag/asuntos_sociales/a/">Asuntos sociales </a></li>
+<li itemprop="name"><a itemprop="url" href="/tag/laicismo/a/">Laicismo </a></li>
+<li itemprop="name"><a itemprop="url" href="/tag/comunicacion/a/">Comunicaci&oacute;n </a></li>
+</ul>
+</div>
+</li>
+<li id="subnavegacion_economia" itemprop="name" class="economia navegacion_secciones--submenu">
+<a itemprop="url" href="//elpais.com/economia">Economía </a>
+<button id="boton_subnavegacion_economia">mostrar/ocultar menú Economía</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/mercados_financieros/a/">Mercados </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/agr/ahorros/a/">Mis ahorros</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/economia/vivienda.html">Vivienda </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/agr/mis_derechos/a/">Mis Derechos </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/agr/formacion/a/">Formación</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/agr/negocios/a/"><strong>Negocios </strong></a></li>
+<li itemprop="name"><a itemprop="url" href="//cincodias.elpais.com/"><strong>Cincodías </strong></a></li>
+<li itemprop="name"><a itemprop="url" href="//retina.elpais.com/"><strong>Retina </strong></a></li>
+</ul>
+</div>
+</li>
+<li id="subnavegacion_ciencia" itemprop="name" class="ciencia"> <a itemprop="url" href="//elpais.com/elpais/ciencia.html">Ciencia</a> </li>
+<li id="subnavegacion_tecnologia" itemprop="name" class="tecnologia navegacion_secciones--submenu">
+<a itemprop="url" href="//elpais.com/tecnologia/">Tecnología</a>
+<button id="boton_subnavegacion_tecnologia">mostrar/ocultar menú Tecnología</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/tecnologias_movilidad/a/">Móviles</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/redes_sociales/a/">Redes sociales</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/agr/banco_de_pruebas_gadgets/a">Banco de pruebas</a></li>
+<li itemprop="name"><a itemprop="url" href="//retina.elpais.com/">Retina</a></li>
+<li itemprop="name"><a itemprop="url" href="http://www.meristation.com/">Meristation</a></li>
+</ul>
+</div>
+</li>
+<li id="subnavegacion_cultura" itemprop="name" class="cultura navegacion_secciones--submenu">
+<a itemprop="url" href="//elpais.com/cultura/">Cultura</a>
+<button id="boton_subnavegacion_cultura">mostrar/ocultar menú Cultura</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/libros/a/">Literatura </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/cine/a/">Cine </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/musica/a/">Música </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/teatro/a/">Teatro </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/danza/a/">Danza </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/arte/a/">Arte </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/arquitectura/a/">Arquitectura </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/toros/a/">Toros </a></li>
+</ul>
+</div>
+</li>
+<li id="subnavegacion_gente" itemprop="name" class="gente navegacion_secciones--submenu">
+<a itemprop="url" href="//elpais.com/tag/gente/a">Gente</a>
+<button id="boton_subnavegacion_gente">mostrar/ocultar menú Gente</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/elpais/estilo.html">Estilo </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/agr/viva_la_diva/a">Viva la Diva </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/agr/tendenciosas/a">Tendenciosas </a></li>
+<li itemprop="name"><a itemprop="url" href="//horoscopo.elpais.com">Horóscopo </a></li>
+</ul>
+</div>
+</li>
+<li id="subnavegacion_estilo" itemprop="name" class="estilo navegacion_secciones--submenu">
+<a itemprop="url" href="//elpais.com/elpais/estilo.html">Estilo</a>
+<button id="boton_subnavegacion_estilo">mostrar/ocultar menú Estilo</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/moda/a/">Moda </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/gastronomia/a/">Gastronomía </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/gente/a/">Gente </a></li>
+</ul>
+</div>
+</li>
+<li id="subnavegacion_deportes" itemprop="name" class="activo navegacion_secciones--submenu">
+<a itemprop="url" class="deportes" href="//elpais.com/deportes/">Deportes</a>
+<button id="boton_subnavegacion_deportes">mostrar/ocultar menú Deportes</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/futbol/a/">Fútbol </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/baloncesto/a/">Baloncesto </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/tenis/a/">Tenis </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/ciclismo/a/">Ciclismo </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/formula_1/a/">Fórmula 1 </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/motociclismo/a/">Motociclismo </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/golf/a/">Golf </a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/c/71ddc71077b77126d68866b37ca75576">Otros deportes </a></li>
+</ul>
+</div>
+</li>
+<li id="subnavegacion_television" itemprop="name" class="television navegacion_secciones--submenu">
+<a itemprop="url" href="//elpais.com/cultura/television.html">Televisión</a>
+<button id="boton_subnavegacion_television">mostrar/ocultar menú Televisión</button>
+<div class="subnavegacion">
+<ul class="navegacion-listado">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/series_tv/a">Series</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/agr/quinta_temporada/a">Quinta Temporada</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/c/7d625399e46888dd89ed95dffc053da9">Programas</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/c/9ad0cb2811e406a7c7b0a939844d33e2">Comunicación</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/critica_television/a">Crítica TV</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/tag/avance_television/a">Avances</a></li>
+<li itemprop="name"><a itemprop="url" href="http://programacion-tv.elpais.com/">Programación TV</a></li>
+</ul>
+</div>
+</li>
+<li itemprop="name" class="inenglish"> <a itemprop="url" href="//elpais.com/elpais/inenglish.html">In english</a> </li>
+<li itemprop="name" class="motor"> <a itemprop="url" href="http://motor.elpais.com">Motor</a> </li>
+</ul>
+</div>
+<div class="navegacion navegacion_suplementos"> 
+<ul class="navegacion-listado" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+<li itemprop="name" class="retina"><a itemprop="url" href="//retina.elpais.com">Retina</a></li>
+<li itemprop="name" class="cinco_dias"><a itemprop="url" href="//cincodias.elpais.com">Cinco Días</a></li>
+<li itemprop="name" class="eps"><a itemprop="url" href="http://elpaissemanal.elpais.com/">EL PAÍS SEMANAL</a></li>
+<li itemprop="name" class="babelia"><a itemprop="url" href="//elpais.com/cultura/babelia.html">Babelia</a></li>
+<li itemprop="name" class="el_viajero"><a itemprop="url" href="//elviajero.elpais.com/">El Viajero</a></li>
+<li itemprop="name" class="negocios"><a itemprop="url" href="//elpais.com/agr/negocios/a/">Negocios</a></li>
+<li itemprop="name" class="ideas"><a itemprop="url" href="//elpais.com/elpais/ideas.html">Ideas</a></li>
+<li itemprop="name" class="verne"><a itemprop="url" href="https://verne.elpais.com">Verne</a></li>
+<li itemprop="name" class="planeta_futuro"><a itemprop="url" href="//elpais.com/elpais/planeta_futuro.html">Planeta Futuro</a></li>
+<li itemprop="name" class="el_comidista"><a itemprop="url" href="https://elcomidista.elpais.com/" >El Comidista</a></li>
+<li itemprop="name" class="smoda"><a itemprop="url" href="http://smoda.elpais.com/">Smoda</a></li>
+<li itemprop="name" class="buenavida"><a itemprop="url" href="//elpais.com/elpais/buenavida.html">BuenaVida</a></li>
+<li itemprop="name" class="icon"><a itemprop="url" href="//elpais.com/elpais/icon.html">ICON</a></li>
+<li itemprop="name" class="design"><a itemprop="url" href="//elpais.com/elpais/icon_design.html">ICON Design</a></li>
+<li itemprop="name" class="mamas_papas"><a itemprop="url" href="//elpais.com/agr/mamas_papas/">Mamas & Papas</a></li>
+</ul>
+</div>
+<div class="navegacion navegacion_ademas"> 
+<ul class="navegacion-listado" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+<li itemprop="name" class="fotos"><a itemprop="url" href="//elpais.com/elpais/album.html">Fotos</a></li>
+<li itemprop="name" class="vinetas"><a itemprop="url" href="//elpais.com/tag/c/ec7a643a2efd84d02c5948f7a9c86aa7">Viñetas</a></li>
+<li itemprop="name" class="especiales"><a itemprop="url" href="//elpais.com/elpais/especiales.html">Especiales</a></li>
+<li itemprop="name" class="obituarios"><a itemprop="url" href="//elpais.com/tag/obituario/a/">Obituarios</a></li>
+<li itemprop="name" class="hemeroteca"><a itemprop="url" href="//elpais.com/diario/">Hemeroteca</a></li>
+<li itemprop="name" class="el_tiempo"><a itemprop="url" href="http://servicios.elpais.com/el-tiempo/">El tiempo</a></li>
+<li itemprop="name" class="servicios"><a itemprop="url" href="http://servicios.elpais.com/">Servicios</a></li>
+<li itemprop="name" class="blogs"><a itemprop="url" href="//elpais.com/elpais/blogs.html">Blogs</a></li>
+<li itemprop="name" class="promociones"><a href="//elpais.com/promociones/" itemprop="url">Promociones</a></li>
+<li itemprop="name" class="estudiantes"><a href="//elpais.com/elpais/escaparate.html" itemprop="url">Escaparate</a></li>
+<li itemprop="name" class="estudiantes"><a href="http://estudiantes.elpais.com/" itemprop="url">El País de los estudiantes</a></li>
+<li itemprop="name" class="escuela"><a href="http://escuela.elpais.com/" itemprop="url">Escuela de periodismo</a></li>
+<li itemprop="name" class="promociones"><a href="//elpais.com/suscripciones/elpaismas.html" itemprop="url">El País +</a></li>
+<li itemprop="name" class="descuentos"><a href="//descuentos.elpais.com" itemprop="url">Descuentos</a></li>
+</ul>
+</div>
+<div class="navegacion-inferior">
+<div class="elpais-social" id="organizacion" itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization"> <span class="elpais-social-nombre">Síguenos en</span>
+<meta itemprop="url" content="https://elpais.com" />
+<meta itemprop="name" content="EL PAÍS" />
+<ul>
+<li><a itemprop="sameAs" rel="nofollow" class="boton_twitter" href="https://twitter.com/el_pais">Síguenos en Twitter</a></li>
+<li><a itemprop="sameAs" rel="nofollow" class="boton_facebook" href="https://www.facebook.com/elpais">Síguenos en Facebook</a></li>
+<li><a itemprop="sameAs" rel="nofollow" class="boton_googleplus" href="https://plus.google.com/+elpais/">Síguenos en Twitter</a></li>
+<li><a itemprop="sameAs" rel="nofollow" class="boton_instagram" href="https://www.instagram.com/el_pais/">Síguenos en Instagram</a></li>
+</ul>
+<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+<meta itemprop="url" content="https://ep01.epimg.net/iconos/v2.x/v2.0/logos/elpais.png">
+<meta itemprop="width" content="267">
+<meta itemprop="height" content="60">
+</div>
+</div>
+<div class="navegacion-sucripcion">
+<ul class="sucripcion-listado" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+<li itemprop="name" class="newsletter"><a itemprop="url" href="//usuarios.elpais.com/newsletters/?id_externo_promo=rpv_newsletters_ham_ep">Newsletter</a></li>
+<li itemprop="name" class="suscribete"><a itemprop="url" href="//elpais.com/suscripciones/?id_externo_promo=rpv_sus_ham_ep">Suscríbete</a></li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<div itemtype="https://data-vocabulary.org/Breadcrumb" itemscope="" class="elpais-logo">
+<a href="//elpais.com" itemprop="url"><span itemprop="title">EL PAÍS</span></a>
+</div>
+</div>
+<div class="cabecera-seccion " id="cabecera-seccion">
+<div class="seccion">
+<div class="seccion-migas">
+<span itemtype="https://data-vocabulary.org/Breadcrumb" itemscope="" class="miga miga_seccion"> 
+<a class="enlace" title="Ir a 'Gente'"
+href="/tag/gente/a" itemprop="url">
+<span itemprop="title">Gente</span>
+</a> 
+</span>
+</div> 
+<div class="seccion-submenu">
+<div class="seccion-submenu__interior">
+<nav class="seccion-submenu-navegacion">
+<ul class="agrupador-menu-navegacion-listado" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+<li itemprop="name"><a itemprop="url" href="//elpais.com/elpais/estilo.html">Estilo</a></li>
+<li itemprop="name"><a itemprop="url" href="http://smoda.elpais.com/">Smoda</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/elpais/icon.html">Icon</a></li>
+<li itemprop="name"><a itemprop="url" href="//elpais.com/agr/tendenciosas/a">Tendenciosas</a></li>
+<li itemprop="name"><a itemprop="url" href="http://horoscopo.elpais.com/">Horóscopo</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div> 
+</div>
+</div>
+</div>
+</div>
+</header>
+</div>
+<aside class="alertas" id="alertas">
+<div class="alertas__interior">
+<div class="alerta_avance">
+<div class="alerta-tipo"> Avance </div>
+<div class="alerta-texto">
+<p>
+<a href="//elpais.com/hemeroteca/elpais/portadas/2019/02/24/">						<strong>Consulte la portada de EL PAÍS, Edición Europa, del 24 de febrero</strong>
+&nbsp;&raquo;</a>					</p>
+</div> 
+</div> 
+</div> 
+</aside> 
+<div class="articulo__envoltorio">
+<article class="articulo articulo--nointro " itemscope itemprop="mainEntity" itemtype="https://schema.org/ReportageNewsArticle" itemref="organizacion">
+<div class="articulo__interior" id="articulo_interior">
+<div class="articulo__apertura">
+<header class="articulo-encabezado " id="articulo-encabezado" >
+<div class="articulo-encabezado-texto">
+<div class="articulo-antetitulo ">
+<a class="enlace" href="//elpais.com/tag/keith_richards/a">ROLLING STONES</a>
+</div>
+<div class="articulo-titulares" id="articulo-titulares">
+<h1 class="articulo-titulo " id="articulo-titulo" itemprop="headline">Keith Richards anuncia a los 75 años que trata de corregir su “infame” estilo de vida</h1>
+<meta itemprop="url" content="https://elpais.com/elpais/2019/02/14/gente/1550134824_620631.html"/>
+<div class="articulo-subtitulos"><h2  itemprop="alternativeHeadline"  class="articulo-subtitulo">El integrante de los Rolling Stones asegura que solo bebe una copa de vino en las comidas y alguna cerveza. "Es como la heroína. El experimento ha terminado", dice</h2>
+</div>                         </div> 
+</div>
+<aside class="compartir" id="compartir_superior">
+<div class="compartir__interior">
+<div class="compartir-social" id="compartir_social">
+<button class="boton_facebook" id="superior_fb"><span class="boton-nombre">Compartir en Facebook</span> </button>
+<button class="boton_twitter" id="superior_twit"><span class="boton-nombre">Compartir en Twitter</span> </button>
+<div class="compartir-otros" id="compartir-otros_sup">
+<button class="boton_compartir-otros" id="boton_compartir-otros_sup">Otros</button>
+<div class="compartir-otros__interior">
+<button class="boton_cerrar"     id="cerrar_compartir-otros_sup">Cerrar</button>
+<button class="boton_linkedin"   id="superior_linkedin">Compartir en Linkedin</button>
+<button class="boton_googleplus" id="superior_gp">Compartir en GooglePlus</button>
+<button class="boton_pinterest"  id="superior_pinit">Compartir en Pinterest</button>
+</div>
+</div>
+<a href="#comentarios" id="boton_comentarios" class="boton_comentarios"><span class="boton-nombre">Ver comentarios</span> <span id="num_comentarios_header_compartir_1550136058-d7a4609ea895824d12abcd6f543f7599" class="boton-contador"></span></a>
+</div>
+<div class="compartir-varios">
+<div class="favoritos" id="favoritos">
+<button class="boton_favoritos" id="boton_favoritos">Guardar</button>
+</div>
+<div class="correo" id="correo"> </div>
+<button class="boton_imprimir" id="boton_imprimir"><span class="nombre">Imprimir</span></button>
+</div>
+</div>
+<script>
+        if(typeof EPETMail != "undefined")       new EPETMail ( document.getElementById('superior_enviar'), document.getElementById('superior_capaEnviarCorreo'));
+        if(typeof EPETTwitter != "undefined")    new EPETTwitter ( document.getElementById('superior_twit'), params );
+        if(typeof EPETFacebook != "undefined")   new EPETFacebook ( document.getElementById('superior_fb'), params );
+        if(typeof EPETGooglePlus != "undefined") new EPETGooglePlus ( document.getElementById('superior_gp'), params );
+        if(typeof EPETLinkedin != "undefined")   new EPETLinkedin ( document.getElementById('superior_linkedin'), params );
+        if(typeof EPETPinterest != "undefined")  new EPETPinterest ( document.getElementById('superior_pinit'), params );
+    </script>
+</aside>
+</header>
+<div class="articulo-apertura ">
+<figure class="foto superior foto_w980" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+<img onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135548_noticia_normal.jpg" width="980" height="586"  srcset="//ep00.epimg.net/t.gif 200w" data-srcset="//ep01.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135548_noticia_normal_recorte1.jpg 1960w, //ep01.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135549_noticia_normal_recorte2.jpg 720w, //ep01.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135548_noticia_normal.jpg 980w"   alt="El músico Keith Richards." />
+<meta itemprop="width"    content="980">
+<meta itemprop="height"   content="586">
+<meta itemprop="url"      content="https://ep01.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135548_noticia_normal.jpg">
+<meta itemprop="representativeOfPage" content="true">
+<figcaption class="foto-pie"  itemprop="caption"> <span class="foto-texto">El músico Keith Richards.</span> <span class="foto-firma"> <span itemprop="copyrightHolder" class="foto-agencia">GTRES</span></span></figcaption>
+</figure>
+<div class="firma ">
+<div class="autor" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+<figure class="foto" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+<meta itemprop="url" content="https://ep00.epimg.net/miperfil/avatares/8/45/el_pais.jpg"/>
+<a class="enlace" href="https://elpais.com/autor/el_pais/a/">
+<meta itemprop="width" content="80">
+<meta itemprop="height" content="80">
+<img onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep00.epimg.net/miperfil/avatares/8/45/el_pais.jpg" width="80" height="80" alt="El País"/>
+</a>
+</figure>
+<div class="autor-texto">
+<span class="autor-nombre" itemprop="name">
+<a itemprop="url" href="https://elpais.com/autor/el_pais/a/" title="Ver todas las noticias de El País">El País</a>
+</span>
+<div class="autor-perfiles">
+<ul class="autor-perfiles-listado">
+<li><a class="boton_twitter" itemprop="sameAs" href="http://twitter.com/el_pais" rel="nofollow" target="_blank">Twitter</a></li><li><a class="boton_googleplus" itemprop="sameAs" href="https://plus.google.com/u/0/103019117518606328359/posts" rel="nofollow" target="_blank">Google Plus</a></li>                                
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="articulo-datos">
+<span class="articulo-localizaciones">
+<span class="articulo-localizacion" itemprop="contentLocation">
+Madrid
+</span>
+</span>
+<time datetime="2019-02-14T12:28:25+01:00" class="articulo-actualizado">
+<meta content="2019-02-14T10:00:24+01:00" itemprop="datePublished">
+<meta content="2019-02-14T12:28:25+01:00" itemprop="dateModified">
+<a href="//elpais.com/tag/fecha/20190214 " title="Ver todas las noticias de esta fecha">
+14 FEB 2019 - 12:28					<abbr title="Central European Time">CET</abbr>				</a>
+</time>
+</div>
+</div> 
+</div>
+<div class="articulo__contenedor" id="articulo_contenedor">
+<div class="articulo-cuerpo" id="cuerpo_noticia" itemprop="articleBody">
+<section class="sumario_apoyos izquierda" id="sumario_1|apoyos">
+<a name="sumario_1"></a>
+<div class="sumario__interior">
+<header class="sumario-encabezado"><h3 class="sumario-titulo"><span class="sin_enlace">MÁS INFORMACIÓN</span></h3></header>
+<div class="sumario-texto">
+<div class="apoyos">
+<ul class="apoyos-listado">
+<li class="apoyo_ apoyo_sinfoto">
+<span class="apoyo-titulo">
+<a href="//elpais.com/elpais/2018/03/01/gente/1519921409_213654.html">
+Keith Richards lleva dos meses sin drogas porque se han vuelto “flojas y aburridas”
+</a>
+</span>
+</li>
+<li class="apoyo_ apoyo_sinfoto">
+<span class="apoyo-titulo">
+<a href="//elpais.com/elpais/2015/10/07/eps/1444216081_653916.html">
+Keith Richards, adicto al blues
+</a>
+</span>
+</li>
+<li class="apoyo_ apoyo_sinfoto">
+<span class="apoyo-titulo">
+<a href="//elpais.com/cultura/2012/03/09/actualidad/1331292228_233293.html">
+Los Stones, medio siglo a tortas
+</a>
+</span>
+</li>
+</ul>
+</div>
+</div>
+</div> 
+</section>
+<p><a href="//elpais.com/tag/keith_richards/a">Keith Richards</a> ha revelado que trata de dominar su "infame" estilo de vida y para ello ha reducido el alcohol y sus amados cigarrillos, en una nueva entrevista con la revista <em>MOJO.</em> El rockero <a href="//elpais.com/cultura/2012/03/09/actualidad/1331292228_233293.html">de los Rolling Stones</a> admitió que comenzó a hacerlo al inicio de este año por motivos de salud, después de que en diciembre celebrara "una larga fiesta" por su 75 cumpleaños y su 35 aniversario de boda con su esposa Patti Hansen en su lujosa casa de Turks &amp; Caicos en Parrot Cay.</p>
+<p>El creador de éxitos como&nbsp;<em>Gimme Shelter</em> dijo: "Fue una buena manera de comenzar un nuevo año, ¿verdad? Ahora tomo un poco de vino con las comidas, y una Guinness o una cerveza o dos, pero por lo demás ... nada. Es como la heroína: el experimento ha terminado". Pero reconoce que el camino es largo. "Eso sí, si te encuentro en un bar y me dices: '¿Quieres un trago?' ¡No lo rechazaría! No soy un puritano en estos asuntos. Es solo que ya no está en mi menú diario".</p>
+<p>Cuando se le preguntó si alguna vez había tratado de dejar los cigarrillos, el guitarrista dijo: "Lo he intentado. Hasta ahora, sin éxito. [El cantante] Lou Reed afirmó que la nicotina era más difícil de abandonar que la heroína, y así es". Y añadió: "Dejar la heroína es como el infierno, pero es un infierno corto. Los cigarrillos siempre están ahí. Solo los cojo y los enciendo sin pensar. Pero últimamente me las arreglé para reducirlos a una cantidad sustancial todos los días, y todavía estoy trabajando en ello porque me he dado cuenta de que no los necesito. Me he dado cuenta de que es un hábito inútil. Pero oye, cuando tienes 75 años, los hábitos están bastante arraigados".</p>
+<section class="sumario_foto centro" id="sumario_2|foto">
+<a name="sumario_2"></a>
+<div class="sumario__interior">
+<figure class="foto foto_w980" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+<img onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135926_sumario_normal.jpg" width="980" height="516" alt="Keith Richards, en un concierto en Nanterre." srcset="//ep00.epimg.net/t.gif 200w" data-srcset="//ep01.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135926_sumario_normal_recorte1.jpg 1960w, //ep01.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135926_sumario_normal_recorte2.jpg 720w, //ep01.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135926_sumario_normal.jpg 980w" />
+<meta itemprop="width"  content="980">
+<meta itemprop="height" content="516">
+<meta itemprop="url"    content="https://ep01.epimg.net/elpais/imagenes/2019/02/14/gente/1550134824_620631_1550135926_sumario_normal.jpg">
+<figcaption class="foto-pie"  itemprop="caption"> <span class="foto-texto">Keith Richards, en un concierto en Nanterre.</span> <span class="foto-firma"> <span itemprop="copyrightHolder" class="foto-agencia">GTRESONLINE</span></span></figcaption>
+</figure>
+<div class="sumario-texto">
+</div>
+</div>
+</section>
+<p><a href="//elpais.com/elpais/2018/03/01/gente/1519921409_213654.html">Estos buenos propósitos llegan un año después</a> de que en una entrevista al diario <em>The Daily</em> <em>Telegraph</em>, el guitarrista de los Rolling Stones asegurara que llevaba dos meses sin probar las drogas. “No estoy diciendo que definitivamente esté fuera de todo esto. Dentro de seis meses, podría estar de nuevo en ese mundo”, reconocía entonces al rotativo británico. Richards contó en la entrevista que no ha dejado las sustancias por necesidad, sino porque ha perdido el interés en las drogas, que cree que con el paso del tiempo se han vuelto “aburridas y flojas”: "Las drogas que hay hoy en día por ahí no me fascinan lo más mínimo, se han convertido en algo institucionalizado. Además, he probado de todo en la vida, ya no hay nada que me pueda sorprender".</p>
+<p>A pesar de su ajetreado estilo de vida, lanzándose por todo el mundo para los conciertos con los Stones, la estrella dice que aún no tiene un teléfono móvil y confiesa que es "bastante analfabeto desde el punto de vista técnico". "Confío en mis hijos o en mi esposa para cosas tan simples como buscar en Google. No toco esas cosas. Nunca me han gustado los teléfonos. Tal vez sea solo porque el teléfono siempre está sonando y siempre hay alguien que quiere algo".</p>
+</div> 
+<div class="articulo-trust">
+<div class="articulo-trust__inner">
+<span>Se adhiere a los criterios de</span>
+<a href="https://elpais.com/estaticos/que-es-the-trust-project/" target="_blank" rel="nofollow"><img onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/estaticos/codigo-etico/img/the-trust-project.png" alt="The Trust Project"></a>
+<a class="trust-mas" href="https://elpais.com/estaticos/codigo-etico/" target="_blank">Más información ></a>
+</div>
+</div>                                                                                                  <aside class="compartir" id="compartir_inferior">
+<div class="compartir__interior">
+<div class="compartir-social" id="compartir_social_inferior">
+<button class="boton_facebook" id="inferior_fb"><span class="boton-nombre">Compartir en Facebook</span> </button>
+<button class="boton_twitter" id="inferior_twit"><span class="boton-nombre">Compartir en Twitter</span> </button>
+<div class="compartir-otros" id="compartir-otros_inf">
+<button class="boton_compartir-otros" id="boton_compartir-otros_inf">Otros</button>
+<div class="compartir-otros__interior">
+<button class="boton_cerrar" id="cerrar_compartir-otros_inf">Cerrar</button>
+<button class="boton_linkedin" id="inferior_linkedin">Compartir en Linkedin</button>
+<button class="boton_googleplus" id="inferior_gp">Compartir en GooglePlus</button>
+<button class="boton_pinterest" id="inferior_pinit">Compartir en Pinterest</button>
+</div>
+</div>
+</div>
+</div>
+<script>
+        //if(typeof EPETMail != "undefined")       new EPETMail ( document.getElementById('inferior_enviar'), document.getElementById('inferior_capaEnviarCorreo'));
+        if(typeof EPETTwitter != "undefined")    new EPETTwitter ( document.getElementById('inferior_twit'), params );
+        if(typeof EPETFacebook != "undefined")   new EPETFacebook ( document.getElementById('inferior_fb'), params );
+        if(typeof EPETGooglePlus != "undefined") new EPETGooglePlus ( document.getElementById('inferior_gp'), params );
+        if(typeof EPETLinkedin != "undefined")   new EPETLinkedin ( document.getElementById('inferior_linkedin'), params );
+        if(typeof EPETPinterest != "undefined")  new EPETPinterest ( document.getElementById('inferior_pinit'), params );
+    </script>
+</aside>
+<section class="articulo-tags" id="articulo-tags">
+<header class="articulo-tags-encabezado ">
+<button class="articulo-tags-titulo" id="boton_articulo-tags">
+Archivado en:
+</button>
+</header>
+<div class="articulo-tags__interior" id="articulo-tags__interior">
+<ul class="listado" id="listado">
+<li itemprop="keywords"><a href="//elpais.com/tag/keith_richards/a/" title="Ver m&aacute;s noticias de [Keith Richards]">Keith Richards</a></li>
+<li itemprop="keywords"><a href="//elpais.com/tag/the_rolling_stones/a/" title="Ver m&aacute;s noticias de [The Rolling Stones]">The Rolling Stones</a></li>
+<li itemprop="keywords"><a href="//elpais.com/tag/gente/a/" title="Ver m&aacute;s noticias de [Gente]">Gente</a></li>
+<li itemprop="keywords"><a href="//elpais.com/tag/grupos_musica/a/" title="Ver m&aacute;s noticias de [Grupos música]">Grupos música</a></li>
+<li itemprop="keywords"><a href="//elpais.com/tag/famosos/a/" title="Ver m&aacute;s noticias de [Famosos]">Famosos</a></li>
+<li itemprop="keywords"><a href="//elpais.com/tag/musica/a/" title="Ver m&aacute;s noticias de [Música]">Música</a></li>
+</ul>
+</div>
+</section>
+<script>
+if (typeof EPETshowHideTags == 'function') {
+
+				//EPETshowHideTags('contenedorLista');
+				EPETshowHideTags('articulo-tags__interior');
+
+}
+</script>
+<div class="OUTBRAIN" data-src="http://elpais.com/elpais/2019/02/14/gente/1550134824_620631.html" data-widget-id="AR_65" data-ob-template="elpais"></div>
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js" id="outbrain_widget_script"></script>
+<div id="outbrain_widget" class="outbrain">
+</div>
+<script>
+    EP.navigation.cargaHuecosOutbrain(["AR_62","AR_63", "AR_64"]);
+</script>
+</div> 
+<div class="envoltorio_publi" id="roba_principal">
+<div id='elpais_gpt-MPU1' class='publi_luto_horizontal'>
+<script type='text/javascript'>
+			PBS.display('MPU1');
+		</script>
+</div>
+</div>
+<aside class="articulo-extras">
+<style>
+/* Promo Styles */
+#wrapper_newsletter_el-pais { width: 300px; background-color: #006090; margin: 0 0 1.29rem 0; }
+.contenedor__elementos { width: auto; max-width: 325px; height: 81px; display: flex; align-items: center; font-family: 'Benton Sans', Sans-Serif; font-weight: 300; }
+.titulo-newsletter__pais { font-family: 'Benton Sans', Sans-Serif; font-weight: 800; margin: 0; letter-spacing: 1.5px; font-size: 15px;}
+/* Texto */
+#wrapper_txt { padding: 0 0 0 25px; }
+#wrapper_txt h3 { color: white; }
+#wrapper_txt p {max-width: 220px; margin: 0; font-size: 11.4px; line-height: normal;}
+/* Tag Anchor */
+.a_wrapper { text-decoration: none; display: flex; align-items: center; color: white; }
+/* Icono */
+#wrapper_icon { width: 110px; height: 110px; margin: 0 50px; position: relative; }
+#wrapper_icon svg { width: 100%; height: 100%; }
+/* Estilos SVG Icono*/
+#wrapper-graficos {
+position: relative;
+height: 81px;
+width: 127px;
+z-index: 0;
+padding: 0 20px 0 0;
+}
+#pais_icono {
+height: 61px;
+margin-top: 20px;
+padding-right: 24px;
+position: absolute;
+top: 0;
+left: 0;
+z-index: 2;
+}
+#flat-shadow { fill: black; opacity: .3 ; }
+#wrapper-icono { position: relative; }
+#letter {
+transform: translateX(53px) translateY(5px);
+animation: pop_shake 4s ease infinite;
+transform-box:fill-box;
+transform-origin: center center;
+}
+/* SVG Sobre */
+#sobre-front { transform: translateX(49px) translateY(14px); transform-box:fill-box; transform-origin: center center; }
+#sobre-back { transform-box:fill-box; transform-origin: center center; }
+/* Media Query */
+@media all and (max-width: 999px) {
+#wrapper_newsletter_el-pais { width: 100%; }
+#wrapper-graficos {  }
+.contenedor__elementos { margin: 0 auto; }
+}
+/******************************
+Animaciones
+*******************************/
+/* Animacion Pagina & Icono "E" */
+@keyframes pop_shake {
+0%, 4%, 8%, 12%, 16%, 100% { transform: translateX(53px) translateY(4px); } /* Posicion Descanso */
+2%  { transform: translateX(53px) translateY(0px); } /* Subida */
+6%  { transform: translateX(53px) translateY(1px) rotate(-4deg); }
+10% { transform: translateX(53px) translateY(2px) rotate(3deg);  }
+14% { transform: translateX(53px) translateY(3px) rotate(-2deg); }
+}
+@keyframes impactosobre {
+0%, 5%, 9%, 13%, 17%, 100% { transform: translateX(49px) translateY(14px); }
+7%, 11%, 15% { transform: translateX(49px) translateY(15px); } /* Baja */
+}
+@keyframes impactosobreback {
+0%, 6%, 10%, 12%, 100% { transform: translateY(0); }
+7% { transform: translateY(1px);  } /* Baja */
+11% { transform: translateY(1px); }
+}
+</style>
+<div id='wrapper_newsletter_el-pais'>
+<div class="contenedor__elementos">
+<a href="https://usuarios.elpais.com/newsletters/?id_externo_promo=not_newsletters_gen" class="a_wrapper">
+<div id='wrapper_txt'>
+<h3 class="titulo-newsletter__pais"> NEWSLETTER </h3>
+<p> Recibe la mejor información en tu bandeja de entrada </p>
+</div>
+</a>
+<div id="wrapper-graficos">
+<!-- ## Contenedor SVG in-line ## -->
+<div id="wrapper-icono">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ## Icono SVG ## -->
+<svg version="1.1" id="pais_icono" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+viewBox="0 0 84 59" style="enable-background:new 0 0 84 59;" xml:space="preserve">
+<style type="text/css">
+.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#004A6F;}
+.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFC13B;}
+.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.9;}
+.st3{fill:#212020;}
+.st4{fill-rule:evenodd;clip-rule:evenodd;fill:url(#Path-3_1_);}
+.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#FFE9BA;}
+</style>
+<g>
+<g id="export-svg" transform="translate(-187.000000, -22.000000)">
+<g id="Arte-Copy-2" transform="translate(0.000000, -11.000000)">
+<g id="envelope" transform="translate(187.000000, 0.000000)">
+<g id="art" transform="translate(0.000000, 33.000000)">
+<polyline id="flat-shadow" class="st0" points="49,14 0,59 60,59 84,36.6 49.9,36.6           "/>
+<polygon id="sobre-back" class="st1" points="49,13.6 49,37 84,37 84,13.6 66.5,0           "/>
+<g id="letter" transform="translate(54.000000, 5.000000)">
+<path id="Rectangle" class="st2" d="M0.4,0.4v28.1h25.1V0.4H0.4z"/>
+<g id="E-BLANCO" transform="translate(5.000000, 5.000000)">
+<g id="balnco">
+<path id="Shape-Copy" class="st3" d="M0,15.5v-1.7h1.4c0.8,0,1.3-0.2,1.3-1.6V3c0-1-0.3-1.3-1.6-1.3H0V0h16v6.2h-1.8
+c-0.4-3.2-0.7-4.4-3.9-4.4H6.1v4.9h1.3c1.5,0,2.1-0.7,2.1-2.6V3.7h1.8v7.8H9.5v-0.6c0-1.9-0.7-2.6-2.1-2.6H6.1v5.4h4.9
+c2.2,0,3.1-1.3,3.3-4.8H16v6.5L0,15.5z"/>
+</g>
+</g>
+</g>
+<g id="sobre-front" transform="translate(49.000000, 14.000000)">
+<linearGradient id="Path-3_1_" gradientUnits="userSpaceOnUse" x1="-492.0372" y1="18.8736" x2="-492.3802" y2="18.2819" gradientTransform="matrix(35 0 0 -23 17253 441)">
+<stop  offset="0" style="stop-color:#FFE9BA"/>
+<stop  offset="1" style="stop-color:#C8A968"/>
+</linearGradient>
+<polygon id="Path-3" class="st4" points="35,0 0,23 35,23            "/>
+<polygon id="Path-2" class="st5" points="0,0 35,23 0,23             "/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>
+</div>
+</div>
+</div>
+</div>      
+</aside>
+</div>
+</article>
+<aside class="lateral">
+<div id="lateral__interior" class="lateral__interior">
+<style>
+.caja_relacionadas .miniatura {
+float: right;
+margin-left: 10px;
+width: 140px;
+}
+.caja_relacionadas .foto{
+height:auto;
+max-height:100px;
+overflow:hidden;
+}
+</style>
+<div id="caja_relacionadas_cxense" class="caja caja_relacionadas oculto">
+<script type="text/javascript">
+  if(EpetwidgetCxense) EpetwidgetCxense(document.querySelector('meta[name="lang"]').getAttribute("content"));  
+</script>
+</div>
+<div class="envoltorio_publi estirar">
+<div id='elpais_gpt-MPU2' class='publi_luto_horizontal'>
+<script type='text/javascript'>
+			PBS.display('MPU2');
+		</script>
+</div>
+</div>
+<article class="articulo articulo_branded">
+<div class="articulo__interior">
+<div class="articulo-antetitulo sin_estilo">
+<span class="sin_enlace">
+Conectando con la grada
+</span>					</div>
+<figure class="foto  foto_w360">
+<a href="//elpais.com/deportes/2019/02/11/actualidad/1549883449_603449.html?id_externo_promo=ep_bc_mastercard_20190222">
+<img onload="lzld(this)" src="//ep00.epimg.net/t.gif" data-src="//ep01.epimg.net/tematicos/imagenes/2017/11/14/branded_content/1510657434_639159_1550841684_miniatura_normal.png" width="360" height="257"    alt="" />
+</a>
+</figure>
+<h2 class="articulo-titulo">
+<a title="Ver noticia" href="https://elpais.com/deportes/2019/02/11/actualidad/1549883449_603449.html?id_externo_promo=ep_bc_mastercard_20190222">Todas las aventuras que viví por la Champions</a>
+</h2>
+</div>
+</article>
+<script language="javaScript" type="text/javascript">
+    if (typeof aniade_track_caja == 'function') {
+        aniade_track_caja('caja_lo_mas_visto', 'rel=lom');
+    }
+</script>
+<script type="text/javascript">
+
+function salta_a_lo_mas_visto()
+{
+	if (document.getElementById('li_lmv_elpais').className.indexOf("activo") > -1)
+	{
+		if (document.getElementById('li_lmv_america').className.indexOf("activo") > -1)
+			document.location = "//elpais.com/lomasvisto/america.html";
+		else
+			document.location = "//elpais.com/lomasvisto/";
+	}
+    else {
+       	if (document.getElementById('li_lmv_verne').className.indexOf("activo") > -1)
+            document.location = "//elpais.com/lomasvisto/verne.html";
+        else
+            if (document.getElementById('li_lmv_twitter').className.indexOf("activo") > -1)
+                document.location = "//elpais.com/lomasvisto/twitter.html";
+            else
+                document.location = "//elpais.com/lomasvisto/";
+    }
+}
+
+function lmv_cambia_pestana(idpestana)
+{
+	//Por defecto activo las vistas desde cualquier sitio
+	document.getElementById('lmv_america').style.display = "none";
+	switch (idpestana)
+	{
+		case "lmv_elpais" :
+			document.getElementById('lmv_todo').style.display = "block";
+			document.getElementById('lmv_twitter').style.display = "none";
+			document.getElementById('lmv_verne').style.display = "none";
+			document.getElementById('lmv_seccion').style.display = "none";
+			document.getElementById('li_lmv_elpais').className = "activo";
+			document.getElementById('li_lmv_twitter').className = "";
+			document.getElementById('li_lmv_verne').className = "";
+			document.getElementById('li_lmv_seccion').className = "";
+			document.getElementById('lmv_subpestanas').style.display = "block";
+			lmv_cambia_subpestana("lmv_todo");
+		break;
+
+		case "lmv_twitter" :
+			document.getElementById('lmv_todo').style.display = "none";
+			document.getElementById('lmv_twitter').style.display = "block";
+			document.getElementById('lmv_verne').style.display = "none";
+			document.getElementById('lmv_seccion').style.display = "none";
+			document.getElementById('li_lmv_elpais').className = "";
+			document.getElementById('li_lmv_twitter').className = "activo";
+			document.getElementById('li_lmv_verne').className = "";
+			document.getElementById('li_lmv_seccion').className = "";
+			document.getElementById('lmv_subpestanas').style.display = "none";
+		break;
+
+		case "lmv_verne" :
+			document.getElementById('lmv_todo').style.display = "none";
+			document.getElementById('lmv_twitter').style.display = "none";
+			document.getElementById('lmv_verne').style.display = "block";
+			document.getElementById('lmv_seccion').style.display = "none";
+			document.getElementById('li_lmv_elpais').className = "";
+			document.getElementById('li_lmv_twitter').className = "";
+			document.getElementById('li_lmv_verne').className = "activo";
+			document.getElementById('li_lmv_seccion').className = "";
+			document.getElementById('lmv_subpestanas').style.display = "none";
+		break;
+
+		case "lmv_seccion" :
+			document.getElementById('lmv_todo').style.display = "none";
+			document.getElementById('lmv_twitter').style.display = "none";
+			document.getElementById('lmv_verne').style.display = "none";
+			document.getElementById('lmv_seccion').style.display = "block";
+			document.getElementById('li_lmv_elpais').className = "";
+			document.getElementById('li_lmv_twitter').className = "";
+			document.getElementById('li_lmv_verne').className = "";
+			document.getElementById('li_lmv_seccion').className = "activo";
+			document.getElementById('lmv_subpestanas').style.display = "none";
+		break;
+
+	}
+}
+
+function lmv_cambia_subpestana(idpestana)
+{
+	//twitter, seccion ocultas
+	document.getElementById('lmv_twitter').style.display = "none";
+	document.getElementById('lmv_verne').style.display = "none";
+	document.getElementById('lmv_seccion').style.display = "none";
+	switch (idpestana)
+	{
+		case "lmv_todo" :
+			document.getElementById('lmv_todo').style.display = "block";
+			document.getElementById('lmv_america').style.display = "none";
+			document.getElementById('li_lmv_todo').className = "activo";
+			document.getElementById('li_lmv_america').className = "";
+		break;
+		case "lmv_america" :
+			document.getElementById('lmv_todo').style.display = "none";
+			document.getElementById('lmv_america').style.display = "block";
+			document.getElementById('li_lmv_todo').className = "";
+			document.getElementById('li_lmv_america').className = "activo";
+		break;
+	}
+}
+
+</script>
+<div class="caja lo_mas_visto" id="caja_lo_mas_visto">
+<h3><span class="bolillo"></span><span class="sin_enlace">Lo más visto en...</span></h3>
+<a class="vermas" href="javascript:void(0)" onclick="salta_a_lo_mas_visto()" title="Ver listado completo">&raquo; Top 50</a>
+<div class="pestanas">
+<ul class="estirar">
+<li id="li_lmv_elpais"><a href="javascript:void(0)" onclick="lmv_cambia_pestana('lmv_elpais')">EL PAÍS</a></li>
+<li id="li_lmv_twitter"><a href="javascript:void(0)" onclick="lmv_cambia_pestana('lmv_twitter')">Twitter</a></li>
+<li id="li_lmv_verne"><a href="javascript:void(0)" onclick="lmv_cambia_pestana('lmv_verne')">Verne</a></li>
+<li id="li_lmv_seccion" class="activo"><a href="javascript:void(0)" onclick="lmv_cambia_pestana('lmv_seccion')">Gente</a></li>
+</ul>
+<div id="lmv_subpestanas" class="subpestanas" style="display:none">
+<ul class="estirar">
+<li id="li_lmv_todo" class="activo"><a href="javascript:void(0)" onclick="lmv_cambia_subpestana('lmv_todo')">Desde España</a></li>
+<li id="li_lmv_america"><a href="javascript:void(0)" onclick="lmv_cambia_subpestana('lmv_america')">Desde América</a></li>
+</ul>
+</div>
+</div>
+<div class="contenido" id="lmv_seccion">
+<ol>
+<li class="estirar"><span class="numero">1</span><a href="//elpais.com/elpais/2019/02/22/gente/1550841347_255735.html" title="Ver noticia">Malú y la pandilla de amigos músicos de Albert Rivera</a></li>
+<li class="estirar"><span class="numero">2</span><a href="//elpais.com/elpais/2019/02/22/gente/1550852194_438432.html" title="Ver noticia">Pocholo, el verso libre de la familia Franco</a></li>
+<li class="estirar"><span class="numero">3</span><a href="//elpais.com/elpais/2019/02/22/gente/1550847186_612477.html" title="Ver noticia">Lucía Rivera, la modelo que ha llegado a la vida de Marc Márquez</a></li>
+<li class="estirar"><span class="numero">4</span><a href="//elpais.com/elpais/2019/02/05/gente/1549381034_338066.html" title="Ver noticia">La modelo que pasó de ganar un millón por 20 días de trabajo a vivir en la calle de Barcelona</a></li>
+<li class="estirar"><span class="numero">5</span><a href="//elpais.com/elpais/2019/02/22/gente/1550829052_021941.html" title="Ver noticia">La formación ecologista de Leonor y Sofía de Borbón</a></li>
+<li class="estirar"><span class="numero">6</span><a href="//elpais.com/elpais/2019/02/22/gente/1550837626_291201.html" title="Ver noticia">La hija de Bimba Bosé lanza su primer disco a los 14 años</a></li>
+<li class="estirar"><span class="numero">7</span><a href="//elpais.com/elpais/2019/01/08/gente/1546935342_592509.html" title="Ver noticia">Albert Rivera y Beatriz Tajuelo rompen su relación</a></li>
+<li class="estirar"><span class="numero">8</span><a href="//elpais.com/elpais/2019/02/20/gente/1550663975_105369.html" title="Ver noticia">Las mujeres en las que se refugia Meghan Markle en Nueva York</a></li>
+<li class="estirar"><span class="numero">9</span><a href="//elpais.com/elpais/2019/02/22/gente/1550840122_951504.html" title="Ver noticia"><span title="Vídeo" class="video">Vídeo</span>Megan Maxwell: “A todas nos gusta un empotrador”</a></li>
+<li class="estirar"><span class="numero">10</span><a href="//elpais.com/elpais/2019/02/22/gente/1550827110_913951.html" title="Ver noticia">Courteney Cox se despidió de su hija al creer que moría en un avión</a></li>
+</ol>
+</div>			<div class="contenido" id="lmv_todo" style="display:none">
+<ol>
+<li class="estirar"><span class="numero">1</span><a href="//elpais.com/ccaa/2019/02/22/madrid/1550863014_310993.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Un hijo caníbal</a></li>
+<li class="estirar"><span class="numero">2</span><a href="//elpais.com/cultura/2019/02/22/actualidad/1550836195_828689.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Un terremoto llamado Yalitza Aparicio</a></li>
+<li class="estirar"><span class="numero">3</span><a href="//elpais.com/internacional/2019/02/22/actualidad/1550845157_525197.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Balazos y gases lacrimógenos disparan la tensión en la frontera venezolana con Colombia</a></li>
+<li class="estirar"><span class="numero">4</span><a href="//elpais.com/elpais/2019/02/22/gente/1550841347_255735.html" title="Ver Noticia">Malú y la pandilla de amigos músicos de Albert Rivera</a></li>
+<li class="estirar"><span class="numero">5</span><a href="//elpais.com/economia/2019/02/15/actualidad/1550252914_641176.html" title="Ver Noticia">Así es la vivienda que podrías alquilar o comprar si cobras el salario mínimo</a></li>
+<li class="estirar"><span class="numero">6</span><a href="//elpais.com/economia/2019/02/21/actualidad/1550751610_813747.html" title="Ver Noticia">La increíble rentabilidad de la inversión en piezas de Lego en la reventa</a></li>
+<li class="estirar"><span class="numero">7</span><a href="//elpais.com/ccaa/2019/02/22/madrid/1550837717_099596.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Un hombre mata a su madre, la descuartiza y se come parte de ella</a></li>
+<li class="estirar"><span class="numero">8</span><a href="//elpais.com/internacional/2019/02/23/america/1550884299_644816.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>El chavismo no logra contrarrestar a la oposición con su concierto</a></li>
+<li class="estirar"><span class="numero">9</span><a href="//elpais.com/internacional/2019/02/22/america/1550866975_254344.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Guaidó sugiere que logró cruzar a Colombia con la ayuda de militares</a></li>
+<li class="estirar"><span class="numero">10</span><a href="//elpais.com/internacional/2019/02/23/america/1550945385_758680.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>La ayuda humanitaria se atasca en la frontera de Venezuela</a></li>
+</ol>
+</div>			<div class="contenido" id="lmv_america" style="display:none">
+<ol>
+<li class="estirar"><span class="numero">1</span><a href="//elpais.com/internacional/2019/02/22/actualidad/1550845157_525197.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Balazos y gases lacrimógenos disparan la tensión en la frontera venezolana con Colombia</a></li>
+<li class="estirar"><span class="numero">2</span><a href="//elpais.com/ccaa/2019/02/22/madrid/1550863014_310993.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Un hijo caníbal</a></li>
+<li class="estirar"><span class="numero">3</span><a href="//elpais.com/cultura/2019/02/22/actualidad/1550836195_828689.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Un terremoto llamado Yalitza Aparicio</a></li>
+<li class="estirar"><span class="numero">4</span><a href="//brasil.elpais.com/brasil/2019/02/22/internacional/1550846916_798688.html" title="Ver Noticia">Venezuela: as últimas notícias da crise, ao vivo</a></li>
+<li class="estirar"><span class="numero">5</span><a href="//elpais.com/internacional/2019/02/23/america/1550884299_644816.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>El chavismo no logra contrarrestar a la oposición con su concierto</a></li>
+<li class="estirar"><span class="numero">6</span><a href="//brasil.elpais.com/brasil/2017/07/30/opinion/1501374007_074820.html" title="Ver Noticia">O apoio ao golpe de Nicolás Maduro é a página mais vergonhosa da história do PT</a></li>
+<li class="estirar"><span class="numero">7</span><a href="//elpais.com/internacional/2019/02/23/america/1550945385_758680.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>La ayuda humanitaria se atasca en la frontera de Venezuela</a></li>
+<li class="estirar"><span class="numero">8</span><a href="//brasil.elpais.com/brasil/2019/02/23/tecnologia/1550953521_057163.html" title="Ver Noticia">Richard Stallman: “Os celulares espiam e transmitem nossas conversas, mesmo desligados”</a></li>
+<li class="estirar"><span class="numero">9</span><a href="//brasil.elpais.com/brasil/2019/02/21/tecnologia/1550748035_065824.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>YouTube enfrenta um escândalo com milhares de comentários pedófilos em vídeos de menores</a></li>
+<li class="estirar"><span class="numero">10</span><a href="//elpais.com/internacional/2019/02/22/america/1550866975_254344.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Guaidó sugiere que logró cruzar a Colombia con la ayuda de militares</a></li>
+</ol>
+</div>			<div class="contenido" id="lmv_twitter" style="display:none">
+<ol>
+<li class="estirar"><span class="numero">1</span><a href="//elpais.com/internacional/2019/02/22/actualidad/1550845157_525197.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Balazos y gases lacrimógenos disparan la tensión en la frontera venezolana con Colombia</a></li>
+<li class="estirar"><span class="numero">2</span><a href="//elpais.com/ccaa/2019/02/21/madrid/1550745137_338897.html" title="Ver Noticia">11 tiros por la espalda y una paliza “inhumana”</a></li>
+<li class="estirar"><span class="numero">3</span><a href="//elpais.com/internacional/2019/02/23/america/1550945385_758680.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>La ayuda humanitaria se atasca en la frontera de Venezuela</a></li>
+<li class="estirar"><span class="numero">4</span><a href="//elpais.com/cultura/2019/02/23/actualidad/1550934123_322572.html" title="Ver Noticia">Muere Stanley Donen, el último de los grandes directores del Hollywood clásico</a></li>
+<li class="estirar"><span class="numero">5</span><a href="//elpais.com/elpais/2019/02/18/eps/1550506529_700758.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Bogotá: La ciudad rescatada</a></li>
+<li class="estirar"><span class="numero">6</span><a href="//elpais.com/cultura/2019/02/22/actualidad/1550836195_828689.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Un terremoto llamado Yalitza Aparicio</a></li>
+<li class="estirar"><span class="numero">7</span><a href="//elpais.com/sociedad/2019/02/22/actualidad/1550863494_623319.html" title="Ver Noticia">El Papa: “Todo feminismo acaba siendo un machismo con falda”</a></li>
+<li class="estirar"><span class="numero">8</span><a href="//elpais.com/elpais/2019/02/21/opinion/1550741578_793801.html" title="Ver Noticia">Bulo</a></li>
+<li class="estirar"><span class="numero">9</span><a href="//elpais.com/internacional/2019/02/23/america/1550949839_926318.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>El caos se apodera de la frontera: gases y balas para frenar la ayuda</a></li>
+<li class="estirar"><span class="numero">10</span><a href="//elpais.com/sociedad/2019/02/23/actualidad/1550920878_436987.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Un consejero del Papa admite que la Iglesia destruyó archivos sobre abusos</a></li>
+</ol>
+</div>			<div class="contenido" id="lmv_verne" style="display:none">
+<ol>
+<li class="estirar"><span class="numero">1</span><a href="//verne.elpais.com/verne/2019/02/23/articulo/1550918608_494243.html" title="Ver Noticia">¿Es normal tanto calor en febrero?</a></li>
+<li class="estirar"><span class="numero">2</span><a href="//verne.elpais.com/verne/2019/02/21/articulo/1550737546_919183.html" title="Ver Noticia">Squirt, BDSM, swinger... ¿Y si no me apetece probar otras cosas en el sexo?</a></li>
+<li class="estirar"><span class="numero">3</span><a href="//verne.elpais.com/verne/2019/01/08/articulo/1546942095_873985.html" title="Ver Noticia">Cartagena, Chinchilla, Xàtiva… Así han cambiado las provincias de España</a></li>
+<li class="estirar"><span class="numero">4</span><a href="//verne.elpais.com/verne/2015/08/04/articulo/1438683590_611299.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Los 49 peores chistes de la historia</a></li>
+<li class="estirar"><span class="numero">5</span><a href="//verne.elpais.com/verne/2019/02/21/articulo/1550748035_065824.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>YouTube se enfrenta a un escándalo por miles de comentarios pedófilos en vídeos de menores</a></li>
+<li class="estirar"><span class="numero">6</span><a href="//verne.elpais.com/verne/2018/03/05/mexico/1520285671_907036.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Una niña chiapaneca de ocho años gana un premio de ciencia de la UNAM</a></li>
+<li class="estirar"><span class="numero">7</span><a href="//verne.elpais.com/verne/2019/02/10/articulo/1549817663_501642.html" title="Ver Noticia">Confesiones de enfermeras: cosas que les molestan de ti</a></li>
+<li class="estirar"><span class="numero">8</span><a href="//verne.elpais.com/verne/2019/02/22/articulo/1550833855_406578.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Así puedes ver webs actuales en un navegador de 1990</a></li>
+<li class="estirar"><span class="numero">9</span><a href="//verne.elpais.com/verne/2019/02/20/articulo/1550661540_013627.html" title="Ver Noticia"><span title="Vídeo" class="video">Vídeo</span>Crítica de la razón cibernética: intentamos hablar de filosofía con un robot</a></li>
+<li class="estirar"><span class="numero">10</span><a href="//verne.elpais.com/verne/2019/02/23/articulo/1550938959_901007.html" title="Ver Noticia">La fotografía que recuerda que los patinetes ya se usaban hace 100 años</a></li>
+</ol>
+</div>
+<div class="envoltorio_publi estirar">
+</div>
+</div>
+<div class="envoltorio_publi estirar">
+<div id='elpais_gpt-MPU3' class='publi_luto_horizontal'>
+<script type='text/javascript'>
+			PBS.display('MPU3');
+		</script>
+</div>
+</div>
+</div>
+</aside>
+<aside class="otros">
+<div class="otros__interior">
+<div class="envoltorio_publi estirar">
+<script type='text/javascript'>
+	if ( pbs_dimensiones.ancho  >= 728)
+		document.write("<div id='elpais_gpt-LDB2' class='publi_luto_vertical'><script type='text/javascript'>PBS.display('LDB2');<\/script></div>");
+</script>
+</div>
+<a name="comentarios"></a>
+<script type="text/javascript">
+var getScript=function(js){
+	var allScripts = document.getElementsByTagName('script');
+	for (var i = 0; i < allScripts.length; i++) {
+		if (allScripts[i].src.indexOf(js) > -1)
+            return true;
+    }
+	return false;
+}
+if (!getScript('lazyload')){
+	var head = document.getElementsByTagName('head').item(0);
+    var script = document.createElement('script');
+    script.setAttribute('type', 'text/javascript');
+    script.setAttribute('src', '/js/comun/ll/lazyload.20160120.js');
+    head.appendChild(script);
+}
+</script>
+<section id="articulo-comentarios" class="articulo-comentarios">
+<header class="articulo-comentarios-encabezado">
+<button id="boton_articulo-comentarios" class="articulo-comentarios-titulo">¿Y tú qué piensas?            <span id="articulo-comentarios-contador" class="articulo-comentarios-contador"></span>
+</button>
+<a href="//elpais.com/estaticos/normas-de-participacion/" class="articulo-comentarios-normas">Normas</a>
+</header>
+<div id="articulo-comentarios__interior" class="articulo-comentarios__interior">
+<div id="articulo-comentarios-form" class="articulo-comentarios"  style="display: none;">
+<form class="formulario formulario_comentarios" method="POST" action="https://plus.elpais.com/conectar?prod=REG&o=COM&backURL=https%3A%2F%2Felpais.com%2Felpais%2F2019%2F02%2F14%2Fgente%2F1550134824_620631.html%3Fid_externo_rsoc%3DFB_CM" id="formulario_inicio_sesion_comentarios" name="formulario_inicio_sesion_comentarios">
+<div class="formulario-encabezado">Entra en EL PAÍS para participar</div>
+<fieldset class="formulario-campos">
+<div class="campo_linea">
+<label class="campo-titulo" for="cajalogin_camponombreusuario_comentarios">E-mail</label>
+<div class="campo-valor"><input type="text" autocorrect="off" placeholder="correo electrónico" id="cajalogin_camponombreusuario_comentarios" name="id"></div>
+</div>
+<div class="campo_linea">
+<label class="campo-titulo" for="cajalogin_campocontrasena_comentarios">Contraseña</label>
+<input type="password" placeholder="clave" id="cajalogin_campocontrasena_comentarios" name="pass">
+</div>
+<input name="backURL"   type="hidden" value="https://elpais.com/elpais/2019/02/14/gente/1550134824_620631.html?id_externo_rsoc=FB_CM#bloque_comentarios" style="display: none" />
+<input type="hidden" value="1" name="o">
+<input type="hidden" value="1" id="id_rememberme" name="rememberme">
+<input type="hidden" value="ESKUP" name="prod">
+</fieldset>
+<div class="formulario-acciones">
+<button type="submit" class="boton_enviar">Entra</button>
+<ul>
+<li><a href="https://plus.elpais.com/recontrasena">Recupera contraseña</a></li>
+<li>¿No estás registrado? <a href="https://plus.elpais.com/registro?prod=REG&o=COM">Crea tu cuenta</a></li>
+</ul>
+</div>
+<div class="formulario-social">
+<div class="formulario-social-titulo">O conéctate con:</div>
+<div class="formulario-social-lista">
+<button type="button" class="formulario-social-facebook">
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+<g fill="none" fill-rule="evenodd">
+<rect width="45" height="45" fill="#3B5998" rx="22.5"></rect>
+<path fill="#FFF" fill-rule="nonzero" d="M24.68 16.378h2.31V13h-2.716v.012c-3.292.116-3.966 1.947-4.026 3.87h-.007v1.687H18v3.309h2.241v8.868h3.378v-8.868h2.767l.534-3.309h-3.3v-1.02c0-.65.437-1.17 1.06-1.17z"></path>
+</g>
+</svg>
+</button>
+<button type="button" class="formulario-social-twitter">
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+<g fill="none" fill-rule="evenodd">
+<rect width="45" height="45" fill="#00AEF9" rx="22.5"></rect>
+<path fill="#FFF" d="M33.081 16.604a8.631 8.631 0 0 1-2.014 2.076c.013.174.013.348.013.522 0 5.307-4.04 11.423-11.424 11.423-2.274 0-4.387-.659-6.165-1.802a8.3 8.3 0 0 0 .97.05 8.04 8.04 0 0 0 4.984-1.716 4.022 4.022 0 0 1-3.754-2.784c.249.037.497.062.758.062.36 0 .721-.05 1.057-.137a4.015 4.015 0 0 1-3.22-3.94v-.05a4.044 4.044 0 0 0 1.815.51 4.012 4.012 0 0 1-1.79-3.344c0-.746.2-1.43.547-2.026a11.412 11.412 0 0 0 8.279 4.201c-.062-.298-.1-.609-.1-.92a4.013 4.013 0 0 1 4.015-4.015c1.156 0 2.2.485 2.934 1.268a7.904 7.904 0 0 0 2.548-.97 4.004 4.004 0 0 1-1.765 2.213 8.05 8.05 0 0 0 2.312-.621z"></path>
+</g>
+</svg>
+</button>
+<button type="button" class="formulario-social-linkedin">
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+<g fill="none" fill-rule="evenodd">
+<rect width="45" height="45" fill="#007DD5" rx="22.5"></rect>
+<path fill="#FFF" d="M25.317 17.275c1.272 0 2.27.318 2.991.954.722.636 1.083 1.583 1.083 2.84v6.54c0 .105-.04.196-.118.274A.375.375 0 0 1 29 28h-2.813a.375.375 0 0 1-.273-.117.375.375 0 0 1-.117-.274v-5.904c0-.528-.099-.915-.296-1.16-.197-.246-.552-.369-1.066-.369-.654 0-1.114.192-1.378.575-.264.383-.396.917-.396 1.602v5.256c0 .105-.04.196-.117.274a.387.387 0 0 1-.285.117h-2.746a.375.375 0 0 1-.273-.117.375.375 0 0 1-.117-.274v-9.687c0-.104.039-.195.117-.274a.375.375 0 0 1 .273-.117h2.668c.097 0 .175.019.234.056.06.037.099.106.117.207.019.1.03.167.034.2.004.034.005.118.005.252.692-.648 1.608-.971 2.746-.971zm-8.08.256c.104 0 .195.04.273.117.078.079.117.17.117.274v9.687c0 .105-.039.196-.117.274a.375.375 0 0 1-.273.117H14.49a.375.375 0 0 1-.273-.117.375.375 0 0 1-.118-.274v-9.687c0-.104.04-.195.118-.274a.375.375 0 0 1 .273-.117h2.746zM15.864 12.7c.513 0 .952.182 1.317.547.364.364.547.803.547 1.316 0 .514-.183.953-.547 1.317a1.795 1.795 0 0 1-1.317.547c-.514 0-.953-.182-1.317-.547A1.795 1.795 0 0 1 14 14.563c0-.514.182-.953.547-1.317a1.795 1.795 0 0 1 1.317-.547z"></path>
+</g>
+</svg>
+</button>
+<button type="button" class="formulario-social-google">
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+<g fill="none" fill-rule="evenodd">
+<rect width="45" height="45" fill="#4285F4" rx="22.5"></rect>
+<path fill="#FFF" fill-rule="nonzero" d="M15.75 29.332c-3.692-3.642-3.692-10.015.155-13.657 2.77-2.73 6.77-3.338 10.31-1.972l1.384.759 1.54 1.062-2.463 2.428-.923-.607c-2.154-1.366-5.232-1.062-7.232.91-2.308 2.276-2.462 6.373 0 8.801 2.308 2.428 6.463 2.428 8.617 0 .615-.607 1.231-1.517 1.385-2.428v-.303h-5.54V21.29h8.771l.154.759v2.124c-.154 1.973-.923 3.945-2.308 5.31-3.693 3.49-10.156 3.49-13.85-.151z"></path>
+</g>
+</svg>
+</button>
+<button type="button" class="formulario-social-microsoft">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="45" height="45" viewBox="0 0 45 45">
+<defs>
+<path id="a" d="M.002 0H21v21H.002z"></path>
+</defs>
+<g fill="none" fill-rule="evenodd">
+<rect width="45" height="45" fill="#00BCF4" rx="22.5"></rect>
+<g transform="translate(12 12)">
+<mask id="b" fill="#fff">
+<use xlink:href="#a"></use>
+</mask>
+<path fill="#FFF" d="M11.156 9.844H21V.656A.656.656 0 0 0 20.344 0h-9.188v9.844M9.844 9.844V0H.656A.656.656 0 0 0 0 .656v9.188h9.844M9.844 11.156H0v9.188c0 .362.294.656.656.656h9.188v-9.844" mask="url(#b)"></path>
+</g>
+<path fill="#FFF" d="M23 23v10h9.333a.667.667 0 0 0 .667-.667V23H23"></path>
+</g>
+</svg>
+</button>
+</div>
+</div>
+</form>
+</div>
+<div class="articulo-comentarios-iframe">
+<script language="javaScript" type="text/javascript" src="//ep01.epimg.net/Comentarios/comentarios_js.html?ghi=1550136058-d7a4609ea895824d12abcd6f543f7599&vCom=1&gcss=/estilos/v2.x/v2.0/comentarios/eskup_comentarios_noticia.css&gjs=1&gll=1"></script>
+<script language="javaScript"  type="text/javascript" >
+
+var _urlThreadeskup        = '/Threadeskup';
+var _urlThreadeskupSimple  = '/ThreadeskupSimple';
+
+function EPET_checkURLparaMostrarCajaComentarios(idComentariosNoticia) {
+
+    var frameId = "comentarios_noticia_" + idComentariosNoticia;
+
+    if(window.location.href.indexOf("#") > 0){
+       var urlS = window.location.href.split('#');
+       var specialParams = urlS[1].split(';');
+         for (var i = 0; i < specialParams.length; i++){
+            paramsKeyValue = specialParams[i].split('=');
+            valsparam = paramsKeyValue[1];
+
+            switch(paramsKeyValue[0]){
+                case 'skp_idwdg':
+                    if (valsparam == frameId) {
+                        if (document.getElementById('articulo-comentarios') &&
+                            typeof Responsive != 'undefined') {
+                            Responsive.anade_quita_class("articulo-comentarios","visible");
+                        }
+                    }
+                break;
+            }
+        }
+    }
+
+}
+
+function EPET_obtenerYPintarNumComentarios(idComentariosNoticia) {
+
+    EPET_checkURLparaMostrarCajaComentarios(idComentariosNoticia);
+
+    EPETUtils_makeHttpRequestGet(function(httpRequest) {
+
+        // Por defecto sale vacío el hueco del número de comentarios
+        var _numeroComentariosNoticia = "";
+
+        if (httpRequest.status != 200) {
+            // ante un error, no pintamos nada
+        } else {
+
+            var _hashTMP = Array();
+            var data = httpRequest.responseText;
+
+            eval("_hashTMP = " + data);
+
+            // Se obtiene el numero de mensajes del hilo
+            if (typeof _hashTMP.perfilesHilos != "undefined" &&
+                typeof _hashTMP.perfilesHilos['_' + idComentariosNoticia] != "undefined" &&
+                typeof _hashTMP.perfilesHilos['_' + idComentariosNoticia].numero_mensajes != "undefined") {
+
+                _numeroComentariosNoticia = _hashTMP.perfilesHilos['_' + idComentariosNoticia].numero_mensajes;
+
+            }
+        }
+
+        EPET_pintaNumComentarios(idComentariosNoticia, _numeroComentariosNoticia);
+
+    }, _urlThreadeskupSimple + "?action=info&th=" + idComentariosNoticia + "&rnd=" + Math.random());
+
+}
+
+function EPET_pintaNumComentarios(idComentariosNoticia, _numeroComentariosNoticia) {
+
+    // Protegemos el pintado si el valor viene negativo.
+    if (_numeroComentariosNoticia < 0) {
+        _numeroComentariosNoticia = 0;
+    }
+
+    var _objDivNumComentariosFirma  = document.getElementById('num_comentarios_noticia_firma_' + idComentariosNoticia);
+    if (_objDivNumComentariosFirma) {
+        if (_numeroComentariosNoticia < 1) {
+            _objDivNumComentariosFirma.innerHTML = "";
+            _objDivNumComentariosFirma.style.display = "none";
+        } else {
+            _objDivNumComentariosFirma.innerHTML = _numeroComentariosNoticia;
+            _objDivNumComentariosFirma.style.display = "inline-block";
+        }
+    }
+
+    var _objDivNumComentariosWidget = document.getElementById('num_comentarios_noticia_' + idComentariosNoticia);
+    if (_objDivNumComentariosWidget) {
+        if (_numeroComentariosNoticia < 1) {
+            _objDivNumComentariosWidget.innerHTML = "";
+        } else {
+            _objDivNumComentariosWidget.innerHTML = '<span class="numero">' + _numeroComentariosNoticia + '</span> comentario';
+            if (_numeroComentariosNoticia > 1) {
+                _objDivNumComentariosWidget.innerHTML += 's';
+            }
+        }
+    }
+
+    var _objDivNumComentariosHSup = document.getElementById('num_comentarios_header_superior_' + idComentariosNoticia);
+    if (_objDivNumComentariosHSup) {
+       if (_numeroComentariosNoticia == 0) {
+           _objDivNumComentariosHSup.innerHTML = "";
+       } else {
+           if (_objDivNumComentariosHSup.innerHTML != _numeroComentariosNoticia) {
+               _objDivNumComentariosHSup.innerHTML = _numeroComentariosNoticia;
+           }
+       }
+    }
+
+    var _objDivNumComentariosHInf = document.getElementById('num_comentarios_header_inferior_' + idComentariosNoticia);
+    if (_objDivNumComentariosHInf) {
+        if (_numeroComentariosNoticia == 0) {
+            _objDivNumComentariosHInf.innerHTML = "";
+        } else {
+            if (_objDivNumComentariosHInf.innerHTML != _numeroComentariosNoticia) {
+                _objDivNumComentariosHInf.innerHTML = _numeroComentariosNoticia;
+            }
+        }
+    }
+
+    var _objSpanNumComentariosCompartir = document.getElementById('numero_comentarios');
+    if (_objDivNumComentariosHInf) {
+        if (_numeroComentariosNoticia == 0) {
+            _objDivNumComentariosHInf.innerHTML = "";
+        } else {
+            if (_objDivNumComentariosHInf.innerHTML != _numeroComentariosNoticia) {
+                _objDivNumComentariosHInf.innerHTML = _numeroComentariosNoticia;
+            }
+        }
+    }
+
+    var _objDivNumComentariosHInf = document.getElementById('num_comentarios_header_compartir_' + idComentariosNoticia);
+    if (_objDivNumComentariosHInf) {
+        if (_numeroComentariosNoticia == 0) {
+            _objDivNumComentariosHInf.innerHTML = "";
+        } else {
+            if (_objDivNumComentariosHInf.innerHTML != _numeroComentariosNoticia) {
+                _objDivNumComentariosHInf.innerHTML = _numeroComentariosNoticia;
+            }
+        }
+    }
+
+    var _objDivNumComentariosBtn = document.getElementById('articulo-comentarios-contador');
+    if (_objDivNumComentariosBtn) {
+        if (_numeroComentariosNoticia == 0) {
+            _objDivNumComentariosBtn.innerHTML = "";
+        } else {
+            if (_objDivNumComentariosBtn.innerHTML != _numeroComentariosNoticia) {
+                _objDivNumComentariosBtn.innerHTML = '('+_numeroComentariosNoticia+')';
+            }
+        }
+    }
+
+}
+
+var _idComentariosNoticia = '1550136058-d7a4609ea895824d12abcd6f543f7599';
+EPET_obtenerYPintarNumComentarios(_idComentariosNoticia);
+
+function EPET_setNumMensajescomentarios(num) {
+    EPET_pintaNumComentarios('1550136058-d7a4609ea895824d12abcd6f543f7599', num);
+}
+ESKUP.setOnReceiveNumMensajes("comentarios_noticia_1550136058-d7a4609ea895824d12abcd6f543f7599", EPET_setNumMensajescomentarios);
+
+</script>
+</div>
+</div>
+</section>
+<div class="envoltorio_publi estirar">
+<script type='text/javascript'>
+	if ( pbs_dimensiones.ancho  >= 728)
+		document.write("<div id='elpais_gpt-LDB3' class='publi_luto_vertical'><script type='text/javascript'>PBS.display('LDB3');<\/script></div>");
+	else
+		document.write("<div id='elpais_gpt-MLDB3' class='publi_luto_vertical'><script type='text/javascript'>PBS.display('MLDB3');<\/script></div>");
+</script>
+</div>
+</div>
+</aside>
+</div>
+</main>
+<footer id="pie" class="pie">
+<script type="text/javascript">var var_eptz="US, hpage=2";</script><!--<script type="text/javascript" src="//ep01.epimg.net/js/comun/gcm.min.js?20190212" async="async"></script>-->  
+<script type="text/javascript">
+if(typeof window['ampliaFoto'] == 'function'){
+    window['ampliaFoto'] = EP.photo.ampliaFoto;
+}
+
+(function(){
+    function quitaYpon(){
+        if(document.getElementById("capa-webs-grupo")){
+            var capa = document.getElementById("capa-webs-grupo");
+            if(capa.className.match(/activado/)){
+                capa.className = capa.className.replace("activado","");
+                return;
+            }else{
+                capa.className = capa.className + " activado";
+                return;
+            }
+        }
+        return;
+    }
+    if(document.getElementById("pbt-medios") && document.getElementById("cierrame") && document.getElementById("cierrame2")){
+        if(document.addEventListener){
+            document.getElementById("pbt-medios").addEventListener("click", quitaYpon, false);
+            document.getElementById("cierrame").addEventListener("click", quitaYpon, false);
+            document.getElementById("cierrame2").addEventListener("click", quitaYpon, false);
+        }else{
+            document.getElementById("pbt-medios").attachEvent("onclick", quitaYpon);
+            document.getElementById("cierrame").attachEvent("onclick", quitaYpon);
+            document.getElementById("cierrame2").attachEvent("onclick", quitaYpon);
+        }
+    }
+})();
+</script>
+</footer>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"de584669e4","applicationID":"81461901","transactionName":"MwFaYEIDWEZQVEENCQpLbUZZTVNZQVZcF0lOSxIbGk1RUF9DUEtITgxMWVw=","queueTime":0,"applicationTime":23,"atts":"H0ZZFgoZS0g=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

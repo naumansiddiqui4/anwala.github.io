@@ -1,0 +1,1772 @@
+<!DOCTYPE HTML>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>CCCのTカード情報提供、違反ではないが「十分性」に反する | 日経 xTECH（クロステック）</title>
+<meta name="author" content="日経 xTECH（クロステック）">
+<meta name="keywords" content="CCC,GDPR,EU,政府,Tカード,個人情報保護法,捜査機関">
+<meta name="description" content="　カルチュア・コンビニエンス・クラブ（CCC）が裁判所の令状なしに、「Tカード」利用者の氏名や購入履歴などを捜査機関に提供していることを問題視する報道が2019年に入って広がっている。CCCの情報提供は個人情報保護法には違反しないが、日本政府が欧州連合（EU）に説明した内容には反している。　">
+<link rel="canonical" href="https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021200233/">
+<link rel="next" href="https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021200233/?P=2">
+<meta property="fb:app_id" content="517948118584012">
+<meta property="og:title" content="CCCのTカード情報提供、違反ではないが「十分性」に反する">
+<meta property="og:description" content="　カルチュア・コンビニエンス・クラブ（CCC）が裁判所の令状なしに、「Tカード」利用者の氏名や購入履歴などを捜査機関に提供していることを問題視する報道が2019年に入って広がっている。CCCの情報提供は個人情報保護法には違反しないが、日本政府が欧州連合（EU）に説明した内容には反している。　">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021200233/">
+<meta property="og:image" content="https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021200233/top2.jpg">
+<meta property="og:site_name" content="日経 xTECH（クロステック）">
+<meta property="og:locale" content="ja_JP">
+<meta property="article:publisher" content="https://www.facebook.com/NIKKEIxTECH/">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@NIKKEIxTECH">
+<meta name="bpcmstoken" content="c%2BeIGeypy50C85lXCu8lEX%2B5h8lxP1tTbvjaOwzQ9EdNE3bzxwbhlVDlN29KdgEtGwdsNf9Fg8V3%0D%0A3edyhblU8Li5%2B%2FeNx%2FVd1PbcXLlVogc%3D">
+<link rel="shortcut icon" href="/favicon.ico">
+<script src="/js/n/gnavi/201601.js" defer></script>
+<link href="/css/n/gnavi/201601.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/css/n/xtech/2018/style.css?191224a">
+<link rel="stylesheet" href="/css/n/hr/2018/trackpad-scroll-emulator.css">
+<link rel="stylesheet" href="/css/n/hr/2018/nhrWidgetStyle.css?190130a">
+<!-- IE8以下のための要素認識JS -->
+<!--[if lt IE 9]>
+<script src="/js/n/xtech/2018/html5shiv.min.js"></script>
+<![endif]-->
+<!-- Start TagManager -->
+<script src="https://assets.adobedtm.com/570a621a24b47ab0c04225f491ed07679e91176f/satelliteLib-c0f8f5e8f8119ca8294492a5195543cae62476bf.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KCGLNBV');</script>
+<!-- End TagManager -->
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script type='text/javascript'>
+window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+(function(){
+ function retrieve(n){
+  var m, k='kx'+n;
+  if (window.localStorage) {
+   return window.localStorage[k] || "";
+  } else if (navigator.cookieEnabled) {
+   m = document.cookie.match(k+'=([^;]*)');
+   return (m && unescape(m[1])) || "";
+  } else {
+   return '';
+  }
+ }
+ Krux.user = retrieve('kuid');
+ Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+})();
+</script>
+<script type="text/javascript">
+var dag_adslots = [];
+ 
+ var cX = cX || {};cX.callQueue = cX.callQueue || [];
+ cX.callQueue.push(['invoke',function(){
+  googletag.cmd.push(function() {
+   googletag.pubads().setTargeting('NXTserial','3974797e3a');
+   googletag.pubads().setTargeting('CMStheme','nxt_thmit_management');
+   googletag.pubads().setTargeting('curtDN', location.hostname );
+   googletag.pubads().setTargeting('refDN', document.referrer.split('/')[2] || [] );
+   googletag.pubads().setTargeting('extPF', (function(q,k){var kv=q.split(k+"=")[1];if(kv){return kv.split("&")[0];}}(location.search,"extpf")) || []);
+   googletag.pubads().setTargeting('page', 'F');
+   googletag.pubads().setTargeting('CMSauth', 'AUTHNG');
+   googletag.pubads().setTargeting('CxSegments',cX.getUserSegmentIds({persistedQueryId:'7f33b36718301b094cd77f074490dbf21c1f1f4f'}));
+   googletag.pubads().setTargeting('a1','noseg');
+   googletag.pubads().setTargeting('Kr', Krux.segments );
+   googletag.pubads().setTargeting('NXT_mem', 'std');
+  
+dag_adslots.welcome = googletag.defineSlot('/54271731/nxt/welcome/it/management', [640, 480], 'div-gpt-ad-welcome').addService(googletag.pubads());
+dag_adslots.leaderboard = googletag.defineSlot('/54271731/nxt/leaderboard/it/management', [[728, 90], [728, 180], [970, 1], [970, 90], [970, 250]], 'div-gpt-ad-leaderboard').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.category_textad_01 = googletag.defineSlot('/54271731/nxt/category_textad/it/management', ['fluid'], 'div-gpt-ad-category_textad_01').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.category_textad_02 = googletag.defineSlot('/54271731/nxt/category_textad/it/management', ['fluid'], 'div-gpt-ad-category_textad_02').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.category_textad_03 = googletag.defineSlot('/54271731/nxt/category_textad/it/management', ['fluid'], 'div-gpt-ad-category_textad_03').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.category_textad_04 = googletag.defineSlot('/54271731/nxt/category_textad/it/management', ['fluid'], 'div-gpt-ad-category_textad_04').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.category_textad_05 = googletag.defineSlot('/54271731/nxt/category_textad/it/management', ['fluid'], 'div-gpt-ad-category_textad_05').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.genre_textad_01 = googletag.defineSlot('/54271731/nxt/genre_textad/it/management', ['fluid'], 'div-gpt-ad-genre_textad_01').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.genre_textad_02 = googletag.defineSlot('/54271731/nxt/genre_textad/it/management', ['fluid'], 'div-gpt-ad-genre_textad_02').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.genre_textad_03 = googletag.defineSlot('/54271731/nxt/genre_textad/it/management', ['fluid'], 'div-gpt-ad-genre_textad_03').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.genre_textad_04 = googletag.defineSlot('/54271731/nxt/genre_textad/it/management', ['fluid'], 'div-gpt-ad-genre_textad_04').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.genre_textad_05 = googletag.defineSlot('/54271731/nxt/genre_textad/it/management', ['fluid'], 'div-gpt-ad-genre_textad_05').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.rectangle1 = googletag.defineSlot('/54271731/nxt/rectangle1/it/management', [[300, 250], [300, 300], [300, 600]], 'div-gpt-ad-rectangle1').addService(googletag.pubads());
+dag_adslots.side_banner = googletag.defineSlot('/54271731/nxt/side_banner/it/management', [[1, 1], [300, 80]], 'div-gpt-ad-side_banner').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.rectangle2 = googletag.defineSlot('/54271731/nxt/rectangle2/it/management', [[1, 1], [300, 250], [300, 300], [300, 600]], 'div-gpt-ad-rectangle2').addService(googletag.pubads());
+dag_adslots.visualbox_it_infeed_01 = googletag.defineSlot('/54271731/nxt/visualbox_it/infeed/it', ['fluid'], 'div-gpt-ad-visualbox_it_infeed_01').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_infeed_02 = googletag.defineSlot('/54271731/nxt/visualbox_it/infeed/it', ['fluid'], 'div-gpt-ad-visualbox_it_infeed_02').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_infeed_03 = googletag.defineSlot('/54271731/nxt/visualbox_it/infeed/it', ['fluid'], 'div-gpt-ad-visualbox_it_infeed_03').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_infeed_04 = googletag.defineSlot('/54271731/nxt/visualbox_it/infeed/it', ['fluid'], 'div-gpt-ad-visualbox_it_infeed_04').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_pickup_01 = googletag.defineSlot('/54271731/nxt/visualbox_it/pickup/it', ['fluid'], 'div-gpt-ad-visualbox_it_pickup_01').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_pickup_02 = googletag.defineSlot('/54271731/nxt/visualbox_it/pickup/it', ['fluid'], 'div-gpt-ad-visualbox_it_pickup_02').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_pickup_03 = googletag.defineSlot('/54271731/nxt/visualbox_it/pickup/it', ['fluid'], 'div-gpt-ad-visualbox_it_pickup_03').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_pickup_04 = googletag.defineSlot('/54271731/nxt/visualbox_it/pickup/it', ['fluid'], 'div-gpt-ad-visualbox_it_pickup_04').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_pickup_05 = googletag.defineSlot('/54271731/nxt/visualbox_it/pickup/it', ['fluid'], 'div-gpt-ad-visualbox_it_pickup_05').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_pickup_06 = googletag.defineSlot('/54271731/nxt/visualbox_it/pickup/it', ['fluid'], 'div-gpt-ad-visualbox_it_pickup_06').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_pickup_07 = googletag.defineSlot('/54271731/nxt/visualbox_it/pickup/it', ['fluid'], 'div-gpt-ad-visualbox_it_pickup_07').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+dag_adslots.visualbox_it_pickup_08 = googletag.defineSlot('/54271731/nxt/visualbox_it/pickup/it', ['fluid'], 'div-gpt-ad-visualbox_it_pickup_08').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
+
+   googletag.pubads().disableInitialLoad();
+  googletag.pubads().enableSingleRequest();
+   googletag.enableServices();
+  });
+ }]);
+</script>
+<script type="text/javascript" src="/js/dag/2017/dfpCust.min.js" defer></script>
+
+
+
+<script type='text/javascript'>
+document.addEventListener('DOMContentLoaded', function() {
+    cX.callQueue.push(['invoke', function () {
+        googletag.cmd.push(function () {
+            var dag_dC = new dag_dfpCust({
+                adSlots: [[dag_adslots.welcome, "IS"], [dag_adslots.leaderboard, "n"], [dag_adslots.category_textad_01, "n"], [dag_adslots.category_textad_02, "n"], [dag_adslots.category_textad_03, "n"], [dag_adslots.category_textad_04, "n"], [dag_adslots.category_textad_05, "n"], [dag_adslots.genre_textad_01, "n"], [dag_adslots.genre_textad_02, "n"], [dag_adslots.genre_textad_03, "n"], [dag_adslots.genre_textad_04, "n"], [dag_adslots.genre_textad_05, "n"], [dag_adslots.rectangle1, "n"], [dag_adslots.side_banner, "n"], [dag_adslots.rectangle2, "n"], [dag_adslots.visualbox_it_infeed_01, "n"], [dag_adslots.visualbox_it_infeed_02, "n"], [dag_adslots.visualbox_it_infeed_03, "n"], [dag_adslots.visualbox_it_infeed_04, "n"], [dag_adslots.visualbox_it_pickup_01, "n"], [dag_adslots.visualbox_it_pickup_02, "n"], [dag_adslots.visualbox_it_pickup_03, "n"], [dag_adslots.visualbox_it_pickup_04, "n"], [dag_adslots.visualbox_it_pickup_05, "n"], [dag_adslots.visualbox_it_pickup_06, "n"], [dag_adslots.visualbox_it_pickup_07, "n"], [dag_adslots.visualbox_it_pickup_08, "n"]],
+                IS_TIMEOUT: 17000,
+                TRACKTOP_DEFAULT: 300,
+                ASYNC: true
+            });
+        });
+    }]);
+})
+</script></head>
+
+<body class="leaf notlogin">
+
+<div id="wrapper">
+
+<!-- ヘッダ -->
+<header>
+
+<div id="headerBlock">
+
+<div class="siteLogo"><a href="/"><img src="/images/n/xtech/2018/siteLogo.png?20180212a" width="203" height="36" alt="xTECH"></a></div>
+
+<div class="head_ico">
+<ul>
+<li class="side_panel_open_btn" id="menuBtn">メニュー
+<li class="header_search">
+
+<form method="get" action="#" onsubmit="if (this.q.value==''){location.href='/search/?h=1';}else{location.href='/search/?q='+encodeURI(this.q.value)};return(false);" id="sideSearchForm">
+<input type="text" name="q" placeholder="記事を検索"><input type="submit" value="記事検索">
+</form>
+
+<li id="hElogin"><a href="#" onclick="return(bpsso.liMov(0))">ログイン</a>
+<li id="hGoLP"><a href="/go/nxt.html?s_cid=nbpnxt_pghd_subscription&ru=https%3A%2F%2Ftech.nikkeibp.co.jp%2Fatcl%2Fnxt%2Fcolumn%2F18%2F00138%2F021200233%2F">お申し込み</a>
+</ul>
+</div>
+
+</div><!-- headerBlock -->
+
+<!-- サイドパネル -->
+<div class="side_panel" id="headerMenu">
+<div class="status"><a href="#" onclick="return(bpsso.liMov(0))">ログイン</a>
+</div>
+<p class="side_panel_close_btn" id="js-closeBtn">閉じる</p>
+
+<div class="side_menu_list">
+
+<nav class="side_genre">
+<ul class="accordion">
+<li class="now">
+<h3><a href="/">総合トップ／テーマ一覧</a><span></span></h3>
+<ul>
+<li><a href="/theme/ai/?i_cid=nbpnxt_pgsm_ai">AI・機械学習</a>
+<li><a href="/theme/iot/?i_cid=nbpnxt_pgsm_iot_thm">IoT</a>
+<li><a href="/theme/blockchain/?i_cid=nbpnxt_pgsm_blockchain">ブロックチェーン</a>
+<li><a href="/theme/autodriving/?i_cid=nbpnxt_pgsm_autodriving">自動運転</a>
+<li><a href="/theme/maas/?i_cid=nbpnxt_pgsm_maas">MaaS</a>
+<li><a href="/theme/battery/?i_cid=nbpnxt_pgsm_battery">次世代電池</a>
+<li><a href="/theme/newmat/?i_cid=nbpnxt_pgsm_newmat">新材料</a>
+<li><a href="/theme/smartfactory/?i_cid=nbpnxt_pgsm_smartfactory">デジタルものづくり</a>
+<li><a href="/theme/iconst/?i_cid=nbpnxt_pgsm_iconst">iコンストラクション</a>
+<li><a href="/theme/vr/?i_cid=nbpnxt_pgsm_vr">VR/AR</a>
+<li><a href="/theme/webfront/?i_cid=nbpnxt_pgsm_webfront">Webフロントエンド</a>
+<li><a href="/theme/5G/?i_cid=nbpnxt_pgsm_5G_thm">5G</a>
+<li><a href="/theme/cloud/?i_cid=nbpnxt_pgsm_cloud">クラウド/エッジ</a>
+<li><a href="/theme/sensing/?i_cid=nbpnxt_pgsm_sensing">センシング</a>
+<li><a href="/theme/security/?i_cid=nbpnxt_pgsm_security">セキュリティ</a>
+<li><a href="/theme/wsreform/?i_cid=nbpnxt_pgsm_wsreform">働き方改革・RPA</a>
+<li><a href="/theme/fintech/?i_cid=nbpnxt_pgsm_fintech">FinTech</a>
+<li><a href="/theme/zeb/?i_cid=nbpnxt_pgsm_zeb">省エネ建築</a>
+<li><a href="/theme/trouble/?i_cid=nbpnxt_pgsm_trouble">事故・トラブル</a>
+<li><a href="/theme/bcp/?i_cid=nbpnxt_pgsm_bcp">BCP・防災</a>
+<li><a href="/theme/techstartup/?i_cid=nbpnxt_pgsm_techstartup">技術ベンチャー</a>
+<li><a href="/theme/engineer/?i_cid=nbpnxt_pgsm_engineer">人材</a>
+<li><a href="/theme/indtrend/?i_cid=nbpnxt_pgsm_indtrend">業界動向</a>
+<li><a href="/theme/innovation/?i_cid=nbpnxt_pgsm_innovation">事業変革</a>
+<li><a href="/theme/legalsys/?i_cid=nbpnxt_pgsm_legalsys">法制度・規制</a>
+<li><a href="/theme/railway/?i_cid=nbpnxt_pgsm_railway">鉄道</a>
+<li><a href="/theme/sprecog/?i_cid=nbpnxt_pgsm_sprecog">音声認識</a>
+</ul>
+
+<li>
+<h3><a href="/top/it/?i_cid=nbpnxt_pgsm_it">IT</a><span></span></h3>
+<ul>
+<li><a href="/genre/management/?i_cid=nbpnxt_pgsm_management">IT経営</a>
+<li><a href="/genre/systems/?i_cid=nbpnxt_pgsm_systems">ITシステム</a>
+<li><a href="/genre/security/?i_cid=nbpnxt_pgsm_itsecurity">ITセキュリティ</a>
+<li><a href="/genre/network/?i_cid=nbpnxt_pgsm_network">ネットワーク</a>
+<li><a href="/genre/develop/?i_cid=nbpnxt_pgsm_develop">ソフト開発</a>
+<li><a href="/genre/mobile/?i_cid=nbpnxt_pgsm_mobile">モバイル</a>
+<li><a href="/genre/pc/?i_cid=nbpnxt_pgsm_pc">PC</a>
+<li><a href="/genre/careerup/?i_cid=nbpnxt_pgsm_careerup">ITキャリアアップ</a>
+<li><a href="/feature/govtech/?i_cid=nbpnxt_pgsm_govtech">電子行政</a>
+</ul>
+
+<li>
+<h3><a href="/top/electronics/?i_cid=nbpnxt_pgsm_electronics_top">エレキ</a><span></span></h3>
+<ul>
+<li><a href="/genre/electronics/?i_cid=nbpnxt_pgsm_electronics_gen">エレクトロニクス</a>
+<li><a href="/genre/analog/?i_cid=nbpnxt_pgsm_analog">アナログ</a>
+<li><a href="/genre/communication/?i_cid=nbpnxt_pgsm_communication">通信</a>
+<li><a href="/genre/device/?i_cid=nbpnxt_pgsm_device">電子デバイス</a>
+<li><a href="/genre/edaonline/?i_cid=nbpnxt_pgsm_edaonline">電子設計</a>
+<li><a href="/genre/elecapp/?i_cid=nbpnxt_pgsm_elecapp">電子機器</a>
+<li><a href="/genre/5G/?i_cid=nbpnxt_pgsm_5G_gen">5G</a>
+<li><a href="/genre/iot/?i_cid=nbpnxt_pgsm_iot_gen">IoT技術</a>
+<li><a href="/genre/robot/?i_cid=nbpnxt_pgsm_robot">ロボット</a>
+</ul>
+
+<li>
+<h3><a href="/top/mono/?i_cid=nbpnxt_pgsm_mono_top">製造</a><span></span></h3>
+<ul>
+<li><a href="/genre/mono/?i_cid=nbpnxt_pgsm_mono_gen">ものづくり</a>
+<li><a href="/genre/designinnov/?i_cid=nbpnxt_pgsm_designinnov">設計革新</a>
+<li><a href="/genre/mecha/?i_cid=nbpnxt_pgsm_mecha">産業機器・部材</a>
+<li><a href="/genre/product/?i_cid=nbpnxt_pgsm_product">生産革新</a>
+<li><a href="/genre/skillup/?i_cid=nbpnxt_pgsm_skillup">製造スキルアップ</a>
+<li><a href="/genre/observer/?i_cid=nbpnxt_pgsm_observer">マネジメント</a>
+<li><a href="/genre/new-industry/?i_cid=nbpnxt_pgsm_new-industry">新産業</a>
+<li><a href="/genre/avitation/?i_cid=nbpnxt_pgsm_avitation">航空・宇宙</a>
+<li><a href="/genre/realdev/?i_cid=nbpnxt_pgsm_realdev">異業種連携</a>
+</ul>
+
+<li>
+<h3><a href="/top/automotive/?i_cid=nbpnxt_pgsm_automotive_top">自動車</a><span></span></h3>
+<ul>
+<li><a href="/genre/automotive/?i_cid=nbpnxt_pgsm_automotive_gen">クルマ</a>
+<li><a href="/genre/ADAS/?i_cid=nbpnxt_pgsm_ADAS">自動運転/ADAS</a>
+<li><a href="/genre/carnet/?i_cid=nbpnxt_pgsm_carnet">車載部品</a>
+<li><a href="/genre/eleizing/?i_cid=nbpnxt_pgsm_eleizing">電動化</a>
+<li><a href="/genre/newcar/?i_cid=nbpnxt_pgsm_newcar">新車レポート</a>
+</ul>
+
+<li>
+<h3><a href="/top/building/?i_cid=nbpnxt_pgsm_building_top">建築・住宅</a><span></span></h3>
+<ul>
+<li><a href="/genre/building/?i_cid=nbpnxt_pgsm_building_gen">建築</a>
+<li><a href="/genre/residence/?i_cid=nbpnxt_pgsm_residence">住宅</a>
+<li><a href="/feature/archprojectDB/?i_cid=nbpnxt_pgsm_archprojectDB">建築プロジェクトDB</a>
+<li><a href="/atcl/nxt/column/18/00118/?i_cid=nbpnxt_pgsm_buildprice">建築単価ウオッチ</a>
+</ul>
+
+<li>
+<h3><a href="/top/construction/?i_cid=nbpnxt_pgsm_construction_top">土木</a><span></span></h3>
+<ul>
+<li><a href="/genre/construction/?i_cid=nbpnxt_pgsm_construction_gen">土木</a>
+<li><a href="/feature/gijutsushi/?i_cid=nbpnxt_pgsm_gijutsushi">技術士取得支援サイト</a>
+</ul>
+
+<li>
+<h3><a href="/top/energy/?i_cid=nbpnxt_pgsm_energy">エネルギー</a><span></span></h3>
+<ul>
+<li><a href="/genre/energytech/?i_cid=nbpnxt_pgsm_energytech">エネルギー</a>
+<li><a href="/genre/powerele/?i_cid=nbpnxt_pgsm_powerele">パワーエレクトロニクス</a>
+<li><a href="/genre/solarpower/?i_cid=nbpnxt_pgsm_solarpower">メガソーラー</a>
+</ul>
+
+<li>
+<h3><a href="/top/healthcare/?i_cid=nbpnxt_pgsm_healthcare">ヘルスケア</a><span></span></h3>
+<ul>
+<li><a href="/genre/digitalhealth/?i_cid=nbpnxt_pgsm_digitalhealth">デジタルヘルス</a>
+</ul>
+
+
+</ul>
+</nav><!-- side_genre -->
+
+
+<nav class="side_general">
+
+<ul>
+<li><a href="/top/index_learning.html?i_cid=nbpnxt_pgsm_learning">学ぶ</a>
+<li><a href="/top/index_search.html?i_cid=nbpnxt_pgsm_searchadv">調べる</a>
+<li><a href="/magazine/?i_cid=nbpnxt_pgsm_magazine">雑誌を読む</a>
+</ul>
+
+<ul>
+<li><a href="/dmook/?i_cid=nbpnxt_pgsm_dmook">デジタルムック</a>
+<li><a href="/coverstory/?i_cid=nbpnxt_pgsm_coverstory">特集</a>
+<li><a href="/column/?i_cid=nbpnxt_pgsm_column">連載／コラム</a>
+<li><a href="/news/?i_cid=nbpnxt_pgsm_news">ニュース</a>
+<li><a href="/trend/?i_cid=nbpnxt_pgsm_trend">ニュース解説</a>
+<li><a href="/opinion/?i_cid=nbpnxt_pgsm_opinion">オピニオン</a>
+<li><a href="/interview/?i_cid=nbpnxt_pgsm_interview">インタビュー</a>
+<li><a href="/eventreport/?i_cid=nbpnxt_pgsm_eventreport">イベントレポート</a>
+<li><a href="/casestudy/?i_cid=nbpnxt_pgsm_casestudy">事例</a>
+<li><a href="/keyword/?i_cid=nbpnxt_pgsm_keyword">キーワード</a>
+<li><a href="/market/?i_cid=nbpnxt_pgsm_market">市場調査</a>
+<li><a href="/lecture/?i_cid=nbpnxt_pgsm_lecture">講座</a>
+<li><a href="/product/index_build.html?i_cid=nbpnxt_pgsm_product_build">製品ガイド 建築</a>
+<li><a href="/product/index_const.html?i_cid=nbpnxt_pgsm_product_const">製品ガイド 土木</a>
+</ul>
+<ul>
+<li><a href="/ranking/?i_cid=nbpnxt_pgsm_ranking">ランキング</a>
+<li><a href="/info/?i_cid=nbpnxt_pgsm_info">お知らせ</a>
+<li><a href="/seminar/?i_cid=nbpnxt_pgsm_seminar">セミナー</a>
+<li><a href="/books/?i_cid=nbpnxt_pgsm_books">書籍</a>
+<li><a href="/magazinepdf/?i_cid=nbpnxt_pgsm_magazinepdf">PDFダウンロード</a>
+<li><a href="/service/spbook/?i_cid=nbpnxt_pgsm_spbook">レポート検索・生成サービス</a>
+</ul>
+
+<ul>
+<li><a href="/feature/job/?i_cid=nbpnxt_pgsm_job">技術者の転職</a>
+<li><a href="https://tech.nikkeihr.co.jp/?adid=BP_TP_L">日経TECHキャリア</a>
+<li><a href="/it/active/?i_cid=nbpnxt_pgsm_active">日経 xTECH Active</a>
+<li><a href="/prnews/?i_cid=nbpnxt_pgsm_prnews">PR News</a>
+</ul>
+
+</nav>
+
+<nav class="side_magazine">
+<ul class="accordion">
+<li>
+<h3><a href="#">特設</a><span></span></h3>
+<ul>
+<li><a href="/feature/siliconvalley/?i_cid=nbpnxt_pgsm_siliconvalley">シリコンバレーNext</a>
+<li><a href="/feature/education/?i_cid=nbpnxt_pgsm_education">教育とICT Online</a>
+<li><a href="/feature/pcknowhow/?i_cid=nbpnxt_pgsm_pcknowhow">イマドキのパソコン活用</a>
+<li><a href="/feature/windows7eos/?i_cid=nbpnxt_pgsm_win7eos">Windows 7サポート終了</a>
+<li><a href="/feature/jpgciof/?i_cid=nbpnxt_pgsm_jpgciof">都道府県CIOフォーラム</a>
+<li><a href="/it/iti/?i_cid=nbpnxt_pgsm_iti">日経ITイノベーターズ</a>
+<li><a href="/sp/ites/?i_cid=nbpnxt_pgsm_ites">日経ITエンジニアスクール</a>
+<li><a href="/feature/SD/?i_cid=nbpnxt_pgsm_SD">Social Device</a>
+<li><a href="/dm/real/project/?i_cid=nbpnxt_pgsm_oicom">リアル開発会議</a>
+<li><a href="/feature/bunkai/?i_cid=nbpnxt_pgsm_bunkai">分解</a>
+<li><a href="/feature/factory/?i_cid=nbpnxt_pgsm_factory">FACTORY</a>
+<li><a href="/feature/juku/?i_cid=nbpnxt_pgsm_juku">技術者塾</a>
+<li><a href="/feature/2018/sportstech/?i_cid=nbpnxt_pgft_sportstech">スポーツテック</a>
+<li><a href="/feature/shoene/?i_cid=nbpnxt_pgsm_shoene">省エネNext</a>
+<li><a href="/feature/mokuzai/?i_cid=nbpnxt_pgsm_mokuzai">木材活用最前線</a>
+<li><a href="/feature/pec/?i_cid=nbpnxt_pgsm_pec">街づくり</a>
+<li><a href="/feature/jisedaij/?i_cid=nbpnxt_pgsm_jisedaij">次世代住宅</a>
+</ul>
+</ul>
+</nav><!-- side_magazine -->
+
+
+<nav class="side_magazine">
+<ul class="accordion">
+<li>
+<h3><a href="#">専門メディア</a><span></span></h3>
+<ul>
+<li><a href="/media/NC/?i_cid=nbpnxt_pgsm_NC">日経コンピュータ</a>
+<li><a href="/media/SYS/?i_cid=nbpnxt_pgsm_SYS">日経SYSTEMS</a>
+<li><a href="/media/NNW/?i_cid=nbpnxt_pgsm_NNW">日経NETWORK</a>
+<li><a href="/media/NE/?i_cid=nbpnxt_pgsm_NE">日経エレクトロニクス</a>
+<li><a href="/media/Monozukuri/?i_cid=nbpnxt_pgsm_Monozukuri">日経ものづくり</a>
+<li><a href="/media/AT/?i_cid=nbpnxt_pgsm_AT">日経Automotive</a>
+<li><a href="/media/NA/?i_cid=nbpnxt_pgsm_NA">日経アーキテクチュア</a>
+<li><a href="/media/HB/?i_cid=nbpnxt_pgsm_HB">日経ホームビルダー</a>
+<li><a href="/media/NCR/?i_cid=nbpnxt_pgsm_NCR">日経コンストラクション</a>
+<li><a href="/media/NCF/?i_cid=nbpnxt_pgsm_NCF">日経クラウドファースト</a>
+<li><a href="/media/NFT/?i_cid=nbpnxt_pgsm_NFT">日経FinTech</a>
+<li><a href="/media/NNM/?i_cid=nbpnxt_pgsm_NNM">日経ニューメディア</a>
+<li><a href="/media/ROBO/?i_cid=nbpnxt_pgsm_ROBO">日経Robotics</a>
+<li><a href="/kn/NFM/?i_cid=nbpnxt_pgsm_nfm">日経不動産マーケット情報</a>
+<li><a href="/dm/energy/?i_cid=nbpnxt_pgsm_NEN">日経エネルギーNext</a>
+<li><a href="/dm/ndh/?i_cid=nbpnxt_pgsm_ndh">日経デジタルヘルス</a>
+<li><a href="/dm/sport/?i_cid=nbpnxt_pgsm_sport">スポーツイノベーターズオンライン</a>
+<li><a href="/dm/mega-solar/?i_cid=nbpnxt_pgsm_msolar">メガソーラービジネス</a>
+<li><a href="/it/computerworld/?i_cid=nbpnxt_pgsm_computerworld">Computerworld</a>
+<li><a href="/it/ciomagazine/?i_cid=nbpnxt_pgsm_ciomagazine">CIO Magazine</a>
+<li><a href="/en/?i_cid=nbpnxt_pgsm_en">英語版/English</a>
+</ul>
+</ul>
+</nav><!-- side_magazine -->
+
+<nav class="side_entry">
+<ul class="entry_toll">
+<li><a href="/go/nxt.html?ru=https%3A%2F%2Ftech.nikkeibp.co.jp%2Fatcl%2Fnxt%2Fcolumn%2F18%2F00138%2F021200233%2F" class="entryBtn">会員登録</a>
+</ul>
+</nav><!-- side_entry -->
+
+<nav class="snsAcount">
+<h3>日経 xTECH</h3>
+<ul>
+<li><a href="https://www.facebook.com/NIKKEIxTECH/" class="facebook">Facebook</a>
+<li><a href="https://twitter.com/NIKKEIxTECH" class="twitter">Twitter</a>
+</ul>
+</nav><!-- snsAcount -->
+
+<p id="side_copyright">
+<small>&copy; 2019 日経BP社 All Rights Reserved.</small>
+</p>
+</div><!-- side_menu_list -->
+</div><!-- サイドパネル -->
+
+<nav class="localNavi">
+<div class="LN_block">
+<div class="LN_theme">
+<ul>
+<li><a href="/theme/ai/?i_cid=nbpnxt_pghd_ai">AI</a>
+<li><a href="/theme/iot/?i_cid=nbpnxt_pghd_iot_thm">IoT</a>
+<li><a href="/theme/blockchain/?i_cid=nbpnxt_pghd_blockchain">ブロックチェーン</a>
+<li><a href="/theme/autodriving/?i_cid=nbpnxt_pghd_autodriving">自動運転</a>
+<li><a href="/theme/maas/?i_cid=nbpnxt_pghd_maas">MaaS</a>
+<li><a href="/theme/battery/?i_cid=nbpnxt_pghd_battery">次世代電池</a>
+<li><a href="/theme/newmat/?i_cid=nbpnxt_pghd_newmat">新材料</a>
+<li><a href="/theme/smartfactory/?i_cid=nbpnxt_pghd_smartfactory">デジタルものづくり</a>
+<li><a href="/theme/iconst/?i_cid=nbpnxt_pghd_iconst">iコンストラクション</a>
+<li><a href="/theme/vr/?i_cid=nbpnxt_pghd_vr">VR/AR</a>
+<li><a href="/theme/webfront/?i_cid=nbpnxt_pghd_webfront">Webフロントエンド</a>
+<li><a href="/theme/5G/?i_cid=nbpnxt_pghd_5G_thm">5G</a>
+<li><a href="/genre/robot/?i_cid=nbpnxt_pghd_robot">ロボット</a>
+<li><a href="/theme/cloud/?i_cid=nbpnxt_pghd_cloud">クラウド/エッジ</a>
+<li><a href="/theme/sensing/?i_cid=nbpnxt_pghd_sensing">センシング</a>
+<li><a href="/theme/security/?i_cid=nbpnxt_pghd_security">セキュリティ</a>
+<li><a href="/theme/wsreform/?i_cid=nbpnxt_pghd_wsreform">働き方改革・RPA</a>
+<li><a href="/theme/fintech/?i_cid=nbpnxt_pghd_fintech">FinTech</a>
+<li><a href="/theme/zeb/?i_cid=nbpnxt_pghd_zeb">省エネ建築</a>
+<li><a href="/theme/trouble/?i_cid=nbpnxt_pghd_trouble">事故・トラブル</a>
+<li><a href="/theme/bcp/?i_cid=nbpnxt_pghd_bcp">BCP・防災</a>
+<li><a href="/theme/techstartup/?i_cid=nbpnxt_pghd_techstartup">技術ベンチャー</a>
+<li class="nokey theme_more"><a href="/top/list.html?i_cid=nbpnxt_pghd_list">一覧</a>
+</ul>
+<div class="LN_switch">テーマ一覧の<br>切り替え</div>
+</div><!-- LN_theme -->
+<ul class="LN_link">
+<li class="LN_link_study"><a href="/top/index_learning.html?i_cid=nbpnxt_pghd_learning">学ぶ</a>
+<li class="LN_link_investigate"><a href="/top/index_search.html?i_cid=nbpnxt_pghd_searchadv">調べる</a>
+<li class="LN_link_mag"><a href="/magazine/?i_cid=nbpnxt_pghd_magazine">雑誌を読む</a>
+</ul>
+</div><!-- LN_block -->
+
+</nav>
+
+
+
+
+<nav class="categoryNavi">
+<div class="clearfix">
+<ul class="left clearfix">
+<li id="categoryNavi_home" class="nokey now"><a href="/?i_cid=nbpnxt_pghd_home">HOME</a>
+
+<li><a href="/top/it/?i_cid=nbpnxt_pghd_it">ＩＴ</a>
+<ul>
+<li><a href="/genre/management/?i_cid=nbpnxt_pghd_management">IT経営</a>
+<li><a href="/genre/systems/?i_cid=nbpnxt_pghd_systems">ITシステム</a>
+<li><a href="/genre/security/?i_cid=nbpnxt_pghd_itsecurity">ITセキュリティ</a>
+<li><a href="/genre/network/?i_cid=nbpnxt_pghd_network">ネットワーク</a>
+<li><a href="/genre/develop/?i_cid=nbpnxt_pghd_develop">ソフト開発</a>
+<li><a href="/genre/mobile/?i_cid=nbpnxt_pghd_mobile">モバイル</a>
+<li><a href="/genre/pc/?i_cid=nbpnxt_pghd_pc">PC</a>
+<li><a href="/genre/careerup/?i_cid=nbpnxt_pghd_careerup">ITキャリアアップ</a>
+<li><a href="/feature/govtech/?i_cid=nbpnxt_pghd_govtech">電子行政</a>
+</ul>
+
+<li><a href="/top/electronics/?i_cid=nbpnxt_pghd_electronics_top">エレキ</a>
+<ul>
+<li><a href="/genre/electronics/?i_cid=nbpnxt_pghd_electronics_gen">エレクトロニクス</a>
+<li><a href="/genre/analog/?i_cid=nbpnxt_pghd_analog">アナログ</a>
+<li><a href="/genre/communication/?i_cid=nbpnxt_pghd_communication">通信</a>
+<li><a href="/genre/device/?i_cid=nbpnxt_pghd_device">電子デバイス</a>
+<li><a href="/genre/edaonline/?i_cid=nbpnxt_pghd_edaonline">電子設計</a>
+<li><a href="/genre/elecapp/?i_cid=nbpnxt_pghd_elecapp">電子機器</a>
+<li><a href="/genre/5G/?i_cid=nbpnxt_pghd_5G_gen">5G</a>
+<li><a href="/genre/iot/?i_cid=nbpnxt_pghd_iot_gen">IoT技術</a>
+<li><a href="/genre/robot/?i_cid=nbpnxt_pghd_robot">ロボット</a>
+
+</ul>
+
+<li><a href="/top/mono/?i_cid=nbpnxt_pghd_mono_top">製造</a>
+<ul>
+<li><a href="/genre/mono/?i_cid=nbpnxt_pghd_mono_gen">ものづくり</a>
+<li><a href="/genre/designinnov/?i_cid=nbpnxt_pghd_designinnov">設計革新</a>
+<li><a href="/genre/mecha/?i_cid=nbpnxt_pghd_mecha">産業機器・部材</a>
+<li><a href="/genre/product/?i_cid=nbpnxt_pghd_product">生産革新</a>
+<li><a href="/genre/skillup/?i_cid=nbpnxt_pghd_skillup">製造スキルアップ</a>
+<li><a href="/genre/observer/?i_cid=nbpnxt_pghd_observer">マネジメント</a>
+<li><a href="/genre/new-industry/?i_cid=nbpnxt_pghd_new-industry">新産業</a>
+<li><a href="/genre/avitation/?i_cid=nbpnxt_pghd_avitation">航空・宇宙</a>
+<li><a href="/genre/realdev/?i_cid=nbpnxt_pghd_realdev">異業種連携</a>
+</ul>
+
+<li><a href="/top/automotive/?i_cid=nbpnxt_pghd_automotive_top">自動車</a>
+<ul>
+<li><a href="/genre/automotive/?i_cid=nbpnxt_pghd_automotive_gen">クルマ</a>
+<li><a href="/genre/ADAS/?i_cid=nbpnxt_pghd_ADAS">自動運転/ADAS</a>
+<li><a href="/genre/carnet/?i_cid=nbpnxt_pghd_carnet">車載部品</a>
+<li><a href="/genre/eleizing/?i_cid=nbpnxt_pghd_eleizing">電動化</a>
+<li><a href="/genre/newcar/?i_cid=nbpnxt_pghd_newcar">新車レポート</a>
+
+</ul>
+
+<li><a href="/top/building/?i_cid=nbpnxt_pghd_building_top">建築・住宅</a>
+<ul>
+<li><a href="/genre/building/?i_cid=nbpnxt_pghd_building_gen">建築</a>
+<li><a href="/genre/residence/?i_cid=nbpnxt_pghd_residence">住宅</a>
+<li><a href="/feature/archprojectDB/?i_cid=nbpnxt_pghd_archprojectDB">建築プロジェクトDB</a>
+<li><a href="/atcl/nxt/column/18/00118/?i_cid=nbpnxt_pghd_buildprice">建築単価ウオッチ</a>
+</ul>
+
+<li><a href="/top/construction/?i_cid=nbpnxt_pghd_construction_top">土木</a>
+<ul>
+<li><a href="/genre/construction/?i_cid=nbpnxt_pghd_construction_gen">土木</a>
+<li><a href="/feature/gijutsushi/?i_cid=nbpnxt_pghd_gijutsushi">技術士取得支援サイト</a>
+</ul>
+
+<li><a href="/top/energy/?i_cid=nbpnxt_pghd_energy">エネルギー</a>
+<ul>
+<li><a href="/genre/energytech/?i_cid=nbpnxt_pghd_energytech">エネルギー</a>
+<li><a href="/genre/powerele/?i_cid=nbpnxt_pghd_powerele">パワーエレクトロニクス</a>
+<li><a href="/genre/solarpower/?i_cid=nbpnxt_pghd_solarpower">メガソーラー</a>
+</ul>
+
+<li><a href="/top/healthcare/?i_cid=nbpnxt_pghd_healthcare">ヘルスケア</a>
+<ul>
+<li><a href="/genre/digitalhealth/?i_cid=nbpnxt_pghd_digitalhealth">デジタルヘルス</a>
+</ul>
+</ul>
+
+<ul class="right clearfix">
+
+<li><a href="#">特設</a>
+<ul>
+<li><a href="/feature/siliconvalley/?i_cid=nbpnxt_pghd_siliconvalley">シリコンバレーNext</a>
+<li><a href="/feature/education/?i_cid=nbpnxt_pghd_education">教育とICT Online</a>
+<li><a href="/feature/pcknowhow/?i_cid=nbpnxt_pghd_pcknowhow">イマドキのパソコン活用</a>
+<li><a href="/feature/windows7eos/?i_cid=nbpnxt_pghd_win7eos">Windows 7サポート終了</a>
+<li><a href="/feature/jpgciof/?i_cid=nbpnxt_pghd_jpgciof">都道府県CIOフォーラム</a>
+<li><a href="http://tech.nikkeibp.co.jp/it/iti/?i_cid=nbpnxt_pghd_iti">日経ITイノベーターズ</a>
+<li><a href="/sp/ites/?i_cid=nbpnxt_pghd_ites">日経ITエンジニアスクール</a>
+<li><a href="/feature/SD/?i_cid=nbpnxt_pghd_SD">Social Device</a>
+<li><a href="/dm/real/project/?i_cid=nbpnxt_pghd_oicom">リアル開発会議</a>
+<li><a href="/feature/bunkai/?i_cid=nbpnxt_pghd_bunkai">分解</a>
+<li><a href="/feature/factory/?i_cid=nbpnxt_pghd_factory">FACTORY</a>
+<li><a href="/feature/juku/?i_cid=nbpnxt_pghd_juku">技術者塾</a>
+<li><a href="/feature/shoene/?i_cid=nbpnxt_pghd_shoene">省エネNext</a>
+<li><a href="/feature/mokuzai/?i_cid=nbpnxt_pghd_mokuzai">木材活用最前線</a>
+<li><a href="/feature/pec/?i_cid=nbpnxt_pghd_pec">街づくり</a>
+<li><a href="/feature/jisedaij/?i_cid=nbpnxt_pghd_jisedaij">次世代住宅</a>
+<li><a href="/books/?i_cid=nbpnxt_pghd_books">日経BP社の書籍</a>
+<li><a href="/seminar/?i_cid=nbpnxt_pghd_seminar">日経BP社のセミナー</a>
+</ul>
+
+
+<li><a href="#">専門メディア</a>
+<ul>
+<li><a href="/media/NCF/?i_cid=nbpnxt_pghd_NCF">日経クラウドファースト</a>
+<li><a href="/media/NFT/?i_cid=nbpnxt_pghd_NFT">日経FinTech</a>
+<li><a href="/media/NNM/?i_cid=nbpnxt_pghd_NNM">日経ニューメディア</a>
+<li><a href="/media/ROBO/?i_cid=nbpnxt_pghd_ROBO">日経Robotics</a>
+<li><a href="/kn/NFM/?i_cid=nbpnxt_pghd_nfm">日経不動産マーケット情報</a>
+<li><a href="/dm/energy/?i_cid=nbpnxt_pghd_NEN">日経エネルギーNext</a>
+<li><a href="/dm/ndh/?i_cid=nbpnxt_pghd_ndh">日経デジタルヘルス</a>
+<li><a href="/dm/sport/?i_cid=nbpnxt_pghd_sport">スポーツイノベーターズオンライン</a>
+<li><a href="/dm/mega-solar/?i_cid=nbpnxt_pghd_msolar">メガソーラービジネス</a>
+<li><a href="/it/computerworld/?i_cid=nbpnxt_pghd_computerworld">Computerworld</a>
+<li><a href="/it/ciomagazine/?i_cid=nbpnxt_pghd_ciomagazine">CIO Magazine</a>
+<li><a href="/en/?i_cid=nbpnxt_pghd_en">英語版/English</a>
+</ul>
+
+
+<li><a href="#">製品選択</a>
+<ul>
+<li><a href="/it/active/?i_cid=nbpnxt_pghd_active">日経 xTECH Active</a>
+<li><a href="/it/ptn/?i_cid=nbpnxt_pghd_ptn">日経 xTECH パートナーズ</a>
+<li><a href="/prnews/?i_cid=nbpnxt_pghd_prnews">PR News</a>
+</ul>
+
+<li><a href="#">転職</a>
+<ul>
+<li><a href="/feature/job/index.html?i_cid=nbpnxt_pghd">技術者の転職</a>
+<li><a href="/feature/job/index_datas.html?i_cid=nbpnxt_pghd">データサイエンティスト</a>
+<li><a href="/feature/job/index_se.html?i_cid=nbpnxt_pghd">社内SE</a>
+<li><a href="/feature/job/index_embd.html?i_cid=nbpnxt_pghd">組み込み技術者</a>
+<li><a href="/feature/job/index_yarigai.html?i_cid=nbpnxt_pghd">やりがい</a>
+<li><a href="/feature/job/index_white.html?i_cid=nbpnxt_pghd">ホワイト企業</a>
+<li><a href="/feature/job/index_wsreform.html?i_cid=nbpnxt_pghd">働き方改革</a>
+<li><a href="/feature/job/index_fukuri.html?i_cid=nbpnxt_pghd">福利厚生</a>
+<li><a href="/feature/job/index_fukugyo.html?i_cid=nbpnxt_pghd">副業解禁</a>
+<li><a href="/feature/job/index_balance.html?i_cid=nbpnxt_pghd">ワークライフバランス</a>
+<li><a href="/feature/job/index_startup.html?i_cid=nbpnxt_pghd">スタートアップ</a>
+<li><a href="/feature/job/index_jinzai.html?i_cid=nbpnxt_pghd">人材育成</a>
+<li><a href="https://tech.nikkeihr.co.jp/?adid=BP_TP_L">日経TECHキャリア</a>
+</ul>
+
+
+<li><a href="http://www.nikkei.com/">日経電子版</a>
+
+</ul>
+</div>
+</nav>
+
+
+</header>
+<!-- コンテンツ -->
+<div class="content">
+
+<div class="ad-rectangle"><div><div><div id="div-gpt-ad-leaderboard">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-leaderboard');
+ });
+}]);
+</script>
+</div></div></div></div>
+ <ol class="breadcrumb">
+<li class="home_ico"><a href="/">総合トップ</a></li>
+<li><a href="/genre/management/">IT経営</a></li>
+<li><a href="/atcl/nxt/column/18/00138/">記者の眼</a></li>
+<li><a href="/atcl/nxt/column/18/00138/021200233/">CCCのTカード情報提供、違反ではないが「十分性」に反する</a></li>
+</ol>
+<article>
+
+<section>
+<ul class="list_G">
+<li>
+<div id="div-gpt-ad-genre_textad_01">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-genre_textad_01');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-genre_textad_02">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-genre_textad_02');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-genre_textad_03">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-genre_textad_03');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-genre_textad_04">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-genre_textad_04');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-genre_textad_05">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-genre_textad_05');
+ });
+}]);
+</script>
+</div>
+</li></ul>
+</section>
+<header>
+<div class="articleHeaderTop">
+<time>2019/02/15 05:00</time>
+<h2>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00138/">記者の眼</a></span>
+</h2>
+<h1>CCCのTカード情報提供、違反ではないが「十分性」に反する</h1>
+</div><!-- /.articleHeaderTop -->
+<div class="articleHeaderBottom">
+<div>
+<address>
+<a href="/search/?q=%E5%A4%A7%E8%B1%86%E7%94%9F%E7%94%B0%20%E5%B4%87%E5%BF%97&author=1">大豆生田 崇志</a>=日経 xTECH／日経コンピュータ</address>
+</div>
+<span class="media"><a href="https://tech.nikkeibp.co.jp/" target="_blank"><img src="/images/n/xtech/2018/medialogo/NXT.gif" alt="日経 xTECH"></a></span></div><!-- /.articleHeaderBottom -->
+<div class="tools clearfix">
+<ul class="socialButtons">
+<!-- facebook -->
+<li class="sns-facebook">
+<a href="#" onclick="window.open('https://www.facebook.com/dialog/share?app_id=517948118584012&display=popup&href=https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021200233/?n_cid=nbpnxt_fbbn', 'snsWindow', 'width=500, height=500, menubar=no, toolbar=no, scrollbars=yes'); return false;"><img src="/images/n/xtech/2018/ico_facebook.png" width="36" height="36" alt="Facebookでシェア"></a>
+<!-- twitter -->
+<li class="sns-twitter">
+<a href="#" onclick="window.open('http://twitter.com/intent/tweet?url=https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021200233/?n_cid=nbpnxt_twbn&text=CCC%E3%81%AET%E3%82%AB%E3%83%BC%E3%83%89%E6%83%85%E5%A0%B1%E6%8F%90%E4%BE%9B%E3%80%81%E9%81%95%E5%8F%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%8C%E3%80%8C%E5%8D%81%E5%88%86%E6%80%A7%E3%80%8D%E3%81%AB%E5%8F%8D%E3%81%99%E3%82%8B', 'snsWindow', 'width=500, height=500, menubar=no, toolbar=no, scrollbars=yes'); return false;"><img src="/images/n/xtech/2018/ico_twitter.png" width="36" height="36" alt="Twitterにツイート"></a>
+<!-- はてなブックマーク -->
+<li>
+<a href="http://b.hatena.ne.jp/entry/https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021200233/" target="_blank"><img src="/images/n/xtech/2018/ico_hatena.png" width="36" height="36" alt="はてなブックマークに保存"></a>
+<!-- メールで送る -->
+<li class="sns-mail">
+<a href="mailto:?subject=CCC%E3%81%AET%E3%82%AB%E3%83%BC%E3%83%89%E6%83%85%E5%A0%B1%E6%8F%90%E4%BE%9B%E3%80%81%E9%81%95%E5%8F%8D%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%81%8C%E3%80%8C%E5%8D%81%E5%88%86%E6%80%A7%E3%80%8D%E3%81%AB%E5%8F%8D%E3%81%99%E3%82%8B：日経 xTECH（クロステック）&amp;body=https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021200233/"><img src="/images/n/xtech/2018/ico_mail.png" width="36" height="36" alt="記事のURLをメールで送信します" title="記事のURLをメールで送信します"></a>
+<li><a href="#" title="記事を印刷に適した形式で表示します" onclick="window.open(window.location.href.replace(/[#\?].+$/, '') + '?ST=print', '_blank');return(false)"><img src="/images/n/xtech/2018/ico_print.png" width="36" height="36" alt="記事を印刷に適した形式で表示します"></a>
+<li class="mybookmark"><a href="#" data-parentpath="/sites/tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/index.html" data-parenttitle="記者の眼" data-image="top.jpg"><img src="/images/n/xtech/2018/ico_bookmark.png" width="36" height="36" alt="「マイページ」に記事をブックマークできます" title="「マイページ」に記事をブックマークできます"></a>
+<li class="mywatchlist"><a href="#" data-parentpath="/sites/tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/index.html" data-parenttitle="記者の眼"><img src="/images/n/xtech/2018/ico_watch.png" width="36" height="36" alt="「マイページ」で連載の最新記事が確認できるようになります" title="「マイページ」で連載の最新記事が確認できるようになります"></a>
+<li><img src="/images/n/xtech/2018/ico_simpleview_7f.png" width="36" height="36" alt="シンプルビューで表示します" title="シンプルビューで表示します">
+</ul>
+<div class="to_feedback"><a href="#fdbkEntry">この記事を評価する</a></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.9&appId=517948118584012";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div><!-- tools -->
+<!-- 評価抜粋 -->
+<div class="excerpt_feedback">
+<strong>この記事は</strong>
+<ul>
+<li>仕事に役立った<span>13</span>
+<li>人に勧めたい<span>12</span>
+<li>難しい<span>1</span>
+<li>易しい<span>0</span>
+</ul>
+</div>
+</header><!-- articleHeader -->
+
+<div class="articleBody" id="trackReadTarget">
+
+<p>
+　カルチュア・コンビニエンス・クラブ（CCC）が裁判所の令状なしに「Tカード」利用者の氏名や購入履歴を捜査機関に提供していることを問題視する報道が、2019年に入って広がった。しかしCCCの情報提供は、個人情報保護法には違反していない。だが日本政府が欧州連合（EU）に説明した内容には反している。
+</p>
+<div class="bpbox_center">
+<div class="bpimage_center" style="width:500px;"><div class="bpimage_image"><a href="/atcl/nxt/column/18/00138/021200233/?SS=imgview&amp;FD=91057364" target="_blank"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021200233/a.jpg?__scale=w:500,h:602&_sh=05e0650520" width="500" height="602" alt="" /></a></div>
+<div class="bpimage_title">欧州連合（EU）が日本の「十分性」決定を説明した資料</div>
+<div class="bpimage_caption">（出所：欧州委員会）</div><div class="bpimage_click">[画像のクリックで拡大表示]</div></div>
+</div>
+<p>
+　報道によると、CCCは約6700万人いるTカード利用者の氏名などの会員情報や、商品の購入時に得たポイント履歴、レンタルビデオのタイトルなどを裁判所の令状なしに捜査機関に提供していた。捜査機関はCCCに「捜査関係事項照会書」を使って、情報を得ていたという。
+</p>
+<p>
+　CCCは「T会員規約」に情報提供を明記していなかった。報道を受けてCCCは、2019年1月21日に「2012年から、『捜査関係事項照会書』があった場合にも、個人情報保護法を順守したうえで、一層の社会への貢献を目指し捜査機関に協力」してきたと公表。そのうえで個人情報保護方針を改訂して、T会員規約にも明記するとした。
+</p>
+<p>
+　CCCは2019年2月5日に、顧客情報取り扱いの基本方針を再検討するまでの間、「捜査機関からの要請に対しては、令状に基づく場合にのみ対応する」と改めて発表。CCC以外の企業も裁判所の令状なしに、捜査機関に個人情報を提供していたことを問題視する報道が相次いだ。
+</p>
+<p>
+　ただし繰り返すが、CCCなどの情報提供は、個人情報保護法に違反しているわけではない。個人情報保護委員会が公表している個人情報保護法のガイドライン（通則編）は、企業が管理する個人データの利用目的について、本人（この場合はTカード利用者）の同意を得なくてもよいという例を、以下のように挙げている。
+</p>
+<div class="bpbox"><div class="bpbox_text">
+（1）法令に基づく場合（法16条第3項第1号関係）<br>
+　法令に基づく場合は、法第16条第1項又は第2項の適用を受けず、あらかじめ本人の同意を得ることなく、特定された利用目的の達成に必要な範囲を超えて個人情報を取り扱うことができる。<br>
+事例1）警察の捜査関係事項照会に対応する場合（刑事訴訟法第197条第2項）<br>
+事例2）裁判官の発する令状に基づく捜査に対応する場合（刑事訴訟法第218条）　
+</div></div>
+<p>
+　つまり、企業は裁判官の令状がなくても警察の捜査関係事項照会に対応するため、個人情報を取り扱える。それでも報道が出て以降、個人情報保護委員会には一般からの問い合わせが殺到し、同委員会はガイドラインの説明に追われたようだ。
+</p>
+
+<h4>問題視すべきは捜査機関の方だった</h4>
+
+<p>
+　だが筆者にしてみれば、今回の一連の報道で本来問題にすべきだったのは、どちらかといえばCCCの対応や利用規約ではない。捜査機関の問題だ。
+</p>
+<p>
+　一連の報道が広がる契機となったとみられる共同通信の記事によると、内部資料や捜査関係者の話として情報提供の実態を伝えている。つまり、捜査機関の内部関係者によるリークがあったようだ。
+</p>
+<p>
+　なぜ今、捜査関係者がリークしたのだろうか。背景にあるのは、日本政府が法務大臣らの連名でEUに提出した2018年9月14日付の文書だったのではないかと筆者は考える。文書は一般データ保護規則（GDPR）の十分性の決定を得るため、日本の公的機関が刑事法執行や国家安全保障の目的で個人データを収集する際の法制度を説明したものだ。
+</p>
+<p>
+<div class="loginBox">
+<h3><h3>この先は会員の登録が必要です。<span class="campaign">今なら有料会員（月額プラン）が4月末まで無料！</span></h3></h3>
+<ul>
+<li class="entry"><a href="https://tech.nikkeibp.co.jp/go/nxt.html?ru=https%3A%2F%2Ftech.nikkeibp.co.jp%2Fatcl%2Fnxt%2Fcolumn%2F18%2F00138%2F021200233%2F" onclick="try{s.trackClickDelay(this,'articleBody','member');} catch(e){};return false;"><span>無料・有料プランを選択</span><strong>お申し込み</strong></a>
+<li class="login"><a href="#" onclick="return(bpsso.liMov(0))"><span>会員はこちら</span><strong>ログイン</strong></a>
+</ul>
+<p>日経 xTECHには有料記事(有料会員向けまたは定期購読者向け)、無料記事(登録会員向け)、フリー記事(誰でも閲覧可能)があります。有料記事でも、登録会員向け配信期間は登録会員への登録が必要な場合があります。<a href="https://support.nikkeibp.co.jp/app/answers/detail/a_id/1116/p/217/">有料会員と登録会員に関するFAQはこちら</a></p>
+</div>
+</div><!-- articleBody -->
+
+<footer>
+
+<nav class="pagenation">
+<p>
+<span class="nextPage_L">次ページ</span><br>
+<span class="nextPage_R">
+<span>EUの行政執行機関に当たる欧州委員会は2019年...</span>
+</span>
+</p>
+<ul>
+<li class="now">1</li>
+<li>2</li>
+<li>3</li>
+<li class="next">次へ</li>
+</ul>
+</nav><!-- pagenation -->
+
+<div id="dag_inread"></div>
+
+<nav class="other_article">
+<a href="/atcl/nxt/column/18/00138/020800232/"><span>前の記事</span><h3>完全準同型暗号という技術が記者をワクワクさせる理由</h3></a>
+<a href="/atcl/nxt/column/18/00138/021400235/"><span>次の記事</span><h3>AIは貴重な「社内人材」、先行投資を惜しむな</h3></a>
+</nav><!-- other_article -->
+<div class="relate_theme">
+<h5>関連テーマ</h5>
+<ul>
+<li><a href="/genre/management/">IT経営</a>
+<li><a href="/theme/legalsys/">法制度・規制</a>
+<li><a href="/theme/trouble/">トラブル</a>
+</ul>
+</div>
+<section class="feedback" id="fdbkResult">
+<h2 class="title_C">この記事の評価</h2>
+<h3>仕事に役立ちましたか？</h3>
+<ul>
+<li>役に立った：<span>13</span>
+<li>まあ役に立った：<span>0</span>
+<li>役に立たなかった：<span>0</span>
+</ul>
+
+<h3>周囲の人に勧めたいですか？</h3>
+<ul>
+<li>勧めたい：<span>12</span>
+<li>まあ勧めたい：<span>1</span>
+<li>勧めない：<span>0</span>
+</ul>
+
+<h3>この記事のレベルは？</h3>
+<ul>
+<li>難しい：<span>1</span>
+<li>ちょうどよい：<span>12</span>
+<li>易しい：<span>0</span>
+</ul>
+
+</section>
+
+<section>
+<div class="tools clearfix">
+<div class="to_feedback"><a href="#fdbkEntry">この記事を評価する</a></div>
+</div><!-- tools -->
+<!-- 評価抜粋 -->
+</section>
+
+<section class="feedback" id="fdbkEntry">
+<form action="#" method="post" onsubmit="return(bpcms_feedback_submit(this));" name="bpcms_feedback_form">
+<h2 class="title_C">この記事を評価する</h2>
+<h3>仕事に役立ちましたか？</h3>
+<ul>
+<li><label><input type="radio" name="QUE0000001" value="ANS1000001">役に立った</label>
+<li><label><input type="radio" name="QUE0000001" value="ANS1000002">まあ役に立った</label>
+<li><label><input type="radio" name="QUE0000001" value="ANS1000003">役に立たなかった</label>
+</ul>
+<h3>周囲の人に勧めたいですか？</h3>
+<ul>
+<li><label><input type="radio" name="QUE0000002" value="ANS2000001">勧めたい</label>
+<li><label><input type="radio" name="QUE0000002" value="ANS2000002">まあ勧めたい</label>
+<li><label><input type="radio" name="QUE0000002" value="ANS2000003">勧めない</label>
+</ul>
+<h3>この記事のレベルは？</h3>
+<ul>
+<li><label><input type="radio" name="QUE0000003" value="ANS3000001">難しい</label>
+<li><label><input type="radio" name="QUE0000003" value="ANS3000002">ちょうどよい</label>
+<li><label><input type="radio" name="QUE0000003" value="ANS3000003">易しい</label>
+</ul>
+<div class="button small"><a href="#">評価する</a></div>
+<input type="hidden" name="structureId" value="a5a100ca-2e64-11e9-a849-03ae148b6aa8">
+<input type="hidden" name="checkToken" value="">
+<input type="hidden" name="loginFlag" value="1"><input type="hidden" name="multipleAnswerFlag" value="0"><input type="hidden" name="title" value="CCCのTカード情報提供、違反ではないが「十分性」に反する">
+<input type="hidden" name="url" value="https://tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021200233/">
+</form>
+</section>
+
+<div id="bpcms_feedback_message_area"></div>
+
+<section class="recommend">
+
+<h2 class="title_C">あなたにお薦め</h2>
+
+<section>
+<ul class="list_F">
+<li>
+<div id="div-gpt-ad-visualbox_it_infeed_01">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_infeed_01');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-visualbox_it_infeed_02">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_infeed_02');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-visualbox_it_infeed_03">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_infeed_03');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-visualbox_it_infeed_04">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_infeed_04');
+ });
+}]);
+</script>
+</div>
+</li></ul>
+</section>
+<ul class="list_F">
+
+<div id="cx_recommend"></div>
+<div id="cx_recommendActive" data-widgetid="2897003fbd16e7ec803b279a646066a5470c6324"></div>
+<ul class="list_F">
+<li><div class="icon"><a href="/feature/job/?i_cid=nbpnxt_reco_job"><img src="/images/n/xtech/2018/feature/job-change_icon.png" width="60"></a></div><div class="text"><h3><a href="/feature/job/?i_cid=nbpnxt_reco_job">技術者の転職　特設サイト</a></h3><p>人材不足の今こそキャリアアップ！　まずは求人情報をチェック</p></div></li>
+</ul>
+
+</section>
+<section>
+<ul class="list_G">
+<li>
+<div id="div-gpt-ad-category_textad_01">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-category_textad_01');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-category_textad_02">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-category_textad_02');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-category_textad_03">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-category_textad_03');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-category_textad_04">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-category_textad_04');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-category_textad_05">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-category_textad_05');
+ });
+}]);
+</script>
+</div>
+</li></ul>
+</section>
+<section id="recommend" class="backnumber">
+<h2 class="title_C">バックナンバー</h2>
+
+<ul class="list_F">
+<li>
+<div class="icon"><a href="/atcl/nxt/column/18/00138/021600236/"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021600236/top.jpg?__scale=w:60,h:45&_sh=0d20509701" width="60" height="45" /></a></div>
+<div class="text">
+<h3><a href="/atcl/nxt/column/18/00138/021600236/">ARIGATOメンバーになって分かった、ZOZOの見通しの甘さ</a></h3><p><time>（2019/02/22）</time></p>
+</div>
+<li>
+<div class="icon"><a href="/atcl/nxt/column/18/00138/021900237/"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021900237/top.jpg?__scale=w:60,h:45&_sh=05f0280310" width="60" height="45" /></a></div>
+<div class="text">
+<h3><a href="/atcl/nxt/column/18/00138/021900237/">5年後、基幹系システムは刷新できなくなる</a></h3><p><time>（2019/02/21）</time></p>
+</div>
+<li>
+<div class="icon"><a href="/atcl/nxt/column/18/00138/021400234/"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021400234/top.jpg?__scale=w:60,h:45&_sh=02b05c0c10" width="60" height="45" /></a></div>
+<div class="text">
+<h3><a href="/atcl/nxt/column/18/00138/021400234/">データ分析が目的になってはいないか？ヤフーに抱く違和感と期待</a></h3><p><time>（2019/02/19）</time></p>
+</div>
+<li>
+<div class="icon"><a href="/atcl/nxt/column/18/00138/021400235/"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/column/18/00138/021400235/top.jpg?__scale=w:60,h:45&_sh=01b0830d50" width="60" height="45" /></a></div>
+<div class="text">
+<h3><a href="/atcl/nxt/column/18/00138/021400235/">AIは貴重な「社内人材」、先行投資を惜しむな</a></h3><p><time>（2019/02/18）</time></p>
+</div>
+</ul>
+<p class="more"><a href="/atcl/nxt/column/18/00138/">一覧を見る</a></p>
+</section><!--/#recommend-->
+<section class="recommend">
+<h2 class="title_C">注目のイベント</h2>
+
+<ul class="list_F">
+<li>
+<div class="icon"><a href="https://project.nikkeibp.co.jp/event/iti190301/?n_cid=nbpnxt_sied"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/seminar/18/00011/021400003/top.jpg?__scale=w:60,h:45&_sh=010040db0b" width="60" height="45" /></a></div>
+<div class="text">
+<h3><a href="https://project.nikkeibp.co.jp/event/iti190301/?n_cid=nbpnxt_sied">最高の顧客体験とは！？リアルとデジタルのうまい融合</a></h3><p><time>2019年3月1日（金）13：00～17：20（12：30開場）予定</time></p>
+</div>
+<li>
+<div class="icon"><a href="https://www.nikkeibp.co.jp/seminar/event/xdsj20190314/?n_cid=nbpnxt_sied"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/seminar/18/00011/021800005/top_ds.jpg?__scale=w:60,h:45&_sh=09e0c90a40" width="60" height="45" /></a></div>
+<div class="text">
+<h3><a href="https://www.nikkeibp.co.jp/seminar/event/xdsj20190314/?n_cid=nbpnxt_sied">データサイエンティスト・ジャパン 2019</a></h3><p><time>2019年3月14日（木）10：00～18：10（9：30開場）予定</time></p>
+</div>
+<li>
+<div class="icon"><a href="https://expo.nikkeibp.co.jp/sportsbiz/2019/?n_cid=nbpnxt_sied"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/seminar/18/00011/021800004/top_sp.jpg?__scale=w:60,h:45&_sh=0e305f0300" width="60" height="45" /></a></div>
+<div class="text">
+<h3><a href="https://expo.nikkeibp.co.jp/sportsbiz/2019/?n_cid=nbpnxt_sied">SPORTS Tech ＆ Biz Conference</a></h3><p><time>2019年 3月 20日</time></p>
+</div>
+<li>
+<div class="icon"><a href="https://project.nikkeibp.co.jp/event/se190320/?n_cid=nbpnxt_sied"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/seminar/18/00011/021800006/top_jh.jpg?__scale=w:60,h:45&_sh=09008607c0" width="60" height="45" /></a></div>
+<div class="text">
+<h3><a href="https://project.nikkeibp.co.jp/event/se190320/?n_cid=nbpnxt_sied">情報セキュリティ戦略セミナー</a></h3><p><time>2019年3月20日（木）13：00～17：40（12：30開場）予定</time></p>
+</div>
+</ul>
+<p class="more"><a href="/seminar/">セミナー一覧を見る</a></p>
+</section>
+
+ </footer><!-- 記事内のfooter -->
+
+<section>
+<h2 class="title_A">日経 xTECH SPECIAL</h2>
+
+<h2 class="title_C">What's New!</h2>
+<ul class="list_H">
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/panasonic/businessmobile/special/20190225/" target="_blank" rel="">レッツノート史上最速！最注目の「レッツノートSV8」登場</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/mki0222/" target="_blank" rel="">クラウド活用の「これまで」と「これから」</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/nttdocomov0221_01/" target="_blank" rel="">産学連携でドコモショップが生まれ変わる</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/nttdocomov0221_02/" target="_blank" rel="">MaaSとシェアサイクルの密接な関係</a></h4></div>
+</ul>
+<h2 class="title_C">経営</h2>
+<ul class="list_H">
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/intel0131/" target="_blank" rel="TAI08515">データ／AI活用を変える！インテルの提案</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/softbank0131/" target="_blank" rel="TTS08471">レポート≫金融顧客を守る最新手法とは</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/techmedia0129/" target="_blank" rel="TMI08482">2020年、デジタルは産業をどう変えるか</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/deloitte0129/" target="_blank" rel="TTS08486">進む標準化。ブロックチェーン時代の歩き方</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/dell0129/" target="_blank" rel="TMI08485">１０年後を見据えたデジタル戦略のススメ</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/intel0129/" target="_blank" rel="TKK08487">ビジネスを加速するプロセッサー選択の極意</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/servicenow0129/" target="_blank" rel="TMI08483">働き方改革を推進させる４つの要件とは？</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/18/kddi0108/" target="_blank" rel="TKK08479">ワークスタイル変革は道半ば、御社も診断！</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/18/mki1228_01/" target="_blank" rel="TTS08480">デジタル変革を勝ち抜く「ヒント」は</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/18/image_tech/" target="_blank" rel="TKK08132">画像技術が切り拓く未来</a></h4></div>
+</ul>
+<h2 class="title_C">クラウド</h2>
+<ul class="list_H">
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/mki0222/" target="_blank" rel="TTS08715">クラウド活用の「これまで」と「これから」</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/ibm0124/" target="_blank" rel="TTS08521">「非金融領域」のブロックチェーンの可能性</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atcl/NXT/18/ibm_aflac/" target="_blank" rel="TKK08366">アフラック、ITインフラをクラウド化</a></h4></div>
+</ul>
+<h2 class="title_C">アプリケーション／DB／ミドルウエア</h2>
+<ul class="list_H">
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/sensetime0129/" target="_blank" rel="TKK08437">Ｈｏｎｄａと共同研究するＡＩベンチャー</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/ashisuto0129/" target="_blank" rel="TMI08484">RPA効果を最大化！「判断」の自動化とは</a></h4></div>
+</ul>
+<h2 class="title_C">運用管理</h2>
+<ul class="list_H">
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/panasonic/businessmobile/special/20190225/" target="_blank" rel="TTS04501">レッツノート史上最速！最注目の「レッツノートSV8」登場</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/ascentech0214/" target="_blank" rel="TMI08666">「テレワーク＆RPA」で進める働き方改革</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atcl/NXT/19/dynabook0206/" target="_blank" rel="TAI08564">教育現場のICT化へのソリューションとは</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/ashisuto0131/" target="_blank" rel="TAI08604">専門家が語る「システム運用の未来」とは？</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atcl/NXT/19/lenovo0124/" target="_blank" rel="TTS08558">ＤＸを加速しＴＣＯを７割削減する方法とは</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/intel0108/" target="_blank" rel="TAI08522">最上位プラットフォームでできること</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/panasonic/toughpad/special/20180629/" target="_blank" rel="TMS04503">パナソニック　タフブックFZ-T1発表会レポート</a></h4></div>
+</ul>
+<h2 class="title_C">サーバー／ストレージ</h2>
+<ul class="list_H">
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/dell0131_02/" target="_blank" rel="TTS08591">調査で判明／仮想化基盤への「5つの要件」</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/dell0131/" target="_blank" rel="TAI08592">AI活用を阻む「二大関門」を突破する方法</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/intel0115/" target="_blank" rel="TAI08533">データセンターのパフォーマンス向上！</a></h4></div>
+</ul>
+<h2 class="title_C">クライアント／OA機器</h2>
+<ul class="list_H">
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/yamaha0124/" target="_blank" rel="TTS08543">佐川急便が選んだコミュニケーション機器</a></h4></div>
+</ul>
+<h2 class="title_C">ネットワーク／通信サービス</h2>
+<ul class="list_H">
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/nttdocomov0221_01/" target="_blank" rel="TMI08719">産学連携でドコモショップが生まれ変わる</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/nttdocomov0221_02/" target="_blank" rel="TMI08720">MaaSとシェアサイクルの密接な関係</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/isc_okinawa0130/" target="_blank" rel="TMI08638">沖縄県がIT活用で挑むアジアへの飛翔</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/nttdocomov0118_02/" target="_blank" rel="TMI08594">仙台市は日本一起業しやすいまちを目指す</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/nttdocomov0118_01/" target="_blank" rel="TMI08593">ドコモのイベントで5Gの未来を探る</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/18/iij1024/" target="_blank" rel="TMI07977">IIJが考えるクラウド時代のネットワーク</a></h4></div>
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/18/iij1001/" target="_blank" rel="TMI08088">マルチクラウド環境の統合運用管理サービス</a></h4></div>
+</ul>
+<h2 class="title_C">セキュリティ</h2>
+<ul class="list_H">
+<li><div class="text"><h4><a href="https://special.nikkeibp.co.jp/atclh/NXT/19/accenture0129/" target="_blank" rel="TAI08490">何をどうする？「攻撃型セキュリティ」とは</a></h4></div>
+</ul>
+<p class="more">
+<a href="https://special.nikkeibp.co.jp/NXT">もっと見る</a>
+</p>
+</section>
+</article><!-- メイン -->
+
+<!-- 右ペイン -->
+<aside class="asideRight">
+ <div class="ad-rectangle"><div id="div-gpt-ad-rectangle1">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-rectangle1');
+ });
+}]);
+</script>
+</div></div>
+<section>
+<h2 class="title_B">ピックアップ<span class="pr_ico">PR</span></h2>
+<ul class="list_F noborder">
+<li>
+<div id="div-gpt-ad-visualbox_it_pickup_01">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_pickup_01');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-visualbox_it_pickup_02">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_pickup_02');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-visualbox_it_pickup_03">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_pickup_03');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-visualbox_it_pickup_04">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_pickup_04');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-visualbox_it_pickup_05">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_pickup_05');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-visualbox_it_pickup_06">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_pickup_06');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-visualbox_it_pickup_07">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_pickup_07');
+ });
+}]);
+</script>
+</div>
+</li><li>
+<div id="div-gpt-ad-visualbox_it_pickup_08">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-visualbox_it_pickup_08');
+ });
+}]);
+</script>
+</div>
+</li></ul>
+<p class="more">
+<a href="https://special.nikkeibp.co.jp/NXT">もっと見る</a>
+</p>
+</section>
+ <section class="tmp_ranking">
+<h2 class="title_B">IT　ランキング</h2>
+<ul class="tab">
+<li class="active">現在</li>
+<li>きのう</li>
+<li>週間</li>
+</ul>
+<section class="tabContent show">
+<ul class="list_rank">
+<li>
+<div class="rank_block">
+<span class="rb_left">1</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00138/">記者の眼</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00138/021600236/">ARIGATOメンバーになって分かった、ZOZOの見通しの甘さ</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">2</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00088/">あなたが知らないiPhone</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00088/00015/">iPhoneのパスコードを忘れた！ 慌てずに済む3つの方法</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">3</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/mag/nc/18/013000094/">DX先進12社の研究</a></span>
+</h4>
+<h3><a href="/atcl/nxt/mag/nc/18/013000094/020100009/">IT人材の年収は1200万円に、「2025年の崖」回避シナリオ</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">4</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00001/">ニュース解説</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00001/01549/">CCCがマルチポイント化で劣勢に、ファミマがTポイント・ジャパン株売却へ</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">5</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00001/">ニュース解説</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00001/01663/">RPAは次のフェーズへ、AI連携でデータの意味を自動解析</a></h3>
+</div>
+</div>
+</ul>
+<p class="more"><a href="/ranking/">ランキング一覧を見る</a></p>
+</section>
+<section class="tabContent">
+<ul class="list_rank">
+<li>
+<div class="rank_block">
+<span class="rb_left">1</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00138/">記者の眼</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00138/021600236/">ARIGATOメンバーになって分かった、ZOZOの見通しの甘さ</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">2</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/news/">ニュース</a></span>
+</h4>
+<h3><a href="/atcl/nxt/news/18/04208/">政府、マイナンバー制度の「通知カード」廃止を検討</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">3</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00088/">あなたが知らないiPhone</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00088/00015/">iPhoneのパスコードを忘れた！ 慌てずに済む3つの方法</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">4</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00531/">冬休みスペシャル2018-2019</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00531/121000003/">2018年の辛口レビュー、満足度が高かったデジタルデバイス10</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">5</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00160/">週末スペシャル</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00160/021700098/">「24時間で消える」という油断、インスタへの不適切動画投稿</a></h3>
+</div>
+</div>
+</ul>
+<p class="more"><a href="/ranking/">ランキング一覧を見る</a></p>
+</section>
+<section class="tabContent">
+<ul class="list_rank">
+<li>
+<div class="rank_block">
+<span class="rb_left">1</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00148/">木村岳史の極言暴論！</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00148/021300046/">若手技術者が年収800万円を要求、怒った課長の非常識さ</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">2</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00087/">戸田覚のIT辛口研究所</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00087/00063/">またしてもThinkPad X1 Carbonを買ってしまった理由</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">3</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/column/18/00138/">記者の眼</a></span>
+</h4>
+<h3><a href="/atcl/nxt/column/18/00138/021600236/">ARIGATOメンバーになって分かった、ZOZOの見通しの甘さ</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">4</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/news/">ニュース</a></span>
+</h4>
+<h3><a href="/atcl/nxt/news/18/04208/">政府、マイナンバー制度の「通知カード」廃止を検討</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">5</span>
+<div class="rb_right">
+<h4>
+<span class="parentTitle"><a href="/atcl/nxt/mag/nc/18/021300096/">パートナー満足度調査 2019</a></span>
+</h4>
+<h3><a href="/atcl/nxt/mag/nc/18/021300096/021300001/">富士通6冠、7部門で首位交代のパートナー満足度</a></h3>
+</div>
+</div>
+</ul>
+<p class="more"><a href="/ranking/">ランキング一覧を見る</a></p>
+</section>
+</section>
+<section>
+<ul class="list_banner">
+<div id="div-gpt-ad-side_banner">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-side_banner');
+ });
+}]);
+</script>
+</div></ul>
+</section>
+<div class="ad-rectangle"><div id="div-gpt-ad-rectangle2">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-rectangle2');
+ });
+}]);
+</script>
+</div></div>
+<div id="nhrWidget" data-site="ITP" class="nhrWidgetArea"></div>
+<section>
+<h2 class="title_B">おすすめセミナー</h2>
+<ul class="list_F imgRight roundText">
+<li>
+<div class="icon"><a href="https://www.nikkeibp.co.jp/seminar/atcl/cn/nc190301/index.html"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/seminar/18/00002/110600216/imageG_ITES.jpg?__scale=w:95,h:50&_sh=06402309f0" width="95" height="50" /></a></div>
+<div class="text"><h3><a href="https://www.nikkeibp.co.jp/seminar/atcl/cn/nc190301/index.html">プレゼン＆説明力 養成講座</a></h3>
+<p>「仕事」を進める上で求められる説明やプレゼンテーションのポイントを解説。勘違いや誤解を排除し、相手と協働しやすい環境を作る、そして相手の腹に落ちるような説明やプレゼンテーションをするための５つの基本原則を伝授します。</p></div>
+<li>
+<div class="icon"><a href="https://www.nikkeibp.co.jp/seminar/atcl/cn/nnw190301/?n_cid=nbpnnw_sied_nxtsemi_cybersemi_181126"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/seminar/18/00002/112700235/imgX_s.jpg?__scale=w:95,h:71&_sh=0610bf0ef0" width="95" height="71" /></a></div>
+<div class="text"><h3><a href="https://www.nikkeibp.co.jp/seminar/atcl/cn/nnw190301/?n_cid=nbpnnw_sied_nxtsemi_cybersemi_181126">サイバー攻撃対策 基礎講座</a></h3>
+<p>セキュリティの専門家を講師に招き、業務ネットワークを運用する実務担当者に最低限必要な知識を1日で解説。対策については机上での演習を実施し、理解を深めていただきます。</p></div>
+<li>
+<div class="icon"><a href="https://www.nikkeibp.co.jp/seminar/atcl/cn/nc190301_2/?n_cid=nbpnc_sied_nxtsemi_kasetsusemi_181119"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/seminar/18/00002/112000227/imgZ_s.jpg?__scale=w:95,h:71&_sh=0e20df0d50" width="95" height="71" /></a></div>
+<div class="text"><h3><a href="https://www.nikkeibp.co.jp/seminar/atcl/cn/nc190301_2/?n_cid=nbpnc_sied_nxtsemi_kasetsusemi_181119">「仮説立案」実践講座</a></h3>
+<p>課題を整理し、データ（分析）に落とし込む方法がわかります。仮説に基づいた課題解決の進め方、プロジェクト実例も紹介。</p></div>
+</ul>
+<p class="more"><a href="/seminar/index_it.html">一覧を見る</a></p></section>
+<section>
+<h2 class="title_B">おすすめ書籍</h2>
+<ul class="list_F imgRight roundText">
+<li>
+<div class="icon"><a href="/atcl/nxt/books/18/00010/022200242/"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/books/18/00010/022200242/cover.jpg?__scale=w:95,h:127&_sh=06d01a0130" width="95" height="127" /></a></div>
+<div class="text"><h3><a href="/atcl/nxt/books/18/00010/022200242/">平成と震災　今振り返る危機対応、「次」への備えは万全か</a></h3>
+<p>日経コンピュータ　2019年2月21日号より</p>
+</div>
+<li>
+<div class="icon"><a href="/atcl/nxt/books/18/00010/021900240/"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/books/18/00010/021900240/h_NOS.jpg?__scale=w:95,h:127&_sh=04a04102b0" width="95" height="127" /></a></div>
+<div class="text"><h3><a href="/atcl/nxt/books/18/00010/021900240/">脱・トロい IT現場</a></h3>
+<p>日経SYSTEMS　2019年3月号より</p>
+</div>
+<li>
+<div class="icon"><a href="/atcl/nxt/books/18/00010/021200236/"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/books/18/00010/021200236/cover.jpg?__scale=w:95,h:127&_sh=0610490d07" width="95" height="127" /></a></div>
+<div class="text"><h3><a href="/atcl/nxt/books/18/00010/021200236/">さあ、デジタル変革の旅に出よう</a></h3>
+<p>日経コンピュータ　2019年2月7日号より</p>
+</div>
+<li>
+<div class="icon"><a href="/atcl/nxt/books/18/00010/020600235/"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/books/18/00010/020600235/272320.jpg?__scale=w:95,h:140&_sh=0240ff0590" width="95" height="140" /></a></div>
+<div class="text"><h3><a href="/atcl/nxt/books/18/00010/020600235/">仕事の質が劇的に上がる88の質問</a></h3>
+<p>会議でありがちな問題状況を想定し、進行役が使うとよい質問を集めています。具体的なセリフを使った「使用例」を詳細に解説し、どのようなときにどんなセリフを使えばいいかを無理なく学ぶことができます。</p>
+</div>
+<li>
+<div class="icon"><a href="/atcl/nxt/books/18/00010/020600234/"><img src="https://cdn-tech.nikkeibp.co.jp/atcl/nxt/books/18/00010/020600234/272670.jpg?__scale=w:95,h:127&_sh=0fc0b70103" width="95" height="127" /></a></div>
+<div class="text"><h3><a href="/atcl/nxt/books/18/00010/020600234/">デジタルトランスフォーメーション　DXへの技術</a></h3>
+<p>本書ではデジタル時代の社内システムに作り替える技術や取り組みを「DXへの技術」と呼んでいる。いずれも、IT部門がDXのリード役となり、DXを成功させるのに欠かせないものだ。DX成功のために、ぜひ本書を役立ててほしい。</p>
+</div>
+</ul>
+<p class="more"><a href="/books/index_it.html">一覧を見る</a></p></section>
+<section class="tmp_ranking">
+<h2 class="title_B">日経 xTECH Active 昨日読まれた記事</h2>
+<section class="tabContent show">
+<ul class="list_rank">
+<li>
+<div class="rank_block">
+<span class="rb_left">1</span>
+<div class="rb_right">
+<h3><a href="/it/atclact/active/18/112600054/112700004/?i_cid=nbpnxt_pgrt_ranking">万能だが難解、普及進むUSB Type-Cを理解</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">2</span>
+<div class="rb_right">
+<h3><a href="/it/atclact/active/18/112600054/112700002/?i_cid=nbpnxt_pgrt_ranking">インテル第9世代やSnapdragon、最新CPUの特徴</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">3</span>
+<div class="rb_right">
+<h3><a href="/it/atclact/active/18/112600054/112700001/?i_cid=nbpnxt_pgrt_ranking">2019年型PCはSSDに注目、QLC搭載機が話題に</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">4</span>
+<div class="rb_right">
+<h3><a href="/it/atclact/active/18/112600054/112700006/?i_cid=nbpnxt_pgrt_ranking">目玉はMRと4K、最新PCのグラフィックス機能</a></h3>
+</div>
+</div>
+<li>
+<div class="rank_block">
+<span class="rb_left">5</span>
+<div class="rb_right">
+<h3><a href="/it/atclact/active/17/122000210/113000023/?i_cid=nbpnxt_pgrt_ranking">「こんなもんいらん！どけろ！」、設置したPCを床に放り出された話</a></h3>
+</div>
+</div>
+</ul>
+</section>
+</section>
+<section>
+<h2 class="title_B">IT分野の各コーナー</h2>
+<ul class="list_H">
+<li><div class="text"><h4><a href="/news/index_it.html">ニュース</a></h4></div>
+<li><div class="text"><h4><a href="/trend/index_it.html">ニュース解説</a></h4></div>
+<li><div class="text"><h4><a href="/opinion/index_it.html">オピニオン</a></h4></div>
+<li><div class="text"><h4><a href="/coverstory/index_it.html">特集</a></h4></div>
+<li><div class="text"><h4><a href="/column/index_it.html">連載／コラム</a></h4></div>
+<li><div class="text"><h4><a href="/casestudy/index_it.html">事例</a></h4></div>
+<li><div class="text"><h4><a href="/eventreport/index_it.html">イベントレポート</a></h4></div>
+<li><div class="text"><h4><a href="/interview/index_it.html">インタビュー</a></h4></div>
+<li><div class="text"><h4><a href="/keyword/index_it.html">キーワード</a></h4></div>
+<li><div class="text"><h4><a href="/seminar/index_it.html">セミナー</a></h4></div>
+<li><div class="text"><h4><a href="/books/index_it.html">書籍</a></h4></div>
+</ul>
+</section>
+</aside><!-- 右ペイン -->
+</div><!-- コンテンツ -->
+
+<footer>
+
+<nav class="localFooter">
+
+<div id="footer_logo_block">
+<div id="footerLogo">
+<h2>日経 xTECH</h2>
+<p><span class="active">PC版</span><span><a href="#">スマホ版</a></span></p>
+</div>
+</div>
+
+<div id="footer_sitemap">
+
+
+<div class="footer_sitemap_list">
+<h2>新着記事</h2>
+<ul>
+<li><a href="/top/index_learning.html?i_cid=nbpnxt_pgft_learning">学ぶ</a>
+<li><a href="/top/index_search.html?i_cid=nbpnxt_pgft_searchadv">調べる</a>
+<li><a href="/magazine/?i_cid=nbpnxt_pgft_magazine">雑誌を読む</a>
+</ul>
+
+<h2>コーナー</h2>
+<ul>
+<li><a href="/dmook/?i_cid=nbpnxt_pgft_dmook">デジタルムック</a>
+<li><a href="/coverstory/?i_cid=nbpnxt_pgft_coverstory">特集</a>
+<li><a href="/column/?i_cid=nbpnxt_pgft_column">連載／コラム</a>
+<li><a href="/news/?i_cid=nbpnxt_pgft_news">ニュース</a>
+<li><a href="/trend/?i_cid=nbpnxt_pgft_trend">ニュース解説</a>
+<li><a href="/opinion/?i_cid=nbpnxt_pgft_opinion">オピニオン</a>
+<li><a href="/interview/?i_cid=nbpnxt_pgft_interview">インタビュー</a>
+<li><a href="/eventreport/?i_cid=nbpnxt_pgft_eventreport">イベントレポート</a>
+<li><a href="/casestudy/?i_cid=nbpnxt_pgft_casestudy">事例</a>
+<li><a href="/keyword/?i_cid=nbpnxt_pgft_keyword">キーワード</a>
+<li><a href="/market/?i_cid=nbpnxt_pgft_market">市場調査</a>
+<li><a href="/lecture/?i_cid=nbpnxt_pgft_lecture">講座</a>
+<li><a href="/product/index_build.html?i_cid=nbpnxt_pgft_product_build">製品ガイド 建築</a>
+<li><a href="/product/index_const.html?i_cid=nbpnxt_pgft_product_const">製品ガイド 土木</a>
+</ul>
+<ul>
+<li><a href="/ranking/?i_cid=nbpnxt_pgft_ranking">ランキング</a>
+<li><a href="/info/?i_cid=nbpnxt_pgft_info">お知らせ</a>
+<li><a href="/seminar/?i_cid=nbpnxt_pgft_seminar">セミナー</a>
+<li><a href="/books/?i_cid=nbpnxt_pgft_books">書籍</a>
+<li><a href="/magazinepdf/?i_cid=nbpnxt_pgft_magazinepdf">PDFダウンロード</a>
+<li><a href="/mypage/?i_cid=nbpnxt_pgft_mypage">マイページ</a>
+</ul>
+</div>
+
+<div class="footer_sitemap_list">
+<h2>特設サイト</h2>
+<ul>
+<li><a href="/feature/job/?i_cid=nbpnxt_pgft_job">技術者の転職</a>
+<li><a href="/feature/govtech/?i_cid=nbpnxt_pgft_govtech">電子行政</a>
+<li><a href="/feature/jpgciof/?i_cid=nbpnxt_pgft_jpgciof">都道府県CIOフォーラム</a>
+<li><a href="/feature/siliconvalley/?i_cid=nbpnxt_pgft_siliconvalley">シリコンバレーNext</a>
+<li><a href="http://tech.nikkeibp.co.jp/it/iti/?i_cid=nbpnxt_pgft_iti">日経ITイノベーターズ</a>
+<li><a href="/feature/education/?i_cid=nbpnxt_pgft_education">教育とICT Online</a>
+<li><a href="/feature/pcknowhow/?i_cid=nbpnxt_pgft_pcknowhow">知らなきゃ損するイマドキのパソコン活用</a>
+<li><a href="/feature/windows7eos/?i_cid=nbpnxt_pgft_win7eos">Windows 7サポート終了</a>
+<li><a href="/event/expo/2018/?i_cid=nbpnxt_pgft_expo2018">日経 xTECH EXPO 2018</a>
+<li><a href="/event/itjapan/2018/?i_cid=nbpnxt_pgft_itjapan">IT Japan 2018</a>
+<li><a href="/feature/SD/?i_cid=nbpnxt_pgft_SD">Social Device</a>
+<li><a href="/dm/real/project/?i_cid=nbpnxt_pgft_oicom">リアル開発会議</a>
+<li><a href="/feature/bunkai/?i_cid=nbpnxt_pgft_bunkai">分解</a>
+<li><a href="/feature/factory/?i_cid=nbpnxt_pgft_factory">FACTORY</a>
+<li><a href="/feature/2018/sportstech/?i_cid=nbpnxt_pgft_sportstech">スポーツテック</a>
+<li><a href="/feature/shoene/?i_cid=nbpnxt_pgft_shoene">省エネNext</a>
+<li><a href="/feature/mokuzai/?i_cid=nbpnxt_pgft_mokuzai">木材活用最前線</a>
+<li><a href="/feature/pec/?i_cid=nbpnxt_pgft_pec">街づくり</a>
+<li><a href="/feature/archprojectDB/?i_cid=nbpnxt_pgft_archprojectDB">建築プロジェクトDB</a>
+<li><a href="/feature/jisedaij/?i_cid=nbpnxt_pgft_jisedaij">次世代住宅</a>
+<li><a href="/feature/gijutsushi/?i_cid=nbpnxt_pgft_gijutsushi">技術士取得支援サイト</a>
+</ul>
+
+<h2>関連サイト</h2>
+<ul>
+<li><a href="/it/active/?i_cid=nbpnxt_pgft_active">日経 xTECH Active</a>
+<li><a href="/it/ptn/?i_cid=nbpnxt_pgft_ptn">日経 xTECH パートナーズ</a>
+</ul>
+</div>
+
+<div class="footer_sitemap_list">
+<h2>専門メディア</h2>
+<ul>
+<li><a href="/media/NC/?i_cid=nbpnxt_pgft_NC">日経コンピュータ</a>
+<li><a href="/media/SYS/?i_cid=nbpnxt_pgft_SYS">日経SYSTEMS</a>
+<li><a href="/media/NNW/?i_cid=nbpnxt_pgft_NNW">日経NETWORK</a>
+<li><a href="/media/NE/?i_cid=nbpnxt_pgft_NE">日経エレクトロニクス</a>
+<li><a href="/media/Monozukuri/?i_cid=nbpnxt_pgft_Monozukuri">日経ものづくり</a>
+<li><a href="/media/AT/?i_cid=nbpnxt_pgft_AT">日経Automotive</a>
+<li><a href="/media/NA/?i_cid=nbpnxt_pgft_NA">日経アーキテクチュア</a>
+<li><a href="/media/HB/?i_cid=nbpnxt_pgft_HB">日経ホームビルダー</a>
+<li><a href="/media/NCR/?i_cid=nbpnxt_pgft_NCR">日経コンストラクション</a>
+<li><a href="/media/NCF/?i_cid=nbpnxt_pgft_NCF">日経クラウドファースト</a>
+<li><a href="/media/NFT/?i_cid=nbpnxt_pgft_NFT">日経FinTech</a>
+<li><a href="/media/NNM/?i_cid=nbpnxt_pgft_NNM">日経ニューメディア</a>
+<li><a href="/media/ROBO/?i_cid=nbpnxt_pgft_ROBO">日経Robotics</a>
+<li><a href="/kn/NFM/?i_cid=nbpnxt_pgft_nfm">日経不動産マーケット情報</a>
+<li><a href="/dm/energy/?i_cid=nbpnxt_pgft_NEN">日経エネルギーNext</a>
+<li><a href="/dm/ndh/?i_cid=nbpnxt_pgft_ndh">日経デジタルヘルス</a>
+<li><a href="/dm/sport/?i_cid=nbpnxt_pgft_sport">スポーツイノベーターズオンライン</a>
+<li><a href="/dm/mega-solar/?i_cid=nbpnxt_pgft_msolar">メガソーラービジネス</a>
+<li><a href="/it/computerworld/?i_cid=nbpnxt_pgft_computerworld">Computerworld</a>
+<li><a href="/it/ciomagazine/?i_cid=nbpnxt_pgft_ciomagazine">CIO Magazine</a>
+<li><a href="/en/?i_cid=nbpnxt_pgft_en">英語版/English</a>
+
+</ul>
+<h2>サービス</h2>
+<ul>
+<li><a href="/service/spbook/?i_cid=nbpnxt_pgft_spbook">レポート検索・生成サービス</a>
+</ul>
+</div>
+
+
+<div class="footer_sitemap_list">
+
+<h2>スキルアップ・転職</h2>
+<ul>
+<li><a href="https://tech.nikkeihr.co.jp/">日経TECHキャリア</a>
+<li><a href="https://career.nikkei.co.jp/">日経キャリアNET</a>
+<li><a href="/sp/ites/">日経ITエンジニアスクール</a>
+<li><a href="/feature/juku/?i_cid=nbpnxt_pgft_juku">技術者塾</a>
+</ul>
+
+<h2>その他</h2>
+<ul>
+<li><a href="/atcl/nxt/info/18/00001/020800003/">日経 xTECHとは</a>
+<li><a href="/atcl/nxt/info/18/00001/092600024/">編集方針</a>
+<li><a href="http://account.nikkeibp.co.jp/tos/50-svn0369.html">有料会員規約</a>
+<li><a href="http://account.nikkeibp.co.jp/tos/50-svn0368.html">登録会員規約</a>
+<li><a href="https://info.nikkeibp.co.jp/subscription/nxt/index.html">利用ガイド／料金表</a>
+<li><a href="https://support.nikkeibp.co.jp/app/answers/list/p/235">よくある質問・お問い合わせ</a>
+<li><a href="http://www.nikkeibp.co.jp/ad/">広告について</a>
+<li><a href="/atcl/nxt/info/18/00001/022300009/">RSSについて</a>
+</ul>
+</div>
+</div>
+</nav><nav class="globalFooter">
+<ul>
+<li><a href="https://www.nikkeibp.co.jp/">会社情報・お知らせ</a>
+<li><a href="https://www.nikkeibp.co.jp/atcl/corporate/copyright/">著作権・リンク</a>
+<li><a href="https://www.nikkeibp.co.jp/atcl/corporate/sec_use/">記事の二次利用</a>
+<li><a href="https://www.nikkeibp.co.jp/atcl/corporate/privacy/">個人情報の取り扱い</a>
+<li><a href="https://www.nikkeibp.co.jp/atcl/corporate/privacy/#net">データ利用</a>
+<li><a href="http://www.nikkei.com/lounge/help/">日経ＩＤ利用案内</a>
+</ul>
+</nav>
+
+<div class="footerCopyright">
+<div class="corpLogo"><a href="http://corporate.nikkeibp.co.jp/" target="_blank">日経BP社</a></div>
+
+<section class="copyright">
+<small>Copyright &copy; 2019 Nikkei Business Publications, Inc. All Rights Reserved.<br>
+このページに掲載されている記事・写真・図表などの無断転載を禁じます。掲載している情報は、記事執筆時点のものです。</small>
+</section>
+</div></footer></div><!-- wrapper -->
+
+<div id="page-top"></div>
+<div class="greyout" id="modalbg01"></div>
+
+<div id="dag_welcome_content">
+<header>
+<div class="headerBlock">
+<div class="siteLogo"><a href="/"><img src="/images/n/xtech/2018/siteLogo.png" alt="xTech" width="203" height="36"></a></div>
+<p class="skip"><a id="dag_welcome_close">広告をスキップ</a></p>
+</div>
+</header>
+<div id="welcome">
+<div id="div-gpt-ad-welcome">
+<script type="text/javascript">
+cX.callQueue.push(['invoke',function(){
+ googletag.cmd.push(function() {
+  googletag.display('div-gpt-ad-welcome');
+ });
+}]);
+</script>
+</div></div>
+</div>
+
+<script src="/js/n/common/jquery-1.xx.xx.min.js"></script>
+<script src="/js/n/xtech/2018/utils.js?181016"></script>
+<script src="/js/n/xtech/2018/common.js?181004a"></script>
+<script src="/js/n/xtech/2018/bpsso_xtech.js?20180212"></script>
+<script src="/js/n/hr/2018/slick.min.js"></script>
+<script src="/js/n/hr/2018/jquery.trackpad-scroll-emulator.min.js"></script>
+<script src="/js/n/hr/2018/hrWidget.js?181221a"></script>
+<script src="/js/n/common/changeT3path.js?%23trackReadTarget" defer></script>
+<script src="/js/n/xtech/2018/leaf.js?20180910"></script>
+<script src="/js/n/xtech/2018/comment.js"></script>
+<!-- Start TagMnager（Common） -->
+<script src="/js/bpcommon/onetag/bpTrackVarsCommon.js">
+{
+"aggregateId":"nxt_thmit_management-leaf",
+"articleId": "00009E2N",
+"articlePageTotalNo": "3",
+"authKind": "nxt-v",
+"authorName": "",
+"authResult": "false",
+"category": "nxt_COLUMN",
+"displayAuthorName": "大豆生田 崇志=日経 xTECH／日経コンピュータ",
+"pageStatus": "bparticle",
+"pageTitle": "CCCのTカード情報提供、違反ではないが「十分性」に反する",
+"parentThemeName": "IT経営",
+"parentTitle": "記者の眼",
+"publishDate": "20190215",
+"mediaId": "NXT",
+"section": "0",
+"subSite": "nxt",
+"tagName": "nxt_thm_legalsys;nxt_thm_trouble",
+"themeId": "nxt_thmit_management",
+"themeName": "IT経営",
+"tieupId": "",
+"repTieupId": "",
+}
+</script>
+<!-- End TagManager（Common） --><!-- Start TagMnager（Origin） -->
+<!-- Start javascript_global_object -->
+<script src="/js/bpcommon/onetag/bpTrackVars.js">
+{
+'channel':'NXT',
+'config.adobe.reportSuite': 'nbpnxtprod',
+'config.atlas.service': 'enable',
+'config.cx.siteId': "1131745710863129827",
+'config.fb.id': "151720335485995",
+'config.krux.siteId': "sj7c2u39a",
+'genre': 'it',
+'userStatus': 'other',
+}
+</script>
+<!-- End javascript_global_object -->
+<!-- End TagMnager（Origin） -->
+<!-- Start TagMnager（Common2） -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KCGLNBV" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End TagMnager（Common2） -->
+</body>
+</html>

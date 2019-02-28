@@ -1,0 +1,2069 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BlastFM K-Pop Music</title>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>BlastFM K-Pop Music</title>
+<meta name="description" content="BlastFM K-Pop Radio Is One Of Our Blast-Indie Radio Stations. Get Your Music Played On The Station. See Website For Details." />
+<meta name="keywords" content="" />
+<meta name="author" content="BlastFM Limited" />
+<meta name="rights" content="BlastFM Limited" />
+<meta name="robots" content="index, follow" />
+<meta name="twitter:creator" content="@BlastFM_Ltd" />
+<meta property="fb:app_id" content="240275599745015" />
+<meta property="fb:admins" content="100000624326156,100007652552490" />
+<link rel="schema.dcterms" href="http://purl.org/dc/terms/" />
+<meta name="dcterms.created" content="2016-12-11T17:34:51+00:00" />
+<meta name="dcterms.modified" content="2019-01-24T15:00:26+00:00" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://blastfmsocial.media/upload/photos/2018/05/mPKY4ngwg7mmlI1flEGH_30_5305d0107bd5d2e4578d1e6f9bea13fa_avatar.jpg?cache=0" />
+<meta property="og:image:secure_url" content="https://blastfmsocial.media/upload/photos/2018/05/mPKY4ngwg7mmlI1flEGH_30_5305d0107bd5d2e4578d1e6f9bea13fa_avatar.jpg?cache=0" />
+<meta property="og:description" content="BlastFM K-Pop Radio Is One Of Our Blast-Indie Radio Stations. Get Your Music Played On The Station. See Website For Details." />
+<meta property="og:title" content="BlastFM K-Pop Music" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="BlastFM K-Pop Music" />
+<meta name="twitter:description" content="BlastFM K-Pop Radio Is One Of Our Blast-Indie Radio Stations. Get Your Music Played On The Station. See Website For Details." />
+<meta name="twitter:image" content="https://blastfmsocial.media/upload/photos/2018/05/mPKY4ngwg7mmlI1flEGH_30_5305d0107bd5d2e4578d1e6f9bea13fa_avatar.jpg?cache=0" />
+<meta property="og:image:alt" content="BlastFM K-Pop Music Profile Image" />
+<meta property="og:image:width" content="918" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:type" content="image/jpeg" />
+<link rel="shortcut icon" type="image/png" href="https://blastfmsocial.media/themes/blastfm/img/icon.png" />
+<link rel="stylesheet" href="https://blastfmsocial.media/themes/blastfm/stylesheet/general-style-plugins.css" type="text/css" />
+
+<script type="text/javascript" src="//media.twiliocdn.com/sdk/js/video/v1/twilio-video.min.js"></script>
+<link rel="stylesheet" href="https://blastfmsocial.media/themes/blastfm/stylesheet/style.css" type="text/css" />
+<link rel="stylesheet" href="https://blastfmsocial.media/themes/blastfm/stylesheet/font-awesome-4.7.0/css/font-awesome.min.css" type="text/css" />
+
+
+<script type="text/javascript" src="https://blastfmsocial.media/themes/blastfm/javascript/jquery-3.1.1.min.js"></script>
+
+
+
+
+<link rel="stylesheet" href="https://blastfmsocial.media/themes/blastfm/player/fluidplayer.min.css" type="text/css" />
+<script type="text/javascript" src="https://blastfmsocial.media/themes/blastfm/player/fluidplayer.min.js"></script>
+<style>
+/* 
+
+Add here your custom css styles Example: p { text-align: center; color: red; } 
+
+*/</style>
+
+<script type="text/javascript">
+/* 
+Add here your JavaScript Code. 
+Note. the code entered here will be added in <head> tag 
+
+
+	Example: 
+
+	var x, y, z; 
+	x = 5; 
+	y = 6; 
+	z = x + y;
+
+*/function Wo_Ajax_Requests_File(){
+return "https://blastfmsocial.media/requests.php"
+}
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124305929-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-124305929-1');
+</script>
+<style>
+@font-face {
+    font-family: OpenSansLight;
+    src: url("https://blastfmsocial.media/themes/blastfm/fonts/OpenSansLight/OpenSansLight.woff") format("woff");
+    font-weight: normal;
+}
+@font-face {
+    font-family: OpenSansRegular;
+    src: url("https://blastfmsocial.media/themes/blastfm/fonts/OpenSansRegular/OpenSansRegular.woff") format("woff");
+    font-weight: normal;
+}
+@font-face {
+    font-family: OpenSansSemiBold;
+    src: url("https://blastfmsocial.media/themes/blastfm/fonts/OpenSansSemiBold/OpenSansSemiBold.woff") format("woff");
+    font-weight: normal;
+}
+@font-face {
+    font-family: OpenSansBold;
+    src: url("https://blastfmsocial.media/themes/blastfm/fonts/OpenSansBold/OpenSansBold.woff") format("woff");
+    font-weight: normal;
+}
+.navbar-default {
+    background: #444444; border: none;
+    height:45px;
+}
+.round-check input[type="checkbox"]:checked + label:before {
+    background: #a84849 !important;
+}
+.group-messages-wrapper a{
+    color: #a84849 !important;
+}
+ul.profile-completion-bar li.completion-bar div.completion-bar-status {
+    background: #a84849 !important;
+}
+.featured-users{
+    background: #fff !important;
+}
+.result-bar {
+    background: #a84849 !important;
+}
+.featured-users .sidebar-title-back, .featured-users .pro-me-here a {
+    color: #444 !important;
+}
+
+.avtive {
+    border-color: #a84849 !important;
+}
+.loader {
+  background-color: transparent !important;
+}
+.loader:before {
+    background-color: #8dd9ff;
+}
+.left-sidebar ul li a i {
+    color: #a84849 !important;
+}
+.cs-loader-inner, .main  {
+    color: #a84849;
+}
+.login input:focus, ul.profile-completion-bar li.completion-bar div.completion-bar-wrapper {
+    border-color: #a84849 !important;
+}
+.login:not(.loading) button:hover {
+    background: #c45a5b !important;
+    color: #ffffff;
+}
+.wo_setting_sidebar ul .list-group-item{
+    background: #a84849 !important;
+}
+.wo_setting_sidebar ul .list-group-item a{
+    color: #ffffff;
+}
+.wo_settings_page .setting-panel input[type=text]:focus, .wo_settings_page .setting-panel input[type=email]:focus, .wo_settings_page .setting-panel input[type=password]:focus, .wo_settings_page .setting-panel select:focus, .wo_settings_page .setting-panel textarea:focus {
+    border-color: #03A9F4;
+}
+
+#search-nearby-users .nearby-users-relationship-collapse li.active .friends_toggle{
+    border-color: #a84849;
+}
+#search-nearby-users .nearby-users-relationship-collapse li.active .friends_toggle:after{
+    background: #a84849;
+}
+.my_pages_header ul li.active a{
+    color: #a84849;
+    border-color: #a84849;
+}
+.login button, .postCategory h5, .wo_search_page .nav-tabs li.active a {
+    background: #a84849 !important;
+    color: #ffffff !important;
+}
+.main-blog-sidebar .popular-categories li, #category-page .popular-categories li.active{ 
+    background-color: #a84849;
+}
+.main-blog-sidebar .popular-categories li a, #category-page .popular-categories li.active a{
+    color: #ffffff;
+}
+.mejs-controls .mejs-time-rail .mejs-time-current, .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current, .mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current {
+    background-color: #a84849 !important;
+    background: #a84849 !important;
+    background-image: #a84849 !important;
+}
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: #ffffff !important;
+    background-color: #333333 !important;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover, .nav-names li:hover {
+    color: #ffffff !important;
+    background-color: #333333 !important;
+}
+body {
+    background-color: #f9f9f9;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+    font-size: 13px;
+}
+a.unread-update {
+    color: #ffffff !important;
+}
+.btn-main {
+    color: #ffffff;
+    background-color: #a84849;
+    border-color: #a84849;
+}
+.btn-main:hover {
+    color: #ffffff;
+    background-color: #c45a5b;
+    border-color: #c45a5b;
+}
+.active-wonder {
+    color: #a84849;
+}
+.admin-panel .col-md-9 .list-group-item:first-child, .setting-panel .col-md-8 .list-group-item:first-child, .profile-lists .list-group-item:first-child, .col-md-8 .list-group-item:first-child, .col-md-3.custom .list-group-item:first-child, .col-sm-4 .list-group-item:first-child, .col-md-7 .list-group-item:first-child, .col-md-9 .list-group-item:first-child, .red-list .list-group-item:first-child, .active.list-group-item:first-child {
+     color: #444;
+     background-color: #fcfcfc;
+     border-bottom: 1px solid #f1f1f1;
+     padding: 18px;
+}
+.admin-panel .col-md-9 .list-group-item:first-child a, .setting-panel .col-md-8 .list-group-item:first-child a, .profile-lists .list-group-item:first-child a, .col-md-8 .list-group-item:first-child a, .col-md-7 .list-group-item:first-child a, .active.list-group-item:first-child a {
+    color: #444 !important;
+}
+.list-group-item.black-list.active-list, .red-list.active-list {
+    color: #ffffff;
+    background-color: #a84849;
+}
+.list-group-item.black-list {
+    background: #a84849;
+}
+.profile-top-line {
+    background-color: #a84849;
+}
+#bar {
+    background-color: #a84849;
+}
+.list-group-item.black-list a{
+    color: #ffffff;
+}
+.list-group-item.black-list.active-list a{
+    color: #a84849;
+}
+.main-color, .small-text a {
+    color: #a84849 !important;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #ffffff;
+    cursor: default;
+    color: #a84849;
+    border-bottom: 1px solid #a84849;
+    background-color: transparent
+}
+.btn-active {
+    color: #ffffff;
+    background: #a84849;
+    outline: none;
+    border: 1px solid #a84849}
+.btn-active:hover, .btn-active:focus {
+    border: 1px solid #c45a5b;
+    color: #ffffff;
+    background: #c45a5b;
+}
+.btn-active-color:hover {
+    background: #c45a5b;
+}
+.chat-tab .online-toggle {
+    background: #a84849;
+}
+.profile-style .user-follow-button button.btn-active, .btn-login, .btn-register {
+    background: #a84849;
+    color: #ffffff;
+}
+.profile-style .user-follow-button button.btn-active:hover, .btn-login:hover, .btn-login:focus, .btn-register:hover, .btn-register:focus {
+    color: #ffffff;
+    background: #c45a5b;
+}
+.panel-login>.panel-heading a.active {
+    color: #a84849;
+    font-size: 18px;
+}
+.hash {
+    color: #a84849;
+}
+.message-text .hash {
+    color: #fff !important;
+}
+.search-container .search-input {
+    color: #ffffff !important;
+    background: #888888 !important;
+}
+.chat-messages-wrapper .outgoing {
+    background: #fff9f9;
+}
+.normal-container {
+    width: 100%;
+    height: 100%;
+    margin-top: 15px;
+}
+.active.fa-thumbs-up {
+    color: #a84849;
+}
+.api-ex-urls {
+    background-color: #a84849; color: #ffffff;
+}
+.user-username {
+    color: #a84849;
+}
+.upload-image {
+    border: 3px dashed #a84849;
+}
+.events-tab-list li { background-color: #a84849; }
+.events-tab-list li:hover { background-color: #a84849; }
+.active-e-tab { background-color: #a84849 !important; }
+.main { color: #a84849 !important; }
+.events-list-dropup-menu ul li a:hover { background: #a84849; }
+.usr-offline { color: #a84849; }
+.blog-dd-ul li span:hover, .blog-dd-ul li a:hover { background: #a84849 !important; }
+.blog_publ {background: #a84849 ; border: 1px solid #a84849 ; }
+.ads-navbar-wrapper {
+    background-color: #a84849 !important;
+}
+.slide-film-desc:hover, .movies-top-breadcrumb li:hover, .movies-top-breadcrumb li a:hover{
+    color: #a84849 !important;
+}
+.movies h3.latest-movies, h3.recommended-movies {
+    border-left: 3px solid  #a84849;
+}
+
+.wo_user_profile .user-bottom-nav li .menuactive {
+    border-bottom: 2px solid #a84849;
+    color:#a84849;
+}
+.ads-navbar-wrapper ul li a.active {
+     background-color: #c45a5b !important;
+}
+
+
+
+#welcomeheader .mdbtn:hover{background-color: #ffffff;color: #444444;border-color: #ffffff;}
+
+.post .panel.active_shadow {
+    box-shadow: 0 0 0 1.5px #a84849 !important;
+}
+
+.ui-widget-header .ui-state-default, .wo_adv_search_filter_side .ui-slider .ui-slider-range, .wo_adv_search_filter_side .ui-slider .ui-slider-handle {
+    background-color: #a84849;
+}
+
+.reaction-like::before {
+    content: "Like";
+}
+.reaction-love::before {
+    content: "Love";
+}
+.reaction-haha::before {
+    content: "HaHa";
+}
+.reaction-wow::before {
+    content: "WoW";
+}
+.reaction-sad::before {
+    content: "Sad";
+}
+.reaction-angry::before {
+    content: "Angry";
+}
+
+.navbar-default .dropdown-menu.ani-acc-menu >li>a:hover {
+    color: #ffffff;background-color: #a84849;
+}
+
+@media (min-width: 992px){
+#wo_msg_right_prt .text-sender-container .outgoing .message-model .message p {
+    color: #ffffff;background-color: #a84849;
+}
+#wo_nw_msg_page .wo_msg_tabs, #wo_nw_msg_page .messages-users-list {
+    color: #ffffff;
+    background: #444444;
+}
+#wo_nw_msg_page .wo_msg_tabs a {
+    color: #ffffff;
+}
+#wo_nw_msg_page .wo_msg_tabs .active a {
+    color: #a84849;
+}
+#wo_nw_msg_page .messages-recipients-list .msg_ava_name {
+    color: #ffffff !important;
+}
+#wo_nw_msg_page .messages-recipients-list.active .msg_ava_name {
+    color: #333 !important;
+}
+}
+</style>
+
+</head>
+
+<body >
+<div id="focus-overlay"></div>
+<input type="hidden" class="seen_stories_users_ids" value="">
+<input type="hidden" class="main_session" value="fb7bb70ac8c6c337a9bf">
+<header class="header-container">
+<div class="navbar navbar-default navbar-fixed-top">
+  <nav class="header-fixed1000">
+    <div class="container-fluid">
+      <a class="brand header-brand" href="https://blastfmsocial.media">
+        <img width="130" src="https://blastfmsocial.media/themes/blastfm/img/logo.png" alt="BlastFM Social Media Logo"/>
+      </a>
+        <ul class="nav navbar-nav">
+          <li class="dropdown search-container">
+            <form class="navbar-form navbar-left col-lg-12 form-group" data-toggle="dropdown" role="button" id="navbar-searchbox" role="search">
+              <div class="form-group inner-addon left-addon ">
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather main-color feather-search glyphicon"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                <input type="text" class="form-control search-input" onkeyup="Wo_DetectSearchType(this.value), document.getElementById('wo_repeat_search').innerHTML = escapeHtml(this.value)" placeholder="Search for people, pages, groups and #hashtags" dir="auto" >
+              </div>
+            </form>
+            <ul class="dropdown-menu search-dropdown-container" style="margin-left:7px;" role="menu">
+              <div class="search-dropdown-result">
+                              </div>
+              <li>
+                <span class="search-advanced-container">
+                  <a href="https://blastfmsocial.media/search" class="search-advanced-link" data-ajax="?link1=search">
+                    <div class="feather-svg-parent">
+						<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+					</div>
+					<span style="vertical-align: middle;display: table-cell;padding-left: 10px;">
+						Advanced Search 
+						<span id="wo_repeat_search"></span>
+					</span>
+                  </a>
+                </span>
+              </li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right pull-right">
+   <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+      <i class="fa fa-user"></i> Guest 
+      <span class="caret"></span>
+      </a>
+      <ul class="dropdown-menu" role="menu">
+         <li>
+            <a href="https://blastfmsocial.media/welcome/?last_url=https://blastfmsocial.media%2FBlastFMKpop">
+            Login            </a>
+         </li>
+         <li>
+            <a href="https://blastfmsocial.media/welcome/?last_url=https://blastfmsocial.media%2FBlastFMKpop">
+            Register            </a>
+         </li>
+         <li>
+            <a href="?mode=night">
+               Night mode            </a>
+         </li>
+      </ul>
+   </li>
+</ul>      </div>
+    </div>
+  </nav>
+</div>
+<div class="loader"></div>
+<script type="text/javascript">
+
+jQuery(document).ready(function($) {
+  $(".search-input").keydown(function(event) {
+    if (event.keyCode == 13 && event.shiftKey == 0) {
+      event.preventDefault();
+      window.location = 'https://blastfmsocial.media/search?query=' + $(this).val();
+    }
+  });
+});
+var Searchcontainer = $('.search-container');
+var SearchBox = $('.search-container .search-input');
+var SearchResult = $('.search-dropdown-result');
+
+function Wo_ChangeHomeButtonIcon() {
+
+  $('.navbar-home #home-button').html('<i class="fa fa-circle-o-notch fa-spin"></i>');
+}
+  
+function Wo_DetectSearchType(query) {
+  var Hash = smokeTheHash(query);
+  if (Hash) {
+    $('.search-advanced-container').hide(200);
+    Wo_SearchhashResult(query);
+  } else {
+    $('.search-advanced-container').fadeIn(200);
+    Wo_SearchResult(query);
+  }
+}
+
+function Wo_ClearSearches() {
+  $('.clear-searches').html('<i class="fa fa-spinner fa-spin"></i>');
+   $.get(Wo_Ajax_Requests_File(), {f: 'clearChat'}, function(data) {
+        if (data.status == 200) {
+           location.reload();
+        }
+   });
+}
+
+function Wo_GetRecentSearchs() {
+  $.get(Wo_Ajax_Requests_File(), {f: 'search', s: 'recent'}, function(data) {
+      if (data.status == 200) {
+          if (data.html.length > 0) {
+            SearchResult.html('<div class="recent"><div class="gray recent-searches pull-left"> Recent Searches</div><div onclick="Wo_ClearSearches();" class="gray recent-searches clear-searches pointer pull-right" style="color: #F44336;"><svg style="vertical-align: middle;margin-top: -3px;" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>Clear</div><div class="clear"></div></div>' + data.html);
+          }
+        }
+  });
+}
+function Wo_SearchResult(query) {
+    if (SearchBox.val() != '') {
+      Wo_progressIconLoader(Searchcontainer.find('.navbar-form'));
+      Searchcontainer.addClass('open');
+      Searchcontainer.find('.search-advanced-link').attr('href','https://blastfmsocial.media/search/' + query);
+      Searchcontainer.find('.search-advanced-link').attr('data-ajax','?link1=search&query=' + query);
+      $.get(Wo_Ajax_Requests_File(), {f: 'search', s: 'normal', query: query}, function(data) {
+        if (data.status == 200) {
+          if (data.html.length == 0) {
+            SearchResult.html('<span class="center-text">' + " No result found" + '<span>');
+          } else {
+            SearchResult.html(data.html);
+          }
+        }
+        Wo_progressIconLoader(Searchcontainer.find('.navbar-form'));
+      });
+      $(document).click(function() {
+        Searchcontainer.removeClass('open');
+      });
+    } else {
+      Searchcontainer.removeClass('open');
+    }
+}
+
+
+function Wo_SearchhashResult(query) {
+    var Searchcontainer = $('.search-container');
+    var SearchBox = $('.search-container .search-input');
+    var SearchResult = $('.search-dropdown-result');
+    if (SearchBox.val() != '') {
+      Wo_progressIconLoader(Searchcontainer.find('.navbar-form'));
+      Searchcontainer.addClass('open');
+      Searchcontainer.find('.search-advanced-link').attr('href','https://blastfmsocial.media/search/' + query);
+      Searchcontainer.find('.search-advanced-link').attr('data-ajax','?link1=search&query=' + query);
+      $.get(Wo_Ajax_Requests_File(), {f: 'search', s: 'hash', query: query}, function(data) {
+        if (data.status == 200) {
+          if (data.html.length == 0) {
+            SearchResult.html('<span class="center-text">' + " No result found" + '<span>');
+          } else {
+            SearchResult.html(data.html);
+          }
+        }
+        Wo_progressIconLoader(Searchcontainer.find('.navbar-form'));
+      });
+
+      $(document).click(function() {
+        Searchcontainer.removeClass('open');
+      });
+    } else {
+      Searchcontainer.removeClass('open');
+    }
+}
+
+function smokeTheHash(str) {
+  var n = str.search("#");
+  if(n != "-1"){
+    return true;
+  } else {
+    return false;
+  }
+}
+</script></header>
+<div class="content-container container" style="margin-top:25px;">
+<div class="ad-placement-header-footer">
+</div>
+<div id="contnet"><div class="row page-margin profile" data-page="timeline" data-id="259">
+   <div class="profile-container">
+      <div class="profile-top-line"></div>
+      <div class="card hovercard">
+         <div class="cardheader user-cover">
+                        <div class="user-cover-uploading-container"></div>
+            <div class="user-cover-uploading-progress">
+               <i class="fa fa-spinner fa-spin progress-icon" data-icon="spin"></i>
+            </div>
+            <div class="user-cover-reposition-container">
+               <div class="user-cover-reposition-w">
+                  <img id="cover-image" src="https://blastfmsocial.media/upload/photos/2018/05/CJVNfF7NjfktWA7VWN5r_30_57b979d737a83fab141638c5bc953902_cover.jpg?cache=0" alt="BlastFM K-Pop Music Cover Image" onclick="Wo_OpenProfileCover('upload/photos/2018/05/CJVNfF7NjfktWA7VWN5r_30_57b979d737a83fab141638c5bc953902_cover.jpg');" class="pointer"/>
+               </div>
+               <div class="user-reposition-container">
+                  <img id="full-image" src="https://blastfmsocial.media/upload/photos/2018/05/CJVNfF7NjfktWA7VWN5r_30_57b979d737a83fab141638c5bc953902_cover_full.jpg" alt="User Image">
+                  <div class="user-reposition-dragable-container" align="center"><i class="fa fa-bars"></i>
+                     Drag to reposition cover                  </div>
+                  <div class="user-cover-uploading-container user-repositioning-icons-container1"></div>
+                  <div class="user-cover-uploading-progress user-repositioning-icons-container"></div>
+               </div>
+            </div>
+         </div>
+         <div class="user-avatar flip">
+            <div class="user-avatar-uploading-container">
+               <div class="user-avatar-uploading-progress">
+                  <i class="fa fa-spinner fa-spin fa-spin progress-icon" data-icon="spin"></i>
+               </div>
+            </div>
+            <img id="updateImage-259" class="pointer" alt="BlastFM K-Pop Music Profile Picture" src="https://blastfmsocial.media/upload/photos/2018/05/mPKY4ngwg7mmlI1flEGH_30_5305d0107bd5d2e4578d1e6f9bea13fa_avatar.jpg?cache=0" onclick="Wo_OpenProfilePicture('upload/photos/2018/05/mPKY4ngwg7mmlI1flEGH_30_5305d0107bd5d2e4578d1e6f9bea13fa_avatar.jpg');" />
+                     </div>
+         <div class="text-shadow"></div>
+         <div class="info">
+            <div class="title">
+               <a href="https://blastfmsocial.media/BlastFMKpop" data-ajax="?link1=timeline&u=BlastFMKpop">
+               BlastFM K-Pop Music               </a>
+                              <i class="fa fa-check-circle verified-color" data-toggle="tooltip" title="Verified User"></i>
+                           </div>
+            <div class="options-buttons pull-left ">
+               <span class="profile-message-btn">
+                              </span>
+               <span class="user-follow-button">
+                              </span>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="col-md-8">
+            <div style="text-align:center;padding:10px;" class="list-group profile-lists">
+         <div class="radio-info">
+            <p style="text-align:center;color:#A84849;font-size:1.0em;line-height:110%;"><span style="color:#723232;font-weight:bold;">Station - </span>
+BlastFM K-Pop Radio<br />
+               <span style="color:#723232;font-weight:bold;">Description - </span>BlastFM K-Pop HD Radio @256kbps<br />
+               <span style="color:#723232;font-weight:bold;">Genre(s) - </span>K-Pop            </p>
+         </div>
+         <iframe style="width:500px;height:230px;border-radius:5px;clear:right;" scrolling="no" src="stations/
+blastfm_k-pop_radio.html"></iframe>
+                  <br /><span style="color:#723232;font-weight:bold;">License(s)</span><br />
+         <img src="/images/pronet.png" width="100" alt="
+BlastFM K-Pop Radio" title="PRONET Licensed Radio Station"; /><br />
+         <a href="http://directory.pronetlicensing.com/?action=verify&sid=3734" target="_Blank"><img src="http://directory.pronetlicensing.com/images/pronetlicensing-badge.png" border="0"></a>               </div>
+                        <div class="posts_load">
+         <div class="white-loading list-group">
+            <div class="cs-loader">
+               <div class="cs-loader-inner">
+                  <label> â</label>
+                  <label> â</label>
+                  <label> â</label>
+                  <label> â</label>
+                  <label> â</label>
+                  <label> â</label>
+               </div>
+            </div>
+         </div>
+      </div>
+            <div id="load-more-filter">
+         <span class="filter-by-more hidden" data-filter-by="all"></span>
+      </div>
+   </div>
+   <div class="col-md-4">
+      <ul class="list-group">
+         <li class="list-group-item text-muted" contenteditable="false">
+            <i class="fa fa-list fa-fw"></i> Details         </li>
+                           <li class="list-group-item">
+            <strong><i class="fa fa-pencil-square-o fa-fw"></i></strong>
+            17 posts         </li>
+         <li class="list-group-item" style="padding-top:0; padding-bottom:0;">
+            <hr>
+         </li>
+         <li class="list-group-item">
+            <strong><i class="fa fa-transgender fa-fw"></i></strong>
+            Male         </li>
+                  <li class="list-group-item">
+            <strong><i class="fa fa-calendar fa-fw"></i></strong>
+            1/10/2018         </li>
+                           <li class="list-group-item">
+                        <strong><i class="fa fa-heart fa-fw"></i></strong>
+            Single         </li>
+         <li class="list-group-item" style="padding-top:0; padding-bottom:0;">
+            <hr>
+         </li>
+                           <li class="list-group-item">
+            <strong><i class="fa fa-briefcase fa-fw"></i></strong>
+            <span>Working at <a href="http://blastfmsocial.media" target="_blank" rel="nofollow">BlastFM Limited</a> </span>
+         </li>
+                                    <li class="list-group-item">
+            <strong><i class="fa fa-globe fa-fw"></i></strong>
+            Living in            United Kingdom         </li>
+                           <li class="list-group-item">
+            <strong><i class="fa fa-map-marker fa-fw"></i></strong>
+            <span>Located in london</span>
+                        <iframe width="100%" frameborder="0" style="border:0;margin-top: 10px;" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBOfpaMO_tMMsuvS2T4zx4llbtsFqMuT9Y&q=london&language=en"></iframe>
+                     </li>
+                                          </ul>
+            <ul class="list-group">
+         <li class="list-group-item text-muted" contenteditable="false"><i class="fa fa-globe fa-fw"></i> Website</li>
+         <li class="list-group-item text-left">
+            <i class="fa fa-link"></i>
+            <a href="https://blastfmk-pop.com" target="_blank">
+            https://blastfmk-pop.com            </a>
+         </li>
+      </ul>
+                  <ul class="list-group">
+         <li class="list-group-item text-muted" contenteditable="false"><i class="fa fa-info fa-fw"></i> About</li>
+         <li class="list-group-item text-left">
+            BlastFM K-Pop Radio Is One Of Our Blast-Indie Radio Stations. Get Your Music Played On The Station. See Website For Details.         </li>
+      </ul>
+                  <ul class="list-group">
+         <li class="list-group-item text-muted" contenteditable="false">
+            <i class="fa fa-share-alt fa-fw"></i> Social Links         </li>
+         <li class="list-group-item text-center">
+            <div class="bottom">
+                              <a class="btn social-btn btn-twitter" href="https://twitter.com/BlastFMKPop" target="_blank">
+               <i class="fa fa-twitter"></i>
+               </a>
+                              <a class="btn social-btn btn-facebook" rel="publisher" href="https://www.facebook.com/BlastFMKpop" target="_blank">
+               <i class="fa fa-facebook"></i>
+               </a>
+                                                         </div>
+         </li>
+      </ul>
+            <ul class="list-group" id="sidebar-following-list-container">
+	<li class="list-group-item text-muted hidden" contenteditable="false">More info</li>
+	<li class="list-group-item text-muted widget-heading" contenteditable="false">
+		<span onclick="Wo_GetFollowing(259);" class="pull-right refresh">
+			<i class="fa fa-refresh progress-icon" data-icon="refresh"></i>
+		</span>
+		<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-user-plus" style="background:#009da0;"><path d="M16 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="8.5" cy="7" r="4"></circle><line x1="20" y1="8" x2="20" y2="14"></line><line x1="23" y1="11" x2="17" y2="11"></line></svg>
+		<a href="https://blastfmsocial.media/BlastFMKpop/following" data-ajax="?link1=timeline&u=BlastFMKpop&type=following" class="pointer">
+         Following</a>
+		 <h5>185</h5>
+	</li>
+	<li>
+		<div class="sidebar-following-users-container">
+            <div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/chrisbirkett" data-ajax="?link1=timeline&u=chrisbirkett">
+            <img src="https://blastfmsocial.media/upload/photos/2019/02/3bC2LOYBkxQfkbikakNV_18_f36039ab18325a085c13d7bc136b00f8_avatar.jpg?cache=0">
+            <div class="sidebar-listed-user-name">Chris Birk</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/kritikal1" data-ajax="?link1=timeline&u=kritikal1">
+            <img src="https://blastfmsocial.media/upload/photos/2019/02/bcuMPiM19QuudTjtO7US_17_daf30c1c4bcf1c6e07f309b10bb122a5_avatar.jpg?cache=0">
+            <div class="sidebar-listed-user-name">Keno Thoma</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/venom77" data-ajax="?link1=timeline&u=venom77">
+            <img src="https://blastfmsocial.media/upload/photos/2019/02/q82myYEQZbtEDkCNyvZb_13_14a5ef5651bd2e4a0e8e35096581ee13_avatar.jpg?cache=0">
+            <div class="sidebar-listed-user-name">STUART BIS</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/Scanwell" data-ajax="?link1=timeline&u=Scanwell">
+            <img src="https://blastfmsocial.media/upload/photos/d-avatar.jpg?cache=0">
+            <div class="sidebar-listed-user-name">Susanne Ca</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/Victororlando" data-ajax="?link1=timeline&u=Victororlando">
+            <img src="https://blastfmsocial.media/upload/photos/2019/02/VvZYwansNzWuezOM3Pwt_08_92cfc50803e71b525d6b2d68ce7302b3_avatar.jpeg?cache=0">
+            <div class="sidebar-listed-user-name">Victor Orl</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/Colleenelwood" data-ajax="?link1=timeline&u=Colleenelwood">
+            <img src="https://blastfmsocial.media/upload/photos/2019/02/rvnh5do8lb26dZBzYcG6_04_3d7493f423589a1a6cae2de3797ba9dd_avatar.jpeg?cache=0">
+            <div class="sidebar-listed-user-name">Colleen El</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/TheAxisOnLine" data-ajax="?link1=timeline&u=TheAxisOnLine">
+            <img src="https://blastfmsocial.media/upload/photos/2019/02/ssTLkT4wLbGegR6FfbqA_04_130c42d8e4d5f6882801588ffc2a2e31_avatar.png?cache=1549279360">
+            <div class="sidebar-listed-user-name">The Axis O</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/Karengagel" data-ajax="?link1=timeline&u=Karengagel">
+            <img src="https://blastfmsocial.media/upload/photos/2019/01/FZktyscv53KWZwStvHGK_24_c4e0fa0c644cc0d24f0c68001cd08fc2_avatar.jpg?cache=0">
+            <div class="sidebar-listed-user-name">Karengagel</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/writerofsongs40" data-ajax="?link1=timeline&u=writerofsongs40">
+            <img src="https://blastfmsocial.media/upload/photos/2019/01/mbVxXzTZdobvEM1W4Uzz_24_a87b69578a7b7db7cd2de31d88f8cd89_avatar.jpg?cache=0">
+            <div class="sidebar-listed-user-name">Michael Cr</div>
+         </a>
+   </div>
+</div>		</div>
+	</li>
+	<li><div class="clear"></div></li>
+</ul>
+<ul class="list-group" id="sidebar-followers-list-container">
+	<li class="list-group-item text-muted hidden" contenteditable="false">More info</li>
+	<li class="list-group-item text-muted widget-heading" contenteditable="false">
+		<span onclick="Wo_GetFollowers(259);" class="pull-right refresh">
+			<i class="fa fa-refresh progress-icon" data-icon="refresh"></i>
+		</span>
+		<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-users" style="background:#8d73cc;"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg>
+		<a href="https://blastfmsocial.media/BlastFMKpop/followers" data-ajax="?link1=timeline&u=BlastFMKpop&type=followers">
+         Followers</a>
+		 <h5>446</h5>
+	</li>
+	<li>
+		<div class="sidebar-followers-users-container">
+            <div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/kritikal1" data-ajax="?link1=timeline&u=kritikal1">
+            <img src="https://blastfmsocial.media/upload/photos/2019/02/bcuMPiM19QuudTjtO7US_17_daf30c1c4bcf1c6e07f309b10bb122a5_avatar.jpg?cache=0">
+            <div class="sidebar-listed-user-name">Keno Thoma</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/TheAxisOnLine" data-ajax="?link1=timeline&u=TheAxisOnLine">
+            <img src="https://blastfmsocial.media/upload/photos/2019/02/ssTLkT4wLbGegR6FfbqA_04_130c42d8e4d5f6882801588ffc2a2e31_avatar.png?cache=1549279360">
+            <div class="sidebar-listed-user-name">The Axis O</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/Danhila" data-ajax="?link1=timeline&u=Danhila">
+            <img src="https://blastfmsocial.media/upload/photos/2018/12/oqfLJNOMsvGCzpBI5GWN_19_79d1af7b71d75e6c8965d1a6bfebe93c_avatar.png?cache=1545250183">
+            <div class="sidebar-listed-user-name">Danhila</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/Did33" data-ajax="?link1=timeline&u=Did33">
+            <img src="https://blastfmsocial.media/upload/photos/2018/12/qHmcBuQZDWXdu6ofdXP2_19_7d99764462db12c153663fae3cbb568e_avatar.JPG?cache=0">
+            <div class="sidebar-listed-user-name">Fougere Di</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/heben" data-ajax="?link1=timeline&u=heben">
+            <img src="https://blastfmsocial.media/upload/photos/d-avatar.jpg?cache=0">
+            <div class="sidebar-listed-user-name">heben</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/TommyPhelps" data-ajax="?link1=timeline&u=TommyPhelps">
+            <img src="https://blastfmsocial.media/upload/photos/2018/12/k4hI4GUcvIEw5nZzNKbC_17_178a5657347716a70e257a2dcf3181ca_avatar.jpg?cache=0">
+            <div class="sidebar-listed-user-name">Tommy Phel</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/hulda21_394" data-ajax="?link1=timeline&u=hulda21_394">
+            <img src="https://blastfmsocial.media/upload/photos/2018/12/lTqaTwQqXioZxKgckuat_url_image.jpg?cache=0">
+            <div class="sidebar-listed-user-name">Barrett Tu</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/timeline&u=larry.harvey_375" data-ajax="?link1=timeline&u=larry.harvey_375">
+            <img src="https://blastfmsocial.media/upload/photos/2018/12/Vm8pYygQyMzTFA1dLEaJ_url_image.jpg?cache=0">
+            <div class="sidebar-listed-user-name">Jameson Bo</div>
+         </a>
+   </div>
+</div><div class="sidebar-user-data">
+   <div class="sidebar-listed-user-avatar">
+         <a href="https://blastfmsocial.media/robin36_366" data-ajax="?link1=timeline&u=robin36_366">
+            <img src="https://blastfmsocial.media/upload/photos/2018/12/X6MCc8yYGqtqnrYsiKoP_url_image.jpg?cache=0">
+            <div class="sidebar-listed-user-name">Felton Pre</div>
+         </a>
+   </div>
+</div>		</div>
+	</li>
+	<li><div class="clear"></div></li>
+</ul>
+<ul class="list-group" id="sidebar-pages-list-container">
+	<li class="list-group-item text-muted hidden" contenteditable="false">More info</li>
+	<li class="list-group-item text-muted widget-heading" contenteditable="false">
+		<span onclick="Wo_GetLikes(259);" class="pull-right refresh">
+			<i class="fa fa-refresh progress-icon" data-icon="refresh"></i>
+		</span>
+		<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-thumbs-up" style="background:#f79f58;"><path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path></svg>
+		<a href="https://blastfmsocial.media/BlastFMKpop/likes" data-ajax="?link1=timeline&u=BlastFMKpop&type=likes">Likes</a>
+		<h5>5</h5>
+	</li>
+	<li>
+		<div class="sidebar-likes-container">
+			<div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/BlastFMTV" data-ajax="?link1=timeline&u=BlastFMTV" data-toggle="tooltip" title = "BlastFMTV">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2017/10/fu6EBPP5hwaGQLRTcuKY_01_09b458eeb88ddd5aa1cf74582b1c9164_avatar.png">
+      </div>
+      <div class="sidebar-listed-user-name">BlastFMTV</div>
+   </a>
+</div><div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/blastfmltd" data-ajax="?link1=timeline&u=blastfmltd" data-toggle="tooltip" title = "BlastFM Ltd">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2016/12/RMFCNfcQn5YTjCNOKjTN_23_a449e9712270920d0760ad5c6df67e4c_avatar.png">
+      </div>
+      <div class="sidebar-listed-user-name">BlastFM Lt</div>
+   </a>
+</div><div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/JMediaFMRadio" data-ajax="?link1=timeline&u=JMediaFMRadio" data-toggle="tooltip" title = "JMediaFM Radio -The Powerstation">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2016/12/8zziQqMV4lM9BzX2MsJm_22_a77fa25fd67f9538957a08e5eef74919_avatar.jpg">
+      </div>
+      <div class="sidebar-listed-user-name">JMediaFM R</div>
+   </a>
+</div><div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/BlastFMRadio" data-ajax="?link1=timeline&u=BlastFMRadio" data-toggle="tooltip" title = "BlastFM Internet Radio Station">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2016/12/aab9kjQqcpedntZSseus_29_d0459ffcfdb2de1981f62e32635650fd_avatar.png">
+      </div>
+      <div class="sidebar-listed-user-name">BlastFM In</div>
+   </a>
+</div><div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/BlastFMInternetRadioStations" data-ajax="?link1=timeline&u=BlastFMInternetRadioStations" data-toggle="tooltip" title = "BlastFM Internet Radio Stations">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2016/12/oZGxCV3LTCngqbhvhCFY_19_d02a8f1dd0bfa7a3f7f52b955ea1750a_avatar.png">
+      </div>
+      <div class="sidebar-listed-user-name">BlastFM In</div>
+   </a>
+</div>		</div>
+	</li>
+	<li><div class="clear"></div></li>
+</ul><ul class="list-group" id="sidebar-pages-list-container">
+	<li class="list-group-item text-muted hidden" contenteditable="false">More info</li>
+	<li class="list-group-item text-muted widget-heading" contenteditable="false">
+		<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-grid" style="background:#03A9F4;"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+		<a href="https://blastfmsocial.media/BlastFMKpop/groups" data-ajax="?link1=timeline&u=BlastFMKpop&type=groups">Groups</a>
+		<h5>5</h5>
+	</li>
+	<li>
+		<div class="sidebar-groups-container">
+			<div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/SpotlightOnIndieArtist2" data-ajax="?link1=timeline&u=SpotlightOnIndieArtist2">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2016/12/uqRSLv1D1yt6R7VlxToq_26_031652ca221a0aa684cacc56d073c20b_avatar.jpg">
+      </div>
+      <div class="sidebar-listed-user-name">Spot Light</div>
+   </a>
+</div><div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/BlastFM" data-ajax="?link1=timeline&u=BlastFM">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2016/12/mXnLEN4SaC6ERidNZ2Dd_12_d0c60dbd9021f23551ec76ae78ea3ab8_avatar.png">
+      </div>
+      <div class="sidebar-listed-user-name">BlastFM</div>
+   </a>
+</div><div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/musicartists" data-ajax="?link1=timeline&u=musicartists">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2018/10/QCaWcdXl3K6PjCcR9sjF_20_bd561f10421959decd22dc03ad6bb5e7_avatar.png">
+      </div>
+      <div class="sidebar-listed-user-name">Music Arti</div>
+   </a>
+</div><div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/SoftwareDevelopment" data-ajax="?link1=timeline&u=SoftwareDevelopment">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2016/12/q1VpDzfwxDorPqRivXNq_19_fb6482b7daee079ce0ae71babdf66e1f_avatar.jpg">
+      </div>
+      <div class="sidebar-listed-user-name">Software D</div>
+   </a>
+</div><div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/WebHostingServices" data-ajax="?link1=timeline&u=WebHostingServices">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2016/12/PziNG91XvOIvaJgKTTVA_19_4fe9a28149715d7a53765023040f9363_avatar.jpg">
+      </div>
+      <div class="sidebar-listed-user-name">Web Hostin</div>
+   </a>
+</div>		</div>
+	</li>
+	<li><div class="clear"></div></li>
+</ul><ul class="list-group" id="sidebar-albums-list-container">
+	<li class="list-group-item text-muted hidden" contenteditable="false">Albums</li>
+	<li class="list-group-item text-muted widget-heading" contenteditable="false">
+		<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-image" style="background:#8bc34a;"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg>
+		<a href="https://blastfmsocial.media/albums/BlastFMKpop" data-ajax="?link1=albums&user=BlastFMKpop">Albums</a>
+		<h5>1</h5>
+	</li>
+	<li>
+		<div class="sidebar-albums-container">
+			<div class="sidebar-user-data">
+   <a href="https://blastfmsocial.media/post/5097_the-blastfmradionetwork-is-no-stranger-to-promoting-recording-artists-of-other-p.html" data-ajax="?link1=post&id=5097" data-toggle="tooltip" title = "NathaliSha">
+      <div class="sidebar-listed-user-avatar">
+         <img src="https://blastfmsocial.media/upload/photos/2018/05/XFKxsl6BMwuoGVlvgfO6_14_0282e028a8a116b4e38a854d4f1a9684_image_small.jpg">
+      </div>
+      <div class="sidebar-listed-user-name">NathaliSha</div>
+   </a>
+</div>		</div>
+	</li>
+	<li><div class="clear"></div></li>
+</ul>            <ul class="list-group sidebar-ad">
+         <p style="text-align:center;"><br /><span style="color:#CC0DEF;font-size:1.8em;border:1px solid #CC0DEF;padding:10px;border-radius:6px;font-family:Bookman, URW Bookman;">Advertisements</span><br /><br /><img style="border-radius:14px;padding:5px;" src="/upload/photos/2018/04/3uFEL7rsO1U23UFHCrFd_24_470cad76cdaf9fc3009b117f96b0f34d_image_small.png" alt="Salter Gann Universal Promotions & Management" /><br /><span style="color:#851881;font-size:0.7em;"><em>Salter Gann Universal Promotions & Management</em></span><br /><span style="color:#851881;font-size:1.1em;"><a style="color:#851881;font-size:0.8em;" href="/PhylSalterGann" target="_self" title="Click to visit the Salter Gann page on BlastFMSocial">@PhylSalterGann</a><br />Visit: <a style="color:#851881;text-decoration:underline;" href="http://www.saltergann.com" target="_blank" title="Click to visit SalterGann.com">SalterGann.com</a> for more info<br />Promoted by BlastFMSocial.Media</span></p>      </ul>
+            <div class="page-margin">
+	<div class="footer-wrapper sidebar">
+		<div class="pull-right">
+			<a href="#" class="dropdown-toggle" data-toggle="modal" data-target="#select-language" role="button" aria-expanded="false">
+				<svg fill="#7a7a7a" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" class="feather feather-translate" style="margin-top: -3px;width: 15px;height: 15px;"><path d="M12.87,15.07L10.33,12.56L10.36,12.53C12.1,10.59 13.34,8.36 14.07,6H17V4H10V2H8V4H1V6H12.17C11.5,7.92 10.44,9.75 9,11.35C8.07,10.32 7.3,9.19 6.69,8H4.69C5.42,9.63 6.42,11.17 7.67,12.56L2.58,17.58L4,19L9,14L12.11,17.11L12.87,15.07M18.5,10H16.5L12,22H14L15.12,19H19.87L21,22H23L18.5,10M15.88,17L17.5,12.67L19.12,17H15.88Z" /></svg> 
+				Language            </a>
+		</div>
+		<div class="footer-powered">
+			<p>
+				Â© 2019 BlastFM Social Media			</p>
+		</div>
+		<ul class="list-inline pull-left">
+			<li><a data-ajax="?link1=terms&type=about-us" href="https://blastfmsocial.media/terms/about-us">About</a></li>
+							<li><a href="https://blastfmsocial.media/blogs">Blog</a></li>
+						<li><a data-ajax="?link1=contact-us" href="https://blastfmsocial.media/contact-us">Contact Us</a></li>
+							<li><a data-ajax="?link1=developers" href="https://blastfmsocial.media/developers">Developers</a></li>
+						<li>
+				<div class="dropdown dropup">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+						More <span class="caret"></span>
+					</a>
+					<ul class="dropdown-menu" role="menu" style="width: auto; min-width: 100px; font-size: 11px;">
+						<li><a data-ajax="?link1=terms&type=privacy-policy" href="https://blastfmsocial.media/terms/privacy-policy">Privacy Policy</a></li>
+						<li><a data-ajax="?link1=terms&type=terms" href="https://blastfmsocial.media/terms/terms">Terms of Use</a></li>
+												<li><a href="https://blastfmsocial.media/site-pages/Downloads">BlastFM Internet Radio Stations - Downloads</a></li>
+												<li><a href="https://blastfmsocial.media/site-pages/BlastFMEmail">BlastFM Ltd Email Services</a></li>
+												<li><a href="https://blastfmsocial.media/site-pages/TermsOfService">BlastFM Terms Of Service</a></li>
+												<li><a href="https://blastfmsocial.media/site-pages/PrivacyPolicy">BlastFM Privacy Policy</a></li>
+												<li><a href="https://blastfmsocial.media/site-pages/BlastFMVideo">BlastFM Video</a></li>
+												<li><a href="https://blastfmsocial.media/site-pages/Stations">BlastFM Ltd Internet Radio Station Pricing And Order</a></li>
+												<li><a href="https://blastfmsocial.media/site-pages/BlastRecords">BlastRecords Record Label</a></li>
+												<li><a href="https://blastfmsocial.media/site-pages/BlastFMTV">BlastFM TV</a></li>
+											</ul>
+				</div>
+			</li> 
+		</ul>
+		<div class="clear"></div>
+	</div>
+</div>   </div>
+</div>
+<div id="ProfileImageModal-259" class="modal fade image-modal" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog profile-picture">
+      <div class="modal-content">
+         <div class="modal-body">
+            <img src="https://blastfmsocial.media/upload/photos/2018/05/mPKY4ngwg7mmlI1flEGH_30_5305d0107bd5d2e4578d1e6f9bea13fa_avatar.jpg?cache=0" id="updateImage-259"  class="img-responsive">
+         </div>
+      </div>
+   </div>
+</div><div id="ProfileCoverImageModal" class="modal fade image-modal" tabindex="-1" role="dialog" aria-hidden="true">
+   <div class="modal-dialog">
+      <div class="modal-content">
+         <div class="modal-body">
+            <img src="https://blastfmsocial.media/upload/photos/2018/05/CJVNfF7NjfktWA7VWN5r_30_57b979d737a83fab141638c5bc953902_cover.jpg" class="img-responsive">
+         </div>
+      </div>
+   </div>
+</div><!-- JS Timline functions -->
+<script>
+   function loadposts(user_id) {
+     $.get(Wo_Ajax_Requests_File() + '?f=load_profile_posts', {user_id:user_id}, function(data) {
+       $('.posts_load').html(data);
+     });
+   }
+   var user_id = $('.profile').attr('data-id');
+   $(function () {
+     loadposts(user_id);
+     if($(window).width() > 600) {
+       $(".user-avatar").hover(function () {
+         $('.profile-avatar-changer').fadeIn(100);
+       }, function () {
+         $('.profile-avatar-changer').fadeOut(100);
+       });
+     }
+     if($(window).width() > 600) {
+       $(".user-cover").hover(function () {
+         $('.profile-cover-changer').fadeIn(100);
+       }, function () {
+         $('.profile-cover-changer').fadeOut(100);
+       });
+     }
+
+     $('form.profile-avatar-changer').ajaxForm({
+       url: Wo_Ajax_Requests_File() + '?f=update_user_avatar_picture',
+
+       beforeSend: function () {
+         $('.user-avatar-uploading-container, .user-avatar-uploading-progress').fadeIn(200);
+       },
+       success: function (data) {
+         if(data.status == 200) {
+           Wo_GetNewPosts();
+           $('[id^=updateImage-' + user_id + ']').attr('data-target', '#ProfileImageModal-Stopped');
+           $('[id^=updateImage-' + user_id + ']').attr('onclick', 'Wo_OpenProfilePicture("' + data.img_or + '");');
+           $('[id^=updateImage-' + user_id + ']').attr("src", data.img);
+         }
+         $('.user-avatar-uploading-container,.user-avatar-uploading-progress').fadeOut(200);
+       }
+     });
+     $('form.cover-position-form').ajaxForm({
+           url:  Wo_Ajax_Requests_File() + '?f=re_cover',
+           dataType:  'json',
+           beforeSend: function() {
+               $('.user-reposition-dragable-container').hide();
+               $('.user-repositioning-icons-container1').show();
+               $('.user-repositioning-icons-container').html('<i class="fa fa-spinner fa-spin progress-icon" data-icon="spin"></i>').fadeIn('fast');
+           },
+           success: function(data) {
+               console.log(data);
+               if ((data.status) == 200) {
+                   $('.user-cover-reposition-w img').attr('src', data.url + '?time=' + Math.random()).load(function () {
+                       $('.when-edit').hide();
+                       $('.when-notedit').show();
+                       $('.user-repositioning-icons-container1').fadeOut('fast');
+                       $('.user-repositioning-icons-container').fadeOut('fast').html('');
+                       $('.user-cover-reposition-w').show();
+                       $('.user-reposition-container').hide().find('img').css('top', 0);
+                       $('.cover-resize-buttons').hide();
+                       $('.default-buttons').show();
+                       $('input.cover-position').val(0);
+                       $('.user-reposition-container img').draggable('destroy').css('cursor','default');
+                       window.location.reload();
+                   });
+               }
+           }
+       });
+     $('.profile-cover-changer').ajaxForm({
+       url: Wo_Ajax_Requests_File() + '?f=update_user_cover_picture',
+
+       beforeSend: function () {
+         $('.user-cover-uploading-container,.user-cover-uploading-progress').fadeIn(200);
+       },
+       success: function (data) {
+         if(data.status == 200) {
+           Wo_GetNewPosts();
+           $('[id^=cover-image]').attr('data-target', '#ProfileCoverImageModal-Stopped');
+           $('[id^=cover-image]').attr('onclick', 'Wo_OpenProfileCover("' + data.cover_or + '");');
+           $('[id^=cover-image]').attr("src", data.img);
+           $('#full-image').attr("src", data.cover_full);
+           $('#full-input-image').val(data.cover_full);
+           $('#cover-input-image').val(data.cover_or);
+           Wo_StartRepositioner();
+         }
+         $('.user-cover-uploading-container,.user-cover-uploading-progress').fadeOut(200);
+       }
+     });
+   });
+
+   function Wo_GetFollowing(user_id) {
+     Wo_progressIconLoader($('#sidebar-following-list-container').find('span'));
+     $.get(Wo_Ajax_Requests_File(), {
+       f: 'get_following_users',
+       user_id: user_id
+     }, function (data) {
+       if(data.status == 200) {
+         $('.sidebar-following-users-container').html(data.html);
+       }
+       Wo_progressIconLoader($('#sidebar-following-list-container').find('span'));
+     });
+   }
+
+   function Wo_GetFollowers(user_id) {
+     Wo_progressIconLoader($('#sidebar-followers-list-container').find('span'));
+     $.get(Wo_Ajax_Requests_File(), {
+       f: 'get_followers_users',
+       user_id: user_id
+     }, function (data) {
+       if(data.status == 200) {
+         $('.sidebar-followers-users-container').html(data.html);
+       }
+       Wo_progressIconLoader($('#sidebar-followers-list-container').find('span'));
+     });
+   }
+
+   function Wo_GetLikes(user_id) {
+     Wo_progressIconLoader($('#sidebar-pages-list-container').find('span'));
+     $.get(Wo_Ajax_Requests_File(), {
+       f: 'pages',
+       s: 'get_likes',
+       user_id: user_id
+     }, function (data) {
+       if(data.status == 200) {
+         $('.sidebar-likes-container').html(data.html);
+       }
+       Wo_progressIconLoader($('#sidebar-pages-list-container').find('span'));
+     });
+   }
+
+   function Wo_GetMoreFollowing(user_id) {
+     Wo_progressIconLoader($('.load-more').find('button'));
+     after_last_id = $('.user-data:last').attr('data-user-id');
+     $.get(Wo_Ajax_Requests_File(), {
+       f: 'get_more_following',
+       user_id: user_id,
+       after_last_id: after_last_id
+     }, function (data) {
+       if(data.status == 200) {
+         if(data.html.length == 0) {
+           $('.load-more').find('button').text("No more users to show");
+         } else {
+           $('#following-list').append(data.html);
+         }
+       }
+       Wo_progressIconLoader($('.load-more').find('button'));
+     });
+   }
+
+   function Wo_GetMoreUserLikes(user_id) {
+     Wo_progressIconLoader($('.load-more').find('button'));
+     after_last_id = $('.user-data:last').attr('data-page-id');
+     $.get(Wo_Ajax_Requests_File(), {
+       f: 'pages',
+       s: 'get_more_likes',
+       user_id: user_id,
+       after_last_id: after_last_id
+     }, function (data) {
+       if(data.status == 200) {
+         if(data.html.length == 0) {
+           $('.load-more').find('button').text("No more pages to show");
+         } else {
+           $('#likes-list').append(data.html);
+         }
+       }
+       Wo_progressIconLoader($('.load-more').find('button'));
+     });
+   }
+
+
+   function Wo_GetMoreFollowers(user_id) {
+     Wo_progressIconLoader($('.load-more').find('button'));
+     after_last_id = $('.user-data:last').attr('data-user-id');
+     $.get(Wo_Ajax_Requests_File(), {
+       f: 'get_more_followers',
+       user_id: user_id,
+       after_last_id: after_last_id
+     }, function (data) {
+       if(data.status == 200) {
+         if(data.html.length == 0) {
+           $('.load-more').find('button').text("No more users to show");
+         } else {
+           $('#followers-list').append(data.html);
+         }
+       }
+       Wo_progressIconLoader($('.load-more').find('button'));
+     });
+   }
+
+   function Wo_UpdateProfileAvatar() {
+     $("form.profile-avatar-changer").submit();
+   }
+
+   function Wo_UpdateProfileCover() {
+     $("form.profile-cover-changer").submit();
+   }
+
+   function Wo_SetCookieAlert() {
+     $.get(Wo_Ajax_Requests_File(), {
+       f: 'set_admin_alert_cookie'
+     });
+   }
+   function Wo_OpenProfileCover(image) {
+       $.post(Wo_Ajax_Requests_File() + '?f=get_user_profile_cover_image_post', {
+         image:image
+       }, function (data) {
+           if (data.status == 200) {
+               Wo_OpenLightBox(data.post_id);
+           } else {
+               $('[id^=cover-image]').attr('data-target', '#ProfileCoverImageModal');
+               $('[id^=cover-image]').attr('data-toggle', 'modal');
+               $('#ProfileCoverImageModal').modal('show');
+           }
+       });
+   }
+   function Wo_OpenProfilePicture(image) {
+       $.post(Wo_Ajax_Requests_File() + '?f=get_user_profile_image_post', {
+         image:image
+       }, function (data) {
+           if (data.status == 200) {
+               Wo_OpenLightBox(data.post_id);
+           } else {
+               $('[id^=updateImage-' + user_id + ']').attr('data-target', '#ProfileImageModal-' + user_id);
+               $('[id^=updateImage-' + user_id + ']').attr('data-toggle', 'modal');
+               $('#ProfileImageModal-' + user_id).modal('show');
+           }
+       });
+   }
+</script></div> 
+<footer>
+<div class="page-margin">
+	<div class="footer-wrapper">
+		<hr>
+		<ul class="list-inline pull-left">
+			<li><a href="https://blastfmsocial.media">Home</a></li>
+			<li><a href="https://blastfmsocial.media/terms/about-us">About</a></li>
+			<li><a href="https://blastfmsocial.media/contact-us">Contact Us</a></li>
+			<li><a href="https://blastfmsocial.media/terms/privacy-policy">Privacy Policy</a></li>
+			<li><a href="https://blastfmsocial.media/terms/terms">Terms of Use</a></li>
+							<li><a href="https://blastfmsocial.media/blogs">Blog</a></li>
+										<li><a data-ajax="?link1=developers" href="https://blastfmsocial.media/developers">Developers</a></li>
+										<li>
+					<div class="dropdown dropup">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+							More <span class="caret"></span>
+						</a>
+						<ul class="dropdown-menu" role="menu" style="width: auto; min-width: 100px; font-size: 11px;">
+															<li><a href="https://blastfmsocial.media/site-pages/Downloads">BlastFM Internet Radio Stations - Downloads</a></li>
+															<li><a href="https://blastfmsocial.media/site-pages/BlastFMEmail">BlastFM Ltd Email Services</a></li>
+															<li><a href="https://blastfmsocial.media/site-pages/TermsOfService">BlastFM Terms Of Service</a></li>
+															<li><a href="https://blastfmsocial.media/site-pages/PrivacyPolicy">BlastFM Privacy Policy</a></li>
+															<li><a href="https://blastfmsocial.media/site-pages/BlastFMVideo">BlastFM Video</a></li>
+															<li><a href="https://blastfmsocial.media/site-pages/Stations">BlastFM Ltd Internet Radio Station Pricing And Order</a></li>
+															<li><a href="https://blastfmsocial.media/site-pages/BlastRecords">BlastRecords Record Label</a></li>
+															<li><a href="https://blastfmsocial.media/site-pages/BlastFMTV">BlastFM TV</a></li>
+													</ul>
+					</div>
+				</li> 
+					</ul>
+		<div class="pull-right">
+			<a href="#" class="dropdown-toggle" data-toggle="modal" data-target="#select-language" role="button" aria-expanded="false">
+				<svg fill="#7a7a7a" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" class="feather feather-translate" style="margin-top: -3px;width: 15px;height: 15px;"><path d="M12.87,15.07L10.33,12.56L10.36,12.53C12.1,10.59 13.34,8.36 14.07,6H17V4H10V2H8V4H1V6H12.17C11.5,7.92 10.44,9.75 9,11.35C8.07,10.32 7.3,9.19 6.69,8H4.69C5.42,9.63 6.42,11.17 7.67,12.56L2.58,17.58L4,19L9,14L12.11,17.11L12.87,15.07M18.5,10H16.5L12,22H14L15.12,19H19.87L21,22H23L18.5,10M15.88,17L17.5,12.67L19.12,17H15.88Z" /></svg> 
+				Language			</a>
+		</div>
+		<div class="clear"></div>
+		<div class="footer-powered">
+			<p>
+				Â© 2019 BlastFM Social Media			</p>
+		</div>
+	</div>
+</div>
+<a id="back2Top" title="Back To Top" href="#">&#10148;</a></footer>
+<div class="second-footer">
+</div>
+<div class="extra">
+</div>
+</div>
+<!-- Load modal alerts -->
+<div class="modal fade in" id="comment_report_box" role="dialog">
+    <div class="modal-dialog">
+    
+      <div class="modal-content">
+        <p style="text-align: center;padding: 30px 20px;font-family: Hind,Arial;font-size: 16px;">
+          <i class="fa fa-check" aria-hidden="true" style="color: green;"></i>      
+          <span class="msg">Comment reported successfully.</span>
+        </p>
+      </div>
+      
+    </div>
+</div>
+
+<div class="modal fade in" id="post-shared" role="dialog">
+    <div class="modal-dialog">
+    
+      <div class="modal-content">
+        <p style="text-align: center;padding: 30px 20px;font-family: Hind,Arial;font-size: 16px;">
+          <i class="fa fa-check" aria-hidden="true" style="color: green;"></i>      
+          Post was successfully added to your timeline!        </p>
+      </div>
+      
+    </div>
+</div>
+<div class="modal fade in" id="modal-alert" role="dialog">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <p style="text-align: center;padding: 30px 20px;font-family: Hind,Arial;font-size: 16px;">
+          <i class="fa fa-info-circle" aria-hidden="true" style="color: #31708f;"></i>      
+          <span id="modal-alert-msg">
+            You have reached your limit of 5000 friends!          </span>
+        </p>
+      </div>
+    </div>
+</div>
+<div class="modal fade in" id="invalid_file" role="dialog">
+    <div class="modal-dialog">
+    
+      <div class="modal-content">
+        <p style="text-align: center;padding: 30px 20px;font-family: Hind,Arial;font-size: 14px;">
+          <i class="fa fa-info-circle main" aria-hidden="true" style="color:#f2dede;"></i>      
+          File size error: The file exceeds allowed the limit (92 MB) and can not be uploaded.        </p>
+      </div>
+      
+    </div>
+</div>
+<div class="modal fade in" id="file_not_supported" role="dialog">
+    <div class="modal-dialog">
+    
+      <div class="modal-content">
+        <p style="text-align: center;padding: 30px 20px;font-family: Hind,Arial;font-size: 14px;">
+          <i class="fa fa-info-circle main" aria-hidden="true" style="color:#f2dede;"></i>      
+          Unable to upload a file: This file type is not supported.        </p>
+      </div>
+      
+    </div>
+</div>
+<div class="modal fade" id="modal_light_box" role="dialog">
+	<button type="button" class="close comm_mod_img_close" data-dismiss="modal" aria-label="Close"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg></button>
+  <div class="modal-dialog" >
+    <div class="modal-content">              
+      <div class="modal-body" style="padding: 0;">
+        <img  class="image" style="width: 100%;" >
+      </div>
+    </div>
+  </div>
+</div><div class="modal fade" id="select-language" role="dialog">
+   <div class="modal-dialog">
+      <div class="modal-content">
+         <div class="modal-body" id="wo_language_modal">
+			<div class="language_head">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg></span></button>
+				<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="24" height="24" viewBox="0 0 24 24" class="feather feather-language"><path fill="currentColor" d="M12.87,15.07L10.33,12.56L10.36,12.53C12.1,10.59 13.34,8.36 14.07,6H17V4H10V2H8V4H1V6H12.17C11.5,7.92 10.44,9.75 9,11.35C8.07,10.32 7.3,9.19 6.69,8H4.69C5.42,9.63 6.42,11.17 7.67,12.56L2.58,17.58L4,19L9,14L12.11,17.11L12.87,15.07M18.5,10H16.5L12,22H14L15.12,19H19.87L21,22H23L18.5,10M15.88,17L17.5,12.67L19.12,17H15.88Z" /></svg> Language			</div>
+            <ul>
+                              <li class="language_select"><a href="?lang=english" rel="nofollow" class="English">English</a></li>
+                              <li class="language_select"><a href="?lang=arabic" rel="nofollow" class="Arabic">Arabic</a></li>
+                              <li class="language_select"><a href="?lang=dutch" rel="nofollow" class="Dutch">Dutch</a></li>
+                              <li class="language_select"><a href="?lang=french" rel="nofollow" class="French">French</a></li>
+                              <li class="language_select"><a href="?lang=german" rel="nofollow" class="German">German</a></li>
+                              <li class="language_select"><a href="?lang=italian" rel="nofollow" class="Italian">Italian</a></li>
+                              <li class="language_select"><a href="?lang=portuguese" rel="nofollow" class="Portuguese">Portuguese</a></li>
+                              <li class="language_select"><a href="?lang=russian" rel="nofollow" class="Russian">Russian</a></li>
+                              <li class="language_select"><a href="?lang=spanish" rel="nofollow" class="Spanish">Spanish</a></li>
+                              <li class="language_select"><a href="?lang=turkish" rel="nofollow" class="Turkish">Turkish</a></li>
+                           </ul>
+         </div>
+      </div>
+   </div>
+</div>
+<div class="modal fade" id="create-product-modal" role="dialog">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-x"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg></span></button>
+				<h4 class="modal-title"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-shopping-cart"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg> Sell new product</h4>
+			</div>
+			<div class="modal-body">
+				<div class="wo_settings_page">
+					<form class="create-album-form form-horizontal" method="post">
+						<div class="app-general-alert setting-update-alert"></div>
+					
+						<div class="setting-panel row">
+							<!-- Text input-->
+							<div class="form-group col-lg-8">
+								<label class="col-md-12" for="name">Name *</label>  
+								<div class="col-md-12">
+									<input id="name" name="name" type="text" class="form-control input-md" value="">
+								</div>
+							</div>
+							<div class="form-group col-lg-4">
+								<label class="col-md-12" for="price">Price *</label>  
+								<div class="col-md-12">
+									<input id="price" name="price" type="text" class="form-control input-md" value="0.00">
+								</div>
+							</div>
+							
+							<div class="form-group col-lg-8">
+								<label class="col-md-12" for="category">Category *</label>  
+								<div class="col-md-12">
+									<select class="form-control" name="category" id="category">
+																				<option value="1">Apparel & Accessories</option>
+																				<option value="2">Autos & Vehicles</option>
+																				<option value="3">Baby & Children's Products</option>
+																				<option value="4">Beauty Products & Services</option>
+																				<option value="5">Computers & Peripherals</option>
+																				<option value="6">Consumer Electronics</option>
+																				<option value="7">Dating Services</option>
+																				<option value="8">Financial Services</option>
+																				<option value="9">Gifts & Occasions</option>
+																				<option value="10">Home & Garden</option>
+																			</select>
+								</div>
+							</div>
+							<div class="form-group col-lg-4">
+								<label class="col-md-12" for="type">Type *</label>  
+								<div class="col-md-12">
+									<select class="form-control" name="type" id="type">
+										<option value="0">New</option>
+										<option value="1">Used</option>
+									</select>
+								</div>
+							</div>
+							
+							<div class="form-group col-lg-8">
+								<label class="col-md-12" for="location">Location *</label>  
+								<div class="col-md-12">
+									<input id="location" name="location" type="text" class="form-control input-md" value="">
+								</div>
+							</div>
+							<div class="form-group col-lg-4">
+								<label class="col-md-12" for="currency">Currency *</label>  
+								<div class="col-md-12">
+									<select name="currency" id="currency" class="form-control">
+																				<option value="0">USD ($)</option>
+																				<option value="1">EUR (â¬)</option>
+																				<option value="2">TRY (âº)</option>
+																			</select>
+								</div>
+							</div>
+							
+							<div class="form-group col-lg-12">
+								<label class="col-md-12" for="description">Description *</label>  
+								<div class="col-md-12">
+									<textarea class="form-control" name="description" rows="5" id="description"></textarea>
+									<span class="help-block">Please describe your product.</span>	
+								</div>
+							</div>
+							
+							<div class="form-group col-lg-12">
+								<label class="col-md-12" for="photos" style="display: block;">Photos *</label>
+								<div class="upload-product-image pull-left" onclick="document.getElementById('product-photos').click(); return false">
+									<div class="upload-image-content">
+										<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-camera"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path><circle cx="12" cy="13" r="4"></circle></svg>
+									</div>
+								</div>
+								<div style="overflow-x: auto;width: calc(100% - 112px);">
+									<div id="productimage-holder"></div>
+								</div>
+								<div class="input-group hidden">
+									<span class="btn btn-default btn-file">
+										<i class="fa fa-camera" ></i><input type="file" id="product-photos" accept="image/x-png, image/gif, image/jpeg" name="postPhotos[]" multiple="multiple">
+									</span>
+								</div>
+							</div>
+						</div>
+
+						<div class="publisher-hidden-option">
+							<div id="progress" class="create-product-progress">
+								<span id="percent" class="create-product-percent pull-right">0%</span>
+								<div class="progress">
+									<div id="bar" class="progress-bar active create-product-bar"></div> 
+								</div>
+								<div class="clear"></div>
+							</div>
+						</div>
+						<input type="hidden" name="id" class="form-control input-md" value="">
+						<input type="hidden" name="hash_id" value="96b3b1179e51002bc663cb9ce260570ac5578605">
+						<input type="hidden" name="lat-product" id="lat-product" class="form-control input-md" value="">
+						<input type="hidden" name="lng-product" id="lng-product" class="form-control input-md" value="">
+						<div class="form-group last-sett-btn modal-footer">
+							<div class="ball-pulse"><div></div><div></div><div></div></div>
+							<button type="submit" class="btn btn-main setting-panel-mdbtn">Publish</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#product-photos").on('change', function() {
+	//Get count of selected files
+	var product_countFiles = $(this)[0].files.length;
+	var product_imgPath = $(this)[0].value;
+	var extn = product_imgPath.substring(product_imgPath.lastIndexOf('.') + 1).toLowerCase();
+	var product_image_holder = $("#productimage-holder");
+	product_image_holder.empty();
+	if (extn == "gif" || extn == "png" || extn == "jpg" || extn == "jpeg") {
+		if (typeof(FileReader) != "undefined") {
+		//loop for each file selected for uploaded.
+		for (var i = 0; i < product_countFiles; i++) 
+		{
+			var product_reader = new FileReader();
+			product_reader.onload = function(e) {
+				$("<img />", {
+                    "src": e.target.result,
+                    "class": "thumb-image"
+                  }).appendTo(product_image_holder);
+                }
+                product_image_holder.show();
+                product_reader.readAsDataURL($(this)[0].files[i]);
+              }
+            } else {
+              product_image_holder.html("<p>This browser does not support FileReader.</p>");
+            }
+         }
+	});
+});
+
+$(function() {
+   	if (navigator.geolocation) {
+        var location = navigator.geolocation.getCurrentPosition(function (position) {
+            $("#lng-product").val(position.coords.longitude);
+            $("#lat-product").val(position.coords.latitude);
+        });
+    }
+    var create_bar = $('.create-product-bar');
+    var create_percent = $('.create-product-percent');
+    var status = $('#status');
+     $('form.create-album-form').ajaxForm({
+       url: Wo_Ajax_Requests_File() + '?f=products&s=create',
+       beforeSend: function() {
+         var percentVal = '0%';
+         create_bar.width(percentVal);
+         create_percent.html(percentVal);
+         
+         
+         $('.wo_settings_page').find('.last-sett-btn .ball-pulse').fadeIn(100);
+       },
+       uploadProgress: function (event, position, total, percentComplete) {
+           var percentVal = percentComplete + '%';
+           create_bar.width(percentVal);
+           $('.create-product-progress').slideDown(200);
+           create_percent.html(percentVal);
+      },
+       success: function(data) {
+         if (data.status == 200) {
+           window.location.href = data.href;
+         } else {
+             var errors = data.errors.join("<br>");
+             $('.app-general-alert').html('<div class="alert alert-danger">' + errors + '</div>');
+             $('.alert-danger').fadeIn(300);
+         }
+         $('.wo_settings_page').find('.last-sett-btn .ball-pulse').fadeOut(100);
+       }
+     });
+   });
+var create_pac_input = document.getElementById('location');
+  (function pacSelectFirst(input) {
+    // store the original event binding function
+    var _addEventListenerProduct = (input.addEventListener) ? input.addEventListener : input.attachEvent;
+    function addEventListenerWrapper(type, listener) {
+      // Simulate a 'down arrow' keypress on hitting 'return' when no pac suggestion is selected,
+      // and then trigger the original listener.
+      if(type == "keydown") {
+        var orig_listener_product = listener;
+        listener = function (event) {
+          var suggestion_selected_product = $(".pac-item-selected").length > 0;
+          if(event.which == 13 && !suggestion_selected_product) {
+            var simulated_downarrow_product = $.Event("keydown", {
+              keyCode: 40,
+              which: 40
+            });
+            orig_listener_product.apply(input, [simulated_downarrow_product]);
+          }
+          orig_listener_product.apply(input, [event]);
+        };
+      }
+      // add the modified listener
+      _addEventListenerProduct.apply(input, [type, listener]);
+    }
+    if(input.addEventListener)
+      input.addEventListener = addEventListenerWrapper;
+    else if(input.attachEvent)
+      input.attachEvent = addEventListenerWrapper;
+  })(create_pac_input);
+
+  $(function () {
+     var autocompleteproduct = new google.maps.places.Autocomplete(create_pac_input);
+  });
+</script>
+
+
+<!-- JS FILES -->
+<script type="text/javascript" src="https://blastfmsocial.media/themes/blastfm/javascript/welcome.js"></script>
+<script type="text/javascript" src="https://blastfmsocial.media/themes/blastfm/javascript/script.js"></script>
+<div class="extra-css"></div>
+<script>$(document).ready(function() {$('div.leftcol').theiaStickySidebar({additionalMarginTop: 65});});</script>
+<script type="text/javascript">jQuery(document).ready(function() {jQuery('.custom-fixed-element').theiaStickySidebar({additionalMarginTop: 65});});</script>
+
+<!-- End 'JS FILES' -->
+<script type="text/javascript">
+  (function (factory) {
+  if (typeof define === 'function' && define.amd) {
+    // AMD. Register as an anonymous module.
+    define(['jquery'], factory);
+  } else {
+    // Browser globals
+    factory(jQuery);
+  }
+}(function ($) {
+  $.timeago = function(timestamp) {
+    if (timestamp instanceof Date) {
+      return inWords(timestamp);
+    } else if (typeof timestamp === "string") {
+      return inWords($.timeago.parse(timestamp));
+    } else if (typeof timestamp === "number") {
+      return inWords(new Date(timestamp));
+    } else {
+      return inWords($.timeago.datetime(timestamp));
+    }
+  };
+  var $t = $.timeago;
+
+  $.extend($.timeago, {
+    settings: {
+      refreshMillis: 60000,
+      allowPast: true,
+      allowFuture: false,
+      localeTitle: false,
+      cutoff: 0,
+      strings: {
+        prefixAgo: null,
+        prefixFromNow: null,
+        suffixAgo: "ago",
+        suffixFromNow: "from now",
+        inPast: "any moment now",
+        seconds: "Just now",
+        minute: "about a minute ago",
+        minutes: "%d minutes ago",
+        hour: "about an hour ago",
+        hours: "%d hours ago",
+        day: "a day ago",
+        days: "%d days ago",
+        month: "about a month ago",
+        months: "%d months ago",
+        year: "about a year ago",
+        years: "%d years ago",
+        wordSeparator: " ",
+        numbers: []
+      }
+    },
+
+    inWords: function(distanceMillis) {
+      if(!this.settings.allowPast && ! this.settings.allowFuture) {
+          throw 'timeago allowPast and allowFuture settings can not both be set to false.';
+      }
+
+      var $l = this.settings.strings;
+      var prefix = $l.prefixAgo;
+      var suffix = $l.suffixAgo;
+      if (this.settings.allowFuture) {
+        if (distanceMillis < 0) {
+          prefix = $l.prefixFromNow;
+          suffix = $l.suffixFromNow;
+        }
+      }
+
+      if(!this.settings.allowPast && distanceMillis >= 0) {
+        return this.settings.strings.inPast;
+      }
+
+      var seconds = Math.abs(distanceMillis) / 1000;
+      var minutes = seconds / 60;
+      var hours = minutes / 60;
+      var days = hours / 24;
+      var years = days / 365;
+
+      function substitute(stringOrFunction, number) {
+        var string = $.isFunction(stringOrFunction) ? stringOrFunction(number, distanceMillis) : stringOrFunction;
+        var value = ($l.numbers && $l.numbers[number]) || number;
+        return string.replace(/%d/i, value);
+      }
+
+      var words = seconds < 45 && substitute($l.seconds, Math.round(seconds)) ||
+        seconds < 90 && substitute($l.minute, 1) ||
+        minutes < 45 && substitute($l.minutes, Math.round(minutes)) ||
+        minutes < 90 && substitute($l.hour, 1) ||
+        hours < 24 && substitute($l.hours, Math.round(hours)) ||
+        hours < 42 && substitute($l.day, 1) ||
+        days < 30 && substitute($l.days, Math.round(days)) ||
+        days < 45 && substitute($l.month, 1) ||
+        days < 365 && substitute($l.months, Math.round(days / 30)) ||
+        years < 1.5 && substitute($l.year, 1) ||
+        substitute($l.years, Math.round(years));
+
+      var separator = $l.wordSeparator || "";
+      if ($l.wordSeparator === undefined) { separator = " "; }
+
+      
+         return $.trim([prefix, words].join(separator));
+
+          },
+
+    parse: function(iso8601) {
+      var s = $.trim(iso8601);
+      s = s.replace(/\.\d+/,""); // remove milliseconds
+      s = s.replace(/-/,"/").replace(/-/,"/");
+      s = s.replace(/T/," ").replace(/Z/," UTC");
+      s = s.replace(/([\+\-]\d\d)\:?(\d\d)/," $1$2"); // -04:00 -> -0400
+      s = s.replace(/([\+\-]\d\d)$/," $100"); // +09 -> +0900
+      return new Date(s);
+    },
+    datetime: function(elem) {
+      var iso8601 = $t.isTime(elem) ? $(elem).attr("datetime") : $(elem).attr("title");
+      return $t.parse(iso8601);
+    },
+    isTime: function(elem) {
+      // jQuery's `is()` doesn't play well with HTML5 in IE
+      return $(elem).get(0).tagName.toLowerCase() === "time"; // $(elem).is("time");
+    }
+  });
+
+  // functions that can be called via $(el).timeago('action')
+  // init is default when no action is given
+  // functions are called with context of a single element
+  var functions = {
+    init: function(){
+      var refresh_el = $.proxy(refresh, this);
+      refresh_el();
+      var $s = $t.settings;
+      if ($s.refreshMillis > 0) {
+        this._timeagoInterval = setInterval(refresh_el, $s.refreshMillis);
+      }
+    },
+    update: function(time){
+      var parsedTime = $t.parse(time);
+      $(this).data('timeago', { datetime: parsedTime });
+      if($t.settings.localeTitle) $(this).attr("title", parsedTime.toLocaleString());
+      refresh.apply(this);
+    },
+    updateFromDOM: function(){
+      $(this).data('timeago', { datetime: $t.parse( $t.isTime(this) ? $(this).attr("datetime") : $(this).attr("title") ) });
+      refresh.apply(this);
+    },
+    dispose: function () {
+      if (this._timeagoInterval) {
+        window.clearInterval(this._timeagoInterval);
+        this._timeagoInterval = null;
+      }
+    }
+  };
+
+  $.fn.timeago = function(action, options) {
+    var fn = action ? functions[action] : functions.init;
+    if(!fn){
+      throw new Error("Unknown function name '"+ action +"' for timeago");
+    }
+    // each over objects here and call the requested function
+    this.each(function(){
+      fn.call(this, options);
+    });
+    return this;
+  };
+
+  function refresh() {
+    var data = prepareData(this);
+    var $s = $t.settings;
+
+    if (!isNaN(data.datetime)) {
+      if ( $s.cutoff == 0 || Math.abs(distance(data.datetime)) < $s.cutoff) {
+        $(this).text(inWords(data.datetime));
+      }
+    }
+    return this;
+  }
+
+  function prepareData(element) {
+    element = $(element);
+    if (!element.data("timeago")) {
+      element.data("timeago", { datetime: $t.datetime(element) });
+      var text = $.trim(element.text());
+      if ($t.settings.localeTitle) {
+        element.attr("title", element.data('timeago').datetime.toLocaleString());
+      } else if (text.length > 0 && !($t.isTime(element) && element.attr("title"))) {
+        element.attr("title", text);
+      }
+    }
+    return element.data("timeago");
+  }
+
+  function inWords(date) {
+    return $t.inWords(distance(date));
+  }
+
+  function distance(date) {
+    return (new Date().getTime() - date.getTime());
+  }
+
+  // fix for IE6 suckage
+  document.createElement("abbr");
+  document.createElement("time");
+}));
+
+
+$(function () {
+  setInterval(function () {
+    
+    if ( $('.ajax-time').length > 0) {
+      $('.ajax-time').timeago()
+        .removeClass('.ajax-time');
+    }
+  },
+  1000);
+});
+</script>
+<!-- Audio FILES -->
+
+<!-- End 'Audio FILES' -->
+<script type="text/javascript">
+/*Language Select*/
+$(document).ready(function(){
+$("#wo_language_modal .language_select .English").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/united-states.svg"/></span> ');
+$("#wo_language_modal .language_select .Arabic").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/saudi-arabia.svg"/></span> ');
+$("#wo_language_modal .language_select .Dutch").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/netherlands.svg"/></span> ');
+$("#wo_language_modal .language_select .French").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/france.svg"/></span> ');
+$("#wo_language_modal .language_select .German").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/germany.svg"/></span> ');
+$("#wo_language_modal .language_select .Hungarian, #wo_language_modal .language_select .Magyar").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/hungary.svg"/></span> ');
+$("#wo_language_modal .language_select .Italian").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/italy.svg"/></span> ');
+$("#wo_language_modal .language_select .Portuguese").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/portugal.svg"/></span> ');
+$("#wo_language_modal .language_select .Russian").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/russia.svg"/></span> ');
+$("#wo_language_modal .language_select .Spanish").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/spain.svg"/></span> ');
+$("#wo_language_modal .language_select .Serbian").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/serbia.svg"/></span> ');
+$("#wo_language_modal .language_select .Turkish").append('<span class="language_initial"><img src="https://blastfmsocial.media/themes/blastfm/img/flags/turkey.svg"/></span> ');
+});
+/* 
+
+The code entered here will be added in <footer> tag 
+
+*/</script>
+<script type="text/javascript">
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+"palette": {
+"popup": {
+"background": "#444444",
+"text": "#fff"
+},
+"button": {
+"background": "#a84849"
+}
+},
+"theme": "edgeless",
+"content": {
+"message": "This website uses cookies to ensure that you get the best experience from our website.",
+"dismiss": "Dismiss",
+"link": "Learn More",
+"href": "https://blastfmsocial.media/terms/privacy-policy"
+}
+})});
+</script>
+
+<!-- // NEW STORY -->
+<script type="text/javascript">
+$(document).on('click', '.story-image-wrapper', function(event) {
+event.preventDefault();
+$('#contnet').append('<div class="lightbox-container"><div class="lightbox-backgrond" onclick="Wo_CloseLightbox();"></div><div class="lb-preloader" style="display:block"><svg width="50px" height="50px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><circle cx="50" cy="50" r="40" stroke="#676d76" fill="none" stroke-width="6" stroke-linecap="round"><animate attributeName="stroke-dashoffset" dur="1.5s" repeatCount="indefinite" from="0" to="502"></animate><animate attributeName="stroke-dasharray" dur="1.5s" repeatCount="indefinite" values="150.6 100.4;1 250;150.6 100.4"></animate></circle></svg></div></div>');
+
+$value = $(this).parents(".story-container").attr('data-status-id');
+$.post(Wo_Ajax_Requests_File() + '?f=story_view', {id: $value}, function(data, textStatus, xhr) {
+if (data.status == 200) {
+document.body.style.overflow = 'hidden';
+$('.lightbox-container').html(data.html);
+$('.width_').addClass('load');
+setTimeout(function(){
+$('.width_').css('width', '100%');
+}, 200);
+Wo_Delay(function(){
+if ($('.dont_close_story_'+$value).length == 0) {
+Get_NextStory(data.story_id);
+}
+}, 10000);
+}
+else{
+Wo_CloseLightbox();
+}
+});
+});
+
+function Wo_GetMoreStoryViews(story_id,self) {
+last_view = $('.story_views_').last().attr('id');
+$(self).addClass('dont_close_story_'+story_id);
+$(self).find('span').html('Please wait..');
+$.post(Wo_Ajax_Requests_File() + '?f=story_views_', {last_view:last_view,story_id:story_id}, function(data, textStatus, xhr) {
+if (data.status == 200) {
+$(self).find('button').html('<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather"><polyline points="6 9 12 15 18 9"></polyline></svg> Load more');
+
+$('.views_container_').append(data.html);
+}
+else{
+$(self).find('button').html('No more views');
+
+}
+});
+}
+$(document).on('click', '.see_all_stories', function(event) {
+event.preventDefault();
+$('#contnet').append('<div class="lightbox-container"><div class="lightbox-backgrond" onclick="Wo_CloseLightbox();"></div><div class="lb-preloader" style="display:block"><svg width="50px" height="50px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><circle cx="50" cy="50" r="40" stroke="#676d76" fill="none" stroke-width="6" stroke-linecap="round"><animate attributeName="stroke-dashoffset" dur="1.5s" repeatCount="indefinite" from="0" to="502"></animate><animate attributeName="stroke-dasharray" dur="1.5s" repeatCount="indefinite" values="150.6 100.4;1 250;150.6 100.4"></animate></circle></svg></div></div>');
+user_id = $(this).attr('data_story_user_id');
+type = $(this).attr('data_story_type');
+$.post(Wo_Ajax_Requests_File() + '?f=view_all_stories', {user_id: user_id,type:type}, function(data, textStatus, xhr) {
+document.body.style.overflow = 'hidden';
+$('.lightbox-container').html(data.html);
+setTimeout(function(){
+video_story = $('#video_story').attr('data-story-video');
+if ($('[data-story-video='+video_story+']').length == 0) {
+
+$('.width_').addClass('load');
+setTimeout(function(){
+$('.width_').css('width', '100%');
+}, 200);
+Wo_Delay(function(){
+value = $('.user_story_').attr('id');
+
+if ($('.dont_close_story_'+value).length == 0) {
+if (type == 'user') {
+Get_NextStory(data.story_id);
+}
+else{
+
+Get_NextStory(data.story_id,'friends');
+}
+}
+}, 10000);
+}
+}, 200);
+});
+});
+function Get_PreviousStory(story_id,story_type = '') {
+if ($('.lightbox-container').is(":visible")) {
+
+Wo_CloseLightbox();
+$('#contnet').append('<div class="lightbox-container"><div class="lightbox-backgrond" onclick="Wo_CloseLightbox();"></div><div class="lb-preloader" style="display:block"><svg width="50px" height="50px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><circle cx="50" cy="50" r="40" stroke="#676d76" fill="none" stroke-width="6" stroke-linecap="round"><animate attributeName="stroke-dashoffset" dur="1.5s" repeatCount="indefinite" from="0" to="502"></animate><animate attributeName="stroke-dasharray" dur="1.5s" repeatCount="indefinite" values="150.6 100.4;1 250;150.6 100.4"></animate></circle></svg></div></div>');
+$.post(Wo_Ajax_Requests_File() + '?f=view_story_by_id', {story_id: story_id,type:'previous',story_type:story_type}, function(data, textStatus, xhr) {
+if (data.status == 200) {
+document.body.style.overflow = 'hidden';
+$('.lightbox-container').html(data.html);
+video_story = $('#video_story').attr('data-story-video');
+if ($('[data-story-video='+video_story+']').length == 0) {
+$('.width_').addClass('load');
+setTimeout(function(){
+$('.width_').css('width', '100%');
+}, 200);
+Wo_Delay(function(){
+value = $('.user_story_').attr('id');
+if ($('.dont_close_story_'+value).length == 0) {
+if (story_type == 'user') {
+if ($('.lightpost-'+data.story_id).length > 0) {
+Get_NextStory(data.story_id);
+}
+}
+else{
+if ($('.lightpost-'+data.story_id).length > 0) {
+Get_NextStory(data.story_id,'friends');
+}
+}
+}
+}, 10000);
+}
+}
+else{
+Wo_CloseLightbox();
+}
+});
+}
+}
+function Get_NextStory(story_id,story_type = '') {
+if ($('.lightbox-container').is(":visible")) {
+
+Wo_CloseLightbox();
+$('#contnet').append('<div class="lightbox-container"><div class="lightbox-backgrond" onclick="Wo_CloseLightbox();"></div><div class="lb-preloader" style="display:block"><svg width="50px" height="50px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><circle cx="50" cy="50" r="40" stroke="#676d76" fill="none" stroke-width="6" stroke-linecap="round"><animate attributeName="stroke-dashoffset" dur="1.5s" repeatCount="indefinite" from="0" to="502"></animate><animate attributeName="stroke-dasharray" dur="1.5s" repeatCount="indefinite" values="150.6 100.4;1 250;150.6 100.4"></animate></circle></svg></div></div>');
+$.post(Wo_Ajax_Requests_File() + '?f=view_story_by_id', {story_id: story_id,type:'next',story_type:story_type}, function(data, textStatus, xhr) {
+if (data.status == 200) {
+document.body.style.overflow = 'hidden';
+$('.lightbox-container').html(data.html);
+video_story = $('#video_story').attr('data-story-video');
+if ($('[data-story-video='+video_story+']').length == 0) {
+$('.width_').addClass('load');
+setTimeout(function(){
+$('.width_').css('width', '100%');
+}, 200);
+Wo_Delay(function(){
+value = $('.user_story_').attr('id');
+if ($('.dont_close_story_'+value).length == 0) {
+if (story_type == 'user') {
+if ($('.lightpost-'+data.story_id).length > 0) {
+Get_NextStory(data.story_id);
+}
+}
+else{
+if ($('.lightpost-'+data.story_id).length > 0) {
+Get_NextStory(data.story_id,'friends');
+}
+}
+}
+}, 10000);
+}
+}
+else{
+if (story_type == 'user') {
+if($('.unseen_story').length > 0){
+$('.unseen_story').addClass('seen_story');
+$('.unseen_story').removeClass('unseen_story');
+
+}
+}
+Wo_CloseLightbox();
+}
+});
+}
+}
+</script>
+<!-- // NEW STORY -->
+
+</body>
+</html>

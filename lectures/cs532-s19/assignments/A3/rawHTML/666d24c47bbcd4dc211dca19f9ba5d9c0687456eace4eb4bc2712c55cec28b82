@@ -1,0 +1,968 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="utf-8">
+	<title>バレンタインフェア♡バレンタインルーレットクーポン（レディース クーポン）｜レディースファッション通販｜ランウェイチャンネル</title>
+	<meta name="description" content="レディースファッション通販サイトRUNWAY channel【ランウェイチャンネル】のバレンタインフェア♡バレンタインルーレットクーポン（レディース クーポン）です。dazzlin(ダズリン)、EMODA(エモダ)、MERCURYDUO(マーキュリーデュオ)、MURUA(ムルーア)、Ungrid(アングリッド)等の公式通販、レディースファッション通販ならではの豊富な品揃え！">
+	<meta name="keywords" content="バレンタインフェア♡バレンタインルーレットクーポン（レディース クーポン）,人気ブランド公式通販,レディースファッション通販,クーポン,レディースファッション,ランウェイチャンネル,RUNWAY channel">
+	<meta property="og:title" content="バレンタインフェア♡バレンタインルーレットクーポン（レディース クーポン）｜レディースファッション通販｜ランウェイチャンネル" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://runway-webstore.com/cts/rc_2019/roulette/index.html" />
+	<meta property="og:image" content="https://runway-webstore.com/static/common/ogp/ogp.png" />
+	<meta property="og:site_name" content="RUNWAY channel WEB STORE" />
+	<meta property="og:description" content="レディースファッション通販サイトRUNWAY channel【ランウェイチャンネル】のバレンタインフェア♡バレンタインルーレットクーポン（レディース クーポン）です。dazzlin(ダズリン)、EMODA(エモダ)、MERCURYDUO(マーキュリーデュオ)、MURUA(ムルーア)、Ungrid(アングリッド)等の公式通販、レディースファッション通販ならではの豊富な品揃え！" />
+	<link rel='icon' type='image/x-icon' href="/favicon.ico" />
+	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+	<link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png" />
+	<link rel="mask-icon" href="/static/common/favicon/safari-pinned-tab.svg" color="#000000" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="Expires" content="Thu, 01 Dec 1994 16:00:00 GMT" />
+	<meta name="Copyright" content="MARK STYLER Co., Ltd." />
+	<meta name="Slurp" content="NOYDIR" />
+	<meta name="robots" content="all">
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta name="viewport" content="width=1300, user-scalable=yes">
+	<link rel="alternate" media="handheld" href="//runway-webstore.com/" />
+	<link rel="canonical" href="https://runway-webstore.com/cts/rc_2019/roulette/index.html" />
+	<link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="/static/full/css/common.css"/>
+	<link rel="stylesheet" type="text/css" href="/static/full/css/layout.css"/>
+	<link rel="stylesheet" type="text/css" href="/static/full/css/header.css"/>
+	<link rel="stylesheet" type="text/css" href="/static/full/css/footer.css"/>
+	<link rel="stylesheet" type="text/css" href="/static/full/css/side.css"/>
+	<!--ページ専用CSS-->
+	<link rel="stylesheet" type="text/css" href="/static/full/css/page/page-contents.css" />
+	<style>
+		.snsbtn {
+			margin: 7px 0px 10px;
+			padding: 0px;
+		}
+		.snsbtn:after {
+			content: "";
+			display: block;
+			clear: both;
+			height: 1px;
+			overflow: hidden;
+		}
+		.snsbtn ul li{
+			float:right;
+			margin-right:8px;
+			list-style-type:none;
+		}
+	</style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="//runway-webstore.com/adss/css/jquery-ui-1.10.3.custom.css"></link>
+<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.1/underscore-min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/underscore.string/2.3.3/underscore.string.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/json2/20121008/json2.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.8.3/moment.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/numeral.js/1.4.5/numeral.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.0.0/backbone-min.js"></script>
+<script>
+  // CDN fallback
+  (window.jQuery)
+    || document.write('<script src="//runway-webstore.com/adss/js/lib/jquery-1.10.2.js">\x3C/script>');
+  (window.jQuery && window.jQuery.ui)
+    || document.write('<script src="//runway-webstore.com/adss/js/lib/jquery-ui-1.10.3.js">\x3C/script>');
+  (window._)
+    || document.write('<script src="//runway-webstore.com/adss/js/lib/underscore-1.5.1.js">\x3C/script>');
+  (window._ && window._.string)
+    || document.write('<script src="//runway-webstore.com/adss/js/lib/underscore.string-2.3.3.js">\x3C/script>');
+  (window.JSON && window.JSON.stringify && window.JSON.parse)
+    || document.write('<script src="//runway-webstore.com/adss/js/lib/json2.js">\x3C/script>');
+  (window.moment)
+    || document.write('<script src="//runway-webstore.com/adss/js/lib/moment-2.8.3.js">\x3C/script>');
+  (window.moment)
+    || document.write('<script src="//runway-webstore.com/adss/js/lib/numeral-1.4.5.js">\x3C/script>');
+  (window.Backbone)
+    || document.write('<script src="//runway-webstore.com/adss/js/lib/backbone-1.0.0.js">\x3C/script>');
+</script>
+<script src="//runway-webstore.com/adss/js/lib/jquery-ui-i18n.js?1.0"></script>
+<script src="//runway-webstore.com/adss/js/lib/jquery.form.js?1.0"></script>
+<!-- Basics -->
+<script src="//runway-webstore.com/adss/js/adss/namespace.js?1.0"></script>
+<script src="//runway-webstore.com/adss/js/adss/console.js?1.0"></script>
+<script src="//runway-webstore.com/adss/js/adss/resource.js?1.0"></script>
+<script src="//runway-webstore.com/adss/js/adss/util.js?1.0"></script>
+<script src="//runway-webstore.com/adss/js/adss/promotion.js?1.0"></script>
+<script>
+ADSS.Config.lang = 'ja';
+ADSS.Config.appBaseUrl = '//runway-webstore.com/ap/';
+ADSS.Config.console.activate(false);
+moment.locale('ja', {
+  weekdays: ['日曜日', '月曜日', '火曜日', '水曜日', '木曜日', '金曜日', '土曜日'],
+  weekdaysShort: ['日', '月', '火', '水', '木', '金', '土']
+});
+</script>
+<script src="//runway-webstore.com/adss/js/adss/bootstrap.js?1.0"></script>
+<script src="//runway-webstore.com/adss/js/adss/app.js?1.0"></script>
+<script src="//runway-webstore.com/ap/api/mem.js?1550977950983"></script>
+	<script src="https://runway-webstore.com/adss/js/adss/favorite.js?1.0"></script>
+	<script type="text/javascript" src="/static/full/js/common.js"></script>
+	<script type="text/javascript" src="/static/full/js/jquery.tile.js"></script>
+	<script type="text/javascript" src="/static/full/js/lib/placeholder.js"></script>
+	<script type="text/javascript" src="/static/full/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/static/full/js/jquery.lazyload.js"></script>
+	<script type="text/javascript" src="/static/full/js/css_browser_selector.js"></script>
+	<script type="text/javascript" src="/static/full/js/masonry.pkgd.min.js"></script>
+	<!--ページ専用JS-->
+<!-- google analytics ON -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', '', 'auto');
+  ga('send', 'pageview');
+</script>
+<!--datalayer-->
+<script>
+   dataLayer = [{
+      'Customer_ID' : ''
+        }];
+</script>
+<!--datalayer-->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MC8SFP');</script>
+<!-- End Google Tag Manager -->
+
+<script src="//statics.a8.net/a8sales/a8sales.js"></script>
+<script type="text/javascript">
+	$(function(){
+		$("#tab_areaList > .target").css("display", "none");
+		$("#tab_areaList > ul > .tab").click(function(){
+			var index = $("#tab_areaList > ul > .tab").index(this);
+			$("#tab_areaList > .target").eq(index).siblings("#tab_areaList > .target").css("display", "none");
+			$("#tab_areaList > .target").eq(index).slideToggle();
+			$("#tab_areaList > ul > .tab").eq(index).toggleClass("current_tab");
+			$("#tab_areaList > ul > .tab").eq(index).siblings("#tab_areaList > ul > .tab").removeClass("current_tab");
+		});
+
+	});
+</script>
+
+
+<style type="text/css">
+.fltL { float: left;}
+.fltR { float: right;}
+.ft { overflow: hidden; zoom: 1; clear:both;}
+.bn{
+width:900px;
+margin-left:60px;
+}
+.bn li{
+  margin:7px 0 0 5px; ;
+  float:left;
+}
+
+.bunner ul li.l{
+width:480px;
+margin:20px 20px 0 0;
+float:left;
+}
+
+.bunner ul li.r{
+width:480px;
+margin:20px 0 10px 0;
+float:left;
+}
+
+.bunner ul .l p {
+margin:5px 0 0 0;
+text-align:center;
+font-size:14px
+}
+.bunner ul .r p {
+margin:5px 0 0 0;
+text-align:center;
+font-size:14px
+}
+.bunner{
+width:950px;
+margin:0 auto 10px auto;
+}
+.txt1{
+padding: 20px 0;
+text-align: center;
+font-size: 13px;
+}
+#crumb-navi {
+width: 100%;
+}
+ul.pi_brand{margin-bottom:10px; list-style: none;}
+ul.pi_brand li{margin-bottom:4px; margin-right:15px; float:left;}
+ul.pi_brand li:nth-child(5n+5){margin-right:0;}
+.clearfix:after {visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0;}
+.cts {
+ 	margin:0 auto;
+ 	max-width: 980px;
+}
+.w980 {
+ 	width: 980px;
+}
+.title_notice {
+	margin:20px auto;
+ 	font-size:22px;
+ 	line-height:1.5em;
+}
+.notice {
+	text-align:left;
+	margin:20px 5px 20px;
+ 	font-size:18px;
+ 	line-height:1.3em;
+ 	width:680px;
+}
+.notice_gray {
+	text-align:left;
+	margin:20px 5px 20px;
+ 	font-size:14px;
+ 	line-height:1.3em;
+ 	width:980px;
+ 	color:#9d9d9d;
+}
+.detail_title {
+	margin:20px auto;
+ 	font-size:23px;
+ 	line-height:1.5em;
+}
+.red {
+	color:#f30;
+}
+.red:hover {
+	text-decoration:underline;
+	cursor: pointer;
+}
+</style>
+<body>
+	<div id="pagetop" class="wrapper">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MC8SFP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+			<!-- bd nothing -->
+
+
+
+
+
+
+
+
+
+
+<!-- brandCode ==== -->
+
+
+
+
+
+<!--false-->
+
+
+
+
+
+		<header id="header"><!-- header Start -->
+
+			<div class="header_text">
+					<h1>バレンタインフェア♡バレンタインルーレットクーポン（レディース クーポン）</h1>
+				<nav class="header_sns_nav"><!-- header_nav_sns Start -->
+					<ul>
+               		<li class="facebook"><a href="https://www.facebook.com/RUNWAYchannel" target="_blank">Facebook</a></li>
+                    <li class="twitter"><a href="https://twitter.com/RUNWAY_channel" target="_blank">Twitter</a></li>
+                    <li class="instagram"><a href="https://www.instagram.com/runway_channel/" target="_blank">Instagram</a></li>
+                    <li class="line"><a href="https://line.me/R/ti/p/@runwaychannel" target="_blank">LINE</a></li>
+					</ul>
+				</nav><!-- header_nav_sns End -->
+			</div>
+
+			<div class="header_bnr"><!-- header_bnr Start -->
+				<a href="/cts/app/index.html?aid3=rc_181114_app_header">
+				<div class="section_top_bnr" style="background: url(//cms-rcw.runway-webstore.net/cms/html/img/bnr_20181113153916453.png) no-repeat center;"></div>
+				</a>
+			</div><!-- header_bnr End -->
+
+			<div class="header_position">
+				<div class="header_fixed">
+
+					<div class="header_box">
+
+						<h2 class="header_logo">
+							<a href="https://runway-webstore.com/?aid3=rcmenu_logo"><img src="/static/full/images/header/header_logo_01.jpg" width="176" height="24" alt="RUNWAY channel"/></a>
+						</h2>
+
+						<nav class="header_sub_nav"><!-- nav Start -->
+							<ul class="header_sub_nav_ul_01">
+							   	<li class="header_sub_nav_guide">
+									<a href="https://runway-webstore.com/support/userguide/?aid3=rcmenu_guide">ご利用ガイド</a>
+								</li>
+								<li class="header_sub_nav_member">
+									<a href="https://runway-webstore.com/ap/member/mypage?aid3=rcmenu_mypage">会員</a>
+								</li>
+								<li class="header_sub_nav_mail">
+									<a href="https://runway-webstore.com/ap/mag/?aid3=rcmenu_mail">メールマガジン</a>
+								</li>
+								<li class="header_sub_nav_favorite">
+									<a href="https://runway-webstore.com/ap/member/favorite/list/?aid3=rcmenu_favorite">お気に入り<span class="no"></span></a>
+<script>
+</script>
+								</li>
+
+								<li class="header_sub_nav_cart">
+									<a href="https://runway-webstore.com/ap/cartMultiple/show">カートに入れる<span class="no">0</span></a>
+<script type="text/javascript">
+	$(function(){
+		if ( typeof adss_cartMultiple != "undefined" && adss_cartMultiple['amount'] != 0 ) {
+			$('.header_sub_nav_cart .no').html(adss_cartMultiple['piece']);
+			$('.header_sub_nav_cart .no').show();
+		} else {
+			$('.header_sub_nav_cart .no').html(0);
+			$('.header_sub_nav_cart .no').hide();
+		}
+	});
+</script>
+								</li>
+								<li class="header_sub_nav_search">
+									<a href="https://runway-webstore.com/ap/s/q">検索する</a>
+								</li>
+							</ul>
+						 </nav><!-- nav End -->
+
+					 </div><!-- header_box End -->
+
+					<nav class="header_nav"><!-- nav Start -->
+						<ul class="header_nav_ul_01 ">
+								<li class="header_nav_category header_nav_slide">
+								<a href="javascript:void(0);">CATEGORY</a>
+								<div class="header_nav_category_box header_nav_slide_box">
+									<div class="header_nav_category_box_inner">
+
+										<ul class="header_nav_category_ul_01">
+											<li class="allitem">
+												<a href="https://runway-webstore.com/ap/s/s?aid3=rcmenu_item">すべてのアイテムを見る</a>
+											</li>
+											<li class="ranking">
+												<a href="https://runway-webstore.com/ranking/?aid3=rcmenu_ranking">ランキング</a>
+											</li>
+											<li class="newitem"><a href="/ap/s/s/?rows=60&sort=rk+desc,sdt+desc&icon=new&-scls=n_sale&aid3=rcmenu_new">新着アイテム一覧</a></li>
+										<li class="reserve"><a href="/ap/s/s/?sort=rk+desc,sdt+desc&scls=n_usual&icon=reserve&aid3=rcmenu_pre">予約アイテム一覧</a></li>
+										</ul>
+										<ul class="header_nav_category_ul_02">
+										</ul>
+									</div>
+								</div>
+							</li>
+
+<script type="text/template" id="template-header-category">
+
+	<li class="cc1_{{=data.category.code}}">
+
+		<span><a href="{{=data.category.link}}">{{=data.category.name}}</a></span>
+		<ul class="header_nav_category_ul_03">
+			{{ _.each(data.category.medium ,function(category) { }}
+			<li><a href="{{=category.link}}">{{=category.name}}</a></li>
+			{{ }); }}
+		</ul>
+	</li>
+</script>
+
+<script type="text/javascript">
+	$(function() {
+		var params = new Array();
+	    params.push('wt=json');
+	    params.push('facet=true');
+	    params.push('facet.limit=1000');
+	    params.push('facet.field=cf1');
+	    params.push('facet.field=cf2');
+	   	params.push('facet.field=cf3');
+	    params.push('fq=dispSuppress:0');
+	    params.push('facet.sort=false');
+	    params.push('facet.mincount=1');
+	    params.push('fq=scls:n_usual');
+	    params.push('fq=-scls:n_out');
+	    params.push('fq=-scls:n_sale');
+	    params.push('fq=-cc1:V');
+
+	    params.push('fq=-cc1:W');
+	    //params.push('fq=-stnum:0');
+
+		var dataParam = params.join('&');
+		dataParam = dataParam.replace("&&","&");
+	    $.ajax({
+	        'url'      : '/ise/select',
+	        'data'     : dataParam,
+	        'dataType' : "json"
+	    }).done(function(data) {
+	    	var largeCts = data.facet_counts.facet_fields.cf1;
+	        var mediumCts = data.facet_counts.facet_fields.cf2;
+	        var smallCts = data.facet_counts.facet_fields.cf3;
+			var cc = "";
+
+	    	var holder = new Array();
+			for (var i = 0; i < largeCts.length; i+= 2) {
+				var _codeName = largeCts[i].split("__");
+				var _code = _codeName[0];
+				var _name = _codeName[1]
+				var _count = largeCts[i+1];
+
+       			if ( _count > 0 ) {
+	       			var map = {'code' : _code, 'name' : _name, 'count' : _count};
+
+		          	map.link = "https://runway-webstore.com/ap/s/s";
+		          	map.link = map.link.replace('/s/s', '/s/s/category/' + _code) + '?aid3=rcmenu_' + _code;
+
+		          	var holderM = new Array();
+		    		for (var k = 0; k < mediumCts.length; k+= 2) {
+		       			var _McodeName = mediumCts[k].split("__");
+		       			var _Mcode = _McodeName[0];
+		       			var _Mname = _McodeName[1];
+		       			var _Mcount = mediumCts[k+1];
+
+		       			if (_code != _Mcode.substr(0, 1)) {
+							continue;
+						}
+
+		        		if (parseInt(_Mcount, 10) < 1) {
+		        			continue;
+		        		}
+
+		       			var mid = {'code' : _Mcode, 'name' : _Mname, 'count' : _Mcount};
+			          	mid.link = "https://runway-webstore.com/ap/s/s";
+			          	mid.link = mid.link.replace('/s/s', '/s/s/category/' + _code + '/' + _Mcode) + '?aid3=rcmenu_' + _Mcode;
+
+			          	holderM.push(mid);
+					}
+		          	map.medium = holderM;
+
+					holder.push(map);
+				}
+    		}
+
+			$container = $(".header_nav_category_ul_02");
+			_.each(holder, function(category, index) {
+				var buffer = new Array();
+
+				buffer.push(_.template(jQuery("#template-header-category").html())({ "category": category }));
+
+				//buffer.push('</ul></li>');
+
+				$container.append(buffer.join(''));
+
+
+			});
+
+			$('.header_nav_category_ul_03 > li > span').on('click' , function(){
+				if($(this).hasClass('selected')){
+					$(this).removeClass('selected');
+					$(this).next('ul').slideUp();
+				}else{
+					$(this).addClass('selected');
+					$(this).next('ul').slideDown();
+				}
+				return false;
+			});
+		});
+	});
+</script>
+			<li class="header_nav_brand header_nav_slide">
+				<a href="javascript:void(0);">BRAND</a>
+				<div class="header_nav_brand_box header_nav_slide_box">
+					<ul class="header_nav_brand_ul">
+											<li><a href="https://runway-webstore.com/mercuryduo/?aid3=rcmenu_MK000"><img src="/static/common/images/logo/brand_logo_MK000.png" width="198" alt="MERCURYDUO"/></a></li>
+						<li><a href="https://runway-webstore.com/murua/?aid3=rcmenu_MK010"><img src="/static/common/images/logo/brand_logo_MK010.png" width="198" alt="MURUA"/></a></li>
+						<li><a href="https://runway-webstore.com/dazzlin/?aid3=rcmenu_MK020"><img src="/static/common/images/logo/brand_logo_MK020.png" width="198" alt="dazzlin"/></a></li>
+						<li><a href="https://runway-webstore.com/emoda/?aid3=rcmenu_MK040"><img src="/static/common/images/logo/brand_logo_MK040.png" width="198" alt="EMODA"/></a></li>
+						<li><a href="https://runway-webstore.com/ungrid/?aid3=rcmenu_MK110"><img src="/static/common/images/logo/brand_logo_MK110.png" width="198" alt="Ungrid"/></a></li>
+						<li><a href="https://runway-webstore.com/lagunamoon/?aid3=rcmenu_MK030"><img src="/static/common/images/logo/brand_logo_MK030.png" width="198" alt="LAGUNAMOON"/></a></li>
+						<li><a href="https://runway-webstore.com/gyda/?aid3=rcmenu_MK070"><img src="/static/common/images/logo/brand_logo_MK070.png" width="198" alt="GYDA"/></a></li>
+						<li><a href="https://runway-webstore.com/jouetie/?aid3=rcmenu_MK080"><img src="/static/common/images/logo/brand_logo_MK080.png" width="198" alt="jouetie"/></a></li>
+						<li><a href="https://runway-webstore.com/resexxy/?aid3=rcmenu_MK150"><img src="/static/common/images/logo/brand_logo_MK150.png" width="198" alt="RESEXXY"/></a></li>
+						<li><a href="https://runway-webstore.com/merryjenny/?aid3=rcmenu_MK280"><img src="/static/common/images/logo/brand_logo_MK280.png" width="198" alt="merry jenny"/></a></li>
+						<li><a href="https://runway-webstore.com/evris/?aid3=rcmenu_MK370"><img src="/static/common/images/logo/brand_logo_MK370.png" width="198" alt="EVRIS"/></a></li>
+						<li><a href="https://runway-webstore.com/flove/?aid3=rcmenu_MK330"><img src="/static/common/images/logo/brand_logo_MK330.png" width="198" alt="FLOVE"/></a></li>
+						<li><a href="https://runway-webstore.com/eatme/?aid3=rcmenu_MK340"><img src="/static/common/images/logo/brand_logo_MK340.png" width="198" alt="EATME"/></a></li>
+						<li><a href="https://runway-webstore.com/pameopose/?aid3=rcmenu_MK230"><img src="/static/common/images/logo/brand_logo_MK230.png" width="198" alt="PAMEO POSE"/></a></li>
+						<li><a href="https://runway-webstore.com/elendeek/?aid3=rcmenu_MK510"><img src="/static/common/images/logo/brand_logo_MK510.png" width="198" alt="ELENDEEK"/></a></li>
+						<li><a href="https://runway-webstore.com/un3d/?aid3=rcmenu_MK520"><img src="/static/common/images/logo/brand_logo_MK520.png" width="198" alt="UN3D."/></a></li>
+						<li><a href="https://runway-webstore.com/cotorica/?aid3=rcmenu_MK530"><img src="/static/common/images/logo/brand_logo_MK530.png" width="198" alt="COTORICA."/></a></li>
+						<li><a href="https://runway-webstore.com/runwaychannelselection/?aid3=rcmenu_MK140"><img src="/static/common/images/logo/brand_logo_MK140.png" width="198" alt="RUNWAY channel SELECTION"/></a></li>
+					</ul>
+				</div>
+			</li>
+
+
+							<li class="header_nav_cordinate"><a href="https://runway-webstore.com/coordinate/?aid3=rcmenu_coordinate">COORDINATE</a></li>
+							<li class="header_nav_feature"><a href="https://runway-webstore.com/outlet/?aid3=rcmenu_rco">SALE・OUTLET</a></li>
+							<li class="header_nav_shoplist"><a href="https://runway-webstore.com/store/">SHOP LIST</a></li>
+						</ul>
+					</nav><!-- nav End -->
+
+				</div><!-- header_fixed End -->
+			</div><!-- header_position End -->
+
+		</header><!-- header End -->
+		<div id="contents">
+			<div class="bread">
+				<ol>
+					<li><a href="https://runway-webstore.com/?aid=ug_190214_roulette_list">レディースファッション通販トップ</a></li>
+					<li>バレンタインフェア♡バレンタインルーレットクーポン（レディース クーポン）</li>
+				</ol>
+			</div>
+
+			<div class="cts">
+        <!--//////////以下コンテンツ部分////////////-->
+
+
+<div class="w980">
+
+<div align="center">
+<img src="/static/full/images/cts/rc_2019/roulette/190214/pc/01.jpg" alt="バレンタインフェア♡バレンタインルーレットクーポン（レディース クーポン）" width="980" /><br>
+<p class="title_notice">ハズレなしのルーレットクーポンにチャレンジ！<br>今スグ使える20％OFFクーポンが当たるかも!?</p>
+<img src="/static/full/images/cts/rc_2019/roulette/190214/pc/03.jpg" alt="" width="677" />
+
+<p class="detail_title">◆キャンペーン詳細◆</p>
+			<div class="tabs" id="tab_areaList" style="margin-top:0px;">
+				<ul class="tab_areas clearfix notice">
+				<li>・キャンペーン内容：期間中、1回だけルーレットを回すことができます。<br>
+				　ルーレットにより1等～3等のうちいずれかのクーポンが当たります！</li>
+				<li>・キャンペーン期間：2月14日(木)12:00 ～ 2月17日(日)23:59</li>
+				<li>・クーポン対象商品：新作全品<br>
+				 （予約・セールアイテムおよび、EATME・FLOVEアイテム除外）</li>
+				<li class="tab">・クーポンの使い方は<span class="red">コチラ＞</span></li>
+				<li>※ルーレット部分はイメージです。ルーレットの針が止まった数字と、実際の当選順位が異なる場合がございます。</li>
+
+				</ul>
+
+				<div class="target" style="display: none;">
+				<ul class="pageShopListDetailBrand cf">
+					<li><img src="/static/full/images/regist_campaign/p_sp_rc_180330_coupon_03.jpg" alt="クーポンの使い方" width="980" height="" /></li>
+				</ul>
+				</div>
+			</div>
+
+
+	
+<p class="detail_title">◆対応ブラウザ・環境◆</p>
+<p class="notice_gray">
+■PC<br />
+OS <br/>
+Windows 7 以降/MacOS 10.9 以降<br />
+ブラウザ </br>
+Google Chrome 最新版/Firefox 最新版/Safari 8.0 以降/Internet Explorer 10 以降<br />
+■スマートフォン<br />
+OS </br>
+iOS 8.0 以降 /Android 4.4 以降<br />
+ブラウザ </br>
+Google Chrome 最新版/Safari 最新版<br />
+※Androidの標準ブラウザについては、機種によって仕様が異なるため、正常に動作しない場合がございます。</br>
+あらかじめご了承ください。
+※通信環境によって、ルーレットが正常に表示されない場合がございます。
+</p>
+        <!--//////////コンテンツ部分ここまで////////////-->
+</div>
+
+			</div>
+		</div>
+<footer id="footer"><!-- footer Start -->
+
+	<div class="footer_gotop">
+				<a href="#pagetop">PAGE TOP</a>
+	</div>
+
+
+				<nav class="footer_nav_category"><!-- nav Start -->
+
+				<div class="footer_nav_category_box">
+				<h4 class="footer_nav_link_title">CATEGORY</h4>
+						<div id="footer_category_wrapp">
+						</div>
+
+				</div>
+			</nav><!-- nav End -->
+
+
+
+<script type="text/template" id="template-footer-category">
+
+		<li><span><a href="{{=data.category.link}}">{{=data.category.name}}</a></span></li>
+			{{ _.each(data.category.medium ,function(category) { }}
+				<li><a href="{{=category.link}}">{{=category.name}}</a></li>
+			{{ }); }}
+		</li>
+</script>
+
+<script type="text/javascript">
+	$(function() {
+		var params = new Array();
+	    params.push('wt=json');
+	    params.push('facet=true');
+	    params.push('facet.limit=1000');
+	    params.push('facet.field=cf1');
+	    params.push('facet.field=cf2');
+	   	params.push('facet.field=cf3');
+	    params.push('facet.sort=false');
+	    params.push('facet.mincount=1');
+	    params.push('fq=scls:n_*');
+	    params.push('fq=-cc1:V');
+	    params.push('fq=-cc1:W');
+	    //params.push('fq=-stnum:0');
+		var dataParam = params.join('&');
+		dataParam = dataParam.replace("&&","&");
+	    $.ajax({
+	        'url'      : '/ise/select',
+	        'data'     : dataParam,
+	        'dataType' : "json"
+	    }).done(function(data) {
+	    	var largeCts = data.facet_counts.facet_fields.cf1;
+	        var mediumCts = data.facet_counts.facet_fields.cf2;
+	        var smallCts = data.facet_counts.facet_fields.cf3;
+			var cc = "";
+
+	    	var holder = new Array();
+			for (var i = 0; i < largeCts.length; i+= 2) {
+				var _codeName = largeCts[i].split("__");
+				var _code = _codeName[0];
+				var _name = _codeName[1]
+				var _count = String(largeCts[i+1]).replace(/,/g, '');
+
+       			if ( _count > 0 ) {
+	       			var map = {'code' : _code, 'name' : _name, 'count' : _count};
+
+		          	map.link = "https://runway-webstore.com/ap/s/s";
+		          	map.link = map.link.replace('/s/s', '/s/s/category/' + _code) + '?aid3=rcfooter_' + _code;
+
+		          	var holderM = new Array();
+		    		for (var k = 0; k < mediumCts.length; k+= 2) {
+		       			var _McodeName = mediumCts[k].split("__");
+		       			var _Mcode = _McodeName[0];
+		       			var _Mname = _McodeName[1];
+		       			var _Mcount = String(mediumCts[k+1]).replace(/,/g, '');
+
+		       			if (_code != _Mcode.substr(0, 1)) {
+							continue;
+						}
+
+		        		if (parseInt(_Mcount, 10) < 1) {
+		        			continue;
+		        		}
+
+		       			var mid = {'code' : _Mcode, 'name' : _Mname, 'count' : _Mcount};
+			          	mid.link = "https://runway-webstore.com/ap/s/s" ;
+			          	mid.link = mid.link.replace('/s/s', '/s/s/category/' + _code + '/' + _Mcode) + '?aid3=rcfooter_' + _Mcode;
+
+			          	holderM.push(mid);
+					}
+		          	map.medium = holderM;
+
+					holder.push(map);
+				}
+    		}
+
+			$container = $("#footer_category_wrapp");
+			_.each(holder, function(category, index) {
+				var buffer = new Array();
+				buffer.push('<ul class="footer_nav_category_ul_02">');
+				if ( index == 0 ) {
+					// 1個目の大カテゴリにallとsaleを含める
+					buffer.push('<li class="allitem">');
+					buffer.push('<a href="https://runway-webstore.com/ap/s/s">');
+					buffer.push('すべてのアイテム');
+					buffer.push('</a>');
+					buffer.push('</li>');
+				}
+				buffer.push(_.template(jQuery("#template-footer-category").html())({ "category": category }));
+
+				buffer.push('</ul>');
+				$container.append(buffer.join(''));
+
+
+			});
+
+			$('.footer_nav_category_ul_03 > li > span').on('click' , function(){
+				if($(this).hasClass('selected')){
+					$(this).removeClass('selected');
+					$(this).next('ul').slideUp();
+				}else{
+					$(this).addClass('selected');
+					$(this).next('ul').slideDown();
+				}
+				return false;
+			});
+			jQuery(function($){
+			  $('#footer_category_wrapp').masonry({
+				itemSelector: '.footer_nav_category_ul_02',
+				columnWidth: 0,
+				isFitWidth: true  //親要素の幅に合わせてカラム数を自動調整
+			  });
+			});
+		});
+	});
+</script>
+
+
+
+			<nav class="footer_nav_link"><!-- nav Start -->
+				<ul class="footer_nav_link_ul_01">
+					<li class="footer_nav_link_contents">
+						<h4 class="footer_nav_link_title">FASHION CONTENTS</h4>
+						<ul class="footer_nav_link_ul_02">
+							<li><a href="https://runway-webstore.com/?aid3=rcfooter_fashioncontents">通販</a></li>
+							<li><a href="https://runway-webstore.com/outlet/?aid3=rcfooter_fashioncontents">アウトレットセール</a></li>
+							<li><a href="https://runway-webstore.com/coordinate/autumn/2018/index.html?aid3=rcfooter_fashioncontents">秋コーデ2018特集</a></li>
+							<li><a href="https://runway-webstore.com/coordinate/winter/2018/index.html?aid3=rcfooter_fashioncontents">冬コーデ2018特集</a></li>
+							<li><a href="https://runway-webstore.com/topics/damage_denim.html?aid3=rcfooter_fashioncontents">ダメージデニム</a></li>
+							<li><a href="https://runway-webstore.com/topics/trend_check.html?aid3=rcfooter_fashioncontents">チェック柄</a></li>
+							<li><a href="https://runway-webstore.com/topics/2018_flower_pattern.html?aid3=rcfooter_fashioncontents">花柄・フラワー柄</a></li>
+							<li><a href="https://runway-webstore.com/topics/fur_eco-fur.html?aid3=rcfooter_fashioncontents-fur">ファー・エコファー</a></li>
+							<li><a href="https://runway-webstore.com/fukubukuro/index.html?aid3=rcfooter_fashioncontents">福袋 2019</a></li>
+						</ul>
+					</li>
+						<li class="footer_nav_link_brand">
+						<h4 class="footer_nav_link_title">BRAND</h4>
+						<ul class="footer_nav_link_ul_02">
+						<li><a href="https://runway-webstore.com/mercuryduo/?aid3=rcfooter_MK000">MERCURYDUO (マーキュリーデュオ)</a></li>
+						<li><a href="https://runway-webstore.com/murua/?aid3=rcfooter_MK010">MURUA (ムルーア)</a></li>
+						<li><a href="https://runway-webstore.com/dazzlin/?aid3=rcfooter_MK020">dazzlin (ダズリン)</a></li>
+						<li><a href="https://runway-webstore.com/emoda/?aid3=rcfooter_MK040">EMODA (エモダ)</a></li>
+						<li><a href="https://runway-webstore.com/ungrid/?aid3=rcfooter_MK110">Ungrid (アングリッド)</a></li>
+						<li><a href="https://runway-webstore.com/lagunamoon/?aid3=rcfooter_MK030">LAGUNAMOON (ラグナムーン)</a></li>
+						<li><a href="https://runway-webstore.com/gyda/?aid3=rcfooter_MK070">GYDA (ジェイダ)</a></li>
+						<li><a href="https://runway-webstore.com/jouetie/?aid3=rcfooter_MK080">jouetie (ジュエティ)</a></li>
+						<li><a href="https://runway-webstore.com/resexxy/?aid3=rcfooter_MK150">RESEXXY (リゼクシー)</a></li>
+						<li><a href="https://runway-webstore.com/merryjenny/?aid3=rcfooter_MK280">merry jenny (メリージェニー)</a></li>
+						<li><a href="https://runway-webstore.com/evris/?aid3=rcfooter_MK370">EVRIS (エヴリス)</a></li>
+						<li><a href="https://runway-webstore.com/flove/?aid3=rcfooter_MK330">FLOVE (フローヴ)</a></li>
+						<li><a href="https://runway-webstore.com/eatme/?aid3=rcfooter_MK340">EATME (イートミー)</a></li>
+						<li><a href="https://runway-webstore.com/pameopose/?aid3=rcfooter_MK230">PAMEO POSE (パメオポーズ)</a></li>
+						<li><a href="https://runway-webstore.com/elendeek/?aid3=rcfooter_MK510">ELENDEEK (エレンディーク)</a></li>
+						<li><a href="https://runway-webstore.com/un3d/?aid3=rcfooter_MK520">UN3D. (アンスリード)</a></li>
+						<li><a href="https://runway-webstore.com/cotorica/?aid3=rcfooter_MK530">COTORICA. (コトリカ)</a></li>
+						<li><a href="https://runway-webstore.com/runwaychannelselection/?aid3=rcfooter_MK140">RUNWAY channel SELECTION<br />(ランウェイチャンネルセレクション)</a></li>
+						</ul>
+					</li>
+	                    <li class="footer_nav_link_press">
+                        <h4 class="footer_nav_link_title">PRESS</h4>
+                        <ul class="footer_nav_link_ul_02">
+							<li><a href="/popteen/?aid3=rcfooter_press">Popteen</a></li>	
+							<li><a href="/otonamuse/?aid3=rcfooter_press">大人muse</a></li>	
+							<li><a href="/scawaii/?aid3=rcfooter_press">S Cawaii</a></li>
+							<li><a href="/inred/?aid3=rcfooter_press">InRed</a></li>	
+							<li><a href="/vivi/?aid3=rcfooter_press">ViVi</a></li>
+							<li><a href="/more/?aid3=rcfooter_press">MORE</a></li>	
+							<li><a href="/jelly/?aid3=rcfooter_press">JELLY</a></li>
+							<li><a href="/with/?aid3=rcfooter_press">with</a></li>	
+							<li><a href="/gina/?aid3=rcfooter_press">Gina</a></li>
+							<li><a href="/mini/?aid3=rcfooter_press">mini</a></li>	
+							<li><a href="/gisele/?aid3=rcfooter_press">GISELe</a></li>	
+							<li><a href="/mina/?aid3=rcfooter_press">mina</a></li>
+							<li><a href="/ray/?aid3=rcfooter_press">Ray</a></li>	
+							<li><a href="/nonno/?aid3=rcfooter_press">non-no</a></li>
+							<li><a href="/jj/?aid3=rcfooter_press">JJ</a></li>	
+							<li><a href="/cancam/?aid3=rcfooter_press">CanCam</a></li>
+							<li><a href="/mer/?aid3=rcfooter_press">mer</a></li>	
+							<li><a href="/ginger/?aid3=rcfooter_press">GINGER</a></li>
+							<li><a href="/sweet/?aid3=rcfooter_press">sweet</a></li>
+							<li><a href="/nylon/?aid3=rcfooter_press">NYLON</a></li>
+							<li><a href="/bijin/?aid3=rcfooter_press">美人百花</a></li>
+							<li><a href="/andgirl/?aid3=rcfooter_press">andGIRL</a></li>
+                        </ul>
+                    </li>
+				</ul>
+			</nav><!-- nav End -->
+
+
+
+			<div class="footer_caution"><!-- footer_caution Start -->
+
+				<p>RUNWAY channel（ランウェイチャンネル）レディースファッション通販、バレンタインフェア♡バレンタインルーレットクーポン（レディース クーポン）です。商品カテゴリーの他、サイズ、価格、OFF率、カラー等、あなたのこだわり条件から探せます。人気・おすすめ商品も満載！</p>
+			</div><!-- footer_caution End -->
+
+			<div class="footer_under_nav">
+				<div class="footer_box">
+
+					<div class="footer_box_inner">
+						<h4 class="footer_logo"><a href="https://runway-webstore.com/?aid3=rcfooter_logo"><img src="/static/full/images/footer/footer_logo_01.jpg" width="170" height="26" alt="RUNWAY channel"/></a></h4>
+						<nav class="footer_sns_nav"><!-- nav Start -->
+							<ul>
+								<li class="facebook"><a href="https://www.facebook.com/RUNWAYchannel" target="_blank">Facebook</a></li>
+								<li class="twitter"><a href="https://twitter.com/RUNWAY_channel" target="_blank">Twitter</a></li>
+								<li class="instagram"><a href="https://www.instagram.com/runway_channel/" target="_blank">Instagram</a></li>
+								<li class="line"><a href="https://line.me/R/ti/p/@runwaychannel" target="_blank">LINE</a></li>
+							</ul>
+						</nav><!-- nav End -->
+
+						<nav class="footer_nav"><!-- nav Start -->
+							<ul>
+								<li><a href="https://runway-webstore.com/support/beginner.html?aid3=rcfooter_beginner">初めての方へ</a></li>
+								<li><a href="https://runway-webstore.com/support/userguide/?aid3=rcfooter_guide">USER GUIDE</a>（<a href="https://runway-webstore.com/support/en/userguide/" class="normalAnchor">English</a>|<a href="https://runway-webstore.com/support/ch/userguide/" class="normalAnchor">中文</a>）</li>
+							</ul>
+						</nav><!-- nav End -->
+
+						<nav class="footer_sub_nav"><!-- nav Start -->
+							<ul>
+								<li><a href="http://www.mark-styler.co.jp/privacypolicy.html" target="_blank">プライバシーポリシー</a></li>
+								<li><a href="https://runway-webstore.com/support/deal.html">特定商取引法に基づく表記</a></li>
+								<li><a href="http://www.mark-styler.co.jp/company.html" target="_blank">会社概要</a></li>
+							</ul>
+						</nav><!-- nav End -->
+					</div>
+
+					<nav class="footer_webstore_nav"><!-- nav Start -->
+						<ul>
+							<li><a href="https://runway-webstore.com/?aid3=rcfooter_rclogo"><img src="/static/full/images/footer/footer_bnr_08.jpg" width="210" height="70" alt="RUNWAY channel WEB STORE"></a></li>
+							<li><a href="https://runway-webstore.com/outlet/?aid3=rcfooter_rcologo"><img src="/static/full/images/footer/footer_bnr_10.jpg" width="210" height="70" alt="RUNWAY channel OUTLET"></a></li>
+						</ul>
+					</nav>
+				</div><!-- footer_box End -->
+			</div><!-- footer_under_nav End -->
+
+	<small class="footer_copyright">Copyright © MARK STYLER Co., Ltd. All Rights Reserved.</small>
+
+</footer><!-- footer End -->
+<div id="pcmode" style="display:none;"></div>
+<script type="text/javascript">
+var $viewTypeChanger = $("div#pcmode");
+function toggleViewTypeChanger() {
+  if (ADSS.Util.getAppCookie('vt') === 'lite' || ADSS.Util.useLiteMode(true, true, 1080)) {
+  $viewTypeChanger
+    .html("<a class=\"smart-ancar\" href=\"javascript:ADSS.Util.setAppCookie('vt','lite');location.reload(true);\"><span id=\"pcmode1\">SMART PHONE版で表示</span></a>")
+    .css('display', 'block');
+  } else {
+  $viewTypeChanger
+    .css('display', 'none');
+  }
+}
+
+toggleViewTypeChanger();
+
+var timer = false;
+$(window).resize(function() {
+  if (timer !== false) {
+    clearTimeout(timer);
+  }
+  timer = setTimeout(function() {
+    toggleViewTypeChanger();
+  }, 200);
+});
+</script>
+<!-- Yahoo! Tag Manager -->
+<script id="tagjs" type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=NfaOkIf";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=NfaOkIf" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<!-- Yahoo! Tag Manager -->
+<!--google dynamic remarketing-->
+<script type="text/javascript">
+	var google_tag_params = {
+		ecomm_pagetype: 'other'
+	};
+</script>
+<!--google dynamic remarketing-->
+
+
+
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '513163278854507');
+fbq('init', '1960405637567426');
+fbq('track', "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=513163278854507&ev=PageView&noscript=1"
+/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+
+
+<script type="text/javascript">
+if (typeof adss_items_cart != "undefined") {
+  var items = [];
+  for(let item of adss_items_cart) {
+    let rcwImg = '';
+    var itemName = item.name;
+    if (item.viewProductName) {
+        itemName = item.viewProductName;
+    }
+    if (item.vcbImgs.indexOf("02_" + item.vcbCode + "_RCW.jpg") >= 0) {
+        rcwImg = '_RCW';
+    }
+    items.push({
+      "item_id": 'M' + item.mkcode + item.vcbCode.substr(1) + item.vcaCode.substr(0,2),
+      "name": itemName,
+      "price": item.basicPrice,
+      "quantity": item.orderSumNum,
+      "image":'//itemimg-rcw.runway-webstore.net/itemimg/' + item.brandId + '/' + item.cd + '/02_' + item.vcbCode + rcwImg + '-240.jpg',
+      "category": item.brandName + ' ' + item.dcyName
+    })
+  }
+
+if(typeof dataLayer !="undefined"){
+  dataLayer.push({
+    cart_items:{
+      "status": true,
+      "price": adss_cartMultiple.amount ,
+      "item_quantity": adss_items_cart.length,
+      "items": items
+    }
+  })
+
+  console.log(dataLayer);
+
+	}
+}
+</script><!--accesstrade-->
+<script src="https://h.accesstrade.net/js/nct/lp.min.js"></script>
+<!--accesstrade-->
+
+<!--カスタマーリングスタグ/-->
+<script src="//jmp.c-rings.net/cr_effectLog-v21i.min.js" type="text/javascript"></script>
+<!--/カスタマーリングスタグ-->
+	</div>
+    	<!--facebook btn-->
+	<div id="fb-root"></div>
+	<script>
+		(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.10";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+	</script>
+
+</body>
+</html>

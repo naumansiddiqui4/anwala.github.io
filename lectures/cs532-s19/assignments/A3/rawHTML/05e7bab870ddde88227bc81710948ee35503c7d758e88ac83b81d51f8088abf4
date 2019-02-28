@@ -1,0 +1,3951 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+
+
+
+<html class=" ">
+
+<head>
+<script type="text/javascript">
+  try {
+    window.NicoGoogleTagManagerDataLayer = [];
+
+    var data = {};
+
+        data.user = (function () {
+      var user = {};
+
+                  user.login_status = 'not_login';
+      
+      return user;
+      })();
+
+    data.content = (function () {
+      var content = {};
+      content.community_id = '3520226';
+      content.ch_screen_name = 'ksp-live';
+      return content;
+    })();
+
+    window.NicoGoogleTagManagerDataLayer.push(data);
+    } catch (e) {}
+</script><!-- Google Tag Manager -->
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','NicoGoogleTagManagerDataLayer','GTM-KXT7G5G');</script>
+
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager For Google Optimize -->
+    
+            
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','NicoChGoogleTagManagerForOptimizeDataLayer','GTM-K8CLHPH');</script>
+        
+    <!-- End Google Tag Manager For Google Optimize  --><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="copyright" content="(C) DWANGO Co., Ltd.">
+
+
+
+
+
+<title>KSP LIVE CHANNEL(KSPエンタテインメント) - ニコニコチャンネル:音楽</title>
+    <meta name="keywords" content="V系,ライブ,ヴィジュアル系,音楽,動画,無料,ニコニコチャンネル,niconico">    <meta name="description" content="KSPエンタテインメントがお送りするライブ配信チャンネル！ヴィジュアル系バンドを中心に、様々なアーティストのライブ映像をお届けします!!">    
+        
+
+                                
+            
+        
+        
+        
+        
+        
+                
+
+        
+
+                                                        
+
+<meta property="og:title" content="KSP LIVE CHANNEL(KSPエンタテインメント) - ニコニコチャンネル:音楽">
+<meta property="og:site_name" content="KSP LIVE CHANNEL">
+<meta property="og:description" content="KSPエンタテインメントがお送りするライブ配信チャンネル！ ヴィジュアル系バンドを中心に、様々なアーティストのライブ映像...">
+<meta property="og:url" content="https://ch.nicovideo.jp/ksp-live">
+<meta property="og:image" content="https://secure-dcdn.cdn.nimg.jp/nicochannel/material/design/3520226/TOP_01.jpg">
+<meta property="og:type" content="website">
+<meta property="fb:app_id" content="1080595878705344">
+<meta name="twitter:card" content="summary_large_image">
+                                    <link rel="canonical" href="https://ch.nicovideo.jp/ksp-live">
+
+
+    
+
+            <link rel="alternate" media="only screen and (max-width: 640px)" href="https://sp.ch.nicovideo.jp/ksp-live" />
+
+    <link rel="shortcut icon" href="https://ch.nicovideo.jp/favicon.ico?111206">
+
+<link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicoheader/resources/nicolib-CommonNotificationHeader.css?1550736329">
+<link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicoheader/resources/siteHeader.css?1550736329">
+<link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/css/legacy-less/base.css?1550736329">
+
+
+
+
+
+
+<link rel="alternate" type="application/rss+xml" title="KSP LIVE CHANNEL チャンネル動画" href="/ksp-live/video?rss=2.0">
+
+
+            <link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/css/legacy-less/channel-channel_top.css?1550736329">
+    <style type="text/css"><!--
+section.site_body {background-color:#e3e3e3;background-position:left top;background-repeat:no-repeat;background-attachment:scroll;color:#333333;}
+section.site_body a {color:#6296c1;}
+section.site_body a:visited {color:#6179bf;}
+
+div#channel-main  {background-color:transparent;background-position:left top;background-repeat:no-repeat;background-attachment:scroll;color:#333333;}
+div#channel-main a {color:#6296c1;}
+div#channel-main a:visited {color:#6179bf;}
+
+--></style>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/css/legacy-less/campaign-ticket_sale-ticket_sale.css?1550736329">
+
+
+
+
+<script>
+var is_login   = false;
+var is_premium = false;
+var is_channel = true;
+var nicopo_balance = false;
+var page_code  = "channel_view"||null;
+var page_id    = "ch_page"||null;
+var user       = null,
+    ad_age     = null,
+    ad_gender  = null;
+var community = {
+    "type":"premium"
+};
+var channeloption = {
+    "first_month_free_flag":false};
+var show_danimestore_invitation = false</script>
+
+
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicoheader/siteHeader.js?1550736329"></script>
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicoheader/nicolib-CommonNotificationHeader.js?1550736329"></script>
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/lib/prototype.1.6.1.min.js"></script>
+<script>Element.addMethods();</script>
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/lib/jquery/jquery-1.8.3.min.js"></script>
+<script>jQuery.noConflict();</script>
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/common.js?1550736329"></script>
+
+
+
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/lib/swfobject.js?v1.5.1"></script>
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicolib.js?1550736329"></script><script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/ads.js?1550736329"></script>
+
+<script src="https://ads.nicovideo.jp/assets/js/ads-2.28.3.min.js"></script>
+
+
+
+
+
+
+
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/base_cp.js?1550736329"></script>
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/lib/jarty.js"></script><script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/parts/nico_review.js?1550736329"></script>
+<script>
+Nico.LazyImage.margin=400;
+Nico.LazyImage.attrName="data-original";
+Nico.LazyImage.initialize();
+</script>
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/lib/google_analytics.js"></script>
+    <script>
+        ga('create', 'UA-96548570-4', 'auto', {
+            'name': 'chfrontAll',
+            'sampleRate': 5
+        });
+        ga('require', 'GTM-K8CLHPH');         ga('chfrontAll.send', 'pageview');
+    </script>
+
+
+<script src='https://partner.googleadservices.com/gampad/google_service.js'></script>
+<script>
+GS_googleAddAdSenseService("ca-pub-1828667301391598");
+GS_googleEnableAllServices();
+</script>
+<script>
+GA_googleAddSlot("ca-pub-1828667301391598", "channel_224x224");
+GA_googleAddSlot("ca-pub-1828667301391598", "channel_468x60");
+GA_googleAddSlot("ca-pub-1828667301391598", "channel_728x90");
+GA_googleAddSlot("ca-pub-1828667301391598", "blomaga_468x60");
+GA_googleFetchAds();
+</script>
+
+</head>
+
+<body id="channel_top"class="
+ ja  channel personal">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXT7G5G" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager For Google Optimize (noscript) -->
+    
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K8CLHPH" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager For Google Optimize (noscript) -->
+
+
+        <header class="site">
+        <div id="siteHeader">
+    <div id="siteHeaderInner">
+        <ul class="siteHeaderGlovalNavigation nav_items">
+            <li><a href="https://www.nicovideo.jp/?header" class="iconNiconico"><span>niconico</span></a></li>
+            <li><a href="https://www.nicovideo.jp/video_top?header"><span>動画</span></a></li>
+            <li><a href="http://seiga.nicovideo.jp/?header"><span>静画</span></a></li>
+            <li><a href="http://live.nicovideo.jp/?header"><span>生放送</span></a></li>
+            <li><a href="https://ch.nicovideo.jp/?header"><span class="narrow">チャンネル</span></a></li>
+            <li><a href="https://ch.nicovideo.jp/portal/blomaga?header"><span class="narrow">ブロマガ</span></a></li>
+            <li><a href="https://game.nicovideo.jp/atsumaru/?header"><span>RPG</span></a></li>
+            <li><a href="http://rd.nicovideo.jp/cc/app/mastodon?header" target="_blank"><span>マストドン</span></a></li>
+            <li class="siteHeaderOther" id="siteHeaderLeftMenu">
+                <a href="javascript:void(0);"><span>その他▼</span></a>
+                <ul id="siteHeaderLeftMenuContainer" class="siteHeaderDropdown" style="display:none;">
+                    <li><a href="http://app.nicovideo.jp/?header">アプリ</a></li>
+                    <li><a href="http://ichiba.nicovideo.jp/?header">市場</a></li>
+                    <li><a href="https://dic.nicovideo.jp/?header">大百科</a></li>
+                    <li><a href="https://nicoad.nicovideo.jp/?header">ニコニ広告</a></li>
+                    <li><a href="http://commons.nicovideo.jp/?header">コモンズ</a></li>
+                    <li><a href="http://niconare.nicovideo.jp/?header">ニコナレ</a></li>
+                    <li><a href="https://3d.nicovideo.jp/?header">ニコニ立体</a></li>
+                    <li><a href="http://jk.nicovideo.jp/?header">実況</a></li>
+                    <li><a href="https://com.nicovideo.jp/?header">コミュ二ティ</a></li>
+                    <li><a href="https://news.nicovideo.jp/?header">ニュース</a></li>
+                    <li><a href="https://q.nicovideo.jp/?header">ニコニコQ</a></li>
+                    <li><a href="https://mtm.nicovideo.jp/?header">ニコニコまとめ</a></li>
+                    <li class="menuServiceList"><a href="http://site.nicovideo.jp/service_list?header">もっと見る</a></li>
+                </ul>
+            </li>
+        </ul>
+        <ul class="siteHeaderMenuList">
+                            <li id="siteHeaderNotification" class="siteHeaderLogin">
+                    <a href="https://account.nicovideo.jp/login?next_url=%2Fksp-live&site=channel&time=1550977531&hash_key=6c08e78b" class="nav_item">
+                    <span class="narrow">ログイン</span></a>
+                </li>
+                <li class="siteHeaderHorizon">
+                    <a href="https://account.nicovideo.jp/register?sec=common_header&mode=landing"
+                    class="nav_item siteHeaderRegister" style="color:#F1B700;"
+                    data-site="nicocha">
+                    <span><span class="narrow">ニコニコ</span>会員登録</span></a>
+                </li>
+            
+                                                <li class="siteHeaderChSignup newChannel">
+                        <a href="/start" class="nav_item">
+                            <span><span class="narrow">チャンネルを</span>開設</span>
+                        </a>
+                    </li>
+                            
+            <!-- end notification header -->
+
+            <li class="purchased">
+                <a href="/my/purchased" class="nav_item">
+                    <span>購入<span class="narrow">したもの</span></span>
+                </a>
+            </li>
+
+                            <li>
+                    <a href="/ranking" class="nav_item"
+                    title="チャンネル動画ランキング">
+                        <span class="narrow">ランキング</span>
+                    </a>
+                </li>
+            
+            <li class="siteHeaderOther" id="siteHeaderRightMenu">
+
+                <a class="nav_item" href="javascript:void(0);"
+                ><span class="narrow">メニュー▼</span></a>
+
+                <ul id="siteHeaderRightMenuContainer"
+                class="siteHeaderDropdown largemenu nav_items
+                not_logged_in"
+                style="display:none;">
+
+                    <li class="need_login">
+                        <a class="container" href="/my/purchased">
+                            <dl>
+                                <dt class="title">購入したもの</dt>
+                                <dd>
+                                    <p>
+                                        あなたが購入した<br>有料コンテンツ一覧
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                    <li class="need_login">
+                        <a class="container" href="/my/following">
+                            <dl>
+                                <dt class="title">登録したチャンネル</dt>
+                                <dd>
+                                    <p>
+                                        フォロー/入会した<br>チャンネルの一覧
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+
+                                        <li class="need_login">
+                        <a class="container" href="/my/mail/subscribing">
+                            <dl>
+                                <dt class="title">メール購読の設定</dt>
+                                <dd>
+                                    <p>
+                                        メール購読の解除と再開
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                    <li class="need_login">
+                        <a class="container" href="https://www.nicovideo.jp/my/top">
+                            <dl>
+                                <dt class="title">マイページ</dt>
+                                <dd>
+                                    <p>
+                                        マイリスト、ニコレポ、<br>投稿した動画
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+
+                    <li class="need_login">
+                        <a class="container" href="https://account.nicovideo.jp/my/account">
+                            <dl>
+                                <dt class="title">アカウント設定</dt>
+                                <dd>
+                                    <p>
+                                        ニコニコアカウントの管理
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                                        <li>
+                        <a class="container" href="https://account.nicovideo.jp/login?next_url=%2Fksp-live&site=channel&time=1550977531&hash_key=6c08e78b">
+                            <dl>
+                                <dt class="title">ログイン</dt>
+                                <dd>
+                                    <p>
+                                        niconicoにログイン
+                                    </p>
+                                </dd>
+                            </dl>
+                        </a>
+                    </li>
+                                        <li id="siteHeaderRightMenuUnfix"
+                        ><a href="javascript:void(0);">
+                        ヘッダー:<span class="siteHeaderScroll">追従</span></a
+                    ></li>
+                    <li id="siteHeaderRightMenuFix">
+                        <a href="javascript:void(0);">
+                        ヘッダー:<span class="siteHeaderFix">固定</span></a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+    </div>
+</div>
+
+
+
+<script>
+jQuery(document).ready(function(){
+    //ユーザー名の最大幅を計算
+    var adjustNicknameWidth = function(){
+        if(is_login) {
+            //お知らせ残件数左offset
+            var notify_left     = jQuery("#siteHeaderNotificationContainer").offset().left - jQuery("#siteHeaderInner").offset().left;
+            //左側nicoファミリーサイト群の幅
+            var nico_navi_width = jQuery(".siteHeaderGlovalNavigation").width();
+            //ユーザーサムネとmarginの幅
+            var userthumb_width = 34;
+            //"さん"文字列の幅
+            var san_width       = 30;
+            //少し余裕を持たせる
+            var side_margin     = 15;
+            //nicknameが使える最大幅を計算
+            var nick_width_px = Math.floor( notify_left - nico_navi_width - userthumb_width - san_width - side_margin*2 )+"px";
+            //css設定
+            jQuery("#siteHeaderUserNickNameContainer").css("max-width",nick_width_px);
+            return nick_width_px;
+        }else{
+            return false;
+        }
+    }
+    setTimeout(adjustNicknameWidth,0);//実行タイミングをズラす
+    window.adjustNicknameWidth = adjustNicknameWidth;
+});
+</script>
+
+
+                            <div id="head_cp">
+    <div class="head_inner">
+
+    <nav class="head_breadcrumb" id="head_cp_breadcrumb">
+        <h1 class="channel_name"><a href="/ksp-live">KSP LIVE CHANNEL</a></h1>
+        <div class="site_logo"><a href="https://ch.nicovideo.jp/"><img src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/img/base/niconico_channel_small.png" alt="ニコニコチャンネル"></a></div>
+
+                                <div class="channel_category">
+                <a href="/portal/music">
+                    音楽
+                </a>
+                <menu class="switch_category">
+                    <span class="other">▼</span>
+                    <ul id="other_categories_list" style="display:none;">
+                        <li ><a href="/portal/event">イベント</a>
+<li ><a href="/portal/blomaga">ブロマガ</a>
+<li ><a href="/portal/anime">アニメ</a>
+<li ><a href="/portal/movie">映画・ドラマ</a>
+<li ><a href="/portal/media">社会・言論</a>
+<li ><a href="/portal/tokusatsu">特撮</a>
+<li class="selected"><a href="/portal/music">音楽</a>
+<li ><a href="/portal/entertainment">エンタメ</a>
+<li ><a href="/portal/sports">スポーツ</a>
+<li ><a href="/portal/showbiz">芸能</a>
+<li ><a href="/portal/life">生活</a>
+<li ><a href="/portal/politics">政治</a>
+<li ><a href="/portal/game">ゲーム</a>
+<li ><a href="/portal/variety">バラエティ</a>
+<li ><a href="/portal/gravure">グラビア</a>                    </ul>
+                </menu>
+            </div>
+            <script>Ch.categoryDropdown.init();</script>
+        
+    </nav>
+
+
+        <menu id="head_sns_share" class="sns_share">
+        <!--SNS共有-->
+        
+        
+                                        <div class="sns_button twitter">
+            <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="https://ch.nicovideo.jp/ksp-live" data-text="KSP LIVE CHANNEL #nicoch" data-count="none" data-lang="ja">Tweet</a>
+        </div>
+
+        <div class="sns_button facebook">
+            <iframe src="https://www.facebook.com/plugins/like.php?href=https://ch.nicovideo.jp/ksp-live&locale=&app_id=227837487254498&amp;send=false&amp;layout=button&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" allowTransparency="true"
+            style="width:110px; height:21px"></iframe>
+                    </div>
+
+        <!--その他のSNS: hatebu gp+-->
+        <div class="sns_other">
+            <button class="btn_share_toggle"><span class="down">▼</span><span class="up">▲</span></button>
+            <div id="head_sns_share_more">
+                <ul>
+                    <li class="hatebu"><a href="http://b.hatena.ne.jp/entry/s/ch.nicovideo.jp/ksp-live" class="hatena-bookmark-button" data-hatena-bookmark-title="KSP LIVE CHANNEL - ニコニコチャンネル" data-hatena-bookmark-layout="basic" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/entry-button/button-only.gif" alt="このエントリーをはてなブックマークに追加" width="20" height="20"></a>
+                </ul>
+            </div>
+        </div>
+        
+        <script>
+        jQuery(".btn_share_toggle").on("click",function(){
+            var sns_other = jQuery(".sns_other");
+            var sns_other_panel = jQuery("#head_sns_share_more");
+            var target_height = sns_other_panel.find("ul").outerHeight();
+            var expanded_class = "expanded";
+            if(sns_other.hasClass(expanded_class)){
+                //close it
+                sns_other_panel.animate({"height":"0"},150);
+                sns_other.removeClass(expanded_class);
+            }else{
+                //open it
+                sns_other_panel.animate({"height":target_height},150);
+                sns_other.addClass(expanded_class);
+            }
+        });
+        </script>
+        
+    </menu>
+    
+    </div>
+    </div>
+    <div id="head_cp_menu">
+    <div class="head_inner">
+                                <nav class="current channel" id="cp_menu">
+                <ul>
+                                                                    
+                                    
+                        <li class="selected">
+                            <a href="/ksp-live">トップ</a>
+
+                                                                                <li class="">
+                                <a href="/ksp-live/video">動画</a>
+                        
+                        
+                                                                                <li class="">
+                                <a href="/ksp-live/live">生放送</a>
+                        
+                                                                                <li class="">
+                                <a href="/ksp-live/blomaga">ブロマガ</a>
+                        
+                        
+                        
+                                                    </ul>
+            </nav>
+                    
+        <div class="join_leave">
+                
+    
+    
+    <div class="cell">
+
+                                <a class="join need_login"
+            href="https://account.nicovideo.jp/login?site=channel&next_url=%2Fksp-live%3Fadmission_type%3Dselect&time=1550977531&hash_key=e6ad6e77"
+            
+            onclick="ga('chfrontAll.send','event','ヘッダー','チャンネルに入会',location.pathname);
+            NicoGoogleTagManagerDataLayer.push({'event':'nicoch_click_header-join-button'})"
+            >
+                チャンネルに入会
+            </a>
+            </div>
+                                <div class="cell">
+            <a href="https://account.nicovideo.jp/login?next_url=%2Fksp-live&site=channel&time=1550977531&hash_key=6c08e78b"
+            class="btn_follow bookmark"
+            onmouseover="jQuery('#please_login').show(); return false;"
+            onmouseout="jQuery('#please_login').hide(); return false;"
+            
+            onclick="ga('chfrontAll.send','event','ヘッダー','フォロー',location.pathname);
+            NicoGoogleTagManagerDataLayer.push({'event':'nicoch_click_header-follow-button'})"
+            >
+            <span class="labels">
+                <span class="off">フォロー</span>
+            </span>
+            </a>
+        </div>
+    
+                            <div class="cell ">
+    <a class="btn_app"
+    href="http://ex.ch.nicovideo.jp/channel/ksp-live/app?page=share&amp;from=pc_cp_header" target="_blank"
+    
+    onclick="ga('chfrontAll.send','event','ヘッダー','アプリ',location.pathname);
+    NicoGoogleTagManagerDataLayer.push({'event':'nicoch_click_header-app-button'})"
+    >
+        アプリ
+    </a>
+</div>                    </div>
+
+    </div>
+    </div>    
+    
+    
+    
+
+                    
+    
+            
+                                
+        
+        
+    <script>
+
+    //共有ボタンに展開イベントを割り振り
+    var panel	= jQuery("#shareMenuBar"),
+            trigger = jQuery("#shareMenuTrigger");
+    jQuery("#shareMenuTrigger").click(function(event){
+        if(panel.is(':visible')){
+            toggleShareMenu(false);
+        }else{
+            toggleShareMenu(true);
+        }
+        return false;
+    });
+
+    //ヘッダーの初月無料プランリンクclick後に、入会プラン周りを目立たせる
+    jQuery("a#first_month_free_flag").click(function(){
+        var joinMenu = jQuery("#cp_joinmenu");
+        var animateDuration = 500;
+        var isScroll = Ch.smoothScroll("#cp_joinmenu", {"duration": animateDuration});
+        joinMenu
+            .wrapInner('<div class="cp_joinmenu_cnt"></div>')
+            .append('<span class="bg_cp_joinmenu"></span>')
+            .css({"position":"relative"});
+        var cnt = joinMenu.find(".cp_joinmenu_cnt");
+        var bg = joinMenu.find(".bg_cp_joinmenu");
+        cnt.css({"position":"relative", "z-index":"1"});
+        bg.css({
+            "position":"absolute",
+            "top":0,
+            "left":0,
+            "z-index":0,
+            "width": joinMenu.innerWidth(),
+            "height": joinMenu.innerHeight(),
+            "background": "#fff",
+            "opacity":"0"
+        });
+        setTimeout(function(){
+            bg.animate({"opacity":"1"},100).animate({"opacity":"0"},1000,function(){this.remove()})
+        }, animateDuration);
+        if(isScroll) {return false;}
+    });
+
+    </script>
+    
+
+
+
+
+
+    <div id="head_ticket_sale">
+        <div id="template-vars-channel-ticket-sales"></div>
+        <script type="text/x-template"
+                data-wktk-id="channel-ticket-sales"
+                data-wktk-name="channel-ticket-sales"
+                data-wktk-selector="#head_ticket_sale"
+                data-waku-wrapper-id="head_ticket_sale"
+        >
+            {{#each items}}
+            <div class="item">
+                                                    
+                    <div class="banner"><a href="https://account.nicovideo.jp/login?site=channel&next_url=%2Fksp-live%3Fadmission_type%3Dselect&time=1550977531&hash_key=e6ad6e77"><img src="{{values.bannerImagePc.url}}"></a></div>
+                    {{#if @last}}
+                        <p class="text"><a href="https://account.nicovideo.jp/login?site=channel&next_url=%2Fksp-live%3Fadmission_type%3Dselect&time=1550977531&hash_key=e6ad6e77">入会してチケットを申し込む</a></p>
+                    {{/if}}
+                
+                            </div>
+            {{/each}}
+        </script>
+    </div>
+            </header>
+
+    <section class="site_body">
+        <article class="content white">
+            
+    
+    
+                <h1 id="channel-title"><img src="https://secure-dcdn.cdn.nimg.jp/nicochannel/material/design/3520226/TOP_01.jpg"></h1>
+
+                    <div id="channel-main">
+                        <style type="text/css">
+
+
+.p-saveid261864 div.p-header
+{
+    color:inherit;            background-color:transparent;
+    }
+
+.p-saveid261864 div.p-header h3.p-title
+{
+            border: 1px solid #525252;
+    
+            background-color:#649995;
+                color:#FFFFFF;
+                            text-shadow:none;
+            }
+
+.p-saveid261864 .p-body
+{
+            border: 1px solid #525252;
+                    background-image:none;
+        color:inherit;}
+
+.p-saveid261864 .p-body {
+    background-color: #FFFFFF !important;
+}
+
+
+
+.p-saveid265077 div.p-header
+{
+    color:inherit;            background-color:#FFFFFF;
+    }
+
+.p-saveid265077 div.p-header h3.p-title
+{
+            border: 1px solid #000000;
+    
+            background-color:#649995;
+                color:#FFFFFF;
+                            text-shadow:none;
+            }
+
+.p-saveid265077 .p-body
+{
+            border: 1px solid #000000;
+        background-color:#FFFFFF;            background-image:none;
+        color:inherit;}
+
+.p-saveid265077 a
+{
+        color:   inherit !important;
+    }
+
+.p-saveid265077 header
+{
+        background-color:   #FFFFFF;
+            color:   inherit !important;
+    }
+.p-saveid265077 header a
+{
+        color:   inherit !important;
+    }
+
+
+.p-saveid265077 .article_subject
+{
+        background-color:   #FFFFFF;
+            color:   inherit !important;
+    }
+
+
+
+.p-saveid273531 div.p-header
+{
+    color:inherit;            background-color:transparent;
+    }
+
+.p-saveid273531 div.p-header h3.p-title
+{
+            border: 1px solid #000000;
+    
+            background-color:#649995;
+                color:#FFFFFF;
+                            text-shadow:none;
+            }
+
+.p-saveid273531 .p-body
+{
+            border: 1px solid #000000;
+                    background-image:none;
+        color:inherit;}
+
+.p-saveid273531 .p-body {
+    background-color: #FFFFFF !important;
+}
+
+.p-saveid273531 .p-live-body,
+.p-saveid273531 .p-live-body a,
+.p-saveid273531 .p-live-body a:hover {
+    color: #333333 !important;
+}
+
+
+.p-saveid261916 div.p-header
+{
+    color:inherit;            background-color:#FFFFFF;
+    }
+
+.p-saveid261916 div.p-header h3.p-title
+{
+            border: 1px solid #000000;
+    
+            }
+
+.p-saveid261916 .p-body
+{
+            border: 1px solid #000000;
+        background-color:#FFFFFF;            background-image:none;
+        }
+
+
+.p-saveid261916 .g-channel2 h2,
+.p-saveid261916 .g-channel2 .channel_tags {
+        }
+
+</style>            <table id="layout" border="0" cellpadding="0" cellspacing="0">
+<col><col><col>
+<tr><td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr><td colspan="3" rowspan="1">
+<div class="parts p-live_list cols3 design2 p-saveid261864 g-has-border title_text" id="nico_parts_261864">
+
+
+
+
+
+
+
+    <div class="p-header">
+                <h3 class="p-title">生放送</h3>
+            </div>
+    <div class="p-body g-has-title">
+
+
+        <ul class="g-live-list">
+                                                            <li >
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live2 g-live-lv318510377  ">
+                    
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv318510377"
+    class="thumb_live thumb_128">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a547/1639553.a17a0b.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+
+        
+
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv318510377">
+                        ＠-Live.TOUR 2019 「＠-Live.032 -BRAVE STORY in TOKYO day2」
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+            <span class="p-status_lamp">
+放送終了
+</span>
+
+            <strong>02/17</strong>
+            17:00&nbsp;-&nbsp;20:27
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv318510377  timeshift_play"
+data-live_id="318510377" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv318510377" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">197</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_318510377" style="display: none;">
+    <input type="hidden" name="vid" value="318510377">
+    <input type="hidden" name="title" value="＠-Live.TOUR 2019 「＠-Live.032 -BRAVE STORY in TOKYO day2」">
+    <input type="hidden" name="open_time" value="1550390400">
+    <input type="hidden" name="start_time" value="1550390400">
+    <input type="hidden" name="end_time" value="1550402837">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                <p class="g-live-description">
+                        アットワークスプロジェクト7周年を記念したツアー   ＠-Live.TOUR 2019「BRAVE STORY」  東京公演を 16・17日の両日 初台DOORS から生放送!!  [出演] 2月17日(日) 17:00 TECHNO-CATS 17:50 天照 18:40 怪人二十面奏 19:30 Dacco  ※各アーティスト、ライブの後半はチ...
+                    </p>
+        
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>1,195</var></li>
+<li><span>コメ数</span><var>265</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li >
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live2 g-live-lv318510354  ">
+                    
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv318510354"
+    class="thumb_live thumb_128">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a547/1638656.a17a0b.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+
+        
+
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv318510354">
+                        ＠-Live.TOUR 2019 「＠-Live.031 -BRAVE STORY in TOKYO day1」
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+            <span class="p-status_lamp">
+放送終了
+</span>
+
+            <strong>02/16</strong>
+            17:00&nbsp;-&nbsp;20:21
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv318510354  timeshift_play"
+data-live_id="318510354" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv318510354" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">164</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_318510354" style="display: none;">
+    <input type="hidden" name="vid" value="318510354">
+    <input type="hidden" name="title" value="＠-Live.TOUR 2019 「＠-Live.031 -BRAVE STORY in TOKYO day1」">
+    <input type="hidden" name="open_time" value="1550304000">
+    <input type="hidden" name="start_time" value="1550304000">
+    <input type="hidden" name="end_time" value="1550316076">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                <p class="g-live-description">
+                        アットワークスプロジェクト7周年を記念したツアー   ＠-Live.TOUR 2019「BRAVE STORY」  東京公演を 16・17日の両日 初台DOORS から生放送!!  [出演] 2月16日(土) 17:00 ベル 17:50 heidi. 18:40 UCHUSENTAI:NOIZ 19:30 Brother  ※各アーティスト、ライブの後半はチ...
+                    </p>
+        
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>898</var></li>
+<li><span>コメ数</span><var>44</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                </ul>
+
+                </div>
+    <div class="p-footer"></div>
+
+    </div>
+
+
+</td>
+
+
+</tr>
+<tr><td colspan="3" rowspan="1">
+<div class="parts p-blog cols3 design1 p-saveid265077 g-has-border g-has-bg title_text" id="nico_parts_265077">
+
+
+
+
+
+
+    <div class="p-header">
+                <h3 class="p-title">ブロマガ</h3>
+            </div>
+    <div class="p-body g-has-title">
+
+
+
+    <ul class="parts_articles">
+                <li class="article has_thumbnail">
+
+            
+            
+            <div class="article_details">
+                                    <a href="/article/ar1731734">
+                    <img src="https://secure-dcdn.cdn.nimg.jp/blomaga/material/channel/article_thumbnail/ch2627744/1731734" class="article_thumbnail"></a>
+                
+                <a href="/article/ar1731734" class="article_subject">
+                ＠-Live.TOUR 2019【＠-Live.-BRAVE STORY in TOKYO】生放送!!</a>
+
+                                <p class="article_description" style="max-height:1.5em;">
+                                     2月16・17日 17時 
+   ＠-Live.TOUR 2019【＠-Live.-BRAVE STORY in TOKYO】   
+ ニコニコ生放送緊急決定!! 
+  アットワークスプロジェクト7周年を記念したツアー 
+ ＠-Live.TOUR 2019「BRAVE STORY」の東京公演を 
+ 16・17日の両日《初台DOORS》から生放送!!     http://live.nicovideo.jp/watch/lv318510354  http://live.nicovideo.jp/watch/lv318510377  
+  [出演] 
+  2月16日(土)   17:00 ベル   17:50 heidi.   18:40 UCHUSENTAI:NOIZ   19:30 Brother    
+  2月17日(日)   17:00 TECHNO-CATS   17:50 天照   18:40 怪人二十面奏   19:30 Dacco  
+  ※各アーティスト後半はチャンネル会員の方のみ視聴可能です。 
+  
+                                </p>
+                            </div>
+
+                            <p class="article_start_time" title="2019-02-14 12:00:00"
+                >2019-02-14</p>
+            
+            
+                    </li>
+            </ul>
+
+            <footer>
+                            <a href="/ksp-live/blomaga" class="more_articles">もっと見る &raquo;</a>
+                    </footer>
+    
+
+            </div>
+    <div class="p-footer"></div>
+
+    </div>
+
+
+</td>
+
+
+</tr>
+<tr><td colspan="3" rowspan="1">
+<div class="parts p-live_list cols3 design3 p-saveid273531 g-has-border title_text" id="nico_parts_273531">
+
+
+
+
+
+
+
+    <div class="p-header">
+                <h3 class="p-title">過去の配信</h3>
+            </div>
+    <div class="p-body g-has-title">
+
+
+        <ul class="g-live-list">
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv318510377">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv318510377"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a547/1639553.a17a0b.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv318510377">
+                        ＠-Live.TOUR 2019 「＠-Live.032 -BRAVE STORY in TOKYO day2」
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>02/17</strong>
+        17:00&nbsp;-&nbsp;20:27
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv318510377  timeshift_play"
+data-live_id="318510377" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv318510377" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">197</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_318510377" style="display: none;">
+    <input type="hidden" name="vid" value="318510377">
+    <input type="hidden" name="title" value="＠-Live.TOUR 2019 「＠-Live.032 -BRAVE STORY in TOKYO day2」">
+    <input type="hidden" name="open_time" value="1550390400">
+    <input type="hidden" name="start_time" value="1550390400">
+    <input type="hidden" name="end_time" value="1550402837">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>1,195</var></li>
+<li><span>コメ数</span><var>265</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv318510354">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv318510354"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a547/1638656.a17a0b.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv318510354">
+                        ＠-Live.TOUR 2019 「＠-Live.031 -BRAVE STORY in TOKYO day1」
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>02/16</strong>
+        17:00&nbsp;-&nbsp;20:21
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv318510354  timeshift_play"
+data-live_id="318510354" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv318510354" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">164</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_318510354" style="display: none;">
+    <input type="hidden" name="vid" value="318510354">
+    <input type="hidden" name="title" value="＠-Live.TOUR 2019 「＠-Live.031 -BRAVE STORY in TOKYO day1」">
+    <input type="hidden" name="open_time" value="1550304000">
+    <input type="hidden" name="start_time" value="1550304000">
+    <input type="hidden" name="end_time" value="1550316076">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>898</var></li>
+<li><span>コメ数</span><var>44</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv315997589">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv315997589"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a515/1543937.e26ad8.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv315997589">
+                        【MIMIZUQ】60min Showcase ONEMAN LIVE 18.9.8 新宿BLAZE
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>10/19</strong>
+        21:00&nbsp;-&nbsp;22:23
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv315997589  timeshift_play"
+data-live_id="315997589" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv315997589" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">235</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_315997589" style="display: none;">
+    <input type="hidden" name="vid" value="315997589">
+    <input type="hidden" name="title" value="【MIMIZUQ】60min Showcase ONEMAN LIVE 18.9.8 新宿BLAZE">
+    <input type="hidden" name="open_time" value="1539950400">
+    <input type="hidden" name="start_time" value="1539950400">
+    <input type="hidden" name="end_time" value="1539955421">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>976</var></li>
+<li><span>コメ数</span><var>206</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv315306428">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv315306428"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a507/1520014.3812af.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv315306428">
+                        元祖さわやか会 Presents 『Scramble Booby Trap』2018 Summer
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>08/30</strong>
+        15:30&nbsp;-&nbsp;21:14
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv315306428  timeshift_play"
+data-live_id="315306428" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv315306428" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">418</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_315306428" style="display: none;">
+    <input type="hidden" name="vid" value="315306428">
+    <input type="hidden" name="title" value="元祖さわやか会 Presents 『Scramble Booby Trap』2018 Summer">
+    <input type="hidden" name="open_time" value="1535610600">
+    <input type="hidden" name="start_time" value="1535610600">
+    <input type="hidden" name="end_time" value="1535631270">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>3,176</var></li>
+<li><span>コメ数</span><var>710</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv315247154">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv315247154"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a506/1516909.d1d345.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv315247154">
+                        【THE MICRO HEAD 4N&#039;S】7th ANNIVERSARY TOUR 2018「眠れる森の前奏曲」ライブ中継
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>08/26</strong>
+        17:30&nbsp;-&nbsp;20:18
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv315247154  timeshift_play"
+data-live_id="315247154" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv315247154" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">171</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_315247154" style="display: none;">
+    <input type="hidden" name="vid" value="315247154">
+    <input type="hidden" name="title" value="【THE MICRO HEAD 4N&#039;S】7th ANNIVERSARY TOUR 2018「眠れる森の前奏曲」ライブ中継">
+    <input type="hidden" name="open_time" value="1535272200">
+    <input type="hidden" name="start_time" value="1535272200">
+    <input type="hidden" name="end_time" value="1535282322">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>1,395</var></li>
+<li><span>コメ数</span><var>15</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv315211294">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv315211294"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a505/1513814.eee9eb.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv315211294">
+                        THE MICRO HEAD 4N’S 楽曲総選挙 &amp; アコースティックライブ
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>08/24</strong>
+        18:30&nbsp;-&nbsp;20:14
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv315211294  timeshift_play"
+data-live_id="315211294" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv315211294" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">147</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_315211294" style="display: none;">
+    <input type="hidden" name="vid" value="315211294">
+    <input type="hidden" name="title" value="THE MICRO HEAD 4N’S 楽曲総選挙 &amp; アコースティックライブ">
+    <input type="hidden" name="open_time" value="1535103000">
+    <input type="hidden" name="start_time" value="1535103000">
+    <input type="hidden" name="end_time" value="1535109249">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>876</var></li>
+<li><span>コメ数</span><var>215</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv315114820">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv315114820"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a504/1510716.78ad81.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv315114820">
+                        【２部】CASCADE 結成25th Vol.3「VIVA NICE TASTE」
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>08/19</strong>
+        19:00&nbsp;-&nbsp;20:36
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv315114820  timeshift_play"
+data-live_id="315114820" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv315114820" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">154</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_315114820" style="display: none;">
+    <input type="hidden" name="vid" value="315114820">
+    <input type="hidden" name="title" value="【２部】CASCADE 結成25th Vol.3「VIVA NICE TASTE」">
+    <input type="hidden" name="open_time" value="1534672800">
+    <input type="hidden" name="start_time" value="1534672800">
+    <input type="hidden" name="end_time" value="1534678610">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>584</var></li>
+<li><span>コメ数</span><var>157</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv315109788">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv315109788"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a504/1510720.78ad81.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv315109788">
+                        【１部】CASCADE 結成25th Vol.3「VIVA NICE TASTE」
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>08/19</strong>
+        15:00&nbsp;-&nbsp;16:39
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv315109788  timeshift_play"
+data-live_id="315109788" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv315109788" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">130</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_315109788" style="display: none;">
+    <input type="hidden" name="vid" value="315109788">
+    <input type="hidden" name="title" value="【１部】CASCADE 結成25th Vol.3「VIVA NICE TASTE」">
+    <input type="hidden" name="open_time" value="1534658400">
+    <input type="hidden" name="start_time" value="1534658400">
+    <input type="hidden" name="end_time" value="1534664368">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>581</var></li>
+<li><span>コメ数</span><var>113</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv313772414">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv313772414"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a489/1466053.7a7220.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv313772414">
+                        怪人二十面奏 三周年記念特番「明日へ」第２夜
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>06/28</strong>
+        21:00&nbsp;-&nbsp;22:46
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv313772414  timeshift_play"
+data-live_id="313772414" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv313772414" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">96</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_313772414" style="display: none;">
+    <input type="hidden" name="vid" value="313772414">
+    <input type="hidden" name="title" value="怪人二十面奏 三周年記念特番「明日へ」第２夜">
+    <input type="hidden" name="open_time" value="1530187200">
+    <input type="hidden" name="start_time" value="1530187200">
+    <input type="hidden" name="end_time" value="1530193589">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>396</var></li>
+<li><span>コメ数</span><var>1,168</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv313772402">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv313772402"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a486/1456924.7a7220.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv313772402">
+                        怪人二十面奏 三周年記念特番「明日へ」第１夜
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>06/27</strong>
+        20:00&nbsp;-&nbsp;20:56
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv313772402  timeshift_play"
+data-live_id="313772402" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv313772402" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">94</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_313772402" style="display: none;">
+    <input type="hidden" name="vid" value="313772402">
+    <input type="hidden" name="title" value="怪人二十面奏 三周年記念特番「明日へ」第１夜">
+    <input type="hidden" name="open_time" value="1530097200">
+    <input type="hidden" name="start_time" value="1530097200">
+    <input type="hidden" name="end_time" value="1530100562">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>397</var></li>
+<li><span>コメ数</span><var>546</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv313223763">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv313223763"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a480/1439170.c5c46f.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv313223763">
+                        CASCADE 結成25th Vol.2「アザヤカナキセキ」ライブ生中継
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>05/20</strong>
+        18:00&nbsp;-&nbsp;20:15
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv313223763  timeshift_play"
+data-live_id="313223763" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv313223763" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">226</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_313223763" style="display: none;">
+    <input type="hidden" name="vid" value="313223763">
+    <input type="hidden" name="title" value="CASCADE 結成25th Vol.2「アザヤカナキセキ」ライブ生中継">
+    <input type="hidden" name="open_time" value="1526806800">
+    <input type="hidden" name="start_time" value="1526806800">
+    <input type="hidden" name="end_time" value="1526814905">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>1,135</var></li>
+<li><span>コメ数</span><var>647</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv312851091">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv312851091"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a477/1430953.409bef.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv312851091">
+                        THE BLACK SWAN THE LAST LIVE 「Without &#039;FOREVER&#039; But I hope &#039;FOREVER&#039;｣ 2018.05.01(火)渋谷TSUTAYA O-WEST
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>05/09</strong>
+        21:00&nbsp;-&nbsp;23:40
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv312851091  timeshift_play"
+data-live_id="312851091" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv312851091" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">330</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_312851091" style="display: none;">
+    <input type="hidden" name="vid" value="312851091">
+    <input type="hidden" name="title" value="THE BLACK SWAN THE LAST LIVE 「Without &#039;FOREVER&#039; But I hope &#039;FOREVER&#039;｣ 2018.05.01(火)渋谷TSUTAYA O-WEST">
+    <input type="hidden" name="open_time" value="1525867200">
+    <input type="hidden" name="start_time" value="1525867200">
+    <input type="hidden" name="end_time" value="1525876818">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>1,473</var></li>
+<li><span>コメ数</span><var>505</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv312302233">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv312302233"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a470/1408548.36a348.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv312302233">
+                        Dacco 4ヶ月連続チャレンジコンサート『無料！¥0(ドリンク代込)コンサート』SHIBUYA DESEO
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>04/18</strong>
+        19:30&nbsp;-&nbsp;21:14
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv312302233  timeshift_play"
+data-live_id="312302233" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv312302233" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">219</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_312302233" style="display: none;">
+    <input type="hidden" name="vid" value="312302233">
+    <input type="hidden" name="title" value="Dacco 4ヶ月連続チャレンジコンサート『無料！¥0(ドリンク代込)コンサート』SHIBUYA DESEO">
+    <input type="hidden" name="open_time" value="1524047400">
+    <input type="hidden" name="start_time" value="1524047400">
+    <input type="hidden" name="end_time" value="1524053642">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>562</var></li>
+<li><span>コメ数</span><var>163</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv311251777">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv311251777"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a459/1376696.28af12.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv311251777">
+                        Kayaアコースティックライブ『CafeNOIR』
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>02/26</strong>
+        20:00&nbsp;-&nbsp;21:23
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv311251777  timeshift_play"
+data-live_id="311251777" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv311251777" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">75</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_311251777" style="display: none;">
+    <input type="hidden" name="vid" value="311251777">
+    <input type="hidden" name="title" value="Kayaアコースティックライブ『CafeNOIR』">
+    <input type="hidden" name="open_time" value="1519642620">
+    <input type="hidden" name="start_time" value="1519642800">
+    <input type="hidden" name="end_time" value="1519647807">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>305</var></li>
+<li><span>コメ数</span><var>32</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv309470295">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv309470295"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a445/1332055.5dc075.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv309470295">
+                        THE MICRO HEAD 4N&#039;S 「WINTER TOUR 2017  上弦の月のオーケストラ」
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>12/16</strong>
+        18:00&nbsp;-&nbsp;20:38
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv309470295  timeshift_play"
+data-live_id="309470295" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv309470295" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">219</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_309470295" style="display: none;">
+    <input type="hidden" name="vid" value="309470295">
+    <input type="hidden" name="title" value="THE MICRO HEAD 4N&#039;S 「WINTER TOUR 2017  上弦の月のオーケストラ」">
+    <input type="hidden" name="open_time" value="1513414620">
+    <input type="hidden" name="start_time" value="1513414800">
+    <input type="hidden" name="end_time" value="1513424305">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>1,439</var></li>
+<li><span>コメ数</span><var>500</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv308027872">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv308027872"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a434/1300034.a82f83.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv308027872">
+                        Kaya ワンマン公演『Fabulous Banquet』
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>10/29</strong>
+        19:00&nbsp;-&nbsp;20:35
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv308027872  timeshift_play"
+data-live_id="308027872" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv308027872" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">128</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_308027872" style="display: none;">
+    <input type="hidden" name="vid" value="308027872">
+    <input type="hidden" name="title" value="Kaya ワンマン公演『Fabulous Banquet』">
+    <input type="hidden" name="open_time" value="1509271020">
+    <input type="hidden" name="start_time" value="1509271200">
+    <input type="hidden" name="end_time" value="1509276943">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>400</var></li>
+<li><span>コメ数</span><var>259</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv305545627">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv305545627"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a419/1256805.573759.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv305545627">
+                        元祖さわやか会Presents『Scramble Booby Trap 2017』DAY2
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>08/31</strong>
+        14:30&nbsp;-&nbsp;22:02
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv305545627  timeshift_play"
+data-live_id="305545627" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv305545627" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">448</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_305545627" style="display: none;">
+    <input type="hidden" name="vid" value="305545627">
+    <input type="hidden" name="title" value="元祖さわやか会Presents『Scramble Booby Trap 2017』DAY2">
+    <input type="hidden" name="open_time" value="1504157220">
+    <input type="hidden" name="start_time" value="1504157400">
+    <input type="hidden" name="end_time" value="1504184559">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>3,050</var></li>
+<li><span>コメ数</span><var>1,280</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv305545555">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv305545555"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a419/1256803.06dfc6.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv305545555">
+                        元祖さわやか会Presents『Scramble Booby Trap 2017』DAY1
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>08/30</strong>
+        14:30&nbsp;-&nbsp;21:51
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv305545555  timeshift_play"
+data-live_id="305545555" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv305545555" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">400</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_305545555" style="display: none;">
+    <input type="hidden" name="vid" value="305545555">
+    <input type="hidden" name="title" value="元祖さわやか会Presents『Scramble Booby Trap 2017』DAY1">
+    <input type="hidden" name="open_time" value="1504070820">
+    <input type="hidden" name="start_time" value="1504071000">
+    <input type="hidden" name="end_time" value="1504097477">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>2,811</var></li>
+<li><span>コメ数</span><var>446</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv302148108">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv302148108"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a407/1218000.7a04db.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv302148108">
+                        RiceワンマンLIVE・七夕特別公演『星に願いを』
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>07/07</strong>
+        19:30&nbsp;-&nbsp;22:02
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv302148108  timeshift_play"
+data-live_id="302148108" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv302148108" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">187</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_302148108" style="display: none;">
+    <input type="hidden" name="vid" value="302148108">
+    <input type="hidden" name="title" value="RiceワンマンLIVE・七夕特別公演『星に願いを』">
+    <input type="hidden" name="open_time" value="1499423220">
+    <input type="hidden" name="start_time" value="1499423400">
+    <input type="hidden" name="end_time" value="1499432572">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>855</var></li>
+<li><span>コメ数</span><var>323</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv299567613">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv299567613"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a398/1193211.a15693.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv299567613">
+                        寺子屋ツアー 百花繚乱～Banquet of cleaned flowers～ ver.紫陽花
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>06/03</strong>
+        17:00&nbsp;-&nbsp;20:51
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv299567613  timeshift_play"
+data-live_id="299567613" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv299567613" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">278</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_299567613" style="display: none;">
+    <input type="hidden" name="vid" value="299567613">
+    <input type="hidden" name="title" value="寺子屋ツアー 百花繚乱～Banquet of cleaned flowers～ ver.紫陽花">
+    <input type="hidden" name="open_time" value="1496476620">
+    <input type="hidden" name="start_time" value="1496476800">
+    <input type="hidden" name="end_time" value="1496490662">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>1,806</var></li>
+<li><span>コメ数</span><var>1,240</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv297755745">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv297755745"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a392/1175923.33fee2.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv297755745">
+                        【再配信】MONSTER&#039;S ROAR -chocoladdiction- ファイナル公演
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>05/10</strong>
+        21:00&nbsp;-&nbsp;23:34
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv297755745  timeshift_play"
+data-live_id="297755745" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv297755745" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">92</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_297755745" style="display: none;">
+    <input type="hidden" name="vid" value="297755745">
+    <input type="hidden" name="title" value="【再配信】MONSTER&#039;S ROAR -chocoladdiction- ファイナル公演">
+    <input type="hidden" name="open_time" value="1494417420">
+    <input type="hidden" name="start_time" value="1494417600">
+    <input type="hidden" name="end_time" value="1494426871">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>639</var></li>
+<li><span>コメ数</span><var>242</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv292571126">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv292571126"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a378/1131965.6262e3.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv292571126">
+                        RiceワンマンLIVE『米☆スタ』第2部
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>03/10</strong>
+        20:30&nbsp;-&nbsp;21:44
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv292571126  timeshift_play"
+data-live_id="292571126" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv292571126" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">281</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_292571126" style="display: none;">
+    <input type="hidden" name="vid" value="292571126">
+    <input type="hidden" name="title" value="RiceワンマンLIVE『米☆スタ』第2部">
+    <input type="hidden" name="open_time" value="1489145220">
+    <input type="hidden" name="start_time" value="1489145400">
+    <input type="hidden" name="end_time" value="1489149875">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>821</var></li>
+<li><span>コメ数</span><var>344</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv292570650">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv292570650"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a378/1131958.6262e3.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv292570650">
+                        RiceワンマンLIVE『米☆スタ』第１部
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>03/10</strong>
+        18:30&nbsp;-&nbsp;19:33
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv292570650  timeshift_play"
+data-live_id="292570650" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv292570650" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">277</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_292570650" style="display: none;">
+    <input type="hidden" name="vid" value="292570650">
+    <input type="hidden" name="title" value="RiceワンマンLIVE『米☆スタ』第１部">
+    <input type="hidden" name="open_time" value="1489138020">
+    <input type="hidden" name="start_time" value="1489138200">
+    <input type="hidden" name="end_time" value="1489141991">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>878</var></li>
+<li><span>コメ数</span><var>146</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv290786929">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv290786929"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a373/1117562.f12cd0.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv290786929">
+                        シビレバシル3/14TSUTAYA O-WESTワンマン目前企画 『ニコ生配信&amp;無料ワンマン 〜田中大輔への道〜』
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>03/06</strong>
+        19:30&nbsp;-&nbsp;21:04
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv290786929  timeshift_play"
+data-live_id="290786929" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv290786929" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">191</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_290786929" style="display: none;">
+    <input type="hidden" name="vid" value="290786929">
+    <input type="hidden" name="title" value="シビレバシル3/14TSUTAYA O-WESTワンマン目前企画 『ニコ生配信&amp;無料ワンマン 〜田中大輔への道〜』">
+    <input type="hidden" name="open_time" value="1488796020">
+    <input type="hidden" name="start_time" value="1488796200">
+    <input type="hidden" name="end_time" value="1488801854">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>430</var></li>
+<li><span>コメ数</span><var>294</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv291231293">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv291231293"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a374/1120656.57da23.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv291231293">
+                        【再放送】THE MICRO HEAD 4N&#039;S  &quot;tour2016 Deeper Than Black&quot; FINAL
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>03/03</strong>
+        20:00&nbsp;-&nbsp;22:15
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv291231293  timeshift_play"
+data-live_id="291231293" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv291231293" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">139</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_291231293" style="display: none;">
+    <input type="hidden" name="vid" value="291231293">
+    <input type="hidden" name="title" value="【再放送】THE MICRO HEAD 4N&#039;S  &quot;tour2016 Deeper Than Black&quot; FINAL">
+    <input type="hidden" name="open_time" value="1488538620">
+    <input type="hidden" name="start_time" value="1488538800">
+    <input type="hidden" name="end_time" value="1488546903">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>823</var></li>
+<li><span>コメ数</span><var>694</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv290038418">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv290038418"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a371/1112194.33fee2.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv290038418">
+                        「MONSTER&#039;S ROAR -chocoladdiction-」ファイナル公演
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>02/19</strong>
+        17:00&nbsp;-&nbsp;20:48
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv290038418  timeshift_play"
+data-live_id="290038418" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv290038418" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">322</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_290038418" style="display: none;">
+    <input type="hidden" name="vid" value="290038418">
+    <input type="hidden" name="title" value="「MONSTER&#039;S ROAR -chocoladdiction-」ファイナル公演">
+    <input type="hidden" name="open_time" value="1487491020">
+    <input type="hidden" name="start_time" value="1487491200">
+    <input type="hidden" name="end_time" value="1487504881">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>2,828</var></li>
+<li><span>コメ数</span><var>2,159</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv287338985">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv287338985"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a364/1089040.33fee2.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv287338985">
+                        MONSTER&#039;S ROAR -chocoladdiction- TALK LIVE
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>01/25</strong>
+        19:00&nbsp;-&nbsp;21:46
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv287338985  timeshift_play"
+data-live_id="287338985" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv287338985" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">212</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_287338985" style="display: none;">
+    <input type="hidden" name="vid" value="287338985">
+    <input type="hidden" name="title" value="MONSTER&#039;S ROAR -chocoladdiction- TALK LIVE">
+    <input type="hidden" name="open_time" value="1485338220">
+    <input type="hidden" name="start_time" value="1485338400">
+    <input type="hidden" name="end_time" value="1485348389">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>866</var></li>
+<li><span>コメ数</span><var>315</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv283587335">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv283587335"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a355/1062338.57da23.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv283587335">
+                        THE MICRO HEAD 4N&#039;S  &quot;tour2016 Deeper Than Black&quot; FINAL
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>12/04</strong>
+        17:00&nbsp;-&nbsp;19:35
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv283587335  timeshift_play"
+data-live_id="283587335" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv283587335" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">383</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_283587335" style="display: none;">
+    <input type="hidden" name="vid" value="283587335">
+    <input type="hidden" name="title" value="THE MICRO HEAD 4N&#039;S  &quot;tour2016 Deeper Than Black&quot; FINAL">
+    <input type="hidden" name="open_time" value="1480838220">
+    <input type="hidden" name="start_time" value="1480838400">
+    <input type="hidden" name="end_time" value="1480847726">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>2,104</var></li>
+<li><span>コメ数</span><var>2,070</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                                                            <li class="g-live-list-item3">
+            
+        
+
+
+
+
+
+
+
+
+
+    
+    <div class="p-live-body p-live3 g-live-lv283107387">
+        
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_live">
+    <a href="http://live.nicovideo.jp/watch/lv283107387"
+    class="thumb_live thumb_75">
+        <img data-original="https://nicolive.cdn.nimg.jp/live/simg/img/a353/1058283.d6e6db.jpg
+" class="lazyimage">
+            <span class="purchase_type" title=""><span class="inner ppv"></span></span>
+        
+
+    </a>
+</span>        
+        <div class="g-live-title ">
+            <a href="http://live.nicovideo.jp/watch/lv283107387">
+                        【ライブ】マコト生誕祭2016「各駅停車、めぐり逢い。」
+                        </a>
+        </div>
+
+        <p class="g-live-airtime aired">
+        <span class="p-status_lamp">
+放送終了
+</span>
+
+        <strong>11/28</strong>
+        17:30&nbsp;-&nbsp;20:54
+        </p>
+
+        
+
+
+
+<span class="timeshift_button lv283107387  timeshift_play"
+data-live_id="283107387" data-live_status="aired">
+    <a href="http://live.nicovideo.jp/watch/lv283107387" target="_blank">
+            タイムシフト視聴
+        </a>
+    <span class="timeshift_count" title="タイムシフト予約数">
+        <span class="count">231</span><span class="tail"></span>
+    </span>
+</span>
+<form id="timeshift_button_283107387" style="display: none;">
+    <input type="hidden" name="vid" value="283107387">
+    <input type="hidden" name="title" value="【ライブ】マコト生誕祭2016「各駅停車、めぐり逢い。」">
+    <input type="hidden" name="open_time" value="1480321620">
+    <input type="hidden" name="start_time" value="1480321800">
+    <input type="hidden" name="end_time" value="1480334084">
+    <input type="hidden" name="use_timeshift" value="1">
+    <input type="hidden" name="member" value="">
+    <input type="hidden" name="provider_type" value="channel">
+</form>
+
+
+
+                
+        <div class="g-reactions">
+<ul>
+<li><span>来場数</span><var>1,549</var></li>
+<li><span>コメ数</span><var>91</var></li>
+</ul>
+</div>
+
+    </div>
+
+
+            </li>
+                </ul>
+
+                </div>
+    <div class="p-footer"></div>
+
+    </div>
+
+
+</td>
+
+
+</tr>
+<tr><td colspan="3" rowspan="1">
+<div class="parts p-channel cols3 design2 p-saveid261916 g-has-border g-has-bg" id="nico_parts_261916">
+
+
+
+
+
+
+    <div class="p-header">
+            </div>
+    <div class="p-body ">
+
+        <div class="g-channel2">
+        <p class="chsymbol"><img data-original="https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2627744.jpg?1530286982" alt="KSP LIVE CHANNEL" class="lazyimage comm_img_L"></p>
+
+        <h1>KSP LIVE CHANNEL</h1>
+                <p class="g-channel-description">KSPエンタテインメントがお送りするライブ配信チャンネル！<br><br />
+ヴィジュアル系バンドを中心に、様々なアーティストのライブ映像をお届けします!!</p>
+        
+        <h2>チャンネルタグ</h2>
+        <div class="channel_tags">
+                            <a href="/search/V%E7%B3%BB?mode=t">V系</a>
+                    <a href="/search/%E3%83%A9%E3%82%A4%E3%83%96?mode=t">ライブ</a>
+                    <a href="/search/%E3%83%B4%E3%82%A3%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E7%B3%BB?mode=t">ヴィジュアル系</a>
+                    <a href="/search/%E9%9F%B3%E6%A5%BD?mode=t">音楽</a>
+                        </div>
+
+        <p class="nowrap edate">
+            2016/11/24 開設
+                        <a href="/video/ch2627744">1動画</a>
+                    </p>
+    </div>
+
+            </div>
+    <div class="p-footer"></div>
+
+    </div>
+
+
+</td>
+
+
+</tr>
+<tr><td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr><td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr><td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr><td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr><td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr><td>
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+
+</table>
+    
+            
+            </div>
+
+            <script>
+                        
+            jQuery("table#layout .dummy").remove();
+            
+            </script>
+
+        
+    
+        </article>
+    </section>
+
+    <footer class="site">
+                    
+
+    
+                        
+                                    
+
+
+
+    
+    <div id="foot_cp_outer">
+        <div class="foot_inner">
+
+            <div id="cp_symbol">
+                
+
+
+
+
+
+
+<span class="thumb_wrapper thumb_wrapper_ch ">
+
+            <a href="/ch2627744"
+        title="KSP LIVE CHANNEL"
+        class="thumb_ch thumb_100 ">
+                <img data-original="https://secure-dcdn.cdn.nimg.jp/comch/channel-icon/128x128/ch2627744.jpg?1530286982" class="lazyimage">
+                                                </a>
+    
+    
+</span>            </div>
+
+            <div id="cp_profile">
+                <div class="inner_box">
+                    <h3 class="cp_chname">KSP LIVE CHANNEL</h3>
+                                            <p class="cp_viewname">提供：KSPエンタテインメント合同会社</p>
+                                        <ul class="cp_footmenu"><li><a href="javascript:void(0);" onclick="window.open('/blogparts/ch2627744', 'ch_blogparts_popup', 'scrollbars=yes,resizable=yes,width=600,height=560');">貼り付けタグを取得する</a></li><li><a href="https://ch.nicovideo.jp/letter/ch2627744">ご意見・ご要望はこちら</a></li></ul>
+                </div>
+                                                            <div class="inner_box">
+                            <h3>タグ</h3>
+                            <ul class="cp_tags">
+                                                                    <li><a href="/search/V%E7%B3%BB?mode=t">V系</a></li>
+                                                                    <li><a href="/search/%E3%83%A9%E3%82%A4%E3%83%96?mode=t">ライブ</a></li>
+                                                                    <li><a href="/search/%E3%83%B4%E3%82%A3%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E7%B3%BB?mode=t">ヴィジュアル系</a></li>
+                                                                    <li><a href="/search/%E9%9F%B3%E6%A5%BD?mode=t">音楽</a></li>
+                                                            </ul>
+                        </div>
+                                                                <div class="inner_box">
+                            <h3>説明文</h3>
+                            <p>KSPエンタテインメントがお送りするライブ配信チャンネル！ヴィジュアル系バンドを中心に、様々なアーティストのライブ映像をお届けします!!</p>
+                        </div>
+                                                            <div class="nanime_link">
+                        <script
+                            type="text/x-template"
+                            data-wktk-id="watch-portal-link"
+                            data-wktk-name="watch-portal-link"
+                            data-wktk-selector=".nanime_link"
+                        >
+                            
+                                <div class="inner_box">
+                                    <h3>ポータルサイトリンク</h3>
+                                    <ul>
+                                        <li><a href="{{items.[0].values.portalFirstLink.context}}?from=ch_article_2627744" target="_blank">{{items.[0].values.portalFirstText.context}}</a>
+                                        </li>
+                                        <li><a href="{{items.[0].values.portalSecondLink.context}}?from=ch_article_2627744" target="_blank">{{items.[0].values.portalSecondText.context}}</a>
+                                        </li>
+                                        <li><a href="{{items.[0].values.portalThirdLink.context}}?from=ch_article_2627744" target="_blank">{{items.[0].values.portalThirdText.context}}</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            
+                        </script>
+                    </div>
+                            </div>
+
+            <div id="join"></div>
+
+            <div id="cp_joinmenu">
+                <div class="join_leave">
+
+                                                                                <p class="btn join">
+                <a href="https://account.nicovideo.jp/login?site=channel&next_url=%2Fksp-live%3Fadmission_type%3Dselect&time=1550977531&hash_key=e6ad6e77"
+                
+                onclick="ga('chfrontAll.send','event','フッター','チャンネルに入会',location.pathname);
+                NicoGoogleTagManagerDataLayer.push({'event':'nicoch_click_footer-join-button'})"
+                >
+                    チャンネルに入会
+                </a>
+            </p>
+                <p class="channel_price">
+        月額：<strong>&yen;540</strong>
+        <span class="tax_included">(税込)</span>
+    </p>
+                        
+                                        
+                </div>
+
+            </div>
+
+
+        </div>
+    </div>
+
+<div id="foot_common">
+    <div class="foot_inner">
+
+        <nav id="foot_nav_other" class="foot_common_nav">
+            <h3 class="nav_title">総合</h3>
+            <ul>
+                <li><a href="https://ch.nicovideo.jp/">ニコニコチャンネル トップ</a>
+                <li><a href="http://site.nicovideo.jp/ch/app/" target="_blank">アプリ niconico ch</a>
+                <li><a href="/channel_catalog">開設されたチャンネル</a>
+                <li><a href="/static/rule.html">利用規約</a>
+                <li><a href="/static/tokutei.html">特定商取引法の表示</a>
+                <li><a href="https://qa.nicovideo.jp/category/show/429">ヘルプ</a>
+                <li><a href="http://dwango.co.jp/" target="_blank">運営会社</a>
+            </ul>
+        </nav>
+
+        <nav id="foot_nav_categories" class="foot_common_nav">
+            <h3 class="nav_title">カテゴリとポータル</h3>
+            <ul>
+                <li><a href="https://ch.nicovideo.jp/portal/event">イベント</a>
+                <li><a href="https://ch.nicovideo.jp/portal/blomaga">ブロマガ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/anime">アニメ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/movie">映画・ドラマ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/media">社会・言論</a>
+                <li><a href="https://ch.nicovideo.jp/portal/tokusatsu">特撮</a>
+            </ul>
+            <ul>
+                <li><a href="https://ch.nicovideo.jp/portal/music">音楽</a>
+                <li><a href="https://ch.nicovideo.jp/portal/entertainment">エンタメ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/sports">スポーツ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/showbiz">芸能</a>
+                <li><a href="https://ch.nicovideo.jp/portal/life">生活</a>
+                <li><a href="https://ch.nicovideo.jp/portal/politics">政治</a>
+                <li><a href="https://ch.nicovideo.jp/portal/game">ゲーム</a>
+                <li><a href="https://ch.nicovideo.jp/portal/variety">バラエティ</a>
+                <li><a href="https://ch.nicovideo.jp/portal/gravure">グラビア</a>
+            </ul>
+        </nav>
+
+        <nav id="foot_nav_account" class="foot_common_nav">
+            <h3 class="nav_title">アカウント</h3>
+            <ul>
+                            <li><a href="https://account.nicovideo.jp/register">アカウント新規登録</a>
+                <li><a href="https://account.nicovideo.jp/login?next_url=%2Fksp-live&site=channel&time=1550977531&hash_key=6c08e78b">ログインページ</a>
+                        </ul>
+        </nav>
+
+        <nav id="foot_nav_cpsupport" class="foot_common_nav">
+            <h3 class="nav_title">開設／お問い合わせ</h3>
+            <ul>
+                <li><a href="/start" class="wbr"><span>チャンネルを</span><span>開設する</span></a>
+                <li><a href="/blomaga" class="wbr"><span>ブログを</span><span>開設する</span></a>
+                <li><a href="https://secure.ch.nicovideo.jp/application/mediaplan/">
+                    ブログを開設する<small>(大手メディアプラン)</small>
+                </a>
+                <li><a href="https://qa.nicovideo.jp/faq/show/5008?site_domain=default" class="wbr">
+                    <span>niconicoへのご意見・ご要望</span>
+                </a>
+                <li><a href="http://site.nicovideo.jp/sales_ads" class="wbr"><span>広告出稿に</span><span>関する</span><span>お問い合わせ</span></a>
+            </ul>
+        </nav>
+
+        
+        <small id="foot_copyright">
+            <p><a href="http://dwango.co.jp/" target="_blank">&copy; DWANGO Co., Ltd.</a></p>
+        </small>
+
+    </div>
+</div>        
+                
+        
+    </footer>
+
+            
+                <div class="nicoch_modal" id="timeshift_modal" style="display:none;">
+    <div class="nicoch_modal_overlay" onclick="TimeShift.registHide()"></div>
+    <div class="nicoch_modal_window" id="watching_reservation_regist">
+        <p class="modal_close">
+            <a href="javascript:TimeShift.registHide()">&times;</a>
+        </p>
+        <div class="modal_body load_spinner" id="watching_reservation_info"></div>
+    </div>
+</div>    
+        <div class="nicoch_notifybar" style="display:none" title="クリックで閉じる">
+    <h6 class="title"></h6>
+    <div class="body"></div>
+    <span class="close">&times;</span>
+</div>
+        <div id="loginbox_mask" style="display: none;"></div>
+<section id="loginbox_balloon" style="display: none;">
+    <h1></h1>
+    <dl class="login">
+        <dt><a class="button"></a></dt>
+        <dd></dd>
+    </dl>
+    <dl class="register">
+        <dt><a class="button"></a></dt>
+        <dd></dd>
+    </dl>
+</section>
+
+
+<script>
+var MSG_loginbox = {
+    title : "niconicoアカウントにログイン",
+    login : {
+        label : "ログイン",
+        url : "https://account.nicovideo.jp/login?next_url=%2Fksp-live&site=channel&time=1550977531&hash_key=6c08e78b",
+        description : "アカウントをお持ちの方はログイン<br>してください。"
+    },
+    register : {
+        label : "アカウント登録",
+        url : "",
+        description : "まだアカウントをお持ちでない方でも<br>無料で作成できます。"
+    }
+};
+Ch.loginbox.init();
+</script>
+
+        
+<script src="https://platform.twitter.com/widgets.js" defer async></script>
+<script src="https://b.st-hatena.com/js/bookmark_button.js" defer async></script>
+<div id="fb-root"></div>
+
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/timeshift.js?1550736329"></script>
+
+
+<script>
+if (parent != window) {
+    var allowed = false;
+
+    document.addEventListener('click', function(e) {
+        if (!allowed) {
+            e.stopPropagation();
+            e.preventDefault();
+        }
+    }, true);
+
+    window.addEventListener('message', function(e) {
+        if (e.origin == 'https://ch.nicovideo.jp/') {
+            allowed = true;
+        }
+    }, true);
+}
+</script>
+
+<script>
+var ptSampleRate = 0;
+</script>
+
+
+<script type="text/javascript">
+window._pt_lt = new Date().getTime();
+window._pt_sp_2 = [];
+_pt_sp_2.push('setAccount,4ef1ca6b');
+_pt_sp_2.push('setSampleRate,' + ptSampleRate);
+var _protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+(function() {
+    var atag = document.createElement('script');
+    atag.type = 'text/javascript';
+    atag.async = true;
+    atag.src = _protocol + 'js.ptengine.jp/pta.js';
+    var stag = document.createElement('script');
+    stag.type = 'text/javascript';
+    stag.async = true;
+    stag.src = _protocol + 'js.ptengine.jp/pts.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(atag, s);
+    s.parentNode.insertBefore(stag, s);
+})();
+</script>
+
+
+<script type="text/javascript" src="https://secure-dcdn.cdn.nimg.jp/nicocc/wktkjs/1.0.0/wktk.min.js"></script>
+<script src="https://secure-dcdn.cdn.nimg.jp/nicochannel/chfront/js/nicoslider.js?1550736329"></script>
+<script>
+
+    WKTK.init({
+        baseURL: 'https://public.api.nicovideo.jp/',
+        frontendId: 32,
+        responseType: 'pc'
+        // 個別チャンネルの場合は、WKTKのtagsを設定する
+        
+        ,tags: ['ch2627744']
+        
+    });
+    // 枠ツクールタグがあった場合、NicoSliderは枠が完成してから実行する
+    var wktkElements = document.querySelectorAll('[data-wktk-id]');
+    Array.prototype.slice.call(wktkElements).forEach(function(element, index, elements){
+        // 枠固有のパラメータを取得する
+        var templateVars = document.getElementById('template-vars-' + element.dataset.wktkId);
+        var templateData = templateVars ? templateVars.dataset : {};
+
+        WKTK.set(element.dataset.wktkId, {
+            templateData: templateData,
+            onEmpty: function () {
+                // コンテンツがなかったら枠ごと消す
+                if (typeof element.dataset.wakuWrapperId != 'undefined') {
+                    document.getElementById(element.dataset.wakuWrapperId).hide();// prototype.jsに依存
+                }
+            },
+            onLoad: function (items) {
+                // チケット連携枠では表示しているチャンネルのチケット情報のみを渡す
+                if (element.dataset.wktkId === 'channel-ticket-sales') {
+                    return {
+                        items: items.filter(function (item) {
+                            return item.values.channelId.context === '2627744';
+                        })
+                    }
+                } else {
+                    return {items: items};
+                }
+            },
+            onData: function(){
+                // 枠ツクールの枠がある場合に、最後の枠が描画されてからNicoSliderを実行
+                if(index === elements.length - 1){
+                    new NicoSlider();
+                }
+            }
+        });
+    });
+    // 枠ツクールがなかった場合は即時実行
+    if(wktkElements.length == 0){
+        new NicoSlider();
+    }
+    WKTK.fetch();
+
+</script>
+
+</body>
+</html>

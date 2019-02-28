@@ -1,0 +1,639 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Programming/Coding Assignment
+% LaTeX Template
+%
+% This template has been downloaded from:
+% http://www.latextemplates.com
+%
+% Original author:
+% Ted Pavlic (http://www.tedpavlic.com)
+%
+% Note:
+% The \lipsum[#] commands throughout this template generate dummy text
+% to fill the template out. These commands should all be removed when 
+% writing assignment content.
+%
+% This template uses a Perl script as an example snippet of code, most other
+% languages are also usable. Configure them in the "CODE INCLUSION 
+% CONFIGURATION" section.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{article}
+
+\usepackage{fancyhdr} % Required for custom headers
+\usepackage{lastpage} % Required to determine the last page for the footer
+\usepackage{extramarks} % Required for headers and footers
+\usepackage[usenames,dvipsnames]{color} % Required for custom colors
+\usepackage{graphicx} % Required to insert images
+\usepackage{listings} % Required for insertion of code
+\usepackage{courier} % Required for the courier font
+\usepackage{lipsum} % Used for inserting dummy 'Lorem ipsum' text into the template
+\usepackage{setspace}
+\usepackage{color}
+\usepackage{comment}
+\usepackage{caption}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{underscore}
+\usepackage{subfigure}
+\usepackage{fixltx2e}
+\usepackage{url}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    breaklinks=true
+}
+
+%\usepackage[]{algorithm2e}
+\usepackage{pdfpages}
+\def\UrlBreaks{\do\/\do-}
+
+%For python inclusion (http://widerin.org/blog/syntax-highlighting-for-python-scripts-in-latex-documents)
+\definecolor{Code}{rgb}{0,0,0}
+\definecolor{Decorators}{rgb}{0.5,0.5,0.5}
+\definecolor{Numbers}{rgb}{0.5,0,0}
+\definecolor{MatchingBrackets}{rgb}{0.25,0.5,0.5}
+\definecolor{Keywords}{rgb}{0,0,1}
+\definecolor{self}{rgb}{0,0,0}
+\definecolor{Strings}{rgb}{0,0.63,0}
+\definecolor{Comments}{rgb}{0,0.63,1}
+\definecolor{Backquotes}{rgb}{0,0,0}
+\definecolor{Classname}{rgb}{0,0,0}
+\definecolor{FunctionName}{rgb}{0,0,0}
+\definecolor{Operators}{rgb}{0,0,0}
+\definecolor{Background}{rgb}{0.98,0.98,0.98}
+
+% Margins
+\topmargin=-0.45in
+\evensidemargin=0in
+\oddsidemargin=0in
+\textwidth=6.5in
+\textheight=9.0in
+\headsep=0.25in
+
+\linespread{1.1} % Line spacing
+
+% Set up the header and footer
+\pagestyle{fancy}
+\lhead{\hmwkAuthorName} % Top left header
+%\chead{\hmwkClass\ (\hmwkClassInstructor\ \hmwkClassTime): \hmwkTitle} % Top center head
+\chead{\hmwkClass\ (\hmwkClassInstructor): \hmwkTitle} % Top center head
+\rhead{\firstxmark} % Top right header
+\lfoot{\lastxmark} % Bottom left footer
+\cfoot{} % Bottom center footer
+\rfoot{Page\ \thepage\ of\ \protect\pageref{LastPage}} % Bottom right footer
+\renewcommand\headrulewidth{0.4pt} % Size of the header rule
+\renewcommand\footrulewidth{0.4pt} % Size of the footer rule
+
+\setlength\parindent{0pt} % Removes all indentation from paragraphs
+
+%----------------------------------------------------------------------------------------
+%	CODE INCLUSION CONFIGURATION
+%----------------------------------------------------------------------------------------
+
+\definecolor{MyDarkGreen}{rgb}{0.0,0.4,0.0} % This is the color used for comments
+\lstloadlanguages{Perl} % Load Perl syntax for listings, for a list of other languages supported see: ftp://ftp.tex.ac.uk/tex-archive/macros/latex/contrib/listings/listings.pdf
+\lstset{language=Perl, % Use Perl in this example
+        frame=single, % Single frame around code
+        basicstyle=\small\ttfamily, % Use small true type font
+        keywordstyle=[1]\color{Blue}\bf, % Perl functions bold and blue
+        keywordstyle=[2]\color{Purple}, % Perl function arguments purple
+        keywordstyle=[3]\color{Blue}\underbar, % Custom functions underlined and blue
+        identifierstyle=, % Nothing special about identifiers                                         
+        commentstyle=\usefont{T1}{pcr}{m}{sl}\color{MyDarkGreen}\small, % Comments small dark green courier font
+        stringstyle=\color{Purple}, % Strings are purple
+        showstringspaces=false, % Don't put marks in string spaces
+        tabsize=5, % 5 spaces per tab
+        %
+        % Put standard Perl functions not included in the default language here
+        morekeywords={rand},
+        %
+        % Put Perl function parameters here
+        morekeywords=[2]{on, off, interp},
+        %
+        % Put user defined functions here
+        morekeywords=[3]{test},
+       	%
+        morecomment=[l][\color{Blue}]{...}, % Line continuation (...) like blue comment
+        numbers=left, % Line numbers on left
+        firstnumber=1, % Line numbers start with line 1
+        numberstyle=\tiny\color{Blue}, % Line numbers are blue and small
+        stepnumber=5 % Line numbers go in steps of 5
+}
+
+% Creates a new command to include a perl script, the first parameter is the filename of the script (without .pl), the second parameter is the caption
+\newcommand{\perlscript}[2]{
+\begin{itemize}
+\item[]\lstinputlisting[caption=#2,label=#1]{#1.pl}
+\end{itemize}
+}
+
+
+%----------------------------------------------------------------------------------------
+%	DOCUMENT STRUCTURE COMMANDS
+%	Skip this unless you know what you're doing
+%----------------------------------------------------------------------------------------
+
+% Header and footer for when a page split occurs within a problem environment
+\newcommand{\enterProblemHeader}[1]{
+\nobreak\extramarks{#1}{#1 continued on next page\ldots}\nobreak
+\nobreak\extramarks{#1 (continued)}{#1 continued on next page\ldots}\nobreak
+}
+
+% Header and footer for when a page split occurs between problem environments
+\newcommand{\exitProblemHeader}[1]{
+\nobreak\extramarks{#1 (continued)}{#1 continued on next page\ldots}\nobreak
+\nobreak\extramarks{#1}{}\nobreak
+}
+
+\setcounter{secnumdepth}{0} % Removes default section numbers
+\newcounter{homeworkProblemCounter} % Creates a counter to keep track of the number of problems
+
+\newcommand{\homeworkProblemName}{}
+\newenvironment{homeworkProblem}[1][Problem \arabic{homeworkProblemCounter}]{ % Makes a new environment called homeworkProblem which takes 1 argument (custom name) but the default is "Problem #"
+\stepcounter{homeworkProblemCounter} % Increase counter for number of problems
+\renewcommand{\homeworkProblemName}{#1} % Assign \homeworkProblemName the name of the problem
+\section{\homeworkProblemName} % Make a section in the document with the custom problem count
+\enterProblemHeader{\homeworkProblemName} % Header and footer within the environment
+}{
+\exitProblemHeader{\homeworkProblemName} % Header and footer after the environment
+}
+
+\newcommand{\problemAnswer}[1]{ % Defines the problem answer command with the content as the only argument
+\noindent\framebox[\columnwidth][c]{\begin{minipage}{0.98\columnwidth}#1\end{minipage}} % Makes the box around the problem answer and puts the content inside
+}
+
+\newcommand{\homeworkSectionName}{}
+\newenvironment{homeworkSection}[1]{ % New environment for sections within homework problems, takes 1 argument - the name of the section
+\renewcommand{\homeworkSectionName}{#1} % Assign \homeworkSectionName to the name of the section from the environment argument
+\subsection{\homeworkSectionName} % Make a subsection with the custom name of the subsection
+\enterProblemHeader{\homeworkProblemName\ [\homeworkSectionName]} % Header and footer within the environment
+}{
+\enterProblemHeader{\homeworkProblemName} % Header and footer after the environment
+}
+
+%----------------------------------------------------------------------------------------
+%	NAME AND CLASS SECTION
+%----------------------------------------------------------------------------------------
+%#MOD
+\newcommand{\hmwkTitle}{Assignment\ \#3 } % Assignment title
+%\newcommand{\hmwkDueDate}{Monday,\ January\ 1,\ 2012} % Due date
+\newcommand{\hmwkClass}{Web Science} % Course/class
+%\newcommand{\hmwkClassTime}{10:30am} % Class/lecture time
+\newcommand{\hmwkClassInstructor}{Alexander Nwala} % Teacher/lecturer
+\newcommand{\hmwkAuthorName}{Mohd. Nauman Siddique} % Your name
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\title{
+\vspace{2in}
+\textmd{\textbf{\hmwkClass:\ \hmwkTitle}}\\
+%\normalsize\vspace{0.1in}\small{Due\ on\ \hmwkDueDate}\\
+%\vspace{0.1in}\large{\textit{\hmwkClassInstructor\ \hmwkClassTime}}
+\vspace{0.1in}\large{\textit{\hmwkClassInstructor}}
+\vspace{3in}
+}
+
+\author{\textbf{\hmwkAuthorName}}
+%#MOD
+\date{Thursday, February 28, 2019} % Insert date here if you want it to appear below your name
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle
+
+
+
+%----------------------------------------------------------------------------------------
+%	TABLE OF CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\setcounter{tocdepth}{1} % Uncomment this line if you don't want subsections listed in the ToC
+
+\newpage
+\tableofcontents
+\newpage
+
+%----------------------------------------------------------------------------------------
+%	PROBLEM 1
+%----------------------------------------------------------------------------------------
+
+% To have just one problem per page, simply put a \clearpage after each problem
+
+\begin{homeworkProblem}
+Download the 1000 URIs from assignment \#2.  \emph{curl}, \emph{wget}, or \emph{lynx} are all good candidate programs to use.  We want just the raw HTML, not the images, stylesheets, etc. from the command line:
+\begin{lstlisting}[language=bash, breaklines=true]
+% curl http://www.cnn.com/ > www.cnn.com
+% wget -O www.cnn.com http://www.cnn.com/
+% lynx -source http://www.cnn.com/ > www.cnn.com
+\end{lstlisting}
+\url{www.cnn.com} is just an example output file name, keep in mind
+that the shell will not like some of the characters that can occur
+in URIs (e.g., "?", "\&").  You might want to hash the URIs to associate 
+them with their respective filename, like:
+\begin{lstlisting}[language=bash, breaklines=true]
+% echo -n "http://www.cs.odu.edu/show_features.shtml?72" | md5 41d5f125d13b4bb554e6e31b6b591eeb
+\end{lstlisting}
+("md5sum" on some machines; note the "-n" in echo -- this removes
+the trailing newline.)
+
+Now use a tool to remove (most) of the HTML markup for all 1000 HTML documents.
+"python-boilerpipe" will do a fair job see 
+\url{http://ws-dl.blogspot.com/2017/03/2017-03-20-survey-of-5-boilerplate.html}:
+\begin{lstlisting}[language=python, breaklines=true]
+	from boilerpipe.extract import Extractor
+	extractor = Extractor(extractor='ArticleExtractor', html=html)
+	extractor.getText()
+\end{lstlisting}
+Keep both files for each URI (i.e., raw HTML and processed). 
+Upload both sets of files to your github account.
+
+%\problemAnswer
+%{
+    \begin{verbatim}\end{verbatim}
+    \textbf{SOLUTION}\\
+
+The solution to the problem is as below:
+\begin{enumerate}
+ \item \textbf{Download Raw HTML}:  The urls are read from a file name \emph{Urls\_Uniq\_Expanded.txt} and fed to the \emph{requests.get} method to fetch the response. The response is then saved into a file which has a name of the \emph{sha26} of the url.
+
+\begin{lstlisting}[language=python, breaklines=true]
+
+'''
+Function to fetch URLs
+'''
+
+
+def get_raw_html():
+    file_urls = open("Urls_Uniq_Expanded.txt", "r")
+    file_urls_downloaded = open("Urls_downloaded.txt", "w")
+    count = 0
+    for line in file_urls:
+        url = line.rstrip().split("|||")[0]
+        url_digest = hashlib.sha3_256(url.encode()).hexdigest()
+        try:
+            response = requests.get(url)
+            if response.status_code == 200 and count < 1000:
+                count += 1
+                file_urls_downloaded.write(url + ": " + url_digest + "\n")
+                file_raw_html = open("rawHTML/" + url_digest, "w")
+                file_raw_html.write(response.text)
+                file_raw_html.close()
+            elif count == 1000:
+                break
+        except Exception as e:
+            print(e)
+    file_urls_downloaded.close()
+    file_urls.close()
+
+\end{lstlisting}
+
+\item \textbf{Boilerpipe}: I have used the links from the urls to extract the text using \emph{python-boilerpipe} library. I tried extracting the text from raw html but the documentation for boilerpipe library did not provide me with enough insights onto how to use the different arguments.
+
+\begin{lstlisting}[language=python, breaklines=true]
+
+'''
+Function boilerpipe code
+'''
+
+
+def boilerpipe_code():
+    files_urls = open("Urls_Uniq_Expanded.txt", "r")
+    for line in files_urls:
+        url = line.rstrip().split("|||")[0]
+        try:
+            extractor = Extractor(extractor='ArticleExtractor', url= url)
+            url_digest = hashlib.sha256(url.encode()).hexdigest()
+            file_open = open("boilerHTML/" + url_digest, "w")
+            response = extractor.getText()
+            file_open.write(response)
+            file_open.close()
+        except Exception as e:
+            print(e)
+
+\end{lstlisting}
+
+\end{enumerate}
+  
+%}
+
+\end{homeworkProblem}
+
+%----------------------------------------------------------------------------------------
+%   PROBLEM 2
+%----------------------------------------------------------------------------------------
+
+\begin{homeworkProblem}
+
+Choose a query term (e.g., "shadow") that is not a stop word (see week 5 slides) and not HTML markup from step 1 (e.g., "http")
+that matches at least 10 documents (hint: use "grep" on the processed files).  If the term is present in more than 10 documents, choose any 10 from your list.  (If you do not end up with a list of 10 URIs, you've done something wrong).
+
+As per the example in the week 5 slides, compute TFIDF values for the term in each of the 10 documents and create a table with the
+TF, IDF, and TFIDF values, as well as the corresponding URIs.  The URIs will be ranked in decreasing order by TFIDF values.  For
+example:
+
+Table 1. 10 Hits for the term "shadow", ranked by TFIDF.
+
+\begin{center}
+ \begin{tabular}{||c c c c||} 
+ \hline
+ TFIDF & TF & IDF & URI \\ [0.5ex] 
+ \hline\hline
+0.150	& 0.014 & 10.680 & \url{http://foo.com/}\\
+  \hline
+0.044	& 0.008 & 10.680 & \url{http://bar.com/} \\ [1ex] 
+ \hline
+\end{tabular}
+\end{center}
+
+You can use Google or Bing for the DF estimation.  To count the number of words in the processed document (i.e., the deonminator
+for TF), you can use "wc":
+\begin{lstlisting}[language=bash, breaklines=true]
+% wc -w www.cnn.com.processed 
+2370 www.cnn.com.processed
+\end{lstlisting}
+It won't be completely accurate, but it will be probably be consistently inaccurate across all files.  You can use more 
+accurate methods if you'd like, just explain how you did it.  Don't forget the log base 2 for IDF, and mind your significant
+digits!
+
+\url{https://en.wikipedia.org/wiki/Significant_figures#Rounding_and_decimal_places}
+
+%\problemAnswer
+%{
+    \begin{verbatim}\end{verbatim}
+    \textbf{SOLUTION}\\
+
+\begin{lstlisting}[language=Python, breaklines=true]
+
+'''
+Find term frequency and inverse term frequency from Corpus
+'''
+
+
+def find_tf_idf():
+
+    words_list = ["Twitter", "Facebook", "Sports", "America", "Trump", "President", "Friends", "Tweet", "Post", "Senate"]
+    list_outputs = []
+    for i in range(0, len(words_list)):
+        list_outputs.append([])
+    for word in words_list:
+        for files in os.listdir("boilerHTML"):
+            file_open = open("boilerHTML/" + files, "r")
+            count = 0
+            count_total = 0
+            for line in file_open:
+                words_in_line = line.split(" ")
+                for word_in_line in words_in_line:
+                    count_total += 1
+                    if word.lower() == word_in_line.lower():
+                        count += 1
+            if count > 0:
+                list_temp = []
+                list_temp.append(files)
+                list_temp.append(str(count / count_total))
+                list_outputs[words_list.index(word)].append(list_temp)
+            file_open.close()
+    print(list_outputs)
+
+    total_corpus = 0
+    for files in os.listdir("boilerHTML"):
+        total_corpus += 1
+
+    for i in range(0, len(list_outputs)):
+        for j in range(0, len(list_outputs[i])):
+            idf = math.log((total_corpus/ len(list_outputs[i])), 2)
+            list_outputs[i][j].append(str(idf))
+            list_outputs[i][j].append(str(idf * float(list_outputs[i][j][1])))
+
+    file_hashes = open("Urls_hash.txt", "r")
+    list_hash = []
+    list_url = []
+    for line in file_hashes:
+        line_split = line.split("|||")
+        list_hash.append(line_split[0])
+        list_url.append(line_split[1])
+    file_hashes.close()
+
+    for i in range(0, len(list_outputs)):
+        file_words = open("wordFrequency/" + words_list[i] + ".txt", "w")
+        for j in range(0, len(list_outputs[i])):
+            for k in range(0, len(list_outputs[i][j])):
+                if k == 0:
+                    file_words.write(list_url[list_hash.index(list_outputs[i][j][k])].rstrip() + "|||")
+                else:
+                    file_words.write(list_outputs[i][j][k] + "|||")
+            file_words.write("\n")
+        file_words.close()
+\end{lstlisting}
+ The solution for this problem is outlined by the following steps:\\ \\
+ \textbf{Choosing Query Terms}: I chose 10 query terms for this question but I will be using only 1 of them in my results. All the 10 query terms have more than 10 hits in my corpus of raw htmls.\\
+\textbf{Compute Term Frequency}: The Term Frequency(TF) has been calculated by the formula mentioned in week 5 lecture.\\
+ $TF = \frac{Number of occurrences for the term in the document}{Total number of terms in the document}$\\
+\textbf{Compute Inverse Document Frequency}: The Inverse Document Frequency(IDF) has been calculated using the formula from wek 5 lecture.\\
+$IDF=\log_2 \frac{Number of documents in the corpus}{Number of documents with occurences for the term}$\\
+I solved the problem in two ways. In my first approach. I used the number of documents in the corpus to be my own list of documents while, in the second approach I just queried the term on google and used the number of results from it as my corpus size.\\
+\textbf{Compute TFIDF}: TFIDF is the product of TF and IDF.\\
+\begin{table}[h!]
+\centering
+\begin{tabular}{||c c c c||} 
+ \hline
+ TFIDF & TF & IDF & URI \\ [0.5ex] 
+ \hline\hline
+0.005715823657356178 & 0.0008880994671403197& 6.436017438183057&\url{https://edition.cnn.com/2019/02/13/africa/kenya-rare-black-leopard-black-panther/index.html?utm_medium=social&utm_term=image&utm_content=2019-02-13T08\%3A04\%3A04\&utm_source=twCNN}\\
+0.005194525777387455&0.0008071025020177562&6.436017438183057&\url{https://theintercept.com/2019/02/14/ilhan-omar-elliott-abrams-hearing/}\\
+0.009722080722330901&0.0015105740181268882&6.436017438183057&\url{https://bigleaguepolitics.com/exclusive-taqiyya-ilhan-omar-panders-to-transgender-community-while-hiding-ties-to-jihadi-imam-who-called-for-killing-homosexuals/}\\
+0.013325087863733038&0.002070393374741201&6.436017438183057&\url{https://uslibertywire.com/fox-news-finds-skeleton-in-james-comeys-closet-that-may-doom-hillary-clinton/}\\
+0.003967951564847754&0.0006165228113440197&6.436017438183057&\url{https://www.dcclothesline.com/2019/02/14/mexican-scientists-find-a-cure-for-hpv-but-it-wouldnt-be-profitable-to-approve-it-in-the-us/}\\
+0.003475171402906618&0.0005399568034557236&6.436017438183057&\url{http://downwithtyranny.blogspot.com/2019/02/why-are-political-establishments.html?m=1}\\
+0.02383710162290021&0.003703703703703704&6.436017438183057&\url{https://qoinbook.com/news/hsbc-exec-says-using-blockchain-slashed-forex-trading-costs-by-25/}\\
+0.004962233953880537&0.0007710100231303007&6.436017438183057&\url{https://www.out.com/news-opinion/2019/2/14/i-believe-jussie-smollett-you-should-too}\\
+0.011039481026042979&0.0017152658662092624&6.436017438183057&\url{https://www.youtube.com/watch?v=vMm5HfxNXY4\&feature=youtu.be\&list=PLywVpgiwsizKedMSc4_vYYHD52VD8K4Rw}\\
+0.006026233556351177&0.0009363295880149813&6.436017438183057&\url{http://trenchtrenchtrench.com/features/does-r-and-b-need-to-take-it-back-to-church}\\
+0.009220655355563118&0.0014326647564469914&6.436017438183057&\url{https://www.ebay.com/itm/254066158629}\\
+0.018441310711126237&0.0028653295128939827&6.436017438183057&\url{http://scrafinance.com/wall-street-is-booming-despite-first-quarter-warning/}\\[1ex] 
+ \hline
+\end{tabular}
+\caption{IDF calculated from the document corpus dowloaded from the 1000 URLs on the query term: America}
+\label{table:1}
+\end{table}
+
+Using independece model we can calculate the size of collection.\\
+ $ N = \frac{f_a * f_b}{f_ab}$\\
+Query for dog on Google has 4,510,000,000 entries.\\
+Query for cat on Google has 4,580,000,000 entries.\\
+Query for dog cat on Google has 2,520,000,000  entries.\\
+
+$N = 81,967,460,300,000,000,000$\\
+
+Query term america on Google has 6,310,000,000 entries.\\
+
+$IDF = 33.59669224192899$
+
+
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{||c c c c||} 
+ \hline
+ TFIDF & TF & IDF & URI \\ [0.5ex] 
+ \hline\hline
+0.02983720448 & 0.0008880994671403197& 33.59669224192899&\url{https://edition.cnn.com/2019/02/13/africa/kenya-rare-black-leopard-black-panther/index.html?utm_medium=social&utm_term=image&utm_content=2019-02-13T08\%3A04\%3A04\&utm_source=twCNN}\\
+0.02711597437&0.0008071025020177562&33.59669224192899&\url{https://theintercept.com/2019/02/14/ilhan-omar-elliott-abrams-hearing/}\\
+0.0507502904&0.0015105740181268882&33.59669224192899&\url{https://bigleaguepolitics.com/exclusive-taqiyya-ilhan-omar-panders-to-transgender-community-while-hiding-ties-to-jihadi-imam-who-called-for-killing-homosexuals/}\\
+0.06955836903&0.002070393374741201&33.59669224192899&\url{https://uslibertywire.com/fox-news-finds-skeleton-in-james-comeys-closet-that-may-doom-hillary-clinton/}\\
+0.02071312715&0.0006165228113440197&33.59669224192899&\url{https://www.dcclothesline.com/2019/02/14/mexican-scientists-find-a-cure-for-hpv-but-it-wouldnt-be-profitable-to-approve-it-in-the-us/}\\
+0.01814076255&0.0005399568034557236&33.59669224192899&\url{http://downwithtyranny.blogspot.com/2019/02/why-are-political-establishments.html?m=1}\\
+0.1244321935&0.003703703703703704&33.59669224192899&\url{https://qoinbook.com/news/hsbc-exec-says-using-blockchain-slashed-forex-trading-costs-by-25/}\\
+0.02590338646&0.0007710100231303007&33.59669224192899&\url{https://www.out.com/news-opinion/2019/2/14/i-believe-jussie-smollett-you-should-too}\\
+0.05762725942&0.0017152658662092624&33.59669224192899&\url{https://www.youtube.com/watch?v=vMm5HfxNXY4\&feature=youtu.be\&list=PLywVpgiwsizKedMSc4_vYYHD52VD8K4Rw}\\
+0.03145757701&0.0009363295880149813&33.59669224192899&\url{http://trenchtrenchtrench.com/features/does-r-and-b-need-to-take-it-back-to-church}\\
+0.04813279691&0.0014326647564469914&33.59669224192899&\url{https://www.ebay.com/itm/254066158629}\\
+0.09626559382&0.0028653295128939827&33.59669224192899&\url{http://scrafinance.com/wall-street-is-booming-despite-first-quarter-warning/}\\[1ex] 
+ \hline
+\end{tabular}
+\caption{IDF calculated from the document corpus from google which has 6,280,000,000 records for query term: America}
+\label{table:2}
+\end{table}
+
+
+
+   %}
+
+\end{homeworkProblem}
+
+%----------------------------------------------------------------------------------------
+%   PROBLEM 3
+%----------------------------------------------------------------------------------------
+
+\begin{homeworkProblem}
+
+ Now rank the same 10 URIs from question \#2, but this time by their PageRank.  Use any of the free PR estimaters on the web,
+such as:
+
+\url{http://pr.eyedomain.com/}
+
+\url{http://www.prchecker.info/check_page_rank.php}
+
+\url{http://www.seocentro.com/tools/search-engines/pagerank.html}
+
+\url{http://www.checkpagerank.net/}
+
+If you use these tools, you'll have to do so by hand (they have anti-bot captchas), but there are only 10 to do.  Normalize the
+values they give you to be from 0 to 1.0.  Use the same tool on all 10 (again, consistency is more important than accuracy).  Also
+note that these tools typically report on the domain rather than the page, so it's not entirely accurate.  
+
+Create a table similar to Table 1:
+
+Table 2.  10 hits for the term "shadow", ranked by PageRank.
+
+\begin{center}
+ \begin{tabular}{||c c||} 
+ \hline
+ PageRank & URI \\ [0.5ex] 
+ \hline\hline
+0.9 & \url{http://bar.com/}\\
+  \hline
+0.5 & \url{http://foo.com/} \\ [1ex] 
+ \hline
+\end{tabular}
+\end{center}
+Briefly compare and contrast the rankings produced in questions 2 and 3.
+%\problemAnswer
+%{
+    \begin{verbatim}\end{verbatim}
+    \textbf{SOLUTION}\\
+
+I used \url{https://smallseotools.com/google-pagerank-checker/} link to find pagerank. All the page rank scores have been normalized by 10, as the website reports it in the sclae of 10.
+\begin{table}[h!]
+\centering
+\begin{tabular}{||c c||} 
+ \hline
+ Pagerank & URI \\ [0.5ex] 
+ \hline\hline
+0.9&\url{https://edition.cnn.com/2019/02/13/africa/kenya-rare-black-leopard-black-panther/index.html?utm_medium=social&utm_term=image&utm_content=2019-02-13T08\%3A04\%3A04\&utm_source=twCNN}\\
+0.2&\url{https://theintercept.com/2019/02/14/ilhan-omar-elliott-abrams-hearing/}\\
+0&\url{https://bigleaguepolitics.com/exclusive-taqiyya-ilhan-omar-panders-to-transgender-community-while-hiding-ties-to-jihadi-imam-who-called-for-killing-homosexuals/}\\
+0&\url{https://uslibertywire.com/fox-news-finds-skeleton-in-james-comeys-closet-that-may-doom-hillary-clinton/}\\
+0&\url{https://www.dcclothesline.com/2019/02/14/mexican-scientists-find-a-cure-for-hpv-but-it-wouldnt-be-profitable-to-approve-it-in-the-us/}\\
+0&\url{http://downwithtyranny.blogspot.com/2019/02/why-are-political-establishments.html?m=1}\\
+0&\url{https://qoinbook.com/news/hsbc-exec-says-using-blockchain-slashed-forex-trading-costs-by-25/}\\
+0.6&\url{https://www.out.com/news-opinion/2019/2/14/i-believe-jussie-smollett-you-should-too}\\
+0.9&\url{https://www.youtube.com/watch?v=vMm5HfxNXY4\&feature=youtu.be\&list=PLywVpgiwsizKedMSc4_vYYHD52VD8K4Rw}\\
+0&\url{http://trenchtrenchtrench.com/features/does-r-and-b-need-to-take-it-back-to-church}\\
+0.8&\url{https://www.ebay.com/itm/254066158629}\\
+0&\url{http://scrafinance.com/wall-street-is-booming-despite-first-quarter-warning/}\\[1ex] 
+ \hline
+\end{tabular}
+\caption{Page rank for all the urls for query term America}
+\label{table:2}
+\end{table}
+
+The biggest highlight between the approach of TFIDF and pagerank is that TFIDF always provides us with a number even the the document might be very rare but in case of page rank it is calculated from domain name which creates a bias in the page rank and also provides a number 0 for very less popular pages. The results for all the URLs in TFIDF are very similar while calculating the pagerank ranks the pages with popular domain on the top. TFIDF is content based approach while page rank is popularity based approach for a URL. The need of the user determines which metric is better for them.
+ 
+\end{homeworkProblem}
+
+%----------------------------------------------------------------------------------------
+%   PROBLEM 4
+%----------------------------------------------------------------------------------------
+
+\begin{homeworkProblem}
+
+ Compute the Kendall Tau\_b score for both lists (use "b" because
+there will likely be tie values in the rankings).  Report both the
+Tau value and the "p" value.
+
+See: 
+\url{http://stackoverflow.com/questions/2557863/measures-of-association-in-r-kendalls-tau-b-and-tau-c}\\
+\url{http://en.wikipedia.org/wiki/Kendall_tau_rank_correlation_coefficient#Tau-b}\\
+\url{http://en.wikipedia.org/wiki/Correlation_and_dependence}\\
+%\problemAnswer
+%{
+    \begin{verbatim}\end{verbatim}
+    \textbf{SOLUTION}\\
+
+I added all the values manually calculated from previous problem to my function nd calulated Kendel Tau value.\\
+tau = - 0.074\\
+p_value = 0.757\\ 
+
+\begin{lstlisting}[language=Python, breaklines=true]
+'''
+Calculate Kendel Tau
+'''
+
+
+def kendel_tau():
+    # TF-IDF Values
+    a = [0.03, 0.027, 0.051, 0.07, 0.021, 0.018, 0.124, 0.026, 0.058, 0.031, 0.048, 0.096]
+    # Page Rank
+    b = [0.9, 0.2, 0, 0, 0, 0, 0,0.6, 0.9, 0, 0.8, 0]
+    tau, p_value = stats.kendalltau(a, b)
+    print(tau)
+    print(p_value)
+\end{lstlisting}
+
+\end{homeworkProblem}
+
+\end{document}
+    
+
+
+   
+
+    
+
+    
+
+    
+   

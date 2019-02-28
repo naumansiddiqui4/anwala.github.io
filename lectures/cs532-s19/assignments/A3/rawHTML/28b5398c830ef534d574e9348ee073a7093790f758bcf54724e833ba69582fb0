@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M5SMNM8');</script>
+<!-- End Google Tag Manager -->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge，chrome=1">
+<meta name="google-site-verification" content="CJ4bOkH0h9hHs3URPZXEsPR17fprntefPFYGxTERHhw" />
+<meta name="author" content="dwnews"/>
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="NER0U2ZoN2xBFBViLwddHHUWMH4wJ20oABJMBzIxAxxiIxw6Jw5EJA==">
+    <title>李一平的大忽悠_政闻-多维客</title>
+     <script>var SITE_URL = 'http://blog.dwnews.com';</script>
+    <meta name="keywords" content="李一平">
+<meta name="description" content="李一平的大忽悠">
+<meta property="og:description" content="李一平的大忽悠">
+<meta property="og:image" content="">
+<meta property="og:title" content="李一平的大忽悠">
+<meta property="og:url" content="http://blog.dwnews.com/post-1100410.html">
+<link href="/assets/e27ef6db/css/font-awesome.min.css" rel="stylesheet">
+<script src="/assets/85919263/jquery.js"></script><link rel="canonical" href="http://blog.denews.com" />
+<link type="image/x-icon" href="http://s0.dwnews.net/v5/images/favicon.ico" rel="shortcut icon">
+<link href="http://s1.dwnews.net/v5/css/common/base.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://s2.dwnews.net/v5/css/common/dw5.bxslider.css">
+<link rel="stylesheet" type="text/css" href="http://s3.dwnews.net/v5/css/common/navMoving.css">
+<link href="http://s0.dwnews.net/v5/css/common/dwker.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="http://s1.dwnews.net/v5/css/common/login.css" />
+<script src="http://s2.dwnews.net/v5/js/common/jquery.cookie.js"></script>
+<script src="http://s3.dwnews.net/v5/js/common/dw5.lang.js"></script>
+<script src="http://s0.dwnews.net/v5/js/common/dw5.static.service.js"></script>
+<script src="http://s1.dwnews.net/v5/js/common/dw5.public.service.js"></script>
+<script src="http://s2.dwnews.net/v5/js/common/dw5.dwLayer.js"></script>
+<script src="http://s3.dwnews.net/v5/js/common/dw5.ranking.js"></script>
+<script src="http://s0.dwnews.net/v5/js/common/dw5.pageview.analysis.js"></script>
+<!--<script src="http://s1.dwnews.net/v5/js/common/dwnews.analysis.pv.js"></script>-->
+<script src="http://s2.dwnews.net/v5/js/common/dw5.lazyload.service.js"></script>
+<!--<script>
+    var OAS_url ='http://oascentral.dwnews.com/RealMedia/ads/',
+    OAS_sitepage = 'dwnews.com',
+    OAS_listpos = 'x04',
+    OAS_query = '',
+    OAS_rns = (Math.random() + "").substring(2, 11);
+    document.write('<script type="text/javascript" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');
+</script>-->
+
+<!--  登录、注册公共js-->
+<script src="http://s3.dwnews.net/v5/js/common/dw5.ansyLoad.js"></script>
+<script src="http://s0.dwnews.net/v5/js/common/dw5.bxslider.service.js"></script>
+<!--<script src="common/dw5.users.service.js"></script>-->
+<style>
+    @font-face {
+  font-family: 'Glyphicons Halflings';
+
+  src: url('./static/glyphicons-halflings-regular.eot');
+  src: url('./static/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('./static/glyphicons-halflings-regular.woff2') format('woff2'), url('./static/glyphicons-halflings-regular.woff') format('woff'), url('./staticfonts/glyphicons-halflings-regular.ttf') format('truetype'), url('./static/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+}
+.glyphicon {
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+    .glyphicon-refresh:before {
+  content: "\e031";
+}
+.spin{
+-webkit-transform-origin: 50% 50%;
+transform-origin:50% 50%;
+-ms-transform-origin:50% 50%; /* IE 9 */
+-webkit-animation: spin .8s infinite linear;
+-moz-animation: spin .8s infinite linear;
+-o-animation: spin .8s infinite linear;
+animation: spin .8s infinite linear;
+}
+@-webkit-keyframes spin {
+0% {
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100% {
+-webkit-transform: rotate(359deg);
+transform: rotate(359deg);
+}
+}
+@keyframes spin {
+0% {
+-webkit-transform: rotate(0deg);
+transform: rotate(0deg);
+}
+100% {
+-webkit-transform: rotate(359deg);
+transform: rotate(359deg);
+}
+}
+</style>
+<!---------- header ------------->
+<!------ OAS SETUP begin ------>
+<script>
+  var OAS_url ='http://oascentral.dwnews.com/RealMedia/ads/',
+    OAS_sitepage = 'dwnews.com',
+    OAS_listpos = 'x05',
+    OAS_query = '',
+    OAS_rns = (Math.random() + "").substring(2, 11);
+ 
+  document.write('<script type="text/javascript" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');
+</script>
+<!------ OAS SETUP end ------>
+
+<!-------- header end --------->
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5SMNM8 
+
+"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+ <div class="guoleba"></div>
+<script src="http://s1.dwnews.net/v5/js/common/dw5.header.service.js"></script>
+<div class="container content-wrapper">
+    
+        <style>
+.page-box .box ul{list-style:disc;}
+.page-box .box ul li{list-style:disc;}
+.page-box .box .likeyn li{float:left; width:140px; height:46px; border:1px solid #ddd; font:normal 16px/44px Microsoft Yahei; margin:0 5px; padding-left:45px; border-radius:4px; list-style:none;}
+
+</style>
+<link href="http://s1.dwnews.net/v5/css/common/dw5.print.css" rel="stylesheet" type="text/css" />
+<script src="http://s1.dwnews.net/v5/js/common/jQuery.print.js"></script>
+<!--页面主体-->
+<div class="page-bg">
+<div class="main">
+  <div class="sq-list-mbx page-mbx">
+    <a href="http://www.dwnews.com">多维新闻</a><span>/</span><a href="http://blog.dwnews.com">多维客</a><span>/</span><a href="http://blog.dwnews.com/political/">政闻</a><span>/</span>内文
+  </div>
+      <div class="sq-page-topimg sq-page-topimgno">
+      <div class="zuoz"> <a href="http://blog.dwnews.com/xuxyz"><img src="http://attach1.dwnews.net/userImg/000/54/53/98_avatar_small.jpg" >大鱼吃小鱼</a>
+                  <div class="gz" attention_id="545398"><a href="javascript:;"><span>+</span>关注</a></div>
+        
+      </div>
+      <h1>李一平的大忽悠</h1>
+      <div class="sq-page-topmb"></div>
+      <div class="clear"></div>
+    </div>
+    <div class="page-box">
+    <div class="topss">
+      <div class="ty-fx-box">
+        <dl>
+          <dd><a href="javascript:;"><img class="dw_collect" src="http://s3.dwnews.net/v5/images/page-a-s.png" ></a></dd>
+          <dd><a href="javascript:;"><img class="dw_facebook" src="http://s3.dwnews.net/v5/images/page-a-fb.png" ></a></dd>
+          <dd><a href="javascript:;"><img class="dw_twitter" src="http://s3.dwnews.net/v5/images/page-a-tw.png" ></a></dd>
+          <dd><a href="javascript:;"><img class="dw_wechat" src="http://s3.dwnews.net/v5/images/page-a-w.png" ></a></dd>
+          <dd><a href="javascript:;"><img src="http://s3.dwnews.net/v5/images/page-a-gd.png" ></a></dd>
+        </dl>
+        <div style="display: none;">
+          <div class="jt"></div>
+          <div class="icotc">
+            <ul>
+              <li><a href="javascript:;"><img class="dw_google" src="http://s3.dwnews.net/v5/images/page-a-g.png" /></a></li>
+              <li><a href="javascript:;"><img class="dw_weibo" src="http://s3.dwnews.net/v5/images/page-a-x.png" /></a></li>
+              <li><a href="javascript:;"><img class="dw_dianzibao" src="http://s3.dwnews.net/v5/images/page-a-m.png" /></a></li>
+              <li><a href="javascript:;"><img class="dw_print" src="http://s3.dwnews.net/v5/images/page-a-d.png" /></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="time lef"><img src="http://s3.dwnews.net/v5/images/dwk-ico-time2.png" >2019-02-14 20:42</div>
+    </div>
+    <div class="box">
+      <p style="text-indent:43px"><span style=";font-family:仿宋;font-size:21px"><span style="font-family:仿宋">以前就听网友说李一平是一个蹭热点高人，经常通过偷换概念，生拉硬拽，自创垃圾逻辑忽悠不明群众进行所谓的</span>“中国街头革命”和“中国颜色革命”，以此响应其美国主子，充当叛国狗。当时我还多少有些不信，可当看了李一平2月13日在《YouTube》发布的视频“扒皮中共多种洗脑套路，看看你是否中招！”后我信了，李一平你就是个骗子，你就是一条狗，你就是个忽悠大王。</span></p><p style="text-indent:43px"><span style=";font-family:仿宋;font-size:21px"><span style="font-family:仿宋">李一平在其</span>2月13日的《YouTube》视频中主要进行了四个忽悠：</span><strong><span style="font-family: 仿宋;font-size: 21px"><span style="font-family:仿宋">其称</span>2019年是千载不遇的年份，全世界无论是哪个国家的人，年龄加上你出生那一年的年份，这两个加起来就正好等于2019。</span></strong><span style=";font-family:仿宋;font-size:21px"><span style="font-family:仿宋">这完全就是一道简单到家的数学题：我们假设人的年龄为</span>x,出生年份为y，现年为z。那么z－y=x 也就等价于x+y=z,接下来见证“奇迹”了，把z换成2019，x+y＝2019,哇真的出“奇迹了”！哎，这么简单的数学题竟然也被其忽悠成“千载不遇的年份”，我不得不说声“佩服，佩服，李大忽悠”；</span><strong><span style="font-family: 仿宋;font-size: 21px"><span style="font-family:仿宋">其称台湾，香港因没共产党所以</span>GDP是中国大陆的几倍。</span></strong><span style=";font-family:仿宋;font-size:21px"><span style="font-family:仿宋">听到这个我吓了一跳，中国倒退了吗？于是我赶紧在网上搜查了一遍，通过搜查得出</span>“李一平又在放屁”。网上数据显示2018年中国大陆GDP实际增长了6.7%、中国香港为3.7%、中国台湾则为2.9%，我真不知道“李忽悠”的数据怎么得来的。</span><strong><span style="font-family: 仿宋;font-size: 21px"><span style="font-family:仿宋">其称中共是</span>9000多万人口的大党，如果垮了将没有任何力量能取代，但是只要打破他们统治秩序造成瘫痪，随之就能取代。</span></strong><span style=";font-family:仿宋;font-size:21px">“李忽悠”的狼子野心真是昭然若揭啊，它一心所想的是“打破、统治秩序造成瘫痪、取代”可它完全没想过普通群众，秩序瘫痪后，中国群众将面临的是什么，恐怕随之而来的也有如“委内瑞拉”一样的动乱和经济的倒退吧。</span><strong><span style="font-family: 仿宋;font-size: 21px"><span style="font-family:仿宋">其称推翻中共方法就是引起民怨鼓动老百姓上街。</span></span></strong><span style=";font-family:仿宋;font-size:21px"><span style="font-family:仿宋">我真的很想问问</span>“李忽悠”现下中国老百姓生活安康，丰衣足食，何来民怨？而且既然鼓动为何你却抛家弃口的躲在美国，而不是“以身作则”的冲在前面，一个只会躲在暗处，躲在美国的狗，却操着“中国百姓的心”，你真是“伟大啊”。</span></p><p style="text-indent:43px"><span style=";font-family:仿宋;font-size:21px">“知者不言,言者不知.信言不美,美言不信.善者不辩,辩者不善”希望群众朋友们能早日认清这个只会躲在暗处，只会向美国摇尾乞怜，满嘴跑火车的“李忽悠”真面目和狼子野心，不在被其欺骗忽悠利用。</span></p><p><br/></p>      <div class="dwk-bqsm">「版权声明：多维客是一个汇聚各方言论的平台，所述观点不代表本网立场。如有侵权文章或者图片，请立即联系我们。」</div>
+      <div class="likeyn">
+        <ul>
+          <li class="yes support" dataid="1100410" datatype="like">
+            <a href="javascript:;">
+              喜欢
+              <span class="n">30</span>
+              <p style="font:normal 14px/34px Microsoft Yahei;color:red; position:relative; bottom:38px; right:33px;display:none;" class="one">+1</p>
+            </a>
+          </li>
+          <li class="no support" dataid="1100410" datatype="dislike">
+            <a href="javascript:;">
+              不喜欢
+              <span class="n">0</span>
+              <p style="font:normal 14px/34px Microsoft Yahei;color:red; position:relative; bottom:38px; right:33px;display:none;" class="one">+1</p>
+            </a>
+          </li>
+          <div class="clear"></div>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="biaoq-box">
+          <a href="javascript:;">李一平</a>
+      </div>
+  <div class="tjpd-box">
+    <div class="imb"><a href="http://blog.dwnews.com/political/" target="_blank"><img src="http://blog.dwnews.com/storage/upload/d68e44699474ce475b197c3b5a12c396.jpg" width="100px" height="100px"></a></div>
+    <div class="txt">
+      <h3><a href="http://blog.dwnews.com/political/" target="_blank">政闻</a></h3>
+      <p>以政治新闻为话题，围绕高层政要，聚焦热点政治事件、中共内幕、高层动态以及对时局走向的深入剖析。</p>
+    </div>
+    <div class="more"><a href="http://blog.dwnews.com/political/" target="_blank">点击进入<img src="http://s3.dwnews.net/v5/images/abo-map-ico.png"></a></div>
+  </div>
+  <!-- 最近浏览 推荐博主 -->
+  	<div class="page-btm-box">
+		<div class="tit">
+			<h2><div class="ico"></div>推荐博主</h2>
+			<div class="hyz" style="width:76px;">
+				<a href="javascript:change_recommend()"><span class="glyphicon huanyihbloger glyphicon-refresh loading"></span>换一组</a>
+			</div>
+		</div>
+		<ul class="sq-bzbox ct-bzbox">
+			<li><a href="http://blog.dwnews.com/gaohan" target="_blank"><img src="http://attach1.dwnews.net/userImg/000/00/01/18_avatar_middle.jpg"></a><p><a href="http://blog.dwnews.com/gaohan" target="_blank">高寒</a></p><div class="gz" attention_id="118"><a href="javascript:;"><span>+</span>关注</a></div></li><li><a href="http://blog.dwnews.com/xzwang" target="_blank"><img src="http://attach1.dwnews.net/userImg/000/00/02/08_avatar_middle.jpg"></a><p><a href="http://blog.dwnews.com/xzwang" target="_blank">王希哲</a></p><div class="gz" attention_id="208"><a href="javascript:;"><span>+</span>关注</a></div></li><li><a href="http://blog.dwnews.com/gonature" target="_blank"><img src="http://attach1.dwnews.net/userImg/000/00/03/50_avatar_middle.jpg"></a><p><a href="http://blog.dwnews.com/gonature" target="_blank">格丘山</a></p><div class="gz" attention_id="350"><a href="javascript:;"><span>+</span>关注</a></div></li><li><a href="http://blog.dwnews.com/luhe" target="_blank"><img src="http://attach1.dwnews.net/userImg/000/00/06/98_avatar_middle.jpg"></a><p><a href="http://blog.dwnews.com/luhe" target="_blank">芦鹤</a></p><div class="gz" attention_id="698"><a href="javascript:;"><span>+</span>关注</a></div></li><li><a href="http://blog.dwnews.com/zhanglifan2012" target="_blank"><img src="http://attach1.dwnews.net/userImg/000/00/09/64_avatar_middle.jpg"></a><p><a href="http://blog.dwnews.com/zhanglifan2012" target="_blank">章立凡</a></p><div class="gz" attention_id="964"><a href="javascript:;"><span>+</span>关注</a></div></li><li><a href="http://blog.dwnews.com/vancouver" target="_blank"><img src="http://attach1.dwnews.net/userImg/000/00/13/18_avatar_middle.jpg"></a><p><a href="http://blog.dwnews.com/vancouver" target="_blank">沁霈</a></p><div class="gz" attention_id="1318"><a href="javascript:;"><span>+</span>关注</a></div></li>			<div class="clear"></div>
+		</ul>
+	</div>
+  <div class="page-btm-box" id="focus_comment">
+    <div class="tit">
+      <h2><div class="ico"></div>评论</h2>
+    </div>
+    
+<link rel="stylesheet" href="http://s2.dwnews.net/v5/css/common/comment/reset.css">
+<link rel="stylesheet" href="http://s2.dwnews.net/v5/css/common/comment/swiper.min.css">
+<link rel="stylesheet" href="http://s2.dwnews.net/v5/css/common/comment/photoswipe.css">
+<link rel="stylesheet" href="http://s2.dwnews.net/v5/css/common/comment/default-skin.css">
+<link rel="stylesheet" href="http://s2.dwnews.net/v5/css/common/comment/article_detail.css">
+<link rel="stylesheet" type="text/css" href="http://s2.dwnews.net/v5/css/common/comment/jquery.fancybox.css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://s2.dwnews.net/v5/css/common/comment/wangEditor.min.css">
+<link rel="stylesheet" type="text/css" href="http://s2.dwnews.net/v5/css/common/comment/up.css">
+<!-- comment 5.0 module -->
+<link href="http://s2.dwnews.net/v5/css/common/stylesheets/comment.css" rel="stylesheet" type="text/css">
+ <!-- <script src="http://blog.dwnews.com/frontend/js/apit_common.js"></script> -->
+<script src="http://s2.dwnews.net/v5/js/common/comment/apit_common.js"></script>
+<script type="text/javascript" src="http://s2.dwnews.net/v5/js/common/comment/wangEditor.js"></script>
+<script type="text/javascript" src="http://s0.dwnews.net/v5/js/dw5.newsview.plugins.js"></script>
+
+<style type="text/css">
+    .wangEditor-container{
+        height:192px;
+    }
+    #publisharea{
+        max-height:189px;
+    }
+
+</style>
+
+<section class="article">
+    <div class="wrapper">
+        <div class="article_wrapper"  style="width:100%">
+            <!-- Article: Body -->
+            <div class="article__body">
+                <div class="fancybox-overlay fancybox-overlay-fixed " id="subreport_body" style="width: auto; height: auto; display: none;"><div class="fancybox-wrap fancybox-desktop fancybox-type-inline fancybox-opened" tabindex="-1" style="width: 385px; height: auto; position: absolute; top: 171px; left: 758px; opacity: 1; overflow: visible; display: block;"><div class="fancybox-skin" style="padding: 15px; width: auto; height: auto;">
+                <div class="fancybox-outer">
+                <div class="fancybox-inner" style="overflow: auto; width: 355px; height: auto;">
+                    <form id="complainForm_vio" class="popForm_style1">
+                        <h3>举报</h3>
+                        <table class="form_content">
+                            <tr>
+                                <td class="report_lbl">举报类型：</td>
+                                <td>
+                                    <select id="reporType">
+                                        <option value="0" disabled selected>-- 请选择 --</option>
+                                    </select>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>具体描述：</td><td><textarea rows="7" id="reportConn"></textarea></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" class="report_btn">
+                                    <input class="btn btn_submit"  value="提交" id="subreport"><input class="btn btn_cancel" id="subreport_cancle" type="button" value="取消">
+                                </td>
+                            </tr>
+                        </table>
+                    </form>
+                </div></div></div></div>
+                </div>
+                <div class="article__body__comment" data-id="fb_comment">
+                    <div class="comment_header">
+                        <div class="comment_title">
+                            <a href="javascript:void(0);" class="tab active tab_comment_article" type="comment">网友评论</a>
+                            <a href="javascript:void(0);" class="tab tab_comment_article" type="hot">热门评论</a>
+                            <p class="no_of_comments"><span class="icon"></span><span  id="total_repnumber">0</span> 条回复</p>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="comment_tab_borderbtm">
+                        </div>
+                    </div><!-- end of comment header -->
+                    <!--主评论框  -->
+                    <div id="commentArea">
+                        <form action="" method="get" class='addedit'>
+                            <a class="avatar" href="javascript:;" onclick="return false"><img src="http://uc-api.dwnews.com/images/noavatar_middle.gif" alt="" class="comment_mavatar"></a>
+                            <div class="commentbox_wrapper">
+                                <textarea name="message" id="publisharea" title="我的回应" placeholder="我的回应" style="height:100px;" rows='10'></textarea>
+                                <div class="toolbar">
+                                    <a href="javascript:void(0)" class="sync_comment">评论同步<span class="down_btn"></span></a>
+                                    <a href="http://blog.dwnews.com/index.php?r=profile/info&type=3" class="sync_comment share_set" target="_blank">分享设置</span></a>
+                                    <a href="javascript:void(0)" class="comment-sub various" >提交</a>
+                                    <p class="annoymous_comment"><input type="checkbox" id="isanonymous">匿名发表</p>
+                                    <div class="sync_comment_selectbox" style="display: none; width: 100px;">
+                                    <input type="checkbox" id="isfacebook" style="float:left; margin:6px 5px 0 10px;"><a href="javascript:void(0)">facebook</a>
+                                    <input type="checkbox" id="istwitter" style="float: left; margin:6px 5px 0 10px;"><a href="javascript:void(0)">tweet</a>
+                                    </div>
+                                    
+                                </div><!-- end of toolbar -->
+                                <p class="notice">  【声明】评论应与内容相关,如含有侮辱、淫秽等词语的字句,将不予发表。</p>
+                            </div>
+                        </form>
+                    </div>
+                    <ul class="comments_listnew">
+                    </ul>
+                    <ul class="comments_list">
+                    </ul>
+                    <ul class="hotcomments" style="display:none;">
+                    </ul>
+                    <a href="javascript:void(0)" id='pagemore' style="display:none;" class="load_more_comment load_more_comment_large"><span class="icon"></span>显示更多</a>
+                    <div class="comment_loading_large comment_loading_icon" id='loadingimg'>
+                        <img src="http://demo.dwnews.com/css/comment/loading.gif">
+                    </div>
+                </div>
+            </div>
+            <!-- Article: Other Modules -->
+        </div>
+        <!-- Sidebar -->
+        <div class="sidebar nocontent">
+            <div class="ads ads_300x250"></div>
+            <div class="ads ads_300x250"></div>
+        </div>
+    </div>
+</section>
+<script type="text/javascript">
+    var comment_url = 'http://blog.dwnews.com/post-1100410.html';
+    var comment_title = '李一平的大忽悠';
+    var fourmComment = '1';
+    //Dw5newsview.loadDwkComment(comment_title,comment_url,fourmComment);
+</script>
+<script>
+    jQuery(document).ready(function ($) {
+    Dw5newsview.loadDwkComment(comment_title,comment_url,fourmComment);
+    });
+</script>
+  <!--推荐阅读-->
+  
+<div class="page-btm-box" style="width:100%">
+<div class="tit">
+    <h2><div class="ico"></div>推荐阅读</h2>
+</div>
+<ul class="sq-tjydbox ct-tjydbox">
+            <li>        <div class="imgbox">
+            <div class="imbox-jbiao"></div>
+            <a href="http://blog.dwnews.com/post-1103128.html"><img src="http://attach1.dwnews.net/20190223/s_15546bcece7232299bc69539ac0eead8ffe.jpeg" ></a> </div>
+        <div class="txtbox">
+          <h3><a href="http://blog.dwnews.com/post-1103128.html">韩国瑜参选总统 哪来那麽多疑虑？</a></h3>
+            <p>&nbsp;
+台湾《苹果日报》2月19日公布的民调发现：2020年总统大选如果柯文哲参选，民进党由蔡英文竞选连任，国民党由韩国瑜出马，韩的支持度35.1%、柯28.6%，蔡22....</p>
+            <div class="zuoz">
+                <a href="http://blog.dwnews.com/WANGKUNYI"><img src="http://attach1.dwnews.net/userImg/000/52/38/81_avatar_small.jpg" >王昆义</a>
+                <!--判断是否关注-->
+                <div class="gz" attention_id="523881"><a href="javascript:;"><span>+</span>关注</a></div>            </div>
+            <div class="time"><img src="http://s3.dwnews.net/v5/images/dwk-ico-time2.png" >2019-02-23 21:10</div>
+            <div class="clear"></div>
+          </div>
+        <div class="clear"></div>
+      </li>
+            <li>        <div class="imgbox">
+            <div class="imbox-jbiao"></div>
+            <a href="http://blog.dwnews.com/post-1103126.html"><img src="http://attach2.dwnews.net/20190223/s_68685ea1d48a993398368bf66860f6ba25.jpeg" ></a> </div>
+        <div class="txtbox">
+          <h3><a href="http://blog.dwnews.com/post-1103126.html">谁是蓝绿猪队友？北京？还是华盛顿？</a></h3>
+            <p>对美中台三方关系有一定程度了解的人，心里大概都有数，今年是三方关系空前紧绷的一年。台湾内部热炒朱，吴，韩，王，柯，蔡谁是2020年的获胜者，倘若中美关系濒临决裂，到了掀底牌的地步，...</p>
+            <div class="zuoz">
+                <a href="http://blog.dwnews.com/channelchang"><img src="http://attach1.dwnews.net/userImg/000/52/24/40_avatar_small.jpg" >雁默</a>
+                <!--判断是否关注-->
+                <div class="gz" attention_id="522440"><a href="javascript:;"><span>+</span>关注</a></div>            </div>
+            <div class="time"><img src="http://s3.dwnews.net/v5/images/dwk-ico-time2.png" >2019-02-23 11:31</div>
+            <div class="clear"></div>
+          </div>
+        <div class="clear"></div>
+      </li>
+            <li>        <div class="imgbox">
+            <div class="imbox-jbiao"></div>
+            <a href="http://blog.dwnews.com/post-1103117.html"><img src="http://attach1.dwnews.net/20190223/s_6130a21ed6c96aee26b74be0acd5590b334.jpeg" ></a> </div>
+        <div class="txtbox">
+          <h3><a href="http://blog.dwnews.com/post-1103117.html">后孟晚舟时代，中美/中加面临什么问题？</a></h3>
+            <p>后孟晚舟时代？这么前卫又古怪的说法会不会太夸张？并不会。谁都不能否认，虽然孟晚只不过是一个企业高管，或者说一个企业高管的女儿，但孟晚舟事件以及相关的华为事件毫无疑问是在中国和加拿大...</p>
+            <div class="zuoz">
+                <a href="http://blog.dwnews.com/IRBAKERY"><img src="http://attach1.dwnews.net/userImg/000/54/14/90_avatar_small.jpg" >游亿</a>
+                <!--判断是否关注-->
+                <div class="gz" attention_id="541490"><a href="javascript:;"><span>+</span>关注</a></div>            </div>
+            <div class="time"><img src="http://s3.dwnews.net/v5/images/dwk-ico-time2.png" >2019-02-23 07:07</div>
+            <div class="clear"></div>
+          </div>
+        <div class="clear"></div>
+      </li>
+            <li class="wutu">        <div class="imgbox">
+            <div class="imbox-jbiao"></div>
+            <a href="http://blog.dwnews.com/post-1102859.html"><img src="" ></a> </div>
+        <div class="txtbox">
+          <h3><a href="http://blog.dwnews.com/post-1102859.html">艾利森和他的“修昔底德陷阱”（下）</a></h3>
+            <p>漫长的历史与不长的中美关系
+"修昔底德陷阱"这一概念主要被套用于描述当前中美两国之间复杂的关系。中美关系的复杂不在于历史，而在于对历史的看法。当各自把对历史的看法投射给对方现在时...</p>
+            <div class="zuoz">
+                <a href="http://blog.dwnews.com/yanghui"><img src="http://attach1.dwnews.net/userImg/000/53/38/96_avatar_small.jpg" >杨晖</a>
+                <!--判断是否关注-->
+                <div class="gz" attention_id="533896"><a href="javascript:;"><span>+</span>关注</a></div>            </div>
+            <div class="time"><img src="http://s3.dwnews.net/v5/images/dwk-ico-time2.png" >2019-02-22 22:22</div>
+            <div class="clear"></div>
+          </div>
+        <div class="clear"></div>
+      </li>
+            <li class="wutu">        <div class="imgbox">
+            <div class="imbox-jbiao"></div>
+            <a href="http://blog.dwnews.com/post-1102858.html"><img src="" ></a> </div>
+        <div class="txtbox">
+          <h3><a href="http://blog.dwnews.com/post-1102858.html">中国要为正在迅速发生的WTO改革做好准备</a></h3>
+            <p>1994年以来，世界贸易组织（WTO）规则几乎长久未变，改革之声从未停歇却鲜有进展。特别是自美国总统特朗普对全球贸易体系提出严厉批评以来，世贸组织成员国一直面临着越来越大的改革压力...</p>
+            <div class="zuoz">
+                <a href="http://blog.dwnews.com/anbound"><img src="http://attach1.dwnews.net/userImg/000/52/87/87_avatar_small.jpg" >安邦咨询</a>
+                <!--判断是否关注-->
+                <div class="gz" attention_id="528787"><a href="javascript:;"><span>+</span>关注</a></div>            </div>
+            <div class="time"><img src="http://s3.dwnews.net/v5/images/dwk-ico-time2.png" >2019-02-22 22:20</div>
+            <div class="clear"></div>
+          </div>
+        <div class="clear"></div>
+      </li>
+        <div class="more read_more"><a href="javascript:recommend_readmore('lists');">查看更多</a></div>
+    </ul>
+</div>
+</div>
+</div>
+  <script>
+    var unFormatTime = "2019-02-14 20:42:24";
+    var ikey = "3772d7c25eaf98a00b3b89467584d03e";
+    $(".sq-page-topimg  .zuoz").on("click",".gz", function(){
+      publicJs.guanzhu(this);
+    });
+  </script>
+<!--页面主体end-->
+</div>
+
+<!--回到顶部-->
+<script src="/assets/cad1809f/layer/layer.js"></script>
+<script src="/assets/cad1809f/layui/layui.js"></script>
+<script src="/frontend/js/recommend_blogger.js" 0="frontend\themes\basic\assets\AppAsset"></script>
+<script src="/frontend/js/recommend_read.js" 0="frontend\themes\basic\assets\AppAsset"></script>
+<script src="http://s2.dwnews.net/v5/js/common/dw5.footer.service.js"></script>
+<script src="http://s3.dwnews.net/v5/js/common/dw5.share.service.js"></script>
+<script src="http://s0.dwnews.net/v5/js/common/dw5.users.service.js"></script>
+<script src="http://s3.dwnews.net/v5/js/common/dw5.ga.js" type="text/javascript"></script>
+</body>
+</html>

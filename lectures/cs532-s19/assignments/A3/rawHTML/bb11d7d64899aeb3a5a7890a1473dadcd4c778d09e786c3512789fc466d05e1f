@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="ja">
+	<head>
+		<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate" />
+<meta http-equiv="Expires" content="-1" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="robots" content="index,follow" />
+<link rel="shortcut icon" href="/favicon-0.2.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/img10/icon180.png">
+<link rel="apple-touch-icon" sizes="167x167" href="/img10/icon167.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/img10/icon152.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/img10/icon120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/img10/icon76.png">
+<link rel="icon" sizes="192x192" href="/img10/icon192.png">
+<link rel="icon" sizes="128x128" href="/img10/icon128.png">
+<link rel="apple-touch-icon" sizes="128x128" href="/img10/icon128.png">
+<link rel="apple-touch-icon-precomposed" sizes="128x128" href="/img10/icon128.png">
+<link rel="shortcut icon" href="/img10/icon192.png">
+<link type="text/css" href="/css/jquery-ui-1.12.1.min.css" rel="stylesheet" />
+<link href="/css/typicons.min.css" type="text/css" rel="stylesheet" />
+<link href="/css/font-awesome.min.css" type="text/css" rel="stylesheet" />
+<link href="/css/TBase-0.5.css" type="text/css" rel="stylesheet" />
+<link href="/css/TContents-0.24.css" type="text/css" rel="stylesheet" />
+<link href="/css/THeader-0.29.css" type="text/css" rel="stylesheet" />
+<link href="/css/TMain-0.38.css" type="text/css" rel="stylesheet" />
+<link href="/css/TFooter-0.3.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="/js/jquery-ui-1.12.1.min.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type='text/javascript' src='/js/tegaki08-0.26.js' ></script>
+<script type='text/javascript' src='/js/TegakiCommonJS-0.2.jsp' ></script>
+<link href="/css/TBlog-0.22.css" type="text/css" rel="stylesheet" />
+		<link href="/css/TCommonBlogHeader-0.3.css" type="text/css" rel="stylesheet" />
+		<meta name="ROBOTS" content="index, follow" />
+		<meta name="description" content="月冴-tukasa-さんの手書きブログ 手書きブログではインストール不要のドローツールを多数用意。すべて無料でご利用頂けます。" />
+		<meta name="keywords" content="手書きブログ,手ブロ,Tegaki,イラスト,イラストレーション,マンガ,漫画,コミュニティ,SNS,投稿,手書き,ブログ,月冴-tukasa-" />
+		<meta property="og:url" content="https://tegaki.pipa.jp/797266/index.html" />
+		<meta property="og:title" content="月冴-tukasa- | 手書きブログ" />
+		<meta property="og:description" content="月冴-tukasa-さんの手書きブログ 手書きブログではインストール不要のドローツールを多数用意。すべて無料でご利用頂けます。" />
+		<meta property="og:image" content="//img0020.pipa.jp/tegaki/user_img2/15464/1546420284842_797266.png" />
+		<meta property="og:type" content="article" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:site" content="@pipajp" />
+		<meta name="twitter:title" content="月冴-tukasa- | 手書きブログ" />
+		<meta name="twitter:description" content="月冴-tukasa-さんの手書きブログ 手書きブログではインストール不要のドローツールを多数用意。すべて無料でご利用頂けます。" />
+		<meta name="twitter:image" content="//img0020.pipa.jp/tegaki/user_img2/15464/1546420284842_797266.png" />
+		<link rel="canonical" href="https://tegaki.pipa.jp/797266/index.html" />
+		<link rel="alternate" media="only screen and (max-width: 640px)" href="https://tegaki.pipa.jp/s/797266/index.html" />
+		<title>月冴-tukasa- | 手書きブログ</title>
+		<style>
+		.TopContents.Long .BlogThumb2 .BlogUser .BlogName {display: none;}
+		.TopContents.Long .BlogThumb2 .BlogUser .BlogDate {display: block;}
+		</style>
+		<script type="application/ld+json">
+		{
+			"@context":"http://schema.org",
+			"@type":"ItemList",
+			"itemListElement":[
+				
+				{"@type":"ListItem", "position":1, "url":"https://tegaki.pipa.jp/797266/25852173.html", "name": "明けましておめでとうございます", "image": "http://img0020.pipa.jp/tegaki/user_img2/15464/1546420284842_797266.png"},
+				{"@type":"ListItem", "position":2, "url":"https://tegaki.pipa.jp/797266/25848561.html", "name": "アカウント引っ越しました", "image": "http://img0020.pipa.jp/tegaki/user_img2/15451/1545152599867_797266.png"}
+			]
+		}
+		</script>
+		<script type="text/javascript">
+		$(function(){
+			$('#BlogMenuList').addClass('Selected');
+			ScrollTabMenu();
+		});
+		</script>
+	</head>
+
+	<body>
+		<header class="HeaderSmall">
+	<div class="MenuSmall">
+		<nav class="MenuItemLeft">
+			<a class="MenuItem Logo" href="/">手書きブログ</a>
+			<a id="MenuTop" class="MenuItem" href="/VTopPage.jsp">Top</a>
+			<a id="MenuNew" class="MenuItem" href="/VNewArrivalS.jsp">新着</a>
+			<a id="MenuPopular" class="MenuItem" href="/VNewArrivalS.jsp?OD=1">人気</a>
+			<a id="MenuTemplate" class="MenuItem" href="/VSearchTemplateS.jsp">テンプレ</a>
+			<a id="MenuTag" class="MenuItem" href="/VTagListS.jsp">タグ</a>
+			<a class="MenuItem" href="https://galleria.emotionflow.com/" target="_blank">GALLERIA</a>
+			<span class="MenuItem Others">
+				その他<span id="MenuItemOthersFrame" class="MenuItemSub">
+					<a class="MenuItemSubMenu" href="/VNewArrivalThread.jsp" target="_blank">掲示板</a>
+					<a class="MenuItemSubMenu" href="https://analogico.pipa.jp/" target="_blank">analogico</a>
+					<a class="MenuItemSubMenu" href="http://making.pipa.jp/" target="_blank">つくってみた</a>
+					<a class="MenuItemSubMenu" href="http://tegakitweet.com/" target="_blank">手書きツイート</a>
+					<a class="MenuItemSubMenu" href="http://temp.emotionflow.com/" target="_blank">/temp</a>
+				</span>
+			</span>
+
+			<div class="MenuSearch">
+				<form id="SearchForm" action="/VSearchBlogByTitleS.jsp" method="get">
+					<input id="KW" class="SearchInput" type="text" name="KW" size="40" />
+					<input id="LKWD" type="hidden" name="LKWD" value="" />
+					<input class="SearchBtn" type="submit" value="検索" />
+				</form>
+			</div>
+		</nav>
+		<div class="MenuItemRight">
+			<a class="MenuItem Login Twitter" id="MenuNewUserTwitter" href="/LoginFormTwitter.jsp"><span class="fa fa-twitter"></span> Twitterで新規登録/ログイン</a>
+			<a class="MenuItem Login" id="MenuNewUser" href="/VAddUser01S.jsp"><span class="fa fa-user-plus"></span>新規登録</a>
+			<a class="MenuItem Login" id="MenuLogin" href="/VMyPageBlog.jsp"><span class="fa fa-sign-in"></span>ログイン</a>
+			</div>
+	</div>
+</header><!-- Header -->
+<div id="DispMsg"></div>
+<script>
+	function CreateIllust(nOpenId) {
+		$.ajaxSingle({
+			"type": "post",
+			"data": { "ID":-1, "OD":nOpenId},
+			"url": "/f/FCreateIllust.jsp",
+			"dataType": "json",
+			"success": function(data) {
+				var nResId = parseInt($.trim(data), 10);
+				if(nResId > 0) {
+					// complete
+					location.href = "/VEditIllust.jsp?ID=-1&TD="+nResId;
+				} else if(nResId==-2) {
+					HideModal('#IllustUploadDlg');
+					DispMsg('アップロードは2,000件までとなっております。');
+				} else if(nResId==-3) {
+					HideModal('#IllustUploadDlg');
+					DispMsg('協賛会員のアップロードは10,000件までとなっております。');
+				} else {
+					HideModal('#IllustUploadDlg');
+					DispMsg('アップロード中にエラーが発生しました。<br /><br />インターネットへの接続が切断されていませんか?ログアウトしていませんか?ウィルス防御ソフトが過剰な保護を行っていませんか?');
+				}
+			},
+			"error": function(req, stat, ex){
+				DispMsg('アップロード中にエラーが発生しました。<br /><br />インターネットへの接続が切断されていませんか?ログアウトしていませんか?ウィルス防御ソフトが過剰な保護を行っていませんか?');
+			}
+		});
+		return false;
+	}
+
+	function CreateNovel(nOpenId) {
+		$.ajaxSingle({
+			"type": "post",
+			"data": { "ID":-1, "OD":nOpenId},
+			"url": "/f/FCreateNovel.jsp",
+			"dataType": "json",
+			"success": function(data) {
+				var nResId = parseInt($.trim(data), 10);
+				if(nResId > 0) {
+					// complete
+					location.href = "/VEditNovel.jsp?ID=-1&TD="+nResId;
+				} else if(nResId==-2) {
+					HideModal('#IllustUploadDlg');
+					DispMsg('アップロードは100件までとなっております。');
+				} else if(nResId==-3) {
+					HideModal('#IllustUploadDlg');
+					DispMsg('協賛会員のアップロードは1,000件までとなっております。');
+				} else {
+					HideModal('#IllustUploadDlg');
+					DispMsg('アップロード中にエラーが発生しました。<br /><br />インターネットへの接続が切断されていませんか?ログアウトしていませんか?ウィルス防御ソフトが過剰な保護を行っていませんか?');
+				}
+			},
+			"error": function(req, stat, ex){
+				DispMsg('アップロード中にエラーが発生しました。<br /><br />インターネットへの接続が切断されていませんか?ログアウトしていませんか?ウィルス防御ソフトが過剰な保護を行っていませんか?');
+			}
+		});
+		return false;
+	}
+
+	function CreateManga(nOpenId) {
+		$.ajaxSingle({
+			"type": "post",
+			"data": { "ID":-1, "OD":nOpenId},
+			"url": "/f/FCreateManga.jsp",
+			"dataType": "json",
+			"success": function(data) {
+				var nResId = parseInt($.trim(data), 10);
+				if(nResId > 0) {
+					// complete
+					location.href = "/VEditManga.jsp?ID=-1&TD="+nResId;
+				} else if(nResId==-2) {
+					HideModal('#IllustUploadDlg');
+					DispMsg('アップロードは100件までとなっております。');
+				} else if(nResId==-3) {
+					HideModal('#IllustUploadDlg');
+					DispMsg('協賛会員のアップロードは1,000件までとなっております。');
+				} else {
+					HideModal('#IllustUploadDlg');
+					DispMsg('アップロード中にエラーが発生しました。<br /><br />インターネットへの接続が切断されていませんか?ログアウトしていませんか?ウィルス防御ソフトが過剰な保護を行っていませんか?');
+				}
+			},
+			"error": function(req, stat, ex){
+				DispMsg('アップロード中にエラーが発生しました。<br /><br />インターネットへの接続が切断されていませんか?ログアウトしていませんか?ウィルス防御ソフトが過剰な保護を行っていませんか?');
+			}
+		});
+		return false;
+	}
+</script>
+
+<div id="IllustUploadDlg" class="ModalDlg">
+	<a class="typcn typcn-times CloseBtn" href="javascript:void(0)" onclick="HideModal('#IllustUploadDlg')"></a>
+	<div class="ModalDlgWrapper">
+		<div class="SelectUpload">
+			<a class="BtnBase UploadBtn" href="/VBlog5.jsp?ID=-1&TD=0">ブログを書く</a>
+			<a class="BtnBase UploadBtn" href="javascript:void(0);" onclick="CreateIllust(1)">ギャラリーに投稿</a>
+			<a class="BtnBase UploadBtn" href="javascript:void(0);" onclick="CreateNovel(1)">小説を書く</a>
+			<a class="BtnBase UploadBtn" href="javascript:void(0);" onclick="CreateManga(1)">マンガを投稿</a>
+			</div>
+		<div id="result"></div>
+	</div>
+</div>
+
+
+<div id="AboutFrame" class="AboutFrame">
+	<div class="AboutWrapper">
+		<a class="AboutClose typcn typcn-times" href="javascript:void(0)" onclick="$('#AboutFrame').slideUp(300);setCookieOneTime('ABT', 0);"></a>
+		<div class="AboutBox">
+			<h2 style="font-size: 20px;;">
+				手書きブログへようこそ！</h2>
+		</div>
+		<div class="AboutBox">
+			<h2 style="font-size: 18px; font-weight: normal;">
+				手書きブログは記事やコメントなどを手書きの文字や絵で行う、イラスト主体のブログサービスです。<br />
+				みんなで楽しくお絵かき交流しましょう！</h2>
+		</div>
+		<ul class="AboutBox">
+			<li class="LoginBtnFrame">
+				<a class="BtnBase SignUpTwitter" style="font-size: 18px;font-weight: bold;" href="/LoginFormTwitter.jsp" ><span class="fa fa-twitter"></span> Twitterで新規登録/ログイン</a>
+			</li>
+		</ul>
+	</div>
+</div>
+<script>
+$(function(){
+	if(!getCookie('ABT')) {
+		setTimeout(function(){
+			$('#AboutFrame').slideDown(500);
+		}, 500);
+	}
+});
+</script>
+<header class="ContentsList BlogHeader" style="background-image: url('//img0010.pipa.jp/tegaki/user_img/profile/79/797266_header.png?20190204231812')">
+	<div class="UserInfo">
+		<a class="UserHeader" href="/797266/"></a>
+		<div class="UserProfile" itemscope itemtype="http://schema.org/Person">
+			<a class="userImage" href="/797266/">
+				<img class="UserImageFile" itemprop="image" src="//img0010.pipa.jp/tegaki/user_img/profile/79/797266_prof.png_S.jpg?20190204231812" onerror="this.onerror=null;this.src='//img0010.pipa.jp/tegaki/img/DefaultProfile.gif_S.jpg'" />
+			</a>
+			<a class="UserName" itemprop="name" href="/797266/">
+				月冴-tukasa-</a>
+			<div class="UserCmd">
+				<a class="BtnBase UserCmdItem " href="javascript:void(0)" onclick="CheckAddFriendUser(797266, -1)">
+					お友達申請</a>
+				<a class="BtnBase UserCmdItem " href="javascript:void(0)" onclick="AddFavoriteUser(797266, -1)">お気に入り</a>
+				<a class="BtnBase UserCmdItem " href="javascript:void(0);" onclick="AddBlockUser(797266, -1)"><span class="fa fa-ban"></span>ミュート</a></li>
+				</div>
+			<div class="UserCmdFloat">
+				<a class="BtnBase UserCmdFloatItem Single fa fa-envelope-o" href="/VEditMessageHtml5.jsp?UID=797266"></a>
+				</div>
+		</div>
+	</div>
+
+	<ul class="BlogMenu">
+		<li id="BlogMenuWall" class="BlogMenuItem">
+			<a href="/797266/wall_index.html">ウォール<span class="BlogMenuItemNum">(0)</span></a>
+		</li>
+		<!--
+		<li id="BlogMenuProfile" class="BlogMenuItem">
+			<a href="/797266/profile.html">プロフィール</a>
+		</li>
+		-->
+		<li id="BlogMenuList" class="BlogMenuItem">
+			<a href="/797266/">ブログ<span class="BlogMenuItemNum">(2)</span></a>
+		</li>
+	</ul>
+</header>
+<div class="BlogWrapper">
+			<div class="Contents">
+				<div class="ContentsLeft">
+					<section class="ContentsList">
+						<ul class="TopContents Long">
+							<li class="BlogThumb2" itemscope itemtype="http://schema.org/Painting">
+	<a class="BlogTitleTag" href="/VSearchBlogByTagS.jsp?GD=40" style="background-image: url('//img0010.pipa.jp/tegaki/user_img/tag/0/40_tag.png')"></a>
+	<span class="BlogDate">2019/01/02 18:11</span>
+	<span class="BlogTitleTxt">明けましておめでとうございます</span>
+
+	<a class="BlogThumbImg" href="/797266/25852173.html">
+		<img class="BlogThumbImgFile" itemprop="image" src="//img0020.pipa.jp/tegaki/user_img2/15464/1546420284842_797266.png_S.jpg" alt="明けましておめでとうございます" />
+	</a>
+
+	<a class="BlogCommentImg" href="/797266/25852173.html">
+		<img class="BlogCommentImgFile" src="//img0020.pipa.jp/tegaki/user_img2/15464/1546419929881_797266_cmt.png_S.jpg" /><img class="BlogCommentImgFile" src="//img0020.pipa.jp/tegaki/user_img2/15464/1546420058080_797266_cmt.png_S.jpg" /><img class="BlogCommentImgFile" src="//img0020.pipa.jp/tegaki/user_img2/15464/1546420237708_797266_cmt.png_S.jpg" /><img class="BlogCommentImgFile" src="//img0020.pipa.jp/tegaki/user_img2/15492/1549289954104_797266_cmt.png_S.jpg" /></a>
+
+	<a class="BlogNickName" href="/797266/">月冴-tukasa-</a>
+
+	<span class="CommentNum"><span class="fa fa-comment-o"></span> 4</span>
+</li>
+<li class="BlogThumb2" itemscope itemtype="http://schema.org/Painting">
+	<a class="BlogTitleTag" href="/VSearchBlogByTagS.jsp?GD=40" style="background-image: url('//img0010.pipa.jp/tegaki/user_img/tag/0/40_tag.png')"></a>
+	<span class="BlogDate">2018/12/19 02:03</span>
+	<span class="BlogTitleTxt">アカウント引っ越しました</span>
+
+	<a class="BlogThumbImg" href="/797266/25848561.html">
+		<img class="BlogThumbImgFile" itemprop="image" src="//img0020.pipa.jp/tegaki/user_img2/15451/1545152599867_797266.png_S.jpg" alt="アカウント引っ越しました" />
+	</a>
+
+	<a class="BlogCommentImg" href="/797266/25848561.html">
+		<img class="BlogCommentImgFile" src="//img0020.pipa.jp/tegaki/user_img2/15451/1545151406073_797266_cmt.png_S.jpg" /><img class="BlogCommentImgFile" src="//img0020.pipa.jp/tegaki/user_img2/15451/1545151555294_797266_cmt.png_S.jpg" /><img class="BlogCommentImgFile" src="//img0020.pipa.jp/tegaki/user_img2/15451/1545151701932_797266_cmt.png_S.jpg" /><img class="BlogCommentImgFile" src="//img0020.pipa.jp/tegaki/user_img2/15451/1545151861722_797266_cmt.png_S.jpg" /><img class="BlogCommentImgFile" src="//img0020.pipa.jp/tegaki/user_img2/15451/1545152004412_797266_cmt.png_S.jpg" /></a>
+
+	<a class="BlogNickName" href="/797266/">月冴-tukasa-</a>
+
+	<span class="CommentNum"><span class="fa fa-comment-o"></span> 10</span>
+</li>
+</ul>
+					</section>
+				</div>
+
+				<div class="BlogRight">
+					<div class="AdX300x250">
+	<script type="text/javascript"><!--
+	google_ad_client = "ca-pub-2810565410663306";
+	/* adx_tegaki_300x250_right_top */
+	google_ad_slot = "5316645996";
+	google_ad_width = 300;
+	google_ad_height = 250;
+	//-->
+	</script>
+	<script type="text/javascript"
+	src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+	</script>
+	</div>
+<div class="UserProfile">
+						<div class="Title">Profile</div>
+						<div class="ProfileTagMap">
+							<img class="ProfileTagMapUserImage" src="//img0010.pipa.jp/tegaki/user_img/profile/79/797266_prof.png_S.jpg?20190204231812" onerror="this.onerror=null;this.src='//img0010.pipa.jp/tegaki/img/DefaultProfile.gif_S.jpg'" />
+							<a class="ProfileTagMapItem" href="/VSearchUserByTag.jsp?GD=40">
+								<img class="ProfileTagMapItemTagImage" src="//img0010.pipa.jp/tegaki/user_img/tag/0/40_tag.png" />
+							</a>
+							<span class="ProfileTagMapItem none"></span>
+							<span class="ProfileTagMapItem none"></span>
+							<span class="ProfileTagMapItem none"></span>
+							<span class="ProfileTagMapItem none"></span>
+							<span class="ProfileTagMapItem none"></span>
+							<span class="ProfileTagMapItem none"></span>
+							<span class="ProfileTagMapItem none"></span>
+							<span class="ProfileTagMapItem none"></span>
+							<span class="ProfileTagMapItem none"></span>
+							<span class="ProfileTagMapItem none"></span>
+							<span class="ProfileTagMapItem none"></span>
+							</div>
+						<div class="ProfileTxt">
+							セクシャルマイノリティにてご注意<br><br>日々の日記やらなにやら<br>出来るだけ毎日1枚書いていきたい奴</div>
+					</div>
+
+					<div class="AdX300x250">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2810565410663306";
+/* adx_tegaki_300x250_right_mid */
+google_ad_slot = "8911261887";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+<div class="UserProfile">
+						<div class="Title">Categories</div>
+						<a class="CategoryItem Selected" href="/797266/index.html">全て (2)</a>
+						</div>
+
+					<div class="AdX300x250">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2810565410663306";
+/* adx_tegaki_300x250_right_bottom */
+google_ad_slot = "6876263898";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+</div>
+			</div>
+		</div><!--Wrapper-->
+
+		<div class="PageBar">
+			<a class="BtnBase PageBarItem" href="index.html">&lt;</a><a class="BtnBase PageBarItem Selected" href="index.html">1</a><a class="BtnBase PageBarItem" href="index_0_-1.html">&gt;</a></div>
+
+		<div style="clear: both;"></div>
+
+<div style="width: 100%;min-width: 986px; text-align: center;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- tegaki_native_bottom -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-0260822034407772"
+     data-ad-slot="8066162293"
+     data-ad-format="autorelaxed"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div style="clear: both;"></div>
+
+<footer class="Footer">
+	<div style="font-size: 11px; margin-bottom: 50px;">
+		ウォール機能をはじめとした各種機能は特許出願中です. 当サイトの各種技術・コンセプト・デザイン・商標等は特許法、著作権法、不正競争防止法等を始めとした各種法律により保護されています。
+	</div>
+
+	<ul class="FooterMenu">
+		<li><a href="/SRule.jsp" target="_blank">利用規約</a></li>
+		<li><a href="/SPrivacyPolicy.jsp" target="_blank">プライバシーポリシー</a></li>
+		<li><a href="/VInquiryAll.jsp">問い合わせ・ご要望</a></li>
+		<li><a href="/VSystemInfoList.jsp">お知らせ</a></li>
+		<li><a href="/s/">手ブロスマホ版</a></li>
+	</ul>
+
+	<div class="FooterCopy">
+		<a href="http://www.pipa.jp/" target="_blank">Copyright(C) 2007- pipa.jp, Ltd.</a>
+	</div>
+
+	<nav>
+		<ul class="FooterSubMenu">
+			<li><a href="//tegaki.pipa.jp/" target="_blank">手書きブログ</a></li>
+			<li><a href="https://galleria.emotionflow.com/" target="_blank">GALLERIA[ギャレリア]</a></li>
+			<li><a href="https://analogico.pipa.jp/" target="_blank">analogico[アナロジコ]</a></li>
+			<li><a href="http://making.pipa.jp/" target="_blank">つくってみた</a></li>
+			<li><a href="http://tegakitweet.com/" target="_blank">手書きツイート</a></li>
+			<li><a href="http://temp.emotionflow.com/" target="_blank">/temp</a></li>
+		</ul>
+	</nav>
+</footer>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4383076-1']);
+  _gaq.push(['_setDomainName', '.pipa.jp']);
+  _gaq.push(['_setAllowHash', 'false']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</body>
+</html>

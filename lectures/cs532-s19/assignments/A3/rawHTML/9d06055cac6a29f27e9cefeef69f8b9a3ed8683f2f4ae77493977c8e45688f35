@@ -1,0 +1,143 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja" >
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Language" content="ja" />
+		<meta http-equiv="Content-Style-Type" content="text/css" />
+		<meta http-equiv="Content-Script-Type" content="text/javascript" />
+		<meta name="ROBOTS" content="noindex,nofollow" />
+		<meta name="author" content="" />
+		<meta name="copyright" content="" />
+		<title>jump</title>
+	</head>
+	
+<body>
+<div align="center">Click URL to open this external link. <br />外部リンクを開く場合は、URLをクリックしてください。</div>
+			<div align="center" style="word-wrap: break-word;word-break: break-word;"><a href="https://goo.gl/GdYfUT" target="_blank">https://goo.gl/GdYfUT</a></div>
+			<div align="center">
+				<div style="line-height:100%;text-align:center;width:900px;height:250px;margin: 0 auto;" class="clearfix">
+					<div style="width:300px;float:left;">
+						<script type="text/javascript">
+							var adstir_vars = {
+							  ver    : "4.0",
+							  app_id : "MEDIA-55bbc5dc",
+							  ad_spot: 18,
+							  center : false
+							};
+						</script>
+						<script type="text/javascript" src="//js.ad-stir.com/js/adstir.js?20130527"></script>
+					</div>
+					<div style="width:300px;float:left;">
+						<script type="text/javascript">
+							var adstir_vars = {
+							  ver    : "4.0",
+							  app_id : "MEDIA-55bbc5dc",
+							  ad_spot: 18,
+							  center : false
+							};
+						</script>
+						<script type="text/javascript" src="//js.ad-stir.com/js/adstir.js?20130527"></script>
+					</div>
+					<div style="width:300px;float:left;">
+						<script type="text/javascript">
+							var adstir_vars = {
+							  ver    : "4.0",
+							  app_id : "MEDIA-55bbc5dc",
+							  ad_spot: 18,
+							  center : false
+							};
+						</script>
+						<script type="text/javascript" src="//js.ad-stir.com/js/adstir.js?20130527"></script>
+					</div>
+				</div>	
+			</div>
+			<div align="center">
+				<div style="line-height:100%;text-align:center;width:900px;height:600px;margin: 0 auto;" class="clearfix">
+					<div style="width:300px;float:left;">
+						<script type="text/javascript">
+							var adstir_vars = {
+							  ver    : "4.0",
+							  app_id : "MEDIA-55bbc5dc",
+							  ad_spot: 16,
+							  center : false
+							};
+						</script>
+						<script type="text/javascript" src="//js.ad-stir.com/js/adstir.js?20130527"></script>
+					</div>
+					<div style="width:300px;float:left;">
+						<script type="text/javascript">
+							var adstir_vars = {
+							  ver    : "4.0",
+							  app_id : "MEDIA-55bbc5dc",
+							  ad_spot: 16,
+							  center : false
+							};
+						</script>
+						<script type="text/javascript" src="//js.ad-stir.com/js/adstir.js?20130527"></script>
+					</div>
+					<div style="width:300px;float:left;">
+						<script type="text/javascript">
+							var adstir_vars = {
+							  ver    : "4.0",
+							  app_id : "MEDIA-55bbc5dc",
+							  ad_spot: 16,
+							  center : false
+							};
+						</script>
+						<script type="text/javascript" src="//js.ad-stir.com/js/adstir.js?20130527"></script>
+					</div>
+				</div>	
+			</div>
+				
+		
+<br />
+<font size="-3" color="#777777">
+このジャンプページは、一定期間以上弊社サービスにログインされていないユーザーの投稿リンクに対して表示されるものです。（→<a href="//botbird.mtlnk.net/admin/login.php">解除</a>）<br />
+リンク先のページのURLに外部サイトとなります。十分にご確認のうえ、ご訪問下さい。<br />
+ユーザーによって投稿された外部リンク先である上記外部サイトは株式会社メタバーズおよびそのサービスとは一切関係が無く、その内容に責任をもつものでは有りません。<br />
+METABIRDS Co., Ltd. is not in any way responsible for the content of any externally linked website or webpage.
+</font>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2896018-1', 'auto', {'allowLinker': true});
+  ga('require', 'linker');
+  ga('linker:autoLink', ['metabirds.net', 'slmame.com'] );
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#efefef",
+      "text": "#404040"
+    },
+    "button": {
+      "background": "#8ec760",
+      "text": "#ffffff"
+    }
+  },
+  "theme": "edgeless",
+  "content": {
+    "message": "このサイトでのCookie利用にご同意のうえ、ご利用を継続して下さい。<br />This website uses cookies to ensure you get the best experience on our website. ",
+	"dismiss": "同意 / Agree",
+    "link": "プライバシー・ポリシー / Privacy policy",
+    "href": "metabirds.net/privacy.php"
+  }
+})});
+</script>
+
+</body>
+
+</html>

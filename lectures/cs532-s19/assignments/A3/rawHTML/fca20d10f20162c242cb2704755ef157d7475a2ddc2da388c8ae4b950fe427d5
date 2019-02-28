@@ -1,0 +1,1040 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>整形外科看護2019年3月号-専門誌｜メディカ出版</title>
+<meta name="keywords" content="" />
+<meta name="description" content="整形外科手術，整形外科疾患，運動器，ADL，肩，膝，股関節，頚椎，腰椎，脊椎，外傷，骨折，人工関節，術後看護，リハビリ，退院支援，退院指導，患者支援，患者指導，高齢者看護" />
+<meta name="author" content="メディカ出版" />
+<meta name="copyright" content="(C)2019 copyright medica shuppan co.,ltd. All rights reserved." />
+<meta name="robots" content="INDEX,FOLLOW" />
+<link rel="stylesheet" href="https://www.medica.co.jp/css/contents.css" type="text/css" media="all"/>
+<link rel="alternate" media="handheld" href="https://www.medica.co.jp/mobile/catalog/book/7150" />
+<script type="text/javascript" language="javascript" src="https://www.medica.co.jp/js/jquery-1.6.4.min.js"></script>
+<script type="text/javascript" language="javascript" src="https://www.medica.co.jp/js/effect.js"></script>
+<script type="text/javascript" language="javascript" src="https://www.medica.co.jp/js/smooth.pack.js"></script>
+<script type="text/javascript" language="javascript" src="https://www.medica.co.jp/js/catalogaccordion.js" charset="utf-8"></script>
+<script type="text/javascript" src="https://www.medica.co.jp/js/ers_lib.js"></script>
+<script type="text/javascript" src="https://www.medica.co.jp/js/headerfooter.js"></script>
+<script type="text/javascript">
+
+    function disp_add_wishlist()
+    {
+         window.alert('追加しました');
+		location.replace(location.href.replace("add_wishlist=1",""));
+    }
+
+    function disp_add_none_wishlist() {
+        window.alert('すでに登録済みです');
+        location.replace(location.href.replace("add_wishlist=2", ""));
+    }
+
+</script>
+
+<script type="text/javascript" language="javascript" src="https://www.medica.co.jp/js/ga.js"></script>
+</head>
+
+<body
+
+>
+
+<a name="top" id="top"></a> 
+<!-- wraper start -->
+<div id="wraper">
+
+	<!-- header start -->
+<div id="header"><div id="headerWrap">
+		<h1>メディカ出版は、すべての医療従事者を応援します。</h1>
+		<p class="logo"><a href="https://www.medica.co.jp/"><img src="https://www.medica.co.jp/images/logo.gif" alt="メディカ出版" /></a></p>
+		<p class="info">会員の方は<a class="mypage_link" href="https://www.medica.co.jp/mypage/">ログイン</a>してください。初めての方は<a href="https://www.medica.co.jp/register/">こちら。</a></p>
+        <input type="hidden" id="logout_url" name="logout_url" value="https://www.medica.co.jp/mypage/logout">
+
+		<div class="link">
+			<ul>
+				<li><a href="http://www2.medica.co.jp/eschool?top=true" target="_blank">eラーニング</a></li>
+			</ul>
+		</div><!-- / .link -->
+	
+		<div class="fontsize">
+			<dl>
+				<dt><img src="https://www.medica.co.jp/images/h_font_ttl.gif" alt="文字サイズ変更" width="55" height="23" /></dt>
+				<dd id="fontStandard"><img src="https://www.medica.co.jp/images/font_standard_on.gif" alt="標準" width="29" height="23" /></dd>
+				<dd id="fontBig"><img src="https://www.medica.co.jp/images/font_big_off.gif" alt="大" width="29" height="23" /></dd>
+			</dl>
+		</div><!-- / .fontsize -->
+
+		<div class="gsearch" style="display: none;">
+			<div id="cse-search-form" style="width: 100%;">Loading</div>
+			<script src="https://www.google.com/jsapi" type="text/javascript"></script>
+			<script type="text/javascript"> 
+			try{
+				google.load('search', '1', {language : 'ja', style : google.loader.themes.MINIMALIST});
+				google.setOnLoadCallback(function() {
+					var customSearchOptions = {};  var customSearchControl = new google.search.CustomSearchControl(
+						'017557670573064046434:bn6lfpsjb3o', customSearchOptions);
+					customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+					var options = new google.search.DrawOptions();
+					options.enableSearchboxOnly("https://www.medica.co.jp/googlesearch/search/");
+					customSearchControl.draw('cse-search-form', options);
+				}, true);
+			}catch(e){}
+			</script>
+		</div><!-- / .header_search cl -->
+
+		<div class="btn">
+			<ul>
+			<li><a href="https://www.medica.co.jp/catalog/"><img src="https://www.medica.co.jp/images/h_btn_catalog_off.gif" width="164" height="40" class="btn_hover2" alt="商品カタログ" /></a></li>
+			<li><a href="https://www.medica.co.jp/seminar/"><img src="https://www.medica.co.jp/images/h_btn_seminar_off.gif" width="160" height="40" class="btn_hover2" alt="セミナー情報" /></a></li>
+			</ul>
+		</div>
+
+
+		<div id="global_navi">
+			<ul class="dropdown">
+				<li><a href="https://www.medica.co.jp/d/nurse/kango/"><img src="https://www.medica.co.jp/images/h_gnavi1.jpg" width="190" height="50" alt="看護" /></a>
+					<div class="sub_menu0">
+						<p class="sub_menu_close"><img src="https://www.medica.co.jp/images/h_close.png" width="20" height="20" alt="閉じる" /></p>
+						<ul class="menu cl">
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/kango" class="border_dot_rb">臨床看護一般</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/josan" class="border_dot_rb">助産・産婦人科</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/kodomo" class="border_dot_rb">新生児・小児</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/kanri" class="border_dot_b">看護管理</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/shujutsu" class="border_dot_rb">手術室</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/kansen" class="border_dot_rb">感染管理</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/seikei" class="border_dot_rb">整形外科</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/kyukyu" class="border_dot_b">救命・救急</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/junkanki" class="border_dot_rb">循環器</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/kokyuki" class="border_dot_rb">呼吸器</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/noushinkei" class="border_dot_rb">脳神経</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/rehabili" class="border_dot_b">リハビリ</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/gan" class="border_dot_rb">がん看護</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/shoukaki" class="border_dot_rb">消化器</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/sangyo" class="border_dot_rb">産業保健・看護</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/ganka" class="border_dot_b">眼科</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/touseki" class="border_dot_r">透析</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/dm" class="border_dot_r">糖尿病</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/hinyouki" class="border_dot_r">泌尿器</a></li>
+							<li class="navi_hover1"><a href="https://www.medica.co.jp/d/nurse/others">その他</a></li>
+						</ul>
+						<div class="news_wrap">
+							<ul class="news">
+                                                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/nurse/josan/cate_detail/5038" >『笑顔であんしん赤ちゃんナビ』が亜咲美さんのブログで紹介されました！</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/nurse/josan/cate_detail/4164" >『笑顔であんしん赤ちゃんナビ』が畑野浩子さん・蛯原英里さんのブログで紹介されました！</a></li>
+                                                                    <li class="navi_news_hover"><a href="http://www3.nhk.or.jp/news/html/20131209/t10013678631000.html" target="_blank" >ネオネイタルケア誌の表紙写真でおなじみの宮崎雅子さんが、NHKのNEWS WEBで紹介されました。</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/nurse/kango/cate_detail/2716" >【速報】当社刊行『世界でいちばん愉快に人工呼吸管理がわかる本』の電子版が売上ランキング1位を獲得！</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/nurse/josan/cate_detail/2519" >当社刊行『改訂2版　新生児慢性肺疾患の診療指針』がMindsに収載されるガイドラインとして選定されました。</a></li>
+                                                                
+                                
+							</ul>
+							<img src="https://www.medica.co.jp/images/h_gnavi1bg_btm.png" alt="" />		
+						</div>
+					</div>
+				</li>
+				<li><a href="https://www.medica.co.jp/d/doctor/igaku/"><img src="https://www.medica.co.jp/images/h_gnavi2.jpg" width="190" height="50" alt="医学" /></a>
+					<div class="sub_menu1">
+						<p class="sub_menu_close"><img src="https://www.medica.co.jp/images/h_close.png" width="20" height="20" alt="閉じる" /></p>
+						<ul class="menu cl">
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/igaku" class="border_dot_rb">臨床医学一般</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/shusanki" class="border_dot_rb">産婦人科・周産期</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/kodomo" class="border_dot_rb">新生児・小児</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/ganka" class="border_dot_b">眼科</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/nouge" class="border_dot_rb">脳神経外科</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/kansen" class="border_dot_rb">感染管理</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/seikei" class="border_dot_rb">整形外科</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/kyukyu" class="border_dot_b">救命・救急</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/junkanki" class="border_dot_r">循環器内科</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/shoukaki" class="border_dot_r">消化器外科</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/kekkan" class="border_dot_r">血管診療</a></li>
+							<li class="navi_hover2"><a href="https://www.medica.co.jp/d/doctor/others">その他</a></li>
+						</ul>
+						<div class="news_wrap">
+							<ul class="news">
+                                								                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/doctor/kyukyu/cate_detail/2716" >【速報】当社刊行『世界でいちばん愉快に人工呼吸管理がわかる本』の電子版が売上ランキング1位を獲得！</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/doctor/shusanki/cate_detail/2519" >当社刊行『改訂2版　新生児慢性肺疾患の診療指針』がMindsに収載されるガイドラインとして選定されました。</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/doctor/kansen/cate_detail/1991" >【速報】当社刊行の感染対策領域書籍の電子版が 売上ランキング1位を獲得！</a></li>
+                                                                
+                                
+							</ul>
+							<img src="https://www.medica.co.jp/images/h_gnavi2bg_btm.png" alt="" />
+						</div>
+					</div>
+				</li>
+				<li><a href="https://www.medica.co.jp/d/staff/eiyou/"><img src="https://www.medica.co.jp/images/h_gnavi3.jpg" width="190" height="50" alt="医療スタッフ" /></a>
+					<div class="sub_menu2">
+						<p class="sub_menu_close"><img src="https://www.medica.co.jp/images/h_close.png" width="20" height="20" alt="閉じる" /></p>
+						<ul class="menu cl">
+							<li class="navi_hover3"><a href="https://www.medica.co.jp/d/staff/eiyou" class="border_dot_rb">栄養</a></li>
+							<li class="navi_hover3"><a href="https://www.medica.co.jp/d/staff/yakugaku" class="border_dot_rb">薬学</a></li>
+							<li class="navi_hover3"><a href="https://www.medica.co.jp/d/staff/kensa" class="border_dot_rb">検査</a></li>
+							<li class="navi_hover3"><a href="https://www.medica.co.jp/d/staff/rehabili" class="border_dot_b">リハビリ</a></li>
+							<li class="navi_hover3"><a href="https://www.medica.co.jp/d/staff/kaigo" class="border_dot_r">介護</a></li>
+							<li class="navi_hover3"><a href="https://www.medica.co.jp/d/staff/others" class="border_dot_r">その他</a></li>
+						</ul>
+						<div class="news_wrap">
+							<ul class="news">
+                                								                                    <li class="navi_news_hover"><a href="http://www.medica.co.jp/m/iryotokaigo/" target="_blank" >地域包括ケアシステムを読み解く専門誌『医療と介護 Next』創刊！</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/staff/kaigo/cate_detail/2937" >『「食べる」介護がまるごとわかる本』の著者・菊谷武先生のご活躍がＮＨＫ「おはよう日本」にて紹介されました。</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/staff/kaigo/cate_detail/2518" >九州大学とコラボ開発した当社リハビリテーションゲームソフト『起立くん』がＮＨＫ「おはよう日本」にて紹介されました。</a></li>
+                                                                
+                                
+							</ul>
+							<img src="https://www.medica.co.jp/images/h_gnavi3bg_btm.png" alt="" />
+						</div>
+					</div>
+				</li>
+				<li><a href="https://www.medica.co.jp/d/general/shussan/"><img src="https://www.medica.co.jp/images/h_gnavi4.jpg" width="190" height="50" alt="一般" /></a>
+					<div class="sub_menu3">
+						<p class="sub_menu_close"><img src="https://www.medica.co.jp/images/h_close.png" width="20" height="20" alt="閉じる" /></p>
+						<ul class="menu cl">
+							<li class="navi_hover4"><a href="https://www.medica.co.jp/d/general/shussan" class="border_dot_r">出産・育児</a></li>
+							<li class="navi_hover4"><a href="https://www.medica.co.jp/d/general/kenkou" class="border_dot_r">家庭医学・健康</a></li>
+						</ul>
+						<div class="news_wrap">
+							<ul class="news">
+                                								                                    <li class="navi_news_hover"><a href="http://www.hoikusha.co.jp/otousan/" target="_blank" >「産経新聞大阪府内地域版」（2016年2月24日付）に長谷川義史先生の取材記事が掲載されました</a></li>
+                                                                    <li class="navi_news_hover"><a href="http://www.hoikusha.co.jp/otousan/" target="_blank" >『おとうさん ぼくね…』がSTVラジオ「ウイークエンドバラエティ 日高晤郎ショー」で全文朗読にて紹介されました</a></li>
+                                                                    <li class="navi_news_hover"><a href="http://www.j-sla.or.jp/contest/publication/prize2009.html" target="_blank" >「医療・福祉の仕事 見る知るシリーズ」が第17回学校図書館出版賞を受賞しました</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/general/shussan/cate_detail/5038" >『笑顔であんしん赤ちゃんナビ』が亜咲美さんのブログで紹介されました！</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/general/shussan/cate_detail/4563" >『笑顔で子育て　あんしん赤ちゃんナビ』著者 水野先生がテレビ出演！</a></li>
+                                	
+                                	
+                                						
+							</ul>
+							<img src="https://www.medica.co.jp/images/h_gnavi4bg_btm.png" alt="" />
+						</div>
+					</div>
+				</li>
+				<li><a href="https://www.medica.co.jp/d/education/teacher/"><img src="https://www.medica.co.jp/images/h_gnavi5.jpg" width="190" height="50" alt="看護教育" /></a>
+					<div class="sub_menu4">
+						<p class="sub_menu_close"><img src="https://www.medica.co.jp/images/h_close.png" width="20" height="20" alt="閉じる" /></p>
+						<ul class="menu cl">
+							<li class="navi_hover5"><a href="https://www.medica.co.jp/d/education/teacher" class="border_dot_r">教員</a></li>
+							<li class="navi_hover5"><a href="https://www.medica.co.jp/d/education/student" class="border_dot_r">学生</a></li>
+						</ul>
+						<div class="news_wrap">
+							<ul class="news">
+                                								                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/topcontents/pdf/news20180125.pdf" target="_blank" >メディカパスポートご登録（無料）、看護教員向けメルマガ配信設定のお知らせ</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/topcontents/pdf/newsrelease_dng180125.pdf" target="_blank" >デジタル看護教科書&#174;『デジタル ナーシング･グラフィカ』 国内最大定員数の看護師等学校養成所で全学生に導入！</a></li>
+                                                                    <li class="navi_news_hover"><a href="https://www.medica.co.jp/d/education/teacher/cate_detail/11722" >九州北部をはじめ、このたびの豪雨災害で被災された看護・医療関係者、学生のみなさまへ</a></li>
+                                                                    <li class="navi_news_hover"><a href="http://www.medica.co.jp/topcontents/pdf/newsrelease_dng170718.pdf" target="_blank" >デジタル看護教科書Ⓡ『デジタル ナーシング・グラフィカ』　2017年度 新設の7校で、全学生に導入！</a></li>
+                                                                    <li class="navi_news_hover"><a href="http://www.medica.co.jp/topcontents/pdf/newsrelease_dng2017.pdf" target="_blank" >デジタル看護教科書(R)『デジタル ナーシング・グラフィカ』待望の2017年版（for iPad）刊行！</a></li>
+                                		
+                                
+                                									
+							</ul>
+							<img src="https://www.medica.co.jp/images/h_gnavi5bg_btm.png" alt="" />
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div><!-- / #global_navi -->
+		</div><!-- / #headerWrap -->
+	</div><!-- / #header -->
+
+	<!--js制御用-->
+	<p style="display:none;" id="welcome_name"></p>
+
+
+	<!-- contents start -->
+	<div id="contents" class="cl"> 
+
+		<!-- left_column start -->
+		        		            		<div id="left_column">
+            <!-- left_cart_recom -->
+						<div class="cart">
+				<dl>
+				<dt><a href="https://www.medica.co.jp/catalog/cart/cart"><img class="btn_hover" src="/images/side_cart_btn.jpg" alt="ショッピングカート" /></a></dt>
+				<dd><a href="https://www.medica.co.jp/catalog/cart/cart">
+										商品は入っていません。
+														</a></dd>
+				</dl>
+
+				<dl>
+					<dt><a href="https://www.medica.co.jp/catalog/cart/wishlist"><img class="btn_hover" src="/images/side_favorite_btn.gif" alt="お気に入り商品リスト" /></a></dt>
+					<dd><a href="https://www.medica.co.jp/catalog/cart/wishlist">
+													ログインしてください。
+																	</a>
+					</dd>
+
+									</dl>
+			</div><!-- / .cart -->
+
+
+            <!-- left_item_search -->
+						<div class="searchItem">
+				<dl>
+				<dt><img src="https://www.medica.co.jp/images/side_itemsearch_ttl.gif" alt="商品検索" /></dt>
+				<dd class="siInput">
+					<dl>
+                        <label><input type="checkbox" id="s_stocks" name="s_stocks" value="0" checked="checked" />&nbsp;在庫なしの商品を含む</label><br />
+                        <label><input type="checkbox" id="s_product_type" name="s_product_type" value="4" checked="checked" />&nbsp;専門誌を含む</label><br />
+                        <br />
+					<dt><img src="https://www.medica.co.jp/images/side_itemsearch_txt.gif" alt="キーワード" /></dt>
+					<dd><p>スペース区切りで<br />複数の用語を検索できます。</p>
+                        <form method="post" action="https://www.medica.co.jp/catalog/icon">
+
+
+<input type="hidden" name="s_e_flg" value="" /><input type="hidden" name="keywords" value="" /><input type="hidden" name="s_product_type" value="" /><input type="hidden" name="new_icon" value="" /><input type="hidden" name="s_product_cate1" value="" /><input type="hidden" name="s_publish_status" value="" /><input type="hidden" name="searchable_target_icon" value="" /><input type="hidden" name="searchable_state_icon" value="" /><input type="hidden" name="nSwitch" value="" /><input type="hidden" name="cate1" value="" /><input type="hidden" name="cate2" value="" /><input type="hidden" name="s_target" value="" /><input type="hidden" name="s_interest" value="" /><input type="hidden" name="s_index" value="1" /><input type="hidden" name="s_stocks" value="0" /><input type="hidden" name="year_from" value="" /><input type="hidden" name="year_to" value="" /><input type="hidden" name="sort" value="" /><input type="hidden" name="s_sp_code" value="" />
+
+	
+                        <input type="hidden" name="s_index_for_module" value="1" />
+                        <input type="hidden" name="s_stocks_for_module" id="s_stocks_for_module" value="0" />
+                        <input type="hidden" name="s_product_type_for_module" id="s_product_type_for_module" value="" />
+                        <input type="hidden" name="side_search" value="1" />
+                        <input type="text" name="keywords_for_module" id="keywords_for_module" size="20"  class="searchInput" value="" maxlength="200"/><input type="image" name="side_search" src="https://www.medica.co.jp/images/side_itemsearch_btn.jpg" alt="検索" align="top" onclick="unchecking();" /></form>
+					</dd>
+					</dl>
+				</dd>
+				<dd class="siMore">
+                    <form action="https://www.medica.co.jp/catalog/search" method="post" name="item_search" id="item_search" style="display: inline">
+
+
+<input type="hidden" name="s_e_flg" value="" /><input type="hidden" name="keywords" value="" /><input type="hidden" name="s_product_type" value="" /><input type="hidden" name="new_icon" value="" /><input type="hidden" name="s_product_cate1" value="" /><input type="hidden" name="s_publish_status" value="" /><input type="hidden" name="searchable_target_icon" value="" /><input type="hidden" name="searchable_state_icon" value="" /><input type="hidden" name="nSwitch" value="" /><input type="hidden" name="cate1" value="" /><input type="hidden" name="cate2" value="" /><input type="hidden" name="s_target" value="" /><input type="hidden" name="s_interest" value="" /><input type="hidden" name="s_index" value="1" /><input type="hidden" name="s_stocks" value="0" /><input type="hidden" name="year_from" value="" /><input type="hidden" name="year_to" value="" /><input type="hidden" name="sort" value="" /><input type="hidden" name="s_sp_code" value="" />
+
+
+                        <a href="javascript:void(0)" onclick="document.item_search.submit()">さらに詳しい検索はこちら</a>
+                    </form>
+                </dd>
+				</dl>
+                <script type="text/javascript">
+                <!--
+                    function unchecking() {
+                        if (document.getElementById("s_stocks").checked == false) {
+                            document.getElementById("s_stocks_for_module").value = '1';
+                        }
+                        if (document.getElementById("s_product_type").checked == false) {
+                            document.getElementById("s_product_type_for_module").value = "1,2,3";
+                        } else { }
+                    }
+                // -->
+                </script>
+			</div><!-- / .searchItem -->
+
+			<!-- banner -->
+			<div class="banner">
+				<ul>
+											<li><a href="https://www.medica.co.jp/company/store_list/"><img class="btn_hover" src="https://www.medica.co.jp/images/banner/toriatukaisyoten.jpg" alt="取扱書店一覧"/></a></li>
+                    						<li><a href="https://www.medica.co.jp/bookstore/detail_list/300001961"><img class="btn_hover" src="https://www.medica.co.jp/images/banner/syotantantou.jpg" alt="書店ご担当者さまへ"/></a></li>
+                    						<li><a href="https://www.medica.co.jp/for_writer"><img class="btn_hover" src="https://www.medica.co.jp/images/banner/sippitsu.jpg" alt="執筆者の方へ"/></a></li>
+                    						<li><a href="https://www.medica.co.jp/ad/"><img class="btn_hover" src="https://www.medica.co.jp/images/banner/ad.jpg" alt="広告をお考えの方へ"/></a></li>                    						<li><a href="http://www2.medica.co.jp/eschool?top=true" target="_blank"><img class="btn_hover" src="https://www.medica.co.jp/images/banner/elearning.jpg" alt="eラーニング"/></a></li>
+				</ul>
+			</div>
+		</div>
+                                    		<!-- left_column end --> 
+
+		<!-- main_column start -->
+		<div id="main_column">
+
+			<div class="breadcrumb">
+				<!---->
+					<a href="https://www.medica.co.jp/">トップページ</a>　&gt;　<a href="https://www.medica.co.jp/catalog">商品カタログ</a>　&gt;　整形外科看護2019年3月号
+			</div>
+			<div id="catalogItem">
+           
+                        
+			<!-- main_header -->
+			    <div class="main_header">
+			        <div class="subcaption">
+			            			                                    
+			        </div>
+			        <h2 class="hl-catalog ">
+			            			            			            			            <span class="mainttl">
+			                整形外科看護2019年3月号
+			            </span><br />
+			            			            			        </h2>
+			    </div>
+			<!-- main_cont -->
+
+			<div class="main_cont">
+				<div class="cl">
+				<div class="main_l_inner">
+					<div class="catalogImg">
+						<img src="https://www.medica.co.jp/images/contents/product/detail_7150.png" alt="" />						
+					</div>
+					<div class="catalogReading cl" style="line-height:18px;text-align:left;">
+                        <a href="https://www.medica.co.jp/sample_page/magazine/130131903/index.html" target="_blank" class="m_r10 tachiyomi" class="under_construction"><img src="https://www.medica.co.jp/images/catalog/btn_m_reading.gif" alt="立ち読み" class="btn_hover" /></a><a href="https://www.medica.co.jp/catalog/cart/wishlist?scode=7150&e_flg="><img src="https://www.medica.co.jp/images/catalog/btn_m_recomadd.gif" alt="お気に入り追加" class="btn_hover" /></a>
+                        
+					</div>
+						
+				    <div class="catalogPrice">
+				        <table border="0" cellspacing="0" cellpadding="0">
+				            <tr class="priceTxt">
+				                <th><span class="big">定価</span></th>
+				                <td>：&nbsp;<span class="big">1,944円</span><span class="glay">（本体1,800円＋税）</span></td>
+				            </tr>
+				            <tr>
+				                <th>発行</th>
+				                <td>：&nbsp;2019年03月</td>
+				            </tr>
+				            <tr>
+				                <th>在庫</th>
+				                <td>：&nbsp;<span class="orange">在庫あり（申込可）</span></td>
+				            </tr>
+				        </table>
+				    </div>
+					<div class="catalogDeta">
+						<table border="0" cellspacing="0" cellpadding="0">
+
+							<tr>
+								<th>ISBN-10</th>
+								<td>：&nbsp;4-8404-6729-3 </td>
+							</tr>
+							<tr>
+								<th>ISBN-13</th>
+								<td>：&nbsp;978-4-8404-6729-2</td>
+							</tr>
+
+							<tr>
+								<th>商品コード</th>
+								<td>：&nbsp;130131903</td>
+							</tr>
+
+						</table>
+					</div>					
+					<div class="catalogBtn">
+						 
+						
+						
+
+													
+						
+						
+					</div>
+				</div>
+				<div class="main_r_inner">
+					<div class="catalogDescription">
+						
+                                                <dl class="feature">
+							<dt><img src="https://www.medica.co.jp/images/catalog/detail_caption_feature.jpg" alt="今月の特集" /></dt>
+							<dd>「マジでオペを見ているんじゃないか」と思えるくらいに詳細な手術解説  マジオペ！！  股関節・膝関節</dd>
+						</dl>
+                        
+
+
+						<div class="txt">                        
+						
+						</div>
+						
+                        <div class="banner">
+							                        </div>
+
+
+						
+                        
+						
+						
+						
+                                                
+                        
+						
+						
+						
+                                                
+                        
+						
+						
+						
+                                                
+                        
+						
+						
+						
+                                                
+                        
+						
+						
+						
+                                                
+                        
+						<!-- cont_list -->
+												<div id="accordion2" class="tableContents">
+							<p class="btn">目次を表示<img class="m_l5" src="https://www.medica.co.jp/images/catalog/detail_accordion_off.jpg" alt="" /></p>
+							<div class="accordion2_inner">
+								【特集】「マジでオペを見ているんじゃないか」と思えるくらいに詳細な手術解説  マジオペ！！  股関節・膝関節<br />
+金沢大学 加畑多文<br />
+<br />
+● 手術動画の見かた<br />
+● 特集振り返りWEBテストのご案内<br />
+<br />
+＜股関節の手術＞<br />
+（1）人工股関節全置換術（THA）<br />
+＃術中体位 ＃インプラント ＃アプローチ ＃合併症<br />
+金沢大学附属病院 楫野良知<br />
+<br />
+（2）人工骨頭挿入術<br />
+＃人工骨頭インプラント ＃坐骨神経麻痺 ＃高齢者の大腿骨頚部骨折<br />
+富山県立中央病院 中村琢哉<br />
+<br />
+（3）寛骨臼回転骨切り術（RAO）<br />
+＃寛骨臼形成不全 ＃変形性股関節症<br />
+東京慈恵会医科大学附属第三病院 大谷卓也<br />
+<br />
+（4）大腿骨転子部骨折に対する骨接合術<br />
+＃髄内釘 ＃術中使用器具 ＃周術期の合併症<br />
+厚生連高岡病院 坂越大悟<br />
+<br />
+＜膝関節の手術＞<br />
+（5）人工膝関節全置換術（TKA）<br />
+＃TKAのインプラント ＃変形性膝関節症 ＃出血・疼痛対策<br />
+神戸海星病院 石田一成<br />
+<br />
+（6）前十字靭帯再建術<br />
+＃自家腱（半腱様筋腱） ＃関節鏡手術 ＃運動麻痺<br />
+金沢大学附属病院 中瀬順介<br />
+<br />
+（7）高位脛骨骨切り術<br />
+＃オープン法 ＃ロッキングプレート ＃術後合併症<br />
+富山市民病院 五嶋謙一<br />
+<br />
+<br />
+<br />
+【連載】<br />
+● 声-患者体験を経て、今、看護師に届けたい“声”があります-<br />
+・「せんめんきいっぱいの涙 ～寄り添う～」<br />
+増田靖子<br />
+<br />
+● たゆみない進歩の軌跡 整形外科 今昔物語…第2回<br />
+・関節リウマチ<br />
+新潟県立リウマチセンター 村澤 章<br />
+<br />
+● ほんとはナースこそ聞くべき！？ インフォームドコンセント 整形外科疾患グッと理解…第25回<br />
+・腰椎椎間板ヘルニア<br />
+朝日大学病院 今泉佳宣<br />
+<br />
+● 整形外科の歴史…第261回<br />
+・20世紀初期から中後期へ アメリカ整形外科の近代化(111) アメリカ整形外科の発達を陰で支えた先人たち（8）<br />
+日本歯科大学医の博物館 蒲原 宏<br />
+<br />
+<br />
+<br />
+【Campanio!】医療・看護・介護のトピック18本！<br />
+● 特定行為研修，私にとってコレ！<br />
+「特定行為研修を「身近なモノ」にたとえると……ミルフィーユのクリーム」<br />
+藤沢市民病院　内藤亜由美<br />
+<br />
+● 日本健康長寿延伸学会 ロコモ知るシンポジウム<br />
+「そもそも「ロコモ」ってなんだ？」<br />
+伊奈病院／NPO法人高齢者運動器疾患研究所　石橋英明<br />
+<br />
+<br />
+<br />
+【その他】<br />
+・バックナンバー＆増刊のご案内<br />
+・ちょっと骨休め<br />
+・INFORMATION<br />
+・本誌編集委員・顧問・同人<br />
+・次号予告							</div>
+						</div><!-- / .tableContents -->
+                        
+					</div><!-- / .catalogDescription -->
+
+
+					
+										
+					<div class="catalogBuy">
+
+                    
+
+					
+
+                    					    
+                                                    <div class="buyBtn">
+						        <a href="https://www.medica.co.jp/catalog/cart/cart?scode=7150&e_flg=&s_index=1&amp;s_stocks=0"><img alt="カートに入れる" class="btn_hover" src="https://www.medica.co.jp/images/catalog/detail_btn_buy.jpg"></a>	
+						        <p>※書籍・商品の発送については<a href="https://www.medica.co.jp/guide/" target="_blank">ご利用ガイド</a>３の②をご確認ください。</p>
+					        </div><!-- / .buyBtn -->
+                        
+                    
+
+					<!-- other_shop -->
+                                            					    <dl class="catalogOthershop">
+						    <dt><img src="https://www.medica.co.jp/images/catalog/detail_other_shop.gif" alt="以下のネット書店でもお求めいただけます。" /></dt>
+						    <dd>
+						    <ul>
+						    <li class="m_r10"><a href="http://www.amazon.co.jp/s/?url=search-alias=blended&amp;field-keywords=978-4-8404-6729-2&amp;tag=medicaec-22&amp;link_code=wql&amp;_encoding=UTF-8" onclick="_gaq.push(['_trackEvent', 'link', 'click', 'amazon', 1, true]);" target="_blank"><img alt="amazon.co.jpで買う" src="https://www.medica.co.jp/images/catalog/detail_bnr_amazon.jpg" title="amazon.co.jpで買う" /></a></li>
+						    <li class="m_r10"><a href="http://7af-ent.omni7.jp/relay/affiliate/entranceProcess.do?url=http://7net.omni7.jp/detail_isbn/978-4-8404-6729-2&affid=2484470000000387&admainid=10000001&link=6&ver=1" onclick="_gaq.push(['_trackEvent', 'link', 'click', '7net', 1, true]);" target="_blank"><img alt="セブンネットショッピングで買う" src="https://www.medica.co.jp/images/catalog/7ns_42x151.jpg" title="セブンネットショッピングで買う" /></a></li>
+                            <li><a href="https://books.rakuten.co.jp/rdt/item/?sid=213310&sno=ISBN:9784840467292" onclick="_gaq.push(['_trackEvent', 'link', 'click', 'rakuten', 1, true]);" target="_blank"><img alt="楽天で買う" src="https://www.medica.co.jp/images/catalog/detail_bnr_rakuten_2018.jpg" title="楽天で買う" /></a></li>
+						    </ul>
+						    </dd>
+					    </dl>
+					    
+                    													<p class="buy_year"><a href="https://www.medica.co.jp/catalog/subscription/12"><img class="btn_hover" src="https://www.medica.co.jp/images/catalog/btn_m_subscription01.gif" alt="年間購読のお申し込みはこちらから"></a></p>
+						
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+						
+						
+					</div><!-- / .catalogBuy -->
+				</div><!-- / .main_r_inner -->
+				</div><!-- / .cl -->
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<!-- 20181228 バナー追加 -->
+				
+				<!-- /20181228 バナー追加 -->				
+				
+									<div class="img_review"><img src="https://www.medica.co.jp/images/contents/product/seikei.jpg" alt="整形外科看護"></div>
+					<!-- 20181204 バナー追加 -->
+					<div><img src="https://www.medica.co.jp/images/magazine/banner/campaign_box.jpg" alt="年間購読お申込みでオリジナルBOXプレゼント！" width="745" height="210" /></div>
+					<!-- /20181204 バナー追加 -->
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				<div>
+																						
+		
+        
+        
+			<h3><img src="https://www.medica.co.jp/images/catalog/subscription_titleA.jpg" alt="年間購読のご案内"/></h3>
+		<div class="annai_banner">
+			<ul>
+                        	<li><img src="https://www.medica.co.jp/images/catalog/subscription_case01AB.gif" alt="年間購読1"/></li>
+                        	<li class="center"><img src="https://www.medica.co.jp/images/catalog/subscription_case02AB.gif" alt="年間購読2"/></li>
+                        	<li><img src="https://www.medica.co.jp/images/catalog/subscription_case03AB.gif" alt="年間購読3"/></li>
+			</ul>
+			<div class="annai_info">
+                        	<img src="https://www.medica.co.jp/images/catalog/subscription_planA.gif" alt="プラン1" class="mb15" />
+			</div>
+			<div class="annai_buy">
+                        	<a href="https://www.medica.co.jp/catalog/subscription/12"><img class="" src="https://www.medica.co.jp/images/catalog/btn_m_subscription02.gif" alt="年間購読のお申し込みはこちらから"></a>
+			</div>
+		</div>
+							
+							
+							
+							
+					
+				</div>
+			</div><!-- / .main_cont cl -->
+		
+		    <!-- review -->
+        
+
+			<!-- recom_item -->			
+								<!-- recom_item -->			
+			<div class="recom_item cl">
+				<div class="caption">この商品を買った人はこんな商品も見ています</div>
+				<ul class="cl">
+									<li class="m_r10">
+						<a href="https://www.medica.co.jp/catalog/m/7151"> 
+						<span class="heightLine banner_hover"> 
+							<span class="productItem">
+<img src="https://www.medica.co.jp/images/no_photos.jpg" alt="" />
+							</span> 
+							<span class="productIcon">
+																								   
+							</span>
+							<span class="productName">整形外科看護2019年4月号</span>
+							<span class="productPrice">予価1,944円（税込）</span>
+													</span>
+						</a>
+					</li>
+									<li class="m_r10">
+						<a href="https://www.medica.co.jp/catalog/m/7097"> 
+						<span class="heightLine banner_hover"> 
+							<span class="productItem">
+<img src="https://www.medica.co.jp/images/contents/product/list_7097.png" alt="" />
+							</span> 
+							<span class="productIcon">
+																								   
+							</span>
+							<span class="productName">整形外科看護2019年2月号</span>
+							<span class="productPrice">定価1,944円（税込）</span>
+													</span>
+						</a>
+					</li>
+									<li class="m_r10">
+						<a href="https://www.medica.co.jp/catalog/m/7096"> 
+						<span class="heightLine banner_hover"> 
+							<span class="productItem">
+<img src="https://www.medica.co.jp/images/contents/product/list_7096.png" alt="" />
+							</span> 
+							<span class="productIcon">
+																								   
+							</span>
+							<span class="productName">整形外科看護2019年1月号</span>
+							<span class="productPrice">定価1,944円（税込）</span>
+													</span>
+						</a>
+					</li>
+									<li class="m_r10">
+						<a href="https://www.medica.co.jp/catalog/m/7007"> 
+						<span class="heightLine banner_hover"> 
+							<span class="productItem">
+<img src="https://www.medica.co.jp/images/contents/product/list_7007.png" alt="" />
+							</span> 
+							<span class="productIcon">
+																								   
+							</span>
+							<span class="productName">整形外科看護2018年12月号</span>
+							<span class="productPrice">定価1,944円（税込）</span>
+													</span>
+						</a>
+					</li>
+									<li class="m_r10">
+						<a href="https://www.medica.co.jp/catalog/m/7006"> 
+						<span class="heightLine banner_hover"> 
+							<span class="productItem">
+<img src="https://www.medica.co.jp/images/contents/product/list_7006.png" alt="" />
+							</span> 
+							<span class="productIcon">
+																								   
+							</span>
+							<span class="productName">整形外科看護2018年11月号</span>
+							<span class="productPrice">定価1,944円（税込）</span>
+													</span>
+						</a>
+					</li>
+								</ul>
+			</div>
+			
+
+		</div><!-- / #catarogItem -->
+		</div>
+		<!-- main_column end --> 
+	</div>
+	<!-- contents end --> 
+		<div id="footer"><div id="footWrap"><div id="footCts">
+		<p class="footGotop"><a href="#top"><img src="https://www.medica.co.jp/images/gotop_btn.jpg" alt="このページのトップへ" /></a></p>
+		<dl class="cl">
+		<dt class="footTtl"><img src="https://www.medica.co.jp/images/f_ttl.gif" alt="サイトマップ" /></dt>
+		<dd class="footBox">
+			<p class="home"><a href="https://www.medica.co.jp/">メディカ出版ポータルサイト</a></p>
+			<dl class="footCorner">
+				<dt>メディカパスポート</dt>
+				<dd><ul>
+					<li><a href="https://www.medica.co.jp/mypage/" id="loginpagefooter">マイページ（ログインが必要です）</a></li>
+					<li><a href="https://www.medica.co.jp/register/">会員登録</a></li>
+					<li><a href="https://www.medica.co.jp/passport/">初めての方へ</a></li>
+					</ul>
+				</dd>
+			</dl>
+
+			<dl class="footCorner">
+				<dt>領域ページ</dt>
+				<dd><ul>
+						<li class="footAcd0">
+							<span>看護<img src="https://www.medica.co.jp/images/f_acd1_off.gif" alt="一覧" /></span>
+							<ul class="acdInner">
+								<li><a href="https://www.medica.co.jp/d/nurse/kango">臨床看護一般</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/josan">助産・産婦人科</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/kodomo">新生児・小児</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/kanri">看護管理</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/shujutsu">手術室</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/kansen">感染管理</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/seikei">整形外科</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/kyukyu">救命・救急</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/junkanki">循環器</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/kokyuki">呼吸器</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/noushinkei">脳神経</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/rehabili">リハビリ</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/gan">がん看護</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/shoukaki">消化器</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/sangyo">産業保健・看護</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/ganka">眼科</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/touseki">透析</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/dm">糖尿病</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/hinyouki">泌尿器</a></li>
+								<li><a href="https://www.medica.co.jp/d/nurse/others">その他</a></li>
+							</ul>
+						</li>
+						<li class="footAcd1">
+							<span>医学<img src="https://www.medica.co.jp/images/f_acd2_off.gif" alt="一覧" /></span>
+							<ul class="acdInner">
+							<li><a href="https://www.medica.co.jp/d/doctor/igaku">臨床医学一般</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/shusanki">産婦人科・周産期</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/kodomo">新生児・小児</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/ganka">眼科</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/nouge">脳神経外科</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/kansen">感染管理</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/seikei">整形外科</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/kyukyu">救命・救急</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/junkanki">循環器内科</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/shoukaki">消化器外科</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/kekkan">血管診療</a></li>
+							<li><a href="https://www.medica.co.jp/d/doctor/others">その他</a></li>
+							</ul>
+						</li>
+						<li class="footAcd2">
+							<span>医療スタッフ<img src="https://www.medica.co.jp/images/f_acd3_off.gif" alt="一覧" /></span>
+							<ul class="acdInner">
+							<li><a href="https://www.medica.co.jp/d/staff/eiyou">栄養</a></li>
+							<li><a href="https://www.medica.co.jp/d/staff/yakugaku">薬学</a></li>
+							<li><a href="https://www.medica.co.jp/d/staff/kensa">検査</a></li>
+							<li><a href="https://www.medica.co.jp/d/staff/rehabili">リハビリ</a></li>
+							<li><a href="https://www.medica.co.jp/d/staff/kaigo">介護</a></li>
+							<li><a href="https://www.medica.co.jp/d/staff/others">その他</a></li>
+							</ul>
+						</li>
+						<li class="footAcd3">
+							<span>一般<img src="https://www.medica.co.jp/images/f_acd4_off.gif" alt="一覧" /></span>
+							<ul class="acdInner">
+							<li><a href="https://www.medica.co.jp/d/general/shussan">出産・育児</a></li>
+							<li><a href="https://www.medica.co.jp/d/general/kenkou">家庭医学・健康</a></li>
+							</ul>
+						</li>
+						<li class="footAcd4">
+							<span>看護教育<img src="https://www.medica.co.jp/images/f_acd5_off.gif" alt="一覧" /></span>
+							<ul class="acdInner">
+							<li><a href="https://www.medica.co.jp/d/education/teacher">教員</a></li>
+							<li><a href="https://www.medica.co.jp/d/education/student">学生</a></li>
+							</ul>
+						</li>
+					</ul>
+				</dd>
+			</dl>
+
+			<dl class="footCorner">
+				<dt>知る・楽しむ</dt>
+				<dd><ul>
+					<li><a href="https://www.medica.co.jp/dailytest/">デイリーテスト</a></li>
+					<li><a href="https://www.medica.co.jp/englishwords/">知っておきたい英略語集</a></li>
+					<li><a href="https://www.medica.co.jp/company/twitter/">ソーシャルメディカ</a></li>
+					</ul>
+				</dd>
+			</dl>
+		</dd>
+		<dd class="footBox">
+			<dl class="footCorner">
+				<dt>メディカ出版の商品・サービス</dt>
+				<dd><ul>
+						<li class="footAcd5">
+							<span>商品カタログ<img src="https://www.medica.co.jp/images/f_acd6_off.gif" alt="一覧" /></span>
+							<ul class="acdInner">
+							<li><a href="https://www.medica.co.jp/catalog/icon?product_type=1">書籍</a></li>
+							<li><a href="https://www.medica.co.jp/catalog/icon?product_type=4">専門誌</a></li>
+							<li><a href="https://www.medica.co.jp/catalog/icon?product_type=2">デジタルコンテンツ</a></li>
+							<li><a href="https://www.medica.co.jp/catalog/icon?product_type=3">教科書</a></li>
+							</ul>
+						</li>
+						<li class="sp"><a href="https://www.medica.co.jp/n-graphicus/">ナーシング・グラフィカ</a></li>
+						<li class="footAcd6 sp">
+							<span>専門誌ページ<img src="https://www.medica.co.jp/images/f_acd6_off.gif" alt="一覧" /></span>
+							<ul class="acdInner">
+							<li><a href="https://www.medica.co.jp/m/perinatalcare">ペリネイタルケア</a></li>
+							<li><a href="https://www.medica.co.jp/m/brainnursing">ブレインナーシング</a></li>
+							<li><a href="https://www.medica.co.jp/m/openursing">オペナーシング</a></li>
+							<li><a href="https://www.medica.co.jp/m/neonatalcare">赤ちゃんを守る医療者の専門誌 with NEO</a></li>
+							<li><a href="https://www.medica.co.jp/m/heartnursing">ハートナーシング</a></li>
+							<li><a href="https://www.medica.co.jp/m/emergencycare">Emer-Log（エマログ）</a></li>
+							<li><a href="https://www.medica.co.jp/m/nouge">脳神経外科速報</a></li>
+							<li><a href="https://www.medica.co.jp/m/infectioncontrol">インフェクションコントロール</a></li>
+							<li><a href="https://www.medica.co.jp/m/tousekicare">透析ケア</a></li>
+							<li><a href="https://www.medica.co.jp/m/shoukaki">消化器ナーシング</a></li>
+							<li><a href="https://www.medica.co.jp/m/hinyoukicare">泌尿器Care&Cure ウロロ</a></li>
+							<li><a href="https://www.medica.co.jp/m/seikeigekakango">整形外科看護</a></li>
+							<li><a href="https://www.medica.co.jp/m/gankacare">眼科ケア</a></li>
+							<li><a href="https://www.medica.co.jp/m/kokyukicare">みんなの呼吸器 Respica（レスピカ）</a></li>
+							<li><a href="https://www.medica.co.jp/m/dmcare">糖尿病ケア</a></li>
+							<li><a href="https://www.medica.co.jp/m/vascularlab">Vascular Lab</a></li>
+							<li><a href="https://www.medica.co.jp/m/circulation">サーキュレーション・アップ・トゥ・デート</a></li>
+							<li><a href="https://www.medica.co.jp/m/n-biz">ナーシングビジネス</a></li>
+							<li><a href="https://www.medica.co.jp/m/rehabilinurse">リハビリナース</a></li>
+							<li><a href="https://www.medica.co.jp/m/nutritioncare">ニュートリションケア</a></li>
+							<li><a href="https://www.medica.co.jp/m/sangyokango">産業保健と看護</a></li>
+							<li><a href="https://www.medica.co.jp/m/clinicalpharmacist">クリニカル・ファーマシスト</a></li>
+							<li><a href="https://www.medica.co.jp/m/seikeisurg">整形外科サージカルテクニック</a></li>
+							<li><a href="https://www.medica.co.jp/m/gannursing">YORi-SOU がんナーシング</a></li>
+							<li><a href="https://www.medica.co.jp/m/gankagraphic">眼科グラフィック</a></li>
+							<li><a href="https://www.medica.co.jp/m/iryotokaigo/">医療と介護 Next</a></li>
+							</ul>
+						</li>
+						<li class="sp"><a href="https://www.medica.co.jp/seminar/">セミナー</a></li>
+						<li class="sp"><a href="http://www2.medica.co.jp/eschool?top=true" target="_blank" class="linkExit">eラーニング</a></li>
+						<li><a href="https://www.medica-ebooks.com/ " target="_blank" class="linkExit">電子書籍</a></li>
+						<li><a href="http://www2.medica.co.jp/exam" target="_blank" class="linkExit">国家試験対策</a></li>
+						<li><a href="https://www.medica.co.jp/topcontents/marketing/" target="_blank" class="linkExit">マーケティング支援サービス</a></li>
+					</ul>
+				</dd>
+			</dl>
+		</dd>
+		<dd class="footBox">
+			<dl class="footCorner">
+				<dt>メディカ出版について</dt>
+				<dd>
+					<ul>
+                    <li><a href="https://www.medica.co.jp/company/">代表からのごあいさつ</a></li>
+					<li><a href="https://www.medica.co.jp/company/outline/">会社概要</a></li>
+					<li><a href="https://www.medica.co.jp/company/history/">沿革</a></li>
+					<li><a href="https://www.medica.co.jp/csr/list/10000198">社会貢献</a></li>
+					<li><a href="https://www.medica.co.jp/recruit/special/information">受賞歴</a></li>
+                    <li><a href="https://www.medica.co.jp/recruit/special/">採用情報</a></li>
+					<li><a href="https://www.medica.co.jp/pdf/company/active_plan.pdf" target="_blank">次世代育成支援</a></li>					
+					<li><a href="https://www.medica.co.jp/company/access/">アクセスマップ</a></li>
+					</ul>
+				</dd>
+			</dl>
+			<dl class="footCorner">
+				<dt>サポート情報・お問い合わせ</dt>
+				<dd>
+					<ul>
+					<li><a href="https://www.medica.co.jp/inquiry/">お問い合わせ</a></li>
+					<li><a href="https://www.medica.co.jp/support/q_and_a/">よくあるご質問</a></li>
+					<li><a href="https://www.medica.co.jp/support/update_info/list/10000193">正誤表・更新情報</a></li>
+					<li><a href="https://www.medica.co.jp/guide/">ご利用ガイド</a></li>
+					</ul>
+				</dd>
+			</dl>
+		</dd>
+		<dd class="footBox">
+			<dl class="footCorner">
+				<dt>ポリシー・規約</dt>
+				<dd>
+					<ul>
+					<li><a href="https://www.medica.co.jp/pdf/privacy/agreement.pdf">利用規約(メディカパスポート会員規約)</a></li>
+					<li><a href="https://www.medica.co.jp/privacy/policy/">個人情報への取り組み</a></li>
+					<li><a href="https://www.medica.co.jp/privacy/rule/">個人情報開示等の請求規定</a></li>
+					<li><a href="https://www.medica.co.jp/specific/">特定商取引法に基づく表記</a></li>
+					<li><a href="https://www.medica.co.jp/guide/web_contents/">Webサイトコンテンツ利用規約</a></li>
+					<li><a href="https://www.medica.co.jp/privacy/security/">セキュリティーポリシーおよび商標について</a></li>
+					<li><a href="https://www.medica.co.jp/privacy/ebooks/">電子書籍について</a></li>
+					<li><a href="https://www.medica.co.jp/privacy/yomedica/">ヨメディカ利用規約</a></li>
+					</ul>
+				</dd>
+			</dl>
+			<dl class="footCorner">
+				<dt>その他</dt>
+				<dd>
+					<ul>
+					<li><a href="https://www.medica.co.jp/company/store_list/">取り扱い書店一覧</a></li>
+					<li><a href="https://www.medica.co.jp/bookstore/detail_list/300001961">書店ご担当者様へ</a></li>
+					<li><a href="https://www.medica.co.jp/for_writer/">執筆者の方へ</a></li>
+					<li><a href="https://www.medica.co.jp/ad/">広告をお考えの方へ</a></li>
+					</ul>
+				</dd>
+			</dl>
+		</dd>
+		</dl>
+		<p class="credo"><img src="https://www.medica.co.jp/images/footer_logo.jpg" alt="メディカ出版は、すべての医療従事者を応援します。" /></p>
+		<p class="copyright">Copyright&nbsp;&#169;&nbsp;1996&nbsp;-&nbsp;2019&nbsp;MEDICUS SHUPPAN,Publishers Co., Ltd.All Rights Reserved.</p>
+	</div><!-- / #footCts -->
+	</div><!-- / #footWrap -->
+	</div><!-- / #footer -->
+    
+
+<!-- ↓ 20150327 add TAG ↓ -->
+<!-- mongoroid TAG start -->
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0024/5925.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+<!-- mongoroid TAG end -->
+
+<!-- google remarketing TAG start -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 950748505;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/950748505/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- google remarketing TAG end -->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T3MPR7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T3MPR7');</script>
+<!-- End Google Tag Manager -->
+
+<!-- YDN mark TAG start -->
+<script type="text/javascript" language="javascript">
+/* <![CDATA[ */
+var yahoo_retargeting_id = 'SJS700OKQ1';
+var yahoo_retargeting_label = '';
+/* ]]> */
+</script>
+<script type="text/javascript" language="javascript" src="//b92.yahoo.co.jp/js/s_retargeting.js"></script>
+<!-- YDN mark TAG end -->
+
+<!-- YTM TAG start -->
+<script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=73QHJr2";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=73QHJr2" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<!-- YTM TAG end -->
+<!-- ↑ 20150327 add TAG ↑ -->
+
+<!-- Google Tag Manager 20171010 mongoroid -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MZK5NZ9');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Google Tag Manager (noscript) 20171010 mongoroid -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZK5NZ9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Yahoo Tag Manager 20171010 mongoroid -->
+<script id="tagjs" type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.yjtag.jp/tag.js#site=iEoBble";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//b.yjtag.jp/iframe?c=iEoBble" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<!-- End Yahoo Tag Manager -->
+    </div>
+<!-- wraper end -->
+</body>
+</html>

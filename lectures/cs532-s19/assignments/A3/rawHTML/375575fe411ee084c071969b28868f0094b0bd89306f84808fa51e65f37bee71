@@ -1,0 +1,1115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="es" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name=description content="Portal de información, análisis y opinión sobre el poder en Colombia" />
+<meta name="keywords" content="gobierno, santos, caribe, datos, plata, poder, peñalosa, politica, medios, periodismo, paz, minería, educación, independiente, santanderes, petro, ordoñez, presupuesto, corrupción para-política, oposición, justicia, paz, proceso, portal, análisis, datos, opinión, Colombia">
+<link rel="alternate" href="https://lasillavacia.com/" hreflang="es" />
+<link rel="apple-touch-icon" href="/sites/all/themes/lasillavacia/images/iconos/LogosLSV-58x58.jpg">
+<link rel="apple-touch-icon" sizes="152x152" href="/sites/all/themes/lasillavacia/images/iconos/LogosLSV-152x152.jpg">
+<link rel="apple-touch-icon" sizes="180x180" href="/sites/all/themes/lasillavacia/images/iconos/LogosLSV-180x180.jpg">
+<link rel="apple-touch-icon" sizes="167x167" href="/sites/all/themes/lasillavacia/images/iconos/LogosLSV-167x167.jpg">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="//load.sumome.com/" data-sumo-site-id="183b3d13bd6130c4ec5862d8d1e9261a2923786c78ca39ca2e1d97c8dfb1e1a1" async="async"></script>
+<link rel="shortcut icon" href="https://lasillavacia.com/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="interactiva" property="Interactiva" content="No" />
+<meta name="created" property="Creacion" content="2019-02-14" />
+<link rel="amphtml" href="https://lasillavacia.com/silla-caribe/gobernador-de-la-guajira-esta-profugo-pero-sigue-mandando-y-lanzo-cd-70026?amp" />
+<meta name="description" content="Wilmer González fue condenado en primera instancia por corrupción electoral y tiene orden de captura, pero presentó una incapacidad médica y nadie sabe dónde está." />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://lasillavacia.com/silla-caribe/gobernador-de-la-guajira-esta-profugo-pero-sigue-mandando-y-lanzo-cd-70026" />
+<link rel="shortlink" href="https://lasillavacia.com/node/70026" />
+<meta property="fb:app_id" content="707991449304858" />
+<meta property="og:site_name" content="La Silla Vacía" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://lasillavacia.com/silla-caribe/gobernador-de-la-guajira-esta-profugo-pero-sigue-mandando-y-lanzo-cd-70026" />
+<meta property="og:title" content="Gobernador de La Guajira está prófugo, pero sigue mandando y lanzó CD" />
+<meta property="og:description" content="Wilmer González fue condenado en primera instancia por corrupción electoral y tiene orden de captura, pero presentó una incapacidad médica y nadie sabe dónde está." />
+<meta property="og:image" content="https://lasillavacia.com/sites/default/files/portadas/wilmeralbumcondenado.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@lasillavacia" />
+<meta name="twitter:url" content="https://lasillavacia.com/silla-caribe/gobernador-de-la-guajira-esta-profugo-pero-sigue-mandando-y-lanzo-cd-70026" />
+<meta name="twitter:title" content="Gobernador de La Guajira está prófugo, pero sigue mandando y lanzó CD" />
+<meta name="twitter:description" content="Wilmer González fue condenado en primera instancia por corrupción electoral y tiene orden de captura, pero presentó una incapacidad médica y nadie sabe dónde está." />
+<meta name="twitter:image" content="https://lasillavacia.com/sites/default/files/portadas/wilmeralbumcondenado.jpg" />
+<title>Gobernador de La Guajira está prófugo, pero sigue mandando y lanzó CD | La Silla Vacía</title>
+<link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i|Roboto+Condensed:300,300i,400,400i,700,700i|Roboto+Slab:100,300,400,700|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese" rel="stylesheet">
+<style>
+@import url("https://lasillavacia.com/modules/system/system.base.css?pnanw3");
+</style>
+<style>
+@import url("https://lasillavacia.com/sites/all/modules/simplenews/simplenews.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/modules/date/date_api/date.css?pnanw3");
+@import url("https://lasillavacia.com/modules/field/theme/field.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/modules/logintoboggan/logintoboggan.css?pnanw3");
+@import url("https://lasillavacia.com/modules/node/node.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/modules/views/css/views.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/modules/ckeditor/css/ckeditor.css?pnanw3");
+</style>
+<style>
+@import url("https://lasillavacia.com/sites/all/modules/ctools/css/ctools.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/modules/panels/css/panels.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/themes/lasillavacia/layouts/despliegue/despliegue.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/modules/webform/css/webform.css?pnanw3");
+</style>
+<link type="text/css" rel="stylesheet" href="//cdn.jsdelivr.net/bootstrap/3.3.5/css/bootstrap.css" media="all" />
+<style>
+@import url("https://lasillavacia.com/sites/all/themes/bootstrap/css/3.3.5/overrides.min.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/themes/lasillavacia/css/style.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/themes/lasillavacia/css/color.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/themes/lasillavacia/css/base.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/themes/lasillavacia/css/lsv_custom.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/themes/lasillavacia/css/responsive.css?pnanw3");
+@import url("https://lasillavacia.com/sites/all/themes/lasillavacia/css/responsive-custom.css?pnanw3");
+</style>
+<style>
+@import url("https://lasillavacia.com/sites/all/themes/lasillavacia/css/css_custom/lsv.css?pnanw3");
+</style>
+
+<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+<script src="https://lasillavacia.com/sites/default/files/js/js_SVq9iKRs_zDCxLo1JNNm7Cgvo_36UjooUTG_HwKIgLU.js"></script>
+<script>var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};</script>
+<script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script src="https://lasillavacia.com/sites/default/files/js/js_8pEoWnUr8ijKw1SExt7kT6gNr85MGL-IZJyQGXvJRP0.js"></script>
+<script src="//cdn.jsdelivr.net/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="https://lasillavacia.com/sites/default/files/js/js_F0ov_S_szgUNtSDl8l3rrDP4auQpjEkCMsPl0LRr8B0.js"></script>
+<script>googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs(true);
+});
+
+googletag.enableServices();</script>
+<script>var sindykPageURL = location.pathname + window.location.search,
+			    sindykReferer = document.referrer,
+			    sindykQueryString = window.location.search;
+				// If we get a Referer
+				if (sindykReferer) {
+				    // Get the domain of the referal
+				    var sindykRefererDomain = sindykReferer.replace('http://','').replace('https://','').replace('//','').replace('www.','').replace('.com','').replace('.html','').replace('.co','').replace('m.','').replace('.gt','').split(/[/?#]/)[0];
+				    sindykRefererDomain = sindykRefererDomain.substring(sindykRefererDomain.lastIndexOf(".", sindykRefererDomain.lastIndexOf(".") - 1) + 1);
+				    if (sindykQueryString.indexOf('&') >= 0) {
+				        // Check if the user already asigned a predefined source
+				        if (sindykQueryString.indexOf('utm_source') < 1) {
+				            sindykPageURL = sindykPageURL + "&utm_source=" + sindykRefererDomain;
+				        }
+				    } else if(sindykReferer.indexOf("facebook") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=facebook&utm_medium=social";   
+				    } else if(sindykReferer.indexOf("twitter.com") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=twitter&utm_medium=social";
+				    } else if(sindykReferer.indexOf("t.co") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=twitter&utm_medium=social";
+				    } else if(sindykReferer.indexOf("instagram") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=instagram&utm_medium=social";
+				    } else if(sindykReferer.indexOf("google") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=google&utm_medium=organic"; 
+				    } else if(sindykReferer.indexOf("googleapis.com") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=google&utm_medium=organic";
+				    } else if(sindykReferer.indexOf("discover.google.com") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=google&utm_medium=organic"; 
+				    } else if(sindykReferer.indexOf("es.m.wikipedia.org") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=wikipedia&utm_medium=referral";
+				    } else if(sindykReferer.indexOf("pulzo.com") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=pulzo&utm_medium=referral";
+				    } else if(sindykReferer.indexOf("lasillavacia.com") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=(none)&utm_medium=direct";
+				    } else if(sindykReferer.indexOf("m.lasillavacia.com") > 0) {
+				        sindykPageURL = sindykPageURL + "?utm_source=(none)&utm_medium=direct";
+				    } else {
+				        sindykPageURL = sindykPageURL + "?utm_source=" + sindykRefererDomain;
+				    }
+				}
+				if (screen.width <= 720) {
+				    var date = document.querySelector('[property="Creacion"]');
+				    if (null !== date) {
+				        date = date.getAttribute("content");
+				        var todayAtMidn = new Date("2017-12-31"),
+				            endDate = new Date(date);
+				        date = todayAtMidn.getTime() < endDate
+				    } else date = !0;
+				    var grap = document.querySelector('[name="interactiva"]');
+				    grap = null !== grap && "Si" === (grap = grap.getAttribute("content"));
+				    var str = location.pathname; - 1 == str.indexOf("quienesquien") && -1 == str.indexOf("especiales") && -1 == str.indexOf("superamigos") && -1 == str.indexOf("users") && -1 == str.indexOf("user") && -1 == str.indexOf("detector-de-mentiras") && -1 == str.indexOf("cuotas-politicas-en-las-regiones") && -1 == str.indexOf("odebrecht") && -1 == str.indexOf("content") && -1 == str.indexOf("/iq/") && -1 == str.indexOf("implementacion") && -1 == str.indexOf("mineria") && -1 == str.indexOf("eln-especial") && -1 == str.indexOf("antanasway") && -1 == str.indexOf("si-o-no") && -1 == str.indexOf("hagame-el-cruce") && -1 == str.indexOf("tarjeton") && -1 == str.indexOf("silla-academica/expertos") && -1 == str.indexOf("silla-academica/eventos") && -1 == str.indexOf("/frame") && -1 == str.indexOf("silla-datos") && date && !grap && (window.location = "https://m.lasillavacia.com" + sindykPageURL)
+				}</script>
+<script src="https://lasillavacia.com/sites/default/files/js/js_JDr-5G3VV031PQPsXm9qgm-9aBqVGXVvSGWmyNcJPNY.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-6370403-3", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://lasillavacia.com/sites/default/files/js/js_oxGZ9g_lnzPPEQpaYeQx08DOEnHlkBsNfy9_QJyDmH4.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"lasillavacia","theme_token":"avu80bbtQhLjwfFBsKNPbkyYETn9i_Jk9ATEAIXC-OE","js":{"modules\/statistics\/statistics.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"0":1,"\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/js\/bootstrap.min.js":1,"sites\/all\/modules\/custom\/buscador_datos_silla_vacia\/js\/buscador_datos_silla_vacia.js":1,"sites\/all\/modules\/fb_instant_articles\/modules\/fb_instant_articles_display\/js\/admin.js":1,"1":1,"2":1,"public:\/\/languages\/es_qzS07ZP60YFI-K4Pxy8F5OcyCsTngqiiqWOkqTV07gc.js":1,"sites\/all\/modules\/webform\/js\/webform.js":1,"sites\/all\/modules\/lsv_sillallena\/js\/comentarios.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"3":1,"sites\/all\/themes\/lasillavacia\/js\/lsv_funciones.js":1,"sites\/all\/themes\/lasillavacia\/js\/notificaciones.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/simplenews\/simplenews.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/themes\/lasillavacia\/layouts\/despliegue\/despliegue.css":1,"sites\/all\/modules\/webform\/css\/webform.css":1,"\/\/cdn.jsdelivr.net\/bootstrap\/3.3.5\/css\/bootstrap.css":1,"sites\/all\/themes\/bootstrap\/css\/3.3.5\/overrides.min.css":1,"sites\/all\/themes\/lasillavacia\/css\/style.css":1,"sites\/all\/themes\/lasillavacia\/css\/color.css":1,"sites\/all\/themes\/lasillavacia\/css\/base.css":1,"sites\/all\/themes\/lasillavacia\/css\/lsv_custom.css":1,"sites\/all\/themes\/lasillavacia\/css\/responsive.css":1,"sites\/all\/themes\/lasillavacia\/css\/responsive-custom.css":1,"sites\/all\/themes\/lasillavacia\/css\/css_custom\/lsv.css":1}},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"urlIsAjaxTrusted":{"\/silla-caribe\/gobernador-de-la-guajira-esta-profugo-pero-sigue-mandando-y-lanzo-cd-70026":true,"\/silla-caribe\/gobernador-de-la-guajira-esta-profugo-pero-sigue-mandando-y-lanzo-cd-70026?destination=node\/70026":true},"statistics":{"data":{"nid":"70026"},"url":"\/modules\/statistics\/statistics.php"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":1,"formHasError":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","triggerAutoclose":1,"title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+<script src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript">
+    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+    analytics.load("bqh4QXJ8PNrFM8syHZD4HmHprPrf6OQV");
+    analytics.page()
+    }}();
+  </script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-70026 node-type-historia">
+
+
+<div class="cuadro">
+<div class="row">
+<div class="col-md-8">
+<div class="texto">
+<p><strong>Uso de cookies</strong></p>
+<p>La Silla Vacía usa Cookies para mejorar la experiencia de nuestros usuarios. Al continuar navegando acepta nuestra <a href="https://lasillavacia.com/content/politica-de-cookies-66961" target="_blank">política</a>.</p>
+</div>
+</div>
+<div class="col-md-4">
+<div class="boton">
+<div class="quesi">
+listo
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="skip-link">
+<a href="#main-content" class="element-invisible element-focusable">Pasar al contenido principal</a>
+</div>
+<div class="wrapper" id="wrapper">
+<header id="header" class="content main-header">
+<div class="silla caribe silla-regional">
+<script type="text/javascript">
+	function runScript(valor, e) {
+		if (e.keyCode == 13) {
+			document.location.href="/buscar/" + valor;
+			return false;
+		}
+	}
+</script>
+<div class="clearfix"></div>
+<div role="navigation" class="barramenu navbar-default">
+<div class="navbar-header">
+<button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle collapsed hidden-xs">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<button type="button" data-target="#navbarCollapseSeciones" data-toggle="collapse" class="navbar-toggle collapsed boton-secciones">
+<div class="pull-left">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</div>
+<div class="labelsecc hidden-xs">SECCIONES</div>
+</button>
+<div id="navbarCollapseSeciones" class="collapse navbar-collapse">
+<ul class="navbar-secciones nav navbar-nav">
+<li>
+<a href="/elecciones2018">Elecciones</a> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Las Sillas <span class="glyphicon glyphicon-menu-right"></span></a>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li>
+<a href="/">Silla Nacional</a> </li>
+<li>
+<a href="https://lasillavacia.com/silla-cachaca">Silla Cachaca</a> </li>
+<li>
+<a href="/silla-caribe">Silla Caribe</a> </li>
+<li>
+<a href="/silla-santandereana">Silla Santandereana</a> </li>
+<li>
+<a href="/silla-pacifico">Silla Pacífico</a> </li>
+<li>
+<a href="https://lasillavacia.com/silla-paisa">Silla Paisa</a> </li>
+<li>
+<a href="https://lasillavacia.com/silla-sur">Silla Sur</a> </li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Especiales <span class="glyphicon glyphicon-menu-right"></span></a>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li>
+<a href="https://lasillavacia.com/cuotas-politicas-en-las-regiones">Cuotas políticas</a> </li>
+<li>
+<a href="https://lasillavacia.com/odebrecht">Odebrecht</a> </li>
+<li>
+<a href="https://lasillavacia.com/implementacion">Acuerdo con las Farc</a> </li>
+<li>
+<a href="http://www.lasillavacia.com/mineria">Minería</a> </li>
+<li>
+<a href="https://lasillavacia.com/mujeres">Mujeres que transforman</a> </li>
+<li>
+<a href="https://lasillavacia.com/eln-especial">Negociación con el ELN</a> </li>
+</ul>
+</li>
+<li>
+<a href="/silla-academica">La Silla Académica</a> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">La Silla Llena <span class="glyphicon glyphicon-menu-right"></span></a>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li>
+<a href="/silla-llena">Todas las redes</a> </li>
+<li>
+<a href="https://lasillavacia.com/silla-llena/podcasts">Podcasts</a> </li>
+<li>
+<a href="/silla-llena/blogoeconomia">Blogoeconomía</a> </li>
+<li>
+<a href="/silla-llena/red-cachaca">Red Cachaca</a> </li>
+<li>
+<a href="/silla-llena/red-caribe">Red Caribe</a> </li>
+<li>
+<a href="/silla-llena/red-de-la-educacion">Red de la Educación</a> </li>
+<li>
+<a href="/silla-llena/red-etnica">Red Étnica</a> </li>
+<li>
+<a href="/silla-llena/red-de-la-innovacion">Red de la Innovación</a> </li>
+<li>
+<a href="/silla-llena/red-lider">Red Líder</a> </li>
+<li>
+<a href="/silla-llena/red-de-las-mujeres">Red de las Mujeres</a> </li>
+<li>
+<a href="/silla-llena/red-de-la-paz">Red de la Paz</a> </li>
+<li>
+<a href="/silla-llena/red-pacifico">Red Pacífico</a> </li>
+<li>
+<a href="/silla-llena/red-paisa">Red Paisa</a> </li>
+<li>
+<a href="/silla-llena/red-rural">Red Rural</a> </li>
+<li>
+<a href="/silla-llena/red-santandereana">Red Santandereana</a> </li>
+<li>
+<a href="/silla-llena/red-social">Red Social</a> </li>
+<li>
+<a href="/silla-llena/red-verde">Red Verde</a> </li>
+<li>
+<a href="/silla-llena/red-sur">Red Sur</a> </li>
+</ul>
+</li>
+<li>
+<a href="https://lasillavacia.com/detector-de-mentiras">Detector de mentiras</a> </li>
+<li>
+<a href="/silla-datos">La Silla datos</a> </li>
+<li>
+<a href="/blogs">Opinión</a> </li>
+<li>
+<a href="https://lasillavacia.com/quienesquien">Quién es quién</a> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Proyectos anteriores <span class="glyphicon glyphicon-menu-right"></span></a>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li>
+<a href="/si-o-no">Sí o no</a> </li>
+<li>
+<a href="https://lasillavacia.com/antanasway">Antanasway</a> </li>
+<li>
+<a href="http://archivo.lasillavacia.com/atlas-politico">Atlas</a> </li>
+<li>
+<a href="https://lasillavacia.com/crimenycastigo/index.php">Crimen y castigo</a> </li>
+<li>
+<a href="/labutaca">La butaca</a> </li>
+<li>
+<a href="/polimuseo">Polimuseo</a> </li>
+<li>
+<a href="http://proyectorosa.com">Proyecto Rosa</a> </li>
+</ul>
+</li>
+<li>
+<a href="https://lasillavacia.com/siononinos">Sí o No de los Niños</a> </li>
+<li class="loginresp hidden-lg hidden-md">
+<a href="/user/login">Login</a>
+</li>
+<li class="loginresp hidden-lg hidden-md">
+<a href="/user/register">Regístrese</a>
+</li>
+</ul>
+</div>
+<div class="divlogo">
+<a href="/silla-caribe" alt="La Silla Caribe">
+<img width="240" src="https://lasillavacia.com/sites/all/themes/lasillavacia/images/logo/logos-sillas-caribe.svg">
+</a>
+</div>
+<div class="tools">
+<div class="search">
+<button id="boton-buscador">Buscar</button>
+</div>
+<a class="login-link" href="/user/login?destination=node/70026">Login</a>
+<span>|</span>
+<a href="/user/register">Registrarse</a>
+<div class="login-block" style="display:none;">
+<div class="marcador"></div>
+<p>¿Ya tiene cuenta?</p>
+<form action="/user?destination=node/70026" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-item-name form-type-textfield form-group"><input placeholder="Nombre de usuario o email*" size="23" class="form-control form-text required" type="text" id="edit-name" name="name" value="" maxlength="60" /></div><div class="form-item form-item-pass form-type-password form-group"><input placeholder="Contraseña*" size="23" class="form-control form-text required" type="password" id="edit-pass" name="pass" maxlength="128" /></div><div class="link-pw"><a href="/user/password" title="Solicita una contraseña nueva por correo electrónico.">Olvidé mi contraseña</a></div><input type="hidden" name="form_build_id" value="form-mOzXZsJ9CQso-v-EZ_MwzWIGglwRjJ3mGpfoF671PZY" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper form-group" id="edit-actions--2"><button type="submit" id="edit-submit--2" name="op" value="Iniciar sesión" class="btn btn-primary form-submit">Iniciar sesión</button>
+</div></div></form> </div>
+<span>|</span>
+<h5 class="botondonar1 condensed">
+<a href="http://www.lasillavacia.com/superamigos">sea superamigo</a>
+</h5>
+</div>
+<h4 class="botondonar1 condensed">
+<a href="/superamigos">sea superamigo</a>
+</h4>
+<div class="search-resp">
+<button id="boton-buscador-resp">Buscar</button>
+</div>
+</div>
+<div id="navbarCollapse" class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li>
+<a href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a> </li>
+<li>
+<a href="/silla-cachaca">La Cachaca</a> </li>
+<li>
+<a href="/silla-caribe">La Caribe</a> </li>
+<li>
+<a href="/silla-pacifico">La Pacífico</a> </li>
+<li>
+<a href="/silla-paisa">La Paisa</a> </li>
+<li>
+<a href="/silla-santandereana">La Santandereana</a> </li>
+<li>
+<a href="/silla-sur">La Sur</a> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Especiales <span class="caret"></span></a>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li>
+<a href="/elecciones2018">Elecciones</a> </li>
+<li>
+<a href="https://lasillavacia.com/cuotas-politicas-en-las-regiones">Cuotas políticas</a> </li>
+<li>
+<a href="https://lasillavacia.com/odebrecht">Odebrecht</a> </li>
+<li>
+<a href="https://lasillavacia.com/implementacion">Acuerdo con las Farc</a> </li>
+<li>
+<a href="http://www.lasillavacia.com/mineria">Minería</a> </li>
+<li>
+<a href="https://lasillavacia.com/mujeres">Mujeres que transforman</a> </li>
+<li>
+<a href="https://lasillavacia.com/eln-especial">Negociación con el ELN</a> </li>
+</ul>
+</li>
+<li>
+<a href="https://lasillavacia.com/detector-de-mentiras">Detector</a> </li>
+<li>
+<a href="https://lasillavacia.com/quienesquien">Q&Q</a> </li>
+<li>
+<a href="/silla-academica">La académica</a> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">La Llena <span class="caret"></span></a>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li>
+<a href="/silla-llena">Todas las redes</a> </li>
+<li>
+<a href="/silla-llena/podcasts">Podcasts</a> </li>
+<li>
+<a href="/silla-llena/blogoeconomia">Blogoeconomía</a> </li>
+<li>
+<a href="/silla-llena/red-cachaca">Red Cachaca</a> </li>
+<li>
+<a href="/silla-llena/red-caribe">Red Caribe</a> </li>
+<li>
+<a href="/silla-llena/red-de-la-educacion">Red de la Educación</a> </li>
+<li>
+<a href="/silla-llena/red-etnica">Red Étnica</a> </li>
+<li>
+<a href="/silla-llena/red-de-la-innovacion">Red de la Innovación</a> </li>
+<li>
+<a href="/silla-llena/red-lider">Red Líder</a> </li>
+<li>
+<a href="/silla-llena/red-de-las-mujeres">Red de las Mujeres</a> </li>
+<li>
+<a href="/silla-llena/red-de-la-paz">Red de la Paz</a> </li>
+<li>
+<a href="/silla-llena/red-pacifico">Red Pacífico</a> </li>
+<li>
+<a href="/silla-llena/red-paisa">Red Paisa</a> </li>
+<li>
+<a href="/silla-llena/red-rural">Red Rural</a> </li>
+<li>
+<a href="/silla-llena/red-santandereana">Red Santandereana</a> </li>
+<li>
+<a href="/silla-llena/red-social">Red Social</a> </li>
+<li>
+<a href="/silla-llena/red-sur">Red Sur</a> </li>
+<li>
+<a href="/silla-llena/red-verde">Red Verde</a> </li>
+</ul>
+</li>
+<li class="loginresp hidden-lg hidden-md">
+<a href="/user/login">Login</a>
+</li>
+<li class="loginresp hidden-lg hidden-md">
+<a href="/user/register">Regístrese</a>
+</li>
+</ul>
+</div>
+<div class="buscador-header">
+<i class="glyphicon glyphicon-search"></i>
+<input type="text" id="buscar-textfield" onkeypress="return runScript(this.value, event)" placeholder="Buscar...">
+<a class="boton-buscar" onclick="location.href='/buscar/' + document.getElementById('buscar-textfield').value">
+Ir
+</a>
+<a id="cerrar-buscador" class="hidden-xs hidden-sm">
+<img width="40" src="/sites/all/themes/lasillavacia/images/iconos/iconos_close.svg" alt="Cerrar">
+</a>
+</div>
+</div>
+<header id="header" class="content menufixed hidden-sm hidden-xs menu-collapsed" style="display: none;">
+<div class="clearfix"></div>
+<div role="navigation" class="navbar-default">
+<div class="navbar-header">
+<button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+
+<div class="search-resp">
+<button id="boton-buscador-peq-resp">Buscar</button>
+</div>
+</div>
+<div id="navbarCollapse" class="collapse navbar-collapse">
+<ul class="nav navbar-nav">
+<li>
+<a href="/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a> </li>
+<li>
+<a href="/silla-cachaca">La Cachaca</a> </li>
+<li>
+<a href="/silla-caribe">La Caribe</a> </li>
+<li>
+<a href="/silla-pacifico">La Pacífico</a> </li>
+<li>
+<a href="/silla-paisa">La Paisa</a> </li>
+<li>
+<a href="/silla-santandereana">La Santandereana</a> </li>
+<li>
+<a href="/silla-sur">La Sur</a> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Especiales <span class="caret"></span></a>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li>
+<a href="/elecciones2018">Elecciones</a> </li>
+<li>
+<a href="https://lasillavacia.com/cuotas-politicas-en-las-regiones">Cuotas políticas</a> </li>
+<li>
+<a href="https://lasillavacia.com/odebrecht">Odebrecht</a> </li>
+<li>
+<a href="https://lasillavacia.com/implementacion">Acuerdo con las Farc</a> </li>
+<li>
+<a href="http://www.lasillavacia.com/mineria">Minería</a> </li>
+<li>
+<a href="https://lasillavacia.com/mujeres">Mujeres que transforman</a> </li>
+<li>
+<a href="https://lasillavacia.com/eln-especial">Negociación con el ELN</a> </li>
+</ul>
+</li>
+<li>
+<a href="https://lasillavacia.com/detector-de-mentiras">Detector</a> </li>
+<li>
+<a href="https://lasillavacia.com/quienesquien">Q&Q</a> </li>
+<li>
+<a href="/silla-academica">La académica</a> </li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">La Llena <span class="caret"></span></a>
+<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+<li>
+<a href="/silla-llena">Todas las redes</a> </li>
+<li>
+<a href="/silla-llena/podcasts">Podcasts</a>  </li>
+<li>
+<a href="/silla-llena/blogoeconomia">Blogoeconomía</a> </li>
+<li>
+<a href="/silla-llena/red-cachaca">Red Cachaca</a> </li>
+<li>
+<a href="/silla-llena/red-caribe">Red Caribe</a> </li>
+<li>
+<a href="/silla-llena/red-de-la-educacion">Red de la Educación</a> </li>
+<li>
+<a href="/silla-llena/red-etnica">Red Étnica</a> </li>
+<li>
+<a href="/silla-llena/red-de-la-innovacion">Red de la Innovación</a> </li>
+<li>
+<a href="/silla-llena/red-lider">Red Líder</a> </li>
+<li>
+<a href="/silla-llena/red-de-las-mujeres">Red de las Mujeres</a> </li>
+<li>
+<a href="/silla-llena/red-de-la-paz">Red de la Paz</a> </li>
+<li>
+<a href="/silla-llena/red-pacifico">Red Pacífico</a> </li>
+<li>
+<a href="/silla-llena/red-paisa">Red Paisa</a> </li>
+<li>
+<a href="/silla-llena/red-rural">Red Rural</a> </li>
+<li>
+<a href="/silla-llena/red-santandereana">Red Santandereana</a> </li>
+<li>
+<a href="/silla-llena/red-social">Red Social</a> </li>
+<li>
+<a href="/silla-llena/red-sur">Red Sur</a> </li>
+<li>
+<a href="/silla-llena/red-verde">Red Verde</a> </li>
+</ul>
+</li>
+</ul>
+
+<div class="search-resp">
+<button id="boton-buscador-resp">Buscar</button>
+</div>
+</div>
+<div class="search-peq">
+<i class="glyphicon glyphicon-search"></i>
+<input type="text" id="buscar-textfield-peq" onkeypress="return runScript(this.value, event)" placeholder="Buscar...">
+<a class="boton-buscar" onclick="location.href='/buscar/' + document.getElementById('buscar-textfield-peq').value">
+Ir
+</a>
+<a id="cerrar-buscador-peq">
+<img width="40" src="/sites/all/themes/lasillavacia/images/iconos/iconos_close.svg" alt="Cerrar">
+</a>
+</div>
+</div>
+</header>
+</div> </header> 
+<div class="tabs"></div><div class="clearfix"></div> <div class="clearfix"></div>
+<div id="content" class="article-full content">
+<article class="news col-md-12">
+<div class="article-meta col-sm-12 col-md-12 col-lg-11 col-lg-offset-1">
+<h6 class="category color-silla-caribe">
+<a href="/silla-caribe">Silla Caribe</a> </h6>
+<p class="tags">
+<span>
+<a href="/historias/cartel-de-la-contratacion">Corrupción</a>
+</span><span>
+<a href="/hilos-temáticos/caribe">Caribe</a>
+</span> </p>
+<h1 class="article-title">Gobernador de La Guajira está prófugo, pero sigue mandando y lanzó CD</h1>
+</div>
+<div class="clearfix"></div>
+<div class="col-sm-12 col-md-12 col-lg-11 col-lg-offset-1 info-author">
+<div class="author author-top">
+<div class="editor col-md-9 row">
+<p>Por
+<span>
+<a href="/user/10011368">Juan Pablo Pérez B.</a> </span>
+<span> ·
+14 de Febrero de 2019 </span>
+</p>
+</div>
+<div class="col-sm-12 col-md-2 col-md-offset-1 redes">
+<section class="share-container share-containerr-70026">
+<ul>
+<li class="twitter redes">
+<a href="#">
+<img src="/sites/all/themes/lasillavacia/images/iconos/iconos_twitter-header.svg" alt="Tweet">
+</a>
+</li>
+<li class="facebook redes">
+<a href="#">
+<img src="/sites/all/themes/lasillavacia/images/iconos/iconos_facebook-header.svg" alt="">
+</a>
+</li>
+<li class="whatsapp redes visible-xs">
+<a href="whatsapp://send?text=Gobernador+de+La+Guajira+est%C3%A1+pr%C3%B3fugo%2C+pero+sigue+mandando+y+lanz%C3%B3+CD+-+https%3A%2F%2Flasillavacia.com%2Fnode%2F70026" data-action="share/whatsapp/share" target="_blank"><img src="/sites/all/themes/lasillavacia/images/iconos/iconos_watsup-header.svg" alt=""></a>
+</li>
+<li class="email redes"><a href="/cdn-cgi/l/email-protection#cff0bcbaada5aaacbbf288a0adaabda1aeaba0bdefabaaef83aeef88baaea5a6bdaeefaabcbb0c6eefbfbd0c7ca9baa8a0e3efbfaabda0efbca6a8baaaefa2aea1abaea1aba0efb6efa3aea1b50c7cef8c8be9ada0abb6f299a6bca6bbaaefa3aeefa1a0bba6aca6aeef88a0adaabda1aeaba0bdefabaaef83aeef88baaea5a6bdaeefaabcbb0c6eefbfbd0c7ca9baa8a0e3efbfaabda0efbca6a8baaaefa2aea1abaea1aba0efb6efa3aea1b50c7cef8c8befaaa1efaaa3efbca6a8baa6aaa1bbaaefaaa1a3aeacaaf5efa7bbbbbfbcf5e0e0a3aebca6a3a3aeb9aeaca6aee1aca0a2e0a1a0abaae0f8fffffdf9"><img src="/sites/all/themes/lasillavacia/images/iconos/iconos_mail-header.svg" alt=""></a></li>
+</ul>
+</section>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://connect.facebook.net/es_ES/all.js" type="text/javascript" charset="utf-8">
+</script>
+<script type="text/javascript">
+jQuery(function(){
+  jQuery(".share-containerr-70026 .facebook a").click(function(event){
+    event.preventDefault();
+
+    FB.init({
+	    appId      : '707991449304858',
+	    status     : true,
+	    xfbml      : true,
+	    version    : 'v2.4' // or v2.0, v2.1, v2.2, v2.3
+	  });
+    
+    FB.ui({
+    	// ID de la cuenta de Jerrejerre, cambiar por la de LSV
+		//app_id: "866382070105753",
+		app_id: "707991449304858",
+		method: 'feed',
+		link: 'https://lasillavacia.com/node/70026',
+		picture: 'https://lasillavacia.com/sites/default/files/portadas/wilmeralbumcondenado.jpg',
+		name: 'Gobernador de La Guajira está prófugo, pero sigue mandando y lanzó CD'
+		},
+		function(response) {
+         /*if (response && response.post_id) {
+           alert('Post was published.');
+         } else {
+           alert('Post was not published.');
+         }*/
+       });
+  });
+
+  jQuery(".share-containerr-70026 .twitter a").click(function(event){
+    event.preventDefault();
+    
+    window.open('https://twitter.com/intent/tweet?text=Gobernador de La Guajira está prófugo, pero sigue mandando y lanzó CD&url=https://lasillavacia.com/node/70026', 
+    	'_blank', 
+    	'toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=600, height=450');
+  });
+
+});
+</script> <div class="clearfix"></div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<section class="article-content col-sm-12 col-md-8 col-lg-8 col-lg-offset-1">
+<section class="article-main-body">
+<div class="img-container">
+<div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/portadas/wilmeralbumcondenado.jpg" alt="" /></div></div></div> </div>
+<div class="author">
+<div class="col-sm-3">
+<p class="read">
+<span>
+13280 </span>
+</p>
+<p class="comments"><span>1</span></p>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="body-node-historia">
+<p>
+<div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><style type="text/css">.img-container {display:none;}
+</style>
+<p dir="ltr">El nuevo capítulo del desgobierno en que vive La Guajira linda con el absurdo.</p>
+<p dir="ltr">A la crisis social e institucional que padece el segundo departamento más pobre del país se le suma un nuevo e increíble drama: el gobernador titular, Wilmer González (avalado por La U y los conservadores), huye de la Justicia, mientras su cuestionado grupo sigue manejando el timón del departamento y él hasta lanzó CD con canciones religiosas.</p>
+<p dir="ltr">En octubre pasado, González fue condenado en primera instancia por los delitos electorales cometidos durante su elección atípica en el 2016.</p>
+<p>Se convirtió en el primer aforado&nbsp;en ser condenado por la <a href="http://es.presidencia.gov.co/normativa/normativa/ACTO%20LEGISLATIVO%20N%C2%B0%2001%20DE%2018%20DE%20ENERO%20DE%202018.pdf" target="_blank">recién nacida</a> sala de primera instancia de la Corte Suprema.</p>
+<p dir="ltr">Su defensa apeló, pero él debía dejar el cargo debido a que la Corte libró una orden de captura en su contra.</p>
+<p dir="ltr">Sin embargo, justo cuando el alto tribunal anunció que lo iba a condenar y estaba por establecerse el monto de su condena, presentó una incapacidad médica y dejó encargado a un secretario de despacho de su cuerda.</p>
+<p dir="ltr">La Fiscalía y la Corte le dijeron&nbsp;a La Silla Caribe que está considerado como prófugo, pues nadie conoce su paradero y <a href="https://www.elheraldo.co/la-guajira/continua-el-misterio-del-gobernador-de-la-guajira-596539" target="_blank">no se le ve desde el 8 de noviembre pasado</a>.</p>
+<p dir="ltr">Aun así, en medio de <a href="https://www.elheraldo.co/la-guajira/continua-el-misterio-del-gobernador-de-la-guajira-596539" target="_blank">rumores</a>&nbsp;de que se halla escondido en la Alta Guajira, amigos y familiares de González presentaron a mediados de mes pasado un álbum discográfico de canciones religiosas escritas por él e interpretadas por varios cantantes.</p>
+<p dir="ltr"><div class="media media-element-container media-default"><div id="file-84005" class="file file-image file-image-jpeg">
+<h2 class="element-invisible"><a href="/files/whatsappimage2019-02-13at63630pmjpeg">whatsapp_image_2019-02-13_at_6.36.30_pm.jpeg</a></h2>
+<div class="content">
+<img height="671" width="750" style="width: 100%;" class="media-element file-default img-responsive" typeof="foaf:Image" src="https://lasillavacia.com/sites/default/files/whatsapp_image_2019-02-13_at_6.36.30_pm.jpeg" alt="" /> </div>
+</div>
+</div></p>
+<p dir="ltr">El disco consta de cuatro canciones cristianas que el Gobernador <a href="https://laguajirahoy.com/2019/01/las-letras-del-exgobernador-de-la-guajira-fueron-expresadas-en-un-cd-musical.html" target="_blank">compuso</a> durante los 19 meses que estuvo recluido en la Escuela de Caballería de Bogotá, antes de quedar en libertad por revocatoria temporal de su medida de aseguramiento.</p>
+<h2 class="intertitular">El caso</h2>
+<p>El 24 de octubre pasado se supo que Wilmer González sería condenado, pero no fue publicada la sentencia.</p>
+<p dir="ltr">Luego, el 13 de noviembre, <a href="http://www.cortesuprema.gov.co/corte/index.php/2018/11/13/sentencia-de-10-anos-de-prision-contra-gobernador-de-la-guajira/" target="_blank">se supo</a>&nbsp;que su condena en primera instancia es de 10 años de cárcel por los delitos de cohecho por dar u ofrecer, falsedad en documento privado y fraude procesal por las irregularidades cometidas durante su elección como gobernador.</p>
+<p dir="ltr">Además, debe pagar una multa de poco más de 780 millones de pesos y quedó inhabilitado por once años para ocupar un cargo público.</p>
+<p dir="ltr">Wilmer González fue <a href="https://lasillavacia.com/historia/la-guajira-perdio-el-de-kiko-pero-gano-el-de-cielo-58624">&nbsp;elegido gobernador en las elecciones atípicas</a> del 6 de noviembre de 2016, con el apoyo de la cuestionada cacica de Uribia, Cielo Redondo Mindiola.</p>
+<p dir="ltr">Eso ocurrió luego de que a la entonces gobernadora Oneida Pinto Pérez (investigada por corrupción y exmilitante de Cambio Radical) le fuera declarada nula su elección por haberse candidatizado estando inhabilitada.</p>
+<p dir="ltr"><a href="https://lasillavacia.com/historia/se-cayo-gobernador-guajiro-pero-su-cuestionada-madrina-puede-quedar-con-poder-59786">Como lo contamos</a>, poco tiempo después, el 17 de febrero de 2017, el mandatario cayó detenido por haber cometido varias irregularidades electorales para elegirse.</p>
+<p dir="ltr">Según la Fiscalía, la investigación en su contra surgió a partir de intercepciones de unas llamadas -entre Wilmer y varios de sus aliados- en las que queda claro que su triunfo estuvo mediado por la entrega de mercados, chivos, transporte y refrigerios.</p>
+<p dir="ltr">El día de esas atípicas, en un twitterazo y crónica en vivo, en La Silla Caribe habíamos revelado la repartija de refrigerios y todo el trasteo de votantes que se vió en esa jornada a favor de González.</p>
+<blockquote class="twitter-tweet" data-lang="es">
+<p dir="ltr" lang="es">Sigue la 'descarga' de votantes traídos de rancherías. Aquí, en puesto de votación institución Eusebio Septímo de Manaure <a href="https://twitter.com/hashtag/lasillaguajira?src=hash&amp;ref_src=twsrc%5Etfw">#lasillaguajira</a> <a href="https://t.co/chZWCzpRAA">pic.twitter.com/chZWCzpRAA</a></p>
+— La Silla Caribe (@lasillacaribe) <a href="https://twitter.com/lasillacaribe/status/795290374789021696?ref_src=twsrc%5Etfw">6 de noviembre de 2016</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="es">
+<p dir="ltr" lang="es">En Riohacha, carro con refigerios en la sede de Wilmer González. Líderes reciben cajas que contienen pasteles, jugos y agua.<a href="https://twitter.com/hashtag/lasillaguajira?src=hash&amp;ref_src=twsrc%5Etfw">#lasillaguajira</a> <a href="https://t.co/uaNvlaHfU4">pic.twitter.com/uaNvlaHfU4</a></p>
+— La Silla Caribe (@lasillacaribe) <a href="https://twitter.com/lasillacaribe/status/795281704806187008?ref_src=twsrc%5Etfw">6 de noviembre de 2016</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div id="field-contenido-relacionado-insertar">&nbsp;</div>
+<p>Como también contamos en <a href="https://lasillavacia.com/silla-caribe/las-dadivas-de-un-gobernador-que-quieren-disfrazar-de-tradicion-wayuu-68644" target="_blank">La Silla Caribe</a>, a lo largo del proceso judicial, defensores suyos intentaron disfrazar esta entrega de dádivas como una antigua tradición wayuu; algo con lo que muchos líderes y pensadores de esta cultura indígena no están de acuerdo.</p>
+<p dir="ltr">González permaneció detenido hasta el 11 de septiembre del año pasado, cuando quedó en libertad por revocatoria de la medida de aseguramiento.</p>
+<p dir="ltr">Siete días después, volvió a posesionarse hasta que a finales de octubre supo que iba a ser condenado.</p>
+<p dir="ltr">Por esos días, de acuerdo a lo que nos contó uno de sus abogados, Raúl Cadena Lozano, González fue incapacitado por una clínica y dejó encargado a su secretario de Gobierno Wilson Rojas.</p>
+<h2 class="intertitular">El absurdo</h2>
+<p>La Silla Caribe buscó al Ministerio del Interior para consultar por la situación del Gobernador con apelación pendiente, pero también con una orden de captura vigente, y no respondieron.</p>
+<p dir="ltr">Una fuente extraoficialmente nos comentó que están a la espera de la segunda instancia que revoque o confirme la condena de González, para&nbsp;empezar el proceso de designar a un nuevo gobernador.</p>
+<p dir="ltr">“Todavía el fallo no está en firme, ya que existe la presunción de inocencia”, nos dijo por su parte su abogado, Raúl Cadena.</p>
+<p dir="ltr">A raíz de que el Ministerio no ha suspendido a González para, así, iniciar el proceso de conformación de terna y de designación de un gobernador encargado, su secretario de Gobierno, Wilson Rojas, sigue al mando en línea con los designios de su actual líder político.</p>
+<p dir="ltr">De acuerdo a lo que nos contó un funcionario conocedor de la política local, Rojas no es precisamente del grupo de González, tiene un pequeño grupo propio y ha estado alineado con varios políticos guajiros.</p>
+<p dir="ltr">Ha hecho parte de los gobiernos de los exgobernadores José Luis González Crespo (condenado por irregularidades en la contratación), Juan Francisco ‘Kiko’ Gómez Cerchar (condenado por homicidio) y José María ‘Chemitas’ Ballesteros (investigado&nbsp;por corrupción).</p>
+<p dir="ltr">Ahorita, no obstante, está con el grupo de Wilmer González.</p>
+<p dir="ltr">Evidencia de esto es que Rojas no ha hecho grandes cambios de gabinete y además ha nombrado fichas de aliados de González.</p>
+<p dir="ltr">Por ejemplo, el pasado 19 de noviembre, a los pocos días de asumir el cargo, <a href="http://www.laguajira.gov.co/web/attachments/article/4948/Decreto%20215%20de%202018.pdf" target="_blank">nombró</a>&nbsp;como Director de Planeación a un miembro del grupo de la cuestionada cacica Cielo Redondo, que apoyó al Gobernador en campaña.</p>
+<p dir="ltr">Se trata de Fadner Javid Fonseca, quien venía de trabajar como <a href="http://www.uribia-laguajira.gov.co/Transparencia/PlaneacionGestionyControl/PLAN%20%20%20MUNICIPAL%20DE%20%20DESARROLLO%20DE%20URIBIA%20%20VERSION%20%20FINAL%20%20MAS%20%20FIRMAS%20%20MESA%20DIRECTIVA%20%20Y%20%20PARRAFO.pdf" target="_blank">secretario de Obras Públicas en la Alcaldía de Uribia</a> bajo el mando de Luis Enrique ‘el Negrito’ Solano Redondo, hijo de Cielo Redondo.</p>
+<p dir="ltr">Además del manejo de la Gobernación, Wilmer González tiene, como contamos en <a href="https://lasillavacia.com/silla-caribe/grupo-de-exgobernador-condenado-gana-poder-en-riohacha-69240" target="_blank">La Silla Caribe</a>, una ficha en la Alcaldía de Riohacha que lidera el recién electo alcalde uribista Juan Carlos Suaza.</p>
+<p dir="ltr">Con todo ese poder y oculto, la&nbsp;única&nbsp;aparición&nbsp;que por estos días habrá&nbsp;del prófugo Gobernador será por medio de&nbsp;las canciones de su nuevo álbum musical: ‘Canciones cristianas’, que algunos de sus seguidores empiezan a escuchar.</p>
+</div></div></div> </p>
+</div>
+<div class="col-sm-12" style="margin-bottom:40px;">
+<div class="clearfix"></div>
+</div>
+</section>
+<ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/70026%23comment-form">Inicie sesión</a> o <a href="/user/register?destination=node/70026%23comment-form">regístrese</a> para comentar</span></li>
+</ul> <div id="comments" class="opinion-debate col-sm-12 comment-wrapper">
+<h4 class="subtitle-debate">Comentarios (1)</h4>
+<a id="comment-215309"></a>
+<article class="article article-follow comment" id="comment-215309">
+<div class="article-content">
+<div class="follow-user img-author col-sm-2 hidden-xs hidden-sm">
+<div class="img-container">
+<img alt="orlandoarroyave" src="/sites/all/themes/lasillavacia/images/picture-default.jpg" />
+</div>
+</div>
+<div class="col-sm-10 elcomentario">
+<h6 class="category">
+<strong>
+<a href="/users/orlandoarroyave">Orlando Arroyave </a>
+<br><p class="cargo hidden-xs">psicólogo</p>
+</strong>
+</h6>
+<p class="date">14 de Febrero</p>
+<div class="clearfix"></div>
+<p class="seguidores"><strong>0</strong> Seguidores</p>
+<p class="comment-first">
+Corrupto y cristiano;un buen combinado para conseguir votos. Claro, a nadie se<span class="ellipsis">...</span><a href="#" class="more">+ ver más</a> </p>
+<p class="comment-rest hide">Corrupto y cristiano;un buen combinado para conseguir votos. Claro, a nadie se le condena antes de juicio...pero este político ni siquiera se presenta para defenderse de los cargos. Seguro es un pecador que vive de la corrupción,pero sabe que su dios cristiano perdona a todos;incluyendo el que roba la plata de las gentes pobres de la Guajira.Los políticos de la Guajira son la plaga de esta región.</p>
+<div class="participation">
+<div class="answer" comment="215309">
+<span><ul class="links list-inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/70026%23comment-form">Inicie sesión</a> o <a href="/user/register?destination=node/70026%23comment-form">regístrese</a> para comentar</span></li>
+</ul></span>
+</div>
+<div class="usuarios-respuesta"></div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+</article>
+</div>
+</section>
+<div id="field-contenido-relacionado" class="hide">
+<div class="context col-sm-4">
+<h4>Contexto</h4>
+<div class="field field-name-field-contenido-relacionado field-type-entityreference field-label-hidden"><div class="field-items"><div class="field-item even"><article class="article row ">
+<div class="article-content">
+<h6 class="category color-silla-caribe">
+<a href="/silla-caribe">Silla Caribe</a> </h6>
+<div class="clearfix"></div>
+<div class="image-new">
+<div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/styles/contenido_contexto/public/portadas/wilmer_gonzalez.jpg?itok=McXnZoSO" alt="Wilmer González, gobernador de La Guajira." title="Wilmer González, gobernador de La Guajira." /></div></div></div> </div>
+<h3>
+<a href="/silla-caribe/las-dadivas-de-un-gobernador-que-quieren-disfrazar-de-tradicion-wayuu-68644">Las dádivas de un Gobernador que quieren disfrazar de “tradición wayuu”</a>
+</h3>
+</div>
+</article></div></div></div> </div>
+</div>
+<div class="visible-xs visible-sm">
+<div id="field-contexto-movil" style="display: none;"></div>
+<div id="vercontexto">
+CONTEXTO <span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span>
+</div>
+</div>
+<div id="field-debate-relacionado" class="hide">
+<div class="debate col-md-11">
+</div>
+</div>
+<script type="text/javascript">
+  jQuery(function($)
+    {
+      if ($("#field-contenido-relacionado-insertar").length)
+      { 
+        $("#field-contenido-relacionado")
+            .removeClass( "hide" );
+        if($(window).width()>768){
+          $("#field-contenido-relacionado")
+            .appendTo("#field-contenido-relacionado-insertar");
+        }
+        else {
+          $("#field-contenido-relacionado")
+            .appendTo("#field-contexto-movil");
+        }
+        $("#vercontexto").click(function(){
+          $("#field-contexto-movil").fadeToggle();
+          $(this).find('span').toggleClass('glyphicon-chevron-down');
+        });
+      }
+      if ($("#field-debate-relacionado-insertar").length)
+      {
+        $("#field-debate-relacionado")
+          .removeClass( "hide" );
+        $("#field-debate-relacionado")
+          .appendTo("#field-debate-relacionado-insertar");
+      }
+    }
+  );
+</script>
+<aside class="article-sidebar col-md-4 col-lg-3 hidden-sm">
+<section class="related-publications">
+<h4 class="title-sidebar">
+<span class="category color-iq">
+<a href="/silla-academica">Publicaciones Seleccionadas</a>
+</span>
+</h4> <article class="article book">
+
+<a href="/iq/universidad-del-rosario/la-palabra-el-discurso-y-el-dialogo-69748"><div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/portadas_libros/captura_de_pantalla_2019-01-29_a_las_4.24.20_p._m.png" alt="" /></div></div></div></a>
+<h3><a href="/iq/universidad-del-rosario/la-palabra-el-discurso-y-el-dialogo-69748#despliegue">La Palabra, el Discurso y el Diálogo</a></h3>
+<div class="clearfix"></div>
+</article> <article class="article book">
+
+<a href="/iq/universidad-del-norte/gestion-territorial-y-violencia-armada-los-riesgos-para-la-gobernabilidad"><div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/portadas_libros/captura_de_pantalla_2018-10-05_a_las_2.02.56_p._m.png" alt="" /></div></div></div></a>
+<h3><a href="/iq/universidad-del-norte/gestion-territorial-y-violencia-armada-los-riesgos-para-la-gobernabilidad#despliegue">Gestión territorial y violencia armada: los riesgos para la gobernabilidad local en tres municipios del Caribe colombiano</a></h3>
+<div class="clearfix"></div>
+</article> <article class="article book">
+
+<a href="/iq/universidad-externado-de-colombia/el-fracaso-de-la-lucha-anticorrupcion-en-colombia-67601"><div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/portadas_libros/articulo.jpg" alt="" /></div></div></div></a>
+<h3><a href="/iq/universidad-externado-de-colombia/el-fracaso-de-la-lucha-anticorrupcion-en-colombia-67601#despliegue">El fracaso de la lucha anticorrupción en Colombia</a></h3>
+<div class="clearfix"></div>
+</article> <article class="article book">
+
+<a href="/iq/pontificia-universidad-javeriana/efectos-de-la-explotacion-de-la-gran-mineria-de-oro-y-la"><div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/portadas_libros/mineria-de-oro-choco.jpg" alt="" /></div></div></div></a>
+<h3><a href="/iq/pontificia-universidad-javeriana/efectos-de-la-explotacion-de-la-gran-mineria-de-oro-y-la#despliegue">Efectos de la explotación de la gran minería de oro y la política de regalías sobre la sostenibilidad territorial del departamento del Chocó</a></h3>
+<div class="clearfix"></div>
+</article> <article class="article book">
+
+<a href="/iq/universidad-de-los-andes-facultad-ciencias-sociales/agency-loss-and-strategic-redesign"><div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/portadas_libros/unnamed_1.jpg" alt="" /></div></div></div></a>
+<h3><a href="/iq/universidad-de-los-andes-facultad-ciencias-sociales/agency-loss-and-strategic-redesign#despliegue">Agency Loss and the Strategic Redesign of the Presidential Office in Colombia</a></h3>
+<div class="clearfix"></div>
+</article> <article class="article book">
+
+<a href="/iq/universidad-externado-de-colombia/corrupcion-en-colombia-tomo-4-corrupcion-estado-e-instrumentos"><div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/portadas_libros/corrupcion4.png" alt="" /></div></div></div></a>
+<h3><a href="/iq/universidad-externado-de-colombia/corrupcion-en-colombia-tomo-4-corrupcion-estado-e-instrumentos#despliegue">CORRUPCIÓN EN COLOMBIA TOMO 4 CORRUPCIÓN, ESTADO E INSTRUMENTOS JURÍDICOS</a></h3>
+<div class="clearfix"></div>
+</article>
+</section>
+<section class="related-profiles row">
+<h4 class="title-sidebar">
+<span class="category color-quien-es-quien">
+Quien es quien</span>
+Perfiles
+</h4>
+<div class="information row">
+<p>¿Tiene más información sobre lo que publicamos o nueva información que deba salir en este espacio?</p>
+<a href="/cuentenos">Cuentenos lo que sabe</a>
+<div class="clearfix"></div>
+<div class="cuentenos" style="display:none">
+<form class="webform-client-form webform-client-form-56386" enctype="multipart/form-data" action="/silla-caribe/gobernador-de-la-guajira-esta-profugo-pero-sigue-mandando-y-lanzo-cd-70026" method="post" id="webform-client-form-56386" accept-charset="UTF-8"><div><div class="form-item webform-component webform-component-textfield webform-component--nombres form-group form-item form-item-submitted-nombres form-type-textfield form-group"> <label class="control-label" for="edit-submitted-nombres">Nombres <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+<input required="required" class="form-control form-text required" type="text" id="edit-submitted-nombres" name="submitted[nombres]" value="" size="60" maxlength="128" /></div><div class="form-item webform-component webform-component-textarea webform-component--denuncia form-group form-item form-item-submitted-denuncia form-type-textarea form-group"> <label class="control-label" for="edit-submitted-denuncia">Denuncia <span class="form-required" title="Este campo es obligatorio.">*</span></label>
+<div class="form-textarea-wrapper"><textarea required="required" placeholder="Cuéntenos lo que sabe" class="form-control form-textarea required" title="En este campo de texto haga su denuncia o comentario acerca de lo que sabe" data-toggle="tooltip" id="edit-submitted-denuncia" name="submitted[denuncia]" cols="60" rows="5"></textarea></div></div><input type="hidden" name="details[sid]" />
+<input type="hidden" name="details[page_num]" value="1" />
+<input type="hidden" name="details[page_count]" value="1" />
+<input type="hidden" name="details[finished]" value="0" />
+<input type="hidden" name="form_build_id" value="form-VWVXIfgm5CVEP0cV8X9VxmZ9rHSwK2ct3LhX8CxaRN0" />
+<input type="hidden" name="form_id" value="webform_client_form_56386" />
+<div class="form-actions"><button class="webform-submit button-primary btn btn-default form-submit" type="submit" name="op" value="Enviar">Enviar</button>
+</div></div></form> </div>
+</div>
+</section>
+</aside>
+</article>
+<div class="clearfix"></div>
+<div class="related-news col-sm-12 col-md-offset-1 col-lg-offset-1 col-md-7 col-lg-7">
+<h4>Más historias sobre este hilo</h4>
+<div class="view view-mas-historias-este-hilo view-id-mas_historias_este_hilo view-display-id-block view-dom-id-bfda95eeca99537cfdcb1cb3563db3ef">
+<div class="view-content">
+<article class="article row">
+<div class="article-thumbnail col-sm-2">
+<div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/silla-pacifico/la-captura-de-cesar-cristian-impulsa-los-alternativos-para-las-regionales-69761"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/styles/mas_historias_este_hilo/public/portadas/alcalde_de_popayan_0.jpg?itok=ARNv-MJ_" alt="" title="Foto: Zona Cero" /></a></div></div></div> </div>
+<div class="article-content col-sm-10">
+<h6 class="category color-silla-pacifico col-sm-9">
+<a href="/silla-pacifico">Silla Pacífico</a> </h6>
+<p class="date col-sm-3">
+<span>
+30 de Enero </span>
+</p>
+<p class="tags col-sm-12">
+<span>
+<a href="/historias/cartel-de-la-contratacion">Corrupción</a>
+</span><span>
+<a href="/hilos-tematicos/pacifico">Pacífico</a>
+</span><span>
+<a href="/hilos-tematicos/elecciones-2019">Elecciones 2019</a>
+</span> </p>
+<h3 class="col-sm-12">
+<a href="/silla-pacifico/la-captura-de-cesar-cristian-impulsa-los-alternativos-para-las-regionales-69761">La captura de César Cristian impulsa a los alternativos para las regionales</a>
+</h3>
+<div class="stats col-sm-12">
+<p class="read">
+<span>
+1879 </span>
+</p>
+<p class="comments"><span>0</span></p>
+</div>
+</div>
+</article> <article class="article row">
+<div class="article-thumbnail col-sm-2">
+<div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/testigos-estrella-de-la-fiscalia-enredan-melo-y-un-vicepresidente-de-corfi-69696"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/styles/mas_historias_este_hilo/public/portadas/portadac.jpg?itok=4B8WDy0d" alt="" /></a></div></div></div> </div>
+<div class="article-content col-sm-10">
+<h6 class="category color-la-silla-vacia col-sm-9">
+<a href="/silla-nacional">Silla Nacional</a> </h6>
+<p class="date col-sm-3">
+<span>
+24 de Enero </span>
+</p>
+<p class="tags col-sm-12">
+<span>
+<a href="/historias/cartel-de-la-contratacion">Corrupción</a>
+</span><span>
+<a href="/hilos-tematicos/economia">Economía</a>
+</span><span>
+<a href="/hilos-tematicos/odebrecht">Odebrecht</a>
+</span> </p>
+<h3 class="col-sm-12">
+<a href="/testigos-estrella-de-la-fiscalia-enredan-melo-y-un-vicepresidente-de-corfi-69696">Testigos estrella de la Fiscalía enredan a Melo y a un vicepresidente de Corfi</a>
+</h3>
+<div class="stats col-sm-12">
+<p class="read">
+<span>
+3421 </span>
+</p>
+<p class="comments"><span>3</span></p>
+</div>
+</div>
+</article> <article class="article row">
+<div class="article-thumbnail col-sm-2">
+<div class="field field-name-field-imagen-portada field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="/uribe-defiende-nestor-humberto-para-frenar-la-izquierda-69572"><img typeof="foaf:Image" class="img-responsive" src="https://lasillavacia.com/sites/default/files/styles/mas_historias_este_hilo/public/portadas/portadauribenestorh_0.jpg?itok=ujDgn_du" alt="" /></a></div></div></div> </div>
+<div class="article-content col-sm-10">
+<h6 class="category color-la-silla-vacia col-sm-9">
+<a href="/silla-nacional">Silla Nacional</a> </h6>
+<p class="date col-sm-3">
+<span>
+16 de Enero </span>
+</p>
+<p class="tags col-sm-12">
+<span>
+<a href="/historias/cartel-de-la-contratacion">Corrupción</a>
+</span><span>
+<a href="/hilos-tematicos/alvaro-uribe">Álvaro Uribe</a>
+</span><span>
+<a href="/hilos-temáticos/órganos-de-control">Las ías</a>
+</span> </p>
+<h3 class="col-sm-12">
+<a href="/uribe-defiende-nestor-humberto-para-frenar-la-izquierda-69572">Uribe defiende a Néstor Humberto para frenar a la izquierda</a>
+</h3>
+<div class="stats col-sm-12">
+<p class="read">
+<span>
+7437 </span>
+</p>
+<p class="comments"><span>20</span></p>
+</div>
+</div>
+</article> </div>
+</div>
+</div>
+<section class="sub-section vistas col-sm-12 col-md-offset-1 col-lg-offset-1 col-md-3 col-lg-3">
+<h4 class="subtitle">Las historias más vistas en La Silla Vacia</h4>
+<div class="carousel-container">
+<div class="view view-historias-mas view-id-historias_mas view-display-id-mas_vistas view-dom-id-0acbedc1983ef92a7797e8426261b2db">
+<div class="view-content">
+<div class="views-row views-row-1 views-row-odd views-row-first col-sm-12 mas-vista">
+<div class="enum pull-left">
+<span></span>
+</div>
+<div class="info">
+
+<h6 class="category color-la-silla-vacia">
+<a href="https://lasillavacia.com/taxonomy/term/25104">Silla Nacional</a>
+</h6> <h3><a href="/detector-claudia-lopez-no-trino-apoyando-chavez-sino-cubriendo-lo-que-el-dijo-69911">Detector: Claudia López no trinó apoyando a Chávez sino cubriendo lo que él dijo</a></h3>
+</div> </div>
+<div class="views-row views-row-2 views-row-even col-sm-12 mas-vista">
+<div class="enum pull-left">
+<span></span>
+</div>
+<div class="info">
+
+<h6 class="category ">
+<a href="https://lasillavacia.com/taxonomy/term/24555">Opinión</a>
+</h6> <h3><a href="/opinion/van-seis-meses-y-asi-estamos-con-duque-en-el-gobierno-69827">Van seis meses y así estamos con Duque en el Gobierno</a></h3>
+</div> </div>
+<div class="views-row views-row-3 views-row-odd col-sm-12 mas-vista">
+<div class="enum pull-left">
+<span></span>
+</div>
+<div class="info">
+
+<h6 class="category color-silla-paisa">
+<a href="https://lasillavacia.com/taxonomy/term/38542">Silla Paisa</a>
+</h6> <h3><a href="/silla-paisa/los-politicos-detras-de-las-grandes-decisiones-de-hidroituango-69952">Los políticos detrás de las grandes decisiones de Hidroituango</a></h3>
+</div> </div>
+<div class="views-row views-row-4 views-row-even col-sm-12 mas-vista">
+<div class="enum pull-left">
+<span></span>
+</div>
+<div class="info">
+
+<h6 class="category color-silla-sur">
+<a href="https://lasillavacia.com/taxonomy/term/36206">Silla Sur</a>
+</h6> <h3><a href="/silla-sur/el-uribismo-le-quito-el-dps-del-huila-villalba-69918">El uribismo le quitó el DPS del Huila a Villalba</a></h3>
+</div> </div>
+<div class="views-row views-row-5 views-row-odd views-row-last col-sm-12 mas-vista">
+<div class="enum pull-left">
+<span></span>
+</div>
+<div class="info">
+
+<h6 class="category color-la-silla-vacia">
+<a href="https://lasillavacia.com/taxonomy/term/25104">Silla Nacional</a>
+</h6> <h3><a href="/asi-funciona-por-dentro-el-gobierno-de-ivan-duque-69723">Así funciona por dentro el Gobierno de Iván Duque</a></h3>
+</div> </div>
+</div>
+</div>
+</div>
+</section>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+<div class="clearfix"></div>
+<footer id="footer">
+<div class="upper-footer row">
+<div class="col left col-md-4">
+<h3>La Silla Vacía</h3>
+<ul>
+<li>
+<a href="/content/quienes-somos-55168">
+¿QUIÉNES SOMOS? </a>
+</li>
+<li>
+<a href="https://lasillavacia.com/content/financiacion-63024">
+FINANCIACIÓN </a>
+</li>
+<li>
+<a href="http://archivo.lasillavacia.com/archivos/formatos/paute_con_lsv/index.html">
+PAUTE CON NOSOTROS </a>
+</li>
+<li>
+<a href="/contact">
+CONTÁCTENOS </a>
+</li>
+<li>
+<a href="/content/preguntas-frecuentes-55167">
+PREGUNTAS FRECUENTES </a>
+</li>
+<li>
+<a href="/content/reglas-de-juego-55171">
+REGLAS DE JUEGO </a>
+</li>
+<li>
+<a href="/content/politicas-de-privacidad">
+POLÍTICAS DE PRIVACIDAD </a>
+</li>
+</ul>
+</div>
+<div class="col center col-md-4">
+<h3>Newsletter</h3>
+<div class="newsletter">
+<input type="text" name="name" value="" id="email_newsletter">
+<input type="submit" name="name" value="" class="send_newsletter">
+</div>
+</div>
+<div class="col right col-md-4">
+<h3>Síguenos</h3>
+<ul class="social">
+<li class="twitter"><a href="https://www.twitter.com/lasillavacia"></a></li>
+<li class="facebook"><a href="https://www.facebook.com/pages/Lasillavaciacom/86869798098?ref=hl"></a></li>
+<li class="rss"><a href="/rss.xml"></a></li>
+<li class="youtube"><a href="https://www.youtube.com/user/lasillavaciavideos"></a></li>
+</ul>
+</div>
+</div>
+<div class="lower-footer row">
+<div class="col left col-md-4">
+<img src="/sites/all/themes/lasillavacia/images/logo/logo_silla_logosimbolo-footer.svg" alt="" class="logoFooter" />
+</div>
+<div class="col center col-md-8">
+<p class="copyright">Copyright 2016 La Silla Vacía. Todos los derechos reservados</p>
+</div>
+</div> </footer>
+</div>
+<script src="https://lasillavacia.com/sites/default/files/js/js_VU7P4CTgUZdF2SyFko5LLAg9ZK0OSVjXVaAFnTLgVt0.js"></script>
+<script src="https://lasillavacia.com/sites/default/files/js/js_OTdL_00eEtQq3wzsUAHLDYwgtcHpzbgUFYeJRcQf8f8.js"></script>
+<script type="text/javascript" src="https://tc.dataxpand.com/tc/2123788.js" async></script>
+</body>
+</html>

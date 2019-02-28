@@ -1,0 +1,1792 @@
+
+<!DOCTYPE html>
+<html class="no-js" dir="ltr" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"9c8be68c12","agent":"","transactionName":"ZVJSZRFXWUVWABJbX1wYdkQNVUNfWA1JXFVFRB5HClNARQ0NA0VDbVNVRQJfWw==","applicationID":"1793432","errorBeacon":"bam.nr-data.net","applicationTime":527}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<title>
+                
+                    
+                    How to Make Best Use of Instagram Stories Stickers for Marketing
+                     | Social Media Today
+                
+            </title>
+<meta name="description" content="
+                    Social Media Today" />
+<meta name="sailthru.tags" content="socialmediatoday,type-newspost,socialmediatoday-content-marketi,socialmediatoday-digital-strateg,socialmediatoday-social-marketin,socialmediatoday-tag-instagram,socialmediatoday-tag-stories" />
+<meta property="fb:pages" content="18797601233">
+<script>
+                window.dive_location = "NonEU";
+                window.dive_limit_data_processing = false;
+                
+                
+            </script>
+
+
+<link rel="shortcut icon" type="image/png" href="/static/images/favicons/smt/favicon.ico?550216110918" />
+<link rel="shortcut icon" type="image/png" sizes="16x16" href="/static/images/favicons/smt/favicon-16.png?550216110918" />
+<link rel="shortcut icon" type="image/png" sizes="32x32" href="/static/images/favicons/smt/favicon-32.png?550216110918" />
+<link rel="shortcut icon" type="image/png" sizes="96x96" href="/static/images/favicons/smt/favicon-96.png?550216110918" />
+
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/images/favicons/smt/apple-touch-icon-57.png?550216110918">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/static/images/favicons/smt/apple-touch-icon-60.png?550216110918">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/images/favicons/smt/apple-touch-icon-72.png?550216110918">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static/images/favicons/smt/apple-touch-icon-76.png?550216110918">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/images/favicons/smt/apple-touch-icon-114.png?550216110918">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static/images/favicons/smt/apple-touch-icon-144.png?550216110918">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static/images/favicons/smt/apple-touch-icon-152.png?550216110918">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/static/images/favicons/smt/apple-touch-icon-180.png?550216110918">
+
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+<meta name="msapplication-TileImage" content="/static/images/favicons/smt/ms-tile-144.png?550216110918">
+<link rel="alternate" type="application/rss+xml" title="Latest News Feed" href="https://www.socialmediatoday.com/feeds/news/" />
+<link rel="canonical" href="https://www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/" />
+<meta name="title" content="How to Make Best Use of Instagram Stories Stickers for Marketing" />
+<meta name="medium" content="news" />
+<meta name="date" content="2019-02-07" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:domain" content="Social Media Today">
+<meta name="twitter:site" content="socialmedia2day">
+<meta property="og:title" name="og:title" content="How to Make Best Use of Instagram Stories Stickers for Marketing" />
+<meta property="og:site_name" name="og:site_name" content="Social Media Today" />
+<meta property="og:type" name="og:type" content="article" />
+<meta name="article_date_original" content="Thursday, February 07, 2019, 08:00 AM" />
+<meta property="og:url" name="og:url" content="https://www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/?utm_source=TWITTER&amp;utm_medium=social&amp;utm_campaign=General+Outbound" />
+<meta property="og:image" name="og:image" content="https://www.socialmediatoday.com/user_media/cache/a7/de/a7de0db92fe6424d3e9c261960aabb5a.jpg" />
+<meta property="og:description" name="og:description" content="As Stories hits the 500 million daily active users milestone, there&rsquo;s never been a better time to harness their potential for engagement with your followers" />
+<meta name="sailthru.date" content="2019-02-07T08:00:00" />
+<meta name="sailthru.expire_date" content="2029-01-25T08:00:00" />
+<meta name="sailthru.author" content="Aaron Brooks" />
+<meta name="sailthru.image.full" content="https://www.socialmediatoday.com/user_media/cache/7d/21/7d2171e68a157a7f5383ca65719828db.jpg" /> 
+<meta name="sailthru.image.thumb" content="https://www.socialmediatoday.com/user_media/cache/11/d6/11d6b6b80d08d703ba9218463cc25ed7.jpg" /> 
+<meta name="sailthru.description" content="As Stories hits the 500 million daily active users milestone, there&rsquo;s never been a better time to harness their potential for engagement with your followers" />
+<link rel="stylesheet" href="/static/css/smt_app.css?430913150219">
+<link rel="stylesheet" media="print" href="/static/css/print.css?550216110918">
+<script src="/static/js/loglevel.min.js?083516091018"></script>
+<script>
+window.diveLog = log.noConflict();
+diveLog.setDefaultLevel('warn');
+</script>
+<script src="//d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.js"></script>
+<script>
+    window.bugsnagClient = bugsnag({
+        apiKey: 'b78c0f8dcaa1b7ff5fb5bdf5f2a110db',
+        releaseStage: 'production',
+        notifyReleaseStages: [ 'qa', 'production' ],
+        collectUserIp: false,
+        user: {
+    
+            id: "anonymous",
+            name: "",
+    
+        }
+    })
+</script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-WDNJ7JK');</script>
+
+<!--[if lt IE 10]>
+            <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+        <![endif]-->
+<!--[if gte IE 10]><!-->
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script>
+            window.jQuery || document.write('<script src="/static/js/jquery_224.min.js"><\/script>')
+            </script>
+<script>
+    
+    // waitForTriggerHandler() is library for queuing up javascript to be stored and then executed when a trigger
+    // function is called. You can push() any number of functions which will be stored unless and until trigger()
+    // is called. Once trigger() is called any future functions that you push() in will be executed immediately.
+    // It is safe to call .trigger() multiple times. Any arguments passed to .trigger() will also be passed along
+    // to the associated function
+
+    function waitForTriggerHandler() {
+        var function_queue = [];
+        var trigger_arguments = [];
+        this._triggered = false;
+
+        this.push = function(fn) {
+            if (this._triggered) {
+                // just run it immediately if handler has already been triggered
+                fn.apply(null, trigger_arguments);
+            }
+            else {
+                // otherwise add to the queue to run later
+                function_queue.push(fn);
+            }
+        };
+
+        this.trigger = function() {
+            // any arguments passed to trigger(foo, bar, baz) will also be passed along to functions in the queue
+
+            // first convert any arguments to an array
+            trigger_arguments = Array.prototype.slice.call(arguments);
+            while (function_queue.length){
+                // for each function in the queue, pop it off and then execute it while passing in any
+                // args that may have been passed to trigger().
+                function_queue.pop().apply(null, trigger_arguments);
+                // The "null" above is for the value of "this". 
+                // See https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply#Parameters
+            }
+            this._triggered = true;
+        }
+
+    }
+    
+    // set up waitToLoadAds handler
+    window.waitToLoadAds = new waitForTriggerHandler();
+    // We set up the triggers for this below, they depend on whether we're loading lytics on the page
+</script>
+<script type="text/javascript">
+        // This token is here for test_lytics_snippet.py test: lytics-is-enabled
+        
+        window.googletag = window.googletag || {};
+        googletag.cmd = googletag.cmd || [];
+
+        // initialize callback (source: https://learn.lytics.com/product-docs/lytics-javascript-tag/receiving-data-from-lytics)
+        !function (l, a) { a.liosetup = a.liosetup || {}, a.liosetup.callback = a.liosetup.callback || [], a.liosetup.addEntityLoadedCallback = function (l, o) { if ("function" == typeof a.liosetup.callback) { var i = []; i.push(a.liosetup.callback), a.liosetup.callback = i } a.lio && a.lio.loaded ? l(a.lio.data) : o ? a.liosetup.callback.unshift(l) : a.liosetup.callback.push(l) } }(document, window);
+
+
+        // custom init + lytics default install tag from https://activate.getlytics.com/connect?aid=2751
+        // see https://learn.lytics.com/understanding/product-docs/lytics-javascript-tag/configuration#configuration-options
+        var lytics_init_options = {
+            cid: "44fda7674f94228540d8fba6786f9770",
+            url: "//c.lytics.io",
+            min: true,
+            loadid: true
+        };
+        window.jstag=function(){function t(t){return function(){return t.apply(this,arguments),this}}function n(){var n=["ready"].concat(c.call(arguments));return t(function(){n.push(c.call(arguments)),this._q.push(n)})}var i={_q:[],_c:{},ts:(new Date).getTime(),ver:"2.0.0"},c=Array.prototype.slice;return i.init=function(t){return i._c=t,t.synchronous||i.loadtagmgr(t),this},i.loadtagmgr=function(t){var n=document.createElement("script");n.type="text/javascript",n.async=!0,n.src=t.url+"/api/tag/"+t.cid+"/lio.js";var i=document.getElementsByTagName("script")[0];i.parentNode.insertBefore(n,i)},i.ready=n(),i.send=n("send"),i.mock=n("mock"),i.identify=n("identify"),i.pageView=n("pageView"),i.bind=t(function(t){i._q.push([t,c.call(arguments,1)])}),i.block=t(function(){i._c.blockload=!0}),i.unblock=t(function(){i._c.blockload=!1}),i}(),window.jstag.init(lytics_init_options);
+
+        
+        (function(){
+            var sailthru_cookie, sailthru_user_id;
+            function read_cookie(cookieName) {
+              var re = new RegExp('[; ]'+cookieName+'=([^\\s;]*)');
+              var sMatch = (' '+document.cookie).match(re);
+              if (cookieName && sMatch) return unescape(sMatch[1]);
+              return '';
+            }
+            sailthru_cookie = read_cookie('sailthru_hid');
+            if (sailthru_cookie.length > 56) {
+              sailthru_user_id = sailthru_cookie.slice(32,56);
+              jstag.send({ st_profile_id: sailthru_user_id });
+            }
+        })();
+
+        
+        
+        
+                
+        window.liosetup.addEntityLoadedCallback(waitToLoadAds.trigger);  // trigger ads when lytics loads
+        setTimeout(waitToLoadAds.trigger, 1000);  // also trigger lytics if it's taking too long
+
+        
+        
+        waitToLoadAds.push(function (lytics_data) {
+            // lytics_data won't be defined if lytics failed to load correctly. In that case
+            // we don't need to set any segments.
+            if (lytics_data && lytics_data.segments) {
+                googletag.cmd.push(function() {
+                    googletag.pubads().setTargeting("LyticsSegments", lytics_data.segments);
+                });
+            }
+        });
+
+    </script>
+<script>
+                    (function(d) {
+                        var config = {
+                            kitId: 'cty2hsa',
+                            scriptTimeout: 6000,
+                            async: true
+                        },
+                        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+                    })(document);
+                </script>
+<!--<![endif]-->
+<script src="/static/js/app.js?460616240119"></script>
+<script type="text/javascript" src="/static/js/responsive.js?550216110918"></script>
+<script type="text/javascript" src="/static/js/user_info.js?550216110918"></script>
+<script type="text/javascript" src="/static/js/helpers.js?550216110918"></script>
+<script type="text/javascript">
+                var divecounter_settings = {};
+                
+                    divecounter_settings.showSignupAd = true;
+                
+                
+            </script>
+<script type="text/javascript" src="/static/js/divecounter.js?550216110918"></script>
+<script type="text/javascript">
+        // Special unbounce signup thing for google traffic. Test with ?test_unbounce in the URL
+        // Note: divecounter must already be loaded. Only enabled on pages that would normally have signup ads
+        // Note: showSignupAd is always off if prestitial is enabled!
+        if ((typeof divecounter !== "undefined") && ($(window).width() > 640)) {
+          var test_unbounce = (window.location.href.indexOf("?test_unbounce")>=0);
+          var force_unbounce = (window.location.href.indexOf("signupbounce=1")>=0) ||
+                                (window.location.href.indexOf("utm_campaign=Linked-HR")>=0) ||
+                                (window.location.href.indexOf("utm_source=outbrain")>=0);
+          if (test_unbounce ||
+            force_unbounce ||
+            (document.referrer.match(/^https?:\/\/(www\.google\.|news\.google\.|t\.co|twitter\.com|www\.facebook\.com)/i) &&
+              divecounter.getOption('showSignupAd') && divecounter.canShow(1,1)) ) {
+            // dyanmically load ouibounce.js only on pages where its needed
+            $.getScript("/static/js/ouibounce.min.js?550216110918", function(){
+                // Once ouibounce.js loads, call the script
+                // We're reusing divecounter's modal instead of OuiBounce's modal code (that's why we pass it 'false')
+                var _ouibounce = ouibounce(false, {
+                  aggressive: test_unbounce, // ignore cookie in test mode
+                  cookieName: '_viewedOuiBounce', // underscored cookies should be ignored by Varnish
+                  callback: function() {
+                    divecounter_open_ad('Unbounce');
+                  }
+                });
+            });
+          } // end should show unbounce
+        } // end divecounter defined
+        </script>
+<script type="text/javascript" src="/static/js/urlCleaner.js?261716290119"></script>
+<script type="text/javascript">
+        // We always send to two properties: the individual site and the aggregate
+        // essentially the pageUrlSemaphore count is how many things need the UTM querystring, and those UTM params
+        // were getting dropped between the calls to GA orig.send and agg.send for google analytics because it was
+        // only incrementing by 1. We should make sure to increment this by the proper amount if we add other calls in the future
+        
+            window.urlCleaner.pageUrlSemaphore += 2;
+        
+
+        
+            window.urlCleaner.pageUrlSemaphore++;
+        
+    </script>
+<script type="text/javascript">
+            // Load analytics.js (universal analytics) first
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            // set all the variables that are per-session or per-visit
+            
+                ga(
+                    'create',
+                    'UA-3688358-1',
+                    'auto',
+                    {'name': 'orig'},
+                    {'siteSpeedSampleRate': 2}
+                );
+            
+
+            
+            
+
+            // Set the same variables for aggregate data profile
+            ga(
+                'create',
+                'UA-19684343-45',
+                'auto',
+                {'name': 'agg'},
+                {'siteSpeedSampleRate': 2}
+            );
+
+            //GA.js for tracking outbound links
+            function trackOutboundLink(link, category, action, redirect) {
+                try{
+                    ga('orig.send', 'event', category, action, {
+                        hitCallback: function() {
+                            window.urlCleaner.attemptCleanUrl();
+                        }
+                    });
+                } catch(err) {}
+
+                try{
+                    ga('agg.send', 'event', category, action, {
+                        hitCallback: function() {
+                            window.urlCleaner.attemptCleanUrl();
+                        }
+                    });
+                } catch(err) {}
+
+                //Timer to prevent redirect before processing data - not necessary if opening tab in new window
+                if(redirect){
+                    setTimeout(function(){
+                        document.location.href = link.href;
+                        }, 100);
+                }
+            }
+            $(document).ready(function() {
+              $(".outboundlink").click(function() {
+                trackOutboundLink(this, 'outboundlink', this.link, this.target != '_blank');
+              });
+            });
+            
+                
+                    ga("orig.set", {
+                        "dimension1": "Aaron Brooks",
+                        "dimension7": "Feb 07, 2019",
+                        "dimension8": "Content Marketing, Digital Strategy, Social Marketing",
+                        "dimension9": "Instagram, Stories",
+                        "dimension10": "20190207",
+                        "dimension11": "Article",
+                        
+                        
+                    });
+                
+                
+                    ga("agg.set", {
+                        "dimension3": "Aaron Brooks",
+                        "dimension7": "Feb 07, 2019",
+                        "dimension5": "Content Marketing, Digital Strategy, Social Marketing",
+                        "dimension6": "Instagram, Stories",
+                        "dimension4": "20190207",
+                        "dimension8": "Article",
+                        
+                        
+                        "dimension11": "False",
+                        
+                    });
+                
+            
+
+            
+            
+                var diveSendPageviewEvent = true;
+            
+
+            
+            if (diveSendPageviewEvent === true) {
+                ga('orig.send', 'pageview', {
+                    'hitCallback': function() {
+                        window.urlCleaner.attemptCleanUrl();
+                    }
+                });
+                ga('agg.send', 'pageview', {
+                    'hitCallback': function() {
+                        window.urlCleaner.attemptCleanUrl();
+                    }
+                });
+
+                diveLog.info('Queued sending of the pageview event to Google Analytics.');
+            }
+            else{
+                diveLog.warn('Sending the Google Analytics pageview event is disabled for this page.');
+            }
+
+            // Actually track outbound links
+            // Not sure if this is being used?
+            var trackOutboundRegisterLink = function (url) {
+               ga('agg.send', 'event', 'event_register', url, 'Registered for event', {'hitCallback':
+                 function () {
+                     document.location = url;
+                 }
+               });
+            };
+            // Not sure if this is being used?
+            var trackOutboundWebsiteLink = function (url) {
+               // No need to manually change document.location; website opens in new tab
+               ga('agg.send', 'event', 'event_website', url, 'Visited event site');
+            };
+
+        </script>
+
+<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");
+        for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);
+        mixpanel.init("08fd38d945f3577b09226c184d101277");</script>
+
+<script type="text/javascript">
+            
+            mixpanel.set_config({track_links_timeout: 500, track_pageview: false});
+            var superprops = {
+                'site_name':'Social Media Today',
+                'limited_data_processing': window.dive_limit_data_processing
+            };
+            
+              superprops.divesite_is_staff = false;
+            
+
+            
+              // read UID from sailthru cookie
+              function read_cookie(cookieName) {
+                var re = new RegExp('[; ]'+cookieName+'=([^\\s;]*)');
+                var sMatch = (' '+document.cookie).match(re);
+                if (cookieName && sMatch) return unescape(sMatch[1]);
+                return '';
+              }
+              var hid = read_cookie('sailthru_hid');
+              if (hid.length > 56) {
+                superprops.sailthru_hid = hid;
+                superprops.sailthru_user_id = hid.slice(32,56);
+              }
+              var divelink_cookie_id = parseInt(read_cookie('_divelink_cookie'));
+              if ( !isNaN(divelink_cookie_id) ) {
+                superprops.divelink_id = divelink_cookie_id;
+              }
+            
+
+            
+            mixpanel.register(superprops);
+            
+
+            function mixpanel_track_pageview(event_name, more_props){
+              var event_name = event_name ? event_name : "pageview"; //default event name
+              var pathparts = window.location.pathname.split('/');
+              var pageview_props = {
+                url: window.location.href.replace(/[\?\#].*$/,''), // no parameters or tracking codes
+                full_url: window.location.href, // everything in URL bar
+                page_title: document.title,
+                // ignore pathparts[0] since it's always empty string
+                // special case: root of site is "/" not "" for url_path_part_1
+                url_path_part_1: (pathparts.length > 1) && (pathparts[1] !== "") ? pathparts[1] : "/",
+                url_path_part_2: pathparts.length > 2 ? pathparts[2] : "",
+                url_path_part_3: pathparts.length > 3 ? pathparts[3] : ""
+              }
+              
+              
+                
+                try {
+                      var divecounter_data = divecounter.getData();
+                      pageview_props['page_view_count'] = divecounter_data.hits;
+                }
+                catch (err) {
+                    // swallow errors and just log them to console (if console exists)
+                    window.console && console.log && console.log( "Error getting divecounter hit count", err);
+                }
+              
+              for (var attrname in more_props) { if(more_props.hasOwnProperty(attrname)) pageview_props[attrname] = more_props[attrname]; }
+
+                mixpanel.track(event_name, pageview_props, function() {
+                    window.urlCleaner.attemptCleanUrl();
+                });
+            }
+
+            var pageview_props = {"item_force_to_weekender": false, "tags": ["socialmediatoday-tag-instagram", "socialmediatoday-tag-stories"], "topics": ["Content Marketing", "content-marketing", "Digital Strategy", "digital-strategy", "Social Marketing", "social-marketing"], "item_model_app": "news", "item_sponsored": false, "item_featured": false, "item_id": 547862, "item_pub_date": "2019-02-07T08:00:00", "item_authors": ["Aaron Brooks"], "item_type": "newspost", "item_opinion": false, "item_model": "newspost", "item_touched": true};
+            mixpanel_track_pageview("pageview", pageview_props);
+
+            // mixpanel special link tracking, ported from actions.js
+            $(document).ready(function(){
+              if ($(".menu-bar a").length > 0) {
+                mixpanel.track_links(".menu-bar a","Topics Drawer Click",function(elem){
+                  return {'topic': $(elem).text()};
+                });
+              }
+              setTimeout(function(){
+                // need to wait a little while for Sailthru code to load
+                if ($(".sailthruRecommendation a").length > 0){
+                  mixpanel.track_links(".sailthruRecommendation a","Recommendation Click", function(elem){
+                    var $elem = $(elem);
+                    return {'label': $elem.text().trim(), 'href':$elem.attr('href'), 'from_page':window.location.href, 'style':'concierge'}
+                  });
+                }
+              },500);
+            })
+        </script>
+
+<script type='text/javascript'>
+          
+              var _vis_opt_url = document.URL;
+          
+
+          var _vwo_code=(function(){
+          var account_id=70793,
+          settings_tolerance=2000,
+          library_tolerance=2500,
+          use_existing_jquery=false,
+          // DO NOT EDIT BELOW THIS LINE
+          f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(_vis_opt_url)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+      </script>
+
+<script type="text/javascript">
+            sailthru_cookie = helpers.getCookie('sailthru_hid');
+
+            // Call getFromSailthru. This should get any new info that wasnt there previously (in case a user has updated profile information or anything
+            // and should also update any out of date, but already present, localstorage values
+            userInfo.getFromSailthru(sailthru_cookie, "https://z30j7gwuhc.execute\u002Dapi.us\u002Deast\u002D1.amazonaws.com/live/sailthru_user_data");
+        </script>
+<script type="text/javascript">
+            jQuery.browser = {};
+            (function () {
+                jQuery.browser.msie = false;
+                jQuery.browser.version = 0;
+                if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+                    jQuery.browser.msie = true;
+                    jQuery.browser.version = RegExp.$1;
+                }
+            })();
+        </script>
+
+<script type="text/javascript" src="/static/js/jquery.simplemodal.1.4.4.min.js?550216110918"></script>
+<style>
+
+            /* dynamic style overrides based on DB go here*/
+            
+        </style>
+<meta name="sailthru.title" content="How to Make Best Use of Instagram Stories Stickers for Marketing" />
+<meta name="sailthru.post_type" content="Article" />
+<meta name="lytics:topics" content="Social Marketing, Stories, Instagram, Content Marketing, Digital Strategy" />
+<meta name="news_keywords" content="Content Marketing,content-marketing,Digital Strategy,digital-strategy,Social Marketing,social-marketing" />
+<style>
+        #colorbox img {
+            max-width: 100%;
+        }
+
+        #colorbox figure {
+            margin: 0;
+        }
+
+    </style>
+<link href="/static/css/colorbox.css?550216110918" rel="stylesheet" />
+<script type="text/javascript" src="/static/js/jquery.colorbox-min.js?550216110918"></script>
+<script type="text/javascript">
+
+        /** Stolen from http://stackoverflow.com/questions/24816/escaping-html-strings-with-jquery **/
+        $(document).ready(function () {
+            //"Tweet this" pullquote sections
+
+            // This is used in the processing of 'tweet this' pull quotes
+            function escapeHtml(string) {
+                var entityMap = {
+                    "&": "&amp;",
+                    "<": "&lt;",
+                    ">": "&gt;",
+                    '"': '&quot;',
+                    "'": '&#39;',
+                    "/": '&#x2F;'
+                };
+                return String(string).replace(/[&<>"'\/]/g, function (s) {
+                    return entityMap[s];
+                });
+            }
+
+            // Process the twitter pullquote sections:
+            // * create the link
+            // * create the text ('tweet this quote') for the link
+            $(".pquote").each(function (index) {
+                var j_words;
+
+                if ($(this).data('twitter-text') != 'undefined') {
+                    j_words = $(this).children('.tweetwords').first();
+                } else {
+                    j_words = $(this).data('twitter-text');
+                }
+
+                var j_replace = $(this).children('.tweetquote').first();
+
+                var clean_text = escapeHtml(j_words.text());
+                var link_attributes = 'href="https://twitter.com/intent/tweet?text=' + clean_text + '%20https%3A//www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/%3Futm_source%3DTWITTER%26utm_medium%3Dsocial%26utm_campaign%3DGeneral%2BOutbound' + '" class="popup share_mixpanel_event button twitter" data-sharebutton="tweet_quote" data-shareusing="twitter"';
+                var img = '<img src="/static/img/social_icons/twitter-follow-icon.png?550216110918" alt="Share on Twitter"/>';
+
+                var link = '<a ' + link_attributes + '>tweet this quote' + img + '</a>';
+                j_replace.html(link);
+            });
+        });
+
+
+
+        
+        
+    </script>
+<!--[if lt IE 9]>
+
+            <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+            <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+            <link rel="stylesheet"
+              href="/static/css/ie8-fixes.css?550216110918">
+        <![endif]-->
+<script type="text/javascript" src="/static/js/prestitial.js?150416141218"></script>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+    
+    var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+    var eventer = window[eventMethod];
+    var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+
+    
+    eventer(messageEvent, function (e) {
+        var key = e.message ? "message" : "data";
+        var data = e[key];
+
+        var eventName = data.message || 'ignore';
+
+        if (eventName == 'adContentAvailable') {
+            var $ad_element = $('div').filter('[data-container-ad-unit-id="' + data.adUnit + '-' + window.dfp_visibility + '"]');
+            
+            $ad_element.html(data.content);
+            
+            $ad_element.siblings().hide()
+        }
+
+        
+    }, false);
+
+    
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+
+    googletag.cmd.push(function () {
+        var desktopWidth = 1024;
+        
+        if (window.innerWidth >= desktopWidth) {
+            window.dfp_visibility = 'desktop';
+        }
+        else {
+            window.dfp_visibility = 'mobile';
+        }
+
+        var dfpDisplayConfiguration = {
+            "prestitialEnabled": true,
+            "leaderboardEnabled": true,
+            "sidebarAdsEnabled": true,
+            "visibility": window.dfp_visibility
+        };
+
+        diveLog.debug(dfpDisplayConfiguration);
+
+        if (window.dfp_visibility == 'desktop') {
+            
+            if (typeof prestitial_ads == 'object' && prestitial_ads.page_is_prestitial_eligible()) {
+                googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodayprestitial', [[500, 300], [640, 480]], 'paychekgoeshere').addService(googletag.pubads());
+            }
+            if (dfpDisplayConfiguration.leaderboardEnabled) {
+                googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodayleaderboard', [[970, 90], [728, 90]], 'dfp-leaderboard-desktop').addService(googletag.pubads());
+            }
+
+            if (dfpDisplayConfiguration.sidebarAdsEnabled) {
+                googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodayhybrid1', [[300, 250], 'fluid'], 'dfp-hybrid1-desktop').addService(googletag.pubads());
+            }
+
+            googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodayhybrid2', [[300, 250], 'fluid'], 'dfp-hybrid2-desktop').addService(googletag.pubads());
+            googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodayhybrid3', [[300, 250], 'fluid'], 'dfp-hybrid3-desktop').addService(googletag.pubads());
+            googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodayhybrid4', [[300, 250], 'fluid'], 'dfp-hybrid4-desktop').addService(googletag.pubads());
+            googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodaythankyouhybrid1', ['fluid'], 'dfp-thankyouhybrid1-desktop').addService(googletag.pubads());
+            googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodaythankyouhybrid2', ['fluid'], 'dfp-thankyouhybrid2-desktop').addService(googletag.pubads());
+
+        }
+        else {
+            googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodayhybrid1', [[300, 250], 'fluid'], 'dfp-hybrid1-mobile').addService(googletag.pubads());
+            
+            googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodayhybrid3', [[300, 250], 'fluid'], 'dfp-hybrid3-mobile').addService(googletag.pubads());
+            googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodayhybrid4', [[300, 250], 'fluid'], 'dfp-hybrid4-mobile').addService(googletag.pubads());
+            googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodaythankyouhybrid1', ['fluid'], 'dfp-thankyouhybrid1-mobile').addService(googletag.pubads());
+            googletag.defineSlot('/21662595662/socialmediatoday/socialmediatodaythankyouhybrid2', ['fluid'], 'dfp-thankyouhybrid2-mobile').addService(googletag.pubads());
+        }
+
+        
+
+
+        
+        
+            googletag.pubads().setTargeting("topics", ["Content Marketing","content-marketing","Digital Strategy","digital-strategy","Social Marketing","social-marketing"]);
+        
+        
+            googletag.pubads().setTargeting("tags", ["socialmediatoday-tag-instagram","socialmediatoday-tag-stories"]);
+        
+
+        if ((typeof divecounter !== "undefined") && (divecounter.getData().is_subscriber)) {
+            googletag.pubads().setTargeting("is_subscriber", "yes");
+        }
+
+        
+        
+            googletag.pubads().setTargeting("articleID", "547862");
+            googletag.pubads().setTargeting("slug", "how to make best use of instagram stories stickers for marketing");
+        
+
+        
+        
+
+        // check for each of these localStorage values individually because we can't rely on one of them being a proxy for all of them,
+        // meaning we have to check individually. And if the localStorage value doesnt exist and we try to access it we get an error
+        // when trying to call JSON.parse() on it.
+        if (localStorage.id_dive_job_function) {
+            googletag.pubads().setTargeting("id_dive_job_function", atob(JSON.parse(localStorage.id_dive_job_function).value));
+        }
+        if (localStorage.id_dive_job_level) {
+            googletag.pubads().setTargeting("id_dive_job_level", atob(JSON.parse(localStorage.id_dive_job_level).value));
+        }
+        if (localStorage.id_dive_company_type) {
+            googletag.pubads().setTargeting("id_dive_company_type", atob(JSON.parse(localStorage.id_dive_company_type).value));
+        }
+        if (localStorage.id_engagement) {
+            googletag.pubads().setTargeting("id_engagement", atob(JSON.parse(localStorage.id_engagement).value));
+        }
+        if (localStorage.id_lists) {
+            // the encoded string will decode as a comma-delimited String, but turn it into an array
+            // to send to DFP
+            googletag.pubads().setTargeting("id_lists", atob(JSON.parse(localStorage.id_lists).value).split(','));
+        }
+        if (localStorage.id_company_name) {
+            googletag.pubads().setTargeting("id_company_name", atob(JSON.parse(localStorage.id_company_name).value));
+        }
+
+        googletag.pubads().setCentering(true);
+        googletag.pubads().collapseEmptyDivs(true);
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    });
+</script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+
+<body class="
+    flush-top
+    
+    article-page news  topic-
+    content-marketing  topic-
+    digital-strategy  topic-
+    social-marketing 
+    
+    
+">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDNJ7JK" height="0" width="0" style="display:none;visibility:hidden">
+                </iframe></noscript>
+
+<style>
+            /* initial white overlay so google ads doesn't get mad */
+            .prestitial-init {
+                width: 100% !important;
+                height: 100% !important;
+                z-index: 600;
+                top: 0;
+                left: 0;
+                position: fixed;
+                background-color: #ffffff;
+            }
+
+            /* overlay that blocks out the content behind the prestitial */
+            .content-overlay {
+              width: 100% !important;
+              height: 100% !important;
+              z-index: 500;
+              top: 0;
+              left: 0;
+              position: fixed;
+              background-color: #434649;
+          }
+
+            .prestitial .paychek-page-wrapper .paychek-button {
+                color: #fff;
+                cursor: pointer;
+                font-size: 28px;
+                font-weight: bold;
+                margin-bottom: 2rem;
+                text-align: center;
+            }
+
+            
+            .prestitial .paychek-page-wrapper .paychek {
+                text-align: center;
+            }
+
+            
+            .prestitial .paychek-page-wrapper .paychek .clickarea {
+                margin: 0 auto;
+            }
+
+            
+            .prestitial .paychek-page-wrapper {
+                margin-top: 1rem;
+            }
+
+            @media screen and (min-width: 64em) {
+                
+                .prestitial .paychek-page-wrapper {
+                    margin-top: 0;
+                    position: relative;
+                    top: 50%;
+                    -webkit-transform: translateY(-50%);
+                    -ms-transform: translateY(-50%);
+                    transform: translateY(-50%);
+                }
+
+                .prestitial .paychek-page-wrapper .paychek, .prestitial .paychek-page-wrapper .paychek-button {
+                    text-align: left;
+                    height: 480px;
+                }
+
+                .prestitial .paychek-page-wrapper .paychek-button div, .prestitial .paychek #paychekgoeshere {
+                    position: relative;
+                    top: 50%;
+                    -webkit-transform: translateY(-50%);
+                    -ms-transform: translateY(-50%);
+                    transform: translateY(-50%);
+                }
+
+                .prestitial .paychek-page-wrapper .paychek .clickarea {
+                    margin-left: 0;
+                }
+            }
+
+            @media screen and (min-width: 72em) {
+                .prestitial .paychek-page-wrapper {
+                    font-size: 34px;
+                }
+            }
+        </style>
+<div id="prestitial-init" style="display: none;" class="prestitial-init"></div>
+<div id="prestitial-outer" class="prestitial content-overlay" style="display:none;">
+<section class="site-menu">
+<div class="site-menu-inner">
+<img src="https://d12v9rtnomnebu.cloudfront.net/logo/publications/smt_white.svg" class="pub-logo">
+</div>
+</section>
+<section class="paychek-page-wrapper row">
+<div class="paychek-button large-4 large-push-8 columns">
+<div>
+CONTINUE TO SITE ➞
+</div>
+</div>
+<div class="paychek large-8 large-pull-4 columns">
+<div id="paychekgoeshere">
+</div>
+<script type="text/javascript">
+                        
+                        if (prestitial_ads.page_is_prestitial_eligible()) {
+                            prestitial_ads.initialize(7);
+                            
+                            prestitial_ads.set_prestitial_possible_cookie();
+                            var prestitial_ad_is_loaded = false;
+                            var prestitial_ad_is_empty = false;
+
+                            googletag.cmd.push(function () {
+                                googletag.pubads().addEventListener('slotRenderEnded', function (event) {
+                                    
+                                    if (event.slot.getAdUnitPath() == '/21662595662/socialmediatoday/socialmediatodayprestitial') {
+                                        if (event.isEmpty || prestitial_ads.testing_no_ad()) {
+                                            prestitial_ad_is_empty = true;
+                                            prestitial_ads.close_prestitial();
+                                        }
+                                        else {
+                                            prestitial_ad_is_loaded = true;
+                                            $.modal.close();
+                                            $('div#prestitial-init').hide(); // hide the all white overlay
+                                            prestitial_ads.set_cookie(
+                                                "_prestitialViewed",
+                                                (new Date()).getTime(),
+                                                prestitial_ads.days_between_prestitial
+                                            );
+                                        }
+                                    }
+                                });
+                            });
+
+                            
+                            if (prestitial_ads.testing_no_ad()) {
+                                
+                            } else {
+                                
+                                
+                                
+                                waitToLoadAds.push(function() {
+                                    
+                                    googletag.cmd.push(function () {
+                                        
+                                        googletag.display('paychekgoeshere');
+                                    });
+                                });
+                            }
+
+                            
+                            setTimeout(
+                                function () {
+                                    if (!prestitial_ad_is_loaded && !prestitial_ads.override_timeout()) {
+                                        
+                                        if (!prestitial_ad_is_empty) {
+                                            
+                                            // if the prestitial is already hidden, then don't hide it again.
+                                            if (!prestitial_ads.prestitial_ad_is_closed()) {
+                                                prestitial_ads.close_prestitial();
+                                                prestitial_ads.log_close_prestitial_ad_by('failed');
+                                            }
+                                        }
+                                    } else if (!prestitial_ads.override_timeout()) {
+                                        
+                                        setTimeout(
+                                            function () {
+                                                // if the prestitial is already hidden, then don't hide it again.
+                                                if (!prestitial_ads.prestitial_ad_is_closed()) {
+                                                    prestitial_ads.close_prestitial();
+                                                    prestitial_ads.log_close_prestitial_ad_by('timeout');
+                                                }
+                                            },
+                                            prestitial_ads.timeout_seconds()
+                                        );
+                                    } else {
+                                        
+                                    }
+
+                                },
+                                
+                                2900
+                            );
+                        } else {
+                            
+                            prestitial_ads.close_prestitial();
+                        }
+                    </script>
+</div>
+</section>
+</div>
+
+<!--[if lt IE 10]>
+            <div class="site-notification-wrapper">
+                <div class="site-notification">
+                    Industry Dive is supported on Chrome, Safari, Firefox and Internet Explorer 10+. If you have trouble viewing our site, please <a style="display: inline; text-decoration: underline;" href="mailto:info@industrydive.com">info@industrydive.com</a>upgrade your browser</a>.
+                    <span class="close-site-notification">&times;</span>
+                </div>
+            </div>
+        <![endif]-->
+
+
+<div class="hide-small show-large">
+<div data-container-ad-unit-id="/21662595662/socialmediatoday/socialmediatodayleaderboard-desktop"></div>
+<div id='dfp-leaderboard-desktop'>
+<script>
+        waitToLoadAds.push(function() {
+	        googletag.cmd.push(function() {
+	            if (window.dfp_visibility == 'desktop') { googletag.display('dfp-leaderboard-desktop'); }
+	        })
+	    });
+        </script>
+</div>
+</div>
+<div class="page-container">
+<header role="banner">
+<nav id="top" class="site-menu">
+<div class="site-menu-inner">
+
+<div class="pub-logo-wrapper">
+<a href="/">
+<img class="pub-logo" src="https://d12v9rtnomnebu.cloudfront.net/logo/publications/smt_white.svg" alt="website logo">
+</a>
+</div>
+
+<div class="menu-content-wrapper">
+<ul class="desktop-menu-main">
+<li>
+<a href="/community/">Community</a>
+</li>
+<li>
+<a href="/library/">Library</a>
+</li>
+<li class="topics top-nav-dropdown-item">
+<a>
+Topics
+<span class="dropdown-toggle-arrow"></span>
+</a>
+</li>
+</ul>
+
+<button class="mobile-menu-toggle">
+Menu
+<img src="/static/img/menu_icons/menu.svg?550216110918" alt="menu">
+</button>
+
+<ul class="desktop-menu-sub list-no-bullets">
+<li>
+<a href="/contribute/">
+<img src="/static/img/menu_icons/write-for-us.png?550216110918" />
+Write for Us
+</a>
+</li>
+<li>
+<a href="/signup/">
+<img src="/static/img/email_icons/email-icon-white.png?550216110918" />
+Subscribe
+</a>
+</li>
+<li>
+<a href="/account/login/" class="smt-user-menu-item-button">
+Log in
+</a>
+</li>
+<li>
+<a href="javascript:void(0)" class="search-toggle">
+<img src="/static/img/menu_icons/search-glass-white.png?550216110918" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+<div class="menu-search js-search-hide">
+<div class="menu-search-inner-wrapper row">
+<form action="/search/" method="GET" data-ajax="false">
+<label for="search">
+<span class="screen-reader-text search">Search</span>
+<input id="search" type="search" name="q" placeholder="search" data-role="none">
+</label>
+<button type="submit" value="" data-role="none">
+<img src="/static/img/search_grey.png?550216110918" alt="search">
+</button>
+<span class="close">x</span>
+</form>
+</div>
+</div>
+<nav class="topics menu-bar">
+<ul class="list-no-bullets">
+<li>
+<a class="" href="/topic/social-media-updates/">Social Media Updates</a>
+</li>
+<li>
+<a class="" href="/topic/trending/">Trending</a>
+</li>
+<li>
+<a class="" href="/topic/social-marketing/">Social Marketing</a>
+</li>
+<li>
+<a class="" href="/topic/digital-strategy/">Digital Strategy</a>
+</li>
+<li>
+<a class="" href="/topic/content-marketing/">Content Marketing</a>
+</li>
+</ul>
+</nav>
+<nav class="smt-community menu-bar js-menu-bar-hide">
+<ul class="list-no-bullets">
+<li>
+<a class="" href="/smtlive/">Live Twitter Chat</a>
+</li>
+<li>
+<a class="" href="/influencers/">SMT Influencers</a>
+</li>
+<li>
+<a class="" href="/contribute/">Become a Contributor</a>
+</li>
+</ul>
+</nav>
+<div class="page-wrapper">
+<div class="search-overlay"></div>
+
+<div class="printed-branding">
+<span class="promoted-branded-copy">An article from</span>
+<img src="https://d12v9rtnomnebu.cloudfront.net/logo/printer_friendly/socialmediatoday.jpg" alt="site logo" />
+</div>
+<div class="page-inner-wrapper">
+<div class="row">
+<div class="medium-10 medium-centered large-12">
+<section id="main-content" class="main-content large-8 columns">
+<article class="">
+<div class="article-title-wrapper">
+<h1>
+How to Make Best Use of Instagram Stories Stickers for Marketing
+</h1>
+</div>
+<div class="row">
+<div class="byline-large-2 columns">
+<div class="article-byline">
+<div class="author">
+<h4 class="hide-small byline-show-large">Author</h4>
+<span class="byline-hide-large">By</span>
+<div class="author-name">
+<a rel="author" href="/users/abrooks/">
+Aaron Brooks
+</a>
+</div>
+</div>
+<div class="date">
+<div class="published-info">
+<h4>Published</h4>
+Feb. 7, 2019
+</div>
+</div>
+<div class="social-share">
+<h4 class="hide-small byline-show-large">Share it</h4>
+<ul class="rrssb-buttons clearfix">
+<li class="rrssb-linkedin">
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/%3Futm_source%3DTWITTER%26utm_medium%3Dsocial%26utm_campaign%3DGeneral%2BOutbound&amp;title=How%20to%20Make%20Best%20Use%20of%20Instagram%20Stories%20Stickers%20for%20Marketing" class="popup share_mixpanel_event button" data-sharebutton="rrssb_share" data-shareusing="linkedin">
+<span class="rrssb-icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M25.424 15.887v8.447h-4.896v-7.882c0-1.98-.71-3.33-2.48-3.33-1.354 0-2.158.91-2.514 1.802-.13.315-.162.753-.162 1.194v8.216h-4.9s.067-13.35 0-14.73h4.9v2.087c-.01.017-.023.033-.033.05h.032v-.05c.65-1.002 1.812-2.435 4.414-2.435 3.222 0 5.638 2.106 5.638 6.632zM5.348 2.5c-1.676 0-2.772 1.093-2.772 2.54 0 1.42 1.066 2.538 2.717 2.546h.032c1.71 0 2.77-1.132 2.77-2.546C8.056 3.593 7.02 2.5 5.344 2.5h.005zm-2.48 21.834h4.896V9.604H2.867v14.73z" /></svg>
+</span>
+<span class="rrssb-text">post</span>
+</a>
+</li>
+<li class="rrssb-facebook">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/%3Futm_source%3DTWITTER%26utm_medium%3Dsocial%26utm_campaign%3DGeneral%2BOutbound" class="popup share_mixpanel_event button" data-sharebutton="rrssb_share" data-shareusing="facebook">
+<span class="rrssb-icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29"><path d="M26.4 0H2.6C1.714 0 0 1.715 0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6 0 2.444.173 2.845.226v3.792H21.18c-1.817 0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884 0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z" /></svg>
+</span>
+<span class="rrssb-text">share</span>
+</a>
+</li>
+<li class="rrssb-twitter">
+<a href="https://twitter.com/intent/tweet?text=How%20to%20Make%20Best%20Use%20of%20Instagram%20Stories%20Stickers%20for%20Marketing%20https%3A//www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/%3Futm_source%3DTWITTER%26utm_medium%3Dsocial%26utm_campaign%3DGeneral%2BOutbound%20via%20socialmedia2day" class="popup share_mixpanel_event button" data-sharebutton="rrssb_share" data-shareusing="twitter">
+<span class="rrssb-icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62a15.093 15.093 0 0 1-8.86-2.32c2.702.18 5.375-.648 7.507-2.32a5.417 5.417 0 0 1-4.49-3.64c.802.13 1.62.077 2.4-.154a5.416 5.416 0 0 1-4.412-5.11 5.43 5.43 0 0 0 2.168.387A5.416 5.416 0 0 1 2.89 4.498a15.09 15.09 0 0 0 10.913 5.573 5.185 5.185 0 0 1 3.434-6.48 5.18 5.18 0 0 1 5.546 1.682 9.076 9.076 0 0 0 3.33-1.317 5.038 5.038 0 0 1-2.4 2.942 9.068 9.068 0 0 0 3.02-.85 5.05 5.05 0 0 1-2.48 2.71z" /></svg>
+</span>
+<span class="rrssb-text">tweet</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="article-large-10 columns article-wrapper">
+<div class="print-wrapper">
+<div class="">
+<p>Instagram just announced that <a href="https://www.socialmediatoday.com/news/instagram-stories-is-now-being-used-by-500-million-people-daily/547270/" rel="nofollow">500 million people</a> now use its Stories function every day. It’s a staggering number. 100 million more than were using it in <a href="https://www.socialmediatoday.com/news/instagram-stories-now-has-400-million-daily-active-users/526818/" rel="nofollow">June 2018</a>, and <a href="https://www.statista.com/chart/7951/snapchat-user-growth/" rel="nofollow">314 million</a> more than are using Snapchat in total, and the soaring popularity of the temporary photo and video sharing function proves that anyone who's serious about growing their influence on social simply can’t afford to not get on board.</p>
+<p>Every day, Stories are becoming more polished and interactive, as Instagram introduces new functions, and one of the most commonly used Stories tools is stickers.</p>
+<p>From emoji sliders, to polls and GIFs, these added extras can help you interact with your followers in fresh ways, and boost engagement - if, of course, you know how to use them correctly.</p>
+<p>In this post we'll cover exactly that - we’ll start with the basics.</p>
+<div align="center"><img alt="Instagram Story hashtags" src="/user_media/ckeditor/abrooks/2019/02/06/instagram-stories-explore.png" /></div>
+<h3 class="standard-heading"><strong>Hashtag Stickers</strong></h3>
+<h4><strong>What it is</strong></h4>
+<p>Hashtag stickers on Stories work in the same way as they do in captions, dropping your into a grouping of similarly tagged content - though only if Instagram thinks the post is strong in both quality and engagement.</p>
+<div class="hybrid-ad-wrapper show-small hide-large">
+<div class="hybrid-ad-inner-wrapper">
+<script type="text/javascript">
+                $(document).ready(function() {
+                    
+                    window.responsive_ads.prepend_hybrid_ad_html("#advert_hybridad1_mobile", '\u003Cp class\u003D\u0022story\u002Dbelow\u0022\u003EStory continues below\u003C/p\u003E', 1);
+                });
+            </script>
+<div class="show-small hide-large">
+<div data-container-ad-unit-id="/21662595662/socialmediatoday/socialmediatodayhybrid1-mobile"></div>
+<div id="dfp-hybrid1-mobile">
+<script>
+                    waitToLoadAds.push(function() {
+                        googletag.cmd.push(function() {
+                            if (window.dfp_visibility == 'mobile' ) { googletag.display('dfp-hybrid1-mobile'); }
+                        });
+                    });
+                    </script>
+</div>
+</div>
+</div>
+</div>
+<div class="hybrid-ad-wrapper hide-small show-large">
+<div class="hybrid-ad-inner-wrapper">
+<script type="text/javascript">
+                $(document).ready(function() {
+                    
+                    window.responsive_ads.prepend_hybrid_ad_html("#advert_hybridad2_desktop", '\u003Cp class\u003D\u0022story\u002Dbelow\u0022\u003EStory continues below\u003C/p\u003E', 1);
+                });
+            </script>
+<div class="hide-small show-large">
+<div data-container-ad-unit-id="/21662595662/socialmediatoday/socialmediatodayhybrid2-desktop"></div>
+<div id="dfp-hybrid2-desktop">
+<script>
+                    waitToLoadAds.push(function() {
+                        googletag.cmd.push(function() {
+                            if (window.dfp_visibility == 'desktop' ) { googletag.display('dfp-hybrid2-desktop'); }
+                        });
+                    });
+                    </script>
+</div>
+</div>
+</div>
+</div>
+<h4><strong>Why you should use it</strong></h4>
+<p>Hashtag stickers provide the potential to reach thousands of Instagrammers in your region and/or within your industry with similar interests. They can also help reiterate a brand message, threading together a campaign.</p>
+<div align="center"><img alt="Instagram Story location" src="/user_media/ckeditor/abrooks/2019/02/06/instagram-location-and-hashtag-stories.png" /></div>
+<h3 class="standard-heading"><strong>Location Stickers</strong></h3>
+<h4><strong>What it is</strong></h4>
+<p>The location sticker enables users to tag where they are, and when clicked, this tag takes the user to other photos and videos posted from the same location, as well as displaying it on a map.</p>
+<h4><strong>Why you should use it</strong></h4>
+<p>Imagine someone's following a restaurant account because they're thinking of paying it a visit. If they follow that location link to all of the amazing content you and your customers have posted there, it might be the final persuasion they need.</p>
+<p>Tagging a location can also help to boost your Story’s discoverability. Instagram users can search a specific location and see a compilation Story from all the other Story posts by users which include that location sticker. If you can get your local business in there, you might earn yourself some extra visits.</p>
+<div align="center"><img alt="Instagram Story mention" src="/user_media/ckeditor/abrooks/2019/02/06/_mention_story_sharing_4_up0.png" /></div>
+<h3 class="standard-heading"><strong>Mention Sticker</strong></h3>
+<h4><strong>What it is</strong></h4>
+<p>The mention sticker enables you to tag another Instagram user in your story. When clicked, the tag takes the user to that person or business' profile, and Instagram notifies the user that you've tagged of the mention.</p>
+<h4><strong>Why you should use it</strong></h4>
+<p>Instagram recently <a href="https://www.socialmediatoday.com/news/instagram-officially-launches-ability-to-re-share-user-posts-in-stories/523819/">made it easier than ever</a> for users to share Stories in which they are mentioned. That means that if you tag someone, they’re likely share your story with all of their followers too, increasing your reach.</p>
+<p>In addition, it can also be a great way to share user-generated content. If you ask your customers to tag you in their stories, you could get some great authentic content to share on your Story feed.</p>
+<div align="center"><img alt="Instagram Story gifs" src="/user_media/ckeditor/abrooks/2019/02/06/1516767620_instagram-gif_stickers.gif" /></div>
+<h3 class="standard-heading"><strong>GIFs</strong></h3>
+<h4><strong>What it is</strong></h4>
+<p>A wide selection of moving and static graphics you can overlay on to your image.</p>
+<h4><strong>Why you should use it</strong></h4>
+<p>Instagram Stories is a great way to showcase the fun, whimsical side of your brand personality, without interfering with your carefully curated feed. GIFs make it easy to add some humor and interest to otherwise conventional imagery.</p>
+<p>Remember, to keep the interest of your followers, you should be offering them value at every opportunity, and a moment of entertainment definitely counts.</p>
+<div align="center"><img alt="Instagram Story music" src="/user_media/ckeditor/abrooks/2019/02/06/instagram-stories-music.png" /></div>
+<h3 class="standard-heading"><strong>Music Stickers</strong></h3>
+<h4><strong>What it is</strong></h4>
+<p>A <a href="https://www.socialmediatoday.com/news/instagram-adds-new-music-sharing-option-question-stickers-to-live/544676/">library of songs</a>, categorized by ‘popular’, ‘moods’, and ‘genres’. Listen to previews, pick a track, then select the exact part of the song you want playing during your Story.</p><div id="inline-signup-location" style="display:none"></div>
+<h4><strong>Why you should use it</strong></h4>
+<p>Like GIFs, music can add another element to your Story to set the scene, add emotion or convey personality. The music you choose can help your followers identify your brand personality, while it also gives you a rare chance to set your content to music, without any rights issues.</p>
+<div align="center"><img alt="Instagram Story poll" src="/user_media/ckeditor/abrooks/2019/02/06/poll.jpg" /></div>
+<h3 class="standard-heading"><strong>Poll Stickers</strong></h3>
+<h4><strong>What it is</strong></h4>
+<p>An <a href="https://www.socialmediatoday.com/social-networks/instagram-adds-polls-stories-new-creative-tools">interactive feature</a> that can be customized, enabling you to pose any question to your followers, and giving them two options to choose from. They tap their chosen answer and the results are delivered to you.</p>
+<h4><strong>Why you should use it</strong></h4>
+<p>It gives your followers an easy and instant way to interact with you, beyond the traditional likes and comments, which can help to form deeper connection. Not only can an instant poll from your customers prove useful in making product decisions (hello instant focus group), but it can also show your followers than you care about and consider their opinions.</p>
+<div align="center"><img alt="Instagram Story questions" src="/user_media/ckeditor/abrooks/2019/02/06/11-07-instagram-stories-questions-0.jpg" /></div>
+<h3 class="standard-heading"><strong><strong>Question Stickers</strong></strong></h3>
+<h4><strong>What is it</strong></h4>
+<p>A prompt for your followers to ask you question. The sticker box shows both the prompt you've typed - for example “Ask us anything” - and a box for your followers to type into. Their response gets delivered directly so can answer, again via Instagram Stories.</p>
+<h4 class="standard-heading"><strong>Why you should use it</strong></h4>
+<p>Q and A can really galvanize your followers, and give you some insight into the type of things they're most interested in. Whether you answer directly as a brand, or use it as another way to showcase your ambassadors, the Q and A can become a piece of content in its own right.</p>
+<p>A fashion brand for example, could use a stylist to answer style questions and suggest outfit solutions, shoppable from their answers.</p>
+<p>If you plan on hosting an Instagram Live session, it can be helpful to gather some standby questions ahead of time. Increasingly, brands are also using this function to collect data for their ‘frequently asked questions’, or just for general feedback.</p>
+<div align="center"><img alt="Instagram Story countdown" src="/user_media/ckeditor/abrooks/2019/02/06/instagram_stories_countdown.png" /></div>
+<h3 class="standard-heading"><strong>Countdown Stickers</strong></h3>
+<h4><strong>What is it</strong></h4>
+<p>A sticker that <a href="https://www.socialmediatoday.com/news/instagram-adds-new-countdown-sticker-to-instagram-stories/544247/">counts down</a> to a date and time that you set.</p>
+<h4><strong>Why you should use it</strong></h4>
+<p>It’s the perfect way to build momentum around a product launch or event, while the option helps you maintain this interest too, since your followers can subscribe to your countdown event (which then sends them a reminder when the time is up).</p>
+<p>They’re also able to share the countdown with their own followers, boosting the reach of your message. The sticker can be used for a function, as well as for fun - for example, letting your followers know the deadline for weekend delivery slots.</p>
+<div align="center"><img alt="Instagram Story emoji slider" data-imagemodel="59920" src="/user_media/diveimage/emoji_slider.png" /></div>
+<h3 class="standard-heading"><strong>Emoji slider </strong></h3>
+<h4><strong>What is it</strong></h4>
+<p>This sticker is a question, followed by a sliding scale with a emoji attached, giving your audience a chance to communicate how much the like or dislike something by placing the emoji.</p>
+<h4><strong>Why you should use it</strong></h4>
+<p>It's a fun, and fast way to ask: “What do you think of this?” It’s a similar premise to the poll, but thanks to the element of gamification, your followers might find the interaction even more irresistible. It's worth trying out both with your followers to see which they respond best to.</p>
+<div align="center"><img alt="Instagram Story shopping" src="/user_media/ckeditor/abrooks/2019/02/06/instagram-shopping.png" /></div>
+<h3 class="standard-heading"><strong>Shoppable tags</strong></h3>
+<h4><strong>What is it</strong></h4>
+<p>First appearing in feed, <a href="https://www.socialmediatoday.com/news/instagram-adds-new-shopping-tags-within-instagram-stories/525563/">shoppable tags</a> can now be added to Instagram Stories also. When clicked, the tags display additional product information, including links to an eCommerce page where they can make a subsequent purchase is desired.</p>
+<h4><strong>Why you should use it</strong></h4>
+<p>These tags are one of the most eagerly anticipated Instagram Stories features for brands, because they provide a smoother alternative to the current 'link in bio' process. By giving potential customers an (almost) frictionless path to purchase, at the moment you have their interest, you decrease the chance of losing them on the way - and increase the chances of making a sale.</p>
+<p>Try to consider your Instagram Stories content as a strategy in its own right - thoughtful use of the functions (including the <a href="https://www.socialmediatoday.com/news/instagram-stories-quiz-stickers-could-be-a-step-closer-another-tool-worth/547484/">new ones</a> which are being rolled out on a regular basis) can provide brands with significant opportunity and insight, which shouldn’t be wasted.</p>
+<p>With growing concerns about the Instagram algorithm <a href="https://www.socialmediatoday.com/news/instagram-debunks-growing-myth-around-post-reach-restrictions/546680/">limiting the visibility of posts </a><a href="https://www.socialmediatoday.com/news/instagram-debunks-growing-myth-around-post-reach-restrictions/546680/">in </a><a href="https://www.socialmediatoday.com/news/instagram-debunks-growing-myth-around-post-reach-restrictions/546680/">the</a><a href="https://www.socialmediatoday.com/news/instagram-debunks-growing-myth-around-post-reach-restrictions/546680/"> main feed</a>, Stories provide a valuable alternative option in which to reach your audience.</p>
+</div>
+<div class="post-article-wrapper">
+<div class="share-buttons">
+<ul class="rrssb-buttons clearfix">
+<li class="rrssb-facebook">
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/%3Futm_source%3DTWITTER%26utm_medium%3Dsocial%26utm_campaign%3DGeneral%2BOutbound" class="popup share_mixpanel_event button" data-sharebutton="rrssb_share" data-shareusing="facebook">
+<span class="rrssb-icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 29 29"><path d="M26.4 0H2.6C1.714 0 0 1.715 0 2.6v23.8c0 .884 1.715 2.6 2.6 2.6h12.393V17.988h-3.996v-3.98h3.997v-3.062c0-3.746 2.835-5.97 6.177-5.97 1.6 0 2.444.173 2.845.226v3.792H21.18c-1.817 0-2.156.9-2.156 2.168v2.847h5.045l-.66 3.978h-4.386V29H26.4c.884 0 2.6-1.716 2.6-2.6V2.6c0-.885-1.716-2.6-2.6-2.6z" /></svg>
+</span>
+<span class="rrssb-text">share</span>
+</a>
+</li>
+<li class="rrssb-twitter">
+<a href="https://twitter.com/intent/tweet?text=How%20to%20Make%20Best%20Use%20of%20Instagram%20Stories%20Stickers%20for%20Marketing%20https%3A//www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/%3Futm_source%3DTWITTER%26utm_medium%3Dsocial%26utm_campaign%3DGeneral%2BOutbound%20via%20socialmedia2day" class="popup share_mixpanel_event button" data-sharebutton="rrssb_share" data-shareusing="twitter">
+<span class="rrssb-icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M24.253 8.756C24.69 17.08 18.297 24.182 9.97 24.62a15.093 15.093 0 0 1-8.86-2.32c2.702.18 5.375-.648 7.507-2.32a5.417 5.417 0 0 1-4.49-3.64c.802.13 1.62.077 2.4-.154a5.416 5.416 0 0 1-4.412-5.11 5.43 5.43 0 0 0 2.168.387A5.416 5.416 0 0 1 2.89 4.498a15.09 15.09 0 0 0 10.913 5.573 5.185 5.185 0 0 1 3.434-6.48 5.18 5.18 0 0 1 5.546 1.682 9.076 9.076 0 0 0 3.33-1.317 5.038 5.038 0 0 1-2.4 2.942 9.068 9.068 0 0 0 3.02-.85 5.05 5.05 0 0 1-2.48 2.71z" /></svg>
+</span>
+<span class="rrssb-text">tweet</span>
+</a>
+</li>
+<li class="rrssb-linkedin">
+<a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A//www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/%3Futm_source%3DTWITTER%26utm_medium%3Dsocial%26utm_campaign%3DGeneral%2BOutbound&amp;title=How%20to%20Make%20Best%20Use%20of%20Instagram%20Stories%20Stickers%20for%20Marketing" class="popup share_mixpanel_event button" data-sharebutton="rrssb_share" data-shareusing="linkedin">
+<span class="rrssb-icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28 28"><path d="M25.424 15.887v8.447h-4.896v-7.882c0-1.98-.71-3.33-2.48-3.33-1.354 0-2.158.91-2.514 1.802-.13.315-.162.753-.162 1.194v8.216h-4.9s.067-13.35 0-14.73h4.9v2.087c-.01.017-.023.033-.033.05h.032v-.05c.65-1.002 1.812-2.435 4.414-2.435 3.222 0 5.638 2.106 5.638 6.632zM5.348 2.5c-1.676 0-2.772 1.093-2.772 2.54 0 1.42 1.066 2.538 2.717 2.546h.032c1.71 0 2.77-1.132 2.77-2.546C8.056 3.593 7.02 2.5 5.344 2.5h.005zm-2.48 21.834h4.896V9.604H2.867v14.73z" /></svg>
+</span>
+<span class="rrssb-text">post</span>
+</a>
+</li>
+<li class="rrssb-email">
+<a href="/cdn-cgi/l/email-protection#fac5a98f98909f998ec7b2958ddfc8ca8e95dfc8cab79b919fdfc8cab89f898edfc8caaf899fdfc8ca959cdfc8cab394898e9b9d889b97dfc8caa98e9588939f89dfc8caa98e9399919f8889dfc8ca9c9588dfc8cab79b88919f8e93949ddc9b978ac1b8959e83c7928e8e8a89dfc9bbd5d58d8d8dd4899599939b96979f9e939b8e959e9b83d4999597d5949f8d89d592958dd78e95d7979b919fd7989f898ed78f899fd7959cd79394898e9b9d889b97d7898e9588939f89d7898e9399919f8889d79c9588d7979b88919f8e93949dd5cfcecdc2ccc8d5dfc9bc8f8e97a589958f88999fdfc9beaeadb3aeaebfa8dfc8cc8f8e97a5979f9e938f97dfc9be899599939b96dfc8cc8f8e97a5999b978a9b939d94dfc9bebd9f949f889b96dfc8b8b58f8e98958f949e" class="share_mixpanel_event button" data-sharebutton="rrssb_share" data-shareusing="email">
+<span class="rrssb-icon">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M21.386 2.614H2.614A2.345 2.345 0 0 0 .279 4.961l-.01 14.078a2.353 2.353 0 0 0 2.346 2.347h18.771a2.354 2.354 0 0 0 2.347-2.347V4.961a2.356 2.356 0 0 0-2.347-2.347zm0 4.694L12 13.174 2.614 7.308V4.961L12 10.827l9.386-5.866v2.347z" /></svg>
+</span>
+<span class="rrssb-text">email</span>
+</a>
+</li>
+<li class="rrssb-print">
+<a href="javascript:window.print()" class="share_mixpanel_event button" data-sharebutton="rrssb_share" data-shareusing="print">
+<span class="rrssb-icon">
+<svg viewbox="0 0 24 24"><path fill="#000000" d="M18,3H6V7H18M19,12A1,1 0 0,1 18,11A1,1 0 0,1 19,10A1,1 0 0,1 20,11A1,1 0 0,1 19,12M16,19H8V14H16M19,8H5A3,3 0 0,0 2,11V17H6V21H18V17H22V11A3,3 0 0,0 19,8Z"></path></svg>
+</span>
+<span class="rrssb-text">print</span>
+</a>
+</li>
+</ul>
+</div>
+<div class="post-article-topics">
+<span>Filed Under:</span>
+<a class="topic" href="/topic/content-marketing/">Content Marketing</a>
+<a class="topic" href="/topic/digital-strategy/">Digital Strategy</a>
+<a class="topic" href="/topic/social-marketing/">Social Marketing</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+<div style="display: none;" id="inline-signup-html">
+<div class="inline-signup">
+<p>Get social media news like this in your inbox daily. Subscribe to Social Media Today:</p>
+<form class="form-generic" name="signup" action="/signup/" method="POST" id="signup_right_sidebar">
+<label for="id_464a24_email" class="email-input js-email-input">
+<span class="screen-reader-text">Email:</span>
+<input type="email" name="email" required placeholder="Enter your work email" class="email" id="id_464a24_email" />
+</label>
+<input type="hidden" name="signup_box_location" value="inline">
+<input type="hidden" name="signup_url" value="https://www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/?utm_source=TWITTER&amp;utm_medium=social&amp;utm_campaign=General+Outbound" id="id_464a24_signup_url" />
+<input type="hidden" name="js_enabled" id="id_464a24_js_enabled" value="0" />
+<ul class="signup-list list-no-bullets">
+<li>
+<span class="newsletter-title">Social Media Today</span>
+<p class="newsletter-description">The must-read news, updates, and insights into all things social media marketing.</p>
+<span class="label secondary">Daily</span>
+</li>
+</ul>
+<button class="button email material full-width" type="submit" value="Sign up">Sign up</button>
+<label class="error email_error" style="display:none;">A valid email address is required.</label>
+<label class="error newsletter-error" style="display:none;">Please select at least one newsletter.</label>
+<span class="help-text">
+By signing up you agree to our <a href="http://www.industrydive.com/privacy-policy/" target="_blank">privacy policy</a>. You can opt out anytime.
+</span>
+</form>
+</div>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+
+            $(document).ready(function () {
+                $signup_spot = $("#inline-signup-location");
+                $signup = $("#inline-signup-html .inline-signup");
+                $signup_spot.append($signup);
+                $signup_spot.show();
+                $("#inline-signup-html").remove();
+            });
+
+        </script>
+</section>
+<aside class="sidebar large-4 columns">
+<div class="hybrid-ad-wrapper hide-small show-large">
+<div class="hybrid-ad-inner-wrapper">
+<div class="hide-small show-large">
+<div data-container-ad-unit-id="/21662595662/socialmediatoday/socialmediatodayhybrid1-desktop"></div>
+<div id='dfp-hybrid1-desktop'>
+<script>
+                    waitToLoadAds.push(function() {
+                        googletag.cmd.push(function() {
+                            if (window.dfp_visibility == 'desktop' ) { googletag.display('dfp-hybrid1-desktop'); }
+                        });
+                    });
+                    </script>
+</div>
+</div>
+</div>
+</div>
+<div class="signup sidebar-box hide-small show-large" data-box-priority="0">
+<h3>GET THE NEWSLETTER</h3>
+<p>Subscribe to <strong>Social Media Today</strong> to get the must-read news & insights in your inbox.</p>
+<form class="form-generic" name="signup" action="/signup/" method="POST" id="signup_right_sidebar">
+<label for="id_1a2456_email" class="email-input js-email-input">
+<span class="screen-reader-text">Email:</span>
+<input type="email" name="email" required placeholder="Enter your work email" class="email" id="id_1a2456_email" />
+</label>
+<input type="hidden" name="signup_box_location" value="sidebar">
+<input type="hidden" name="signup_url" value="https://www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/?utm_source=TWITTER&amp;utm_medium=social&amp;utm_campaign=General+Outbound" id="id_1a2456_signup_url" />
+<input type="hidden" name="js_enabled" id="id_1a2456_js_enabled" value="0" />
+<ul class="signup-list list-no-bullets">
+<li>
+<span class="newsletter-title">Social Media Today</span>
+<p class="newsletter-description">The must-read news, updates, and insights into all things social media marketing.</p>
+<span class="label secondary">Daily</span>
+</li>
+</ul>
+<button class="button email material full-width" type="submit" value="Sign up">Sign up</button>
+<label class="error email_error" style="display:none;">A valid email address is required.</label>
+<label class="error newsletter-error" style="display:none;">Please select at least one newsletter.</label>
+<span class="help-text">
+By signing up you agree to our <a href="http://www.industrydive.com/privacy-policy/" target="_blank">privacy policy</a>. You can opt out anytime.
+</span>
+</form>
+</div>
+<div class="sidebar-box" data-box-priority="2">
+<h3><img src="/static/img/most-popular-icon.png?550216110918" class="sidebar-title-icon" />Most Popular</h3>
+<ol class="image-first-story">
+<li>
+
+<a class="hide-small show-large" href="/news/21-instagram-facts-that-all-ecommerce-businesses-should-know-infographic/548064/">
+<img src='/user_media/cache/77/b7/77b74bd5c83ac0749c6f303eb4dc3499.jpg' alt="story image">
+<span class="first-number">1.</span>
+</a>
+<a class="sidebar-list-title" href="/news/21-instagram-facts-that-all-ecommerce-businesses-should-know-infographic/548064/">21 Instagram Facts That All eCommerce Businesses Should Know [Infographic]</a> 
+</li>
+<li>
+<a class="sidebar-list-title" href="/news/linkedin-marketing-priorities-in-2019-infographic/548935/">LinkedIn Marketing Priorities in 2019 [Infographic]</a> 
+</li>
+<li>
+<a href="/topic/influencers/" class="post-label primary">SMT Influencer</a>
+<a class="sidebar-list-title" href="/news/how-to-create-a-social-media-content-strategy/549035/">How to Create a Social Media Content Strategy</a> 
+</li>
+<li>
+<a class="sidebar-list-title" href="/news/10-of-the-best-social-media-marketing-tools-for-2019-infographic/548658/">10 of the Best Social Media Marketing Tools for 2019 [Infographic]</a> 
+</li>
+<li>
+<a class="sidebar-list-title" href="/news/using-excels-facebook-ads-manager-to-transform-your-ad-reporting/548717/">Using Excel&#39;s Facebook Ads Manager to Transform Your Ad Reporting</a> 
+</li>
+</ol>
+</div>
+<div class="sidebar-box" data-box-priority="3">
+<h3><img src="/static/img/staff-picks-icon.png?550216110918" class="sidebar-title-icon" height="35px" />Staff Picks</h3>
+<ul class="list-no-bullets">
+<li>
+<a class="sidebar-list-title" href="/news/12-of-the-best-social-media-analytics-tools-and-how-they-can-help-your-bus/546568/">12 of the Best Social Media Analytics Tools (and How They Can Help Your Business)</a> 
+</li>
+<li>
+<a class="sidebar-list-title" href="/news/20-linkedin-tips-to-help-boost-engagement/545369/">20 LinkedIn Tips to Help Boost Engagement</a> 
+</li>
+<li>
+<a class="sidebar-list-title" href="/news/5-instagram-experiments-worth-trying-in-2019/545370/">5 Instagram Experiments Worth Trying in 2019</a> 
+</li>
+<li>
+<a class="sidebar-list-title" href="/news/5-social-media-trends-to-watch-in-2019/544441/">5 Social Media Trends to Watch in 2019</a> 
+</li>
+</ul>
+</div>
+<div class="sidebar-box hide-small show-large" data-box-priority="6">
+<h3><img src="/static/img/event-calendar-icon.png?550216110918" class="sidebar-title-icon" height="35" />Events</h3>
+<div class="sidebar-box-content">
+<ul class="list-no-bullets">
+<li>
+<a class="sidebar-list-title" href="/events/social-shake-up-show-atlanta-ga-apr-06-2019-social-media-today/">Social Shake-Up Show</a>
+<span class="label secondary">May 6 &ndash; May 8, 2019</span>
+<br />
+<span class="label secondary">
+Atlanta, GA
+</span>
+</li>
+<li>
+<a class="sidebar-list-title" href="/events/traffic-conversion-summit-2019-san-diego-ca-feb-25-2019-social-media-today/">Traffic &amp; Conversion Summit 2019</a>
+<span class="label secondary">Feb 25 &ndash; Feb 27, 2019</span>
+<br />
+<span class="label secondary">
+San Diego, CA
+</span>
+</li>
+<li>
+<a class="sidebar-list-title" href="/events/martech-west-san-jose-ca-mar-03-2019-social-media-today/">MarTech West</a>
+<span class="label secondary">Mar 3 &ndash; Mar 5, 2019</span>
+<br />
+<span class="label secondary">
+San Jose, CA
+</span>
+</li>
+<li>
+<a class="sidebar-list-title" href="/events/leadscon-las-vegas-nv-mar-04-2019-social-media-today/">LeadsCon</a>
+<span class="label secondary">Mar 4, 2019</span>
+<br />
+<span class="label secondary">
+Las Vegas, NV
+</span>
+</li>
+</ul>
+<a class="cta" href="/events/">View all events</a>
+</div>
+</div>
+<div class="sidebar-box hide-small show-large" data-box-priority="4">
+<h3>LIBRARY</h3>
+<ul class="list-no-bullets image-first-story">
+<li>
+
+<span class="label">eBook</span>
+<a class="sidebar-list-title" target="_blank" href="/library/ion-interactive-content-marketing-toolkit/">Generate, Qualify and Profile More Leads</a>
+<span class="label secondary">Ion Interactive</span>
+</li>
+</ul>
+<a class="cta" href="/library/">View all</a>
+</div>
+<div class="hybrid-ad-wrapper hide-small show-large">
+<div class="hybrid-ad-inner-wrapper">
+<div class="hide-small show-large">
+<div data-container-ad-unit-id="/21662595662/socialmediatoday/socialmediatodayhybrid3-desktop"></div>
+<div id='dfp-hybrid3-desktop'>
+<script>
+                    waitToLoadAds.push(function() {
+                        googletag.cmd.push(function() {
+                            if (window.dfp_visibility == 'desktop' ) { googletag.display('dfp-hybrid3-desktop'); }
+                        });
+                    });
+                    </script>
+</div>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+</div> 
+<section class="pre-footer">
+<section class="signup call-out">
+<div class="row">
+<div class="large-9 medium-10 medium-centered columns">
+<h3>Get Social Media Today in your inbox</h3>
+<p class="subhead">The free newsletter covering the top industry headlines</p>
+<form class="form-generic" name="signup" action="/signup/" method="POST" id="signup_right_sidebar">
+<label for="id_cd1d34_email" class="email-input js-email-input">
+<span class="screen-reader-text">Email:</span>
+<input type="email" name="email" required placeholder="Enter your work email" class="email" id="id_cd1d34_email" />
+</label>
+<input type="hidden" name="signup_box_location" value="bottom">
+<input type="hidden" name="signup_url" value="https://www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/?utm_source=TWITTER&amp;utm_medium=social&amp;utm_campaign=General+Outbound" id="id_cd1d34_signup_url" />
+<input type="hidden" name="js_enabled" id="id_cd1d34_js_enabled" value="0" />
+<ul class="signup-list list-no-bullets">
+<li>
+<span class="newsletter-title">Social Media Today</span>
+<p class="newsletter-description">The must-read news, updates, and insights into all things social media marketing.</p>
+<span class="label secondary">Daily</span>
+</li>
+</ul>
+<button class="button email material full-width" type="submit" value="Sign up">Sign up</button>
+<label class="error email_error" style="display:none;">A valid email address is required.</label>
+<label class="error newsletter-error" style="display:none;">Please select at least one newsletter.</label>
+<span class="help-text">
+By signing up you agree to our <a href="http://www.industrydive.com/privacy-policy/" target="_blank">privacy policy</a>. You can opt out anytime.
+</span>
+</form>
+</div>
+</div>
+</section>
+</section>
+<hr class="footer-hr">
+<footer>
+<div class="custom-article-footer">
+<div class="row">
+<div class="medium-6 columns">
+<h4>Explore</h4>
+<ul class="list-no-bullets footer-links">
+<li>
+<a href="/submit-tip/">Submit A Tip</a>
+</li>
+<li>
+<a href="/editors/">Editorial Team</a>
+</li>
+<li>
+<a href="/about/">About</a>
+</li>
+<li>
+<a href="/signup/">Newsletter</a>
+</li>
+<li>
+<a href="https://www.industrydive.com/article-reprints/">Article Reprints</a>
+ </li>
+<li>
+<a href="/advertise/">Advertising</a>
+</li>
+<li>
+<a href="/feedback/">Contact</a>
+</li>
+</ul>
+<h4>Related Publications</h4>
+<ul class="list-no-bullets footer-links">
+<li><a href="https://www.marketingdive.com">Marketing Dive</a></li>
+<li><a href="https://www.mobilemarketer.com">Mobile Marketer</a></li>
+</ul>
+<h4>Follow</h4>
+<a href="https://twitter.com/socialmedia2day" class="button social"><img src="/static/img/social_icons/twitter-follow-icon-black.png?550216110918" alt="Twitter"></a>
+<a href="https://www.facebook.com/socmediatoday" class="button social"><img src="/static/img/social_icons/facebook-follow-icon-black.png?550216110918" alt="Facebook"></a>
+<a href="https://www.linkedin.com/company/599586/" class="button social"><img src="/static/img/social_icons/linkedin-follow-icon-black.png?550216110918" alt="LinkedIn"></a>
+<a href="https://www.socialmediatoday.com/feeds/news/" class="button social"><img src="/static/img/social_icons/rss-follow-icon-black.png?550216110918" alt="LinkedIn"></a>
+</div>
+
+<form id="footer-feedback-form" class="form-generic feedback" method="POST" action="/feedback/" onsubmit="javascript:$('#feedback-footer-canary').val('(blank)');$('#mixpanel_id').val(mixpanel.get_distinct_id());">
+<div class="medium-6 columns">
+<div class="footer-section-wrapper">
+<h4>Feedback</h4>
+<label for="email" class="email-input">
+<span class="screen-reader-text">Work Email:</span>
+<input id="email" type="email" name="email" placeholder="Enter your work email" required />
+</label>
+<label for="feedback">
+<span class="screen-reader-text">Message:</span>
+<textarea id="feedback" name="feedback" placeholder="Send us your feedback here" required></textarea>
+</label>
+<div class="g-recaptcha" data-sitekey="6LfnFggUAAAAAKaDTgN6vqjZtnNENIqa--TCG9F4"></div>
+<button type="submit" class="button material grey full-width">Submit</button>
+</div>
+</div>
+<div style="display:none">
+<label for="feedback-footer-canary">Please leave this field blank
+<input id="feedback-footer-canary" type="text" name="canary" />
+<input id="mixpanel_id" type="text" name="mixpanel_id" value="blank" />
+</label>
+</div>
+</form>
+</div>
+</div>
+</footer>
+<hr class="footer-hr">
+<div class="baseline-footer-wrapper">
+
+<div class="baseline-footer">
+&copy; 2019 <a href="http://www.industrydive.com">Industry Dive</a>. All rights reserved. | View our <a href="http://www.industrydive.com/industries/">other publications</a>
+| <a href="http://www.industrydive.com/privacy-policy/">Privacy policy</a>
+| <a href="http://www.industrydive.com/terms-of-use/">Terms of use</a>
+| <a href="http://www.industrydive.com/takedown-policy/">Take down policy</a>.
+</div>
+</div>
+</div>
+</div>
+
+<nav class="mobile-menu">
+<div class="mm-top-bar">
+<button class="mobile-menu-toggle">
+<img src="/static/img/menu_icons/close_white.svg?550216110918" alt="menu" />
+</button>
+<div class="mm-search">
+<form action="/search/" method="GET" data-ajax="false">
+<label for="search">
+<span class="screen-reader-text">Search</span>
+<input id="search" type="search" name="q" placeholder="search" data-role="none">
+</label>
+<button type="submit" value="" data-role="none">
+<img src="/static/img/menu_icons/search.svg?550216110918" alt="search">
+</button>
+</form>
+</div>
+</div>
+<ul class="mm-list list-no-bullets">
+<li>
+<a href="/" class="">
+<img src="/static/img/menu_icons/home.svg?550216110918" width="20" height="20" alt="home">
+<span>Home</span>
+</a>
+</li>
+<li class="mm-accordion">
+<button>
+<img src="/static/img/menu_icons/topics.svg?550216110918" width="20" height="20" alt="topics" />
+<span>Topics</span>
+<span class="accordion-toggle-arrow">
+<img src="/static/img/menu_icons/chevron_down.svg?550216110918" alt="down arrow" />
+</span>
+</button>
+<ul class="list-no-bullets">
+<li>
+<a class="" href="/topic/social-media-updates/">Social Media Updates</a>
+</li>
+<li>
+<a class="" href="/topic/trending/">Trending</a>
+</li>
+<li>
+<a class="" href="/topic/social-marketing/">Social Marketing</a>
+</li>
+<li>
+<a class="" href="/topic/digital-strategy/">Digital Strategy</a>
+</li>
+<li>
+<a class="" href="/topic/content-marketing/">Content Marketing</a>
+</li>
+</ul>
+</li>
+<li>
+<a href="/library/" class="">
+<img src="/static/img/menu_icons/library.svg?550216110918" width="20" height="20" alt="library">
+<span>Library</span>
+</a>
+</li>
+<li>
+<a href="/community">
+<img src="/static/img/menu_icons/community.svg?550216110918" width="20" height="20" alt="community" />
+<span>Community</span>
+</a>
+</li>
+<li>
+<a href="/contribute/">
+<img src="/static/img/menu_icons/write-for-us.svg?550216110918" width="20" height="20" alt="write for us">
+<span>Write for Us</span>
+</a>
+</li>
+<li>
+<a href="/account/login/">
+<img src="/static/img/menu_icons/lock.svg?083516091018" width="20" height="20" alt="home">
+<span>Log in</span>
+</a>
+</li>
+</ul>
+<section class="signup mm-signup">
+<div class="row">
+<div class="columns">
+<h3>Get Social Media Today in your inbox</h3>
+<p class="subhead">The free newsletter covering the top industry headlines</p>
+<form class="form-generic" name="signup" action="/signup/" method="POST" id="signup_right_sidebar">
+<label for="id_b7a620_email" class="email-input js-email-input">
+<span class="screen-reader-text">Email:</span>
+<input type="email" name="email" required placeholder="Enter your work email" class="email" id="id_b7a620_email" />
+</label>
+<input type="hidden" name="signup_box_location" value="integrated_menu">
+<input type="hidden" name="signup_url" value="https://www.socialmediatoday.com/news/how-to-make-best-use-of-instagram-stories-stickers-for-marketing/547862/?utm_source=TWITTER&amp;utm_medium=social&amp;utm_campaign=General+Outbound" id="id_b7a620_signup_url" />
+<input type="hidden" name="js_enabled" id="id_b7a620_js_enabled" value="0" />
+<ul class="signup-list list-no-bullets">
+<li>
+<span class="newsletter-title">Social Media Today</span>
+<p class="newsletter-description">The must-read news, updates, and insights into all things social media marketing.</p>
+<span class="label secondary">Daily</span>
+</li>
+</ul>
+<button class="button email material full-width" type="submit" value="Sign up">Sign up</button>
+<label class="error email_error" style="display:none;">A valid email address is required.</label>
+<label class="error newsletter-error" style="display:none;">Please select at least one newsletter.</label>
+<span class="help-text">
+By signing up you agree to our <a href="http://www.industrydive.com/privacy-policy/" target="_blank">privacy policy</a>. You can opt out anytime.
+</span>
+</form>
+</div>
+</div>
+</section>
+</nav>
+<script src="/static/js/news.js?550216110918" async></script>
+<script>
+        //Add styling for pdf only if admin button is clicked
+        $(".download-promoted-story-button").click(function(){
+            $("body").addClass("admin-pdf-styling");
+        });
+        $(".rrssb-print").click(function(){
+            if ($("body").hasClass("admin-pdf-styling")){
+                $("body").removeClass("admin-pdf-styling");
+            }
+        });
+
+    </script>
+<!--[if lt IE 9]>
+            <script type="text/javascript" src="/static/js/rem.min.js?550216110918" ></script>
+        <![endif]-->
+
+
+<script src="https://ak.sail-horizon.com/spm/spm.v1.min.js"></script>
+<script type="text/javascript">
+    $(function() {
+        // Sailthru Personalization Engine Setup
+        var sailthru_setup = {
+            customerId: '12ab35a80530ffa5450add9c09f5de04',
+            domain: 'horizon.socialmediatoday.com',
+            spider: true
+        };
+        
+        if (window.Sailthru) {
+            Sailthru.init(sailthru_setup);
+        }
+    });
+</script>
+<script async type="text/javascript" src="/static/js/shared.js?550216110918"></script>
+<script>
+            // Set cookie if we're on mobile app. Expire if we're not. This affects
+            // which template is used to display the site to the user.
+            $(document).ready(function() {
+                // Get integer value of mobileapp param from URL and default to 0 if it doesn't exist
+                var mobileapp = '';
+
+                // Set cookie if mobileapp is 1 or 2 or expire cookie if mobileapp == 0
+                if (mobileapp == '0') {
+                    document.cookie = 'mobileapp=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+                } else if (mobileapp == '1' || mobileapp == '2') {
+                    document.cookie = 'mobileapp=' + mobileapp + '; path=/;';
+                }
+            });
+        </script>
+<script type="text/javascript">
+            function alert_recaptcha(event) {
+                /*
+                Generic function to check whether the recaptcha widget in the page has been checked or not.
+                If not, does not submit the form and instead prompts the user with a modal to do so.
+                Can/should be used against submit events for forms installed with a google recaptcha widget.
+                I abstracted it here because I use it on other derived pages and wanted to keep it a bit more DRY.
+                */
+                var recaptcha_checked = grecaptcha.getResponse().length > 0;
+                if (!recaptcha_checked) {
+                    event.preventDefault();
+                    alert("Please verify that you are not a robot")
+                }
+            }
+
+            $('#footer-feedback-form').submit(function(event){
+                // check if the user filled out the recaptcha widget
+                alert_recaptcha(event)
+            });
+        </script>
+</body>
+</html>

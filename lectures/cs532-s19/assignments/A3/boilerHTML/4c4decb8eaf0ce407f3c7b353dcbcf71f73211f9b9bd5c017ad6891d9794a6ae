@@ -1,0 +1,7 @@
+게시판 헤더 배경이미지
+게시판 상단 내용
+<div class="col2"><div class="boxA"> <img class="zbxe_widget_output" widget="colorize02_widget" skin="colorize02_widget_skin" module_srls="135" content_type="document" is_notice="N" list_type="normal" show_rank="Y" tab_type="N" w_title="영화수다 1일 조회순" title_line="N" list_count="6" page_count="3" show_page_num="Y" subject_cut_size="50" subject_font_size="12" thumb_space="20" option_view="title" show_comment_count="Y" show_browser_title="N" show_category="N" show_user_icon="Y" show_icon="N" order_target="readed_count" order_type="desc" regdate="1" slide_title="Y" slide_arrow="Y" slide_page="Y" is_board_top="N" /> </div></div><div class="col2"><div class="boxB"> <img class="zbxe_widget_output" widget="colorize02_widget" skin="colorize02_widget_skin" module_srls="135" content_type="document" is_notice="N" list_type="normal" show_rank="Y" tab_type="N" w_title="영화수다 1일 추천순" title_line="N" list_count="6" page_count="3" show_page_num="Y" subject_cut_size="50" subject_font_size="12" thumb_space="20" option_view="title" show_comment_count="Y" show_browser_title="N" show_category="N" show_user_icon="Y" show_icon="N" order_target="voted_count" order_type="desc" regdate="1" slide_title="Y" slide_arrow="Y" slide_page="Y" is_board_top="N" /> </div></div>
+게시판 타이틀 하단에 출력 됩니다.
+비밀 글 전용 게시판
+일반 게시판, 리스트 게시판, 갤러리 게시판에만 해당
+태그 기능 사용

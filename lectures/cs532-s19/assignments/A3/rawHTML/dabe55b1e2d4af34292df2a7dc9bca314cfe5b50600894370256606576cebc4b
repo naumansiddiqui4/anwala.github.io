@@ -1,0 +1,1502 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns="http://www.w3.org/1999/html">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIGWV9aDxACUFNVDgMEUw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(21),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(22),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){M++,N=y.hash,this[u]=g.now()}function o(){M--,y.hash!==N&&i(0,!0);var t=g.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+y,e])}function a(t,e){t.on(e,function(){this[e]=g.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,y=w.location,g=t("loader");if(w[v]&&g.xhrWrappable){var b=t(10),x=t(11),E=t(8),O=t(6),P=t(13),R=t(7),T=t(14),L=t(9),j=t("ee"),S=j.get("tracer");t(15),g.features.spa=!0;var N,M=0;j.on(u,r),j.on(p,r),j.on(d,o),j.on(l,o),j.buffer([u,d,"xhr-done","xhr-resolved"]),O.buffer([u]),P.buffer(["setTimeout"+c,"clearTimeout"+s,u]),T.buffer([u,"new-xhr","send-xhr"+s]),R.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),b.buffer([u]),x.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),L.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,"send-xhr"+s),a(j,"xhr-resolved"),a(j,"xhr-done"),a(R,m+s),a(R,m+"-done"),a(L,"new-jsonp"),a(L,"jsonp-end"),a(L,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,M>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(8);var b=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,e){var n=t[0];n instanceof b&&i("bst",[n,e,this.bstStart,g.now()])}),a.on(m,function(t,e,n){this.bstStart=g.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+l,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(24)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=r.apply(this,arguments);return o.emit(n+"start",arguments,t),t.then(function(e){return o.emit(n+"end",[null,e],t),e},function(e){throw o.emit(n+"end",[e],t),e})})}var o=t("ee").get("fetch"),i=t(21);e.exports=o;var a=window,s="fetch-",c=s+"body-",f=["arrayBuffer","blob","json","text","formData"],u=a.Request,d=a.Response,p=a.fetch,l="prototype";u&&d&&p&&(i(f,function(t,e){r(u[l],e,c),r(d[l],e,c)}),r(a,"fetch",s),o.on(s+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(s+"done",[null,e],n)}else o.emit(s+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t(24)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t(24)(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-"),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t(24)(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t(24),a=t("ee").get("promise"),s=i(a),c=t(21),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t(24)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(24)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t(24)(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,b),b.prototype=l.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(e.cat=c.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(16),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,p=t("id"),l=t(19),h=t(18),m=window.XMLHttpRequest;a.features.xhr=!0,t(14),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,l&&(l>34||l<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<d;s++)e.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],16:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],17:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(21),s=t(22),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],18:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],19:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],20:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],21:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],22:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],23:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],24:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(22),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[n]];return d&&d.push([b,n,r,a]),a}}function l(t,e){y[t]=m(t).concat(e)}function h(t,e){var n=y[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},b={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(21),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(g,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(21),u=t("ee"),d=t(20),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(17),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(23)},{}]},{},["loader",2,15,5,3,4]);</script>
+<meta name="msvalidate.01" content="7198395454E8014E0B82A087701FE16B" />
+<meta name="description" content="Missigoraevol is waiting for you to enjoy free adult video chat live at Chaturbate.Com. Raiders Of The Battleship - Tip 5 Tokens To Fire A Missile. #Young #German #Milf #College #Student #Schoolgirl #Metal #Goth #Punk #Pvt #Privates #Cumshow #Boobs #Pussy #Pierced #Hairy #Longhair #Hairy" />
+<meta name="keywords" content="missigoraevol, missigoraevol webcam" />
+<meta name="Rating" content="mature">
+<meta name="RATING" content="RTA-5042-1996-1400-1577-RTA" />
+<title>Chat with Missigoraevol in a Live Adult Video Chat Room Now</title>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.chaturbate.com/missigoraevol/">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Watch Missigoraevol live on Chaturbate!" />
+<meta property="og:description" content="Raiders of the Battleship - tip 5 tokens to fire a missile. #young #german #milf #college #student #schoolgirl #metal #goth #punk #pvt #privates #cumshow #boobs #pussy #pierced #hairy #longhair #hairy" />
+<meta property="og:image" content="https://roomimg.stream.highwebmedia.com/ri/missigoraevol.jpg" />
+<meta property="og:image:height" content="270" />
+<meta property="og:image:width" content="360" />
+<meta property="og:url" content="https://chaturbate.com/missigoraevol/" />
+<meta name="twitter:site" content="@chaturbate" />
+<meta name="twitter:card" content="summary" />
+<link rel="icon" type="image/x-icon" href="https://ssl-ccstatic.highwebmedia.com/favicons/favicon.ico">
+<link rel="shortcut icon" type="image/png" href="https://ssl-ccstatic.highwebmedia.com/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://ssl-ccstatic.highwebmedia.com/favicons/favicon-96x96.png" sizes="96x96">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="https://ssl-ccstatic.highwebmedia.com/favicons/mstile-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://ssl-ccstatic.highwebmedia.com/favicons/apple-touch-icon-180x180.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://ssl-ccstatic.highwebmedia.com/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://ssl-ccstatic.highwebmedia.com/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://ssl-ccstatic.highwebmedia.com/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://ssl-ccstatic.highwebmedia.com/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://ssl-ccstatic.highwebmedia.com/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://ssl-ccstatic.highwebmedia.com/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://ssl-ccstatic.highwebmedia.com/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon-precomposed" href="https://ssl-ccstatic.highwebmedia.com/favicons/apple-touch-icon-57x57.png">
+<link rel="manifest" href="https://ssl-ccstatic.highwebmedia.com/favicons/manifest.json">
+<link rel="stylesheet" href="https://ssl-ccstatic.highwebmedia.com/CACHE/css/e46b47205d16.css" type="text/css" media="all" />
+<style type="text/css">
+      #bline_notice {
+          background-color: #F3E2A9;
+          display: none;
+          padding: 4px;
+      }
+  </style>
+<link rel="stylesheet" href="https://ssl-ccstatic.highwebmedia.com/CACHE/css/ce00626c8f03.css" type="text/css" media="all" />
+<link rel="stylesheet" href="https://ssl-ccstatic.highwebmedia.com/CACHE/css/15afe5cc03d5.css" type="text/css" media="all" />
+<link rel="canonical" href="/missigoraevol/" />
+<!--[if IE 8]>
+    <script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/2725a150b778.js"></script>
+    <style>#cb2_link_box{display:none!important;}</style>
+  <![endif]-->
+<!--[if IE 9]>
+    <script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/22f5ea33df01.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div id="header">
+<div class="ad">
+<ins class="adsbyxa" style="display:inline-block; width:468px; height:60px" data-ad-zone="pLfEH3Rwl2usYN0"></ins>
+<script>
+            (adsbyxa = window.adsbyxa || []).push({});
+        </script>
+</div>
+<div class="section">
+<div class="logo-zone">
+<a href="/">
+<svg width="198" height="61">
+<image xlink:href="https://ssl-ccstatic.highwebmedia.com/images/logo.svg" src="https://ssl-ccstatic.highwebmedia.com/images/logo-standard.png" width="198" height="61" />
+</svg>
+</a>
+<strong>THE ACT OF MASTURBATING WHILE CHATTING ONLINE</strong>
+</div>
+</div>
+<div class="nav-bar">
+<ul id="nav">
+<li><a href="/">CHAT ROOMS</a></li>
+<li><a href="/accounts/register/">BROADCAST YOURSELF</a></li>
+<li><a id="tube-link-container" href="/tube/"><span id="tube-link">TUBE</span><span id="beta">BETA</span></a></li>
+<li><a href="/tags/female/">TAGS</a></li>
+
+<li><a href="/tipping/free_tokens/">EARN FREE TOKENS</a></li>
+<li><a class="login-link" href="/auth/login/" class='nooverlay'>LOGIN</a></li>
+</ul>
+<a href="/accounts/register/?room=missigoraevol" class="creat nooverlay">SIGN UP</a>
+</div>
+</div>
+<div id="main">
+<div class="overlay" id="login-overlay" style="display:none"></div>
+<div class="login-box" id="login-box" style="display:none">
+<a id="id_close_link" href="#"><img src="https://ssl-ccstatic.highwebmedia.com/images/close_icon.gif" alt="Close" width="30" height="30" /></a>
+<span class="pagename">Chaturbate Login</span>
+<h2>Please sign in using the form below</h2>
+<div id="login_inputs">
+<form method='post' action='/auth/login/?next=/missigoraevol/' target="_top">
+<input type='hidden' name='csrfmiddlewaretoken' value='Dv3T8oGVv3N8ApB1bfLbmE3dj3Mka3kR' />
+<label for="id_username">Username:</label>
+<input id="id_username" maxlength="254" name="username" type="text" />
+<label for="id_password">Password:</label>
+<input id="id_password" maxlength="512" name="password" type="password" />
+<label for="id_rememberme">Keep me logged in:</label> <input id="id_rememberme" name="rememberme" type="checkbox" />
+<input type='submit' value='login' class="button" />
+<input type='hidden' name='next' value='/missigoraevol/'>
+</form>
+<hr>
+<p><a id="id_register_link" href="/accounts/register/" class='nooverlay' target="_top">Create Free Account</a></p>
+<p><a id="id_forgotpw_link" href='/auth/password_reset/' class='nooverlay' target="_top">Forgot password?</a></p>
+</div>
+</div>
+<div class="top-section top-section_small_gfx">
+<ul class="actions no_arrow">
+<li><a href="/next/missigoraevol/" class='nextcam' onclick="recordOutboundLink(this, 'Navigation', 'next');">NEXT CAM (CTRL-/)</a></li>
+<li style="background-color: transparent; border: 0;"><a href="/next/missigoraevol/?next_in=15" class='nextcam' style="background-color: transparent; border: 0;" onclick="recordOutboundLink(this, 'Navigation', 'scan');">SCAN CAMS</a></li>
+</ul>
+<ul class="sub-nav">
+<li class="active selected"><a href="#">Missigoraevol's Cam</a></li>
+<li><a href="/female-cams/">FEMALE</a></li>
+<li><a href="/male-cams/">MALE</a></li>
+<li><a href="/couple-cams/">COUPLE</a></li>
+<li><a href="/trans-cams/">TRANS</a></li>
+</ul>
+</div>
+<div class="content">
+<div class="ad">
+<div class="remove_ads">
+<a href="/supporter/upgrade/"><img src="https://ssl-ccstatic.highwebmedia.com/images/close_icon.png" height="12" width="12" alt="Close"></a><a href="/supporter/upgrade/">
+HIDE ALL ADS NOW</a>
+</div>
+<ins class="adsbyxa" style="display:inline-block; width:160px; height:600px" data-ad-zone="MDTyQwgYiCetC"></ins>
+<script>
+                (adsbyxa = window.adsbyxa || []).push({});
+            </script>
+<p style="margin-top: 0px">
+<a href="https://exoticads.com/aff/in/mrps/agBmX/?track=top_skyscraper" style='color: #d90c5f'>Powered by ExoticAds <br /> Buy/Sell Traffic</a></p>
+<ins class="adsbyxa" style="display:inline-block; width:160px; height:600px" data-ad-zone="XKWFijbYfDm9BeE"></ins>
+<script>
+                (adsbyxa = window.adsbyxa || []).push({});
+            </script>
+<p style="margin-top: 0">
+<a href="https://exoticads.com/aff/in/mrps/agBmX/?track=mid_skyscraper" style='color: #d90c5f'>Powered by ExoticAds <br /> Buy/Sell Traffic</a></p>
+<ins class="adsbyxa" style="display:inline-block; width:160px; height:600px" data-ad-zone="ALhvlnlLUtzh"></ins>
+<script>
+                (adsbyxa = window.adsbyxa || []).push({});
+            </script>
+<p style="margin-top: 0">
+<a href="https://exoticads.com/aff/in/mrps/agBmX/?track=tbot_skyscraper" style='color: #d90c5f'>Powered by ExoticAds <br /> Buy/Sell Traffic</a></p>
+</div>
+<div class="c-1">
+<div class="block" id="defchat">
+<p><strong>Room is currently offline</strong></p>
+<div class="offline_tipping">
+<div class="green_button_tip_offline">
+<a href="#" class='tip_button'>SEND TIP</a></div>
+<div style="display: none;" class="overlay_popup tip_popup">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td style="height:228px; overflow:hidden;">
+<img src="https://ssl-ccstatic.highwebmedia.com/images/emoticon_div_carrot_vertical_left.gif" alt="div" style="margin-top:-1px;" height="227px" />
+</td>
+<td class="formborder">
+<div class="title">Send a tip</div>
+<div class="body">
+<div class="purchase_tokens">
+<a href="/tipping/purchase_tokens/">Purchase Tokens</a>
+</div>
+<div class="balance">
+Your current balance: <span><span class='tokencount'>0</span> tokens</span>
+</div>
+<form method='post' action='/tipping/send_tip/missigoraevol/'>
+<input type='hidden' name='csrfmiddlewaretoken' value='Dv3T8oGVv3N8ApB1bfLbmE3dj3Mka3kR' />
+<label>Enter tip amount:</label>
+<input type="text" id="id_tip_amount" name="tip_amount" value="25" style="width: 30px; margin-bottom: 5px;"><br />
+<div id='tip_message'>
+<label>Include an optional message:</label><br />
+<textarea style="width: 360px; height: 30px; margin-bottom: 3px;" id="id_tip_msg_input" name="message" maxlength=255></textarea>
+</div>
+<div id='tip_options' style='display:none;'>
+<label id='tip_options_select_label'></label><br />
+<select name="tip_options" id="tip_options_select" style="width: 360px; height: 30px; ">
+</select>
+</div>
+<input type="hidden" id="id_tip_room_type" name="tip_room_type" value="public">
+<input type="hidden" id="id_v" name="tip_v" value="100">
+<span id="invalid_tip_message" style="display: none">Invalid tip amount!</span>
+<input type='submit' value='Send tip to broadcaster' onclick='play_html_sounds(this.form.tip_amount.value, this.form.tip_v.value)' class="button" id='id_tip_message' style="margin: 10px 0 0 0; float: right;" />
+</form>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="info-user">
+<div class="headline">
+<ul class="buttons">
+<li class="active">
+<a href="#" class='nooverlay' data-tab="bio">Bio</a></li>
+<li><a href="/contest/leaderboard/" class='nooverlay' data-tab="leaderboard">Contest Stats</a></li>
+</ul>
+<ul class="socials">
+<li>
+<div class="button_follow_unfollow button_follow">
+<a class="follow_tooltip_button" href="#" data-followurl="/follow/follow/missigoraevol/" data-unfollowurl="/follow/unfollow/missigoraevol/" data-followtext="+ FOLLOW" data-unfollowtext="- UNFOLLOW">+ FOLLOW</a>
+</div>
+<div class="follow_tooltip" style="display: none;">
+<img src="https://ssl-ccstatic.highwebmedia.com/images/angle.png" alt="Tooltip" height="14" width="15" />Follow broadcasters to receive instant
+notification of when they come online.<br /><br />Note: Your email address must be verified in order to receive email notifications.
+</div>
+<div class="button_follow_dim" style="display: none;">
+<span>+ FOLLOW</span>
+</div>
+<div class="button_unfollow_dim" style="display: none;">
+<span>- UNFOLLOW</span>
+</div>
+</li>
+<li>
+<div id="model_rating_ctrl_with_scores" style="display: none;">
+<div class="button_rate">
+<span class="button_rate_lctnr">
+<span class="button_rate_text">SATISFIED?</span>
+<span class="button_rate_text thumbs_up_text">4</span>
+<a href="#" id="rate_up"><span class="thumbs_up_image" id="thumb_up_off"></span><span class="thumbs_up_image" id="thumb_up_on" style="display: none;"></span></a>
+<span class="button_rate_text rating_percent green  ">100%</span>
+<a href="#" id="rate_down"><span class="thumbs_down_image" id="thumb_down_off"></span><span class="thumbs_down_image" id="thumb_down_on" style="display: none;"></span></a>
+<span class="button_rate_text thumbs_down_text">0</span>
+</span>
+<span class="button_rate_rctnr">&nbsp;</span>
+</div>
+</div>
+<div id="model_rating_ctrl_dim_with_scores">
+<div class="button_rate_dim">
+<span class="button_rate_lctnr">
+<span class="button_rate_text">SATISFIED?</span>
+<span class="button_rate_text thumbs_up_text">4</span>
+<a href="#" id="rate_up_dim"><span class="thumbs_up_image" id="thumb_up_off_dim"></span></a>
+<span class="button_rate_text rating_percent green  ">100%</span>
+<a href="#" id="rate_down_dim"><span class="thumbs_down_image" id="thumb_down_off_dim"></span></a>
+<span class="button_rate_text thumbs_down_text">0</span>
+</span>
+<span class="button_rate_rctnr">&nbsp;</span>
+</div>
+</div>
+<div id="rate_dim_tooltip" style="display: none;">
+<img src="https://ssl-ccstatic.highwebmedia.com/images/angle.png" alt="Tooltip" height="14" width="15" />After tipping 25 tokens in a day, you'll be able to vote regarding your satisfaction with Missigoraevol.
+</div>
+<div id="rate_tooltip" style="display: none;">
+<img src="https://ssl-ccstatic.highwebmedia.com/images/angle.png" alt="Tooltip" height="14" width="15" />You have tipped Missigoraevol over 25 tokens today. Please share your feedback regarding your satisfaction with this broadcaster.
+</div>
+<div id="rated_tooltip" style="display: none;">
+<img src="https://ssl-ccstatic.highwebmedia.com/images/angle.png" alt="Tooltip" height="14" width="15" />Your confidential vote regarding Missigoraevol has been recorded. You may change your vote at any time today. You can register another vote each day. Thank you for your feedback.
+</div>
+</li>
+</ul>
+</div>
+<div class="apps_and_bots" style="display: none;">
+<div id="apps_container">
+<table id="apps_and_bots_table">
+<tr class="top_row">
+<td class="top_row_left">
+<legend>Active App:</legend>
+</td>
+<td class="top_row_center_empty">
+None Selected
+</td>
+<td class="top_row_right">
+<a class="toolbar_popup_link" href="/apps/">Choose an App</a>
+</td>
+</tr>
+<tr>
+<td class="left">
+<legend>Bot #1:</legend>
+</td>
+<td class="center_empty">
+None Selected
+</td>
+<td class="right">
+<a class="toolbar_popup_link" href="/apps/bot/1/">Choose a Bot</a>
+</td>
+</tr>
+<tr>
+<td class="left">
+<legend>Bot #2:</legend>
+</td>
+<td class="center_empty">
+None Selected
+</td>
+<td class="right">
+<a class="toolbar_popup_link" href="/apps/bot/2/">Choose a Bot</a>
+</td>
+</tr>
+<tr>
+<td class="left">
+<legend>Bot #3:</legend>
+</td>
+<td class="center_empty">
+None Selected
+</td>
+<td class="right">
+<a class="toolbar_popup_link" href="/apps/bot/3/">Choose a Bot</a>
+</td>
+</tr>
+</table>
+<br /><a id="suggest_app" class="toolbar_popup_link nextcam" href="/apps/propose_app/">Suggest an App Idea <img src="https://ssl-ccstatic.highwebmedia.com//images/arrow-right.png"></a>
+<div id="text_block">
+<style>
+    strong {
+        color: #0b5d81;
+        font-weight: bold;
+    }
+</style>
+</div>
+</div>
+<style type="text/css">
+    #text_block {
+        width: 620px;
+    }
+    #apps_container {
+        margin: 12px;
+    }
+    #apps_and_bots_table {
+        width: 620px;
+        border-collapse: collapse;
+    }
+    .left {
+        width: 150px;
+    }
+    .top_row {
+    }
+    .top_row_left {
+        width: 150px;
+    }
+    .center_empty {
+        color: grey;
+        font-style: italic;
+    }
+    .top_row_center {
+    }
+    .top_row_center_empty {
+        color: grey;
+        font-style: italic;
+    }
+    .right {
+        text-align: right;
+    }
+    .right span, .top_row_right span {
+        color: #dc5500;
+        font-size: 15px;
+    }
+    .top_row_right {
+        text-align: right;
+    }
+    .stop_link {
+        color: #af0000;
+    }
+    #suggest_app {
+        color: #dc5500;
+        font-size: 15px;
+    }
+    .app_server_message {
+        font-family: Tahoma, Arial, Helvetica, sans-serif;
+        padding: 10px;
+        text-align: left;
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    .app_server_message a, .app_server_message_v2 a {
+        color: #4285f4;
+    }
+</style>
+</div>
+<div class="bio" style="">
+<div id="tabs_content_container" xmlns="http://www.w3.org/1999/html">
+<div class="sub_navigation">
+</div>
+<div style="text-align: right;">
+<a href="/fanclub/join/missigoraevol/" class="join_fanclub">
+Join Missigoraevol's Fan Club</a>
+</div>
+<h1>Missigoraevol's Bio and Free Webcam</h1>
+<dl style="margin: 0;padding: 0;">
+<dt>Real Name:</dt><dd>Igora Evol</dd>
+<dt>Followers:</dt><dd>
+5188
+</dd>
+<dt>Birth Date:</dt><dd>Aug. 9, 1992</dd>
+<dt>Age:</dt><dd>26</dd>
+<dt>Sex:</dt><dd>Female</dd>
+<dt>Interested In:</dt><dd>Men, Women, Trans, Couples</dd>
+<dt>Location:</dt><dd>MissIgoraEvol.manyvids.com</dd>
+<dt>Last Broadcast:</dt><dd>4 hours ago </dd>
+<dt>Language(s):</dt><dd>English, German</dd>
+<dt>Body Type:</dt><dd>Succubus</dd>
+<dt>Smoke / Drink:</dt><dd>420 cronic\m/ coffee, cola, red bull, beer, wine &amp; champagne</dd>
+<dt>Body Decorations:</dt><dd>Norse runes on my neck &amp; all over my ears, nipples, navel, and clit hood</dd>
+<dt class="pics-title">Pics & Videos:</dt>
+<dd class="pics-description">
+<div class="photo_list">
+<div class="user_uploads">
+<div class="user_upload">
+<div class="thumbnail_label thumbnail_label_tokens" id="fan_club_exclusive_label">
+200 TOKENS OR FAN CLUB
+</div>
+<a href="/photo_videos/photoset/detail/missigoraevol/5393702/" class="user_upload_preview popup_link" title="Cabin Masturbaion Fun">
+<div class="thumbnail_label" style="top:2px; left: 0px; background: none; width: 24px; height: 26px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/play3.png" width="20" height="20" alt="Video" style="border: none;" />
+</div>
+<div class="thumbnail_label" style="top:0px; left: -2px; background: none; width: 150px; height: 100px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/locked_rectangle4.png" width="150" height="100" alt="Locked" style="border: none;" />
+</div>
+<img class="preview" src="https://public.chaturbate.com/u/p/c/66/66a7a9dc15a25ea518e745eb0876cbfb.jpg" width="150" height="100" />
+<div class="title">Cabin Masturbaion...</div>
+</a>
+</div>
+<div class="user_upload">
+<div class="thumbnail_label thumbnail_label_tokens">
+100 TOKENS
+</div>
+<a href="/photo_videos/photoset/detail/missigoraevol/5369881/" class="user_upload_preview popup_link" title="Cabin Pics">
+<div class="thumbnail_label" style="top:0px; left: -2px; background: none; width: 150px; height: 100px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/locked_rectangle4.png" width="150" height="100" alt="Locked" style="border: none;" />
+</div>
+<img class="preview" src="https://public.chaturbate.com/u/p/c/37/37850f423cdea217820dd994b9a53437.jpg" width="150" height="100" />
+<div class="title">Cabin Pics</div>
+</a>
+</div>
+<div class="user_upload">
+<div class="thumbnail_label thumbnail_label_tokens">
+69 TOKENS
+</div>
+<a href="/photo_videos/photoset/detail/missigoraevol/3411627/" class="user_upload_preview popup_link" title="Cum Swollower">
+<div class="thumbnail_label" style="top:2px; left: 0px; background: none; width: 24px; height: 26px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/play3.png" width="20" height="20" alt="Video" style="border: none;" />
+</div>
+<div class="thumbnail_label" style="top:0px; left: -2px; background: none; width: 150px; height: 100px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/locked_rectangle4.png" width="150" height="100" alt="Locked" style="border: none;" />
+</div>
+<img class="preview" src="https://public.chaturbate.com/u/p/c/9c/9c4ca6b50f082f90a3261a7333dd82bf.jpg" width="150" height="100" />
+<div class="title">Cum Swollower</div>
+</a>
+</div>
+<div class="user_upload">
+<div class="thumbnail_label thumbnail_label_tokens">
+150 TOKENS
+</div>
+<a href="/photo_videos/photoset/detail/missigoraevol/3407132/" class="user_upload_preview popup_link" title="Mirror Cleaning Fun">
+<div class="thumbnail_label" style="top:2px; left: 0px; background: none; width: 24px; height: 26px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/play3.png" width="20" height="20" alt="Video" style="border: none;" />
+</div>
+<div class="thumbnail_label" style="top:0px; left: -2px; background: none; width: 150px; height: 100px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/locked_rectangle4.png" width="150" height="100" alt="Locked" style="border: none;" />
+</div>
+<img class="preview" src="https://public.chaturbate.com/u/p/c/a5/a5ca71dab92fb697f0fb578304c26ca1.jpg" width="150" height="100" />
+<div class="title">Mirror Cleaning Fun</div>
+</a>
+</div>
+<div class="user_upload">
+<div class="thumbnail_label thumbnail_label_tokens">
+50 TOKENS
+</div>
+<a href="/photo_videos/photoset/detail/missigoraevol/3403049/" class="user_upload_preview popup_link" title="Metal Socialite">
+<div class="thumbnail_label" style="top:0px; left: -2px; background: none; width: 150px; height: 100px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/locked_rectangle4.png" width="150" height="100" alt="Locked" style="border: none;" />
+</div>
+<img class="preview" src="https://public.chaturbate.com/u/p/c/e6/e62fc7f76faa4ffd7073ed14955fbdd0.jpg" width="150" height="100" />
+<div class="title">Metal Socialite</div>
+</a>
+</div>
+<div class="user_upload">
+<div class="thumbnail_label thumbnail_label_tokens">
+50 TOKENS
+ </div>
+<a href="/photo_videos/photoset/detail/missigoraevol/3402912/" class="user_upload_preview popup_link" title="Stair fun">
+<div class="thumbnail_label" style="top:0px; left: -2px; background: none; width: 150px; height: 100px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/locked_rectangle4.png" width="150" height="100" alt="Locked" style="border: none;" />
+</div>
+<img class="preview" src="https://public.chaturbate.com/u/p/c/31/31d38db6f1d70bd7d99e97ea27bb56af.jpg" width="150" height="100" />
+<div class="title">Stair fun</div>
+</a>
+</div>
+<div class="user_upload">
+<div class="thumbnail_label thumbnail_label_tokens">
+100 TOKENS
+</div>
+<a href="/photo_videos/photoset/detail/missigoraevol/3397926/" class="user_upload_preview popup_link" title="Deep in forest">
+<div class="thumbnail_label" style="top:0px; left: -2px; background: none; width: 150px; height: 100px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/locked_rectangle4.png" width="150" height="100" alt="Locked" style="border: none;" />
+</div>
+<img class="preview" src="https://public.chaturbate.com/u/p/c/6c/6c3762b29438b8b07c62723cb54bc4f4.jpg" width="150" height="100" />
+<div class="title">Deep in forest</div>
+</a>
+</div>
+<div class="user_upload">
+<div class="thumbnail_label thumbnail_label_tokens">
+200 TOKENS
+</div>
+<a href="/photo_videos/photoset/detail/missigoraevol/3397857/" class="user_upload_preview popup_link" title="Forest Goth">
+<div class="thumbnail_label" style="top:0px; left: -2px; background: none; width: 150px; height: 100px;">
+<img class="preview" src="https://ssl-ccstatic.highwebmedia.com/images/locked_rectangle4.png" width="150" height="100" alt="Locked" style="border: none;" />
+</div>
+<img class="preview" src="https://public.chaturbate.com/u/p/c/27/271c2aec997d6042bb262fc06936d07c.jpg" width="150" height="100" />
+<div class="title">Forest Goth</div>
+</a>
+</div>
+</div>
+<div class="clearfix"></div>
+<a class="popup_link" href="/photo_videos/photoset/list_popup/missigoraevol/">Show More</a>
+</div>
+<div class="clearfix"></div>
+</dd>
+<dt>About Me:</dt>
+<dd><p><a href="/external_link/?url=https%3A%2F%2Fpimpandhost.com%2Fimage%2F105241675" target="_blank" rel="nofollow"><img src="https://camo.stream.highwebmedia.com/2dac89b2bc68ae399e056e0e92366f079cd65ddc/68747470733a2f2f697374352d322e66696c65736f722e636f6d2f70696d70616e64686f73742e636f6d2f312f392f302f362f3139303634312f372f372f412f612f373741616e2f49676f726150726f46696c65323031395f6c2e6a7067" target="_blank" rel="nofollow" /></a><br /><a href="/external_link/?url=https%3A%2F%2Fpimpandhost.com%2Fimage%2F105313134" target="_blank" rel="nofollow"><img src="https://camo.stream.highwebmedia.com/89592acd4a3fcf5b38b4c500ddcb36ca76e555dd/68747470733a2f2f697374352d322e66696c65736f722e636f6d2f70696d70616e64686f73742e636f6d2f312f392f302f362f3139303634312f372f372f532f4b2f3737534b572f49676f726125323050726f54697073323031395f6c2e6a7067" target="_blank" rel="nofollow" /></a><br /><a href="/external_link/?url=https%3A%2F%2Fpimpandhost.com%2Fimage%2F105314589" target="_blank" rel="nofollow"><img src="https://camo.stream.highwebmedia.com/43fd99c3d63adf039d7f2f82786789826810f40a/68747470733a2f2f697374352d322e66696c65736f722e636f6d2f70696d70616e64686f73742e636f6d2f312f392f302f362f3139303634312f372f372f542f382f37375438702f49676f726150726f52756c65735f6c2e6a7067" target="_blank" rel="nofollow" /></a><br /><h1 target="_blank" rel="nofollow"> Miss Igora Evol</h1><br /></p><p target="_blank" rel="nofollow"> Welcome to my room. Please take a moment to read about me, room rules and tip menu</p><br /><h2 target="_blank" rel="nofollow"> About Me</h2><br /><p target="_blank" rel="nofollow"> I am Igora Evol, a Swiss Canadian Cam Model.<br /> I have been in the industry since 2014 and I love it.<br /> Follow me on <a href="/external_link/?url=https%3A%2F%2Ftwitter.com%2FMissIgoraEvol" target="_blank" rel="nofollow"> Twitter </a> and on <a target="_blank" rel="nofollow"> Many Vids </a><br /></p><br /><a href="/external_link/?url=https%3A%2F%2Fpimpandhost.com%2Fimage%2F101283921" target="_blank" rel="nofollow"><img src="https://camo.stream.highwebmedia.com/0733c12d11eb1005e38e1081fb6fee894cb0ef3b/68747470733a2f2f697374352d312e66696c65736f722e636f6d2f70696d70616e64686f73742e636f6d2f312f392f302f362f3139303634312f362f512f592f7a2f3651597a442f6d7670726f6d6f5f732e6a7067" target="_blank" rel="nofollow" /></a><br /><a href="/external_link/?url=https%3A%2F%2Fpimpandhost.com%2Fimage%2F101284132" target="_blank" rel="nofollow"><img src="https://camo.stream.highwebmedia.com/0c7f7e8dadcf5d60fd6515583179f9667845fcd2/68747470733a2f2f697374352d312e66696c65736f722e636f6d2f70696d70616e64686f73742e636f6d2f312f392f302f362f3139303634312f362f512f592f442f36515944322f786d6173636f6e746573745f732e6a7067" target="_blank" rel="nofollow" /></a><br /><h2 target="_blank" rel="nofollow"> Room Rules </h2></dd>
+<dt>Wish List:</dt>
+<dd><p>http://www.amazon.ca/gp/registry/wishlist/SCGY2423GHGI</p></dd>
+</dl>
+</div>
+</div>
+<div class="token_stats" style="display: none;"></div>
+<div class="share_and_earn" style="display: none;"></div>
+<div class="leaderboard" style="display: none;"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="banner">
+<div align="center" style="margin-bottom: 17px;">
+<div class="remove_ads">
+<a href="/supporter/upgrade/"><img src="https://ssl-ccstatic.highwebmedia.com/images/close_icon.png" height="12" width="12" alt="Close"></a>
+<a href="/supporter/upgrade/">HIDE ALL ADS NOW</a>
+</div>
+<table cellspacing="0" style="width: 930px;">
+<tr>
+<td align="center">
+<ins class="adsbyxa" style="display:inline-block; width:300px; height:250px" data-ad-zone="Qe6nuNt4cm5aGukYqW"></ins>
+<script>
+                                (adsbyxa = window.adsbyxa || []).push({});
+                            </script>
+</td>
+<td align="center">
+<ins class="adsbyxa" style="display:inline-block; width:300px; height:250px" data-ad-zone="RjvPnsQ52d56W"></ins>
+<script>
+                                (adsbyxa = window.adsbyxa || []).push({});
+                            </script>
+</td>
+<td align="center">
+<ins class="adsbyxa" style="display:inline-block; width:300px; height:250px" data-ad-zone="M2tIgtcgDtGfq7"></ins>
+<script>
+                                (adsbyxa = window.adsbyxa || []).push({});
+                            </script>
+</td>
+</tr>
+<tr>
+<td align="center">
+ <p style="margin-top: 0px"><a href="https://exoticads.com/aff/in/mrps/agBmX/?track=left_footer" style='color: #d90c5f'>Powered by ExoticAds <br /> Buy/Sell Traffic</a></p>
+</td>
+<td align="center">
+<p style="margin-top: 0px"><a href="https://exoticads.com/aff/in/mrps/agBmX/?track=mid_footer" style='color: #d90c5f'>Powered by ExoticAds <br /> Buy/Sell Traffic</a></p>
+</td>
+<td align="center">
+<p style="margin-top: 0px"><a href="https://exoticads.com/aff/in/mrps/agBmX/?track=right_footer" style='color: #d90c5f'>Powered by ExoticAds <br /> Buy/Sell Traffic</a></p>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="overlay" id="overlay"></div>
+<div id="entrance_terms">
+<div class="header">
+<p><strong>YOU MUST BE OVER 18 AND AGREE TO THE TERMS BELOW BEFORE
+CONTINUING:</strong></p>
+</div>
+<div class="scroll">
+<p>This website contains information, links, images and videos of
+sexually explicit material (collectively, the “Sexually Explicit
+Material”). Do NOT continue if: (i) you are not at least 18 years
+of age or the age of majority in each and every jurisdiction in
+which you will or may view the Sexually Explicit Material,
+whichever is higher (the “Age of Majority”), (ii) such material
+offends you, or (iii) viewing the Sexually Explicit Material is
+not legal in each and every community where you choose to view
+it.</p>
+<p>By choosing to enter this website you are affirming under oath and
+penalties of perjury pursuant to Title 28 U.S.C. § 1746 and other
+applicable statutes and laws that all of the following statements
+are true and correct:</p>
+<ul>
+<li>I have attained the Age of Majority in my jurisdiction;</li>
+<li>The sexually explicit material I am viewing is for my own
+personal use and I will not expose any minors to the
+material;
+</li>
+<li>I desire to receive/view sexually explicit material;</li>
+<li>I believe that as an adult it is my inalienable constitutional
+right to receive/view sexually explicit material;
+</li>
+<li>I believe that sexual acts between consenting adults are
+neither offensive nor obscene;
+</li>
+<li>The viewing, reading and downloading of sexually explicit
+materials does not violate the standards of any community,
+town, city, state or country where I will be viewing, reading
+and/or downloading the Sexually Explicit Materials;
+</li>
+<li>I am solely responsible for any false disclosures or legal
+ramifications of viewing, reading or downloading any material
+appearing on this site. I further agree that neither this
+website nor its affiliates will be held responsible for any
+legal ramifications arising from any fraudulent entry into or
+use of this website;
+</li>
+<li>I understand that my use of this website is governed by the
+website’s <a href="https://Chaturbate.com/terms/">Terms</a>
+which I have reviewed and accepted, and I agree to be bound by
+such Terms.
+</li>
+<li>I agree that by entering this website, I am subjecting myself,
+and any business entity in which I have any legal or equitable
+interest, to the personal jurisdiction of the State of Florida,
+Miami-Dade County, should any dispute arise at any time between
+this website, myself and/or such business entity;
+</li>
+<li>This warning page constitutes a legally binding agreement
+between me, this website and/or any business in which I have
+any legal or equitable interest. If any provision of this
+Agreement is found to be unenforceable, the remainder shall be
+enforced as fully as possible and the unenforceable provision
+shall be deemed modified to the limited extent required to
+permit its enforcement in a manner most closely representing
+the intentions as expressed herein;
+</li>
+<li>All performers on this site are over the age of 18, have
+consented being photographed and/or filmed, believe it is their
+right to engage in consensual sexual acts for the entertainment
+and education of other adults and I believe it is my right as
+an adult to watch them doing what adults do;
+</li>
+<li>The videos and images in this site are intended to be used by
+responsible adults as sexual aids, to provide sexual education
+and to provide sexual entertainment;
+</li>
+<li>I understand that providing a false declaration under the
+penalties of perjury is a criminal offense; and
+</li>
+<li>I agree that this agreement is governed by the Electronic
+Signatures in Global and National Commerce Act (commonly known
+as the “E-Sign Act”), 15 U.S.C. § 7000, et seq., and by
+choosing to click on “I Agree. Enter Here” and indicating my
+agreement to be bound by the terms of this agreement, I
+affirmatively adopt the signature line below as my signature
+and the manifestation of my consent to be bound by the terms
+of this agreement.
+</li>
+</ul>
+</div>
+<p style="color: red; font-weight: bold; font-size: 11px;">THIS SITE ACTIVELY COOPERATES WITH LAW ENFORCEMENT IN ALL
+INSTANCES OF SUSPECTED ILLEGAL USE OF THE SERVICE, ESPECIALLY IN THE
+CASE OF UNDERAGE USAGE OF THE SERVICE.</p>
+<div class="footer">
+<a href="http://www.google.com/" class="exit_entrance_terms">Exit</a>
+<a href="#" id="close_entrance_terms">I AGREE</a>
+</div>
+<p style="margin-top: 25px; text-align: center;">
+<img src="https://ssl-ccstatic.highwebmedia.com/images/badges/safelabeling.gif">
+<img src="https://ssl-ccstatic.highwebmedia.com/images/badges/88x31_RTA-5042-1996-1400-1577-RTA_a.gif" style="margin: 0 10px;">
+<img src="https://ssl-ccstatic.highwebmedia.com/images/badges/ApprovedASACPmember.gif">
+</p>
+</div>
+</div>
+<div class="footer-holder">
+<div class="footercon">
+<div class="col1">
+<h2>Free Cams</h2>
+<dl>
+<dd><a href="/">Featured Cams</a></dd>
+<dd><a href="/female-cams/">Female Cams</a></dd>
+<dd><a href="/male-cams/">Male Cams</a></dd>
+<dd><a href="/couple-cams/">Couple Cams</a></dd>
+<dd><a href="/trans-cams/">Trans Cams</a></dd>
+</dl>
+</div>
+<div class="col2">
+<h2>Free Cams by Age</h2>
+<dl>
+<dd><a href="/teen-cams/">Teen Cams (18+)</a></dd>
+<dd><a href="/18to21-cams/">18 to 21 Cams</a></dd>
+<dd><a href="/20to30-cams/">20 to 30 Cams</a></dd>
+<dd><a href="/30to50-cams/">30 to 50 Cams</a></dd>
+<dd><a href="/mature-cams/">Mature Cams (50+)</a>
+</dd>
+</dl>
+</div>
+<div class="col3">
+<h2>Free Cams by Region</h2>
+<dl>
+<dd><a href="/north-american-cams/">North American Cams</a></dd>
+<dd><a href="/other-region-cams/">Other Region Cams</a></dd>
+<dd><a href="/euro-russian-cams/">Euro Russian Cams</a></dd>
+<dd><a href="/asian-cams/">Asian Cams</a></dd>
+<dd><a href="/south-american-cams/">South American Cams</a>
+</dd>
+</dl>
+</div>
+<div class="col4">
+<h2>Free Cams by Status</h2>
+<dl>
+<dd><a href="/exhibitionist-cams/" title="Exhibitionist Cams  - Couple">Exhibitionist Cams</a>
+</dd>
+<dd><a href="/hd-cams/">HD Cams</a></dd>
+<dd><a href="/spy-on-cams/">Private Shows</a></dd>
+<dd><a href="/spy-on-cams/">Group Shows</a></dd>
+<dd><a href="/new-cams/">New Cams</a></dd>
+</dl>
+</div>
+<div class="col5">
+<h2>Private Shows</h2>
+<dl>
+<dd><a href="/6-tokens-per-minute-private-cams/female/">6 Tokens per Minute</a></dd>
+<dd><a href="/12-tokens-per-minute-private-cams/female/">12 Tokens per Minute</a></dd>
+<dd><a href="/18-tokens-per-minute-private-cams/female/">18 Tokens per Minute</a></dd>
+<dd><a href="/30-tokens-per-minute-private-cams/female/">30 Tokens per Minute</a></dd>
+<dd><a href="/60-tokens-per-minute-private-cams/female/">60 Tokens per Minute</a></dd>
+<dd><a href="/90-tokens-per-minute-private-cams/female/">90 Tokens per Minute</a></dd>
+</dl>
+</div>
+</div>
+<ul class="nav">
+<li><a href="/terms/">Terms &amp; Conditions</a></li>
+<li><a href="/privacy/">Privacy Policy</a></li>
+<li><a href="https://support.chaturbate.com/">Support</a></li>
+<li><a href="https://www.surveymonkey.com/r/5XLZ85R" target="_blank">Feedback</a></li>
+<li><a href="/security/">Security Center</a></li>
+<li><a href="/law_enforcement/">Law Enforcement</a></li>
+<li><a href="/billingsupport/">Billing</a></li>
+<li><a href="/security/privacy/deactivate/">Disable Account</a></li>
+<li><a href="/apps/">Apps</a></li>
+<li><a href="/contest/details/">Contest</a></li>
+<li><a href="/affiliates/">Affiliates</a></li>
+<li><a href="https://exoticads.com/">Buy Traffic</a></li>
+<li><a href="/jobs/">Jobs</a></li>
+<li><a href="/sitemap/">Sitemap</a></li>
+</ul>
+<ul>
+<li><a href="https://ar.chaturbate.com/">العربية</a></li>
+<li><a href="https://de.chaturbate.com/">Deutsch</a></li>
+<li><a href="https://en.chaturbate.com/">English</a></li>
+<li><a href="https://el.chaturbate.com/">Ελληνικά</a></li>
+<li><a href="https://es.chaturbate.com/">Español</a></li>
+<li><a href="https://fr.chaturbate.com/">Français</a></li>
+<li><a href="https://hi.chaturbate.com/">हिन्दी</a></li>
+<li><a href="https://it.chaturbate.com/">Italiano</a></li>
+<li><a href="https://ja.chaturbate.com/">日本語</a></li>
+<li><a href="https://ko.chaturbate.com/">한국어</a></li>
+<li><a href="https://nl.chaturbate.com/">Nederlands</a></li>
+<li><a href="https://pt.chaturbate.com/">Português</a></li>
+<li><a href="https://ru.chaturbate.com/">русский язык</a></li>
+<li><a href="https://tr.chaturbate.com/">Türkçe</a></li>
+<li><a href="https://zh.chaturbate.com/">中文</a></li>
+</ul>
+<p><a href="/2257/">18 U.S.C. 2257 Record Keeping Requirements Compliance Statement</a></p>
+<img style="padding-bottom:5px;width:589px;opacity:1.3;" src="https://ssl-ccstatic.highwebmedia.com/images/cb-footer-address-US.png">
+<p>&copy; Copyright Chaturbate.com 2011 - 2019. All Rights Reserved. 84</p>
+<p style="margin-top: 15px;">
+<img src="https://ssl-ccstatic.highwebmedia.com/images/badges/safelabeling.gif">
+<a href="http://www.rtalabel.org/"><img src="https://ssl-ccstatic.highwebmedia.com/images/badges/88x31_RTA-5042-1996-1400-1577-RTA_a.gif" style="margin: 0 10px;"></a>
+<a href="http://www.asacp.org/ASACP.php/"><img src="https://ssl-ccstatic.highwebmedia.com/images/badges/ApprovedASACPmember.gif"></a>
+</p>
+</div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"6f524845d1","agent":"","transactionName":"MwYEbUdYXxJQWhULDApMIExbWkUIXldOAQsFF0hPXFxGEgtrDg0OMgoDThteVBU=","atts":"H0ETGw9CExRQZgUHFQ0AA2ZBQEEEEwNDBgYXCBJWRRsdQ1hKPhULDRcDVVRbVA0TAwcDDxcGShtGUEUEblAFQFlVT0RMVGZeEm5PBBAQDQwIGw8bE00TWwQRFzsEE1xGSm4GVFZDWEExMEQVF0xCBENmCAZBXlNKG0ZcRT5TSw4VEAEROVBRGwsVQ0wETkEWBhdMUEpFPllWEhZBXkEFUVRNRBNTWBUHTQcMCxsZG0IIRVw+Aw8NAhUbDxtSCVBNFBABBRcDF1ZWXEMdGxMHEhEGFU1qVFQVWVYFQFlGJCNtFxUTCEJmDA0BDQ8DGw9fUA1CXE1AEwURB1RGGwtDSkRDTkERAjlWRmZXAFxQDRtBXkEpTV1cQ0MdGxQRBhYNB1RQGwtDbmYADAwKPDkbGRtCCEVcPgYMCQIPVxcDEwJZWBUXEQYCElwbWl4MExVDFwI7ARRWQkpUE25PBBAQDQwIGw8bA08AAUNOQRYGB1VqUEFDCxtQUFtKW1QXAhcDVxMVQwARCxQVXEdmWAUTA0NaAVVXUwgEDBxUCVtRT1dXAQQUDQtTUxwOU1pTUgdWWgFYAQATFUMXAjsHA09cWlQ+V1gMCw8dQVwbek1ZBEMbTUAABjwQXEdKWA5fG1tTT0YKFWZBWFMNVE1DWAUFDxVcGRtDBFdcEwcRRllEGxkbUgBcZhUDBEZZRFFRGx1DQ1YODzwREANLFwMTDFhKEgsECxEHXENWXUMdGxYOPAwMFU0XAxMCWVgVFxEGAhJcG1peDBMVQxAGFRYDSkFmQQBFUUNYQUsOD0pGUFYOQ1gEFAwITEQVF0pYBl9MET0HBRcDGw8JHUNTXBIWPAMWA0pGZlgREwNDU1FcTV4LGw4fUwcbTUAKFzwLVldQXQRuTQQPEwgCElwXA1cAXUoETkEDChJmVlZcDFhNQ1hBUFVQClMMCFdUG01AFgU8FU1HUF8GEwNDEhoQCwlXGEtUEERcEhYQS1FICA0XBUMdGyIkPDYCHxsPGwUAVVwDBlsFUwUNUFoAAgYUMSo7Rk9ETFRmUxNeThIHETsFB1RcVUhDCxsxGxcMDAgZZ1xAFFRKFRFBGR4=","applicationID":"24279235","errorBeacon":"bam.nr-data.net","applicationTime":38}</script>
+</body>
+<script type="text/javascript" src="/jsi18n/"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/da398dac56f9.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/1e9c0fd85ec5.js"></script>
+<script type='text/javascript'>
+$.facebox.settings.loadingImage = 'https://ssl-ccstatic.highwebmedia.com/facebox/loading.gif';
+$.facebox.settings.closeImage = 'https://ssl-ccstatic.highwebmedia.com/facebox/closelabel.png';
+$(document).ready(function() {
+  $('.purchase_tokens a, a.purchase_tokens').click(function() {
+    var popupwindow = window.open("/tipping/purchase_tokens/", '_blank',
+            'status=0,toolbar=0,menubar=0,directories=0,resizable=1,' +
+                    'scrollbars=1,height=705,width=850');
+    popupwindow.focus();
+    return false;
+  });
+  $('.increase_limits a, a.increase_limits').click(function() {
+    var popupwindow = window.open("/tipping/purchase_tokens/increase_limits/", '_blank',
+            'status=0,toolbar=0,menubar=0,directories=0,resizable=1,' +
+                    'scrollbars=1,height=615,width=850');
+    popupwindow.focus();
+    return false;
+  });
+});
+
+
+$.ajaxSetup ({
+    // Disable caching of AJAX responses
+    cache: false
+});
+
+
+
+
+$(document).ready(function(){
+  var mySwfStore = new SwfStore({
+    namespace: 'ogcamsite818',
+    swf_url: '/static/javascript-flash-cookies/storage.swf',
+    debug: false,
+    onready: function() {
+      
+    }
+  });
+  function should_link_accounts(){
+    var latest_username = $.cookie('latest_linked_username');
+    if (latest_username == null){
+        return true;
+    }
+    if (latest_username != ''){
+        return true;
+    }
+    var latest_update = $.cookie('latest_linked_timestamp');
+    if (latest_update == null){
+        return true;
+    }
+    var msecs = new Date().getTime() - latest_update;
+    return msecs > (60*20*1000);
+  }
+
+  function csrfSafeMethod(method) {
+      return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+  }
+  $.ajaxSetup({
+      crossDomain: false,
+      beforeSend: function(xhr, settings) {
+          if (!csrfSafeMethod(settings.type)) {
+              xhr.setRequestHeader("X-CSRFToken", $.cookie('csrftoken'));
+          }
+      }
+  });
+
+    function link_accounts() {
+        if (!should_link_accounts()){
+            return false;
+        }
+        var oldval = mySwfStore.get('usernames2');
+        if (oldval == null | oldval == '') {
+            var usernames = [""];
+        } else {
+            var usernames = oldval.split(',');
+            var foundcurrent = false;
+            $.each(usernames, function (key, username) {
+                if (username != "") {
+                    setTimeout(function () {
+                        $.post("/accounts/linkaccounts/", {
+                            'username': username,
+                            'token': '',
+                            'expiration': ''
+                        });
+                    }, ((key + 1) * 100));
+                } else {
+                    foundcurrent = true;
+                }
+            });
+            if (!foundcurrent) {
+                usernames.push("");
+            }
+        }
+        mySwfStore.set('usernames2', usernames.join(','));
+        $.cookie('latest_linked_timestamp', new Date().getTime(), {expires: 1, path: '/'});
+        $.cookie('latest_linked_username', '', {expires: 1, path: '/'});
+    }
+});
+
+function recordOutboundLink(link, category, action) {
+  try {
+    var myTracker=_gat._getTrackerByName();
+    _gaq.push(['_trackEvent', category ,  action ]);
+    setTimeout('document.location = "' + link.href + '"', 100)
+  }catch(err){}
+}
+
+$(document).ready(function(){
+    var achdismisscookie = $.cookie('ach_dismiss_');
+    if (!achdismisscookie) {
+        $('#direct_deposit_warning').show();
+        $('#direct_deposit_warning a.dismiss').click(function() {
+            $('#direct_deposit_warning').hide();
+            $.cookie('ach_dismiss_', 1, 31557600);
+        });
+    }
+
+    $('.mobile_site_redirect').click(function () {
+        $.cookie('mobile_redirect', null, { expires: 1, path: '/', domain: 'chaturbate.com'});
+    });
+
+    $('.top_alert_close').click(function () {
+        var date = new Date();
+        date.setTime(date.getTime() + (18 * 60 * 60 * 1000)); // 18 hours
+        $.cookie('mobile_redirect_hide', 'true', { expires: date, path: '/', domain: 'chaturbate.com'});
+        $('.top_alert').hide();
+    });
+});
+
+if ($.fn.hasOwnProperty('live')) {
+    $.fn.on = $.fn.live;
+} else {
+    $.fn.live = $.fn.on;
+}
+
+</script>
+<script type='text/javascript'>
+            if (top.location != location) {
+                top.location.href = document.location.href ;
+            }
+        </script>
+<script src="https://www.google.com/recaptcha/api.js?render=6LdpEXsUAAAAAMkkjaaqylB3rEhR7oPZmLjSjaps"></script>
+<script type="text/javascript">
+  'use strict';
+  grecaptcha.ready(function () {
+    var recaptchaBadge = document.querySelector('.grecaptcha-badge');
+    if (recaptchaBadge) {
+      recaptchaBadge.style.display = 'none';
+      if (window.MutationObserver) {
+        window.badgeObserver = new MutationObserver(function () {
+          document.querySelector('.grecaptcha-badge').style.display = 'none';
+        });
+        window.badgeObserver.observe(
+          recaptchaBadge.parentElement,
+          {childList: true, subtree: true, attributes: true, attributeFilter: ['style']}
+        );
+      }
+    }
+  });
+</script>
+<script type="text/javascript">
+  var nextroomurl = "/next/missigoraevol/";
+  var previousroomurl = "/prev/missigoraevol/";
+  var timeoutscanningurl = "/scanning/timeout/";
+  var flickering_chrome_flash = "";
+  window.new_user = false;
+  window.broadcaster = 'missigoraevol';
+</script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/918cfb6d5419.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/1019cf1d6f27.js"></script>
+<!--[if lt IE 9]>
+    <script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/aeca63d8401d.js"></script>
+    <![endif]-->
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/42560a98729a.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/cachebust/tshandlerprod-4663f596e.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/09014fcfb3eb.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/588ad2dbefb0.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/5dbee1fcf882.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/a42b6fb516d9.js"></script>
+<script>
+    function login_required() {
+      if (!is_logged_in()) {
+        $.show_login_box();
+        return true;
+      } else {
+        return false;
+      }
+    }
+
+    function registration_required() {
+      if (!is_logged_in()) {
+        window.location.href = "/accounts/register/";
+        return true;
+      } else {
+        return false;
+      }
+    }
+
+    function login_required_true_if_loggedin() {
+
+      return true;
+    }
+
+    function is_logged_in() {
+      
+      return false;
+      
+    }
+
+</script>
+<form id="ignore_user_form" style="display: none">
+<input type='hidden' name='csrfmiddlewaretoken' value='Dv3T8oGVv3N8ApB1bfLbmE3dj3Mka3kR' />
+<input id="ignore_user_form_username" type="hidden" name="username" value="" />
+<input id="ignore_user_form_remove" type="hidden" name="remove" value="" />
+</form>
+<form id="change_title_form" style="display: none">
+<input type='hidden' name='csrfmiddlewaretoken' value='Dv3T8oGVv3N8ApB1bfLbmE3dj3Mka3kR' />
+<input id="change_title_form_room_slug" type="hidden" name="room_slug" value="" />
+<input id="change_title_form_subject" type="hidden" name="subject" value="" />
+</form>
+<form id="get_chat_user_list_form" style="display: none" action="/api/getchatuserlist/">
+<input type='hidden' name='csrfmiddlewaretoken' value='Dv3T8oGVv3N8ApB1bfLbmE3dj3Mka3kR' />
+<input id="get_chat_user_list_form_room_sort_by" type="hidden" name="sort_by" value="" />
+<input id="get_chat_user_list_form_room_roomname" type="hidden" name="roomname" value="" />
+<input id="get_chat_user_list_form_room_private" type="hidden" name="private" value="" />
+</form>
+<script type='text/javascript'>
+$(document).ready(function() {
+    
+    $.ajax({
+        url: '/get_emoticon_abuses/'
+    }).success(function(data) {
+        defchat_settings.ignored_emoticons = data['ignored_emoticons'];
+    });
+    var report_emoticon = $('#report_emoticon');
+    var abuse_link = $('.report_abuse_link');
+    $('.facebox_link').live('mousedown', function() {
+        var image_url = $(this).find('input[name=image_url]').val();
+        var report_url = $(this).find('input[name=report_url]').val();
+        var title = $(this).find('img').attr('title');
+        report_emoticon.find('img').attr({'src': image_url, 'title': title});
+        abuse_link.attr('href', report_url);
+        
+            $('.pre_link').hide();
+            if ($.inArray(title.substring(1), defchat_settings.ignored_emoticons) >= 0) {
+                abuse_link.text('UNDO').before('<span class="pre_link">EMOTICON REPORTED - </span>');
+            } else {
+                abuse_link.text('REPORT EMOTICON');
+            }
+        
+    });
+    abuse_link.live('click', function(e) {
+        e.preventDefault();
+        if ($(this).text() == 'UNDO') {
+            $('.button_abuse_report a').last().click();
+        } else {
+            $(this).hide();
+            $('#facebox .emoticon_abuse_categories').show();
+        }
+    });
+    $('.button_abuse_cancel a').live('click', function(e) {
+        e.preventDefault();
+        $(this).parent().parent().hide();
+        $('#facebox .report_abuse_link').show();
+    });
+    $('.button_abuse_report a').live('click', function(e) {
+        e.preventDefault();
+        $(this).parent().parent().hide();
+        var link = $('#facebox .report_abuse_link');
+        var slug = link.parent().find('img').attr('title');
+        $.ajax({
+            type: "POST",
+            url: link.attr('href'),
+            data: {'category': $('.abuse_category').last().val()}
+        }).success(function(response) {
+            var img = $('.chat-list img[title="' + slug + '"]');
+            var facebox_img = $('#facebox').find('.content').find('img');
+            if (response == 'reported') {
+                link.text('UNDO').before('<span>EMOTICON REPORTED - </span>');
+                img.hide();
+                if (img.parent().find('.emoticon_slug:visible').length == 0) {
+                    img.parent().append('<span class="emoticon_slug">' + slug + '</span>');
+                }
+                defchat_settings.ignored_emoticons.push(slug.substring(1));
+                facebox_img.hide();
+                facebox_img.after('<div id="img_placeholder" style="position: relative; display: inline-block; width: ' + facebox_img.width() + 'px; height: ' + facebox_img.height() + 'px;"></div>')
+            } else if (response == 'undone') {
+                link.prev().hide();
+                link.text('REPORT EMOTICON');
+                if (defchat_settings.show_emoticons) {
+                    img.parent().find('.emoticon_slug').hide();
+                    img.show();
+                }
+                $('#img_placeholder').remove();
+                facebox_img.show();
+                defchat_settings.ignored_emoticons.pop(slug.substring(1));
+            }
+        });
+        link.show();
+    });
+    
+
+    function validateAbuseReportForm() {
+        var category = $('#id_abuse_category_select').val();
+        var comments = $('#id_additional_comments').val();
+        var button = $('#abuse_report_button');
+        var label = $('#comments_required');
+        if (category == 'other' && comments.length < 3) {
+            button.parent().removeClass('button_abuse_report');
+            button.parent().addClass('button_abuse_cancel');
+            label.show();
+        } else {
+            button.parent().addClass('button_abuse_report');
+            button.parent().removeClass('button_abuse_cancel');
+            label.hide();
+        }
+    }
+    $('#id_additional_comments, #id_abuse_category_select').live('change keyup', function() {
+        validateAbuseReportForm();
+    });
+
+    var broadcaster_rating = $('#broadcaster_rating');
+    var broadcaster_rating_tooltip = $('#broadcaster_rating_tooltip');
+    var broadcaster_rating_history = $('#broadcaster_rating_history');
+    var rating_history_list = $('#rating_history');
+    var rating_triangle = $('#rating_history_triangle');
+    var history_showing = false;
+    var first_open = true;
+    broadcaster_rating.live('mouseenter', function() {
+        if (history_showing) {
+            return;
+        }
+        broadcaster_rating_tooltip.show();
+    });
+    broadcaster_rating.live('mouseleave', function() {
+        broadcaster_rating_tooltip.hide();
+    });
+    broadcaster_rating.live('click', function(event) {
+        event.stopPropagation();
+        if (!history_showing){
+            showHistory()
+        } else {
+            hideHistory()
+        }
+    });
+    broadcaster_rating_history.live('click', function(event) {
+        event.stopPropagation();
+    });
+    function showHistory() {
+        history_showing = true;
+        broadcaster_rating_tooltip.hide();
+        if (first_open) {
+            first_open = false;
+            rating_history_list.text('Fetching rating history...');
+            fetch_rating_history()
+        }
+        broadcaster_rating_history.show(0);
+        rating_triangle.show(0);
+        listenForHideHistory();
+    }
+    function hideHistory() {
+        if (history_showing === false) {
+            return
+        }
+        history_showing = false;
+        broadcaster_rating_history.hide(0);
+        rating_triangle.hide(0);
+        stopListenForHideHistory()
+    }
+    function listenForHideHistory() {
+        $('body').live('click', hideHistory);
+    }
+    function stopListenForHideHistory() {
+        $('body').die('click', hideHistory);
+    }
+    var fetching_more_history = false;
+    function fetch_rating_history(skip) {
+        fetching_more_history = true;
+        var url = '/tipping/rating_history/';
+        if (skip) {
+            url = url + '?skip=' + skip
+        }
+        $.ajax({
+            url: url,
+            type: 'GET',
+            dataType: 'html',
+            success: function(data) {
+                if (/^\s*$/.test(data)) {
+                    if (rating_history_list.text() === 'Fetching rating history...') {
+                        rating_history_list.text('No history to show');
+                    }
+                    return;
+                }
+                fetching_more_history = false;
+                if (rating_history_list.text() === 'Fetching rating history...') {
+                    rating_history_list.text('');
+                }
+                rating_history_list.html(rating_history_list.html() + data);
+            },
+        });
+    }
+    broadcaster_rating_history.scroll(function() {
+        if ($(this)[0].scrollHeight - $(this).scrollTop() === $(this).innerHeight()) {
+            if (fetching_more_history) {
+                return;
+            }
+            fetching_more_history = true;
+            var last_item = rating_history_list.children().last();
+            var id = last_item.attr('id').replace("vote_", "");
+            fetch_rating_history(id)
+        }
+    });
+
+    $('#id_tip_amount').live('keyup', function() {
+        var val = $.trim($(this).val());
+        if (new RegExp('^[1-9][0-9]*$').test(val)) {
+            $('#invalid_tip_message').hide();
+            $('#id_tip_message').removeClass('button_disabled');
+        } else {
+            $('#invalid_tip_message').show();
+            $('#id_tip_message').addClass('button_disabled');
+        }
+    });
+    $('#id_tip_message').live('click', function(e) {
+        if ($(this).hasClass('button_disabled')) {
+            e.preventDefault();
+        }
+    });
+
+ 
+  function log_presence() {
+    $.ajax({
+      url: '/contest/log/missigoraevol/',
+      type: 'GET',
+      complete: schedule_log_presence,
+      timeout: 60000,
+      dataType: 'json',
+      success: function(data) {
+        $(".password_warning").html(data.password_warning);
+        if ($('#still_video').length >= 1) {
+          $('#still_video img:first').attr('src', data.image_url);
+        }
+        if (!data.can_access) {
+          window.location.reload();
+        }
+        if (data.has_warnings) {
+          window.onbeforeunload = function() {};
+          window.location = '/accounts/warnings/?next=/missigoraevol/';
+        }
+        if (data.is_banned) {
+          window.onbeforeunload = function() {};
+          window.location = '/';
+        }
+        var text = "(0/0)";
+        if (data['total_followed'] !== undefined){
+           text = "("+(data['online_followed'] || 0)+"/"+(data['total_followed'] || 0)+")";
+        }
+        $("a.followed .followed_counts").text(text);
+      }
+    });
+  }
+  function schedule_log_presence() {
+    
+  }
+  schedule_log_presence();
+    
+
+
+  $("#tooltip-subject").click(function(){
+       $(this).hide();
+       //$(".video-box .title").unbind('mouseenter mouseleave mouseover mouseout');
+       return $("#roomtitle").click();
+  });
+
+  function parse_subject(newtext){
+      var temp_item = ('<span class="temp_item" style="display:none;"></span>');
+      $(temp_item).html(newtext).appendTo('body');
+      var w = $('span.temp_item').width();
+      $("span.temp_item").remove();
+      $("#tooltip-subject").html(newtext);
+      if ( w > $("#roomtitle").width() - 5){
+         $(".video-box .title").mouseover(
+           function(){
+               if($("#roomtitleform").is(":visible")==false){
+                  $("#tooltip-subject").show();
+               }
+            }
+         );
+         $(".video-box .title").mouseout(
+           function(){
+               $("#tooltip-subject").hide();
+            }
+         );
+         return newtext;
+
+      }
+      $(".video-box .title").unbind('mouseenter mouseleave mouseover mouseout');
+      return newtext;
+  }
+    
+  function start_defchat() {
+    $.mydefchatconn = $("#defchat").defchat({
+      do_not_connect: "True" === "True",
+      embed_video_only: "0" === "1",
+      username: '',
+      password: '',
+      room_password: '0e6d0b4858e7bbd3c47c90892593e01351c110b964f6fea75a03679ccbd356e6',
+      edge_auth: '',
+      chat_host: '',
+      domain: '',
+      parse_subject: parse_subject,
+      room: 'missigoraevol@conference.',
+      private_room: 'missigoraevol-private@conference.',
+      my_username: '',
+      handler: null,
+      site_name: 'Chaturbate',
+      support_email: 'support@chaturbate.com',
+      is_age_verified: '',
+      chat_settings_url: "/api/viewerchatsettings/missigoraevol/",
+      force_handler: TSHandler,
+      wschat_host: '',
+      media_url: 'https://ssl-ccstatic.highwebmedia.com/',
+      hashtag_url: "/tag/",
+      broadcaster_gender: 'female',
+      emoticon_overlay_url: '/emoticon_overlay/',
+      change_room_title_url: '/api/change_room_title/',
+      tipping_current_tokens_url: '/tipping/current_tokens/',
+      subject: $('#roomtitle'),
+      default_subject: "Raiders of the Battleship \u002D tip 5 tokens to fire a missile. #young #german #milf #college #student #schoolgirl #metal #goth #punk #pvt #privates #cumshow #boobs #pussy #pierced #hairy #longhair #hairy",
+      submenu_profile_url: '/accounts/submenuprofile/USERNAMESLUG/',
+      ban_url: '/roomban/USERNAMESLUG/missigoraevol/',
+      silence_url: '/roomsilence/USERNAMESLUG/missigoraevol/',
+      
+        allow_tipping: true,
+      
+      
+        is_broadcasting: false,
+      
+      
+        is_moderator: false,
+      
+      
+        scroll_on_load: true,
+      
+      add_moderator_url: '/addmoderator/USERNAMESLUG/missigoraevol/',
+      remove_moderator_url: '/removemoderator/USERNAMESLUG/missigoraevol/',
+      login_required_callback: login_required,
+      token_balance: 0,
+      is_private_show_owner: 0,
+      is_private_show_owner_url: "/tipping/is_private_show_owner/missigoraevol/",
+      tipped_performer_last_24hrs: 0,
+      last_vote_in_past_24_hours: undefined,
+      min_tips_reqd_to_vote: 25,
+      interested_in: ['f','c','s'],
+      group_show_tokens_per_minute_url: "/tipping/group_show_tokens_per_minute/missigoraevol/",
+      group_show_request_url: "/tipping/group_show_request/missigoraevol/",
+      group_show_cancel_url: "/tipping/group_show_cancel/missigoraevol/",
+      group_show_approve_url: "/tipping/group_show_approve/",
+      group_show_decline_url: "/tipping/group_show_decline/",
+      return_from_away_url: "/tipping/return_from_away/",
+      spy_on_private_show_tokens_per_minute_url: "/tipping/spy_on_private_show_tokens_per_minute/missigoraevol/",
+      private_show_tokens_per_minute_url: "/tipping/private_show_tokens_per_minute/missigoraevol/",
+      spy_on_private_show_request_url: "/tipping/spy_on_private_show_request/missigoraevol/",
+      private_show_request_url: "/tipping/private_show_request/missigoraevol/",
+      private_show_cancel_url: "/tipping/private_show_cancel/missigoraevol/",
+      private_show_approve_url: "/tipping/private_show_approve/",
+      private_show_decline_url: "/tipping/private_show_decline/",
+      rate_model_url: "/tipping/rate_model/missigoraevol/",
+      get_chat_user_menu_url: "/api/getchatusermenu/",
+      tips_in_last_24_url: "/tipping/tips_in_last_24/missigoraevol/",
+      silence_broadcasters: "false",
+      show_emoticons: true,
+      emoticon_autocomplete_delay: '0',
+      users_that_can_chat: "all",
+      spy_on_cams_url: "/spy-on-cams/",
+      num_users_waiting_for_group_show: 0,
+      num_users_required_for_group_show: 2,
+      get_panel_url: "/api/panel/missigoraevol/",
+      app_info_json: '[]',
+      font_size: '9pt',
+      sort_users_key: 'a',
+      room_entry_for: 'orgb',
+      room_leave_for: 'orgb',
+      chat_ignore_list_url: '/chat_ignore_list/',
+      chat_mod_list_url: '/chat_mod_list/',
+      chat_fan_list_url: '/chat_fan_list/',
+      chat_ban_list_url: '/chat_ban_list/',
+      chat_geo_list_url: '/chat_geo_list/',
+      load_ignored_users: '',
+      initial_viewer_count: '',
+      private_price: '30',
+      group_price: '12',
+      spy_price: '6',
+      
+      
+      room_goal: {},
+      
+
+      
+        
+          
+          welcome_warning: "To go to next room, press CTRL+/. To send a tip, press CTRL+S or type \u0026quot\u003B/tip 25\u0026quot\u003B. To disable emoticons or adjust autocomplete settings, click the \u0027Gear\u0027 tab above.\u003C/a\u003E",
+        
+      
+      
+      welcome_message: "Rules: No spamming. Do not insist the cam hosts to do as you please. Do not announce other rooms or websites that would conflict with this room. Avoid any argumentative and/or rude posts related to the cam viewing. Do not attempt to post your e\u002Dmail address in the public chat.",
+      
+      password_room_login_url: "/roomlogin/missigoraevol/",
+      room_status: "offline",
+      broadcaster_on_new_chat: "False" === "True"
+    });
+  }
+
+start_defchat();
+    
+
+
+$('.share_input').live('click', function() {
+  $(this).select();
+});
+
+
+$('.button_follow').hover(
+  function() {
+    $('.follow_tooltip').show();
+  },
+  function() {
+    $('.follow_tooltip').hide();
+  }
+);
+
+function hide_rating_ctrl_tooltips() {
+  $('#rate_dim_tooltip').hide();
+  $('#rate_tooltip').hide();
+  $('#rated_tooltip').hide();
+}
+$('#model_rating_ctrl_dim, #model_rating_ctrl_dim_with_scores').hover(
+  function() {
+    $('#rate_dim_tooltip').show();
+  },
+  hide_rating_ctrl_tooltips
+);
+$('#model_rating_ctrl, #model_rating_ctrl_with_scores').hover(
+  function() {
+    if (defchat_settings.last_vote_in_past_24_hours === undefined) {
+      $('#rate_tooltip').show();
+    } else {
+      $('#rated_tooltip').show();
+    }
+  },
+  hide_rating_ctrl_tooltips
+);
+});
+</script>
+<script type='text/javascript'>
+    $(document).ready(function() {
+        
+        
+        var userAgent = navigator.userAgent;
+        if (userAgent.indexOf('iPad') >= 0) {
+            resizable_player.update_sizes();
+        }
+
+        
+    });
+</script>
+<script type='text/javascript'>
+$(document).ready(function() {
+  
+  var cookiename = 'agreeterms';
+  if ($.cookie(cookiename) == '1') {
+    return;
+  }
+  if ($.cookie('fromaffiliate')) {
+    return;
+  }
+  $('.content').hide();
+  $('#entrance_terms').show('fast', function() {
+    $(document).scrollTop($("#close_entrance_terms"));
+  });
+  $('#overlay').show('fast');
+  $('#close_entrance_terms').click(function() {
+    $('.content').show();
+    $('#entrance_terms').fadeOut('fast');
+    $('#overlay').fadeOut('fast');
+    // millisecs * seconds * minutes * hours * days
+    var d = new Date;
+    d.setTime(d.getTime() + 1000 * 60 * 60 * 24 * 365);
+    $.cookie(cookiename, '1', {expires: d, path: '/'});
+  });
+});
+</script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/339eebb0bbcc.js"></script>
+<script>
+        var EMOTICON_AUTOCOMPLETE_API = 'https://emote.highwebmedia.com/autocomplete';
+    </script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/288cc0cc349b.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/30b10ab539e1.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/js/login_overlay.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/22b677433293.js"></script>
+<script async src="https://cdn.exoticads.com/xads.js"></script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/888a482ad1cd.js"></script>
+<script type="text/javascript" id="gaq">
+	ga('create', 'UA-23607725-1', 'auto');
+	ga('set', 'dimension1', 'chaturbate.com');
+	ga('set', 'dimension2', '');
+	
+		ga('set', 'dimension3', '-');
+		ga('set', 'dimension4', '');
+		ga('set', 'dimension5', 'anonymous');
+	
+	ga('send', 'pageview');
+    
+</script>
+<script>(function(h,o,t,j,a,r){h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};h._hjSettings={hjid:1040250,hjsv:6};a=o.getElementsByTagName('head')[0];r=o.createElement('script');r.async=1;r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;a.appendChild(r);})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');</script>
+<script>hj('trigger', 'cam'); hj('trigger', 'cam-cb1');</script>
+<script type="text/javascript" src="https://ssl-ccstatic.highwebmedia.com/CACHE/js/ed8e0ffb1b76.js"></script>
+<script type="text/javascript">
+            $(document).ready(function () {
+                setTimeout(function () {
+                    var fossilOptions = {};
+                    Fossil.get(fossilOptions, function (components) {
+                    	var values = components.map(function (component) { return component.value });
+                        var murmur = Fossil.x64hash128(values.join(''), 31);
+                        $.post("/fossil/i/", {
+                        	'result': Base64.encode(murmur)
+                        });
+                    });
+                }, 1000);
+            });
+        </script>
+</html>

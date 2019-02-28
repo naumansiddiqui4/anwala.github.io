@@ -1,0 +1,1690 @@
+                <!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie10 lt-ie9 lt-ie8 lt-ie7" ng-app="myApp"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie10 lt-ie9 lt-ie8" ng-app="myApp"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie10 lt-ie9" ng-app="myApp"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js lt-ie10" ng-app="myApp"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" ng-app="myApp"> <!--<![endif]-->
+
+
+    <head>
+
+      <meta name="google-site-verification" content="sCkZlzW9qPHf6TI6Gliuq1M4-QhQC-UTbH__VdHi_3A" />
+  <meta http-equiv="X-UA-Compatible" content="text/html, charset=UTF-8, IE=edge, chrome=1">
+  <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+    
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width, user-scalable = no">
+
+    
+  
+    
+    
+  
+  
+  
+
+  <!-- General OG meta tags -->
+    <meta property="og:url" content="https://www.bardown.com/tyler-seguin-and-jamie-benn-s-valentine-s-day-prank-is-an-all-time-classic-1.1257596"/>
+  <meta property="og:site_name" content="BARDOWN"/>
+
+  
+  
+      
+        
+                
+      
+            
+                      
+            
+        
+    
+    
+    
+    
+                                                                
+        <!-- General meta tags -->
+    <meta property="title" content="Tyler Seguin and Jamie Benn&rsquo;s Valentine&rsquo;s Day prank is an all-time classic - Article - BARDOWN"/>
+    <meta property="description" content="Tyler Seguin and Jamie Benn  are still two of the most fun players in the NHL, but still their best moment might have come from one of the first years they spent together in Dallas."/>
+    <meta property="keywords" content=""/>
+    <!-- Page specific OG tags -->
+    <meta property="og:title" content="Tyler Seguin and Jamie Benn&rsquo;s Valentine&rsquo;s Day prank is an all-time classic - Article - BARDOWN"/>
+    <meta property="og:description" content="Tyler Seguin and Jamie Benn  are still two of the most fun players in the NHL, but still their best moment might have come from one of the first years they spent together in Dallas."/>
+    <meta property="og:image" content="https://www.bardown.com/polopoly_fs/1.1257623!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tyler-seguin-and-jamie-benn.png"/>
+    <meta property="og:type" content="article"/>
+    <meta property="article:published_time" content="2019-02-14T10:06:58-05:00"/>
+    <meta property="article:author" content="BarDown Staff"/>
+                    
+    <script>
+        window.contentSpecificAd = "";
+    </script>
+
+        <!-- End of meta tags -->
+
+        <meta name="robots" content="index, follow" />
+      <meta name="robots" content="ACAP allow-index" />
+  
+                            
+              
+        <title>Tyler Seguin and Jamie Benn’s Valentine’s Day prank is an all-time classic - Article - Bardown</title>
+
+  
+    
+                <link rel="stylesheet" href="/css/bardown/style.css?v1550074125">
+    
+        <script>
+  //Fix to add in IE generic stylesheet
+  if (/*@cc_on!@*/false) {
+    var head = document.head,
+        link = document.createElement('link');
+
+        link.type = 'text/css';
+        link.rel = 'stylesheet';
+        link.href = '/css/style-ie.css?v1550074125';
+
+    if (head) {
+      head.appendChild(link);
+    }
+  }
+  </script>
+
+  <script>
+    var logo = {
+      retina: window.devicePixelRatio
+    }
+
+    var gigyaLoaded = false;
+  </script>
+
+  <!--[if IE]>
+  	        <link rel="stylesheet" href="/css/common/style-ie.css?v1550074125">
+      <![endif]-->
+  <!--[if IE 9]>
+  	        <link rel="stylesheet" href="/css/common/style-ie9.css?v1550074125">
+      <![endif]-->
+  <!--[if IE 8]>
+  	        <link rel="stylesheet" href="/css/common/style-ie8.css?v1550074125">
+      <![endif]-->
+  <!--[if IE 7]>
+  	        <link rel="stylesheet" href="/css/common/style-ie7.css?v1550074125">
+      <![endif]-->
+  <!--[if IE 6]>
+  	        <link rel="stylesheet" href="/css/common/style-ie7.css?v1550074125">
+      <![endif]-->
+
+  <!--[if lt IE 9]>
+           <script type="text/javascript" src="/js/bellmedia/vendor/selectivizr/selectivizr-min.js?v1550074125"></script>
+      <![endif]-->
+
+                    <script type="text/javascript" src="/js/bellmedia/vendor/jquery/jquery.min.js?v1550074125"></script>
+        
+          <script type="text/javascript" src="/js/bellmedia/vendor/jquery/jquery-ui-1.10.4.custom.min.js?v1550074125"></script>
+              <script type="text/javascript" src="/js/bellmedia/vendor/jquery/jquery.ui.touch-punch.min.js?v1550074125"></script>
+    
+
+  
+
+
+    <script type="text/javascript">
+
+        //setting up default variable in case this value never gets set in production
+        var defaultAuthBrand;
+        if('' == "bnn"){
+            defaultAuthBrand = 'bnn';
+        }else{
+            defaultAuthBrand = 'tsn';
+        }
+
+        window.siteConfig = {
+            brand: 'bardown',
+
+            // Video Player Configs
+            videoPlayerConfig: {
+                axisBaseUrl: 'https://capi.9c9media.com',
+                axisDestCode: 'tsn_web',
+                playerJSONDefaultPath: 'bardown/autoplay-on.json',
+                playerJSONAutoPlayOffPath: 'bardown/autoplay-off.json',
+                localStorageEnabled: '',
+                authEnvironment: 'prod',
+                authBrand: defaultAuthBrand,
+                isFlashDetectionEnabled: false,
+                flashDetectionMessage: ''
+            },
+
+            // Ads Config
+            adsConfig: {
+                adSite: 'ctv.tsn.ca/bardown',
+                kruxId: 'q5jcank4o',
+                bigboxPosition: ''
+            },
+
+            // Gigya Config
+            gigyaConfig: {
+                gigyaApiKey: '3_l3eVyRoG6FaeSisD79VXR-9EPJqqc0Xg8xnCcVBKcuk8JMYkbP2_kvOTd4XOiZ5B',
+                regSource: 'http://www.bardown.com'
+            },
+
+            
+            // Tracking Config
+            trackingConfig: {
+                trackAccount: 'ctvgmdefault',
+                trackAuthUrl: '//cauth.9c9media.com/auth9/axisAuthApi.js',
+                trackDestinationCode: '',
+                trackGlobalSuites: 'ctvgmtvetsnglobalsuite',
+                trackSiteAccount: 'ctvgmtvetsnbardown',
+                trackSiteId: 'bardown',
+                trackVersion: ''
+            }
+        };
+
+
+    </script>
+
+        <script type="text/javascript">
+        window.sportSection = '';
+            
+        //Load Auth9 Api call
+        window.axisAuthApi_pageCfg = {
+            destinationCode: window.siteConfig.videoPlayerConfig.axisDestCode,
+            id: window.siteConfig.brand.toUpperCase()
+        };
+    </script>
+
+        
+    <script type="text/javascript" src='//auth.9c9media.ca/auth/main.js'></script>
+    <script type="text/javascript">
+        $(function(){
+            initAuth();
+        });
+        function initAuth () {
+            var brand = window.siteConfig.videoPlayerConfig.authBrand;
+            var platform = 'web';
+            var environment = window.siteConfig.videoPlayerConfig.authEnvironment;
+
+            BmAuth.init(brand, platform, environment)
+                    .then( function() {})
+                    .catch( function(errorPackage) { console.log('[BmAuth] init failed', errorPackage); });
+        };
+    </script>
+
+                        <script type="text/javascript" src="/js/bellmedia/tracking.min.js?v1550074125"></script>
+        
+                <script type="text/javascript" src="https://webapps.9c9media.com/vidi-player/1.5.x/js/player.js"></script>
+    
+  <!--[if lt IE 9]>
+            <script type="text/javascript" src="/js/bellmedia/vendor/html5shiv/html5shiv.min.js?v1550074125"></script>
+      <![endif]-->
+
+      
+  
+        <link rel="canonical" href="https://www.bardown.com/tyler-seguin-and-jamie-benn-s-valentine-s-day-prank-is-an-all-time-classic-1.1257596" />
+  
+  
+  
+  
+    
+
+    <script>
+    //Ad zones variables
+    var adSite = "ctv.tsn.ca/bardown";
+    var adZone = "Bardown";
+    var subPage = "Article";
+    var kruxId = "q5jcank4o";
+  </script>
+
+    
+  
+  
+    <script>
+    //Ad zone variable for deeper nested pages (Game Pages, Team Pages, Player Pages)
+    var subPageType = "";
+  </script>
+    
+
+  <!-- Google Ad Script -->
+            <script type="text/javascript" src="/js/bellmedia/beacon.min.js?v1550074125"></script>
+      <script type="text/javascript">
+    var sraEnabled = true;
+
+    var gptadslots = [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function () {
+      var gads = document.createElement('script');
+      gads.async = true; gads.type = 'text/javascript';
+      var useSSL = 'https:' == document.location.protocol;
+      gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+      var node = document.getElementsByTagName('script')[0];
+      node.parentNode.insertBefore(gads, node);
+    })();
+
+
+          if (sraEnabled) {
+    function getAmazonPS(ad) {
+        var aps = "!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q(\"i\",arguments)},fetchBids:function(){q(\"f\",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}(\"apstag\",window,document,\"script\",\"//c.amazon-adsystem.com/aax2/apstag.js\");\n" +
+            "apstag.init({    pubID: '3733',    adServer: 'googletag',    bidTimeout: 2e3  });\n" +
+            "apstag.fetchBids({ slots: [{slotID: '" + ad.slot + "',slotName: '" + ad.unit+"/"+ad.slot+ "',sizes: [" + ad.size + "]}]  }, function(bids) {googletag.cmd.push(function() {apstag.setDisplayBids();googletag.pubads().refresh(); });});\n" +
+            "googletag.cmd.push(function() { googletag.display('" + ad.slot + "'); });";
+
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.text = aps;
+    return script;
+    }
+
+    function adserve(ad) {
+
+        var adunit = ad.adunit,
+            size = ad.size,
+            divid = ad.divid
+        slot = ad.slot,
+            refresh = ad.refresh,
+            adscript = "function adScript() {googletag.cmd.push(function(){gptadslots" + slot + "= googletag.defineSlot('" + adunit + "', [" + size + "],'" + divid + "').addService(googletag.pubads()).addService(googletag.companionAds());googletag.pubads().enableSingleRequest();googletag.pubads().enableAsyncRendering();googletag.pubads().collapseEmptyDivs(true);googletag.pubads().disableInitialLoad();googletag.enableServices();googletag.pubads().setTargeting('ksgmnt',Krux.segments);googletag.pubads().setTargeting('u',Krux.user);headertag.display('" + divid + "');});}adScript();"
+
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.text = adscript; // use this for inline script
+        $("#" + divid).append(script);
+        $("#" + divid).append(getAmazonPS(ad));
+    }
+
+    if (typeof window.inPostAdsOff === 'undefined' || inPostAdsOff === null || inPostAdsOff == false) {
+        function adserveoop(ad) {
+            var adunit = ad.adunit,
+                divid = ad.divid
+            slot = ad.slot,
+                adscript = "function oopScript() {googletag.cmd.push(function(){gptadslots" + slot + "= googletag.defineOutOfPageSlot('" + adunit + "','" + divid + "').addService(googletag.pubads()).addService(googletag.companionAds());googletag.pubads().enableSingleRequest();googletag.pubads().enableAsyncRendering();googletag.pubads().disableInitialLoad();googletag.enableServices();headertag.display('" + divid + "');googletag.pubads().setTargeting('ksgmnt',Krux.segments);googletag.pubads().setTargeting('u',Krux.user);});}oopScript();"
+
+            var script = document.createElement("script");
+            script.type = "text/javascript";
+            script.text = adscript;               // use this for inline script
+            $("#" + divid).append(script);
+            $("#" + divid).append(getAmazonPS(ad));
+        }
+    }
+
+    function mobileTrackerAdServe(ad) {
+//Due to delayed model response, ad needs to load on document ready instead of window load event. Revisit for all ads, to determine if we will need both or not.
+        var adunit = ad.adunit,
+            size = ad.size,
+            divid = ad.divid
+        slot = ad.slot,
+            refresh = ad.refresh,
+            adscript = "$(document).ready(function () {googletag.cmd.push(function(){gptadslots" + slot + "= googletag.defineSlot('" + adunit + "', [" + size + "],'" + divid + "').addService(googletag.pubads());googletag.pubads().enableSingleRequest();googletag.pubads().enableAsyncRendering();googletag.pubads().collapseEmptyDivs(true);googletag.pubads().disableInitialLoad();googletag.enableServices();googletag.pubads().setTargeting('ksgmnt',Krux.segments);googletag.pubads().setTargeting('u',Krux.user);headertag.display('" + divid + "');});});"
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.text = adscript;               // use this for inline script
+        $("#" + divid).append(script);
+        $("#" + divid).append(getAmazonPS(ad));
+    }
+} else {
+    function adserve(ad) {
+        var adunit = ad.adunit,
+            size = ad.size,
+            divid = ad.divid
+        slot = ad.slot,
+            refresh = ad.refresh,
+            adscript = "function adScript() {googletag.cmd.push(function(){gptadslots" + slot + "= googletag.defineSlot('" + adunit + "', [" + size + "],'" + divid + "').addService(googletag.pubads()).addService(googletag.companionAds());googletag.pubads().enableAsyncRendering();googletag.pubads().collapseEmptyDivs(true);googletag.pubads().disableInitialLoad();googletag.enableServices();googletag.pubads().setTargeting('ksgmnt',Krux.segments);googletag.pubads().setTargeting('u',Krux.user);headertag.display('" + divid + "');});}adScript();"
+
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.text = adscript; // use this for inline script
+        $("#" + divid).append(script);
+        $("#" + divid).append(getAmazonPS(ad));
+    }
+
+    if (typeof window.inPostAdsOff === 'undefined' || inPostAdsOff === null || inPostAdsOff == false) {
+        function adserveoop(ad) {
+            var adunit = ad.adunit,
+                divid = ad.divid
+            slot = ad.slot,
+                adscript = "function oopScript() {googletag.cmd.push(function(){gptadslots" + slot + "= googletag.defineOutOfPageSlot('" + adunit + "','" + divid + "').addService(googletag.pubads()).addService(googletag.companionAds());googletag.pubads().enableAsyncRendering();googletag.pubads().disableInitialLoad();googletag.enableServices();headertag.display('" + divid + "');googletag.pubads().setTargeting('ksgmnt',Krux.segments);googletag.pubads().setTargeting('u',Krux.user);});}oopScript();"
+
+            var script = document.createElement("script");
+            script.type = "text/javascript";
+            script.text = adscript;               // use this for inline script
+            $("#" + divid).append(script);
+            $("#" + divid).append(getAmazonPS(ad));
+        }
+    }
+
+    function mobileTrackerAdServe(ad) {
+//Due to delayed model response, ad needs to load on document ready instead of window load event. Revisit for all ads, to determine if we will need both or not.
+        var adunit = ad.adunit,
+            size = ad.size,
+            divid = ad.divid
+        slot = ad.slot,
+            refresh = ad.refresh,
+            adscript = "$(document).ready(function () {googletag.cmd.push(function(){gptadslots" + slot + "= googletag.defineSlot('" + adunit + "', [" + size + "],'" + divid + "').addService(googletag.pubads());googletag.pubads().enableAsyncRendering();googletag.pubads().collapseEmptyDivs(true);googletag.pubads().disableInitialLoad();googletag.enableServices();googletag.pubads().setTargeting('ksgmnt',Krux.segments);googletag.pubads().setTargeting('u',Krux.user);headertag.display('" + divid + "');});});"
+        var script = document.createElement("script");
+        script.type = "text/javascript";
+        script.text = adscript;               // use this for inline script
+        $("#" + divid).append(script);
+        $("#" + divid).append(getAmazonPS(ad));
+    }
+}      </script>
+
+      <script async src="//js-sec.indexww.com/ht/p/183816-190660557137825.js"></script>
+
+  <script type="text/javascript">
+     googletag.cmd.push(function() {
+        if (typeof window.headertag === 'undefined' ||
+           window.headertag.apiReady !== true) {
+           window.headertag = googletag;
+        }
+     });
+     //Init Krux
+    var kruxLoaded = false;
+
+    //This sets the adzone
+
+    //Content Specific Ad
+    if ((typeof window.contentSpecificAd !== 'undefined') && (window.contentSpecificAd !== "")) {
+        var adpg = window.contentSpecificAd;
+    }
+
+    //Homepage reset
+    //Checks for null values or generic landing pages
+    else if(adZone == "") 
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    }
+    else if(adZone == "Subject Landing Page")
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    }
+    else if(adZone == "Results Page")
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    }
+    else if(adZone == "Video Playlist")
+    {
+        adZone = "home";
+        subPage = "";
+        subPageType = "";
+
+        var adpg = adZone;
+    } else {        
+        // If subpage exists
+        if(subPage != ""){
+            subPage = "/"+subPage;
+
+            if(adZone == "Radio"){
+                if(subPageType == ""){
+                    subPage = subPage+"/home";
+                }
+            }
+
+        } else {
+            // Otherwise if it's not the article pages then it's the homepage
+            if(adZone == "TV" || adZone == "Watch" || adZone == "Live") {
+                subPage = "";
+            } else if (adZone !== "Article") {
+                subPage = "/home";                
+            } 
+        }
+
+        //Adds second level sub page (Game Pages, Team Pages, Player Pages)
+        if(subPageType != ""){
+            subPageType = "/"+subPageType;
+        }
+
+        //Sets ad zone variable
+        if(adZone == "" || adZone == undefined){
+            adZone = "home";
+            var adpg = adZone;
+        } else {
+            var adpg = adZone+subPage+subPageType; 
+        }  
+    }
+
+    //Replace anything other than digits, word characters, underscores, and forward slashes with underscores
+    adpg = adpg.replace(/[^\w\/]/gi, '_');
+
+    //Ad Variables
+    var ad1 = {
+        adunit: "/5479/" + adSite + "/" + adpg,
+        size: "[728,90],[970,90],[970,250]",
+        divid: "leaderboard-ad",
+        slot: 1
+
+    },
+
+        ad2 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[300,250],[300,600],[300,1050]",
+            divid: "bigbox-ad",
+            slot: 2
+
+        },
+
+        ad3 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[160,600]",
+            divid: "vertical-ad",
+            slot: 3
+
+        },
+
+        ad4 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[1000,250]",
+            divid: "billboard-ad",
+            slot: 1
+
+        },
+        oopad = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            divid: "Adoop",
+            slot: 4
+        },
+        ad5 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[320,50]",
+            divid: "leaderboard-ad",
+            slot: 1
+        },
+        ad6 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[1000,45]",
+            divid: "small-billboard-ad",
+            slot: 1
+
+        },
+        ad7 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[180,40]",
+            divid: "nav-ad",
+            slot: 5
+
+        },
+        ad8 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[728,90],[970,90],[970,250]",
+            divid: "apple-leaderboard-ad",
+            slot: 1
+
+        },
+                scad = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[30,1]",
+            divid: "adSlimCut",
+            slot: 1
+        },
+        ad10 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[85,24]",
+            divid: "scoreboard-ad",
+            slot: 6
+
+        },
+        ad11 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[100,30]",
+            divid: "ticker-ad",
+            slot: 7
+        },
+        ad12 = {
+            adunit: "/5479/" + adSite + "/" + adpg,
+            size: "[300,100]",
+            divid: "currency-converter-ad",
+            slot: 8
+        };
+        // //Desktop View
+        if(kruxLoaded == false){
+          krux();
+        }
+
+
+    //Krux Function
+    function krux() {
+        window.Krux || ((Krux = function() {
+            Krux.q.push(arguments)
+        }).q = []);
+        (function() {
+            var k = document.createElement('script');
+            k.type = 'text/javascript';
+            k.async = true;
+            var m, src = (m = location.href.match(/\bkxsrc=([^&]+)/)) && decodeURIComponent(m[1]);
+            k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+                (location.protocol === "https:" ? "https:" : "http:") + "//cdn.krxd.net/controltag?confid=" + kruxId;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(k, s);
+        }());
+
+        window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+            (function(){
+            function retrieve(n){
+            var m, k='kx'+n; 
+            if (window.localStorage){
+            return window.localStorage[k] || "";
+            } else if (navigator.cookieEnabled) {
+            m = document.cookie.match(k+'=([^;]*)');
+            return (m && unescape(m[1])) || "";
+            }   else {
+                    return '';
+                    }
+            }
+            Krux.user = retrieve('user');
+            Krux.segments = retrieve('segs') ? retrieve('segs').split(',') : []; 
+        // DFP Premium Interchange 
+            var dfpp = []; 
+            if (Krux.user) {
+            dfpp.push('u=' + Krux.user);
+            }
+            for (var i = 0; i < Krux.segments.length; i++ )
+            {
+            dfpp.push('ksgmnt=' + Krux.segments[i]);
+            }
+
+            Krux.dfppKeyValues = dfpp.length ? dfpp.join(';') + ';' : ''; })();
+
+            kruxLoaded = true;
+    }
+
+    var homepage = true;
+    var section = "Bardown";
+    if(section != ""){
+      homepage = false;
+    }
+    
+  </script>
+
+            <script type="text/javascript" src="/js/bellmedia/ads.min.js?v1550074125"></script>
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+                n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window,document,'script',
+                'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '299109537292123');
+        fbq('track', 'PageView');
+    </script>
+    <noscript>
+        <img height="1" width="1"
+             src="https://www.facebook.com/tr?id=299109537292123&ev=PageView
+    &noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+
+    <!-- Global site tag (gtag.js) - Google AdWords: 803817420 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-803817420"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'AW-803817420');
+    </script>
+
+    <!--
+    Start of global snippet: Please do not remove
+    Place this snippet between the <head> and </head> tags on every page of your site.
+    -->
+    <!-- Global site tag (gtag.js) - DoubleClick -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=DC-6169686"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'DC-6169686');
+    </script>
+    <!-- End of global snippet: Please do not remove -->
+
+
+    
+</head>    
+  <body>
+
+
+                <div class="top-container ">
+    <div class="main-header">
+                  <div class="header-cta">
+                            </div>
+        <div class='site-header-background'>
+            <div class="site-header">
+              
+                  
+    
+  
+    
+  
+    
+    
+        
+
+<div class="site-header-main tsn">
+    <div class='site-header-wrapper'>
+        <a title="TSN" href="http://www.tsn.ca"><h1 class="site-header-logo">TSN</h1></a>
+        <ul class="site-nav">
+	                    <li >
+		                            <a href="https://www.tsn.ca">News</a>
+		    
+				                    </li>
+	                    <li >
+		                            <a href="https://www.tsn.ca/video">Video</a>
+		    
+				                    </li>
+	                    <li >
+		                            <a href="https://www.tsn.ca/radio">Radio</a>
+		    
+				                    </li>
+	                    <li >
+		                            <a href="https://www.tsn.ca/tsn-originals">TSN Originals</a>
+		    
+				                    </li>
+	                    <li >
+		                            <a href="https://www.tsn.ca/engraved">Engraved</a>
+		    
+				                    </li>
+	                    <li >
+		                            <a href="https://www.tsn.ca/podcasts">Podcasts</a>
+		    
+				                    </li>
+	                    <li >
+		                            <a href="https://www.tsn.ca/live">Live</a>
+		    
+				                    </li>
+	                <li class="more-nav">
+                <p>More</p>
+                <ul>
+		                            <li class="hidden">
+                            <a href="https://www.tsn.ca">News</a>
+                        </li>
+		                            <li class="hidden">
+                            <a href="https://www.tsn.ca/video">Video</a>
+                        </li>
+		                            <li class="hidden">
+                            <a href="https://www.tsn.ca/radio">Radio</a>
+                        </li>
+		                            <li class="hidden">
+                            <a href="https://www.tsn.ca/tsn-originals">TSN Originals</a>
+                        </li>
+		                            <li class="hidden">
+                            <a href="https://www.tsn.ca/engraved">Engraved</a>
+                        </li>
+		                            <li class="hidden">
+                            <a href="https://www.tsn.ca/podcasts">Podcasts</a>
+                        </li>
+		                            <li class="hidden">
+                            <a href="https://www.tsn.ca/live">Live</a>
+                        </li>
+		    
+                    <li class="nav-footer"></li>
+                </ul>
+
+            </li>
+        </ul>
+
+		    </div>
+</div>
+
+<div class="menu-nav-mobile">
+        <div class="clear"></div>
+    <ul class="menu-nav-dropdown top-nav">
+		                    <li class="menu-top"><a href="https://www.tsn.ca">News</a></li>
+	    		                    <li class="menu-top"><a href="https://www.tsn.ca/video">Video</a></li>
+	    		                    <li class="menu-top"><a href="https://www.tsn.ca/radio">Radio</a></li>
+	    		                    <li class="menu-top"><a href="https://www.tsn.ca/tsn-originals">TSN Originals</a></li>
+	    		                    <li class="menu-top"><a href="https://www.tsn.ca/engraved">Engraved</a></li>
+	    		                    <li class="menu-top"><a href="https://www.tsn.ca/podcasts">Podcasts</a></li>
+	    		                    <li class="menu-top"><a href="https://www.tsn.ca/live">Live</a></li>
+	    	
+    </ul>
+    <ul class="menu-nav-dropdown">
+	
+        <div class="clear"></div>
+    </ul>
+    <ul class="menu-nav-dropdown">
+		                    <li class="menu-sports"><a href="https://www.tsn.ca">News</a></li>
+	    
+		                    <li class="menu-sports"><a href="https://www.tsn.ca/video">Video</a></li>
+	    
+		                    <li class="menu-sports"><a href="https://www.tsn.ca/radio">Radio</a></li>
+	    
+		                    <li class="menu-sports"><a href="https://www.tsn.ca/tsn-originals">TSN Originals</a></li>
+	    
+		                    <li class="menu-sports"><a href="https://www.tsn.ca/engraved">Engraved</a></li>
+	    
+		                    <li class="menu-sports"><a href="https://www.tsn.ca/podcasts">Podcasts</a></li>
+	    
+		                    <li class="menu-sports"><a href="https://www.tsn.ca/live">Live</a></li>
+	    
+		        <div class="clear"></div>
+    </ul>
+</div>
+
+    
+      
+    
+    
+        	<div class="mobile-header-nav bardown">
+		<div class="site-header-mobile">
+			<a title="Bardown" href="/"><h1 class="site-header-logo">Bardown</h1></a>
+			<ul id="site-nav" class="site-nav">
+															<li class="menu-mobile-nav-toggle"><a href="#"/><div class="icon"></div></a></li>
+												</ul>
+
+												<ul class='site-nav-dropdown'>
+						
+                        <div class="search-mobile">
+																										
+
+  
+  
+    <script>
+    window.searchSections = [
+                ];
+  </script>
+
+      
+  
+    
+
+                  
+      <div class="global-search-element">
+          <div class="site-header-search">
+      <div class="search-form-item">
+        <form class='search-form' action="https://www.bardown.com/search/search-7.406347" method="get">
+                        <input class='search-field' type="text" name="q" value="SEARCH">
+              <input class='search-submit submit' type="submit" value="Search">
+                  </form>
+      </div>
+    </div>
+          </div>
+
+						                        </div>
+
+						<div class="nav-options">
+																						    <div class="social-text">
+        <h3>#BarDown</h3>
+    </div>
+
+<div class="social-bar">
+	<ul>
+                  <li>
+              <a href="https://www.facebook.com/TSN" target="_blank"><span class="facebook"></span></a>
+          </li>
+                  <li>
+              <a href="https://twitter.com/BarDown" target="_blank"><span class="twitter"></span></a>
+          </li>
+                  <li>
+              <a href="https://www.instagram.com/tsn_official/" target="_blank"><span class="instagram"></span></a>
+          </li>
+            </ul>
+</div>													</div>
+
+					</ul>
+									</div>
+	</div>
+
+
+<div class="site-header-main bardown">
+    <div class='site-header-wrapper'>
+        <a title="Bardown" href="http://www.bardown.com"><h1 class="site-header-logo">Bardown</h1></a>
+        <ul class="site-nav">
+	                <li class="more-nav">
+                <p>More</p>
+                <ul>
+		    
+                    <li class="nav-footer"></li>
+                </ul>
+
+            </li>
+        </ul>
+
+	            <div class="nav-options">
+	    		                    <div class="search-icon"><a href="#"><span></span></a></div>
+		
+	    				        <div class="social-text">
+        <h3>#BarDown</h3>
+    </div>
+
+<div class="social-bar">
+	<ul>
+                  <li>
+              <a href="https://www.facebook.com/TSN" target="_blank"><span class="facebook"></span></a>
+          </li>
+                  <li>
+              <a href="https://twitter.com/BarDown" target="_blank"><span class="twitter"></span></a>
+          </li>
+                  <li>
+              <a href="https://www.instagram.com/tsn_official/" target="_blank"><span class="instagram"></span></a>
+          </li>
+            </ul>
+</div>		
+		
+            </div>
+		    </div>
+</div>
+
+<div class="menu-nav-mobile">
+        <div class="clear"></div>
+    <ul class="menu-nav-dropdown top-nav">
+	
+    </ul>
+    <ul class="menu-nav-dropdown">
+	            <li class="search-field-mobile no-login">
+		
+
+  
+  
+    <script>
+    window.searchSections = [
+                ];
+  </script>
+
+      
+  
+    
+
+                  
+      <div class="global-search-element">
+          <div class="site-header-search">
+      <div class="search-form-item">
+        <form class='search-form' action="https://www.bardown.com/search/search-7.406347" method="get">
+                        <input class='search-field' type="text" name="q" value="SEARCH">
+              <input class='search-submit submit' type="submit" value="Search">
+                  </form>
+      </div>
+    </div>
+          </div>
+
+            </li>
+	
+        <div class="clear"></div>
+    </ul>
+    <ul class="menu-nav-dropdown">
+		            <li class="social-field-mobile">
+		        		    <div class="social-text">
+        <h3>#BarDown</h3>
+    </div>
+
+<div class="social-bar">
+	<ul>
+                  <li>
+              <a href="https://www.facebook.com/TSN" target="_blank"><span class="facebook"></span></a>
+          </li>
+                  <li>
+              <a href="https://twitter.com/BarDown" target="_blank"><span class="twitter"></span></a>
+          </li>
+                  <li>
+              <a href="https://www.instagram.com/tsn_official/" target="_blank"><span class="instagram"></span></a>
+          </li>
+            </ul>
+</div>            </li>
+	        <div class="clear"></div>
+    </ul>
+</div>
+
+        <div class="search-desktop">
+    	
+
+  
+  
+    <script>
+    window.searchSections = [
+                ];
+  </script>
+
+      
+  
+    
+
+                  
+      <div class="global-search-element">
+          <div class="site-header-search">
+      <div class="search-form-item">
+        <form class='search-form' action="https://www.bardown.com/search/search-7.406347" method="get">
+                        <input class='search-field' type="text" name="q" value="SEARCH">
+              <input class='search-submit submit' type="submit" value="Search">
+                  </form>
+      </div>
+    </div>
+          </div>
+
+    </div>
+    
+      
+  
+                  </div>
+        </div>
+        <div class="header-cta mobile">
+                            </div>
+    </div>
+    </div>
+    
+
+    <div class="middle-container">
+      <div class="featured-content">
+                      </div>
+    </div>
+    <div id="content-container" >
+                        
+                  
+    
+  
+    
+  
+  
+            
+                  
+    
+  
+    
+  
+    
+    
+        
+    	<div id="bm-HeaderAd">
+	    <div id="leaderboard-ad"></div>
+	</div>
+	<script type="text/javascript">
+	    if($(window).width() >= 767){
+		adserve(ad1);
+	    }
+	</script>
+    
+
+      
+  
+      
+      <div class='content-wrapper'>
+              <div class='section-header '>
+                    </div>
+                <section class='content '>
+        <div class='wide'>
+                            </div>
+                <div class='content-right '>
+                  
+                  
+    
+  
+    
+  
+    
+    
+        
+        <script>
+        var persistentAd = {
+            enabled: "true"
+        }
+    </script>
+                        
+    <script type="text/javascript">
+
+        if(!bigBoxAd)
+        {
+            var modelType = "bellmedia.tsn.Article";
+            var bigBoxAd = {
+                                    contentPositionInList: '2',
+                                feedPositionInList: "3",
+                childPositionInList: "3"
+            };
+        }
+
+    </script>
+
+    <div class="bigbox-ad-outer-wrapper">
+        <div class="bigbox-ad-wrapper stuck" ng-controller="PersistentPlayer">
+            <div id="bigbox-ad"></div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+
+        if($(window).width() >= 767){
+            adserve(ad2);
+        }
+
+    </script>
+    
+      
+    
+    
+        
+
+
+
+
+
+
+
+
+
+
+<script>
+    var onePlayerWebObj = {
+        type: 'oneplayerweb',
+        language: 'en',
+        metadataInfo: true,
+        share: true,
+        embed: false,
+        overlayHeaderVisible: false,
+        overlayFooterVisible: false
+    };
+
+    var siteSections = [];
+        
+    var axisCollectionObj_7_406364_1481558766 = {
+        contentType: 'collection',
+        playerConfig: 'bardown/autoplay-off.json',
+        collectionId: 184,
+        layout: 'rail',
+        pageSize: '10',
+        dateFilterEnabled: false,
+        videoLimit: '15',
+        videoLength: '2',
+        relatedEnabled: false,
+        siteSections: siteSections,
+        elementId: "axis_player_7_406364_1481558766",
+        adSite: "ctv.tsn.ca/bardown",
+        autoPlay: 'bardown/autoplay-on.json'
+    };
+
+                $(function () {
+            // Hide Authentication
+            $('.videoAuthentication', '[data-obj-id="axisCollectionObj_7_406364_1481558766"]').hide();
+        });
+        
+</script>
+
+<script>
+    var persistentPlayer = {
+        enabled: "false"
+    }
+</script>
+
+
+
+<section class="axis-collection-container rail" data-obj-id="axisCollectionObj_7_406364_1481558766"
+         ng-controller="AxisCollection" ng-init="init()"
+         >
+
+            <header class="rightrail-header">
+            <p>Latest Videos</p>
+            <div class="clear"></div>
+        </header>
+    
+    
+            <div class="preloader" ng-hide="dataLoaded"></div>
+    
+    <div class="media-container" ng-class="{enableAutoPlay: false == false}">
+
+        <div class="media-content">
+                                    
+            
+                            <div class="homepage-video">
+            <div class="video-outer-wrapper">
+            <div class="video-wrapper stuck" data-id="latest_video_player" ng-controller="HomePageVideo" ng-init="init(false)">
+                <div class="video-placeholder" id="homepage_video_placeholder_latest_video_player"></div>
+            <div  class="video-container" >
+                <button class="close-button homepage-video-close" ng-click="removePersistent()" ></button>
+
+                        <div class="video-player-wrapper" ng-if="currentStream.Id">
+
+
+
+                            <div class="axis_player_7_406364_1481558766 videoplayer-container" data-axis-id="currentStream.Id"></div>
+
+                <div id="persistent-title"><h3></h3></div>
+
+
+                
+            </div>
+
+                        </div>
+            </div>
+                                </div>
+                            
+                        <div            class="headline" ng-if="currentStream" ng-cloak>
+            <h2 >{{ currentStream.Name }}</h2>
+
+                            <p >{{ currentStream.Desc }}</p>
+            
+            
+                            </div>
+
+        </div>
+        </div>
+
+            <div ng-cloak ng-hide="!dataLoaded || (axisCollection.length == 0)" class="wrapper">
+                            <div class="playlist-container">
+                    <h2 >
+                                                    Related Video
+                                            </h2>
+                    <div class="playlist-wrapper">
+                        <ul class="playlist">
+                            <li class="playlist-item" ng-repeat="video in axisCollection"
+                                ng-class="{'last':$last,'first':$first}" ng-repeat-complete>
+                                <a href="" ng-click="handleClick(video.Id, video.Name, $event)" data-id="{{ video.Id }}"
+                                   data-name="{{ video.Name }}">
+                                    <div class="media">
+                                        <div class="media-overlay" ng-class="{'live': video.Type == 'stream'}">
+                                            <div class="overlay-text up-next" ng-if="video.Id == nextStreamId">
+                                                <span>Up Next</span>
+                                            </div>
+                                            <div class="overlay-text now-showing" ng-if="video.Id == currentStreamId">
+                                                <span>Now Showing</span>
+                                            </div>
+                                            <div class="overlay-text"
+                                                 ng-if="video.Id != currentStreamId && video.Id != nextStreamId">
+                                                <span></span>
+                                            </div>
+                                        </div>
+
+                                                                                    <img ng-if="$index > 4"
+                                                 ng-src="/img/elements/preloaders/preloader_black_video.gif"
+                                                 data-image="{{ video.Images[0].Url }}?width=140&height=79"
+                                                 alt="{{ video.Name }}"/>
+                                            <img ng-if="$index <= 4"
+                                                 ng-src="{{ video.Images[0].Url }}?width=140&height=79"
+                                                 data-image="{{ video.Images[0].Url }}?width=140&height=79"
+                                                 alt="{{ video.Name }}"/>
+                                                                                                                    </div>
+                                    <div class="video-content"><p
+                                        >{{ video.Name
+                                        }}</p>
+                                    </div>
+                                </a>
+                                <div class="border"></div>
+                            </li>
+                        </ul>
+                        <div class="playlist-arrow top-arrow"></div>
+                        <div class="playlist-arrow bottom-arrow"></div>
+                    </div>
+
+                                                            <div class="playback-switch hide"
+                             >
+                            Continuous Play:
+                            <form class="switch">
+                                <input type="radio" name="playback" value="true" checked>ON
+                                <input type="radio" name="playback" value="false">OFF
+                            </form>
+                        </div>
+                                    </div>
+            </div>
+
+                    <div class="no-data-found">
+                                    <p>The information you requested is not available at this time, please check back again soon.</p>
+                            </div>
+
+                                                    
+</section>
+
+    
+
+      
+    
+    
+        
+	<div id="adSlimCut"></div>
+
+	        <script type="text/javascript">
+            if(typeof window.isSlimCutAdsOff === 'undefined' || isSlimCutAdsOff === null || isSlimCutAdsOff == false) {
+                adserve(scad);
+            }
+        </script>
+    
+
+
+      
+  
+                                    
+                  
+    
+  
+    
+  
+    
+    
+            
+
+
+      
+  
+                          </div>
+        
+        <div class='content-main'>
+                                                  
+            
+        
+    
+    
+    
+    
+                    
+                    
+            <script>
+    var persistentPlayer = {
+        enabled: "false"
+    }
+</script>
+
+        
+
+                    <article class="standard-article ">
+        
+        <div class="article">
+
+                    <header>
+                
+                <div class="headline" >
+                                            <h1>Tyler Seguin and Jamie Benn&rsquo;s Valentine&rsquo;s Day prank is an all-time classic</h1>
+                                                                        </div>
+                                                <div class="article-info  creditWrap">
+
+                                                            <div class="sources"><p><span class="source">BarDown Staff</span></p></div>
+                    
+                                                                                
+                                    <ul class="social-right">
+                                                                            <li>
+                                <div id="shareBarDiv"></div>
+                            </li>
+                                                                    </ul>
+                </div>
+                <div class="clear"></div>
+            </header>
+
+                            <div class="article-media enableAutoPlay">
+                                        <div class="article-image">
+                    <img title='Tyler Seguin and Jamie Benn' height='349' alt='Tyler Seguin and Jamie Benn' width='620' src='/polopoly_fs/1.1257623.1550156803!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tyler-seguin-and-jamie-benn.png' />                                    </div>
+
+                <div class="byline">
+
+
+                    <p>                        Tyler Seguin and Jamie Benn
+                    </p>
+                </div>
+
+                        </div>
+    
+                                
+                    <div class="article-text"><p>Tyler Seguin and Jamie Benn&nbsp; are still two of the most fun players in the NHL, but still their best moment might have come from one of the first years they spent together in Dallas.</p>
+
+<p>Cabbie has always been a bit of a prankster, so when these two first got to Dallas, he thought maybe they would want to help him pull of a Valentine’s Day prank on their mom. Seguin and Benn ended up calling their mom’s and telling them that they were going to propose to a girlfriend that didn’t actually exist. They go on a long call, explaining that they’ve quickly fallen head over heels in love with a girl and even though they haven’t met them, they want to propose.</p>
+
+<p>It ends on a wholesome note, with their mom’s as their true Valentine on the big day.</p>
+
+<p>&nbsp;</p>
+
+<div class="embedded-post" contenteditable="false" id="embed-1550156506485-wrapper">
+<div class="article-embed-post" id="embed-1550156506485">
+<style type="text/css">.youtubeVideoWrapper {
+
+                   position: relative;
+
+                   padding-bottom: 56.25%; /* 16:9 */
+
+                   padding-top: 25px;
+
+                   height: 0;
+
+    }
+
+    .youtubeVideoWrapper iframe {
+
+                   position: absolute;
+
+                   top: 0;
+
+                   left: 0;
+
+                   width: 100%;
+
+                   height: 100%;
+
+    }
+</style>
+<div class="youtubeVideoWrapper"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/UOaMYKDs5Nk"></iframe></div>
+</div>
+</div>
+
+<p>Oh, and Cabbie helped their mothers get back at them the next year.</p>
+
+<p>&nbsp;</p>
+
+<div class="embedded-post" contenteditable="false" id="embed-1550156501198-wrapper">
+<div class="article-embed-post" id="embed-1550156501198">
+<style type="text/css">.youtubeVideoWrapper {
+
+                   position: relative;
+
+                   padding-bottom: 56.25%; /* 16:9 */
+
+                   padding-top: 25px;
+
+                   height: 0;
+
+    }
+
+    .youtubeVideoWrapper iframe {
+
+                   position: absolute;
+
+                   top: 0;
+
+                   left: 0;
+
+                   width: 100%;
+
+                   height: 100%;
+
+    }
+</style>
+<div class="youtubeVideoWrapper"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/5PWdJVbQURM"></iframe></div>
+</div>
+</div>
+
+<p>And then, of course, Seguin’s revenge on Cabbie.</p>
+
+<p>&nbsp;</p>
+
+<div class="embedded-post" contenteditable="false" id="embed-1550156492926-wrapper">
+<div class="article-embed-post" id="embed-1550156492926">
+<style type="text/css">.youtubeVideoWrapper {
+
+                   position: relative;
+
+                   padding-bottom: 56.25%; /* 16:9 */
+
+                   padding-top: 25px;
+
+                   height: 0;
+
+    }
+
+    .youtubeVideoWrapper iframe {
+
+                   position: absolute;
+
+                   top: 0;
+
+                   left: 0;
+
+                   width: 100%;
+
+                   height: 100%;
+
+    }
+</style>
+<div class="youtubeVideoWrapper"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/oviNyP3cihw"></iframe></div>
+</div>
+</div>
+
+<p>Cabbie seems to be a pretty big fan of Valentine’s day, because over the years, he’s come out with a lot of great videos around that time.</p>
+
+<p>&nbsp;</p>
+
+<div class="embedded-post" contenteditable="false" id="embed-1550154549394-wrapper">
+<div class="article-embed-post" id="embed-1550154549394">
+<style type="text/css">.youtubeVideoWrapper {
+
+                   position: relative;
+
+                   padding-bottom: 56.25%; /* 16:9 */
+
+                   padding-top: 25px;
+
+                   height: 0;
+
+    }
+
+    .youtubeVideoWrapper iframe {
+
+                   position: absolute;
+
+                   top: 0;
+
+                   left: 0;
+
+                   width: 100%;
+
+                   height: 100%;
+
+    }
+</style>
+<div class="youtubeVideoWrapper"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/KoSSPo2w_sk"></iframe></div>
+<style type="text/css">.youtubeVideoWrapper {
+
+                   position: relative;
+
+                   padding-bottom: 56.25%; /* 16:9 */
+
+                   padding-top: 25px;
+
+                   height: 0;
+
+    }
+
+    .youtubeVideoWrapper iframe {
+
+                   position: absolute;
+
+                   top: 0;
+
+                   left: 0;
+
+                   width: 100%;
+
+                   height: 100%;
+
+    }
+</style>
+<div class="youtubeVideoWrapper"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/tCSQTvMQOzw"></iframe></div>
+<style type="text/css">.youtubeVideoWrapper {
+
+                   position: relative;
+
+                   padding-bottom: 56.25%; /* 16:9 */
+
+                   padding-top: 25px;
+
+                   height: 0;
+
+    }
+
+    .youtubeVideoWrapper iframe {
+
+                   position: absolute;
+
+                   top: 0;
+
+                   left: 0;
+
+                   width: 100%;
+
+                   height: 100%;
+
+    }
+</style>
+<div class="youtubeVideoWrapper"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/ArgeADCw5Nk"></iframe></div>
+</div>
+</div>
+</div>
+
+        </div>
+
+    </article>
+
+
+
+            
+
+    
+    
+<script>
+    //Set gigya info
+    window.gigyaMeta = {
+        contentId: '1.1257596',
+        title: 'Tyler Seguin and Jamie Benn\u2019s Valentine\u2019s Day prank is an all-time classic',
+        description: 'Tyler Seguin and Jamie Benn  are still two of the most fun players in the NHL, but still their best moment might have come from one of the first years they spent together in Dallas.',
+        image: 'https://www.bardown.com/polopoly_fs/1.1257623!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/tyler-seguin-and-jamie-benn.png',
+        socialPluginsLoaded: false
+    };
+
+    // Call build social plugins (in cases where the gigya API loaded before page finished rendering)
+    if (gigyaLoaded) {
+        buildSocialPlugins();
+    }
+</script>
+
+
+                                  
+                  
+    
+  
+    
+  
+  
+              </div>
+      </section>
+    </div>
+                    <footer class='hub-footer' bm-ad-complete>
+    <div class='site-footer'>
+        <div class='site-footer-main'>
+	
+	                <ol class='site-footer-nav right'>
+	    
+	                    <li>
+                    <a href="http://beta.bardown.com/about-bardown-1.627828">About</a>
+                </li>
+	                    <li>
+                    <a href="http://support.bell.ca/Billing-and-Accounts/Security_and_privacy/How_does_Bell_respect_my_privacy">Privacy</a>
+                </li>
+	                    <li>
+                    <a href="http://www.bellmedia.ca/bell-media-website-terms-conditions/">Terms & Conditions</a>
+                </li>
+	                    <li>
+                    <a href="https://jobs.bce.ca/bell/go/Media/3537600/">Careers</a>
+                </li>
+	            </ol>
+
+		                    <div class="left">&copy; 2019<a href="http://www.bellmedia.ca/"
+                                                             class="site-footer-bell-logo"> </a>All Rights Reserved
+                </div>
+	    
+		            </div>
+    </div>
+    <div id="getsat-widget-7028"></div>
+</footer>
+        <script type="text/javascript" src="/js/bellmedia/plugins.min.js?v1550074125"></script>
+    
+<!--[if gt IE 8]><!-->         <script type="text/javascript" src="/js/bellmedia/angular.min.js?v1550074125"></script>
+     <!--<![endif]-->
+<!--[if lt IE 9]>         <script type="text/javascript" src="/js/bellmedia/angular-ie8.min.js?v1550074125"></script>
+     <![endif]-->
+
+
+            <script type="text/javascript" src="/js/bellmedia/bardown.min.js?v1550074125"></script>
+    
+        <script type="text/javascript" src="/js/bellmedia/vue-components.js?v1550074125"></script>
+    
+
+    
+    	        <script type="text/javascript" src="/js/bellmedia/partials/common/articles.min.js?v1550074125"></script>
+        
+
+ 
+<script type="text/javascript">
+    // Set gigya registration source
+    window.__gigyaConf = {regSource: 'http://www.bardown.com'};
+    // Load gigya script asyncronously
+    (function () {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'https://cdns.gigya.com/js/gigya.js?apiKey=3_l3eVyRoG6FaeSisD79VXR-9EPJqqc0Xg8xnCcVBKcuk8JMYkbP2_kvOTd4XOiZ5B';
+        document.getElementsByTagName('head')[0].appendChild(s);
+    })();
+
+</script>
+
+
+
+
+
+<script type="text/javascript">
+    var autoRefreshEnabled = ('false' == 'true') ? true : false,
+            autoRefreshInterval = parseInt('$autoRefreshInterval'), //Assume in mins
+            minRefreshInterval = 1000 * 60 * 5, //5 mins
+            refreshTimer = null;
+
+    // Convert and set auto refresh interval
+    if (!isNaN(autoRefreshInterval)) {
+        // Convert refresh interval to milliseconds
+        autoRefreshInterval = autoRefreshInterval * 60 * 1000;
+        // Make sure refresh interval is above minRefreshInterval
+        if (autoRefreshInterval < minRefreshInterval) autoRefreshInterval = minRefreshInterval;
+    } else {
+        // Otherwise set interval to minRefreshInterval
+        autoRefreshInterval = minRefreshInterval;
+    }
+
+    // If auto refresh checkbox is enabled
+    if (autoRefreshEnabled) {
+        // Start timeout function
+        window.autoRefreshStart = function () {
+            refreshTimer = setTimeout(function () {
+                window.location.reload(1); //Force clear cache
+            }, autoRefreshInterval);
+        }
+        // Stop timeout function
+        window.autoRefreshStop = function () {
+            if (refreshTimer != null) {
+                clearTimeout(refreshTimer);
+                refreshTimer = null;
+            }
+        }
+        // Start timeout function
+        window.autoRefreshStart();
+    }
+</script>
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }
+                , i[r].l = 1 * new Date();
+        a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-22045963-1', 'auto');
+    ga('send', 'pageview');
+</script>
+
+
+<!-- Twitter universal website tag code -->
+<script>
+    !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+    },s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+            a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+    // Insert Twitter Pixel ID and Standard Event data below
+    twq('init','nzkmw');
+    twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->        <div class='sidr-blocker'></div>
+    </div>
+      </body>
+</html>

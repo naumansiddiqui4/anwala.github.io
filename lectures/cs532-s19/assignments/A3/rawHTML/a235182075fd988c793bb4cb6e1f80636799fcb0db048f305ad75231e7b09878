@@ -1,0 +1,301 @@
+
+<!doctype html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Investment Properties Buyer List - Midwest Capital</title>
+<script type="text/javascript">!function(e){function r(n){if(t[n])return t[n].exports;var o=t[n]={i:n,l:!1,exports:{}};return e[n].call(o.exports,o,o.exports,r),o.l=!0,o.exports}var t={};r.m=e,r.c=t,r.d=function(e,t,n){r.o(e,t)||Object.defineProperty(e,t,{configurable:!1,enumerable:!0,get:n})},r.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return r.d(t,"a",t),t},r.o=function(e,r){return Object.prototype.hasOwnProperty.call(e,r)},r.p="/app/themes/carrot/dist/",r(r.s=406)}({406:function(e,r,t){"use strict";var n=t(407);"function"!=typeof Object.assign&&Object.defineProperty(Object,"assign",{value:function(e,r){if(null==e)throw new TypeError("Cannot convert undefined or null to object");for(var t=Object(e),n=1;n<arguments.length;n++){var o=arguments[n];if(null!=o)for(var a in o)Object.prototype.hasOwnProperty.call(o,a)&&(t[a]=o[a])}return t},writable:!0,configurable:!0}),(0,n.shimJQuery)()},407:function(e,r,t){"use strict";Object.defineProperty(r,"__esModule",{value:!0}),r.shimJQuery=function(){window[n.carrotThemeQ]={},window[n.carrotThemeQ][n.jqueryQName]=[],window.jQuery=function(){return window[n.carrotThemeQ][n.jqueryQName].push([n.INSTANTIATE,arguments]),window.jQuery};for(var e=0;e<o.default.length;e++)!function(e){var r=o.default[e];window.jQuery[r]=function(){window[n.carrotThemeQ][n.jqueryQName].push([n.INSTANCE_METHOD_CALL,r,arguments])}}(e);window.jQuery.extend=function(e,r){return Object.assign(e,r)},window.jQuery._isFake=!0};var n=t(92),o=function(e){return e&&e.__esModule?e:{default:e}}(t(408))},408:function(e,r){e.exports=["add","addBack","addClass","after","ajaxComplete","ajaxError","ajaxSend","ajaxStart","ajaxStop","ajaxSuccess","andSelf","animate","append","appendTo","attr","before","bind","blur","change","children","clearQueue","click","clone","closest","contents","contextmenu","css","data","dblclick","delay","delegate","dequeue","detach","die","each","empty","end","eq","error","fadeIn","fadeOut","fadeTo","fadeToggle","filter","find","finish","first","focus","focusin","focusout","get","has","hasClass","height","hide","hover","html","index","innerHeight","innerWidth","insertAfter","insertBefore","is","jQuery","keydown","keypress","keyup","last","live","load","map","mousedown","mouseenter","mouseleave","mousemove","mouseout","mouseover","mouseup","next","nextAll","nextUntil","not","off","offset","offsetParent","on","one","outerHeight","outerWidth","parent","parents","parentsUntil","position","prepend","prependTo","prev","prevAll","prevUntil","promise","prop","pushStack","queue","ready","remove","removeAttr","removeClass","removeData","removeProp","replaceAll","replaceWith","resize","scroll","scrollLeft","scrollTop","select","serialize","serializeArray","show","siblings","size","slice","slideDown","slideToggle","slideUp","stop","submit","text","toArray","toggle","toggleClass","trigger","triggerHandler","unbind","undelegate","unload","unwrap","val","width","wrap","wrapAll","wrapInner"]},92:function(e,r,t){"use strict";function n(e){if(Array.isArray(e)){for(var r=0,t=Array(e.length);r<e.length;r++)t[r]=e[r];return t}return Array.from(e)}Object.defineProperty(r,"__esModule",{value:!0}),r.shimCatch=function(){var e=window[o];if(e){var r=e[a];if(r&&!(r.length<1)){var t={jq:null};r.forEach(function(e){if(e[0]===i)return t.jq=jQuery(e[1]);if(e[0]===u){var r;return t.jq=(r=t.jq)[e[1]].apply(r,n(e[2]))}})}}};var o=r.carrotThemeQ="CARROT_THEME_SHIM_Q",a=r.jqueryQName="JQUERY_QUEUE",i=r.INSTANTIATE="INSTANTIATE",u=r.INSTANCE_METHOD_CALL="INSTANCE_METHOD_CALL"}});
+//# sourceMappingURL=shim.f34b7a553a66ee4f1325.js.map</script><link rel="canonical" href="https://chicagoinvestorbuyer.oncarrot.com/go/investment-properties/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Investment Properties Buyer List - Midwest Capital" />
+<meta property="og:description" content="Chicago Investment Properties At 30-50% Below Market Value (Handyman / Vacant / Great Rentals Available) Serious Buyers Only Please: If you&#8217;re a cash buyer and are looking to pick up rental properties in Chicago or properties to rehab in Chicago, we&#8217;d like to work with you. Please ENTER YOUR INFO in the form to the right and &hellip; Continued" />
+<meta property="og:url" content="https://chicagoinvestorbuyer.oncarrot.com/go/investment-properties/" />
+<meta property="og:site_name" content="Chicago Cash Buyers " />
+<meta property="og:image" content="https://cdn.oncarrot.com/uploads/sites/26033/2018/08/top_subdivisions_condo_buildings_for_real_estate_36-1496164188-4175.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/chicagoinvestorbuyer.oncarrot.com\/","name":"Chicago Cash Buyers "}</script>
+<link rel='dns-prefetch' href='//cdn.oncarrot.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+
+
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+
+      
+        ga('create', 'UA-1223931-15', 'auto');
+        ga('set', 'dimension1', 'chicagoinvestorbuyer');
+        ga('set', 'dimension2', 'investor-buyer-02');
+        ga('set', 'dimension3', 'buyer');
+        ga('set', 'dimension4', 'carrot-01');
+        ga('require', 'cleanUrlTracker', {"stripQuery":true,"queryDimensionIndex":5});
+        ga('send', 'pageview');
+
+      
+    </script>
+                <script async src="https://www.google-analytics.com/analytics.js"></script>
+          <script async src="/app/plugins/google-analytics-async/vendor/autotrack.custom.js"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><script type="text/javascript">var CARROT_THEME_FONTS = {"primary_google_font":"Source Sans Pro:400,300,400italic,700","headings_google_font":"Source Sans Pro"};!function(t){function n(e){if(i[e])return i[e].exports;var o=i[e]={i:e,l:!1,exports:{}};return t[e].call(o.exports,o,o.exports,n),o.l=!0,o.exports}var i={};n.m=t,n.c=i,n.d=function(t,i,e){n.o(t,i)||Object.defineProperty(t,i,{configurable:!1,enumerable:!0,get:e})},n.n=function(t){var i=t&&t.__esModule?function(){return t.default}:function(){return t};return n.d(i,"a",i),i},n.o=function(t,n){return Object.prototype.hasOwnProperty.call(t,n)},n.p="/app/themes/carrot/dist/",n(n.s=409)}({409:function(t,n,i){"use strict";var e=function(t){return t&&t.__esModule?t:{default:t}}(i(410));window.CARROT_THEME_FONTS&&e.default.load({google:{families:[window.CARROT_THEME_FONTS.primary_google_font,window.CARROT_THEME_FONTS.headings_google_font].filter(function(t){return!!t})}})},410:function(t,n,i){var e;!function(){function o(t,n,i){return t.call.apply(t.bind,arguments)}function a(t,n,i){if(!t)throw Error();if(2<arguments.length){var e=Array.prototype.slice.call(arguments,2);return function(){var i=Array.prototype.slice.call(arguments);return Array.prototype.unshift.apply(i,e),t.apply(n,i)}}return function(){return t.apply(n,arguments)}}function s(t,n,i){return(s=Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native code")?o:a).apply(null,arguments)}function r(t,n){this.a=t,this.o=n||t,this.c=this.o.document}function c(t,n,i,e){if(n=t.c.createElement(n),i)for(var o in i)i.hasOwnProperty(o)&&("style"==o?n.style.cssText=i[o]:n.setAttribute(o,i[o]));return e&&n.appendChild(t.c.createTextNode(e)),n}function f(t,n,i){(t=t.c.getElementsByTagName(n)[0])||(t=document.documentElement),t.insertBefore(i,t.lastChild)}function h(t){t.parentNode&&t.parentNode.removeChild(t)}function l(t,n,i){n=n||[],i=i||[];for(var e=t.className.split(/\s+/),o=0;o<n.length;o+=1){for(var a=!1,s=0;s<e.length;s+=1)if(n[o]===e[s]){a=!0;break}a||e.push(n[o])}for(n=[],o=0;o<e.length;o+=1){for(a=!1,s=0;s<i.length;s+=1)if(e[o]===i[s]){a=!0;break}a||n.push(e[o])}t.className=n.join(" ").replace(/\s+/g," ").replace(/^\s+|\s+$/,"")}function u(t,n){for(var i=t.className.split(/\s+/),e=0,o=i.length;e<o;e++)if(i[e]==n)return!0;return!1}function p(t){return t.o.location.hostname||t.a.location.hostname}function g(t,n,i){function e(){r&&o&&a&&(r(s),r=null)}n=c(t,"link",{rel:"stylesheet",href:n,media:"all"});var o=!1,a=!0,s=null,r=i||null;at?(n.onload=function(){o=!0,e()},n.onerror=function(){o=!0,s=Error("Stylesheet failed to load"),e()}):setTimeout(function(){o=!0,e()},0),f(t,"head",n)}function d(t,n,i,e){var o=t.c.getElementsByTagName("head")[0];if(o){var a=c(t,"script",{src:n}),s=!1;return a.onload=a.onreadystatechange=function(){s||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(s=!0,i&&i(null),a.onload=a.onreadystatechange=null,"HEAD"==a.parentNode.tagName&&o.removeChild(a))},o.appendChild(a),setTimeout(function(){s||(s=!0,i&&i(Error("Script load timeout")))},e||5e3),a}return null}function v(){this.a=0,this.c=null}function w(t){return t.a++,function(){t.a--,y(t)}}function m(t,n){t.c=n,y(t)}function y(t){0==t.a&&t.c&&(t.c(),t.c=null)}function b(t){this.a=t||"-"}function _(t,n){this.c=t,this.f=4,this.a="n";var i=(n||"n4").match(/^([nio])([1-9])$/i);i&&(this.a=i[1],this.f=parseInt(i[2],10))}function x(t){return k(t)+" "+t.f+"00 300px "+T(t.c)}function T(t){var n=[];t=t.split(/,\s*/);for(var i=0;i<t.length;i++){var e=t[i].replace(/['"]/g,"");-1!=e.indexOf(" ")||/^\d/.test(e)?n.push("'"+e+"'"):n.push(e)}return n.join(",")}function j(t){return t.a+t.f}function k(t){var n="normal";return"o"===t.a?n="oblique":"i"===t.a&&(n="italic"),n}function S(t){var n=4,i="n",e=null;return t&&((e=t.match(/(normal|oblique|italic)/i))&&e[1]&&(i=e[1].substr(0,1).toLowerCase()),(e=t.match(/([1-9]00|normal|bold)/i))&&e[1]&&(/bold/i.test(e[1])?n=7:/[1-9]00/.test(e[1])&&(n=parseInt(e[1].substr(0,1),10)))),i+n}function E(t,n){this.c=t,this.f=t.o.document.documentElement,this.h=n,this.a=new b("-"),this.j=!1!==n.events,this.g=!1!==n.classes}function A(t){t.g&&l(t.f,[t.a.c("wf","loading")]),C(t,"loading")}function O(t){if(t.g){var n=u(t.f,t.a.c("wf","active")),i=[],e=[t.a.c("wf","loading")];n||i.push(t.a.c("wf","inactive")),l(t.f,i,e)}C(t,"inactive")}function C(t,n,i){t.j&&t.h[n]&&(i?t.h[n](i.c,j(i)):t.h[n]())}function N(){this.c={}}function F(t,n,i){var e,o=[];for(e in n)if(n.hasOwnProperty(e)){var a=t.c[e];a&&o.push(a(n[e],i))}return o}function P(t,n){this.c=t,this.f=n,this.a=c(this.c,"span",{"aria-hidden":"true"},this.f)}function I(t){f(t.c,"body",t.a)}function W(t){return"display:block;position:absolute;top:-9999px;left:-9999px;font-size:300px;width:auto;height:auto;line-height:normal;margin:0;padding:0;font-variant:normal;white-space:nowrap;font-family:"+T(t.c)+";font-style:"+k(t)+";font-weight:"+t.f+"00;"}function B(t,n,i,e,o,a){this.g=t,this.j=n,this.a=e,this.c=i,this.f=o||3e3,this.h=a||void 0}function M(t,n,i,e,o,a,s){this.v=t,this.B=n,this.c=i,this.a=e,this.s=s||"BESbswy",this.f={},this.w=o||3e3,this.u=a||null,this.m=this.j=this.h=this.g=null,this.g=new P(this.c,this.s),this.h=new P(this.c,this.s),this.j=new P(this.c,this.s),this.m=new P(this.c,this.s),t=W(t=new _(this.a.c+",serif",j(this.a))),this.g.a.style.cssText=t,t=W(t=new _(this.a.c+",sans-serif",j(this.a))),this.h.a.style.cssText=t,t=W(t=new _("serif",j(this.a))),this.j.a.style.cssText=t,t=W(t=new _("sans-serif",j(this.a))),this.m.a.style.cssText=t,I(this.g),I(this.h),I(this.j),I(this.m)}function R(){if(null===rt){var t=/AppleWebKit\/([0-9]+)(?:\.([0-9]+))/.exec(window.navigator.userAgent);rt=!!t&&(536>parseInt(t[1],10)||536===parseInt(t[1],10)&&11>=parseInt(t[2],10))}return rt}function H(t,n,i){for(var e in st)if(st.hasOwnProperty(e)&&n===t.f[st[e]]&&i===t.f[st[e]])return!0;return!1}function L(t){var n,i=t.g.a.offsetWidth,e=t.h.a.offsetWidth;(n=i===t.f.serif&&e===t.f["sans-serif"])||(n=R()&&H(t,i,e)),n?ot()-t.A>=t.w?R()&&H(t,i,e)&&(null===t.u||t.u.hasOwnProperty(t.a.c))?$(t,t.v):$(t,t.B):D(t):$(t,t.v)}function D(t){setTimeout(s(function(){L(this)},t),50)}function $(t,n){setTimeout(s(function(){h(this.g.a),h(this.h.a),h(this.j.a),h(this.m.a),n(this.a)},t),0)}function q(t,n,i){this.c=t,this.a=n,this.f=0,this.m=this.j=!1,this.s=i}function z(t){0==--t.f&&t.j&&(t.m?((t=t.a).g&&l(t.f,[t.a.c("wf","active")],[t.a.c("wf","loading"),t.a.c("wf","inactive")]),C(t,"active")):O(t.a))}function G(t){this.j=t,this.a=new N,this.h=0,this.f=this.g=!0}function K(t,n,i,e,o){var a=0==--t.h;(t.f||t.g)&&setTimeout(function(){var t=o||null,r=e||null||{};if(0===i.length&&a)O(n.a);else{n.f+=i.length,a&&(n.j=a);var c,f=[];for(c=0;c<i.length;c++){var h=i[c],u=r[h.c],p=n.a,g=h;if(p.g&&l(p.f,[p.a.c("wf",g.c,j(g).toString(),"loading")]),C(p,"fontloading",g),p=null,null===ct)if(window.FontFace){var g=/Gecko.*Firefox\/(\d+)/.exec(window.navigator.userAgent),d=/OS X.*Version\/10\..*Safari/.exec(window.navigator.userAgent)&&/Apple/.exec(window.navigator.vendor);ct=g?42<parseInt(g[1],10):!d}else ct=!1;p=ct?new B(s(n.g,n),s(n.h,n),n.c,h,n.s,u):new M(s(n.g,n),s(n.h,n),n.c,h,n.s,t,u),f.push(p)}for(c=0;c<f.length;c++)f[c].start()}},0)}function U(t,n,i){var e=[],o=i.timeout;A(n);var e=F(t.a,i,t.c),a=new q(t.c,n,o);for(t.h=e.length,n=0,i=e.length;n<i;n++)e[n].load(function(n,i,e){K(t,a,n,i,e)})}function V(t,n){this.c=t,this.a=n}function X(t,n){this.c=t,this.a=n}function J(t,n){this.c=t||ft,this.a=[],this.f=[],this.g=n||""}function Q(t,n){for(var i=n.length,e=0;e<i;e++){var o=n[e].split(":");3==o.length&&t.f.push(o.pop());var a="";2==o.length&&""!=o[1]&&(a=":"),t.a.push(o.join(a))}}function Y(t){if(0==t.a.length)throw Error("No fonts to load!");if(-1!=t.c.indexOf("kit="))return t.c;for(var n=t.a.length,i=[],e=0;e<n;e++)i.push(t.a[e].replace(/ /g,"+"));return n=t.c+"?family="+i.join("%7C"),0<t.f.length&&(n+="&subset="+t.f.join(",")),0<t.g.length&&(n+="&text="+encodeURIComponent(t.g)),n}function Z(t){this.f=t,this.a=[],this.c={}}function tt(t){for(var n=t.f.length,i=0;i<n;i++){var e=t.f[i].split(":"),o=e[0].replace(/\+/g," "),a=["n4"];if(2<=e.length){var s;if(s=[],r=e[1])for(var r=r.split(","),c=r.length,f=0;f<c;f++){var h;if((h=r[f]).match(/^[\w-]+$/))if(null==(u=pt.exec(h.toLowerCase())))h="";else{if(h=u[2],h=null==h||""==h?"n":ut[h],null==(u=u[1])||""==u)u="4";else var l=lt[u],u=l||(isNaN(u)?"4":u.substr(0,1));h=[h,u].join("")}else h="";h&&s.push(h)}0<s.length&&(a=s),3==e.length&&(e=e[2],s=[],0<(e=e?e.split(","):s).length&&(e=ht[e[0]])&&(t.c[o]=e))}for(t.c[o]||(e=ht[o])&&(t.c[o]=e),e=0;e<a.length;e+=1)t.a.push(new _(o,a[e]))}}function nt(t,n){this.c=t,this.a=n}function it(t,n){this.c=t,this.a=n}function et(t,n){this.c=t,this.f=n,this.a=[]}var ot=Date.now||function(){return+new Date},at=!!window.FontFace;b.prototype.c=function(t){for(var n=[],i=0;i<arguments.length;i++)n.push(arguments[i].replace(/[\W_]+/g,"").toLowerCase());return n.join(this.a)},B.prototype.start=function(){var t=this.c.o.document,n=this,i=ot(),e=new Promise(function(e,o){function a(){ot()-i>=n.f?o():t.fonts.load(x(n.a),n.h).then(function(t){1<=t.length?e():setTimeout(a,25)},function(){o()})}a()}),o=null,a=new Promise(function(t,i){o=setTimeout(i,n.f)});Promise.race([a,e]).then(function(){o&&(clearTimeout(o),o=null),n.g(n.a)},function(){n.j(n.a)})};var st={D:"serif",C:"sans-serif"},rt=null;M.prototype.start=function(){this.f.serif=this.j.a.offsetWidth,this.f["sans-serif"]=this.m.a.offsetWidth,this.A=ot(),L(this)};var ct=null;q.prototype.g=function(t){var n=this.a;n.g&&l(n.f,[n.a.c("wf",t.c,j(t).toString(),"active")],[n.a.c("wf",t.c,j(t).toString(),"loading"),n.a.c("wf",t.c,j(t).toString(),"inactive")]),C(n,"fontactive",t),this.m=!0,z(this)},q.prototype.h=function(t){var n=this.a;if(n.g){var i=u(n.f,n.a.c("wf",t.c,j(t).toString(),"active")),e=[],o=[n.a.c("wf",t.c,j(t).toString(),"loading")];i||e.push(n.a.c("wf",t.c,j(t).toString(),"inactive")),l(n.f,e,o)}C(n,"fontinactive",t),z(this)},G.prototype.load=function(t){this.c=new r(this.j,t.context||this.j),this.g=!1!==t.events,this.f=!1!==t.classes,U(this,new E(this.c,t),t)},V.prototype.load=function(t){function n(){if(a["__mti_fntLst"+e]){var i,o=a["__mti_fntLst"+e](),s=[];if(o)for(var r=0;r<o.length;r++){var c=o[r].fontfamily;void 0!=o[r].fontStyle&&void 0!=o[r].fontWeight?(i=o[r].fontStyle+o[r].fontWeight,s.push(new _(c,i))):s.push(new _(c))}t(s)}else setTimeout(function(){n()},50)}var i=this,e=i.a.projectId,o=i.a.version;if(e){var a=i.c.o;d(this.c,(i.a.api||"https://fast.fonts.net/jsapi")+"/"+e+".js"+(o?"?v="+o:""),function(o){o?t([]):(a["__MonotypeConfiguration__"+e]=function(){return i.a},n())}).id="__MonotypeAPIScript__"+e}else t([])},X.prototype.load=function(t){var n,i,e=this.a.urls||[],o=this.a.families||[],a=this.a.testStrings||{},s=new v;for(n=0,i=e.length;n<i;n++)g(this.c,e[n],w(s));var r=[];for(n=0,i=o.length;n<i;n++)if((e=o[n].split(":"))[1])for(var c=e[1].split(","),f=0;f<c.length;f+=1)r.push(new _(e[0],c[f]));else r.push(new _(e[0]));m(s,function(){t(r,a)})};var ft="https://fonts.googleapis.com/css",ht={latin:"BESbswy","latin-ext":"çöüğş",cyrillic:"йяЖ",greek:"αβΣ",khmer:"កខគ",Hanuman:"កខគ"},lt={thin:"1",extralight:"2","extra-light":"2",ultralight:"2","ultra-light":"2",light:"3",regular:"4",book:"4",medium:"5","semi-bold":"6",semibold:"6","demi-bold":"6",demibold:"6",bold:"7","extra-bold":"8",extrabold:"8","ultra-bold":"8",ultrabold:"8",black:"9",heavy:"9",l:"3",r:"4",b:"7"},ut={i:"i",italic:"i",n:"n",normal:"n"},pt=/^(thin|(?:(?:extra|ultra)-?)?light|regular|book|medium|(?:(?:semi|demi|extra|ultra)-?)?bold|black|heavy|l|r|b|[1-9]00)?(n|i|normal|italic)?$/,gt={Arimo:!0,Cousine:!0,Tinos:!0};nt.prototype.load=function(t){var n=new v,i=this.c,e=new J(this.a.api,this.a.text),o=this.a.families;Q(e,o);var a=new Z(o);tt(a),g(i,Y(e),w(n)),m(n,function(){t(a.a,a.c,gt)})},it.prototype.load=function(t){var n=this.a.id,i=this.c.o;n?d(this.c,(this.a.api||"https://use.typekit.net")+"/"+n+".js",function(n){if(n)t([]);else if(i.Typekit&&i.Typekit.config&&i.Typekit.config.fn){n=i.Typekit.config.fn;for(var e=[],o=0;o<n.length;o+=2)for(var a=n[o],s=n[o+1],r=0;r<s.length;r++)e.push(new _(a,s[r]));try{i.Typekit.load({events:!1,classes:!1,async:!0})}catch(t){}t(e)}},2e3):t([])},et.prototype.load=function(t){var n=this.f.id,i=this.c.o,e=this;n?(i.__webfontfontdeckmodule__||(i.__webfontfontdeckmodule__={}),i.__webfontfontdeckmodule__[n]=function(n,i){for(var o=0,a=i.fonts.length;o<a;++o){var s=i.fonts[o];e.a.push(new _(s.name,S("font-weight:"+s.weight+";font-style:"+s.style)))}t(e.a)},d(this.c,(this.f.api||"https://f.fontdeck.com/s/css/js/")+p(this.c)+"/"+n+".js",function(n){n&&t([])})):t([])};var dt=new G(window);dt.a.c.custom=function(t,n){return new X(n,t)},dt.a.c.fontdeck=function(t,n){return new et(n,t)},dt.a.c.monotype=function(t,n){return new V(n,t)},dt.a.c.typekit=function(t,n){return new it(n,t)},dt.a.c.google=function(t,n){return new nt(n,t)};var vt={load:s(dt.load,dt)};void 0!==(e=function(){return vt}.call(n,i,n,t))&&(t.exports=e)}()}});
+//# sourceMappingURL=webfonts.8214e079ca2a6ac9fa32.js.map</script><link rel="stylesheet" href="https://cdn.oncarrot.com/artifacts/app/themes/carrot-01/dist/styles/main-01.f591a08b205e0ae21969c67b8559fc98.css">
+<link rel='https://api.w.org/' href='https://chicagoinvestorbuyer.oncarrot.com/wp-json/' />
+<link rel="alternate" type="application/json+oembed" href="https://chicagoinvestorbuyer.oncarrot.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchicagoinvestorbuyer.oncarrot.com%2Fgo%2Finvestment-properties%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://chicagoinvestorbuyer.oncarrot.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchicagoinvestorbuyer.oncarrot.com%2Fgo%2Finvestment-properties%2F&#038;format=xml" />
+      <style id="cBodyFont">
+      body {
+        font-family: Source Sans Pro, sans-serif;
+      }
+    </style>
+      <style id="cHeadingFont">
+      .brand b,h1,h2,h3,h4,h5,h6 {
+        font-family: Source Sans Pro;
+      }
+  </style>
+    <style>
+    .text-primary {
+      color: #0098b7 !important;
+    }
+
+    a.text-primary:hover, a.text-primary:focus {
+      color: #006e84 !important;
+    }
+    .banner .brand.brand-primary  {
+      color: #0098b7;
+    }
+
+    .bg-primary {
+      color: #ffffff;
+      background-color: #0098b7 !important;
+    }
+
+    a.bg-primary {
+      color: #ffffff;
+    }
+
+    a.bg-primary:focus, a.bg-primary:hover, a.bg-primary:active, button.bg-primary:focus, button.bg-primary:hover {
+      color: #ffffff;
+      background-color: #0098b7 !important;
+    }
+
+    .widget_carrot_cta a button {
+      color: #0098b7 !important;
+      background-color: #fff;
+    }
+
+    .widget_carrot_cta a button:focus, .widget_carrot_cta a button:hover, .widget_carrot_cta a button:active {
+      color: #0098b7;
+      background-color: #e4e4e4    }
+
+    .form-control:focus,
+    .c-select:focus,
+    select:focus:not([multiple]),
+    input[type="email"]:focus,
+    input[type="number"]:focus,
+    input[type="password"]:focus,
+    input[type="search"]:focus,
+    input[type="tel"]:focus,
+    input[type="text"]:focus,
+    input[type="url"]:focus,
+    select:focus,
+    textarea:focus,
+    .picker__input.picker__input--active {
+      border-color: #0098b7;
+    }
+    a {
+      color: #1085ce;
+    }
+    a:hover,
+    a:focus,
+    a:active {
+      color: #0c669f;
+    }
+    .list-social svg {
+      fill: #1085ce;
+    }
+    .btn-primary,
+    .gform_button,
+    input[type="submit"],
+    .banner .nav-top .button a {
+      background-color: #fc9426;
+      border-color: #fc9426;
+    }
+    .btn-primary:hover,
+    .btn-primary:focus,
+    .btn-primary:active,
+    .btn-primary:active:focus,
+    .gform_button:hover,
+    .gform_button:focus,
+    .gform_button:active,
+    .gform_button:active:focus,
+    input[type="submit"]:hover,
+    input[type="submit"]:focus,
+    input[type="submit"]:active,
+    input[type="submit"]:active:focus,
+    .banner .nav-top .button a:hover,
+    .banner .nav-top .button a:focus,
+    .banner .nav-top .button a:active,
+    .banner .nav-top .button a:active:focus {
+      background-color: #ec7b03;
+      border-color: #ec7b03;
+    }
+      </style>
+
+    <style>
+    
+    .nav-primary .dropdown-menu {
+      background: #006e84;
+      color: #fff;
+    }
+
+    @media (min-width: 768px) {
+      .nav-primary .nav-item.hover-active > .nav-link,
+      .nav-primary .nav-item:hover > .nav-link,
+      .nav-primary .dropdown-menu {
+        background: #006e84;
+        color: #fff;
+      }
+
+      .nav-primary .nav-item.active {
+        color: #fff;
+        background: #006e84;
+      }
+    }
+        .nav-primary .navbar-collapse {
+      background: #0098b7;
+    }
+        /*
+    .nav-primary .navbar-toggler {
+      background: #fc9426 !important;
+      color: white !important;
+    }
+    */
+  </style>
+  
+    </head>
+  <body class="lead-template-default single single-lead postid-313 investment-properties no-hero no-credbar sidebar-primary sitetype-buyer  lead-footer-simple lead-formpos-side">
+    <!--[if lt IE 9]>
+      <div class="alert alert-warning">
+        You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.      </div>
+    <![endif]-->
+
+    
+    <div class="wrap">
+            <div class="content-wrap" role="document">
+        <div class="content">
+          <main class="main" role="main">
+            <div class="main-inner">
+                
+  <article class="post-313 lead type-lead status-publish hentry">
+                      <div class="entry-content">
+          <h1 style="text-align: center"><span style="color: #c02a2d">Chicago Investment Properties At 30-50% Below Market Value (Handyman / Vacant / Great Rentals Available)</span></h1>
+<p><b><span style="text-decoration: underline">Serious Buyers Only Please:</span> If you&#8217;re a cash buyer and are looking to pick up rental properties in Chicago or properties to rehab in Chicago, we&#8217;d like to work with you. Please <span style="text-decoration: underline">ENTER YOUR INFO in the form to the right</span> and we&#8217;ll send you the handyman and discount properties we currently have available. (Our list is updated 2-3 times a week, as we secure new properties and as we sell ones already on the list). </b><img class="hidden-phone alignright wp-image-502" style="background-color: transparent;color: #333333;float: right;font-family: Source Sans Pro,sans-serif;font-size: 16px;font-style: normal;font-variant: normal;font-weight: 400;height: 194.66px;letter-spacing: normal;max-width: 1177.58px;text-align: left;text-decoration: none;text-indent: 0px;margin: 8px 0px 8px 16px" src="https://cdn.oncarrot.com/uploads/curved_arrow_right.png" alt="fill in the form to see handyman properties" width="146" height="194" /></p>
+<p>Over the years we’ve refined our processes, marketing, and relationships that let us find the best real estate deals before they ever hit the MLS market. Our business is strictly wholesaling those properties to investors who want to keep them for rentals or who want to fix and flip them.</p>
+<p>If you are…</p>
+<ul>
+<li>An investor looking to <strong>add cash flowing properties</strong> to your rental portfolio</li>
+<li>A rehabber looking for <strong>great deals with wide margins</strong> to fix and turn around for a profit</li>
+<li>A person looking for a <strong>great home at a great price</strong> to live in yourself</li>
+<li>… or just someone looking for great deals on local real estate</li>
+</ul>
+<p>…<strong><span style="text-decoration: underline"> get on our Buyers List with the form on the right</span></strong> and we’ll send you properties each month with discounts of at least 30% below market value.</p>
+<p><strong>NOTE</strong>: Properties are first come first served so be sure if you find a property that you’re interested in, respond back via email or phone (info once you join to the right) to make sure you get a shot at the property.</p>
+<p><strong>Join to the right,</strong> connect with us and let us know what you’re looking for, and we look forward to working with you on sending you insanely discounted properties in Chicago.</p>
+        </div>
+              <div class="entry-share">
+<ul class="entry-share-btns">
+
+              <li class="entry-share-btn entry-share-btn-google-plus">
+                <a href="https://plus.google.com/share?url=https%3A%2F%2Fchicagoinvestorbuyer.oncarrot.com%2Fgo%2Finvestment-properties%2F" title="Share on Google+">
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" width="16" height="16"><path d="M386.061 228.496c1.834 9.692 3.143 19.384 3.143 31.956C389.204 370.205 315.599 448 204.8 448c-106.084 0-192-85.915-192-192s85.916-192 192-192c51.864 0 95.083 18.859 128.611 50.292l-52.126 50.03c-14.145-13.621-39.028-29.599-76.485-29.599-65.484 0-118.92 54.221-118.92 121.277 0 67.056 53.436 121.277 118.92 121.277 75.961 0 104.513-54.745 108.965-82.773H204.8v-66.009h181.261zm185.406 6.437V179.2h-56.001v55.733h-55.733v56.001h55.733v55.733h56.001v-55.733H627.2v-56.001h-55.733z" fill="#fff"/></svg>
+                  <b>+1</b>
+                </a>
+              </li>
+          
+
+              <li class="entry-share-btn entry-share-btn-facebook">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fchicagoinvestorbuyer.oncarrot.com%2Fgo%2Finvestment-properties%2F" title="Share on Facebook">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 64 64"><path d="M42 12c-5.523 0-10 4.477-10 10v6h-8v8h8v28h8V36h9l2-8H40v-6c0-1.105.895-2 2-2h10v-8H42z" fill="#fff"></svg>
+                  <b>Share</b>
+                </a>
+              </li>
+          
+
+              <li class="entry-share-btn entry-share-btn-twitter">
+                <a href="https://twitter.com/intent/tweet?text=Investment+Properties+Buyer+List+-+Midwest+Capital&url=https%3A%2F%2Fchicagoinvestorbuyer.oncarrot.com%2Fgo%2Finvestment-properties%2F" title="Share on Twitter">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 64 64"><path d="M64 12.15c-2.355 1.045-4.885 1.75-7.54 2.068 2.71-1.625 4.792-4.198 5.772-7.264-2.537 1.505-5.347 2.597-8.338 3.186-2.395-2.552-5.808-4.146-9.584-4.146-7.25 0-13.13 5.88-13.13 13.13 0 1.03.116 2.03.34 2.992-10.912-.548-20.588-5.775-27.064-13.72-1.13 1.94-1.778 4.196-1.778 6.602 0 4.556 2.318 8.575 5.84 10.93-2.15-.07-4.176-.66-5.946-1.643v.165c0 6.362 4.525 11.668 10.532 12.875-1.102.3-2.262.46-3.46.46-.845 0-1.668-.082-2.47-.235 1.672 5.216 6.52 9.013 12.267 9.118-4.493 3.522-10.154 5.62-16.306 5.62-1.06 0-2.105-.06-3.132-.183 5.81 3.726 12.713 5.9 20.128 5.9 24.15 0 37.358-20.008 37.358-37.36 0-.568-.013-1.135-.038-1.698 2.566-1.85 4.792-4.164 6.552-6.797z" fill="#fff"></svg>
+                  <b>Tweet</b>
+                </a>
+              </li>
+          
+</ul>
+</div>
+  </article>
+            </div>
+          </main><!-- /.main -->
+                      <aside class="sidebar" role="complementary">
+                              <div class="sidebar-inner">
+                  
+                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_3' ><a id='gf_3' class='gform_anchor' ></a><form method='post' enctype='multipart/form-data'  id='gform_3'  action='/go/investment-properties/#gf_3'>
+                        <div class='gform_heading'>
+                            <h3 class='gform_title'>Enter Your Information Below To Get Immediate Access</h3>
+                            <span class='gform_description'>... to our HANDYMAN specials. *These are not on the MLS - Many are below $100k.  Available properties on the next page. </span>
+                        </div>
+                        <div class='gform_body'><ul id='gform_fields_3' class='gform_fields top_label form_sublabel_below description_below'><li id='field_3_8' class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label gfield_label_before_complex' for='input_3_8' >First Name</label><div class='ginput_container ginput_container_name'>
+                                    <input name='input_8' id='input_3_8' type='text' value='' class='large'    aria-invalid="false" />
+                                </div></li><li id='field_3_5' class='gfield gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_3_5' >What Kind Of Buyer Are You?<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_select'><select name='input_5' id='input_3_5'  class='medium gfield_select'   aria-required="true" aria-invalid="false"><option value='Investor' >Investor</option><option value='Looking for a place to live in' >Looking for a place to live in</option></select></div></li><li id='field_3_7' class='gfield left field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_3_7' >Phone</label><div class='ginput_container ginput_container_phone'><input name='input_7' id='input_3_7' type='text' value='' class='large'     aria-invalid="false" /></div></li><li id='field_3_6' class='gfield right gfield_contains_required field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_3_6' >Email<span class='gfield_required'>*</span></label><div class='ginput_container ginput_container_email'>
+                            <input name='input_6' id='input_3_6' type='text' value='' class='large'    />
+                        </div></li><li id='field_3_9' class='gfield gform_validation_container field_sublabel_below field_description_below gfield_visibility_' ><label class='gfield_label' for='input_3_9' >Name</label><div class='ginput_container'><input name='input_9' id='input_3_9' type='text' value='' /></div><div class='gfield_description'>This field is for validation purposes and should be left unchanged.</div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_3' class='gform_button button' value='Show Me The Deals!! '  onclick='if(window["gf_submitting_3"]){return false;}  window["gf_submitting_3"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_3"]){return false;} window["gf_submitting_3"]=true;  jQuery("#gform_3").trigger("submit",[true]); }' /> 
+            <input type='hidden' class='gform_hidden' name='is_submit_3' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='3' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_3' value='WyJbXSIsIjU2MTVjN2VlOTYzMzE4OGM5YWIwOGM4MzBiODdkYmM5Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_3' id='gform_target_page_number_3' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_3' id='gform_source_page_number_3' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div><p class="privacy-disclaimer"><small>We respect your privacy. See our <a href="/privacy/" target="_blank">privacy policy</a>.</small></p>                </div>
+                          </aside><!-- /.sidebar -->
+                  </div><!-- /.content -->
+      </div><!-- /.content-wrap -->
+    </div><!-- /.wrap -->
+    
+<footer class="content-info" role="contentinfo">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+              </div>
+      <div class="col-sm-6">
+              </div>
+    </div>
+  </div>
+  <section class="content-info-bottom">
+    <div class="container">
+      <nav class="nav-footer">
+        <div class="menu-footer-navigation-container"><ul id="menu-footer-navigation" class="nav"><li id="menu-item-589" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-589"><a href="/go/investment-properties/">Investment Property List</a></li>
+<li id="menu-item-583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-583"><a href="https://chicagoinvestorbuyer.oncarrot.com/faq/">FAQ</a></li>
+<li id="menu-item-586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-586"><a href="https://chicagoinvestorbuyer.oncarrot.com/our-company/">Our Company</a></li>
+<li id="menu-item-582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-582"><a href="https://chicagoinvestorbuyer.oncarrot.com/privacy/">Privacy Policy</a></li>
+<li id="menu-item-587" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-587"><a href="https://chicagoinvestorbuyer.oncarrot.com/blog/">Blog</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-585"><a href="https://chicagoinvestorbuyer.oncarrot.com/contact-us/">Contact Us</a></li>
+</ul></div>      </nav>
+      <div class="footer-logo-wrap">
+              </div>
+            <div class="disclaimer">
+        <p>All properties are sold for cash or hard money.  Buyers responsibility to do your own due diligence and verify all information.  Prices are NET to seller with buyer paying all closing costs.  Opinions of value / rents are given as a courtesy and no guarantees are expressed or implied.  Our properties move fast so contact us quickly if there is a property you want to purchase. </p>
+      </div>
+
+            <p class="copy">
+        &copy; 2019 Midwest Capital         - Powered by <a href="https://oncarrot.com/?utm_source=member&utm_medium=footer&utm_content=chicagoinvestorbuyer&utm_campaign=carrot-01&utm_term=buyer" target="_blank">InvestorCarrot</a>      </p>
+    </div>
+  </section>
+</footer>
+
+<script src="https://cdn.oncarrot.com/artifacts/app/themes/carrot/dist/scripts/main.fca8e71de1fc855f276d.js"></script>
+<script type='text/javascript'> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 3) {if(!/(android)/i.test(navigator.userAgent)){jQuery('#input_3_7').mask('(999) 999-9999').bind('keypress', function(e){if(e.which == 13){jQuery(this).blur();} } );}} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [3, 1]) } ); </script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"045370bc37","applicationID":"9651406","transactionName":"YlUGMURWV0sEB0xeWFsfMRdfGFBWAQFAGUddQA==","queueTime":2,"applicationTime":234,"atts":"ThIFRwxMREU=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

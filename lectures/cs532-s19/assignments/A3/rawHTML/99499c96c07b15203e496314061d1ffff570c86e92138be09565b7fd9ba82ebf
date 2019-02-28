@@ -1,0 +1,2253 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="300">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Gold Spot Prices | Silver Prices | Platinum & Palladium| KITCO</title>
+<meta name="keywords" content="New York gold spot price, gold price, spot price gold, silver fix, historical London fix prices, spot price" />
+<meta name="description" content="Live Spot Prices for Gold, Silver, Platinum, Palladium and Rhodium in ounces, grams, kilos and tolas in all major currencies." />
+<meta http-equiv="pragma" content="no-cache" />
+<link rel="canonical" href="https://www.kitco.com/market/" />
+
+
+<link rel="stylesheet" href="/css/components/slideshow.css">
+<link rel="stylesheet" type="text/css" href="/css/layout.css" />
+<link href="/css/kgx_entended.css" rel="stylesheet" type="text/css" />
+<link href="/css/market-styles.css" rel="stylesheet" type="text/css" />
+<link href="/css/jquery.datepick.css" rel="stylesheet" type="text/css" />
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script src="//jquery-ui.googlecode.com/svn/tags/latest/ui/jquery.effects.core.js"></script>
+<script src="//jquery-ui.googlecode.com/svn/tags/latest/ui/jquery.effects.slide.js"></script>
+<script src="/jscripts/jquery_hoverIntent_min.js"></script>
+<script src="/jscripts/iframeResize.js"></script>
+<script src="/jscripts/ajax_call.js"></script>
+<script src="/jscripts/kds_functions.js"></script>
+<script src="/jscripts/kitco_fix_kgx.js"></script>
+<script src="/jscripts/cookies.js"></script>
+<script src="/jscripts/jquery.plugin.min.js"></script>
+<script src="/jscripts/jquery.datepick.min.js"></script>
+<script src="/jscripts/jquery.dateformat.min.js"></script>
+<style>
+	#edit-favorite-link {
+		padding-right: 0;
+		line-height: 27px;
+		float: left;
+		margin-left: -5px;
+	}
+	.social-icons-block {
+		margin-right: 5px;
+	}
+</style>
+
+<!-- Hotjar Tracking Code for www.kitco.com -->
+<script>
+(function(h,o,t,j,a,r){
+h.hj=h.hj||function()
+{(h.hj.q=h.hj.q||[]).push(arguments)};
+h._hjSettings={hjid:773490,hjsv:6};
+a=o.getElementsByTagName('head')[0];
+r=o.createElement('script');r.async=1;
+r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!--[if lte IE 9]>
+	<script src="/jscripts/placeholders.min.js"></script>
+<![endif]-->
+</head>
+<body id="cat-market" class="homepage fixed-width">
+<!-- BEGIN HEADER -->
+
+<header>
+	<div class="header-wrapper">
+		<!-- logo -->
+		<div class="logo">
+			<a href="/">
+				<img src="/images/logo_kitco.gif" alt="Kitco Metals Inc." />
+			</a>
+		</div>
+		<!-- end logo -->
+		<!-- ad -->
+		<div class="ad">
+			<table border='0' cellspacing='0'><tr><td><script src="https://ads.investingchannel.com/adtags/Kitco/commodities_quotes/728x90.js?zhpos=728_1" type="text/javascript"></script></td></tr></table>
+
+		</div>
+		<!-- end ad -->
+	</div>
+</header>
+<!-- end header area -->
+<link rel="stylesheet" href="/css/lib/font-awesome/css/font-awesome.min.css">
+<!--[if IE 8]>
+   <style type="text/css">
+	   #overlay {
+		   background:transparent;
+		   filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#50000000,endColorstr=#50000000);
+		   zoom: 1;
+		}
+    </style>
+<![endif]-->
+
+
+<!-- TOP + SUB NAVIGATION -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PRH98Z"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PRH98Z');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+ <script>
+	$("#header" ).show(); //show header (initially hidden for premium
+	$("#refresh_link").prop("href",window.location.href);
+</script>
+<style>
+	#top-nav-container {z-index: 200001;}
+	#login_search_container {*width:570px;}
+	#login_search_container ul li#top_nav_li_premium{
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+		text-align: center;
+		border: 0;
+		margin-top: 8px;
+		background: #003871;
+		width: 87px;
+		height: 22px;
+		line-height: 22px;
+		font-weight: bold;
+		font-size: 12px;
+	}
+	#login_search_container ul li#top_nav_li_premium a {color: #fff !important;}
+	#login_menu {padding-bottom:10px;}
+	#login_menu a {display:block;}
+	#login_submenu {
+		-webkit-box-shadow: 0px 3px 10px 0px rgba(50, 50, 50, 0.25);
+    -moz-box-shadow: 0px 3px 10px 0px rgba(50, 50, 50, 0.25);
+    box-shadow: 0px 3px 10px 0px rgba(50, 50, 50, 0.25);
+		min-width: 200px;display:none;position: absolute;
+		background:transparent;
+		width: auto;
+		z-index: 300000;
+		text-align: left;
+		border: 1px solid #9e9e9e;
+		padding: 0;
+		background:#fff;
+		}
+	#login_submenu a {padding: 0 10px; font-size: 13px; color: #000 !important;display:block;}
+	#login_submenu a:hover {color: #fff !important; background: #a67603 !important;}
+	#login_submenu:before {
+		content: url("/images/premium/arrow_submenu.jpg");
+		position: absolute;
+		top:-22px;
+		left: 20%;
+		width: 0;
+		height: 0;
+		z-index:-1;
+	}
+	#favorite #login_submenu:before {
+		top:-10px;
+	}
+	#login_menu.active #login_submenu {display: block; position: absolute;}
+	#login_search_container ul#login_submenu li{white-space: nowrap; float: none;}
+	#microbar { height: 31px; width: 88px; display: inline-block;  margin-right: 10px; }
+	#microbar table { margin-top: -9px; }
+	@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+		#microbar { line-height: 0; padding-bottom: 2px; }
+	}
+	@supports (-ms-accelerator:true) {
+		#microbar { line-height: 0; padding-bottom: 2px; }
+	}
+	@media screen and (-webkit-min-device-pixel-ratio:0) {
+		#microbar { line-height: 0; padding-bottom: 2px; }
+	}
+	@media screen and (-webkit-min-device-pixel-ratio:0) and (min-resolution:.001dpcm) {
+		#microbar { line-height: 3; padding-bottom: 0; margin-bottom: -4px; }
+	}
+</style>
+<!-- TOP NAVIGATION -->
+<div id="top-nav-container">
+	<div id="top-right-btns">
+		<div id="bookmark_container" class="silver-gradient-buttons" onClick="setHomepage('http://www.kitco.com/');"><span class="img_make_homepage"></span>Make Kitco Your Homepage</div>
+		</div>
+	<div style="height: auto;">
+
+		<div id="login_search_container">
+			<ul>
+				<li id="top_nav_li_premium"><a href="https://premium.kitco.com/">Premium</a></li>
+				<li><span class="vertical-separator"></span></li>
+				<li id="login_menu"><a href="https://online.kitco.com/signin.html" onclick="return false;"><span id="my_kitco_acct_img"></span>Login</a>
+					<ul id="login_submenu">
+						<li><a href="https://premium.kitco.com/">Premium Services Account</a></li>
+						<li><a href="https://online.kitco.com/signin.html" target="_blank">Online Store Account</a></li>
+					</ul>
+				</li>
+				<li><span class="vertical-separator"></span></li>
+				<li><a href="/services/"><span class="top-nav-icon" id="sign_up_img"></span></span><span class="top-nav-text">Sign Up</span></a></li>
+				<li class="homepageonly"><span class="vertical-separator"></span></li>
+				<li class="homepageonly"><a href="/" id="refresh_link"><span class="top-nav-icon" id="refresh_link_img"></span><span class="top-nav-text" id="refresh_link_txt">Refresh Page</span></a></li>
+				<li class="disabled"><span class="vertical-separator"></span></li>
+			</ul>
+			<div id="searchbox_container">
+				<form class="search_form small" id="searchbox_005714109126126132361:dr5pstxsc8o" action="/search/">
+				  <input class="search_box" name="q" size="70" type="text" placeholder="Search Kitco.com" required />
+					<input value="&gt;" type="submit" class="search_button" />
+				</form>
+				<a href="/search/index.html" title="Search Page" class="mobile-search-icon"></a>
+			</div>
+			<div id="microbar">
+				<table border='0' cellspacing='0'><tr><td><script src='https://ads.investingchannel.com/adtags/Kitco/searchbx/88x31.js?kval=searchbx' type='text/javascript' charset='utf-8'></script></td></tr></table>
+
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+	$("#login_menu").hover(function(){$(this).addClass('active');}, function(){$(this).removeClass('active');});
+</script>
+
+<!-- SUB NAVIGATION -->
+<div id="sub-nav-container">
+	<div id="sub-nav-center">
+		<div id="mainmenu">
+			<ul id="nav">
+				<li id="home-tab"><a href='/'>Home</a></li>
+				<li id="online-store-tab" class='has-sub'>
+					<a title="Buy/Sell Gold and Silver Bullion Coins and Bars" href="https://online.kitco.com/?utm_source=kitco.com&utm_medium=referral&utm_content=Menu-Coins-Online-Store-Button&utm_campaign=2017-03-23_kitcoweb" target="_blank" style="margin-top: -55px;" >
+						<a class="coin-online-store" target="_blank" href="http://www.kitco.com/scripts/count/count_db.pl?id=3670212" >
+<img src="https://online.kitco.com/images/spots/190x55-Aces-Set-Bar-2019Feb.gif" width="190" height="55" alt="Buy/Sell Gold and Silver Bullion Coins and Bars" >
+</a>  
+
+					</a>
+					<a style="margin-left: 10px;" id="online-store-tab-a" href="https://online.kitco.com/?utm_source=kitco.com&utm_medium=referral&utm_content=Menu-Coins-Online-Store-Button&utm_campaign=2017-07-11_kitcoweb" target="_blank" alt="Buy/Sell Gold and Silver Bullion Coins and Bars"
+									title="Buy/Sell Gold and Silver Bullion Coins and Bars"><span>Buy/Sell Gold &amp; Silver</span><br /> Bullion Coins and Bars
+						</a>
+						<div class="menu-items">
+							<h4 class="tab-home-link"><span class="menu-icon home"></span><a href="https://online.kitco.com/?utm_source=kitco.com&utm_medium=referral&utm_content=Menu-Coins-Online-Store-Button&utm_campaign=2017-07-11_kitcoweb" target="_blank" alt="Online Store" title="Online Store">Online Store</a></h4>
+							<div class="menu-items-col">
+								<div class="menu-items-row">
+									<div class="menu-items-list">
+										<h2 class="h4"><span class="menu-icon buy"></span><a target="_blank" href="https://online.kitco.com/buy/gold-silver.html?utm_source=kitco.com&utm_medium=referral&utm_content=Submenu-Cart-Buy-Gold-Silver&utm_campaign=2017-02-16_kitcoweb" alt="Buy Gold Silver">Buy Gold & Silver</a></h2>
+										<ul>
+											<li>
+												<a class="bold" target="_blank" href="https://online.kitco.com/deals?utm_source=kitco.com&utm_medium=referral&utm_content=Submenu-buy-Great-Deals&utm_campaign=2017-03-23_kitcoweb" alt="Great Deals"><span>Great Deals</span></a>
+											</li>
+											<li>
+												<a class="bold" target="_blank" href="https://online.kitco.com/gift-ideas?utm_source=kitco.com&utm_medium=referral&utm_content=Submenu-Gift-Ideas&utm_campaign=2017-03-23_kitcoweb"
+																alt="Gift Ideas"><span>Gift Ideas</span></a>
+											</li>
+											<li>
+												<a class="bold" target="_blank" href="https://online.kitco.com/cool-and-collectible?utm_source=kitco.com&utm_medium=referral&utm_content=Submenu-buy-Cool-and-collecteible&utm_campaign=2017-03-23_kitcoweb"
+																alt="Buy Cool and Collectible"><span>Cool and Collectible</span></a>
+											</li>
+											<li>
+												<a class="bold" target="_blank" href="https://online.kitco.com/gold?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-gold&utm_campaign=2017-03-23_kitcoweb" alt="Buy Gold"><span>Gold</span></a>
+											</li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/gold-coins?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-gold-coins&utm_campaign=2017-03-23_kitcoweb" alt="Buy Gold Coins"><span>Gold Coins</span></a>
+											</li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/gold-bars?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-gold-bars&utm_campaign=2017-03-23_kitcoweb" alt="Buy Gold Bars"><span>Gold Bars</span></a>
+											</li>
+											<li>
+												<a class="bold" target="_blank" href="https://online.kitco.com/silver?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-silver&utm_campaign=2017-03-23_kitcoweb" alt="Buy Silver"><span>Silver</span></a>
+											</li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/silver-coins?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-silver-coins&utm_campaign=2017-03-23_kitcoweb" alt="Buy Silver Coins"><span>Silver Coins</span></a>
+											</li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/silver-rounds?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-silver-rounds&utm_campaign=2017-03-23_kitcoweb" alt="Buy Silver Rounds"><span>Silver Rounds</span></a>
+											</li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/silver-bars?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-silver-bars&utm_campaign=2017-03-23_kitcoweb" alt="Buy Silver Bars"><span>Silver Bars</span></a>
+											</li>
+											<li>
+												<a class="bold" target="_blank" href="https://online.kitco.com/platinum?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-platinum&utm_campaign=2017-03-23_kitcoweb" alt="Buy Platinum"><span>Platinum</span></a>
+											</li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/platinum-coins?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-platinum-coins&utm_campaign=2017-03-23_kitcoweb" alt="Buy Platinum Coins"><span>Platinum Coins</span></a>
+											</li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/platinum-bars?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-platinum-bars&utm_campaign=2017-03-23_kitcoweb" alt="Buy Platinum Bars"><span>Platinum Bars</span></a>
+											</li>
+											<li>
+												<a class="bold" target="_blank" href="https://online.kitco.com/palladium?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-palladium&utm_campaign=2017-03-23_kitcoweb" alt="Buy Palladium"><span>Palladium</span></a>
+											</li>
+											<li>
+												<a class="bold" target="_blank" href="https://online.kitco.com/rhodium?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-rhodium&utm_campaign=2017-03-23_kitcoweb" alt="Buy Rhodium"><span>Rhodium</span></a>
+											</li>
+											<li>
+												<a class="bold" target="_blank" href="https://online.kitco.com/bullion-mints?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-bullion-mints&utm_campaign=2017-03-23_kitcoweb" alt="Buy Bullion Mints"><span>Bullion Mints</span></a>
+											</li>
+											<li>
+												<a class="bold" target="_blank" href="https://online.kitco.com/kitco-pool?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-buy-kitco-pool&utm_campaign=2017-03-23_kitcoweb" alt="Buy Kitco Pool"><span>Kitco Pool</span></a>
+											</li>
+										</ul>
+										<h4><span class="menu-icon promo-email"></span><a href="https://connect.kitco.com/subscription/subscribe.html" target="_blank">Promotional Emails<br />Sign Up</a></h4>
+									</div>
+									<div class="menu-items-list wider">
+										<h2 class="h4"><span class="menu-icon sell"></span><a target="_blank" href="https://online.kitco.com/sell/gold-silver.html?utm_source=kitco.com&utm_medium=referral&utm_content=Submenu-Cart-Sell-Gold-Silver&utm_campaign=2017-02-16_kitcoweb" alt="Sell Gold Silver">Sell Gold & Silver</a></h2>
+										<ul>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/sell/gold-silver.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-sell-coins-and-bars&utm_campaign=2017-02-16_kitcoweb" alt="Sell Coins and Bars"><span>Coins and Bars</span></a>
+											</li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/sell/gold-silver.html#rhodium?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-sell-rhodium-products&utm_campaign=2017-02-16_kitcoweb" alt="Sell Rhodium Products"><span>Rhodium Products</span></a>
+											</li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/buy/gold-silver.html#spool?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-sell-kitco-pool&utm_campaign=2017-02-16_kitcoweb" alt="Kitco Pool"><span>Kitco Pool</span></a>
+											</li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/refining/gold-silver.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-sell-refining-and-scrap&utm_campaign=2017-02-16_kitcoweb" alt="Refining and Scrap"><span>Refining and Scrap</span></a>
+											</li>
+										</ul>
+										<h4><span class="menu-icon storage"></span>Storage Programs</h4>
+										<ul>
+											<li><a target="_blank" href="https://online.kitco.com/storage/kitco-allocated-storage-program.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-kitco-allocated-storage-program&utm_campaign=2017-09-15_kitcoweb" target="_blank"><span>Kitco Allocated<br />Storage Program</span></a></li>
+											<li><a target="_blank" href="https://online.kitco.com/IRA_RSP/?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-ira-rsp&utm_campaign=2017-09-15_kitcoweb" target="_blank"><span>IRA/RSP</span></a></li>
+											<li><a target="_blank" href="https://rcmpa.kitco.com/KitcoRCMPA/Home?requestName=HomeAction&CommandName=GETRCMPOOLPRICE" target="_blank"><span>Royal Canadian Mint<br />Prestige Account</span></a></li>
+										</ul>
+										<h4 style="margin-bottom: 15px;"><span class="menu-icon vaultchain"></span>VaultChain&trade;</h4>
+                    <ul>
+											<li><a style="color:#003871; font-weight: bold;" target="_blank" href="https://online.kitco.com/kitco-vault-chain-gold" target="_blank"><span>GOLD</span></a></li>
+											<li><a style="color:#003871; font-weight: bold;" target="_blank" href="https://online.kitco.com/kitco-vault-chain-silver" target="_blank"><span>SILVER</span></a></li>
+										</ul>
+										<h4><span class="menu-icon refining-services"></span><a target="_blank" href="https://online.kitco.com/refining/refining-services.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-refining-services&utm_campaign=2017-09-15_kitcoweb" target="_blank">Refining Services</a></h4>
+										<ul class="no-btm-space">
+											<li><a href="/jewelry/"><span>Jeweler Resources</span></a></li>
+											<li><a href="/jewelry/meltingpoints.html"><span>Reference Tables</span></a></li>
+											<li><a target="_blank" href="https://online.kitco.com/refining/gold-silver.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-refining-and-scrap&utm_campaign=2017-09-15_kitcoweb"><span>Refining and Scrap</span></a></li>
+										</ul>
+									</div>
+									<div class="menu-items-list wider">
+										<h4><span class="menu-icon customer-service"></span>Customer Service</h4>
+										<ul>
+											<li><a target="_blank" href="http://corp.kitco.com/en/contact.html" target="_blank"><span>Contact Us</span></a></li>
+											<li><a target="_blank" href="https://online.kitco.com/help/faq_shipping_and_insurance.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-shipping-and-insurance&utm_campaign=2017-09-15_kitcoweb" target="_blank"><span>Shipping and Insurance</span></a></li>
+											<li><a target="_blank" href="https://online.kitco.com/help/faq_payments_and_cancellations.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-payments-and-cancellations&utm_campaign=2017-09-15_kitcoweb" target="_blank"><span>Payments and<br />Cancellations</span></a></li>
+											<li><a target="_blank" href="http://corp.kitco.com/en/contact.html#business_hour" target="_blank"><span>Business Hours</span></a></li>
+											<li>
+												<a target="_blank" href="https://online.kitco.com/help/retail_store_location.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-retail-store-location&utm_campaign=2017-09-15_kitcoweb" onclick="MM_openBrWindow(this.href,'RetailStoreLocation','location=yes,status=yes,scrollbars=yes,resizable=yes,width=600,height=600'); return false;"
+																class="special-new-win-link">Retail Store Location</a>
+											</li>
+											<li><a target="_blank" href="https://online.kitco.com/scripts/feedback/feedback.pl"><span>Feedback</span></a></li>
+											<li><a target="_blank" href="https://online.kitco.com/help/faqs.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-faqs&utm_campaign=2017-09-15_kitcoweb"><span>FAQs</span></a></li>
+										</ul>
+										<h4 style="margin-top: 20px;"><span class="menu-icon kitco-acct"></span><a target="_blank" href="https://online.kitco.com/signin.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-my-kitco-account&utm_campaign=2017-09-15_kitcoweb">My Kitco Account</a></h4>
+										<ul class="no-btm-space">
+											<li><a target="_blank" href="https://online.kitco.com/create-account.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-create-account&utm_campaign=2017-09-15_kitcoweb"><span>Open an Account</span></a></li>
+											<li><a target="_blank" href="https://online.kitco.com/scripts/accounts/register_step1.pl"><span>Activate Online Profile</span></a></li>
+											<li><a target="_blank" href="https://online.kitco.com/signin.html?utm_source=kitco.com&utm_medium=referral&utm_content=submenu-check-transaction-status&utm_campaign=2017-09-15_kitcoweb"><span>Check Transaction Status</span></a></li>
+											<li><a target="_blank" href="https://online.kitco.com/scripts/accounts/forgotpwd_step1.pl"><span>Reset Password</span></a></li>
+										</ul>
+										<h4 style="font-weight: normal; color: #000; font-size: 13px; margin-top: 30px;">
+											<span class="menu-icon mene"></span><a class="mene-logo" href="https://mene.com/rings/gold?promo=Kitco&utm_source=Kitco&utm_medium=Nav%20Link&utm_campaign=201806-09%20Kitco%20Nav%20Link&utm_content=Kitco%20Nav%20Link%20-%20SignupPromo100" target="_blank"><img src="/images/menu/mene-logo.png" width="91" height="22" alt="MENE"></a>
+											<a target="_blank" href="https://mene.com/rings/gold?promo=Kitco&utm_source=Kitco&utm_medium=Nav%20Link&utm_campaign=201806-09%20Kitco%20Nav%20Link&utm_content=Kitco%20Nav%20Link%20-%20SignupPromo100" target="_blank">24k Investment Jewelry</a>
+										</h4>
+									</div>
+								</div>
+
+							</div>
+							<div class="menu-items-col last">
+								<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=5602540" target="_blank" > <img alt="Mene 24K Investment Jewelry" src="https://www.kitco.com/images/spots/300x250.mene.Nov.21.jpg"  /> </a></td></tr></table>
+
+							</div>
+						</div>
+				</li>
+				<li class='has-sub' id="menu-market"><a href='/market/'><span>All Metal Quotes</span></a>
+					<div class="menu-items">
+						<h4 class="tab-home-link"><span class="menu-icon home"></span><a href='/market/'>All Metal Quotes</a></h4>
+						<div class="menu-items-col">
+							<div class="menu-items-row">
+								<div class="menu-items-list" style="width:290px;">
+									<h4><span class="menu-icon london-fix"></span><a href="/gold.londonfix.html">London Fix Prices</a></h4>
+									<h4><span class="menu-icon latest-news"></span><a href="/shanghai-gold-fix/">Shanghai Gold Fix</a></h4>
+									<h4><span class="menu-icon price-today"></span><a href="/gold-price-today-usa/">Precious Metals Prices Today</a></h4>
+									<ul class="no-btm-space" style="margin-top: -20px;">
+										<li><a href="/gold-price-today-usa/">Gold Price Today</a></li>
+										<li><a href="/silver-price-today-usa/">Silver Price Today</a></li>
+									</ul>
+									<h4><span class="menu-icon pm-quotes-currency"></span><a href="/market/us_charts.html">Precious Metals Quotes by Currency</a></h4>
+									<h4><span class="menu-icon metals-futures"></span><a href="/finance/metals/">Metals Futures</a></h4>
+									<h4><span class="menu-icon kitco-silver"></span><a target="_blank" href="http://www.kitcosilver.com/">Kitco Silver</a></h4>
+									<h4><span class="menu-icon base-metals"></span><a target="_blank" href="http://www.kitcometals.com/">Base Metals</a></h4>
+									<h4><span class="menu-icon strategic-metals"></span><a href="/strategic-metals/">Strategic Metals</a></h4>
+									<!--<h4><span class="menu-icon lease-rates"></span><a href="/market/LFrate.html">Lease Rates</a></h4>-->
+									<h4><span class="menu-icon text-quotes"></span><a target="_blank" href="/texten/texten.html">Text Quotes</a></h4>
+									<h4 class="no-btm-space"><span class="menu-icon free-assets"></span><a target="_blank" href="/price/">Free Web Quote Banners</a></h4>
+								</div>
+							</div>
+						</div>
+						<div class="menu-items-col last">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=5947246" target="_blank" > <img alt="Kitco Market Place" src="https://www.kitco.com/images/spots/Marketplace_300x250.gif"  /> </a></td></tr></table>
+
+						</div>
+					</div>
+				</li>
+				<li class='has-sub' id="menu-charts"><a href='/charts/'><span>Charts &amp; Data</span></a>
+					<div class="menu-items">
+						<h4 class="tab-home-link"><span class="menu-icon home"></span><a href='/charts/'>Charts &amp; Data</a></h4>
+						<div class="menu-items-col">
+							<div class="menu-items-row">
+								<div class="menu-items-list wider">
+									<h4><span class="menu-icon live-charts"></span><a href="/charts/">Live Charts</a></h4>
+									<ul>
+										<li><a href="/charts/livegold.html"><span>Gold</span></a></li>
+										<li><a href="/charts/livesilver.html"><span>Silver</span></a></li>
+										<li><a href="/charts/liveplatinum.html"><span>Platinum</span></a></li>
+										<li><a href="/charts/livepalladium.html"><span>Palladium</span></a></li>
+										<li><a href="/charts/rhodium.html"><span>Rhodium</span></a></li>
+										<li></li>
+									</ul>
+									<h4><span class="menu-icon technical-charts"></span><a href="/charts/techcharts_gold.html">Technical Charts</a></h4>
+									<ul>
+										<li><a href="/charts/techcharts_gold.html"><span>Gold</span></a></li>
+										<li><a href="/charts/techcharts_silver.html"><span>Silver</span></a></li>
+										<li><a href="/charts/techcharts_platinum.html"><span>Platinum</span></a></li>
+										<li><a href="/charts/techcharts_palladium.html"><span>Palladium</span></a></li>
+									</ul>
+									<h4><span class="menu-icon free-assets"></span><a target="_blank" href="http://www.kitconet.com/" target="_blank">Free Charts on your<br />Web Site</a></h4>
+								</div>
+								<div class="menu-items-list wide">
+									<h4><span class="menu-icon historical-charts"></span><a href="/charts/">Historical Charts &amp; Data</a></h4>
+									<ul>
+										<li><a href="/charts/historicalgold.html"><span>Gold</span></a></li>
+										<li><a href="/charts/historicalsilver.html"><span>Silver</span></a></li>
+										<li><a href="/charts/historicalplatinum.html"><span>Platinum</span></a></li>
+										<li><a href="/charts/historicalpalladium.html"><span>Palladium</span></a></li>
+										<li><a href="/charts/historicalrhodium.html"><span>Rhodium</span></a></li>
+										<li><a href="/gold.londonfix.html"><span>London Fix Prices</span></a></li>
+									</ul>
+									<h4><span class="menu-icon market-fund"></span><a href="/charts/CPM_charts.html">Market Fundamentals</a></h4>
+									<ul>
+										<li><a href="/charts/CPM_charts.html"><span>Gold</span></a></li>
+										<li><a href="/charts/CPM_silver.html"><span>Silver</span></a></li>
+									</ul>
+									<h4 style="margin-top: 64px;"><span class="menu-icon free-assets"></span><a target="_blank" href="/price/">Free Web Quote Banners</a></h4>
+								</div>
+								<div class="menu-items-list widest no-btm-space" style="padding-bottom: 5px;">
+									<h4><span class="menu-icon interactive-charts"></span><a target="_blank" href="http://charts.kitco.com/KitcoCharts/?utm_source=kitco&utm_medium=banner&utm_content=20110407_iCharts_chdata&utm_campaign=iCharts">Interactive Charts</a></h4>
+									<ul class="fleft">
+										<li class="no-top-space">
+											<h4 class="h6">Precious Metals</h4></li>
+										<li><a target="_blank" href="/gold-price-today-usa/" target="_blank"><span>Gold</span></a></li>
+										<li><a target="_blank" href="/silver-price-today-usa/" target="_blank"><span>Silver</span></a></li>
+										<li><a target="_blank" href="http://charts.kitco.com/KitcoCharts/index.jsp?Symbol=PLATINUM&Currency=USD&multiCurrency=true&langId=EN&period=86400000" target="_blank"><span>Platinum</span></a></li>
+										<li><a target="_blank" href="http://charts.kitco.com/KitcoCharts/index.jsp?Symbol=PALLADIUM&Currency=USD&multiCurrency=true&langId=EN&period=86400000" target="_blank"><span>Palladium</span></a></li>
+										<li><a target="_blank" href="http://charts.kitco.com/KitcoCharts/index.jsp?Symbol=RHODIUM&Currency=USD&multiCurrency=true&langId=EN&period=86400000" target="_blank"><span>Rhodium</span></a></li>
+									</ul>
+									<ul class="fleft" style="margin-left:17px;">
+										<li class="no-top-space">
+											<h4 class="h6">Base Metals</h4></li>
+										<li><a target="_blank" href="http://charts.kitco.com/KitcoCharts/index.jsp?Symbol=ALUMINUM&Currency=USD&multiCurrency=false&langId=EN&period=7862400000" target="_blank"><span>Aluminum</span></a></li>
+										<li><a target="_blank" href="http://charts.kitco.com/KitcoCharts/index.jsp?Symbol=COPPER&Currency=USD&multiCurrency=false&langId=EN&period=7862400000" target="_blank"><span>Copper</span></a></li>
+										<li><a target="_blank" href="http://charts.kitco.com/KitcoCharts/index.jsp?Symbol=NICKEL&Currency=USD&multiCurrency=false&langId=EN&period=7862400000" target="_blank"><span>Nickel</span></a></li>
+										<li><a target="_blank" href="http://charts.kitco.com/KitcoCharts/index.jsp?Symbol=LEAD&Currency=USD&multiCurrency=false&langId=EN&period=7862400000" target="_blank"><span>Lead</span></a></li>
+										<li><a target="_blank" href="http://charts.kitco.com/KitcoCharts/index.jsp?Symbol=ZINC&Currency=USD&multiCurrency=false&langId=EN&period=7862400000" target="_blank"><span>Zinc</span></a></li>
+									</ul>
+									<h4 class="h6 exchange-rates">Currency Exchange Rates</h4>
+									<ul class="fleft">
+										<li><a target="_blank" href="/forex/usd-to-aud" target="_blank"><span>AUD</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-brl" target="_blank"><span>BRL</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-cad" target="_blank"><span>CAD</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-chf" target="_blank"><span>CHF</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-cny" target="_blank"><span>CNY</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-eur" target="_blank"><span>EUR</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-gbp" target="_blank"><span>GBP</span></a></li>
+									</ul>
+									<ul class="fleft" style="margin-left: 90px;">
+										<li><a target="_blank" href="/forex/usd-to-hkd" target="_blank"><span>HKD</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-inr" target="_blank"><span>INR</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-jpy" target="_blank"><span>JPY</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-mxn" target="_blank"><span>MXN</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-rub" target="_blank"><span>RUB</span></a></li>
+										<li><a target="_blank" href="/forex/usd-to-zar" target="_blank"><span>ZAR</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="menu-items-col last">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=1235740" target="_blank" > <img alt="Birthstones" src="https://www.kitco.com/images/spots/300x250_birthstone_Apr18.jpg"  /> </a></td></tr></table>
+
+						</div>
+					</div>
+				</li>
+				<li class='has-sub' id="menu-finance"><a href='/finance/'><span>Markets</span></a>
+					<div class="menu-items">
+						<h4 class="tab-home-link"><span class="menu-icon home"></span><a href='/finance/'>Markets</a></h4>
+						<div class="menu-items-col">
+							<div class="menu-items-row">
+								<div class="menu-items-list">
+									<h4><span class="menu-icon market-overview"></span><a href="/finance/">Markets Overview</a></h4>
+									<ul>
+										<li><a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=%24DOWI&j1_region=US&j1_selected=chart&_hostparams=&js=1"><span>Dow</span></a></li>
+										<li><a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=%24NASX&j1_region=US&j1_selected=chart&_hostparams=&js=1"><span>Nasdaq</span></a></li>
+										<li><a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=%24SPX&j1_region=US&j1_selected=chart&_hostparams=&js=1"><span>S&amp;P 500</span></a></li>
+										<li><a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=%24NYA&j1_region=US&j1_selected=chart&_hostparams=&js=1"><span>NYSE</span></a></li>
+										<li><a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=%24GVZ&j1_region=US&j1_selected=chart&_hostparams=&js=1"><span>Gold VIX</span></a></li>
+										<li><a href="/finance/stocks/"><span>Most Active Stocks</span></a></li>
+									</ul>
+								</div>
+								<div class="menu-items-list narrow">
+									<h4><span class="menu-icon mining"></span><a href="/finance/mining/">Mining</a></h4>
+									<ul>
+										<li><a href="/finance/mining/?j1_module=sectorDetail&popup=1&j1_region=US&j1_symbol=-MIGL"><span>Gold</span></a></li>
+										<li><a href="/finance/mining/?j1_module=sectorDetail&popup=1&j1_region=US&j1_symbol=-MISI"><span>Silver</span></a></li>
+										<li><a href="/finance/mining/?j1_module=sectorDetail&popup=1&j1_region=US&j1_symbol=-MIIR"><span>Iron</span></a></li>
+										<li><a href="/finance/mining/?j1_module=sectorDetail&popup=1&j1_region=US&j1_symbol=-MEPF"><span>Base Metals</span></a></li>
+										<li><a href="/finance/mining/?j1_module=sectorDetail&popup=1&j1_region=US&j1_symbol=-MINF"><span>Non-Ferrous</span></a></li>
+									</ul>
+								</div>
+								<div class="menu-items-list">
+									<h4><span class="menu-icon futures"></span><a href="/finance/futures/#news_section">Futures</a></h4>
+									<ul>
+										<li><a href="/finance/futures/?j1_module=futureMarketOverview&popup=1&j1_section=metals#news_section"><span>Metals</span></a></li>
+										<li><a href="/finance/futures/?j1_module=futureMarketOverview&popup=1&j1_section=energies#news_section"><span>Energies</span></a></li>
+										<li><a href="/finance/futures/?j1_module=futureMarketOverview&popup=1&j1_section=grains#news_section"><span>Grains</span></a></li>
+										<li><a href="/finance/futures/?j1_module=futureMarketOverview&popup=1&j1_section=indices#news_section"><span>Indices</span></a></li>
+										<li><a href="/finance/futures/?j1_module=futureMarketOverview&popup=1&j1_section=softs#news_section"><span>Softs</span></a></li>
+										<li><a href="/finance/futures/?j1_module=futureMarketOverview&popup=1&j1_section=meats#news_section"><span>Meats</span></a></li>
+										<li><a href="/finance/futures/?j1_module=futureMarketOverview&popup=1&j1_section=financials#news_section"><span>Rates</span></a></li>
+										<li><a href="/finance/futures/?j1_module=futureMarketOverview&popup=1&j1_section=currencies#news_section"><span>Currencies</span></a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="menu-items-row">
+								<div class="menu-items-list">
+									<h4><span class="menu-icon forex"></span><a href="/finance/forex/">Forex Major Rates</a></h4>
+									<ul style="display: none;">
+										<li><a href="/finance/forex/"><span>Currency Converter</span></a></li>
+										<li><a href="/finance/forex/#news_section"><span>Currency Cross Rates</span></a></li>
+									</ul>
+								</div>
+								<div class="menu-items-list narrow">
+								<h4 style="margin-top: -75px;"><span class="menu-icon bitcoin"></span>Cryptocurrencies</h4>
+								<ul>
+									<li><a href="/bitcoin-price-charts-usd/"><span>Bitcoin</span></a></li>
+									<li><a href="/ethereum-price-charts-usd/"><span>Ethereum</span></a></li>
+									<li><a href="/litecoin-price-charts-usd/"><span>Litecoin</span></a></li>
+									<li><a href="/monero-price-charts-usd/"><span>Monero</span></a></li>
+									<li><a href="/ripple-price-charts-usd/"><span>Ripple</span></a></li>
+									<li><a href="/dash-price-charts-usd/"><span>Dash</span></a></li>
+									<li><a href="/zcash-price-charts-usd/"><span>Zcash</span></a></li>
+									<li><a href="/peercoin-price-charts-usd/"><span>Peercoin</span></a></li>
+									<li><a href="/namecoin-price-charts-usd/"><span>Namecoin</span></a></li>
+								</ul>
+								</div>
+								<div class="menu-items-list">
+									<h4><span class="menu-icon stocks-gain-lose"></span><a href="/finance/stocks/">Stocks Gainers<br />&amp; Losers</a></h4>
+								</div>
+							</div>
+							<div class="menu-items-row">
+								<div class="menu-items-list">
+									<h4><span class="menu-icon kgx"></span><a href="/kitco-gold-index.html">Kitco Gold Index</a></h4>
+								</div>
+								<div class="menu-items-list narrow">
+									<h4><span class="menu-icon metals"></span><a href="/finance/metals/">Metals</a></h4>
+								</div>
+								<div class="menu-items-list">
+									<h4><span class="menu-icon search"></span><a href="/finance/advanced-search.html">Search Stocks</a></h4>
+								</div>
+							</div>
+						</div>
+						<div class="menu-items-col last">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=1354353" target="_blank" > <img alt="Aces + Joker" src="https://www.kitco.com/images/spots/300x250-5-Aces-Joker-2018NOv.jpg"  /> </a></td></tr></table>
+
+						</div>
+					</div>
+				</li>
+				<li class='has-sub' id="menu-news"><a href='/news/'><span>News</span></a>
+					<div class="menu-items">
+						<h4 class="tab-home-link"><span class="menu-icon home"></span><a href='/news/'>News</a></h4>
+						<div class="menu-items-col">
+							<div class="menu-items-row">
+								<div class="menu-items-list">
+									<h4><span class="menu-icon latest-news"></span><a href="/news/kitco-latest-news/">Kitco Latest News</a></h4>
+									<ul>
+										<li><a href="/news/ampm/"><span>AM-PM Roundup</span></a></li>
+										<li><a href="/news/market-nuggets/"><span>Market Nuggets</span></a></li>
+										<li><a href="/news/mining-minutes/"><span>Mining Minutes</span></a></li>
+										<li><a href="/news/news-bites/"><span>News Bites</span></a></li>
+
+									</ul>
+									<h4 style="margin-top: 46px;"><span class="menu-icon more-news"></span><a href="/market/marketnews.html">More News</a></h4>
+
+
+								</div>
+								<div class="menu-items-list wider">
+									<h4><span class="menu-icon exclusive-features"></span><a href="/news/exclusive-features/">Exclusive Features</a></h4>
+									<ul>
+										<li><a href="/news/gold-survey/"><span>Gold Survey</span></a></li>
+										<li><a href="/news/gold-outlook/"><span>Gold Outlook</span></a></li>
+										<li><a href="/news/interviews/"><span>Interviews</span></a></li>
+										<li><a href="/news/focus/"><span>Focus</span></a></li>
+									</ul>
+									<h4 style="margin-top: 50px;"><span class="menu-icon off-the-wire"></span><a href="/news/off-the-wire/">Off The Wire</a></h4>
+									<h4 style="margin-top: 30px; display: none;"><span class="menu-icon bank-company-report"></span><a href="/reports/">Bank and<br />Company Reports</a></h4>
+								</div>
+								<div class="menu-items-list wider">
+									<h4><span class="menu-icon shows"></span><a target="_blank" href="/news/video/">Shows</a></h4>
+									<ul>
+										<li><a target="_blank" href="http://www.kitco.com/news/video/show/For-Petes-Sake"><span>For Pete's Sake</span></a></li>
+										<li><a target="_blank" href="http://www.kitco.com/news/video/show/Technically-Speaking"><span>Tech Speaking</span></a></li>
+										<li><a target="_blank" href="http://www.kitco.com/news/video/show/Gold-Game-Film"><span>Gold Game Film</span></a></li>
+										<li><a target="_blank" href="http://www.kitco.com/news/video/show/Chart-This"><span>Chart This</span></a></li>
+										<li><a target="_blank" href="http://www.kitco.com/news/video/show/Kitco-News"><span>Kitco News</span></a></li>
+										<li><a target="_blank" href="http://www.kitco.com/outlook"><span>Outlook 2019</span></a></li>
+									</ul>
+									<h4 style="margin-top: -15px;"><span class="menu-icon newsletter"></span><a target="_blank" href="https://connect.kitco.com/subscription/newsletter.html" target="_blank">Weekly Newsletter<br />Sign Up</a></h4>
+								</div>
+							</div>
+							<div class="menu-items-row">
+								<div class="menu-items-list no-btm-space">
+									<h4><span class="menu-icon rss"></span><a target="_blank"  href="http://news.kitco.com/rss/">RSS</a></h4>
+								</div>
+								<div class="menu-items-list wider">
+									<h4><span class="menu-icon about-kitco"></span><a href="/news/about/">About Kitco News</a></h4>
+								</div>
+								<div class="menu-items-list wider">
+									<h4><span class="menu-icon search"></span><a href="/scripts/news/search.pl">Search News</a></h4>
+								</div>
+							</div>
+						</div>
+						<div class="menu-items-col last">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=3063466" target="_blank" > <img alt="Kitco Market Place" src="https://www.kitco.com/images/spots/Marketplace_300x250.gif"  />
+</a></td></tr></table>
+
+						</div>
+					</div>
+				</li>
+				<li class='has-sub' id="menu-commentaries"><a href='/commentaries/'><span>Commentaries</span></a>
+					<div class="menu-items">
+						<h4 class="tab-home-link"><span class="menu-icon home"></span><a href='/commentaries/'>Commentaries</a></h4>
+						<div class="menu-items-col">
+							<div class="menu-items-row">
+								<div class="menu-items-list widest" style="height: 263px;">
+									<h4><span class="menu-icon analysis"></span><a href="/commentaries/analysis/">Analysis</a></h4>
+									<ul>
+										<li><a href="/commentaries/Analytical-Charts/"><span>Analytical Charts - Jim Wyckoff</span></a></li>
+										<li><a href="/commentaries/where-are-the-stops/"><span>Where Are the Stops - Jim Wyckoff</span></a></li>
+										<li><a href="/commentaries/forex-charts/"><span>Forex Charts - Jim Wyckoff</span></a></li>
+										<li><a href="/commentaries/gary-wagner/"><span>Hawaii Six O - Gary Wagner</span></a></li>
+									</ul>
+									<h4 class="btm-margin-20"><span class="menu-icon peter-hug"></span><a href="/commentaries/opinion-with-peter-hug/">Opinion with Peter Hug</a></h4>
+									<h4 class="btm-margin-20"><span class="menu-icon commentators-corner"></span><a href="/commentaries/commentators-corner/">Commentator's Corner</a></h4>
+									<h4 class="btm-margin-20"><span class="menu-icon commentaries"></span><a href="/commentaries/contributed-commentaries/">Contributed Commentaries</a></h4>
+									<h4><span class="menu-icon shows"></span><a href="https://insider.kitco.com/" target="_blank">Kitco Metals Insider</a></h4>
+								</div>
+							</div>
+						</div>
+						<div class="menu-items-col last">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=5602540" target="_blank" > <img alt="Mene 24K Investment Jewelry" src="https://www.kitco.com/images/spots/300x250.mene.Nov.21.jpg"  /> </a></td></tr></table>
+
+						</div>
+					</div>
+				</li>
+				<li class='has-sub' id="menu-mining"><a href='/mining/'><span>Mining</span></a>
+					<div class="menu-items">
+						<h4 class="tab-home-link"><span class="menu-icon home"></span><a href='/mining/'>Mining</a></h4>
+						<div class="menu-items-col">
+							<div class="menu-items-row">
+								<div class="menu-items-list littlemorewide">
+									<h4><span class="menu-icon latest-news"></span><a href="/mining/latest-mining-news/">Latest Mining News</a></h4>
+									<ul>
+										<li><a href="/news/top-mining-picks/"><span>Top Mining Picks</span></a></li>
+										<li><a href="/news/mining-minutes/"><span>Mining Minutes</span></a></li>
+										<li><a href="/news/mining-news/"><span>Mining News</span></a></li>
+									</ul>
+								</div>
+								<div class="menu-items-list muchmorewide">
+									<h4 style="margin-bottom: 32px;"><span class="menu-icon latest-pr"></span><a href="/pressrelease/">Latest Press Releases</a></h4>
+									<h4><span class="menu-icon appointment-notices"></span><a href="/mining/#appointment-notices">Appointment Notices</a></h4>
+								</div>
+							</div>
+							<div class="menu-items-row">
+								<div class="menu-items-list littlemorewide">
+									<h4 class="btm-margin-30"><span class="menu-icon exclusive-features"></span><a target="_blank" href="http://www.kitco.com/news/video/show/The-Rough">Mining Videos</a></h4>
+								</div>
+								<div class="menu-items-list muchmorewide">
+									<h4 class="btm-margin-30"><span class="menu-icon gibson"></span><a target="_blank" href="http://www.kitcogibson.com/KGCapital/Home?requestName=HomePage">Kitco Gibson Capital</a></h4>
+								</div>
+							</div>
+							<div class="menu-items-row">
+								<div class="menu-items-list littlemorewide">
+									<h4><span class="menu-icon mining"></span><a href="/finance/mining/">Mining by Sector</a></h4>
+									<ul>
+										<li><a href="/finance/mining/?j1_module=sectorDetail&popup=1&j1_region=US&j1_symbol=-MIGL"><span>Gold Sector</span></a></li>
+										<li><a href="/finance/mining/?j1_module=sectorDetail&popup=1&j1_region=US&j1_symbol=-MISI"><span>Silver Sector</span></a></li>
+										<li><a href="/finance/mining/?j1_module=sectorDetail&popup=1&j1_region=US&j1_symbol=-MIIR"><span>Iron Sector</span></a></li>
+										<li><a href="/finance/mining/?j1_module=sectorDetail&popup=1&j1_region=US&j1_symbol=-MEPF"><span>Base-Metals Sector</span></a></li>
+										<li><a href="/finance/mining/?j1_module=sectorDetail&popup=1&j1_region=US&j1_symbol=-MINF"><span>Non-Ferrous Sector</span></a></li>
+									</ul>
+								</div>
+								<div class="menu-items-list muchmorewide">
+									<h4><span class="menu-icon stocks-gain-lose"></span><a href="/stocks/companyname_asc.html">Mining Stock Indices</a></h4>
+									<ul>
+										<li><a href='/pop_windows/stocks/xau.html' onclick="MM_openBrWindow(this.href,'xau','top=50,left=200,width=875,height=700,scrollbars=1,resizable=1');return false;" class="special-new-win-link"><span>XAU</span></a></li>
+										<li><a href='/pop_windows/stocks/hui.html' onclick="MM_openBrWindow(this.href,'hui','top=50,left=200,width=875,height=700,scrollbars=1,resizable=1');return false;" class="special-new-win-link"><span>NYSE Arca Gold BUGS</span></a></li>
+										<li><a href='/pop_windows/stocks/jse.html' onclick="MM_openBrWindow(this.href,'jse','top=50,left=200,width=875,height=700,scrollbars=1,resizable=1');return false;" class="special-new-win-link"><span>JSE Gold</span></a></li>
+										<li><a href='/pop_windows/stocks/tsx.html' onclick="MM_openBrWindow(this.href,'tsx','top=50,left=200,width=875,height=700,scrollbars=1,resizable=1');return false;" class="special-new-win-link"><span>TSX Gold</span></a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="menu-items-row">
+								<div class="menu-items-list littlemorewide no-btm-space">
+									<h4><span class="menu-icon metals-futures"></span><a href="/finance/metals/">Metals Futures</a></h4>
+								</div>
+								<div class="menu-items-list muchmorewide">
+
+								</div>
+							</div>
+						</div>
+						<div class="menu-items-col last">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=6997069" target="_blank" > <img alt="Mene 24K Investment Jewelry" src="https://www.kitco.com/images/spots/300x250.mene.Nov.21.jpg"  /> </a></td></tr></table>
+
+						</div>
+					</div>
+				</li>
+				<li class='has-sub' id="menu-forum"><a href='https://gold-forum.kitco.com/' target="_blank"><span onClick="NavOutAlert('https://gold-forum.kitco.com/');">Gold Forum</span></a>
+					<div class="menu-items">
+						<h4 class="tab-home-link"><span class="menu-icon home"></span><a onClick="NavOutAlert('https://gold-forum.kitco.com/');" href='https://gold-forum.kitco.com/' target="_blank">Gold Forum</a></h4>
+						<div class="menu-items-col">
+							<div class="menu-items-row">
+								<div class="menu-items-list wider" style="height: 263px;">
+									<h4><span class="menu-icon forum" ></span><a onClick="NavOutAlert('https://gold-forum.kitco.com/');" href="https://gold-forum.kitco.com/" target="_blank">Gold Forum</a></h4>
+									<ul>
+										<li onClick="NavOutAlert('https://gold-forum.kitco.com/');"><a target="_blank" href="https://gold-forum.kitco.com/login.php?do=login"><span>Login</span></a></li>
+										<li onClick="NavOutAlert('https://gold-forum.kitco.com/');"><a target="_blank" href="https://gold-forum.kitco.com/faq.php"><span>FAQ</span></a></li>
+										<li onClick="NavOutAlert('https://gold-forum.kitco.com/');"><a target="_blank" href="https://gold-forum.kitco.com/search.php?do=getdaily&contenttype=vBForum_Post"><span>Today's Posts</span></a></li>
+										<li onClick="NavOutAlert('https://gold-forum.kitco.com/');"><a target="_blank" href="https://gold-forum.kitco.com/forum.php"><span>Membership Rules</span></a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="menu-items-col last">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=1595160" target="_blank" > <img alt="100 oz Silver Bars" src="https://www.kitco.com/images/spots/300x250-100oz-silver-Bars-Promo.jpg"  /> </a></td></tr></table>
+
+						</div>
+					</div>
+				</li>
+				<li class='has-sub' id="menu-apps"><a target="_blank" href='http://applications.kitco.com/supportcenter/'><span>Mobile Apps</span></a>
+					<div class="menu-items">
+						<h4 class="tab-home-link"><span class="menu-icon home"></span><a target="_blank" href='http://applications.kitco.com/supportcenter/'>Mobile Apps</a></h4>
+						<div class="menu-items-col">
+							<div class="menu-items-row">
+								<div class="menu-items-list widest">
+									<h4><span class="menu-icon kcast-apps"></span><a target="_blank" href="http://applications.kitco.com/supportcenter/">Kcast Gold Live</a></h4>
+									<ul>
+										<li>
+											<h2 class="sub-h4">Free live gold price, live silver price, charts, news</h2></li>
+										<li><a target="_blank" href="http://applications.kitco.com/supportcenter/iphone/iphone_support.html "><span>iPhone</span></a></li>
+										<li><a target="_blank" href="http://applications.kitco.com/supportcenter/ipad/ipad-support.html"><span>iPad</span></a></li>
+										<li><a target="_blank" href="http://applications.kitco.com/supportcenter/android/android-app.html"><span>Android</span></a></li>
+										<li><a target="_blank" href="http://applications.kitco.com/supportcenter/android/android-widget.html"><span>Android Widget</span></a></li>
+										<li><a target="_blank" href="http://applications.kitco.com/supportcenter/mobile/windows-phone7.html"><span>Windows Phone 7</span></a></li>
+										<li><a target="_blank" href="http://applications.kitco.com/supportcenter/blackberry/mobile.html"><span>Blackberry</span></a></li>
+										<li><a target="_blank" href="http://applications.kitco.com/supportcenter/blackberry/playbook.html"><span>Blackberry Playbook</span></a></li>
+										<li><a target="_blank" href="http://applications.kitco.com/supportcenter/taskbar/index.html"><span>Windows Taskbar</span></a></li>
+										<li><a target="_blank" href="http://applications.kitco.com/supportcenter/desktop/index.html"><span>Desktop for Mac, PC or Windows</span></a></li>
+									</ul>
+								</div>
+								<div class="menu-items-list wide">
+									<h4><span class="menu-icon market-alerts"></span><a target="_blank" href="http://alerts.kitco.com/KcastAlertsWeb/">Market Alerts</a></h4>
+									<ul>
+										<li>
+											<h4 class="sub-h4">Free tool to help with gold<br />and silver buying and selling decisions</h4></li>
+										<li><a target="_blank" href="http://alerts.kitco.com/KcastAlertsWeb/" target="_blank"><span>My Alerts Account</span></a></li>
+										<li><a target="_blank" href="http://alerts.kitco.com/KcastAlertsWeb/#subscription" target="_blank"><span>Open an Account</span></a></li>
+									</ul>
+									<h4><span class="menu-icon scrapit"></span><a target="_blank" href="http://applications.kitco.com/supportcenter/scrapit/">ScrapIt!</a></h4>
+									<ul>
+										<li>
+											<h4 class="sub-h4">Real-time gold scrap value calculator for professionals</h4></li>
+										<li class="multiple-links">
+											<a target="_blank" href="https://itunes.apple.com/ca/app/scrapit!/id921590083" target="_blank"><span>iPhone</span></a> &#8226;
+											<a target="_blank" href="https://play.google.com/store/apps/details?id=com.kitco.scrap" target="_blank"><span>Android</span></a> &#8226;
+											<a href="/jewelry/"><span>Web</span></a>
+										</li>
+									</ul>
+									<h4><span class="menu-icon metalynx"></span><a target="_blank" href="http://applications.kitco.com/supportcenter/android/metalynx.html">Metalynx</a></h4>
+									<ul class="no-btm-space">
+										<li>
+											<h4 class="sub-h4">Calculate precious metal<br />dimensions, weights and purity</h4></li>
+										<li class="multiple-links">
+											<a target="_blank" href="https://itunes.apple.com/us/app/metalynx/id613591018?mt=8" target="_blank"><span>iPhone</span></a> &#8226;
+											<a target="_blank" href="http://appworld.blackberry.com/webstore/content/25009891/?countrycode=US&countrycode=US&lang=en" target="_blank"><span>Blackberry</span></a> &#8226;
+											<a target="_blank" href="https://play.google.com/store/apps/details?id=com.kitco.metalynx" target="_blank"><span>Android</span></a>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="menu-items-col last">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=1354353" target="_blank" > <img alt="Aces + Joker" src="https://www.kitco.com/images/spots/300x250-5-Aces-Joker-2018NOv.jpg"  /> </a></td></tr></table>
+
+						</div>
+					</div>
+				</li>
+				<li class='has-sub' id="menu-jeweler"><a href="/jewelry/"><span>Jeweler Resources</span></a>
+					<div class="menu-items">
+						<h4 class="tab-home-link"><span class="menu-icon home"></span><a href="/jewelry/">Jeweler Resources</a></h4>
+						<div class="menu-items-col">
+							<div class="menu-items-row">
+								<div class="menu-items-list huge">
+									<h4 class="btm-margin-20"><span class="menu-icon refining-services"></span><a target="_blank" href="https://online.kitco.com/refining/refining-services.html" target="_blank">Refining Services</a></h4>
+									<h4><span class="menu-icon reference-tables"></span>Reference Tables</h4>
+									<ul>
+										<li><a href="/jewelry/meltingpoints.html"><span>Melting Points</span></a></li>
+										<li><a href="/jewelry/dwt-oz-gram.html"><span>DWT/Oz/Gram Conversion</span></a></li>
+										<li><a href="/jewelry/gauge-inch-mm.html"><span>Gauge/Inch/mm Conversion</span></a></li>
+										<li><a href="/jewelry/weightcomparison.html"><span>Weight Comparison</span></a></li>
+									</ul>
+									<h4><span class="menu-icon metalynx"></span><a target="_blank" href="http://applications.kitco.com/supportcenter/android/metalynx.html" target="_blank">Metalynx</a></h4>
+									<ul>
+										<li>
+											<h4 class="sub-h4">Calculate precious metal dimensions, weights and purity</h4></li>
+									</ul>
+									<h4><span class="menu-icon scrapit"></span><a href="/jewelry/">ScrapIt!</a></h4>
+									<ul class="no-btm-space">
+										<li>
+											<h4 class="sub-h4">Real-time gold scrap value calculator for professionals</h4></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						<div class="menu-items-col last">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=6997069" target="_blank" > <img alt="Mene 24K Investment Jewelry" src="https://www.kitco.com/images/spots/300x250.mene.Nov.21.jpg"  /> </a></td></tr></table>
+
+						</div>
+					</div>
+				</li>
+				<li class='has-sub' id="menu-about"><a target="_blank" href="http://corp.kitco.com/en/index.html" class="last"><span>About</span></a>
+					<div class="menu-items">
+						<h4 class="tab-home-link"><span class="menu-icon home"></span><a target="_blank" href="http://corp.kitco.com/en/index.html">About</a></h4>
+						<div class="menu-items-col">
+							<div class="menu-items-row">
+								<div class="menu-items-list" style="height: 263px;">
+									<h4><span class="menu-icon about-kitco"></span><a target="_blank" href="http://corp.kitco.com/" target="_blank">About Kitco</a></h4>
+									<ul>
+										<li><a target="_blank" href="http://corp.kitco.com/index.html"><span>Who We Are</span></a></li>
+										<li><a target="_blank" href="http://corp.kitco.com/en/precious_metals.html" target="_blank"><span>What We Do</span></a></li>
+										<li><a target="_blank" href="http://corp.kitco.com/en/corporate_culture.html"><span>Careers</span></a></li>
+										<li><a target="_blank" href="/news/about/"><span>Media Center</span></a></li>
+										<li><a target="_blank" href="http://corp.kitco.com/en/contact.html" target="_blank"><span>Contact Us</span></a></li>
+										<li><a target="_blank" href="http://corp.kitco.com/en/feedback.html" target="_blank"><span>Feedback</span></a></li>
+									</ul>
+									<h4 class="btm-margin-20"><span class="menu-icon advertise"></span><a target="_blank" href="/advertising/">Advertise With Us</a></h4>
+									<h4 class="btm-margin-20"><span class="menu-icon sitemap"></span><a target="_blank" href="/sitemap/">Sitemap</a></h4>
+								</div>
+							</div>
+						</div>
+						<div class="menu-items-col last">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=1595160" target="_blank" > <img alt="100 oz Silver Bars" src="https://www.kitco.com/images/spots/300x250-100oz-silver-Bars-Promo.jpg"  /> </a></td></tr></table>
+
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="mob-menu-icon-wrap">
+		<div class="mob-menu-icon"></div>
+	</div>
+</div>
+<!-- END SUB NAVIGATION -->
+
+<!-- END TOP + SUB NAVIGATION -->
+
+<div style="position: relative;">
+<!-- FAVORITE BAR  -->
+<style media="screen">
+	#breadcrumb { margin-left: -20px; display: inline-block; min-width: auto; float: left; background: #FFF; }
+	#breadcrumb a { font-weight: normal; font-size: 13px; }
+	.precious-metal { display: inline-block; float: right; line-height: 28px; }
+	.gold-mt, .silver-mt, .platinum, .palladium, .nyse-time { display: inline-block; }
+	.nyse-time { margin-right: 10px; }
+	.nyse-time p { color: #999; }
+	#kgx_main, #live-gold-quotes, .adfree_hide:first-child { margin-top: 25px; }
+	.shanghai-fix { clear: both; }
+	#favorite-nav.favorites-navigation { overflow: hidden; }
+	@media all and (-ms-high-contrast:none) {
+		#main-body { display: inline; }
+	}
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+		.precious-metal { margin-top: 0px; }
+	}
+	@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+		.precious-metal { margin-top: 0px; }
+	}
+	@media (min-width: 74.9em) {
+		body {
+			overflow-x: hidden !important;
+		}
+	}
+</style>
+<div id="favorite-nav" class="favorites-navigation">
+	<div id="favorite-nav-container">
+		<div class="favorite-head">
+			<div class="fav-logo"><a href="/favorite/"><span class="sprite-icon-fav sprite-icon-heart-fav"></span></a></div> <span class="fav-title"><a href="/favorite/">Favorites:</a></span>
+		</div>
+		<ul id="favorite-list">
+		</ul>
+		<div id="fn-panel">
+			<div id="social-icons-block">
+				<a target="_blank" title="Follow us on Twitter" href="https://twitter.com/KitcoNewsNOW"><span class="sprite-icon-fav sprite-icon-twitter-fav"></a>
+				<a target="_blank" title="Like us on Facebook" href="https://www.facebook.com/KitcoNews"><span class="sprite-icon-fav sprite-icon-facebook-fav"></a>
+				<a target="_blank" title="Go to our YouTube page" href="https://www.youtube.com/user/KitcoNews"><span class="sprite-icon-fav sprite-icon-youtube-fav"></a>
+				<a target="_blank" title="Go to our Instagram page" href="https://www.instagram.com/kitconews/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+				<a target="_blank" href="https://www.linkedin.com/company/kitconews"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+			</div>
+			<div id="edit-favorite-link">
+				<a href="/favorite/"><span class="sprite-icon-fav sprite-icon-pencil-fav"></span>EDIT</a>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="sticky-nav">
+	<div id="favorite-nav-container" style="margin-top: -20px;">
+		<div id="breadcrumb"></div>
+		<div class="precious-metal">
+			<span class="gold-mt"></span>
+			<span class="silver-mt"></span>
+			<span class="platinum"></span>
+			<span class="palladium"></span>
+			<span class="nyse-time"></span>
+		</div>
+	</div>
+</div>
+
+<!-- END FAVORITE BAR -->
+<!-- END HEADER -->
+
+<!-- END HEADER -->
+
+<!-- BEGIN BODY -->
+<div id="cwrapper">
+	<div id="content">
+		<div id="leftcol">
+			<div class="item_container">
+				<table border='0' cellspacing='0'><tr><td><a href='http://www.kitco.com/scripts/count/count_db.pl?id=6367321'><img src='' border='0'></a></td></tr></table>
+
+			</div>
+
+			<!-- BEGIN MARKET INDICES -->
+			 <div class="item_container">
+			<div class="banner_market_indices">			
+	<table border='0' cellspacing='0'><tr><td><script src='//ads.investingchannel.com/adtags/Kitco/home/125x125.js?zhpos=125_1' type='text/javascript' charset='utf-8'></script></td></tr></table>
+
+</div>
+		<div id="symbol_search" class="market_indices">
+		<a href="/finance/"><span id="title_my_financial_markets"></span></a>
+		<h2 align="center"><a href="/finance/">Market Indices</a></h2>
+		<div id="symbol_search_content">
+			<div id="symbol_search_form_container" >
+			</div>
+			<div id="market_top_tabs">
+				<div onclick="switchTab('us_tab');" id="us_tab" class="selected">U.S.</div>
+				<div onclick="switchTab('europe_tab')" id="europe_tab" class="">EUROPE</div>
+				<div onclick="switchTab('asia_tab');" id="asia_tab" class="">ASIA</div>
+			</div>
+			<div class="market_indices_data" id="us_indices" style="display: inline-block">
+				<table bgcolor="#ffffff" width="100%" cellpadding=0 cellspacing=0>
+				<tbody>	
+					<tr><td rowspan="2" class="indices"><span class="arrow_up_tsp"></span> <a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=$DOWI&j1_override=&j1_region=">DJIA</a></td><td>26,031.81</td></tr>
+					<tr><td><font color=#007100>+181.18</font></td></tr>
+					
+					<tr class="alternating"><td rowspan="2" class="indices"><span class="arrow_up_tsp"></span> <a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=%24SPX&j1_override=&j1_region=">S&P 500</a></td><td>2,792.67</td></tr>
+					<tr class="alternating"><td><font color=#007100>+17.79</font></td></tr>
+					<tr><td class="indices" rowspan="2" ><span class="arrow_up_tsp"></span><a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=%24NASX&j1_override=&j1_region=">NASDAQ</a></td><td>7,527.55</td></tr>
+					<tr><td> <font color=#007100>+67.84</font></td></tr>
+				</tbody>	
+				</table>
+			</div>
+			<div class="market_indices_data" id="europe_indices"  style="display: none;">
+				<table bgcolor="#ffffff" width="100%" cellpadding=0 cellspacing=0>
+				<tbody>	
+					<tr><td rowspan="2" class="indices"><span class="arrow_up_tsp"></span><a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=MOY00&j1_override=&j1_region=">STOXX 50</a></td><td>3,270.55</td></tr>
+					<tr><td><font color=#007100>+6.85</font></td></tr>
+					
+					<tr class="alternating"><td rowspan="2" class="indices"><span class="arrow_up_tsp"></span><a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=%24FTSE&j1_override=&j1_region=">FTSE 100</a></td><td>7,178.60</td></tr>
+					<tr class="alternating"><td><font color=#007100>+11.21</font></td></tr>
+					
+					<tr><td class="indices" rowspan="2" ><span class="arrow_up_tsp"></span><a href="/finance/details.html?j1_module=indiceDetail&popup=1&j1_symbol=%24DAX&j1_override=&j1_region=">DAX</a></td><td>11,457.70</td></tr>
+					<tr><td><font color=#007100>+34.42</font></td></tr>
+				</tbody>	
+				</table>
+			</div>
+			<div class="market_indices_data" id="asia_indices"  style="display: none;">
+				<table bgcolor="#ffffff" width="100%" cellpadding=0 cellspacing=0>
+				<tbody>	
+					<tr><td class="indices" rowspan="2" ><span class="arrow_down_tsp"></span> <a href="/finance/details.html?j1_module=indiceDetail&j1_symbol=%24NKY&j1_region=">NIKKEI</a></td><td>21,425.51</td></tr>
+					<tr><td><font color=#FF0000>-38.72</font></td></tr>
+					
+					<tr class="alternating"><td rowspan="2" class="indices"><span class="arrow_up_tsp"></span><a href="/finance/details.html?j1_module=indiceDetail&j1_symbol=%24HSI&j1_region=">HANG SENG</a></td><td>28,789.58</td></tr>
+					<tr class="alternating"><td><font color=#007100>+159.66</font></td></tr>
+					
+					<tr><td rowspan="2" class="indices"><span class="arrow_up_tsp"></span><a href="/finance/details.html?j1_module=indiceDetail&j1_symbol=%24AXJO&j1_region=">S&P/ASX 200</a></td><td>6,167.30</td></tr>
+					<tr><td><font color=#007100>+28.10</font></td></tr>
+				</tbody>	
+				</table>
+			</div>
+			<p class="note" style="margin-bottom: 5px;">Index data delayed 10 min.</p>
+		</div>
+	</div>
+		
+		
+	
+	
+			</div>
+			<!-- END MARKET INDICES -->
+
+			<div class="update_btn_outer">
+				<form>
+					<input type="button" value="Update" onClick="document.location.reload()" name="button" title="Update">
+				</form>
+			</div>
+			<div class="item_container">
+				<table border='0' cellspacing='0'><tr><td><script src='https://ads.investingchannel.com/adtags/Kitco/commodities_quotes/125x125.js' type='text/javascript' charset='utf-8'></script></td></tr></table>
+
+			</div>
+			<!-- BEGIN PRECIOUS METALS CHARTS -->
+			<div class="item_container" id="pm-charts">
+				<div class="title_info"><span class="item_title_info">Precious Metals Charts</span></div>
+				<div class="item_border">
+					<table>
+						<tr class="odd"><td><span class="img_flag_usa"></span><a href="/market/us_charts.html">US Dollar</a></td></tr>
+						<tr class="even"><td><span class="img_flag_canada"></span><a href="/market/cad_charts.html" >Canadian Dollar</a></td></tr>
+						<tr class="odd"><td><span class="img_flag_china"></span><a href="/market/cn_charts.html" >Chinese Yuan</a></td></tr>
+						<tr class="even"><td><span class="img_flag_south_africa"></span><a href="/market/zar_charts.html">South African Rand</a></td></tr>
+						<tr class="odd"><td><span class="img_flag_australia"></span><a href="/market/aud_charts.html">Australian Dollar</a></td></tr>
+						<tr class="even"><td><span class="img_flag_euro"></span><a href="/market/euro_charts.html">Euro</a></td></tr>
+						<tr class="odd"><td><span class="img_flag_india"></span><a href="/market/inr_charts.html" >Indian Rupee</a></td></tr>
+						<tr class="even"><td><span class="img_flag_uk"></span><a href="/market/bp_charts.html">Pound Sterling</a></td></tr>
+						<tr class="odd"><td><span class="img_flag_switzerland"></span><a href="/market/sf_charts.html">Swiss Francs</a></td></tr>
+						<tr class="even"><td><span class="img_flag_japan"></span><a href="/market/yen_charts.html">Japanese Yen</a></td></tr>
+						<tr class="odd"><td><span class="img_flag_brazil"></span><a href="/market/brl_charts.html" >Brazilian Real</a></td></tr>
+					</table>
+				</div>
+			</div>
+			<!-- END PRECIOUS METALS CHARTS -->
+
+			<!-- SHANGHAI GOLD BENCHMARK FIX START-->
+						<div class="item_container" id="ShangHaiFix">
+				<div class="title_info double"><h2 class="item_title_info">Shanghai Gold Benchmark Price</h2><a href="javascript:NewWindow('/glossary/shanghai-gold-fix.html','ShangHaiFix','top=50,left=200,width=500,height=450,scrollbars=yes');" ></a></div>
+				<div class="item_border showOverflow">
+					<div class="select_container" >
+						<div>
+							<div class="selected" title="Click to change currency" rel="CNY"><span class="img_flag_china"></span> CNY</div>
+							<ul id="shf-currency-select">
+								<li rel="USD"><span class="img_flag_usa"></span> USD</li>
+								<li rel="AUD"><span class="img_flag_australia"></span> AUD</li>
+								<li rel="CAD"><span class="img_flag_canada"></span> CAD</li>
+								<li rel="EUR"><span class="img_flag_euro"></span> EUR</li>
+								<li rel="GBP"><span class="img_flag_uk"></span> GBP</li>
+								<li rel="JPY"><span class="img_flag_japan"></span> JPY</li>
+								<li rel="CHF"><span class="img_flag_switzerland"></span> CHF</li>
+								<li rel="CNY"><span class="img_flag_china"></span> CNY</li>
+								<li rel="HKD"><span class="img_flag_hkd"></span> HKD</li>
+								<li rel="BRL"><span class="img_flag_brazil"></span> BRL</li>
+								<li rel="INR"><span class="img_flag_india"></span> INR</li>
+								<li rel="MXN"><span class="img_flag_mxn"></span> MXN</li>
+								<li rel="RUB"><span class="img_flag_russia"></span> RUB</li>
+								<li rel="ZAR"><span class="img_flag_south_africa"></span> ZAR</li>
+							</ul>
+						</div>
+					</div>
+					<div class="select_container" >
+							<label>
+								<select id="shf-unit-select" class="unit" title="Click to change unit of measure" >
+									<option value="ounce">oz</option>
+									<option value="gram" selected>gram</option>
+									<option value="kilo">kilo</option>
+									<option value="tola">tola</option>
+								</select>
+							</label>
+					</div>
+					<input id="shf-date" value="Feb 21, 2019" /><div style="display: none;"><img id="calImg" src="/images/calendar-blue.gif" alt="Popup" class="trigger"></div>
+					<div id="shf-data">
+						<div id="shf-am"><span class="label">AM</span><span id="shf-am-value" class="fix-value">291.28</span></div>
+						<div id="shf-pm"><span class="label">PM</span><span id="shf-pm-value" class="fix-value">290.74</span></div>
+					</div>
+					<a href="/shanghai-gold-fix/" target="_blank" class="widget_btm_link">Historical SGE Fix</a>
+					<script>
+						// function init(){
+						// 	Currency = readCookie("SHIndex_currency");
+						// 	if(Currency == null){ Currency="CNY";}
+						// 	Unit = readCookie("SHIndex_unit");
+						// 	if(Unit == null){ Unit="gram";}
+						//
+						// 	if(Currency != "CNY" || Unit != "gram"){
+						// 		if($(".desktop-shanghai #ShangHaiFix .select_container .selected").attr('rel') != Currency){
+						// 			$(".desktop-shanghai #shf-currency-select").siblings(".selected").html($(".desktop-shanghai #shf-currency-select li[rel='"+Currency+"']").html()).attr("rel", Currency);
+						// 		}
+						// 		if($(".desktop-shanghai #shf-unit-select").val() != Unit){
+						// 			$(".desktop-shanghai #shf-unit-select").val(Unit);
+						// 		}
+						// 		updateSHIndex();
+						// 	}
+						// }
+						//
+						// function updateSHIndex(){
+						// 	Currency = readCookie("SHIndex_currency");
+						// 	if(Currency == null || Currency==""){ Currency="CNY";}
+						// 	Unit = readCookie("SHIndex_unit");
+						// 	if(Unit == null || Unit ==""){ Unit="gram";}
+						//
+						// 	if($(".desktop-shanghai #ShangHaiFix .select_container .selected").attr('rel') != Currency){
+						// 			$(".desktop-shanghai #shf-currency-select").siblings(".selected").html($(".desktop-shanghai #shf-currency-select li[rel='"+Currency+"']").html()).attr("rel", Currency);
+						// 		}
+						// 	if($(".desktop-shanghai #shf-unit-select").val() != Unit){
+						// 		$(".desktop-shanghai #shf-unit-select").val(Unit);
+						// 	}
+						// 	var date = formatDate($(".desktop-shanghai #shf-date").val());
+						// 	var eventLabel = Currency +"-"+Unit +"-"+date;
+						// 	//ga('send', 'event', 'ShangHaiFixWidget', 'search', eventLabel);
+						// 	//var kds_host="//proxy-qa.kitco.com/getshidx?currency="+Currency+"&df=1&date="+date;
+						// 	var kds_host="//proxy.kitco.com/getshidx?currency="+Currency+"&df=1&date="+date;
+						// 	var ajaxURL = kds_host;
+						// 	ajaxCall2(ajaxURL, function(data){
+						// 		var values = data.split(',');
+						// 		if(isNaN(values[2]) || !parseFloat(values[2])>0.00) var am = "NA"; else var am = formatNumber(convertPriceByUnit(parseFloat(values[2]),Unit));
+						// 		if(isNaN(values[3]) || !parseFloat(values[3])>0.00) var pm = "NA"; else var pm = formatNumber(convertPriceByUnit(parseFloat(values[3]),Unit));
+						// 		$(".desktop-shanghai #shf-am-value").html(am);
+						// 		$(".desktop-shanghai #shf-pm-value").html(pm);
+						// 	},function(){ //fallback function
+						// 		$(".desktop-shanghai #shf-am-value").html("-");
+						// 		$(".desktop-shanghai #shf-pm-value").html("-");
+						// 	});
+						// }
+						//
+						// $( document ).ready(function(){
+						// 	$(".desktop-shanghai #shf-currency-select li").click(function(){
+						// 		var data = $(this).attr("rel");
+						// 		$(this).parents("ul").siblings(".selected").html($(this).html()).attr("rel",data);
+						// 		$(this).parents("ul").hide();
+						// 		bakeCookie("SHIndex_currency" , data);
+						// 		updateSHIndex();
+						// 	});
+						//
+						// 	$(".desktop-shanghai #shf-unit-select").change(function() {
+						// 		bakeCookie("SHIndex_unit" , $(".desktop-shanghai #shf-unit-select").val());
+						// 		updateSHIndex();
+						// 	});
+						//
+						// 	$(".desktop-shanghai #shf-date").change(function(){
+						// 		alert("Please use date picker, thank you.");
+						// 	});
+						//
+						// 	$(".desktop-shanghai #shf-date").datepick({onSelect: function() {updateSHIndex();}, minDate:'Apr 19, 2016', maxDate:'Feb 21, 2019',defaultDate: '0', selectDefaultDate: true,showTrigger:'#calImg',dateFormat: 'M dd, yyyy'});
+						// 	init();
+						// });
+					</script>
+				</div>
+			</div>
+
+			<!-- SHANGHAI GOLD BENCHMARK FIX END-->
+
+			<!-- METALS FUTURES -->
+			<div class="item_container">
+				<div class="title_info link"><a href="/finance/metals/" target="_blank"><span class="item_title_info" style="margin-left:8px;">Metals Futures</span><span class="arrow" href="/finance/futures/#news_section" ></span></a></div>
+			</div>
+			<!-- END METALS FUTURES -->
+
+			<!-- BEGIN GOLD INDICATORS -->
+			<!-- INDICATORS -->
+			<div class="item_container indicators">
+				<div class="title_reg"><span class="item_title">Gold Indicators</span></div>
+				<div class="item_border">
+					<div class="subtitle">Index data delayed 10 min.</div>
+					<table>
+						<tr class="odd"><td rowspan="2" class="name"><span class="arrow_up_tsp"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=$XAU">XAU</a></span></td><td class="index align_right">78.61</td></tr>
+						<tr class="odd"><td class="index vertical_details align_right"><span class="spotgreen">+0.31</span></td></tr>
+						<tr class="even"><td rowspan="2" class="name"><span class="arrow_down_tsp"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=$HUI">HUI</a></span></td><td class="index align_right">174.43</td></tr>
+						<tr class="even"><td class="index vertical_details align_right"><span class="spotred">-0.28</span></td></tr>
+						<tr class="odd"><td rowspan="2" class="name"><span class="arrow_down_tsp"></span><span>JSE Gold</span></td><td class="index align_right">1,638.48</td></tr>
+						<tr class="odd"><td class="index vertical_details align_right"><span class="spotred">-32.09</span></td></tr>
+<!--
+						<tr class="even"><td rowspan="2" class="name"><span class="arrow_down_tsp"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=$GOX">GOX</a></span></td><td class="index align_right">100.28</td></tr>
+						<tr class="even"><td class="index vertical_details align_right"><span class="class">-2.71</span></td></tr>
+-->
+						<tr class="even"><td rowspan="2" class="name"><span class="arrow_down_tsp"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=$TTGD">TSX Gold</a></span></td><td class="index align_right">196.64</td></tr>
+						<tr class="even"><td class="index vertical_details align_right"><span class="spotred">-0.61</span></td></tr>
+					</table>
+					<!--<a  class="widget_btm_link"href="http://www.kitconet.com/indexes.html" target="_blank">Charts...</a>-->
+				</div>
+			</div>
+			<!-- END GOLD INDICATORS -->
+
+
+			<!-- BEGIN OTHER INDICATORS -->
+			<!-- INDICATORS -->
+			<div class="item_container indicators">
+				<div class="title_reg"><span class="item_title">Other Indicators</span></div>
+				<div class="item_border">
+					<div class="subtitle">Index data delayed 10 min.</div>
+					<table>
+						<tr class="light"><td rowspan="2" class="name"><span class="arrow_up_tsp"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=DJY00">DJIA</a></span></td><td class="index align_right">26,031.81</td></tr>
+						<tr class="odd"><td class="index vertical_details align_right"><span class="spotgreen">+181.18</span></td></tr>
+						<tr class="even"><td rowspan="2" class="name"><span class="arrow_up_tsp"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=$NASX">NASDAQ</a></span></td><td class="index align_right">7,527.55</td></tr>
+						<tr class="even"><td class="index vertical_details align_right"><span class="spotgreen">+67.84</span></td></tr>
+						<tr class="odd"><td rowspan="2" class="name"><span class="arrow_down_tsp"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=$NKY">NIKKEI</a></span></td><td class="index align_right">21,425.51</td></tr>
+						<tr class="odd"><td class="index vertical_details align_right"><span class="spotred">-38.72</span></td></tr>
+						<tr class="even"><td rowspan="2" class="name"><span class="arrow_up_tsp"></span><span>RUSSELL</span></td><td class="index align_right">1,590.06</td></tr>
+						<tr class="even"><td class="index vertical_details align_right"><span class="spotgreen">+14.51</span></td></tr>
+						<tr class="odd"><td rowspan="2" class="name"><span class="arrow_up_tsp"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=$NYA">NYSE</a></span></td><td class="index align_right">12,694.50</td></tr>
+						<tr class="odd"><td class="index vertical_details align_right"><span class="spotgreen">+72.75</span></td></tr>
+						<tr class="even"><td rowspan="2" class="name"><span class="arrow_up_tsp"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=$SPX">S&amp;P 500</a></span></td><td class="index align_right">2,792.67</td></tr>
+						<tr class="even"><td class="index vertical_details align_right"><span class="spotgreen">+17.79</span></td></tr>
+						<tr class="odd"><td rowspan="2" class="name"><span class="arrow_up_tsp"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=$TXCX">TSX</a></span></td><td class="index align_right">16,013.00</td></tr>
+						<tr class="odd"><td class="index vertical_details align_right"><span class="spotgreen">+12.15</span></td></tr>
+						<tr class="even"><td rowspan="2" class="name"><span class="arrow_unchanged"></span><span><a href="/finance/stocks/details.html?j1_module=stockDetail&popup=1&j1_symbol=$DXY">USD</a></span></td><td class="index align_right">96.48</td></tr>
+						<tr class="even"><td class="index vertical_details align_right"><span class="">0.00</span></td></tr>
+						<tr class="odd"><td rowspan="2" class="name"><span class="arrow_up_tsp"></span><span>Crude Oil</span></td><td class="index align_right">57.07</td></tr>
+						<tr class="odd"><td class="index vertical_details align_right"><span class="spotgreen">+0.11</span></td></tr>
+					</table>
+					<!--<a  class="widget_btm_link"href="http://www.kitconet.com/indexes.html" target="_blank">Charts...</a>-->
+				</div>
+			</div>
+			<!-- END OTHER INDICATORS -->
+
+			<!-- BEGIN EXCHANGE RATES -->
+			<div class="item_container exchange_rates">
+				<div class="title_reg"><span class="item_title">Exchange Rates</span></div>
+				<div class="item_border">
+					<div class="subtitle"><a href="/finance/forex/?j1_module=forexMarketOverview&popup=1&j1_crsym=USD">X = 1$USD</a></div>
+					<table>
+						<tr class="odd"><td class="flag"><span class="img_flag_australia"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5EAUDUSD">AUD</a></td><td class="vertical_details"><span class="">0.0000</span></td></tr>
+						<tr class="odd"><td></td><td class="index">1.40</td><td><span class="">0.0000%</span></td></tr>
+						<tr class="even"><td class="flag"><span class="img_flag_canada"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5ECADUSD">CAD</a></td><td class="vertical_details"><span class="spotred">-0.0002</span></td></tr>
+						<tr class="even"><td></td><td class="index">1.31</td><td><span class="spotred">-0.0152%</span></td></tr>
+						<tr class="odd"><td class="flag"><span class="img_flag_euro"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5EEURUSD">EUR</a></td><td class="vertical_details"><span class="">0.0000</span></td></tr>
+						<tr class="odd"><td></td><td class="index">0.88</td><td><span class="">0.0000%</span></td></tr>
+						<tr class="even"><td class="flag"><span class="img_flag_uk"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5EGBPUSD">GBP</a></td><td class="vertical_details"><span class="spotred">-0.0000</span></td></tr>
+						<tr class="even"><td></td><td class="index">0.77</td><td><span class="spotred">-0.0000%</span></td></tr>
+						<tr class="odd"><td class="flag"><span class="img_flag_switzerland"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5ECHFUSD">CHF</a></td><td class="vertical_details"><span class="">0.0000</span></td></tr>
+						<tr class="odd"><td></td><td class="index">1.00</td><td><span class="">0.0000%</span></td></tr>
+						<tr class="even"><td class="flag"><span class="img_flag_japan"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5EJPYUSD">JPY</a></td><td class="vertical_details"><span class="">0.0000</span></td></tr>
+						<tr class="even"><td></td><td class="index">110.69</td><td><span class="">0.0000%</span></td></tr>
+						<tr class="odd"><td class="flag"><span class="img_flag_china"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5ECNYUSD">RMB</a></td><td class="vertical_details"><span class="">0.0000</span></td></tr>
+						<tr class="odd"><td></td><td class="index">6.71</td><td><span class="">0.0000%</span></td></tr>
+						<tr class="even"><td class="flag"><span class="img_flag_hkd"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5EHKDUSD">HKD</a></td><td class="vertical_details"><span class="">0.0000</span></td></tr>
+						<tr class="even"><td></td><td class="index">7.8482</td><td><span class="">0.0000%</span></td></tr>
+						<tr class="odd"><td class="flag"><span class="img_flag_brazil"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5EBRLUSD">BRL</a></td><td class="vertical_details"><span class="spotgreen">+0.0004</span></td></tr>
+						<tr class="odd"><td></td><td class="index">3.74</td><td><span class="spotgreen">+0.0107%</span></td></tr>
+						<tr class="even"><td class="flag"><span class="img_flag_india"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5EINRUSD">INR</a></td><td class="vertical_details"><span class="">0.0000</span></td></tr>
+						<tr class="even"><td></td><td class="index">71.03</td><td><span class="">0.0000%</span></td></tr>
+						<tr class="odd"><td class="flag"><span class="img_flag_mxn"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5EMXNUSD">MXN</a></td><td class="vertical_details"><span class="">0.0000</span></td></tr>
+						<tr class="odd"><td></td><td class="index">19.15</td><td><span class="">0.0000%</span></td></tr>
+						<tr class="even"><td class="flag"><span class="img_flag_russia"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5ERUBUSD">RUB</a></td><td class="vertical_details"><span class="">0.0000</span></td></tr>
+						<tr class="even"><td></td><td class="index">65.37</td><td><span class="">0.0000%</span></td></tr>
+						<tr class="odd"><td class="flag"><span class="img_flag_south_africa"></span></td><td class="name"><a href="/finance/forex/?j1_module=forexDetail&popup=1&j1_override=&j1_region=&j1_symbol=%5EZARUSD">ZAR</a></td><td class="vertical_details"><span class="">0.0000</span></td></tr>
+						<tr class="odd"><td></td><td class="index">14.00</td><td><span class="">0.0000%</span></td></tr>
+					</table>
+				</div>
+			</div>
+			<!-- END EXCHANGE RATES -->
+
+			<div class="item_container">
+				<table border='0' cellspacing='0'><tr><td><script src='https://ads.investingchannel.com/adtags/Kitco/ros/160x600.js' type='text/javascript' charset='utf-8'></script></td></tr></table>
+
+			</div>
+		</div>
+		<div id="middlecol">
+			<!-- KGX -->
+			<div id="kgx_main">
+				<a href="/kitco-gold-index.html" target="blank"><img src="/images/KGX/kgx_complete_bg.jpg?v=20150918" width="650" height="38" alt="KGX" />
+					<div id="kgx_content" class="data_row green" onMouseOut="javascript:KGX_pause_it(0);" onMouseOver="javascript:KGX_pause_it(1);">
+						<span id="kgx_text_content">Did Gold really go up <span class='change-value'>4.90 <span class='change-per'>(0.37%)</span></span></span>
+					</div>
+				</a>
+			</div>
+
+			<div style="width: 435px; margin: 0 auto;">
+				<table border='0' cellspacing='0'><tr><td><script src='https://ads.investingchannel.com/adtags/Kitco/commodities_quotes/234x20.js?kval=content_ad' type='text/javascript' charset='utf-8'></script></td></tr></table>
+
+			</div>
+			<!-- END_OF_KGX -->
+			<table width="540" border="0" cellspacing="0" cellpadding="0">
+				<tr><td align="left"></td></tr>
+			</table>
+			<div class="table_container spot_price">
+				<div class="table_title">
+					<h2 title="now pick you currency and unit of measure">New York Spot Price</h2>
+					<a class="market_status_light" href="/market/lights.html" title=""><span class="img_lightred"></span></a>
+				</div>
+				<div class="table_head">
+					<div class="filters_outer">
+						<div class="select_container" >
+							<div>
+								<div class="selected" title="Click to change currency" rel="USD"><span class="img_flag_usa"></span> US Dollar</div>
+								<ul id="currency-select-ny">
+									<li rel="USD"><span class="img_flag_usa"></span> US Dollar</li>
+									<li rel="AUD"><span class="img_flag_australia"></span> Australian Dollar</li>
+									<li rel="CAD"><span class="img_flag_canada"></span> Canadian Dollar</li>
+									<li rel="EUR"><span class="img_flag_euro"></span> Euro</li>
+									<li rel="GBP"><span class="img_flag_uk"></span> British Pound</li>
+									<li rel="JPY"><span class="img_flag_japan"></span> Japanese Yen</li>
+									<li rel="CHF"><span class="img_flag_switzerland"></span> Swiss Franc</li>
+									<li rel="CNY"><span class="img_flag_china"></span> Chinese Yuan</li>
+									<li rel="HKD"><span class="img_flag_hkd"></span> Hong Kong Dollar</li>
+									<li rel="BRL"><span class="img_flag_brazil"></span> Brazilian Real</li>
+									<li rel="INR"><span class="img_flag_india"></span> Indian Rupee</li>
+									<li rel="MXN"><span class="img_flag_mxn"></span> Mexican Peso</li>
+									<li rel="RUB"><span class="img_flag_russia"></span> Russian Ruble</li>
+									<li rel="ZAR"><span class="img_flag_south_africa"></span> S. African Rand</li>
+								</ul>
+							</div>
+						</div>
+						<div class="select_container" >
+							<label>
+								<select id="unit-select-ny" class="ny unit" title="Click to change unit of measure" >
+									<option value="ounce">oz</option>
+									<option value="gram">gram</option>
+									<option value="kilo">kilo</option>
+									<option value="tola">tola</option>
+								</select>
+							</label>
+						</div>
+					</div>
+					<div id="market_status_ny" class="market_status closed">MARKET IS CLOSED <span class="info">(Will open in 34 hrs. 23 mins.)</span></div>
+					<div class="market_alerts_btn"><a href="http://alerts.kitco.com/KcastAlertsWeb/?utm_source=kitco&utm_medium=button&utm_content=spot_price_generic&utm_campaign=market" title="Market Alerts" target="_blank"><span></span>Market Alerts</a></div>
+				</div>
+				<table>
+					<tr class="title">
+						<td>Metals</td>
+						<td>Date</td>
+						<td>Time<br />(EST)</td>
+						<td>Bid</td>
+						<td>Ask</td>
+						<td colspan="2" class="change">Change</td>
+						<td>Low</td>
+						<td>High</td>
+					</tr>
+					<tr class="odd">
+						<td class="name"><a href="/charts/livegoldnewyork.html" title="Gold Price"><span class="name_icon"></span>GOLD</a></td>
+						<td id="AU-date" class="date">02/22/2019</td>
+						<td id="AU-time" class="time">17:01</td>
+						<td id="AU-bid">1327.90</td>
+						<td id="AU-ask">1328.90</td>
+						<td id="AU-change" class="change"><p class=spotgreen>+4.90</p></td>
+						<td id="AU-change-percent" class="change border_details"><p class=spotgreen>+0.37%</p></td>
+						<td id="AU-low">1323.70</td>
+						<td id="AU-high">1333.80</td>
+					</tr>
+					<tr class="even">
+						<td class="name"><a href="/charts/livesilver.html#ny" title="Silver Price"><span class="name_icon"></span>SILVER</a></td>
+						<td id="AG-date" class="date">02/22/2019</td>
+						<td id="AG-time" class="time">17:01</td>
+						<td id="AG-bid">15.90</td>
+						<td id="AG-ask">16.00</td>
+						<td id="AG-change" class="change"><p class=spotgreen>+0.13</p></td>
+						<td id="AG-change-percent" class="change border_details"><p class=spotgreen>+0.86%</p></td>
+						<td id="AG-low">15.79</td>
+						<td id="AG-high">16.05</td>
+					</tr>
+					<tr class="odd">
+						<td class="name"><a href="/charts/liveplatinum.html" title="Platinum Price"><span class="name_icon"></span>PLATINUM</a></td>
+						<td id="PT-date" class="date">02/22/2019</td>
+						<td id="PT-time" class="time">17:01</td>
+						<td id="PT-bid">841.00</td>
+						<td id="PT-ask">846.00</td>
+						<td id="PT-change" class="change"><p class=spotgreen>+19.00</p></td>
+						<td id="PT-change-percent" class="change border_details"><p class=spotgreen>+2.31%</p></td>
+						<td id="PT-low">829.00</td>
+						<td id="PT-high">848.00</td>
+					</tr>
+					<tr class="even">
+						<td class="name"><a href="/charts/livepalladium.html" title="Palladium Price"><span class="name_icon"></span>PALLADIUM</a></td>
+						<td id="PD-date" class="date">02/22/2019</td>
+						<td id="PD-time" class="time">17:01</td>
+						<td id="PD-bid">1474.00</td>
+						<td id="PD-ask">1499.00</td>
+						<td id="PD-change" class="change"><p class=spotgreen>+23.00</p></td>
+						<td id="PD-change-percent" class="change border_details"><p class=spotgreen>+1.59%</p></td>
+						<td id="PD-low">1429.00</td>
+						<td id="PD-high">1500.00</td>
+					</tr>
+					<tr class="odd">
+						<td class="name"><a href="/charts/rhodium.html" title="Rhodium Price"><span class="name_icon"></span>RHODIUM</a></td>
+						<td id="RH-date" class="date">02/22/2019</td>
+						<td id="RH-time" class="time">17:01</td>
+						<td id="RH-bid">2540.00</td>
+						<td id="RH-ask">2690.00</td>
+						<td id="RH-change" class="change"><p class=spotgray>0.00</p></td>
+						<td id="RH-change-percent" class="change border_details"><p class=spotgray>0.00%</p></td>
+						<td id="RH-low" class="empty_cell">-</td>
+						<td id="RH-high" class="empty_cell">-</td>
+					</tr>
+				</table>
+			</div>
+
+			<!-- 120x60 ADS -->
+			<div id="ads_120x60_block">
+				<table id="ads_block">
+					<tr>
+						<td class="ads_120x60">
+							<table border='0' cellspacing='0'><tr><td><script src='//ads.investingchannel.com/adtags/Kitco/quotepages/120x60.js' type='text/javascript' charset='utf-8'></script></td></tr></table>
+
+						</td>
+						<td class="ads_120x60">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=1124343" target="_blank"><img alt="Foran Mining Corp" src="https://www.kitco.com/images/spots/Foran Ad-120x60.gif" border="0"></a>
+</td></tr></table>
+
+						</td>
+						<td class="ads_120x60">
+							<table border='0' cellspacing='0'><tr><td><a href="https://www.kitco.com/scripts/count/count_db.pl?id=8133411" target="_blank" > <img alt"Kcast for Iphone" src="https://www.kitco.com/images/spots/Iphone.Kcast.gif"  /> </a></td></tr></table>
+
+						</td>
+					</tr>
+				</table>
+			</div>
+
+			<div class="table_container lf_prices">
+				<div class="table_title">
+					<h2><a href="/gold.londonfix.html">Click Here for Historical London Fix Prices</a><a class="info-icon" href="javascript:NewWindow('/glossary/london_fix_amq.html','ShangHaiFix','top=50,left=200,width=500,height=450,scrollbars=yes');" id="yui_3_18_1_1_1544627286093_191"></a></h2>
+				</div>
+				<table class="table-block">
+					<tr class="title">
+						<td class="color label" rowspan="2">LONDON FIX</td>
+						<td class="dates" colspan="3">QUOTES as of <strong>Feb 22, 2019</strong></td>
+						<td class="dates" colspan="4">QUOTES as of <strong>Feb 22, 2019</strong></td>
+					</tr>
+					<tr class="title">
+						<td colspan="2">Gold</td>
+						<td class="silver">Silver</td>
+						<td colspan="2">Platinum</td>
+						<td colspan="2" class="pl">Palladium</td>
+					</tr>
+					<tr class="odd title_cell">
+						<td class="label">Currencies</td>
+						<td>AM</td>
+						<td>PM</td>
+						<td class="empty_cell silver">-</td>
+						<td>AM</td>
+						<td>PM</td>
+						<td>AM</td>
+						<td class="pl">PM</td>
+					</tr>
+					<tr class="even">
+						<td class="name"><span class="usd"></span><span> USD</span></td>
+						<td>1322.25</td>
+						<td>1329.05</td>
+						<td class="silver">15.8700</td>
+						<td>830.00</td>
+						<td>830.00</td>
+						<td>1483.00</td>
+						<td class="pl">1482.00</td>
+					</tr>
+					<tr class="odd">
+						<td class="name"><span class="gbp"></span><span> GBP</span></td>
+						<td>1016.15</td>
+						<td>1020.71</td>
+						<td class="silver">12.2000</td>
+						<td>637.48</td>
+						<td>638.71</td>
+						<td>1139.02</td>
+						<td class="pl">1140.44</td>
+					</tr>
+					<tr class="even">
+						<td class="name"><span class="euro"></span><span> Euro</span></td>
+						<td>1166.49</td>
+						<td>1172.49</td>
+						<td class="silver">14.0000</td>
+						<td>731.92</td>
+						<td>732.25</td>
+						<td>1307.76</td>
+						<td class="pl">1307.45</td>
+					</tr>
+					<tr>
+						<td colspan="8" class="link-cell">
+							<a id="k_fix_header" href="/fix/" title="Click Here for the Kitco 10 AM Silver Fix">
+								<span class="btn-plus">+</span>Click Here for the Kitco 10 AM Silver Fix
+							</a>
+						</td>
+					</tr>
+				</table>
+			</div>
+
+			<div class="table_container world_spot_price">
+				<div class="table_title">
+					<h2 title="now pick you currency and unit of measure">The World Spot Price - Asia/Europe/NY markets</h2>
+					<a class="market_status_light" href="/market/lights.html"><span class="img_lightred"></span></a>
+				</div>
+				<div class="table_head">
+					<div class="filters_outer">
+						<div class="select_container">
+							<div>
+								<div class="selected" title="Click to change currency" rel="USD"><span class="img_flag_usa"></span> US Dollar</div>
+								<ul id="currency-select-wsp">
+									<li rel="USD"><span class="img_flag_usa"></span> US Dollar</li>
+									<li rel="AUD"><span class="img_flag_australia"></span> Australian Dollar</li>
+									<li rel="CAD"><span class="img_flag_canada"></span> Canadian Dollar</li>
+									<li rel="EUR"><span class="img_flag_euro"></span> Euro</li>
+									<li rel="GBP"><span class="img_flag_uk"></span> British Pound</li>
+									<li rel="JPY"><span class="img_flag_japan"></span> Japanese Yen</li>
+									<li rel="CHF"><span class="img_flag_switzerland"></span> Swiss Franc</li>
+									<li rel="CNY"><span class="img_flag_china"></span> Chinese Yuan</li>
+									<li rel="HKD"><span class="img_flag_hkd"></span> Hong Kong Dollar</li>
+									<li rel="BRL"><span class="img_flag_brazil"></span> Brazilian Real</li>
+									<li rel="INR"><span class="img_flag_india"></span> Indian Rupee</li>
+									<li rel="MXN"><span class="img_flag_mxn"></span> Mexican Peso</li>
+									<li rel="RUB"><span class="img_flag_russia"></span> Russian Ruble</li>
+									<li rel="ZAR"><span class="img_flag_south_africa"></span> S. African Rand</li>
+								</ul>
+							</div>
+						</div>
+						<div class="select_container">
+							<label>
+								<select id="unit-select-wsp" class="wsp unit" title="Click to change unit of measure">
+									<option value="ounce">oz</option>
+									<option value="gram">gram</option>
+									<option value="kilo">kilo</option>
+									<option value="tola">tola</option>
+								</select>
+							</label>
+						</div>
+					</div>
+					<div id="market_status_wsp" class="market_status closed">MARKET IS CLOSED <span class="info">(Will open in 20 hrs. 3 mins.)</span></div>
+					<div class="market_alerts_btn"><a href="http://alerts.kitco.com/KcastAlertsWeb/?utm_source=kitco&utm_medium=button&utm_content=spot_price_generic&utm_campaign=market" title="Market Alerts" target="_blank"><span></span>Market Alerts</a></div>
+				</div>
+				<table class="world_spot_price">
+					<tr class="title">
+						<td> Metals</td>
+						<td>Date</td>
+						<td>Time<br />(EST)</td>
+						<td>Bid</td>
+						<td  class="border_details">Ask</td>
+						<td colspan="2" class="change">Change</td>
+						<td>Low</td>
+						<td>High</td>
+					</tr>
+
+					<tr class="odd">
+						<td class="name"><a href="/charts/livegold.html" title="Gold Price"><span class="name_icon"></span>GOLD</a></td>
+						<td id="wsp-AU-date" class="date">02/22/2019</td>
+						<td id="wsp-AU-time" class="time">17:00</td>
+						<td id="wsp-AU-bid">1327.90</td>
+						<td id="wsp-AU-ask">1328.90</td>
+						<td id="wsp-AU-change" class="change"><p class=spotgreen>+4.90</p></td>
+						<td id="wsp-AU-change-percent" class="change border_details"><p class=spotgreen>+0.37%</p></td>
+						<td id="wsp-AU-low">1321.10</td>
+						<td id="wsp-AU-high">1333.80</td>
+					</tr>
+					<tr class="even">
+						<td class="name"><a href="/charts/livesilver.html" title="Silver Price"><span class="name_icon"></span>SILVER</a></td>
+						<td id="wsp-AG-date" class="date">02/22/2019</td>
+						<td id="wsp-AG-time" class="time">16:59</td>
+						<td id="wsp-AG-bid">15.90</td>
+						<td id="wsp-AG-ask">15.99</td>
+						<td id="wsp-AG-change" class="change"><p class=spotgreen>+0.13</p></td>
+						<td id="wsp-AG-change-percent" class="change border_details"><p class=spotgreen>+0.86%</p></td>
+						<td id="wsp-AG-low">15.74</td>
+						<td id="wsp-AG-high">16.05</td>
+					</tr>
+					<tr class="odd">
+						<td class="name"><a href="/charts/liveplatinum.html" title="Platinum Price"><span class="name_icon"></span>PLATINUM</a></td>
+						<td id="wsp-PT-date" class="date">02/22/2019</td>
+						<td id="wsp-PT-time" class="time">16:59</td>
+						<td id="wsp-PT-bid">841.00</td>
+						<td id="wsp-PT-ask">846.00</td>
+						<td id="wsp-PT-change" class="change"><p class=spotgreen>+19.00</p></td>
+						<td id="wsp-PT-change-percent" class="change border_details"><p class=spotgreen>+2.31%</p></td>
+						<td id="wsp-PT-low">825.00</td>
+						<td id="wsp-PT-high">848.00</td>
+					</tr>
+					<tr class="even">
+						<td class="name"><a href="/charts/livepalladium.html" title="Palladium Price"><span class="name_icon"></span>PALLADIUM</a></td>
+						<td id="wsp-PD-date" class="date">02/22/2019</td>
+						<td id="wsp-PD-time" class="time">16:58</td>
+						<td id="wsp-PD-bid">1474.00</td>
+						<td id="wsp-PD-ask">1499.00</td>
+						<td id="wsp-PD-change" class="change"><p class=spotgreen>+23.00</p></td>
+						<td id="wsp-PD-change-percent" class="change border_details"><p class=spotgreen>+1.59%</p></td>
+						<td id="wsp-PD-low">1429.00</td>
+						<td id="wsp-PD-high">1501.00</td>
+					</tr>
+					<tr class="odd">
+						<td class="name"><span class="name_icon"></span><a href="/charts/rhodium.html" title="Rhodium Price">RHODIUM</a></td>
+						<td id="wsp-RH-date" class="date">02/22/2019</td>
+						<td id="wsp-RH-time" class="time">12:40</td>
+						<td id="wsp-RH-bid">2540.00</td>
+						<td id="wsp-RH-ask">2690.00</td>
+						<td id="wsp-RH-change" class="change"><p class=spotgray>0.00</p></td>
+						<td id="wsp-RH-change-percent" class="change border_details"><p class=spotgray>0.00%</p></td>
+						<td id="wsp-RH-low" class="empty_cell">-</td>
+						<td id="wsp-RH-high" class="empty_cell">-</td>
+					</tr>
+				</table>
+			</div>
+
+			<div class="table_container gold_ratios">
+				<div class="table_title">
+					<h2  title="Gold ratios now for XAU, Crude Oil, DJIA and S&P 500">Gold Ratios</h2>
+					<span class="date">Feb 22, 2019 17:00 NY Time</span>
+				</div>
+				<table>
+					<tr class="title">
+						<td></td>
+						<td>Silver</td>
+						<td>Platinum</td>
+						<td>Palladium</td>
+						<td><a href="javascript:NewWindow('/pop_windows/stocks/xau.html','xau','top=50,left=200,width=875,height=700,scrollbars=1,resizable=1');">XAU</a></td>
+						<td><a href="javascript:NewWindow('/pop_windows/stocks/hui.html','hui','top=50,left=200,width=875,height=700,scrollbars=1,resizable=1');">HUI</a></td>
+						<td>S&amp;P 500</td>
+						<td>DJIA</td>
+						<td>Crude Oil</td>
+					</tr>
+					<tr class="light">
+						<th class="subtitle"><p>GOLD</p></th>
+						<td>83.52</td>
+						<td class="even">1.58</td>
+						<td>0.90</td>
+						<td class="even">16.89</td>
+						<td>7.61</td>
+						<td class="even">0.4755</td>
+						<td>0.0510</td>
+						<td class="even">23.27</td>
+					</tr>
+				</table>
+			</div>
+
+			<div class="disclaimer-block">
+				<p>File created at 21:57:29 on Sat February 23 2019 <img id="disclaimer-icon-info" src="/images/icon-info-grey.jpg" alt="Info icon" /></p>
+				<p id="disclaimer-details">Exchange rates displayed are the mid-point between bid and ask as indicated on Kitco.com. The quotes on this page are relevant for trading precious metals in their pure standard exchange approved bar form. Fabrication costs for various precious metals products are not included. Please visit <a href="https://online.kitco.com" target="_blank" title="Kitco Online Store"><strong>Kitco Online Store</strong></a> for our product selections.
+				</p>
+				<script>
+					$("#disclaimer-icon-info").hover(function(){
+						$("#disclaimer-details").slideDown();
+					});
+
+					$(".disclaimer-block").mouseout(function(){
+						$("#disclaimer-details").slideUp();
+					});
+				</script>
+			</div>
+
+			<div class="banner_600x310">
+				<table border='0' cellspacing='0'><tr><td><!--
+  ~ Copyright (C) 2014-2015 Media.net Advertising FZ-LLC All Rights Reserved
+  -->
+<script type="text/javascript">
+    window._mNHandle = window._mNHandle || {};
+    window._mNHandle.queue = window._mNHandle.queue || [];
+    medianet_versionId = "3121199";
+        </script>
+<script src="https://contextual.media.net/dmedianet.js?cid=8CU839R22" async="async"></script>
+
+<!--
+  ~ Copyright (C) 2014 Media.net Advertising FZ-LLC All Rights Reserved
+-->
+<div id="856551828">
+    <script type="text/javascript">
+        try {
+            window._mNHandle.queue.push(function () {
+                window._mNDetails.loadTag("856551828", "600x300", "856551828");
+            });
+        }
+        catch (error) {
+        }
+    </script>
+</div></td></tr></table>
+
+			</div>
+
+			<div>
+				<!-- MARKET SLANT -->
+				<div id="market-slant" class="article-list-block">
+					<div class="header-title"><a href="https://marketplace.kitco.com/" target="_blank"><img src="/images/kitco_marketplace_left.png" alt="Market Slant" class="logo-ms" /></a>
+					</div>
+					<div class="article-list">
+						
+							<div id="main-headline" class="hasimage">
+	<a href="/business-trends/marketplace/This-New-York-Forex-Training-Course-Is-Just-19-Right-Now.html" target="_blank" class="article-img" id="2961677">
+		<img width="160" src="https://www.kitco.com/news/2019-02-01/images/sale_16392_primary_image_wide.gif" />
+	</a>
+	<div class="content">
+		<a href="/business-trends/marketplace/This-New-York-Forex-Training-Course-Is-Just-19-Right-Now.html" target="_blank" id="2961677" class="article-title" target="_blank">This New York Forex Training Course Is Just $19 Right Now</a>
+		<span class="source">Marketplace Editorial</span><span class="post-date">Dec 20</span>
+		<p> </p>
+	</div>
+</div>
+					
+
+						
+							<div class="top15">
+							<a href="/business-trends/marketplace/This-New-York-Forex-Training-Course-Is-Just-19-Right-Now.html" id="2961677" class="article-title" title= "This New York Forex Training Course Is Just $19 Right Now" target="_blank">This New York Forex Training Course Is Just $19 Right Now</a>
+							<span class="source">Marketplace Editorial</span><span class="post-date">Dec 20</span>
+							</div>
+					
+
+							<div class="top15">
+							<a href="/business-trends/marketplace/Bringing-You-The-Best-The-Internet-Has-To-Offer-Kitco-Marketplace.html" id="2961631" class="article-title" title= "Bringing You The Best The Internet Has To Offer - Kitco Marketplace" target="_blank">Bringing You The Best The Internet Has To Offer - Kitco Marketplace</a>
+							<span class="source">Kitco Marketplace</span><span class="post-date">Dec 20</span>
+							</div>
+					
+
+							<div class="top15">
+							<a href="/business-trends/marketplace/Your-Future-Self-Will-Thank-You-For-This-Budgeting-App.html" id="2965731" class="article-title" title= "Your Future Self Will Thank You For This Budgeting App" target="_blank">Your Future Self Will Thank You For This Budgeting App</a>
+							<span class="source">Marketplace Editorial</span><span class="post-date">Jan  9</span>
+							</div>
+					
+
+							<div class="top15">
+							<a href="/business-trends/marketplace/This-Finance-Course-is-Like-Hacking-Your-Own-Budget.html" id="2965714" class="article-title" title= "This Finance Course is Like Hacking Your Own Budget" target="_blank">This Finance Course is Like Hacking Your Own Budget</a>
+							<span class="source">Marketplace Editorial</span><span class="post-date">Jan  9</span>
+							</div>
+					
+
+							<div class="top15">
+							<a href="/business-trends/marketplace/Get-30-hours-of-blockchain-training-for-just-19.html" id="2965710" class="article-title" title= "Get 30+ Hours of Blockchain Training for Just $19" target="_blank">Get 30+ Hours of Blockchain Training for Just $19</a>
+							<span class="source">Marketplace Editorial</span><span class="post-date">Jan  9</span>
+							</div>
+					
+
+							<div class="top15">
+							<a href="/business-trends/marketplace/Turn-Mountains-of-Data-Into-Easy-to-Read-Charts-With-This-Tableau-Bundle.html" id="2965709" class="article-title" title= "Turn Mountains of Data Into Easy-to-Read Charts With This Tableau Bundle" target="_blank">Turn Mountains of Data Into Easy-to-Read Charts With This Tableau Bundle</a>
+							<span class="source">Marketplace Editorial</span><span class="post-date">Jan  9</span>
+							</div>
+					
+
+					</div>
+					<a class="btn-view-more" href="https://marketplace.kitco.com/" target="_blank">SHOP NOW</a>
+					<a style="float: right;" class="btn-view-more" href="https://www.kitco.com/contributors/KitcoMarketplace/" target="_blank"><span class="sign-plus">+</span>More Kitco Marketplace</a>
+				</div>
+				<!-- END MARKET SLANT -->
+
+				<!-- mmg -->
+				<div class="mmg">
+					<div class="title">
+						<h5><a target="_blank" href="http://www.kitco.com/contributors/MarketOneMediaGroup">Investment Trends</a></h5>
+						<p>Sponsored Content from Market One Media</p>
+					</div>
+					<div class="articles">
+						
+							<div class="article hasimage">
+							<a href="/commentaries/investment-trends/2019-02-18/Kimberlite-exploration-in-Northwestern-Australia.html" id="2978982" title= "Kimberlite exploration in Northwestern Australia ">
+								<img width="110" src="https://www.kitco.com/news/2019-02-18/images/Bruce_Counts.png" />
+							</a>
+							<a href="/commentaries/investment-trends/2019-02-18/Kimberlite-exploration-in-Northwestern-Australia.html" id="2978982" title= "Kimberlite exploration in Northwestern Australia ">Kimberlite exploration in Northwestern Australia </a>
+						</div>
+					
+
+							<div class="article hasimage">
+							<a href="/commentaries/investment-trends/2018-11-01/New-Age-Metals-CEO-discusses-how-they-differentiate-from-other-green-metals-Video.html" id="2938967" title= "New Age Metals CEO discusses how they differentiate from other green metals (Video) ">
+								<img width="110" src="https://www.kitco.com/news/2018-11-01/images/NAM-Kitco.png" />
+							</a>
+							<a href="/commentaries/investment-trends/2018-11-01/New-Age-Metals-CEO-discusses-how-they-differentiate-from-other-green-metals-Video.html" id="2938967" title= "New Age Metals CEO discusses how they differentiate from other green metals (Video) ">New Age Metals CEO discusses how they differentiate from ...</a>
+						</div>
+					
+
+							<div class="article hasimage">
+							<a href="/commentaries/investment-trends/2018-10-30/Ian-Stalker-appointed-to-advisor-role-with-European-Electric-Metals.html" id="2936724" title= "Ian Stalker appointed to advisor role with European Electric Metals">
+								<img width="110" src="https://www.kitco.com/news/2018-10-30/images/EVX4-Kitco.jpg" />
+							</a>
+							<a href="/commentaries/investment-trends/2018-10-30/Ian-Stalker-appointed-to-advisor-role-with-European-Electric-Metals.html" id="2936724" title= "Ian Stalker appointed to advisor role with European Electric Metals">Ian Stalker appointed to advisor role with European ...</a>
+						</div>
+					
+
+							<div class="article hasimage">
+							<a href="/commentaries/investment-trends/2018-10-25/Analysts-warn-of-cobalt-supply-shocks-by-the-early-2020s.html" id="2933849" title= "Analysts warn of cobalt "supply shocks" by the early 2020s">
+								<img width="110" src="https://www.kitco.com/news/2018-10-24/images/Kitco-Main_Image.jpg" />
+							</a>
+							<a href="/commentaries/investment-trends/2018-10-25/Analysts-warn-of-cobalt-supply-shocks-by-the-early-2020s.html" id="2933849" title= "Analysts warn of cobalt "supply shocks" by the early 2020s">Analysts warn of cobalt "supply shocks" by the early 2020s</a>
+						</div>
+					
+
+						<a class="link" href="http://www.kitco.com/contributors/MarketOneMediaGroup/">+ More Investment Trends</a>
+						<a target="_blank" href="http://www.kitco.com/business-trends/kitco-mining-audience-mmg.html">
+							<img src="/images/mmg/mmg.png" alt="Market One Media">
+						</a>
+					</div>
+				</div>
+				<!-- end mmg -->
+			</div>
+
+			<div class="ad_space_blk">
+				<div class="fleft" style="margin-left:10px;"><table border='0' cellspacing='0'><tr><td><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22554256/KC_AMQ_ATF_1ST_336X280', [336, 280], 'div-gpt-ad-1491830961730-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- /22554256/KC_AMQ_ATF_1ST_336X280 -->
+<div id='div-gpt-ad-1491830961730-0' style='height:280px; width:336px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491830961730-0'); });
+</script>
+</div></td></tr></table>
+</div>
+				<div class="fleft" style="margin-left:10px;"><table border='0' cellspacing='0'><tr><td><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22554256/KC_AMQ_ATF_2ND_336X280', [336, 280], 'div-gpt-ad-1491831353469-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- /22554256/KC_AMQ_ATF_2ND_336X280 -->
+<div id='div-gpt-ad-1491831353469-0' style='height:280px; width:336px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491831353469-0'); });
+</script>
+</div></td></tr></table>
+</div>
+			</div>
+
+			<!-- HEADLINES BEGIN -->
+			<!-- MARKET NEWS & STREET TALK -->
+			<div class="article-list-block" id="headlines">
+				<h1>Gold And Silver Prices, News and Quotes</h1>
+				<!-- Main Headline -->
+				
+					<div id="main-headline" class="hasimage">
+					<a href="/commentaries/2019-02-22/Did-Yesterday-s-Sell-Off-Signal-a-Shift-in-Market-Sentiment.html" target="" class="article-img" id="2980971">
+					<img src="https://www.kitco.com/news/2019-02-22/images/2_22_19_c1.png" />
+					</a>
+					<a href="/commentaries/2019-02-22/Did-Yesterday-s-Sell-Off-Signal-a-Shift-in-Market-Sentiment.html" target="" id="2980971" class="article-title" target="">Did Yesterdayâs Sell-Off Signal a Shift in Market Sentiment?</a>
+					<span class="post-date">Kitco Commentary</span><span class="source"> | Feb 22</span>
+					<p>Did Yesterdayâs Sell-Off Signal a Shift in Market Sentiment?</p>
+					</div>
+					
+
+				<!-- Start list -->
+				<div class="article-list">
+					
+							<div>
+<a href="/news/2019-02-22/Barrick-Newmont-Report-Seen-As-Sign-Of-Continuing-Consolidation.html" id="2980891" target="" class="article-title" title="Barrick-Newmont Report Seen As Sign Of Continuing Consolidation">Barrick-Newmont Report Seen As Sign Of Continuing ...<span class="source">- Kitco News</span></a>
+<span class="post-date">Feb 22</span>
+</div>
+					
+
+							<div>
+<a href="/news/2019-02-22/Wall-St-Main-St-Still-See-Gold-Bull-Running-Strong.html" id="2980889" target="" class="article-title" title="Wall St., Main St. Still See Gold Bull Running Strong">Wall St., Main St. Still See Gold Bull Running Strong<span class="source">- Kitco News</span></a>
+<span class="post-date">Feb 22</span>
+</div>
+					
+
+							<div>
+<a href="/news/2019-02-22/Gold-Continues-Advance-In-Midday-U-S-Trading.html" id="2980884" target="" class="article-title" title="Gold Continues Advance In Midday U.S. Trading">Gold Continues Advance In Midday U.S. Trading<span class="source">- Kitco News</span></a>
+<span class="post-date">Feb 22</span>
+</div>
+					
+
+							<div>
+<a href="/news/2019-02-22/Barrick-Says-It-Has-Reviewed-Potential-Merger-With-Newmont.html" id="2980801" target="" class="article-title" title="Barrick Says It Has 'Reviewed' Potential Merger With Newmont">Barrick Says It Has 'Reviewed' Potential Merger With ...<span class="source">- Kitco News</span></a>
+<span class="post-date">Feb 22</span>
+</div>
+					
+
+							<div>
+<a href="/news/2019-02-22/Wheaton-Precious-Metals-2018-Production-Exceeds-Guidance.html" id="2980803" target="" class="article-title" title="Wheaton Precious Metals: 2018 Production Exceeds Guidance">Wheaton Precious Metals: 2018 Production Exceeds Guidance<span class="source">- Kitco News</span></a>
+<span class="post-date">Feb 22</span>
+</div>
+					
+
+							<div>
+<a href="/news/2019-02-22/Gold-Silver-Mining-Daily-News-Briefs.html" id="2980824" target="" class="article-title" title="Pan American Silver Completes Acquisition Of Tahoe Resources">Pan American Silver Completes Acquisition Of Tahoe ...<span class="source">- Kitco News</span></a>
+<span class="post-date">Feb 22</span>
+</div>
+					
+
+							<div>
+<a href="/commentaries/2019-02-22/Is-the-Recent-Rise-in-Gold-Predicting-Coming-Stagflation.html" id="2980782" target="" class="article-title" title="Is the Recent Rise in Gold Predicting Coming Stagflation?">Is the Recent Rise in Gold Predicting Coming Stagflation?<span class="source">- David Erfle</span></a>
+<span class="post-date">Feb 22</span>
+</div>
+					
+
+							<div>
+<a href="/commentaries/2019-02-22/Gold-Gets-Hammered-Should-We-Be-Surprised.html" id="2980772" target="" class="article-title" title="Gold Gets Hammered; Should We Be Surprised?  ">Gold Gets Hammered; Should We Be Surprised?  <span class="source">- Kitco Commentary</span></a>
+<span class="post-date">Feb 22</span>
+</div>
+					
+
+				</div>
+				<!-- END list -->
+				<div style="float: left;">
+					<!-- #noinclude virtual="/ssi/banner1004.stm" -->
+				</div>
+				<div class="bottom-panel">
+					<a class="btn-view-more" href="/market/marketnews.html#all-news" target="_blank"><span class="sign-plus">+</span>More News</a>
+					<form id="search-news-form" name="formSearchNews" method="POST" action="/scripts/news/search.pl">
+						<input type="text" name="headline" value="" placeholder="Search All News" size="30">
+						<input type="submit" name="Submit" value="&gt;">
+					</form>
+				</div>
+			</div>
+			<!-- END HEADLINES -->
+
+
+
+			<!-- Start outbrain-->
+			<div>
+				<table border='0' cellspacing='0'><tr><td><div class="OUTBRAIN" data-src="https://www.kitco.com/market/" data-widget-id="AR_1" data-ob-template="Kitco"></div>
+<div class="OUTBRAIN" data-src="https://www.kitco.com/market/" data-widget-id="AR_2" data-ob-template="Kitco"></div> 
+<script type="text/javascript" async="async" src="//widgets.outbrain.com/outbrain.js"></script></td></tr></table>
+
+			</div>
+			<!-- End outbrain-->
+
+			<!-- BOTTOM SEARCH BOX -->
+			<div id="bottom_searchbox">
+				<form class="search_form" id="searchbox_005714109126126132361:dr5pstxsc8o" action="/search/">
+				  <input class="search_box" name="q" size="70" type="text" placeholder="Search Kitco.com" required />
+				  <input value="&gt;" type="submit" class="search_button" />
+				</form>
+			</div>
+		</div>
+		<div id="rightcol">
+			<!-- AddThis Button BEGIN -->
+			<div class="grey-container">
+					<!-- AddThis Button BEGIN with margin-left: 25px; -->
+		<![if !IE 7]>
+			<div id="addthis" class="addthis_toolbox addthis_default_style addthis_32x32_style" style="250px !important;margin: 0 0 10px 25px;">
+			<a class="addthis_button_preferred_1"></a>
+			<a class="addthis_button_preferred_2"></a>
+			<a class="addthis_button_preferred_3"></a>
+			<a class="addthis_button_preferred_4"></a>
+			<a class="addthis_button_compact"></a>
+			<a class="addthis_counter addthis_bubble_style"></a>
+			</div>
+			<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+			<script type="text/javascript">
+			var addthisScript = document.createElement('script');
+			addthisScript.setAttribute('src', '//s7.addthis.com/js/300/addthis_widget.js#domready=1')
+			document.body.appendChild(addthisScript)
+			</script>
+		<![endif]>
+		<!-- AddThis Button END -->
+
+			</div>
+			<!-- AddThis Button END -->
+
+			<div class="item_container_right">
+				<table border='0' cellspacing='0'><tr><td><script src='//ads.investingchannel.com/adtags/Kitco/quotepages/300x60.js' type='text/javascript' charset='utf-8'></script></td></tr></table>
+
+			</div>
+
+			<div class="item_container_right">
+				<table border='0' cellspacing='0'><tr><td><script src="https://ads.investingchannel.com/adtags/Kitco/commodities_quotes/300x250.js?zhpos=300_1&multi_size=false" type="text/javascript"></script></td></tr></table>
+
+			</div>
+
+			<!-- KITCO VIDEO NEWS -->
+			<!--#noinclude virtual="/ssi/videonewsiframe.stm" -->
+			<div class="item_container_right adfree_hide">
+				<div class="video-news-widget">
+					<div class="title_info">
+						<h2 class="item_title_info"><a target="_blank" href="http://www.kitco.com/news/video/">Video News</a></h2>
+					</div>
+					<div class="item_border">
+						<div class="latest-video"></div>
+						<div class="slideshow">
+							<div class="slideshow-controller prev">
+								<p>&#8249;</p>
+							</div>
+							<div class="slideshow-wrapper"></div>
+							<div class="slideshow-controller next">
+								<p>&#8250;</p>
+							</div>
+						</div>
+						<div class="btn">
+							<a class="widget_btm_link" target="_blank" href="http://www.kitco.com/news/video/">More Videos...</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- new banner -->
+			<div class="item_container_right adfree_hide">
+				<table border='0' cellspacing='0'><tr><td><script src='//ads.investingchannel.com/adtags/Kitco/quotepages/300x384.js?pc=pc&' type='text/javascript' charset='utf-8'></script> </td></tr></table>
+
+			</div>
+
+			<div class="item_container_right adfree_hide">
+				<!--#noinclude virtual="/ssi/banner1008.stm" -->
+			</div>
+
+			<div class="item_container_right adfree_hide">
+				<table border='0' cellspacing='0'><tr><td><link rel="stylesheet" href="//www.kitco.com/css/widget.css">
+<div class="online-store-widget--300x250" data-src-name="banner01">
+	<div class="online-store-widget--header">
+		<div class="online-store-widget--header---logo">
+			<a target="_blank" href="//www.kitco.com/">
+				<img src="//www.kitco.com/images/logo_kitco_original.gif" alt="Kitco Logo">
+			</a>
+		</div>
+		<div class="online-store-widget--header---pagination">
+			<div>
+				<div class="arrow left"></div>
+				<p>More</p>
+				<div class="arrow right"></div>
+			</div>
+		</div>
+		<div class="online-store-widget--header---button">
+		  <a target="_blank" href="https://online.kitco.com/">
+				<p>Buy/Sell</p>
+		  </a>
+		</div>
+	</div>
+	<div class="online-store-widget--content"></div>
+</div>
+<script src="//www.kitco.com/jscripts/widget.js?type=fullsite" charset="utf-8"></script>
+<script type="text/javascript">(function() { $().onlinestorewidget({ mainSelector: 'online-store-widget--300x250', pageSize: 3 }); })();</script>
+</td></tr></table>
+
+			</div>
+
+			<div class="item_container_right adfree_hide fixed-banner2">
+				
+			</div>
+
+			<div class="item_container_right "> <!-- Sponsored Financial Content -->
+				<table border='0' cellspacing='0'><tr><td><script src='https://ads.investingchannel.com/cp/kitco/146/750.js' type='text/javascript' charset='utf-8'></script></td></tr></table>
+
+			</div>
+			<div class="item_container_right fixed-banner">
+				<table border='0' cellspacing='0'><tr><td><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/22554256/KC_AMQ_RH_BB_3RD_300X250', [300, 250], 'div-gpt-ad-1491576910134-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- /22554256/KC_AMQ_RH_BB_3RD_300X250 -->
+<div id='div-gpt-ad-1491576910134-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491576910134-0'); });
+</script>
+</div></td></tr></table>
+
+			</div>
+		</div>
+
+	</div>
+</div>
+<!-- END BODY -->
+
+<div id="footer">
+	 <link rel="stylesheet" href="/css/footer.css" media="screen">
+<style>
+  #cat-charts {
+    display: table;
+    width: 100%;  
+  }
+</style>
+
+<div id="footer">
+  <style media="screen">
+  #footer {
+    margin: 0;
+  }
+</style>
+
+<div class="footer">
+    <div class="footer-wrapper">
+        <div class="one-fourth--footer">
+            <h5 class="footer--category-title">Kitco</h5>
+            <ul class="footer--category-links">
+                <li><a href="/">Home</a></li>
+                <li><a href="/market/">All Metal Quotes</a></li>
+                <li><a href="/charts/">Charts &amp; Data</a></li>
+                <li><a href="/finance/">Markets</a></li>
+                <li><a href="/news/">News</a></li>
+                <li><a href="/commentaries/">Commentaries</a></li>
+                <li><a href="/mining/">Mining</a></li>
+            </ul>
+            <h5 class="footer--category-title">Connect</h5>
+            <ul class="footer--category-links">
+                <li><a href="http://corp.kitco.com">About Us</a></li>
+                <li><a href="/news/about/">Kitco Media</a></li>
+                <li><a href="http://corp.kitco.com/en/corporate_culture.html">Careers</a></li>
+                <li><a href="http://corp.kitco.com/en/contact.html#lhs_container">Contact Us</a></li>
+                <li><a href="/advertising/">Advertise With Us</a></li>
+            </ul>
+        </div>
+        <div class="one-fourth--footer">
+            <h5 class="footer--category-title">Tools</h5>
+            <ul class="footer--category-links">
+                <li><a href="/kitco-gold-index.html">Kitco Gold Index</a></li>
+                <li><a href="http://charts.kitco.com/KitcoCharts">Interactive Gold Chart</a></li>
+                <li><a href="/bitcoin-price-charts-usd/">Bitcoin in USD</a></li>
+                <li><a href="/finance/forex/">Currency Converter</a></li>
+                <li><a href="/jewelry/">ScrapIt!</a></li>
+                <li><a href="http://applications.kitco.com/supportcenter/">Mobile Application</a></li>
+                <li><a href="/sitemap/">Site Map</a></li>
+            </ul>
+            <ul class="footer--category-links with-icon">
+              <li><a href="https://online.kitco.com?utm_source=kitco.com&utm_medium=referral&utm_content=Footer-Shopping-Cart&utm_campaign=2017-02-16_kitcoweb"><i class="sprite sprite-shopping-cart"></i> Online Store</a></li>
+            </ul>
+            <ul class="footer--category-links with-icon">
+              <li><i style="vertical-align: baseline;" class="sprite sprite-envelope-light"></i> <span style="display: inline-block; vertical-align: bottom; margin-right: -45px;">Be informed of our special offers, <br>alerts and news.</span></li>
+              <a href="http://connect.kitco.com/subscription/newsletter.html"><button>Sign Up</button></a>
+            </ul>
+        </div>
+        <div class="one-fourth--footer">
+          <h5 style="color: #FFF;" class="footer--category-title"><i class="sprite sprite-speech-bubble"></i> We appreciate your feedback.</h5>
+          <form class="feedback-footer" action="" method="post">
+            <input type="text" id="ft_cname" name="cname" value="" placeholder="Name">
+            <input type="text" id="ft_email" name="email" value="" placeholder="Email">
+            <input type="text" name="subject" id="ft_subject" value="" placeholder="Subject">
+            <textarea name="comments" id="ft_comments" rows="6" cols="33" placeholder="Message"></textarea>
+            <button type="submit" name="submit" onclick="submit_feedback();">Submit</button>
+          </form>
+        </div>
+        <div class="one-fourth--footer">
+          <div class="mobile-app">
+            <img src="/images/footer/mobile.png" alt="Android, iPhone Kitco apps" height="244" width="281" />
+            <ul style="margin-left: 17px;" class="footer--category-links with-icon">
+              <a href="http://applications.kitco.com/supportcenter/"><button style="width: 100%;"><i style="display: inline-block; vertical-align: middle;" class="sprite sprite-smartphone-dark"></i> Visit Kitco Mobile Apps</button></a>
+            </ul>
+          </div>
+        </div>
+    </div>
+    <hr>
+    <div class="footer-wrapper">
+      <div class="one-fourth--footer">
+        <ul class="footer--category-links with-icon">
+          <li style="margin-top: -22px;"><i class="sprite sprite-smartphone"></i> <span style="display: inline-block; vertical-align: bottom;">How can we help you? <br> 1 877 775 - 4826</span></li>
+        </ul>
+      </div>
+    </div>
+    <div class="one-fourth--footer">
+      <ul class="footer--category-links social-links">
+        <li><a target="_blank" href="http://www.facebook.com/KitcoNews"><i class="sprite sprite-facebook"></i></a></li>
+        <li><a target="_blank" href="http://twitter.com/kitconewsnow"><i class="sprite sprite-twitter"></i></a></li>
+        <li><a target="_blank" href="http://www.linkedin.com/company/kitco-metals-inc."><i class="sprite sprite-linkedin"></i></a></li>
+        <li><a target="_blank" href="http://www.youtube.com/user/KitcoNews"><i class="sprite sprite-youtube"></i></a></li>
+        <li><a target="_blank" href="https://www.instagram.com/kitconews/"><i class="sprite sprite-instagram"></i></a></li>
+      </ul>
+    </div>
+    <div class="one-fourth--footer">
+      <ul class="footer--category-links with-icon">
+        <li style="margin-top: -22px;"><i class="sprite sprite-envelope"></i> <span style="display: inline-block; vertical-align: bottom;">Drop us a line <br> <strong>info&commat;kitco.com</strong><span></li>
+      </ul>
+    </div>
+    <div class="one-fourth--footer play-store">
+      <a href="https://play.google.com/store/apps/developer?id=Kitco+Metals+Inc&hl=en"><img src="/images/footer/google-play.png" alt="Google Play"></a>
+      <a href="https://itunes.apple.com/ca/developer/kitco-metals-inc/id298687561"><img src="/images/footer/app-store.png" alt="App Store"></a>
+    </div>
+    <hr>
+    <div class="footer-wrapper">
+      <div class="one-fourth--footer">
+        <a style="float: left; margin-top: 5px;" href="/"><img src="/images/footer/kitco-logo.png" alt="Kitco" class="logo"></a>
+      </div>
+      <div class="one-fourth--footer legal">
+        <a href="/termsofuse/">Website Terms of Use </a> <span style="text-decoration: none; float: left;">&nbsp; | &nbsp;</span>
+        <a href="https://online.kitco.com/legal/terms-and-conditions">Terms &amp; Conditions</a>
+        <br>
+        <a href="https://online.kitco.com/legal/privacy-policy">Privacy Policy</a>
+      </div>
+      <div class="one-fourth--footer"></div>
+      <div class="one-fourth--footer">
+        <p style="color: #FFF; font-size: 12px; float: right; margin-top: 20px;" class="copyright"></p>
+      </div>
+    </div>
+</div>
+
+</div>
+
+<script src="//tags.crwdcntrl.net/c/3090/cc_af.js"></script>
+<script type="text/javascript">
+  (function() {
+    var year = new Date();
+    document.getElementsByClassName('copyright')[0].innerHTML = '&copy; ' + year.getFullYear() + ' Kitco Metals Inc.';
+  })();
+</script>
+<script type="text/javascript">
+function NavOutAlert(site) //navigate away alert, for now, only alert 
+{
+	if(site.search("forum")>=0)
+	{
+		alert('You are going to the Kitco Gold Forum which has not yet been transitioned to our new menu system. Thank you for visiting our new site. To come back, go to http://www.kitco.com.');
+	}
+	return true;
+}
+
+function checkUrl(url)
+{
+	return "";
+}
+</script>
+
+
+
+
+
+
+
+</div>
+
+
+<!-- Market Indices cloned searchbox -->
+<!-- 
+	This box a cloned search box for  Market Indices boxes (on homepage, market page & some charts pages)
+	The reason of making a clone is because the content after the search box cannot be loaded if barchart's search box
+	is not loaded. So we put the below code at the end of the page and copy the script to the symbol_search_form_container
+	once the page is fully loaded
+-->
+<div id="search_box_clone" style="display:none;">
+	<script type="text/javascript" src='//kitco2.websol.barchart.com/?module=basicSearchForm&js=1&popup=1'></script>
+</div>
+<script>
+	document.getElementById ('symbol_search_form_container').innerHTML = document.getElementById ('search_box_clone').innerHTML;
+	document.getElementById ('search_box_clone').innerHTML = "";
+	var sym_search_input = document.getElementById('ac-input');
+	if ( sym_search_input != null ) 
+	{
+		sym_search_input.placeholder = "Symbol or name";
+	}
+</script>
+
+
+<script src="/jscripts/kitco.market.index.min.js" type="text/javascript"></script>
+<script src="/jscripts/utils/xml2json.js" type="text/javascript"></script>
+<script src="/jscripts/json2.js" type="text/javascript"></script>
+<script src="/jscripts/favorites.js" type="text/javascript"></script>
+<script src="/jscripts/market-functions.js" type="text/javascript"></script>
+<script>
+	var KGX=[
+		{"metal":"au", "updown":"data_row green","title":"Did Gold really go up <span class='change-value'>4.90 <span class='change-per'>(0.37%)</span></span>","answer":"Yes. The weakened US Dollar was responsible for 0.90 of that increase."},
+		{"metal":"ag", "updown":"data_row2 green","title":"Did Silver really go up <span class='change-value'>0.13 <span class='change-per'>(0.86%)</span></span>","answer":"Yes. The weakened US Dollar was responsible for 0.01 of that increase."},
+		{"metal":"au", "updown":"data_row green","title":"Did Gold really go up <span class='change-value'>4.90 <span class='change-per'>(0.37%)</span></span>","answer":"Yes. The weakened US Dollar was responsible for 0.90 of that increase."},
+		{"metal":"pt", "updown":"data_row green","title":"Did Platinum really go up <span class='change-value'>19.00 <span class='change-per'>(2.31%)</span></span>","answer":"Yes. The weakened US Dollar was responsible for 0.60 of that increase."},
+		{"metal":"au", "updown":"data_row green","title":"Did Gold really go up <span class='change-value'>4.90 <span class='change-per'>(0.37%)</span></span>","answer":"Yes. The weakened US Dollar was responsible for 0.90 of that increase."},
+		{"metal":"pd", "updown":"data_row2 green","title":"Did Palladium really go up <span class='change-value'>23.00 <span class='change-per'>(1.59%)</span></span>","answer":"Yes. The weakened US Dollar was responsible for 1.00 of that increase."},
+		{"metal":"au", "updown":"data_row green","title":"Did Gold really go up <span class='change-value'>4.90 <span class='change-per'>(0.37%)</span></span>","answer":"Yes. The weakened US Dollar was responsible for 0.90 of that increase."},
+		{"metal":"crude_oil", "updown":"data_row green","title":"Did Crude Oil really go up <span class='change-value'>0.11 <span class='change-per'>(0.19%)</span></span>","answer":"Yes. The weakened US Dollar was responsible for 0.07 of that increase."},
+	];
+
+	var KGX_index= 0;
+	var KGX_no_news=8;
+	var intval = 12000;
+	var KGX_pause = 0;
+	setInterval( "KGX_message();", intval);
+</script>
+
+
+</div> <!-- overlay end -->
+</body>
+</html>

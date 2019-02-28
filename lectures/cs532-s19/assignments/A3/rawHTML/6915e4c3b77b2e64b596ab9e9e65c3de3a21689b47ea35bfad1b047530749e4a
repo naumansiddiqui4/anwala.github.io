@@ -1,0 +1,1095 @@
+<!doctype html>
+<html class="ArticlePage" lang="es" itemscope itemtype="http://schema.org/WebPage" data-smallheader>
+ <head>
+  <meta charset="UTF-8"> 
+  <link id="skincss" rel="stylesheet" href="https://cdn-3.expansion.mx/resource/00000163-1c6e-d902-a9f3-de7e186e0000/styleguide/skins/expansion/All.min.79fd1a721c89e2f8a2c844df87a838e3.gz.css"> 
+  <style>.AppPromoList>[data-module-contents]{
+    padding: 10px 0px;
+}
+
+.AppPromoList .flickity-prev-next-button{
+	width: 24px;
+}</style> 
+  <style>.Page-above {
+    z-index: 2;
+    position: relative;
+}
+.Page-above .GoogleDfpAd-wrap {
+	z-index: 1;
+}</style> 
+  <style>  
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700');
+/*ADS*/
+.GoogleDfpAd-wrap {
+    position:relative;
+    width: 100%;
+    margin: 50px 0;
+    border-top: 1px solid #F3F3F3;
+    padding: 20px 0;
+    border-bottom: 1px solid #F3F3F3;
+    position:relative !important;
+    background:#F7F7F7 !important;
+}
+.GoogleDfpAd-wrap > *{
+   background:none !important;   
+}
+.oop .GoogleDfpAd-wrap {
+    border: 0;
+}
+.oop .GoogleDfpAd-label {
+    display: none;
+}
+/*FONT SIZE*/
+.RichTextArticleBody-body {
+    font-size: 18px;
+    line-height: 28px;
+    font-family: Georgia !important;
+}
+.ArticlePage-subHeadline {
+    font-size: 16px;
+    line-height: 24px;
+}
+.ArticleLeadFigure-info, .Figure-info, .FigureAbstract-info, .FigureUnconstrained-info, .GexPromo-info {
+    font-size: 13px;
+    line-height: 1.5;
+}
+/*PLAYLIST FONT WEIGHT*/
+.LinkListPromo-title a {
+    font-weight: 400;
+}
+/*HEADLINE FONT FAMILY*/
+h1.ArticlePage-headline {
+    text-transform: none !important;
+    font-family: 'Ubuntu' !important;
+    font-weight: 700;
+    line-height:1.15;
+}
+/*PLAYLIST LINE*/
+.ArticlePage-aside, .ArticlePageBasic-aside, .InfographPage-aside {
+    border-right: none !important;
+}
+.ArticlePage-aside[data-asidewell], .ArticlePageBasic-aside[data-asidewell], .InfographPage-aside[data-asidewell] {
+    border-right: none !important;
+}
+/*MOBILE SIDE PADDING*/
+@media only screen and (max-width: 767px) and (min-width: 568px), only screen and (max-width: 567px){
+    .ArticlePage-layoutWrap, .ArticlePageBasic-layoutWrap, .InfographPage-layoutWrap, .ListiclePage-layoutWrap, .LiveArticlePage-layoutWrap {
+        width: 100%;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+</style> 
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Microsoft capacitará a 40,000 jóvenes mexicanos</title>
+  <meta name="description" content="A través de un convenio de colaboración con la STPS, el IMJUVE y el Organismo Internacional de Juventud para Iberoamérica la tecnológica quiere apoyar a la juventud ">
+  <meta name="keywords" content="OIJ,STPS,Colaboración,educación ,microsoft,Imjuve,tecnología,Tecnología">
+  <link rel="canonical" href="https://expansion.mx/tecnologia/2019/02/14/microsoft-capacitara-a-40-000-jovenes-mexicanos">
+  <meta name="brightspot.contentId" content="00000168-ee5a-df77-a7fd-fede98870003">
+  <link rel="amphtml" href="https://expansion.mx/tecnologia/2019/02/14/microsoft-capacitara-a-40-000-jovenes-mexicanos?_amp=true"> 
+  <meta property="og:title" content="Microsoft capacitará a 40,000 jóvenes mexicanos"> 
+  <meta property="og:url" content="https://expansion.mx/tecnologia/2019/02/14/microsoft-capacitara-a-40-000-jovenes-mexicanos"> 
+  <meta property="og:image" content="https://cdn-3.expansion.mx/dims4/default/da3967d/2147483647/strip/true/crop/3008x2008+0+0/resize/1200x801!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2F38%2F69f750604151b2312bd159eb00fe%2Fkeynote-1-1.JPG"> 
+  <meta property="og:image:url" content="https://cdn-3.expansion.mx/dims4/default/da3967d/2147483647/strip/true/crop/3008x2008+0+0/resize/1200x801!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2F38%2F69f750604151b2312bd159eb00fe%2Fkeynote-1-1.JPG"> 
+  <meta property="og:image:secure_url" content="https://cdn-3.expansion.mx/dims4/default/da3967d/2147483647/strip/true/crop/3008x2008+0+0/resize/1200x801!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2F38%2F69f750604151b2312bd159eb00fe%2Fkeynote-1-1.JPG"> 
+  <meta property="og:image:width" content="1200"> 
+  <meta property="og:image:height" content="801"> 
+  <meta property="og:image:type" content="image/png"> 
+  <meta property="og:image:alt" content="Satya Nadella"> 
+  <meta property="og:description" content="A través de un convenio de colaboración con la STPS, el IMJUVE y el Organismo Internacional de Juventud para Iberoamérica la tecnológica quiere apoyar a la juventud "> 
+  <meta property="og:site_name" content="Expansión"> 
+  <meta property="og:type" content="article"> 
+  <meta property="article:author" content="https://expansion.mx/autor/erendira-reyes"> 
+  <meta property="article:published_time" content="2019-02-14T23:42:34.593"> 
+  <meta property="article:modified_time" content="2019-02-15T00:06:17.094"> 
+  <meta property="article:section" content="Tecnología"> 
+  <meta property="article:tag" content="Tecnología"> 
+  <meta property="article:tag" content="Tecnología"> 
+  <meta property="article:tag" content="Tecnología portátil"> 
+  <meta property="article:tag" content="Microsoft Corp"> 
+  <meta property="article:tag" content="Secretaría del Trabajo y Previsión Social"> 
+  <meta name="twitter:card" content="summary_large_image"> 
+  <meta name="twitter:creator" content="@eresinaeresina"> 
+  <meta name="twitter:description" content="A través de un convenio de colaboración con la STPS, el IMJUVE y el Organismo Internacional de Juventud para Iberoamérica la tecnológica quiere apoyar a la juventud "> 
+  <meta name="twitter:image" content="https://cdn-3.expansion.mx/dims4/default/da3967d/2147483647/strip/true/crop/3008x2008+0+0/resize/1200x801!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2F38%2F69f750604151b2312bd159eb00fe%2Fkeynote-1-1.JPG"> 
+  <meta name="twitter:image:alt" content="Satya Nadella"> 
+  <meta name="twitter:site" content="@expansionmx"> 
+  <meta name="twitter:title" content="Microsoft capacitará a 40,000 jóvenes mexicanos"> 
+  <meta property="fb:app_id" content="777317472403233"> 
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" href="/favicon-16x16.png"> 
+  <meta name="brightspot.cached" content="false"> 
+  <script src="https://cdn-3.expansion.mx/resource/00000163-1c6e-d902-a9f3-de7e186e0000/styleguide/All.min.6c21a72cb820e992d1e039cb1a816fd4.gz.js" async></script>
+  <!-- Google Tag Manager All --> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-522J7L');</script> 
+  <!-- End Google Tag Manager All --> 
+  <script async src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+  <script type="text/javascript" async src="https://cherry-brightspot.s3.amazonaws.com/resource/assets/uploaded/prebid/prebid1.37.0.js"></script> 
+  <script type="text/javascript">
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+
+  
+
+        var pbjs = pbjs || [];
+        pbjs.que = pbjs.que || [];
+
+        var PREBID_TIMEOUT = 3000;
+        var FAILSAFE_TIMEOUT = 1500;
+        var adUnits = [];
+
+        window.addEventListener("load", function() {
+
+             const adElts = document.getElementsByClassName('GoogleDfpAd');
+
+              for (var i = 0; i < adElts.length; ++i) {
+                const elt = adElts.item(i);
+
+                if (elt.dataset.bidders && elt.dataset.slotSizes) {
+                  adUnits.push({
+                    code: elt.id,
+                    mediaTypes : {
+                      banner:{
+                        sizes: JSON.parse(elt.dataset.slotSizes)
+                      }
+                    },
+                    bids: JSON.parse(elt.dataset.bidders)
+                  })
+                }
+              }
+
+              adUnits.map(function (el) {
+                 el.mediaTypes.banner.sizes = el.mediaTypes.banner.sizes.filter(function (s) {
+                    return typeof s != "string" && (s[0] != 0 && s[1] != 0)
+                  })
+                  .map(function (s) {
+                    return s.join(",")
+                  })
+                  .filter(function (v, i, a) {
+                    return a.indexOf(v) === i
+                  })
+                  .map(function (s) {
+                    return s.split(",").map(function (e) {
+                      return parseInt(e, 10)
+                    })
+                  });
+                return el
+              });
+
+              function sendAdserverRequest() {
+                if (pbjs.adserverRequestSent) {
+                  return;
+                }
+
+                googletag.cmd.push(function () {
+                  pbjs.que.push(function () {
+                    pbjs.setTargetingForGPTAsync();
+                    googletag.pubads().refresh();
+                      
+                  });
+                });
+                pbjs.adserverRequestSent = true;
+              }
+
+
+          pbjs.que.push(function () {
+            pbjs.addAdUnits(adUnits);
+            pbjs.setConfig({
+              debug: true,
+              priceGranularity: "dense",
+              enableSendAllBids: true
+            });
+
+
+
+            pbjs.requestBids({
+              bidsBackHandler: sendAdserverRequest,
+              timeout: PREBID_TIMEOUT
+            })
+          });
+
+        setTimeout(function() {
+            sendAdserverRequest();
+          }, FAILSAFE_TIMEOUT);
+
+       },false);
+
+        googletag.cmd.push(function () {
+          googletag.pubads().collapseEmptyDivs();
+          googletag.pubads().disableInitialLoad();
+          googletag.pubads().enableSingleRequest();
+          googletag.pubads().enableVideoAds();
+          googletag.companionAds().setRefreshUnfilledSlots(false);
+          googletag.enableServices()
+        });
+
+
+   
+
+</script> 
+  <script>
+
+  window.fbAsyncInit = function() {
+      FB.init({
+          
+              appId : '777317472403233',
+          
+          xfbml : true,
+          version : 'v2.9'
+      });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script> 
+ </head> 
+ <body class="ArticlePage-body"> 
+  <!-- Google Tag Manager (noscript) --> 
+  <noscript> 
+   <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-522J7L" height="0" width="0" style="display:none;visibility:hidden"></iframe> 
+  </noscript> 
+  <!-- End Google Tag Manager (noscript) --> 
+  <div class="oop"> 
+   <div data-module class="GoogleDfpAd-wrap" data-hide-timeout="0" data-button-delay="0"> 
+    <span class="GoogleDfpAd-label">Publicidad</span> 
+    <div id="googleAd8dbdc808-6acd-4e87-b3a6-70e557d9608b" class="GoogleDfpAd" data-ad-name="exp-float" data-slot-name="72776159/es.gex.cnnexpansion/tecnologia" data-slot-sizes="[[0, 0]]" data-slot-targeting="{}"> 
+    </div> 
+   </div> 
+  </div> 
+  <header class="ArticlePage-header" itemscope itemtype="http://schema.org/WPHeader"> 
+   <div class="ArticlePage-logo"> 
+    <a href="/" data-cms-ai="0"> <img class="PageLogo-image" src="https://cdn-3.expansion.mx/f5/60/402cf4a84b5194d2458a86fafe42/logo-exp-bs4.svg" alt="" height="30"> </a> 
+   </div> 
+   <div class="ArticlePage-navigationOverlay"> 
+    <div class="ArticlePage-navigation"> 
+     <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement"> 
+      <ul class="Navigation-items"> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://expansion.mx/empresas" data-cms-ai="0">Empresas</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://expansion.mx/economia" data-cms-ai="0">Economía</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://expansion.mx/nacional" data-cms-ai="0">Nacional</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://expansion.mx/mundo" data-cms-ai="0">Mundo</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://expansion.mx/tecnologia" data-cms-ai="0">Tecnología</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://expansion.mx/opinion" data-cms-ai="0">Opinión</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://expansion.mx/tendencias" data-cms-ai="0">Tendencias</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://money.cnn.com/data/markets/" target="_blank" data-cms-ai="0">Mercados</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text">
+           Más 
+         </div> 
+         <ul class="NavigationItem-items"> 
+          <li class="NavigationItem-items-item" data-navigationmodulewell> 
+           <section class="BasicPromoList" data-module> 
+            <div data-module-contents> 
+             <ul class="BasicPromoList-items"> 
+              <li class="BasicPromoList-items-item"> 
+               <div class="BasicPromo" data-promo-type="section" data-module> 
+                <div class="BasicPromo-info"> 
+                 <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/finanzas-personales" data-cms-ai="0">Dinero</a> </h3> 
+                </div> 
+               </div> </li> 
+              <li class="BasicPromoList-items-item"> 
+               <div class="BasicPromo" data-promo-type="section" data-module> 
+                <div class="BasicPromo-info"> 
+                 <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/carrera" data-cms-ai="0">Carrera</a> </h3> 
+                </div> 
+               </div> </li> 
+              <li class="BasicPromoList-items-item"> 
+               <div class="BasicPromo" data-promo-type="section" data-module> 
+                <div class="BasicPromo-info"> 
+                 <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/mercadotecnia" data-cms-ai="0">Mercadotecnia</a> </h3> 
+                </div> 
+               </div> </li> 
+              <li class="BasicPromoList-items-item"> 
+               <div class="BasicPromo" data-promo-type="section" data-module> 
+                <div class="BasicPromo-info"> 
+                 <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/emprendedores" data-cms-ai="0">Emprendedores</a> </h3> 
+                </div> 
+               </div> </li> 
+              <li class="BasicPromoList-items-item"> 
+               <div class="BasicPromo" data-promo-type="oneOffPage" data-module> 
+                <div class="BasicPromo-info"> 
+                 <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/video" data-cms-ai="0">Videos</a> </h3> 
+                </div> 
+               </div> </li> 
+              <li class="BasicPromoList-items-item"> 
+               <div class="BasicPromo" data-promo-type="oneOffPage" data-module> 
+                <div class="BasicPromo-info"> 
+                 <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/newsletter" data-cms-ai="0">Newsletter</a> </h3> 
+                </div> 
+               </div> </li> 
+              <li class="BasicPromoList-items-item"> 
+               <div class="BasicPromo" data-promo-type="oneOffPage" data-module> 
+                <div class="BasicPromo-info"> 
+                 <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/suscribete" data-cms-ai="0">Revista</a> </h3> 
+                </div> 
+               </div> </li> 
+              <li class="BasicPromoList-items-item"> 
+               <div class="BasicPromoLogo" data-module> 
+                <div class="BasicPromoLogo-media"> 
+                 <a class="Link" href="https://adnpolitico.com/" data-cms-ai="0"><img class="Image" alt="ADNPolitico logo" src="https://cdn-3.expansion.mx/20/a7/82ac83ad4c2e940db61e1ed3ddfe/logo-adn-2017.svg" height="23"></a> 
+                </div> 
+               </div> </li> 
+              <li class="BasicPromoList-items-item"> 
+               <div class="BasicPromoLogo" data-module> 
+                <div class="BasicPromoLogo-media"> 
+                 <a class="Link" href="http://obrasweb.mx/" data-cms-ai="0"><img class="Image" alt="Obras logo" src="https://cdn-3.expansion.mx/ed/2f/44e0acec48329f1c156b6796cf7e/obras.svg" height="23"></a> 
+                </div> 
+               </div> </li> 
+              <li class="BasicPromoList-items-item"> 
+               <div class="BasicPromoLogo" data-module> 
+                <div class="BasicPromoLogo-media"> 
+                 <a class="Link" href="http://www.manufactura.mx/" data-cms-ai="0"><img class="Image" alt="Manufactura logo" src="https://cdn-3.expansion.mx/ed/70/5bb7fa30421ea614be4a79de7e54/manufactura.svg" height="23"></a> 
+                </div> 
+               </div> </li> 
+             </ul> 
+            </div> 
+           </section> </li> 
+         </ul> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="http://expansion.mx/suscribete" data-cms-ai="0">Suscripción</a> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </nav> 
+    </div> 
+    <div class="ArticlePage-social"> 
+     <div class="SocialBar"> 
+      <p class="SocialBar-heading">Síguenos en nuestras redes sociales:</p> 
+      <ul class="SocialBar-items"> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://www.facebook.com/ExpansionMex" target="_blank" data-social-service="facebook" data-cms-ai="0">ExpansionMex</a></li> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://plus.google.com/105148576356784727667" target="_blank" data-social-service="googleplus" data-cms-ai="0">105148576356784727667</a></li> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://www.instagram.com/expansionmx/" target="_blank" data-social-service="instagram" data-cms-ai="0">expansionmx</a></li> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://www.linkedin.com/company/expansion" target="_blank" data-social-service="linkedin" data-cms-ai="0">expansion</a></li> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://twitter.com/expansionmx" target="_blank" data-social-service="twitter" data-cms-ai="0">expansionmx</a></li> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://www.youtube.com/user/CNNExpansion" target="_blank" data-social-service="youtube" data-cms-ai="0">user/CNNExpansion</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <form data-searchform class="ArticlePage-search" action="https://expansion.mx/búsqueda" novalidate autocomplete="off"> 
+     <input type="text" placeholder="Buscar" class="ArticlePage-searchInput" name="q"> 
+     <button type="submit" class="ArticlePage-searchButton">Search</button> 
+    </form> 
+   </div> 
+  </header>
+  <div class="ArticlePage-header-positionFixSpacer"></div> 
+  <div class="ArticlePage-above" data-modulewell> 
+   <div data-module class="GoogleDfpAd-wrap" data-hide-timeout="0" data-button-delay="0"> 
+    <span class="GoogleDfpAd-label">Publicidad</span> 
+    <div id="googleAdfa0086a6-b479-48e6-89f6-1a0c76c06b1d" class="GoogleDfpAd" data-ad-name="exp-superior" data-slot-name="72776159/es.gex.cnnexpansion/tecnologia" data-slot-sizes="[[970, 250], [970, 90], [728, 90], [320, 50], [320, 100], [300, 100], [300, 50]]" data-slot-adsizemap="[[[320, 0], [320, 50], [320, 100], [300, 100], [300, 50]], [[768, 0], [300, 100], [320, 100], [320, 50], [728, 90], [300, 50]], [[1024, 0], [970, 90], [970, 250], [728, 90]]]" data-slot-targeting="{&quot;pos&quot;:&quot;0&quot;}" data-bidders="[{&quot;bidder&quot;:&quot;rubicon&quot;,&quot;params&quot;:{&quot;accountId&quot;:&quot;14066&quot;,&quot;siteId&quot;:&quot;115044&quot;,&quot;zoneId&quot;:&quot;542042&quot;,&quot;sizes&quot;:[2,55,57]}},{&quot;bidder&quot;:&quot;appnexus&quot;,&quot;params&quot;:{&quot;placementId&quot;:&quot;9500762&quot;}}]"> 
+    </div> 
+   </div> 
+   <section class="CardGrid" data-module data-columns="3" data-carousel-enabled="%7B%22freeScroll%22:false%7D"> 
+    <div data-module-contents> 
+     <h3 class="CardGrid-title"> <span class="Link">Nuestras Historias</span> </h3> 
+     <ul class="CardGrid-items"> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2019/02/15/diecisiete-grandes-lugares-en-eu" data-cms-ai="0"><img class="Image" alt=" (Foto: Cortesía CNNMoney)" src="https://cdn-3.expansion.mx/dims4/default/4fdb4b0/2147483647/strip/true/crop/328x185+0+23/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2010%2F11%2F23%2Fmiami.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/4fdb4b0/2147483647/strip/true/crop/328x185+0+23/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2010%2F11%2F23%2Fmiami.jpg 1x,https://cdn-3.expansion.mx/dims4/default/6ba08f0/2147483647/strip/true/crop/328x185+0+23/resize/344x194!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2010%2F11%2F23%2Fmiami.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/02/15/diecisiete-grandes-lugares-en-eu" data-cms-ai="0">17 grandes lugares para visitar en Estados Unidos</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2019/02/13/cinco-destinos-para-visitar-en-la-region-asia-pacifico" data-cms-ai="0"><img class="Image" alt="Kioto está entre los destinos populares para pasar Año Nuevo según Airbnb. (Foto: Jeffrey Friedl )" src="https://cdn-3.expansion.mx/dims4/default/008776b/2147483647/strip/true/crop/362x204+0+6/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2015%2F12%2F17%2Fkyoto.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/008776b/2147483647/strip/true/crop/362x204+0+6/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2015%2F12%2F17%2Fkyoto.jpg 1x,https://cdn-3.expansion.mx/dims4/default/3a686f7/2147483647/strip/true/crop/362x204+0+6/resize/344x194!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2015%2F12%2F17%2Fkyoto.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/02/13/cinco-destinos-para-visitar-en-la-region-asia-pacifico" data-cms-ai="0">5 destinos para visitar en la región Asia-Pacífico</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2019/02/08/ejercitar-hasta-morir" data-cms-ai="0"><img class="Image" alt="ejercicio.jpg" src="https://cdn-3.expansion.mx/dims4/default/399181d/2147483647/strip/true/crop/300x169+0+65/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F89%2F6e%2F7c0ee5bb4a909f13911515952e02%2Fpage01-02-300x300.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/399181d/2147483647/strip/true/crop/300x169+0+65/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F89%2F6e%2F7c0ee5bb4a909f13911515952e02%2Fpage01-02-300x300.jpg 1x,https://cdn-3.expansion.mx/dims4/default/6d0468e/2147483647/strip/true/crop/300x169+0+65/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F89%2F6e%2F7c0ee5bb4a909f13911515952e02%2Fpage01-02-300x300.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/02/08/ejercitar-hasta-morir" data-cms-ai="0">Ejercitar hasta morir: el entrenamiento intenso puede producir una condición mortal</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2019/02/06/el-tren-mas-lujoso-del-mundo" data-cms-ai="0"><img class="Image" alt="tren más lujoso del mundo" src="https://cdn-3.expansion.mx/dims4/default/4cc1bae/2147483647/strip/true/crop/675x381+0+35/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2c%2Fda%2F3a6c550246e2a91f0e9414775c45%2Fscreen-shot-2018-06-20-at-14.46.59.png" srcset="https://cdn-3.expansion.mx/dims4/default/4cc1bae/2147483647/strip/true/crop/675x381+0+35/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2c%2Fda%2F3a6c550246e2a91f0e9414775c45%2Fscreen-shot-2018-06-20-at-14.46.59.png 1x,https://cdn-3.expansion.mx/dims4/default/ceb2906/2147483647/strip/true/crop/675x381+0+35/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2c%2Fda%2F3a6c550246e2a91f0e9414775c45%2Fscreen-shot-2018-06-20-at-14.46.59.png 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/02/06/el-tren-mas-lujoso-del-mundo" data-cms-ai="0">Existe un tren en Japón que ha cosechado una exclusiva reputación</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2019/02/1/5-habitos-saludables-para-vivir-mas" data-cms-ai="0"><img class="Image" alt="El ejercicio es un hábito saludable que te ayuda a tener una mejor calidad de vida(Foto: Getty Images )" src="https://cdn-3.expansion.mx/dims4/default/887c88f/2147483647/strip/true/crop/362x204+0+6/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2014%2F05%2F28%2Fcorrer-tenis-ejercicio.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/887c88f/2147483647/strip/true/crop/362x204+0+6/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2014%2F05%2F28%2Fcorrer-tenis-ejercicio.jpg 1x,https://cdn-3.expansion.mx/dims4/default/31b2665/2147483647/strip/true/crop/362x204+0+6/resize/344x194!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2014%2F05%2F28%2Fcorrer-tenis-ejercicio.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/02/1/5-habitos-saludables-para-vivir-mas" data-cms-ai="0">5 hábitos saludables para vivir más</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2019/01/30/el-cambio-climatico-ya-se-cobra-vidas" data-cms-ai="0"><img class="Image" alt="Las negociaciones de la ONU por el clima, llevadas a cabo en Qatar en diciembre, terminaron con poco progreso en un marco global para recortes de emisiones. (Foto: Getty Images)" src="https://cdn-3.expansion.mx/dims4/default/7435af5/2147483647/strip/true/crop/362x204+0+6/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2013%2F01%2F21%2Fcambio-climatico.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/7435af5/2147483647/strip/true/crop/362x204+0+6/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2013%2F01%2F21%2Fcambio-climatico.jpg 1x,https://cdn-3.expansion.mx/dims4/default/545b1a6/2147483647/strip/true/crop/362x204+0+6/resize/344x194!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2013%2F01%2F21%2Fcambio-climatico.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/01/30/el-cambio-climatico-ya-se-cobra-vidas" data-cms-ai="0">El cambio climático ya se cobra vidas, y será más letal</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2019/01/15/si-estar-sentado-demasiado-tiempo-puede-matarte-aunque-hagas-ejercicio" data-cms-ai="0"><img class="Image" alt="estar-sentado.jpg" src="https://cdn-3.expansion.mx/dims4/default/53d8fbc/2147483647/strip/true/crop/300x169+0+65/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ffb%2F93%2F04308cf14126a7862689dc636068%2Fpage01-300x300.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/53d8fbc/2147483647/strip/true/crop/300x169+0+65/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ffb%2F93%2F04308cf14126a7862689dc636068%2Fpage01-300x300.jpg 1x,https://cdn-3.expansion.mx/dims4/default/3ed703f/2147483647/strip/true/crop/300x169+0+65/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ffb%2F93%2F04308cf14126a7862689dc636068%2Fpage01-300x300.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/01/15/si-estar-sentado-demasiado-tiempo-puede-matarte-aunque-hagas-ejercicio" data-cms-ai="0">Sí, estar sentado demasiado tiempo puede matarte, aunque hagas ejercicio</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2019/01/11/nueve-estrategias-alternas-contra-el-desfase-horario" data-cms-ai="0"><img class="Image" alt="reloj horario" src="https://cdn-3.expansion.mx/dims4/default/ca9a7a7/2147483647/strip/true/crop/622x351+1+0/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2014%2F04%2F03%2Freloj-horario.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/ca9a7a7/2147483647/strip/true/crop/622x351+1+0/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2014%2F04%2F03%2Freloj-horario.jpg 1x,https://cdn-3.expansion.mx/dims4/default/6ea1fcf/2147483647/strip/true/crop/622x351+1+0/resize/344x194!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2014%2F04%2F03%2Freloj-horario.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/01/11/nueve-estrategias-alternas-contra-el-desfase-horario" data-cms-ai="0">Nueve estrategias alternas contra el desfase horario</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2019/01/09/16-de-los-lugares-mas-relajantes-del-mundo" data-cms-ai="0"><img class="Image" alt="16lugares_300x300.jpg" src="https://cdn-3.expansion.mx/dims4/default/a5c7871/2147483647/strip/true/crop/300x169+0+65/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc2%2Fdc%2Ff1bd8d234b0eb41a260d6b804fda%2F16lugares-300x300.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/a5c7871/2147483647/strip/true/crop/300x169+0+65/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc2%2Fdc%2Ff1bd8d234b0eb41a260d6b804fda%2F16lugares-300x300.jpg 1x,https://cdn-3.expansion.mx/dims4/default/0a9c84b/2147483647/strip/true/crop/300x169+0+65/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc2%2Fdc%2Ff1bd8d234b0eb41a260d6b804fda%2F16lugares-300x300.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/01/09/16-de-los-lugares-mas-relajantes-del-mundo" data-cms-ai="0">16 de los lugares más relajantes del mundo</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2019/01/10/los-diez-mejores-alimentos-para-tu-corazon" data-cms-ai="0"><img class="Image" alt="mejores-alimentos.jpg" src="https://cdn-3.expansion.mx/dims4/default/61e3163/2147483647/strip/true/crop/768x433+0+295/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F01%2Fc4%2F8d04a5da42cd8fc3f1fc4c648354%2Fmejores-alimentos.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/61e3163/2147483647/strip/true/crop/768x433+0+295/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F01%2Fc4%2F8d04a5da42cd8fc3f1fc4c648354%2Fmejores-alimentos.jpg 1x,https://cdn-3.expansion.mx/dims4/default/c3a7516/2147483647/strip/true/crop/768x433+0+295/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F01%2Fc4%2F8d04a5da42cd8fc3f1fc4c648354%2Fmejores-alimentos.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/01/10/los-diez-mejores-alimentos-para-tu-corazon" data-cms-ai="0">Los diez mejores alimentos para tu corazón</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2018/12/14/vacaciona-en-una-playa-del-artico" data-cms-ai="0"><img class="Image" alt="vacacionar artico.jpg" src="https://cdn-3.expansion.mx/dims4/default/48e5741/2147483647/strip/true/crop/768x433+0+395/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe8%2F55%2F4c9184a94d2ba1126b55d34d4245%2Fvacacionar-artico.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/48e5741/2147483647/strip/true/crop/768x433+0+395/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe8%2F55%2F4c9184a94d2ba1126b55d34d4245%2Fvacacionar-artico.jpg 1x,https://cdn-3.expansion.mx/dims4/default/7fad806/2147483647/strip/true/crop/768x433+0+395/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe8%2F55%2F4c9184a94d2ba1126b55d34d4245%2Fvacacionar-artico.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2018/12/14/vacaciona-en-una-playa-del-artico" data-cms-ai="0">Vacaciona en una playa del Ártico</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2018/12/14/diez-de-los-platillos-mas-extranios-de-los-estadios-de-la-nfl" data-cms-ai="0"><img class="Image" alt="comidas estadios NFL.jpg" src="https://cdn-3.expansion.mx/dims4/default/8334470/2147483647/strip/true/crop/768x433+0+257/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F50%2F06%2Ff670fbc04c3c8f09a1fb53fbc2e8%2Fcomidas-estadios-nfl.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/8334470/2147483647/strip/true/crop/768x433+0+257/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F50%2F06%2Ff670fbc04c3c8f09a1fb53fbc2e8%2Fcomidas-estadios-nfl.jpg 1x,https://cdn-3.expansion.mx/dims4/default/2e09629/2147483647/strip/true/crop/768x433+0+257/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F50%2F06%2Ff670fbc04c3c8f09a1fb53fbc2e8%2Fcomidas-estadios-nfl.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2018/12/14/diez-de-los-platillos-mas-extranios-de-los-estadios-de-la-nfl" data-cms-ai="0">10 de los platillos de más extraños de los estadios de la NFL</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://lifeandstyle.mx/ampstories/2018/12/10/asi-es-la-nueva-bmw-x5-2019" data-cms-ai="0"><img class="Image" alt="bmw-x5-portada.jpg" src="https://cdn-3.expansion.mx/dims4/default/5f7e4d0/2147483647/strip/true/crop/720x406+0+365/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fcd%2Ff8%2F7b3af4534372bfc6edf1f2fd0c13%2Fbmw-x5-portada.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/5f7e4d0/2147483647/strip/true/crop/720x406+0+365/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fcd%2Ff8%2F7b3af4534372bfc6edf1f2fd0c13%2Fbmw-x5-portada.jpg 1x,https://cdn-3.expansion.mx/dims4/default/55b757f/2147483647/strip/true/crop/720x406+0+365/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fcd%2Ff8%2F7b3af4534372bfc6edf1f2fd0c13%2Fbmw-x5-portada.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://lifeandstyle.mx/ampstories/2018/12/10/asi-es-la-nueva-bmw-x5-2019" data-cms-ai="0">Así es la nueva BMW X5 2019</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://expansion.mx/ampstories/2018/12/12/nueve-hoteles-para-dormir-antes-de-morir" data-cms-ai="0"><img class="Image" alt="hoteles antes de morir.jpg" src="https://cdn-3.expansion.mx/dims4/default/70ffbfd/2147483647/strip/true/crop/768x433+0+61/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fda%2Ffc%2F4107a0cd4571a73b0175abedd54c%2Fhoteles-antes-de-morir.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/70ffbfd/2147483647/strip/true/crop/768x433+0+61/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fda%2Ffc%2F4107a0cd4571a73b0175abedd54c%2Fhoteles-antes-de-morir.jpg 1x,https://cdn-3.expansion.mx/dims4/default/363225c/2147483647/strip/true/crop/768x433+0+61/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fda%2Ffc%2F4107a0cd4571a73b0175abedd54c%2Fhoteles-antes-de-morir.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://expansion.mx/ampstories/2018/12/12/nueve-hoteles-para-dormir-antes-de-morir" data-cms-ai="0">9 hoteles para dormir antes de morir</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://lifeandstyle.mx/ampstories/2018/12/10/errores-mas-comunes-al-afeitarte" data-cms-ai="0"><img class="Image" alt="errorafeitar01.jpg" src="https://cdn-3.expansion.mx/dims4/default/8723bff/2147483647/strip/true/crop/720x406+0+70/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Feb%2Fe8%2F0612ad5f42c1929c1bfd371b49e9%2Ferrorafeitar01.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/8723bff/2147483647/strip/true/crop/720x406+0+70/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Feb%2Fe8%2F0612ad5f42c1929c1bfd371b49e9%2Ferrorafeitar01.jpg 1x,https://cdn-3.expansion.mx/dims4/default/eaa18c2/2147483647/strip/true/crop/720x406+0+70/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Feb%2Fe8%2F0612ad5f42c1929c1bfd371b49e9%2Ferrorafeitar01.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://lifeandstyle.mx/ampstories/2018/12/10/errores-mas-comunes-al-afeitarte" data-cms-ai="0">Los errores más comunes al afeitarte</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://lifeandstyle.mx/ampstories/2018/12/14/tipos-de-hombre-segun-la-musica-que-escuchan" data-cms-ai="0"><img class="Image" alt="canciones-hombres.jpg" src="https://cdn-3.expansion.mx/dims4/default/62c5ecd/2147483647/strip/true/crop/1100x620+0+0/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff8%2F78%2F3c45b9ee4ab4be8ed80dd2757dad%2Fcanciones-hombres.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/62c5ecd/2147483647/strip/true/crop/1100x620+0+0/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff8%2F78%2F3c45b9ee4ab4be8ed80dd2757dad%2Fcanciones-hombres.jpg 1x,https://cdn-3.expansion.mx/dims4/default/27447fa/2147483647/strip/true/crop/1100x620+0+0/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff8%2F78%2F3c45b9ee4ab4be8ed80dd2757dad%2Fcanciones-hombres.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://lifeandstyle.mx/ampstories/2018/12/14/tipos-de-hombre-segun-la-musica-que-escuchan" data-cms-ai="0">Tipos de hombres según la música que escuchan</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="CardGrid-items-item"> 
+       <div class="BasicPromoDetailed" data-promo-type="external" data-module> 
+        <div class="BasicPromoDetailed-media"> 
+         <i class="icon external"></i> 
+         <a class="Link" href="https://lifeandstyle.mx/ampstories/2018/12/12/mejores-juegos-gratuitos-de-app-store-en-2018" data-cms-ai="0"><img class="Image" alt="portada.jpg" src="https://cdn-3.expansion.mx/dims4/default/4f50e4f/2147483647/strip/true/crop/720x406+0+0/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd7%2F8b%2F8e1a2ea149d48d3dfaf3ce91b22a%2Fportada.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/4f50e4f/2147483647/strip/true/crop/720x406+0+0/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd7%2F8b%2F8e1a2ea149d48d3dfaf3ce91b22a%2Fportada.jpg 1x,https://cdn-3.expansion.mx/dims4/default/d8f8313/2147483647/strip/true/crop/720x406+0+0/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd7%2F8b%2F8e1a2ea149d48d3dfaf3ce91b22a%2Fportada.jpg 2x" width="172" height="97"></a> 
+        </div> 
+        <div class="BasicPromoDetailed-info"> 
+         <h3 class="BasicPromoDetailed-title"> <a class="Link" href="https://lifeandstyle.mx/ampstories/2018/12/12/mejores-juegos-gratuitos-de-app-store-en-2018" data-cms-ai="0">Los mejores juegos gratuitos de AppStore en 2018</a> </h3> 
+        </div> 
+       </div> </li> 
+     </ul> 
+     <div class="CardGrid-pagination"> 
+     </div> 
+    </div> 
+   </section> 
+  </div> 
+  <div class="ArticlePage-layoutWrap"> 
+   <main class="ArticlePage-main"> 
+    <article class="ArticlePage-mainContent" itemprop="mainEntity" itemscope itemtype="http://schema.org/Article"> 
+     <div class="ArticlePage-sectionLabel"> 
+      <a class="Link" href="https://expansion.mx/tecnologia" data-cms-ai="0">Tecnología</a> 
+     </div> 
+     <h1 class="ArticlePage-headline" itemprop="headline">Microsoft capacitará a 40,000 jóvenes mexicanos</h1> 
+     <div class="ArticlePage-subHeadline" itemprop="alternativeHeadline">
+      A través de un convenio de colaboración con la STPS, el IMJUVE y el Organismo Internacional de Juventud para Iberoamérica la tecnológica quiere apoyar a la juventud 
+     </div> 
+     <div class="ArticlePage-datePublished">
+      febrero 14, 2019 05:42 PM
+     </div> 
+     <meta itemprop="datePublished" content="2019-02-14T23:42:34.593Z"> 
+     <div class="ArticlePage-socialShare"> 
+      <div class="ArticlePage-actions"> 
+       <div class="ActionBar"> 
+        <ul class="ActionBar-items"> 
+         <li class="ActionBar-items-item"> <a class="TwitterTweetButton icon-twitter" href="https://twitter.com/intent/tweet?url=https://expansion.mx/tecnologia/2019/02/14/microsoft-capacitara-a-40-000-jovenes-mexicanos&amp;text=Microsoft%20capacitar%C3%A1%20a%2040%2C000%20j%C3%B3venes%20mexicanos" target="_blank" data-cms-ai="0"> <span>Tweet</span> </a> </li> 
+         <li class="ActionBar-items-item"> <a class="FacebookShareButton icon-facebook" href="https://www.facebook.com/dialog/share?app_id=777317472403233&amp;display=popup&amp;href=https://expansion.mx/tecnologia/2019/02/14/microsoft-capacitara-a-40-000-jovenes-mexicanos" target="_blank" data-cms-ai="0"> <span>Facebook</span> </a> </li> 
+         <li class="ActionBar-items-item"> <a class="LinkedInShareButton icon-linkedin" href="https://www.linkedin.com/shareArticle?url=https://expansion.mx/tecnologia/2019/02/14/microsoft-capacitara-a-40-000-jovenes-mexicanos&amp;mini=true&amp;title=Microsoft%20capacitar%C3%A1%20a%2040%2C000%20j%C3%B3venes%20mexicanos&amp;summary=A%20trav%C3%A9s%20de%20un%20convenio%20de%20colaboraci%C3%B3n%20con%20la%20STPS%2C%20el%20IMJUVE%20y%20el%20Organismo%20Internacional%20de%20Juventud%20para%20Iberoam%C3%A9rica%20la%20tecnol%C3%B3gica%20quiere%20apoyar%20a%20la%20juventud%20&amp;source=Expansi%C3%B3n" target="_blank" data-cms-ai="0"> <span>LinkedIn</span> </a> </li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="ArticlePage-lead" data-modulewell> 
+      <figure class="ArticleLeadFigure" itemscope itemtype="http://schema.org/ImageObject"> 
+       <img src="https://cdn-3.expansion.mx/dims4/default/5e59a8f/2147483647/strip/true/crop/3008x2008+0+0/resize/800x534!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2F38%2F69f750604151b2312bd159eb00fe%2Fkeynote-1-1.JPG" alt="Satya Nadella" srcset="https://cdn-3.expansion.mx/dims4/default/5e59a8f/2147483647/strip/true/crop/3008x2008+0+0/resize/800x534!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2F38%2F69f750604151b2312bd159eb00fe%2Fkeynote-1-1.JPG 1x,https://cdn-3.expansion.mx/dims4/default/3807255/2147483647/strip/true/crop/3008x2008+0+0/resize/1600x1068!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2F38%2F69f750604151b2312bd159eb00fe%2Fkeynote-1-1.JPG 2x" width="800" height="534"> 
+       <figcaption class="ArticleLeadFigure-info">
+        <span class="ArticleLeadFigure-caption" itemprop="caption">Satya Nadella dijo que el convenio de colaboración tiene la finalidad de hacer más fácil el acceso a este tipo de capacitación técnica </span>
+        <span class="ArticleLeadFigure-credit" itemprop="author">(Ricardo Trejo)</span>
+       </figcaption> 
+      </figure> 
+     </div> 
+     <div class="ArticlePage-byline" itemprop="author" itemscope itemtype="http://schema.org/Person"> 
+      <div class="ArticlePage-authorName" itemprop="name"> 
+       <a href="https://expansion.mx/autor/erendira-reyes" data-cms-ai="0"> Eréndira Reyes </a> 
+      </div> 
+      <div class="ArticlePage-authorSocial"> 
+       <a href="https://twitter.com/@eresinaeresina" data-cms-ai="0"> @eresinaeresina </a> 
+      </div> 
+     </div> 
+     <div class="ArticlePage-articleBody" itemprop="articleBody" data-modulewell> 
+      <div class="RichTextArticleBody"> 
+       <div class="RichTextArticleBody-body">
+        <p><b>CIUDAD DE MÉXICO (Expansión).- </b>Satya Nadella, CEO de Microsoft, se reunió con la secretaría del Trabajo, Luisa Alcalde, el director general del Instituto Mexicano de la Juventud y el secretario General del Organismo Internacional de la Juventud para Iberoamérica, Max Trejo con el fin de firmar un convenio de colaboración. </p>
+        <p>El acuerdo contempla el proyecto “Laboratorio de habilidades en competencias digitales”, que podrá beneficiar a más de 40,000 jóvenes, que forman parte del programa “Jóvenes Construyendo el Futuro”, en una primera etapa, según un comunicado de prensa enviado por Microsoft.</p>
+        <p>“A medida que los avances en tecnología van transformando cada aspecto de nuestras vidas y sociedad, tenemos la responsabilidad de asegurar que los beneficios de ese progreso alcancen a todos”, dijo Nadella.</p>
+        <p><i><span class="Enhancement" -inline> <span class="Enhancement-item"><a class="Link" href="https://expansion.mx/tecnologia/2019/01/17/mexico-podria-ser-potencia-en-ia-gracias-a-sus-jovenes" data-cms-ai="0">Lee: Los jóvenes en México que se capaciten en IA podrían transformar al país </a></span> </span> </i></p>
+        <p>“Junto con nuestros aliados, estamos enfocados en proporcionar a los jóvenes de México acceso a una educación en ciencias de la computación que contribuya a prepararlos para los empleos del futuro y prosperar en un mundo cada vez más digital” precisó el directivo de Microsoft.</p>
+        <p>Como parte de este convenio, Microsoft aportará recursos metodológicos y técnicos para dar a los jóvenes acceso a las tecnologías de la información, con el fin de apoyar su educación y productividad. El plan de estudios contempla temas de alfabetización digital, así como aprendizaje de herramientas de productividad y trabajo colaborativo. Además de capacitación en programación básica, habilidad con creciente demanda en el mercado laboral mexicano.</p> 
+        <div data-module class="GoogleDfpAd-wrap" data-hide-timeout="0" data-button-delay="0"> 
+         <span class="GoogleDfpAd-label">Publicidad</span> 
+         <div id="googleAd5c29654a-a319-45af-b875-211d4679611c" class="GoogleDfpAd" data-ad-name="exp-intext" data-slot-name="72776159/es.gex.cnnexpansion/tecnologia" data-slot-sizes="[[300, 250], [728, 90]]" data-slot-adsizemap="[[[320, 0], [300, 250]], [[768, 0], [728, 90], [300, 250]], [[1024, 0], [728, 90], [300, 250]]]" data-slot-targeting="{&quot;pos&quot;:&quot;10&quot;}" data-bidders="[{&quot;bidder&quot;:&quot;rubicon&quot;,&quot;params&quot;:{&quot;accountId&quot;: &quot;14066&quot;,&quot;siteId&quot;:&quot;115044&quot;,&quot;zoneId&quot;:&quot;542042&quot;,&quot;sizes&quot;:[15]}},{&quot;bidder&quot;:&quot;appnexus&quot;,&quot;params&quot;:{&quot;placementId&quot;:&quot;9500711&quot;}}]"> 
+         </div> 
+        </div> 
+        <p>La titular de la Secretaría del Trabajo y Previsión Social, Luisa María Alcalde Luján, dijo que este convenio es muy importante porque “es una posibilidad para darles las herramientas necesarias que están requiriendo las industrias y los sectores productivos, qué mejor que las propias empresas para capacitar a estos jóvenes en lo que están necesitando y si a eso le adherimos habilidades tecnológicas y digitales, es realmente un programa de inclusión que les va a abrir muchas puertas, una posibilidad de futuro”.</p>
+        <p>Aunque México cuenta con un bono demográfico adecuado para desarrollar talento enfocado en nuevas tecnologías, países con población de mayor edad, han sabido desarrollar mejor al talento local.</p>
+        <p>Japón es ejemplo de ello. En dicho país, donde las empresas están más cercanas a la tecnología, se estima que para 2030 tendrán un 30% de la población por encima de los 60 años de edad y solo 40% de los ciudadanos estará en edad productiva. Mientras que en México, para 2030, se tendrá un 57.3% de adultos entre los 24 y los 54 años.</p>
+       </div> 
+      </div> 
+     </div> 
+     <div class="ArticlePage-below" data-modulewell> 
+      <div class="ArticleNewsletterForm" data-module> 
+       <div data-module-contents> 
+        <div class="ArticleNewsletterForm-title">
+         ¿Quieres enterarte de lo más reciente de la tecnología?
+        </div> 
+        <div class="ArticleNewsletterForm-description">
+         Entrevistas, noticias y reseñas sobre los últimos gadgets e innovaciones. 
+        </div> 
+        <form class="ArticleNewsletterForm-form" method="post"> 
+         <div class="ArticleNewsletterForm-items"> 
+          <div class="ArticleNewsletterForm-items-item"> 
+           <div class="EmailInput"> 
+            <label class="EmailInput-label">Email <input class="EmailInput-input" type="email" name="email" placeholder="Escribe tu correo electrónico" required> </label> 
+           </div> 
+          </div> 
+          <div class="ArticleNewsletterForm-items-item"> 
+           <input type="hidden" name="brightspot.form.id" value="00000164-ca4d-da60-a367-decd67930000"> 
+          </div> 
+         </div> 
+         <div class="ArticleNewsletterForm-buttons"> 
+          <button class="Button" type="submit">Submit</button> 
+         </div> 
+         <p class="ArticleNewsletterForm-successSubscription">has quedado suscrito al newsletter.</p> 
+         <p class="ArticleNewsletterForm-failedSubscription">Ha ocurrido un error, por favor inténtalo más tarde.</p> 
+        </form> 
+        <div class="ArticleNewsletterForm-loader"> 
+         <div class="circle"> 
+          <div class="circle-animate"></div> 
+          <div class="circle-static"></div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+     <div class="ArticlePage-relatedContent" data-modulewell> 
+      <section class="CardGrid" data-module data-center-items data-columns="4" data-carousel-enabled="%7B%22freeScroll%22:false,%22activeOnBreakPoint%22:%20%5B%22min-width%22,%20%22xs%22%5D%7D" data-hide-itemcategory data-hide-itemdescription data-hide-itemcredit data-hide-cta> 
+       <div data-module-contents> 
+        <h3 class="CardGrid-title"> <span class="Link">Recomendaciones</span> </h3> 
+        <ul class="CardGrid-items"> 
+         <li class="CardGrid-items-item"> 
+          <div class="LargePromo" data-promo-type="article" data-module> 
+           <div class="LargePromo-media"> 
+            <i class="icon article"></i> 
+            <a class="Link" href="https://expansion.mx/tecnologia/2019/02/12/biometricos-y-computo-cuantico-agudizan-falta-de-talento-tecnologico" data-cms-ai="0"><img class="Image" alt="En busca de hackers especializados " src="https://cdn-3.expansion.mx/dims4/default/3d992f6/2147483647/strip/true/crop/1219x687+0+87/resize/600x338!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fd0%2Fbb%2Fd0de28dc4b1d8ea63fd8b3bfe7cd%2Fcomputo-inteligencia-artificial-shut-a-r-t-i-s-t.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/3d992f6/2147483647/strip/true/crop/1219x687+0+87/resize/600x338!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fd0%2Fbb%2Fd0de28dc4b1d8ea63fd8b3bfe7cd%2Fcomputo-inteligencia-artificial-shut-a-r-t-i-s-t.jpg 1x,https://cdn-3.expansion.mx/dims4/default/e5b65f6/2147483647/strip/true/crop/1219x687+0+87/resize/1200x676!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fd0%2Fbb%2Fd0de28dc4b1d8ea63fd8b3bfe7cd%2Fcomputo-inteligencia-artificial-shut-a-r-t-i-s-t.jpg 2x" width="600" height="338"></a> 
+           </div> 
+           <div class="LargePromo-info"> 
+            <div class="LargePromo-category"> 
+             <a class="Link" href="https://expansion.mx/tecnologia" data-cms-ai="0">Tecnología</a> 
+            </div> 
+            <h3 class="LargePromo-title"> <a class="Link" href="https://expansion.mx/tecnologia/2019/02/12/biometricos-y-computo-cuantico-agudizan-falta-de-talento-tecnologico" data-cms-ai="0">Biométricos y cómputo cuántico agudizan falta de talento tecnológico </a> </h3> 
+            <div class="LargePromo-duration">
+             3 Min Read
+            </div> 
+           </div> 
+          </div> </li> 
+         <li class="CardGrid-items-item"> 
+          <div class="LargePromo" data-promo-type="article" data-module> 
+           <div class="LargePromo-media"> 
+            <i class="icon article"></i> 
+            <a class="Link" href="https://expansion.mx/tecnologia/2019/02/14/educacion-digital-podria-hacer-obsoletos-titulos-universitarios" data-cms-ai="0"><img class="Image" alt="Educación digital" src="https://cdn-3.expansion.mx/dims4/default/612e6f6/2147483647/strip/true/crop/1243x700+0+8/resize/600x338!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9d%2F10%2Ffdb8b9f74418bcaf7cba72c9a9ed%2Fistock-862136832.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/612e6f6/2147483647/strip/true/crop/1243x700+0+8/resize/600x338!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9d%2F10%2Ffdb8b9f74418bcaf7cba72c9a9ed%2Fistock-862136832.jpg 1x,https://cdn-3.expansion.mx/dims4/default/5e159c9/2147483647/strip/true/crop/1243x700+0+8/resize/1200x676!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9d%2F10%2Ffdb8b9f74418bcaf7cba72c9a9ed%2Fistock-862136832.jpg 2x" width="600" height="338"></a> 
+           </div> 
+           <div class="LargePromo-info"> 
+            <div class="LargePromo-category"> 
+             <a class="Link" href="https://expansion.mx/tecnologia" data-cms-ai="0">Tecnología</a> 
+            </div> 
+            <h3 class="LargePromo-title"> <a class="Link" href="https://expansion.mx/tecnologia/2019/02/14/educacion-digital-podria-hacer-obsoletos-titulos-universitarios" data-cms-ai="0">Educación digital podría hacer obsoletos títulos universitarios </a> </h3> 
+            <div class="LargePromo-duration">
+             3 Min Read
+            </div> 
+           </div> 
+          </div> </li> 
+         <li class="CardGrid-items-item"> 
+          <div class="LargePromo" data-promo-type="article" data-module> 
+           <div class="LargePromo-media"> 
+            <i class="icon article"></i> 
+            <a class="Link" href="https://expansion.mx/carrera/2019/02/07/los-robots-impulsan-el-empleo-si-en-humanos" data-cms-ai="0"><img class="Image" alt="Automatización." src="https://cdn-3.expansion.mx/dims4/default/d7152bc/2147483647/strip/true/crop/8178x4607+0+423/resize/600x338!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F64%2F18%2Fe421dc5849309fa77b7fede07517%2Fistock-949223490.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/d7152bc/2147483647/strip/true/crop/8178x4607+0+423/resize/600x338!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F64%2F18%2Fe421dc5849309fa77b7fede07517%2Fistock-949223490.jpg 1x,https://cdn-3.expansion.mx/dims4/default/54ae020/2147483647/strip/true/crop/8178x4607+0+423/resize/1200x676!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F64%2F18%2Fe421dc5849309fa77b7fede07517%2Fistock-949223490.jpg 2x" width="600" height="338"></a> 
+           </div> 
+           <div class="LargePromo-info"> 
+            <div class="LargePromo-category"> 
+             <a class="Link" href="https://expansion.mx/carrera" data-cms-ai="0">Carrera</a> 
+            </div> 
+            <h3 class="LargePromo-title"> <a class="Link" href="https://expansion.mx/carrera/2019/02/07/los-robots-impulsan-el-empleo-si-en-humanos" data-cms-ai="0">Los robots impulsan el empleo (sí, en humanos)</a> </h3> 
+            <div class="LargePromo-duration">
+             2 Min Read
+            </div> 
+           </div> 
+          </div> </li> 
+        </ul> 
+       </div> 
+      </section> 
+     </div> 
+     <div class="ArticlePage-tags"> 
+      <h2 class="ArticlePage-tags-heading">Tags</h2> 
+      <div class="ArticlePage-tags-body">
+       <a class="Link" href="https://expansion.mx/tag/beta-tecnologia" data-cms-ai="0">Tecnología</a>
+       <a class="Link" href="https://expansion.mx/tag/tecnologia" data-cms-ai="0">Tecnología</a>
+       <a class="Link" href="https://expansion.mx/tag/tecnologia-portatil" data-cms-ai="0">Tecnología portátil</a>
+       <a class="Link" href="https://expansion.mx/tag/microsoft-corp" data-cms-ai="0">Microsoft Corp</a>
+       <a class="Link" href="https://expansion.mx/tag/secretaria-del-trabajo-y-prevision-social" data-cms-ai="0">Secretaría del Trabajo y Previsión Social</a>
+      </div> 
+     </div> 
+     <div class="ArticlePage-actions"> 
+      <div class="ActionBar"> 
+       <ul class="ActionBar-items"> 
+        <li class="ActionBar-items-item"> <a class="TwitterTweetButton icon-twitter" href="https://twitter.com/intent/tweet?url=https://expansion.mx/tecnologia/2019/02/14/microsoft-capacitara-a-40-000-jovenes-mexicanos&amp;text=Microsoft%20capacitar%C3%A1%20a%2040%2C000%20j%C3%B3venes%20mexicanos" target="_blank" data-cms-ai="0"> <span>Tweet</span> </a> </li> 
+        <li class="ActionBar-items-item"> <a class="FacebookShareButton icon-facebook" href="https://www.facebook.com/dialog/share?app_id=777317472403233&amp;display=popup&amp;href=https://expansion.mx/tecnologia/2019/02/14/microsoft-capacitara-a-40-000-jovenes-mexicanos" target="_blank" data-cms-ai="0"> <span>Facebook</span> </a> </li> 
+        <li class="ActionBar-items-item"> <a class="LinkedInShareButton icon-linkedin" href="https://www.linkedin.com/shareArticle?url=https://expansion.mx/tecnologia/2019/02/14/microsoft-capacitara-a-40-000-jovenes-mexicanos&amp;mini=true&amp;title=Microsoft%20capacitar%C3%A1%20a%2040%2C000%20j%C3%B3venes%20mexicanos&amp;summary=A%20trav%C3%A9s%20de%20un%20convenio%20de%20colaboraci%C3%B3n%20con%20la%20STPS%2C%20el%20IMJUVE%20y%20el%20Organismo%20Internacional%20de%20Juventud%20para%20Iberoam%C3%A9rica%20la%20tecnol%C3%B3gica%20quiere%20apoyar%20a%20la%20juventud%20&amp;source=Expansi%C3%B3n" target="_blank" data-cms-ai="0"> <span>LinkedIn</span> </a> </li> 
+       </ul> 
+      </div> 
+     </div> 
+     <aside class="ArticleFurtherViewing"> 
+      <h2 class="ArticleFurtherViewing-mainTitle">Ahora Ve</h2> 
+      <div class="ArticleFurtherViewing-video"> 
+       <h3 class="ArticleFurtherViewing-video-title">AMLO busca ayudar a que las hermanas del ‘Chapo’ puedan visitarlo en EU</h3> 
+       <div class="BrightcoveVideoPlayer" data-video-player data-module data-player-id="1JLX6zDRW" data-video-id="6005796036001" data-video-title="AMLO busca ayudar a que las hermanas del ‘Chapo’ puedan visitarlo en EU" data-account-id="5145025920001" data-muted> 
+        <div data-module-contents> 
+         <iframe class="video-defer" data-src="https://players.brightcove.net/5145025920001/1JLX6zDRW_default/index.html?videoId=6005796036001&amp;playsinline" allowfullscreen webkitallowfullscreen mozallowfullscreen width="300" height="168"></iframe> 
+        </div> 
+       </div> 
+      </div> 
+      <div class="ArticleFurtherViewing-recommendations"> 
+       <h3 class="ArticleFurtherViewing-recommendations-title">Te Recomendamos</h3> 
+       <div class="ArticleFurtherViewing-recommendations-taboola is-taboola" data-product="expansion" data-layout="global" data-id="00000168-ee5a-df77-a7fd-fede98870003" data-permalink="https://expansion.mx/tecnologia/2019/02/14/microsoft-capacitara-a-40-000-jovenes-mexicanos" data-hide-organic="true"> 
+       </div> 
+      </div> 
+     </aside> 
+    </article> 
+   </main> 
+   <aside class="ArticlePage-aside" data-asidewell> 
+    <section class="BasicPromoList" data-module> 
+     <div data-module-contents> 
+      <h3 class="BasicPromoList-title"> <span class="Link">Nuestras Historias</span> </h3> 
+      <ul class="BasicPromoList-items"> 
+       <li class="BasicPromoList-items-item"> 
+        <div class="BasicPromo" data-promo-type="external" data-module> 
+         <div class="BasicPromo-media"> 
+          <i class="icon external"></i> 
+          <a class="Link" href="https://expansion.mx/ampstories/2019/02/15/diecisiete-grandes-lugares-en-eu" data-cms-ai="0"><img class="Image" alt=" (Foto: Cortesía CNNMoney)" src="https://cdn-3.expansion.mx/dims4/default/4fdb4b0/2147483647/strip/true/crop/328x185+0+23/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2010%2F11%2F23%2Fmiami.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/4fdb4b0/2147483647/strip/true/crop/328x185+0+23/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2010%2F11%2F23%2Fmiami.jpg 1x,https://cdn-3.expansion.mx/dims4/default/6ba08f0/2147483647/strip/true/crop/328x185+0+23/resize/344x194!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2010%2F11%2F23%2Fmiami.jpg 2x" width="172" height="97"></a> 
+         </div> 
+         <div class="BasicPromo-info"> 
+          <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/02/15/diecisiete-grandes-lugares-en-eu" data-cms-ai="0">17 grandes lugares para visitar en Estados Unidos</a> </h3> 
+         </div> 
+        </div> </li> 
+       <li class="BasicPromoList-items-item"> 
+        <div class="BasicPromo" data-promo-type="external" data-module> 
+         <div class="BasicPromo-media"> 
+          <i class="icon external"></i> 
+          <a class="Link" href="https://expansion.mx/ampstories/2019/02/13/cinco-destinos-para-visitar-en-la-region-asia-pacifico" data-cms-ai="0"><img class="Image" alt="Kioto está entre los destinos populares para pasar Año Nuevo según Airbnb. (Foto: Jeffrey Friedl )" src="https://cdn-3.expansion.mx/dims4/default/008776b/2147483647/strip/true/crop/362x204+0+6/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2015%2F12%2F17%2Fkyoto.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/008776b/2147483647/strip/true/crop/362x204+0+6/resize/172x97!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2015%2F12%2F17%2Fkyoto.jpg 1x,https://cdn-3.expansion.mx/dims4/default/3a686f7/2147483647/strip/true/crop/362x204+0+6/resize/344x194!/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2015%2F12%2F17%2Fkyoto.jpg 2x" width="172" height="97"></a> 
+         </div> 
+         <div class="BasicPromo-info"> 
+          <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/02/13/cinco-destinos-para-visitar-en-la-region-asia-pacifico" data-cms-ai="0">5 destinos para visitar en la región Asia-Pacífico</a> </h3> 
+         </div> 
+        </div> </li> 
+       <li class="BasicPromoList-items-item"> 
+        <div class="BasicPromo" data-promo-type="external" data-module> 
+         <div class="BasicPromo-media"> 
+          <i class="icon external"></i> 
+          <a class="Link" href="https://expansion.mx/ampstories/2019/02/08/ejercitar-hasta-morir" data-cms-ai="0"><img class="Image" alt="ejercicio.jpg" src="https://cdn-3.expansion.mx/dims4/default/399181d/2147483647/strip/true/crop/300x169+0+65/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F89%2F6e%2F7c0ee5bb4a909f13911515952e02%2Fpage01-02-300x300.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/399181d/2147483647/strip/true/crop/300x169+0+65/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F89%2F6e%2F7c0ee5bb4a909f13911515952e02%2Fpage01-02-300x300.jpg 1x,https://cdn-3.expansion.mx/dims4/default/6d0468e/2147483647/strip/true/crop/300x169+0+65/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F89%2F6e%2F7c0ee5bb4a909f13911515952e02%2Fpage01-02-300x300.jpg 2x" width="172" height="97"></a> 
+         </div> 
+         <div class="BasicPromo-info"> 
+          <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/02/08/ejercitar-hasta-morir" data-cms-ai="0">Ejercitar hasta morir: el entrenamiento intenso puede producir una condición mortal</a> </h3> 
+         </div> 
+        </div> </li> 
+       <li class="BasicPromoList-items-item"> 
+        <div class="BasicPromo" data-promo-type="external" data-module> 
+         <div class="BasicPromo-media"> 
+          <i class="icon external"></i> 
+          <a class="Link" href="https://expansion.mx/ampstories/2019/02/06/el-tren-mas-lujoso-del-mundo" data-cms-ai="0"><img class="Image" alt="tren más lujoso del mundo" src="https://cdn-3.expansion.mx/dims4/default/4cc1bae/2147483647/strip/true/crop/675x381+0+35/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2c%2Fda%2F3a6c550246e2a91f0e9414775c45%2Fscreen-shot-2018-06-20-at-14.46.59.png" srcset="https://cdn-3.expansion.mx/dims4/default/4cc1bae/2147483647/strip/true/crop/675x381+0+35/resize/172x97!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2c%2Fda%2F3a6c550246e2a91f0e9414775c45%2Fscreen-shot-2018-06-20-at-14.46.59.png 1x,https://cdn-3.expansion.mx/dims4/default/ceb2906/2147483647/strip/true/crop/675x381+0+35/resize/344x194!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2c%2Fda%2F3a6c550246e2a91f0e9414775c45%2Fscreen-shot-2018-06-20-at-14.46.59.png 2x" width="172" height="97"></a> 
+         </div> 
+         <div class="BasicPromo-info"> 
+          <h3 class="BasicPromo-title"> <a class="Link" href="https://expansion.mx/ampstories/2019/02/06/el-tren-mas-lujoso-del-mundo" data-cms-ai="0">Existe un tren en Japón que ha cosechado una exclusiva reputación</a> </h3> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </div> 
+    </section> 
+    <section class="BasicPromoList" data-module data-hide-itemcategory data-hide-itemdescription> 
+     <div data-module-contents> 
+      <ul class="BasicPromoList-items"> 
+       <li class="BasicPromoList-items-item"> 
+        <div class="LargePromo" data-promo-type="video" data-module> 
+         <div class="LargePromo-media player-inline"> 
+          <div class="BrightcoveVideoPlayer" data-video-player data-module data-player-id="1JLX6zDRW" data-video-id="6005853652001" data-video-title="La importancia de que 'Roma' gane un Oscar para Netflix" data-account-id="5145025920001" data-muted> 
+           <div data-module-contents> 
+            <iframe class="video-defer" data-src="https://players.brightcove.net/5145025920001/1JLX6zDRW_default/index.html?videoId=6005853652001&amp;playsinline" allowfullscreen webkitallowfullscreen mozallowfullscreen width="300" height="168"></iframe> 
+           </div> 
+          </div> 
+         </div> 
+         <div class="LargePromo-info"> 
+          <div class="LargePromo-category"> 
+           <a class="Link" href="https://expansion.mx/tecnologia" data-cms-ai="0">Tecnología</a> 
+          </div> 
+          <h3 class="LargePromo-title"> <a class="Link" href="https://expansion.mx/tecnologia/2019/02/22/la-importancia-de-que-roma-gane-un-oscar-para-netflix" data-cms-ai="0">La importancia de que 'Roma' gane un Oscar para Netflix</a> </h3> 
+          <div class="LargePromo-description"> 
+           <a class="Link" href="https://expansion.mx/tecnologia/2019/02/22/la-importancia-de-que-roma-gane-un-oscar-para-netflix" data-cms-ai="0">Ted Sarandos, director ejecutivo de Contenidos en Netflix, habla con Expansión sobre qué significaría un premio de la Academia de 'Roma' para la plataforma.</a> 
+          </div> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </div> 
+    </section> 
+    <div data-module class="GoogleDfpAd-wrap" data-hide-timeout="0" data-button-delay="0"> 
+     <span class="GoogleDfpAd-label">Publicidad</span> 
+     <div id="googleAd213ce361-8c97-44bd-83cb-4e70904b7bce" class="GoogleDfpAd" data-ad-name="exp-lateral-1" data-slot-name="72776159/es.gex.cnnexpansion/tecnologia" data-slot-sizes="[[300, 250]]" data-slot-adsizemap="[[[1024, 0], [300, 250]], [[768, 0], [300, 250]], [[320, 0], [300, 250]]]" data-slot-targeting="{&quot;pos&quot;:&quot;1&quot;}"> 
+     </div> 
+    </div> 
+    <section class="LinkList" data-module> 
+     <h3 class="LinkList-title"> <span class="Link">Lo Último</span> </h3> 
+     <ul class="LinkList-items"> 
+      <li class="LinkList-items-item"> 
+       <div class="LinkListPromo" data-promo-type="article"> 
+        <div class="LinkListPromo-info"> 
+         <h3 class="LinkListPromo-title"> <a class="Link" href="https://expansion.mx/tecnologia/2019/02/22/una-app-para-hacer-tu-propia-pelicula-de-lego" data-cms-ai="0">Una app para hacer tu propia película de LEGO</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="LinkList-items-item"> 
+       <div class="LinkListPromo" data-promo-type="article"> 
+        <div class="LinkListPromo-info"> 
+         <h3 class="LinkListPromo-title"> <a class="Link" href="https://expansion.mx/tecnologia/2019/02/22/5g-pantallas-plegables-y-huawei-congreso-mundial-del-movil" data-cms-ai="0">5G, pantallas plegables y Huawei dominarán el Congreso Mundial del Móvil</a> </h3> 
+        </div> 
+       </div> </li> 
+     </ul> 
+    </section> 
+    <div data-module class="GoogleDfpAd-wrap" data-hide-timeout="0" data-button-delay="0"> 
+     <span class="GoogleDfpAd-label">Publicidad</span> 
+     <div id="googleAd2d680306-9981-4d68-830d-5daf26a9cdc7" class="GoogleDfpAd" data-ad-name="banner-lateral-expansion" data-slot-name="72776159/es.gex.cnnexpansion/tecnologia" data-slot-sizes="[[300, 250], [160, 600], [120, 600], [300, 600]]" data-slot-adsizemap="[[[320, 0], [120, 600], [160, 600]], [[768, 0], [160, 600], [120, 600], [300, 600]], [[1024, 0], [160, 600], [120, 600], [300, 600], [300, 250]]]" data-slot-targeting="{&quot;pos&quot;:&quot;2&quot;}" data-bidders="[{&quot;bidder&quot;:&quot;criteo&quot;,&quot;params&quot;:{&quot;zoneId&quot;:&quot;782731&quot;}},{&quot;bidder&quot;:&quot;rubicon&quot;,&quot;params&quot;:{&quot;accountId&quot;: &quot;14066&quot;,&quot;siteId&quot;:&quot;115044&quot;,&quot;zoneId&quot;:&quot;542042&quot;,&quot;sizes&quot;:[15]}},{&quot;bidder&quot;:&quot;appnexus&quot;,&quot;params&quot;:{&quot;placementId&quot;:&quot;9500722&quot;}}]"> 
+     </div> 
+    </div> 
+    <section class="LinkList" data-module> 
+     <ul class="LinkList-items"> 
+      <li class="LinkList-items-item"> 
+       <div class="LinkListPromo" data-promo-type="article"> 
+        <div class="LinkListPromo-info"> 
+         <h3 class="LinkListPromo-title"> <a class="Link" href="https://expansion.mx/tecnologia/2019/02/22/blockchain-datos-abiertos-y-electricos-el-futuro-del-transporte" data-cms-ai="0">Blockchain, datos abiertos y eléctricos, el futuro del transporte </a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="LinkList-items-item"> 
+       <div class="LinkListPromo" data-promo-type="article"> 
+        <div class="LinkListPromo-info"> 
+         <h3 class="LinkListPromo-title"> <a class="Link" href="https://expansion.mx/tecnologia/2019/02/21/talento-barrera-en-la-implementacion-de-big-data-en-mexico-y-el-mundo" data-cms-ai="0">Talento, barrera en la implementación de Big Data en México...y el mundo</a> </h3> 
+        </div> 
+       </div> </li> 
+      <li class="LinkList-items-item"> 
+       <div class="LinkListPromo" data-promo-type="article"> 
+        <div class="LinkListPromo-info"> 
+         <h3 class="LinkListPromo-title"> <a class="Link" href="https://expansion.mx/tecnologia/2019/02/21/facebook-actualiza-controles-de-ubicacion-para-sus-usuarios-en-android" data-cms-ai="0">Facebook actualiza controles de ubicación para sus usuarios en Android</a> </h3> 
+        </div> 
+       </div> </li> 
+     </ul> 
+    </section> 
+    <div data-module class="GoogleDfpAd-wrap" data-hide-timeout="0" data-button-delay="0"> 
+     <span class="GoogleDfpAd-label">Publicidad</span> 
+     <div id="googleAd1a915fcf-5443-4fb9-b0d8-0f197300401b" class="GoogleDfpAd" data-ad-name="exp-lateral-2" data-slot-name="72776159/es.gex.cnnexpansion/tecnologia" data-slot-sizes="[[300, 600], [300, 250], [160, 600], [120, 600]]" data-slot-adsizemap="[[[320, 0], [120, 600], [160, 600]], [[768, 0], [160, 600], [120, 600], [300, 600]], [[1024, 0], [160, 600], [120, 600], [300, 600], [300, 250]]]" data-slot-targeting="{&quot;pos&quot;:&quot;3&quot;}" data-bidders="[{&quot;bidder&quot;:&quot;criteo&quot;,&quot;params&quot;:{&quot;zoneId&quot;:&quot;782731&quot;}},{&quot;bidder&quot;:&quot;rubicon&quot;,&quot;params&quot;:{&quot;accountId&quot;: &quot;14066&quot;,&quot;siteId&quot;:&quot;115044&quot;,&quot;zoneId&quot;:&quot;542042&quot;,&quot;sizes&quot;:[15,10,9,8]}},{&quot;bidder&quot;:&quot;appnexus&quot;,&quot;params&quot;:{&quot;placementId&quot;:&quot;9500722&quot;}}]"> 
+     </div> 
+    </div> 
+   </aside> 
+  </div> 
+  <div class="ArticlePage-stickyAd" data-sticky-ad> 
+   <div data-module class="GoogleDfpAd-wrap" data-hide-timeout="600" data-button-delay="0"> 
+    <span class="GoogleDfpAd-label">Publicidad</span> 
+    <div id="googleAdaa7f2ca3-96ad-4a4c-84da-9b774733f59f" class="GoogleDfpAd" data-ad-name="exp-inferior-footer" data-slot-name="72776159/es.gex.cnnexpansion/tecnologia" data-slot-sizes="[[970, 250], [970, 90], [728, 90], [320, 100], [320, 50], [300, 50], [300, 100]]" data-slot-adsizemap="[[[320, 0], [300, 100], [320, 50], [300, 50], [320, 100], [300, 250]], [[768, 0], [728, 90], [320, 100], [300, 100], [300, 50], [320, 50]], [[1024, 0], [728, 90], [970, 90], [970, 250]]]" data-slot-targeting="{&quot;pos&quot;:&quot;12&quot;}" data-bidders="[{&quot;bidder&quot;:&quot;rubicon&quot;,&quot;params&quot;:{&quot;accountId&quot;:&quot;14066&quot;,&quot;siteId&quot;:&quot;115044&quot;,&quot;zoneId&quot;:&quot;542042&quot;,&quot;sizes&quot;:[2,55,57]}},{&quot;bidder&quot;:&quot;appnexus&quot;,&quot;params&quot;:{&quot;placementId&quot;:&quot;14362740&quot;}}]"> 
+    </div> 
+   </div> 
+  </div> 
+  <footer class="ArticlePage-footer" itemscope itemtype="https://schema.org/WPFooter"> 
+   <script type="application/ld+json">
+                            [
+                              {
+                                "@context" : "http://schema.org",
+                                "@type" : "Organization",
+                                "name" : "Expansión",
+                                "url" : "https://expansion.mx"
+                              },
+                              {
+                                "@context": "http://schema.org",
+                                "@type": "WebSite",
+                                "url": "https://expansion.mx",
+                                "name": "Expansión",
+                                "description": "A través de un convenio de colaboración con la STPS, el IMJUVE y el Organismo Internacional de Juventud para Iberoamérica la tecnológica quiere apoyar a la juventud ",
+                                "potentialAction": {
+                                  "@type": "SearchAction",
+                                  "target": "https://expansion.mx/busqueda?q={search_term}",
+                                  "query-input": "required name=search_term" }
+                              }
+                            ]
+                          </script> 
+   <div class="flex-large"> 
+    <div class="ArticlePage-footerContent"> 
+     <div class="MagazinePromo" data-promo-type="external" data-module> 
+      <div class="MagazinePromo-media"> 
+       <i class="icon external"></i> 
+       <a class="Link" href="https://expansion.mx/suscribete" target="_blank" data-cms-ai="0"><img class="Image" alt="portada_footer_expansion" src="https://cdn-3.expansion.mx/dims4/default/99645c0/2147483647/strip/true/crop/225x290+0+0/resize/225x290!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4a%2Fc1%2Fc1a267a74ac9b34be605746bbc33%2Fp-footer1246.jpg" srcset="https://cdn-3.expansion.mx/dims4/default/4984c2d/2147483647/strip/true/crop/225x290+0+0/resize/450x580!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4a%2Fc1%2Fc1a267a74ac9b34be605746bbc33%2Fp-footer1246.jpg 2x" width="225" height="290"></a> 
+      </div> 
+      <div class="MagazinePromo-info"> 
+       <h3 class="MagazinePromo-title"> <a class="Link" href="https://expansion.mx/suscribete" target="_blank" data-cms-ai="0">¿Por fin los vamos a tomar en serio?</a> </h3> 
+      </div> 
+     </div> 
+     <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement"> 
+      <ul class="Navigation-items"> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="http://mediakit.grupoexpansion.mx" target="_blank" data-cms-ai="0">Publicidad</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://expansion.mx/aviso-legal-y-privacidad" target="_blank" data-cms-ai="0">Aviso legal y de privacidad</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://expansion.mx/canales-rss" target="_blank" data-cms-ai="0">Canales RSS</a> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </nav> 
+    </div> 
+    <div class="ArticlePage-footerLogo"> 
+     <img class="PageLogo-image" src="https://cdn-3.expansion.mx/dims4/default/9747636/2147483647/strip/true/crop/769x232+0+0/resize/99x30!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F03%2F55%2Fc1fe38d74c2098425c824dc3b839%2Flogo.jpeg" alt="" srcset="https://cdn-3.expansion.mx/dims4/default/616ff68/2147483647/strip/true/crop/769x232+0+0/resize/198x60!/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F03%2F55%2Fc1fe38d74c2098425c824dc3b839%2Flogo.jpeg 2x" width="99" height="30"> 
+    </div> 
+   </div> 
+   <div class="flex-small"> 
+    <div class="ArticlePage-social"> 
+     <div class="SocialBar"> 
+      <p class="SocialBar-heading">Síguenos en nuestras redes sociales:</p> 
+      <ul class="SocialBar-items"> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://www.facebook.com/ExpansionMex" target="_blank" data-social-service="facebook" data-cms-ai="0">ExpansionMex</a></li> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://plus.google.com/105148576356784727667" target="_blank" data-social-service="googleplus" data-cms-ai="0">105148576356784727667</a></li> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://www.instagram.com/expansionmx/" target="_blank" data-social-service="instagram" data-cms-ai="0">expansionmx</a></li> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://www.linkedin.com/company/expansion" target="_blank" data-social-service="linkedin" data-cms-ai="0">expansion</a></li> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://twitter.com/expansionmx" target="_blank" data-social-service="twitter" data-cms-ai="0">expansionmx</a></li> 
+       <li class="SocialBar-items-item"><a class="SocialLink" href="https://www.youtube.com/user/CNNExpansion" target="_blank" data-social-service="youtube" data-cms-ai="0">user/CNNExpansion</a></li> 
+      </ul> 
+     </div> 
+    </div> 
+    <p>Visita otros sitios del grupo:</p> 
+    <div class="ArticlePage-footerNavigation"> 
+     <nav class="Navigation" itemscope itemtype="http://schema.org/SiteNavigationElement"> 
+      <ul class="Navigation-items"> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://adnpolitico.com/" data-cms-ai="0">ADN Político</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://www.quien.com/" data-cms-ai="0">Quién</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://lifeandstyle.mx/" data-cms-ai="0">Life and Style</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="http://obrasweb.mx/" data-cms-ai="0">Obras</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="http://www.manufactura.mx/" data-cms-ai="0">Manufactura</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://elle.mx/" data-cms-ai="0">Elle</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://tecreview.tec.mx/" data-cms-ai="0">Tec Review</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://travelandleisure.mx/" data-cms-ai="0">Travel and Leasure</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="http://gourmetawards.mx/" data-cms-ai="0">Gourmet Awards</a> 
+         </div> 
+        </div> </li> 
+       <li class="Navigation-items-item"> 
+        <div class="NavigationItem"> 
+         <div class="NavigationItem-text"> 
+          <a class="NavigationItem-text-link" href="https://grupoexpansion.com/expansion/" data-cms-ai="0">Grupo Expansión</a> 
+         </div> 
+        </div> </li> 
+      </ul> 
+     </nav> 
+    </div> 
+    <div class="ArticlePage-richTextDisclaimer">
+     <p><img style="max-width:120px;" src="https://cdn.expansion.mx/resource/assets/uploaded/20180416/comscore.png" alt="comscore" data-src="https://cdn.expansion.mx/resource/assets/uploaded/20180416/comscore.png" class="lazyloaded" width="100" height="15"> Business/Finance</p>
+     <p>© 2019 Derechos Reservados Expansión, S.A. de C.V. </p>
+    </div> 
+   </div> 
+  </footer> 
+  <select data-skin-selector style="position: fixed; top: 0px; right: 0px; z-index: 999999999;"> <option value="https://cdn-3.expansion.mx/resource/00000163-1c6e-d902-a9f3-de7e186e0000/styleguide/skins/expansion/All.min.79fd1a721c89e2f8a2c844df87a838e3.gz.css">Expansion</option> <option value="https://cdn-3.expansion.mx/resource/00000163-1c6e-d902-a9f3-de7e186e0000/styleguide/skins/lifeandstyle/All.min.4eab0c0e2f92663e67af931348aca1ba.gz.css">LS</option> <option value="https://cdn-3.expansion.mx/resource/00000163-1c6e-d902-a9f3-de7e186e0000/styleguide/skins/politico/All.min.873b2627f4533ccd6369ce7a4eed5640.gz.css">Politico</option> <option value="https://cdn-3.expansion.mx/resource/00000163-1c6e-d902-a9f3-de7e186e0000/styleguide/skins/quien/All.min.f1500225ea29a63cc393b87663b88e3a.gz.css">Quien</option> <option value="https://cdn-3.expansion.mx/resource/00000163-1c6e-d902-a9f3-de7e186e0000/styleguide/skins/manufactura/All.min.115bc04d619fc66e6070c083f78c0695.gz.css">Manufactura</option> <option value="https://cdn-3.expansion.mx/resource/00000163-1c6e-d902-a9f3-de7e186e0000/styleguide/skins/obras/All.min.9a949f54eb46c4ab0b5832f8d798cc61.gz.css">Obras</option> </select> 
+  <script src="//expansion.mx/_resource/analytics/timeme.js"></script>
+  <span data-bsp-pv="4f8e492c-6f2f-390e-bc61-f176d3a37ab9"></span>
+  <span data-bsp-pv="00000168-ee5a-df77-a7fd-fede98870003"></span>
+  <script data-bsp-site="00000150-d355-da48-a770-db5549610000" src="//expansion.mx/_resource/analytics/track.js"></script>
+  <script src="//expansion.mx/_resource/brightspot/analytics/search/SiteSearchAnalytics.js" data-bsp-contentid="00000168-ee5a-df77-a7fd-fede98870003"></script>  
+ </body>
+</html>

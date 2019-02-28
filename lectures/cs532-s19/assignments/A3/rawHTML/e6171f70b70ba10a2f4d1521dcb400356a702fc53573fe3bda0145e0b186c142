@@ -1,0 +1,1869 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"6052f593fd","applicationID":"71488972","transactionName":"cglXFhAKWQ9cQEkES14ITU0SF1oJXFESERZCDlYV","queueTime":0,"applicationTime":138,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+  <title>CMで話題の美女ナタリー･エモンズ、着物姿で文化庁長官を表見訪問 | マイナビニュース</title>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="AscXjY0Rriv8RZ7rNmxHF9Jbjr/4U46zywiKgRYiX/v6IX1UUdKFW1NDCL+D+CHUkXhKBAH1URuLHe4CHRLOSw==" />
+  <script>
+//<![CDATA[
+var news_vars = {"genre":"entertainment","ch":"entertainment","cat":"television","brandgate":false,"categoryjack":false,"staff":"s0113595","ptype":"article-news-edit","displayForm":"common","analyticsTag":[],"adParameter":["ss_ads_ok"],"tags":["tv","tbs"],"deviceType":"PC","article":"/article/20190215-771866/","multiPage":false,"maxPage":1,"page":1};
+//]]>
+</script>
+  <meta name="cXenseParse:mnv-genre" content="entertainment" />
+<meta name="cXenseParse:mnv-ch" content="entertainment" />
+<meta name="cXenseParse:mnv-cat" content="television" />
+<meta name="cXenseParse:mnv-device" content="PC" />
+<meta name="cXenseParse:mnv-articleUrl" content="/article/20190215-771866/" />
+<meta name="cXenseParse:mnv-ptype" content="article-news-edit" />
+<meta name="article.author" content="s0113595" />
+<meta name="cXenseParse:mnv-bigimage" content="false" />
+<meta name="cXenseParse:mnv-page-total" content="1" />
+<meta name="cXenseParse:mnv-page-current" content="1" />
+<meta name="cXenseParse:mnv-pubyear" content="2019" />
+<meta name="cXenseParse:mnv-pubmonth" content="201902" />
+<meta name="cXenseParse:mnv-pubday" content="20190215" />
+<meta property="article:published_time" content="2019-02-15T11:00:00+09:00" />
+<meta name="cXenseParse:mnv-tags" content="tv" />
+<meta name="cXenseParse:mnv-tags" content="tbs" />
+  <script src="/assets/front_pc/load_jquery-395e36e8b50840dbe9f754bd87c5098de66e33f81061d9452420dbdb9ee760f1.js"></script>
+  <script src="/assets/front_pc/application_lazyload-f4ea64a19e76f9ec4dadf5c3f8f068f5cfcccad085945ead7c29d9ed57f37b14.js"></script>
+  <script src="https://news.mynavi.jp/mn_assets/js/tagmanager.js"></script>
+
+  <link rel="stylesheet" media="all" href="/assets/front_pc/application-5b9d00d9b30d5d58c6e522ade419eadff3f9d410c6d85c44c84ee64141348ec6.css" />
+  <link rel="stylesheet" media="print" href="/assets/front_pc/print-114c8b941ca7d098170073d1f8d28c22341e354f9adbb5b1139cbe33bccfcc10.css" />
+  <script src="/assets/front_pc/application-7cfa3c778e594e5468f7fbd0297745716865edc5ff1e78e5c307bab729378472.js" async="async"></script>
+  <script src="/assets/front_entertainment/application-42d94dec69599cb4d48a33ed658b00a2093fbf4ffc27fe02800b823f8bfc2cff.js"></script>
+  
+  <meta name="description" content="日本遺産を巡るTBSの旅番組『じょんのび日本遺産』(毎週日曜6:00～6:45)と、日本遺産を認定する文化庁とのタイアップが決定し、番組の“旅人”として各地域の日本遺産を訪れてきたナタリー・エモンズがこのほど、宮田亮平文化庁長官を表敬訪問した。" />
+  
+  
+  
+  <link rel="shortcut icon" href="/favicon.ico" />
+  <link rel="canonical" href="https://news.mynavi.jp/article/20190215-771866/" />
+  <link rel="amphtml" href="https://news.mynavi.jp/article/20190215-771866:amp/" />
+  <link rel="alternate" type="application/xml" title="マイナビニュース | エンタメ" href="https://news.mynavi.jp/rss/entertainment/entertainment" />
+<link rel="alternate" type="application/xml" title="マイナビニュース | エンタメ＞テレビ" href="https://news.mynavi.jp/rss/entertainment/entertainment/television" />
+  <meta property="og:type" content="article" />
+<meta property="og:title" content="CMで話題の美女ナタリー･エモンズ、着物姿で文化庁長官を表見訪問" />
+<meta property="og:url" content="https://news.mynavi.jp/article/20190215-771866/" />
+<meta property="og:locale" content="ja_JP" />
+<meta property="og:site_name" content="マイナビニュース" />
+<meta property="og:description" content="日本遺産を巡るTBSの旅番組『じょんのび日本遺産』(毎週日曜6:00～6:45)と、日本遺産を認定する文化庁とのタイアップが決定し、番組の“旅人”として各地域の日本遺産を訪れてきたナタリー・エモンズがこのほど、宮田亮平文化庁長官を表敬訪問した。" />
+<meta property="og:image" content="https://news.mynavi.jp/article/20190215-771866/index_images/index.jpg" />
+  <script type="application/ld+json">
+//<![CDATA[
+{"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://news.mynavi.jp/article/20190215-771866/","headline":"CMで話題の美女ナタリー･エモンズ、着物姿で文化庁長官を表見訪問","datePublished":"2019-02-15T11:00:00.000+09:00","dateModified":"2019-02-15T06:36:23.000+09:00","url":"https://news.mynavi.jp/article/20190215-771866/","description":"日本遺産を巡るTBSの旅番組『じょんのび日本遺産』(毎週日曜6:00～6:45)と、日本遺産を認定する文化庁とのタイアップが決定し、番組の“旅人”として各地域の日本遺産を訪れてきたナタリー・エモンズがこのほど、宮田亮平文化庁長官を表敬訪問した。","articleSection":"テレビ","thumbnailUrl":"https://news.mynavi.jp/article/20190215-771866/index_images/index.jpg","author":{"@type":"Organization","name":null},"publisher":{"@type":"Organization","name":"マイナビニュース","logo":{"@type":"ImageObject","url":"https://news.mynavi.jp/publicimg/banner/name/340/banner.jpg","width":257,"height":52}},"image":[{"@type":"ImageObject","url":"https://news.mynavi.jp/article/20190215-771866/index_images/index.jpg"},{"@type":"ImageObject","url":"https://news.mynavi.jp/article/20190215-771866/images/001.jpg","description":"ナタリー・エモンズ、宮田亮平文化庁長官"},{"@type":"ImageObject","url":"https://news.mynavi.jp/article/20190215-771866/images/002.jpg","description":"ナタリー・エモンズ"},{"@type":"ImageObject","url":"https://news.mynavi.jp/article/20190215-771866/images/003.jpg","description":"ナタリー・エモンズ"},{"@type":"ImageObject","url":"https://news.mynavi.jp/article/20190215-771866/images/004.jpg","description":"ナタリー・エモンズ"},{"@type":"ImageObject","url":"https://news.mynavi.jp/article/20190215-771866/images/005.jpg","description":"ナタリー・エモンズ"},{"@type":"ImageObject","url":"https://news.mynavi.jp/article/20190215-771866/images/006.jpg","description":"ナタリー・エモンズ"},{"@type":"ImageObject","url":"https://news.mynavi.jp/article/20190215-771866/images/007.jpg","description":"ナタリー・エモンズ"},{"@type":"ImageObject","url":"https://news.mynavi.jp/article/20190215-771866/images/008.jpg","description":"ナタリー・エモンズ"},{"@type":"ImageObject","url":"https://news.mynavi.jp/article/20190215-771866/images/009.jpg","description":"ナタリー・エモンズ"}]}
+//]]>
+</script>
+  <script type="application/ld+json">
+//<![CDATA[
+{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://news.mynavi.jp/","name":"ニューストップ"}},{"@type":"ListItem","position":2,"item":{"@id":"https://news.mynavi.jp/top/entertainment/","name":"エンタメトップ"}},{"@type":"ListItem","position":3,"item":{"@id":"https://news.mynavi.jp/top/entertainment/entertainment/","name":"エンタメ"}},{"@type":"ListItem","position":4,"item":{"@id":"https://news.mynavi.jp/top/entertainment/entertainment/television/","name":"テレビ"}}]}
+//]]>
+</script>
+  <meta property="fb:app_id" content="107386186392991" />
+<meta property="fb:pages" content="232590976805278" />
+<meta property="fb:pages" content="1486058054786046" />
+  <meta name="twitter:card" content="photo" />
+<meta name="twitter:site:id" content="@news_mynavi_jp" />
+<meta name="twitter:domain" content="news.mynavi.jp" />
+
+      <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+var googletag = googletag || {}; googletag.cmd = googletag.cmd || [];
+</script>
+<script src="//invocation.cheqzone.com/loader.js?id=4825&async=1" async></script>
+<script type='text/javascript'>
+if (typeof news_vars !== "undefined") {
+var cX = cX || {};cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['invoke',function(){
+  googletag.cmd.push(function() {
+    // Key-Value
+    var gnr;
+    var ch;
+    var cat;
+    if (typeof news_vars.genre == "undefined" || news_vars.genre == "") {
+      gnr = "top";
+      ch = "top";
+      cat = "";
+    } else {
+      if (typeof news_vars.ch == "undefined" || news_vars.ch == "") {
+        ch = "top";
+        cat = "";
+      } else{
+        if (typeof news_vars.cat == "undefined" || news_vars.cat == "") {
+          cat = "top";
+        } else {
+          cat = news_vars.cat.replace(/\-|\_/,"");
+        }
+        ch = news_vars.ch.replace(/\-|\_/,"");
+      }
+      gnr = news_vars.genre.replace(/\-|\_/,"");
+    }
+    var gnr_target='mn.' + gnr;
+    var ch_target='mn.' + ch;
+    var cat_target='mn.' + ch + "." + cat;
+    googletag.pubads().setTargeting('gnr', [gnr_target]);
+    googletag.pubads().setTargeting('ch', [ch_target]);
+    googletag.pubads().setTargeting('cat', [cat_target]);
+    if (news_vars.brandgate || news_vars.categoryjack || news_vars.ch == "hisamitsu") {
+      googletag.pubads().setTargeting('mp', ['yes']);
+    }
+    // Host
+    var display_host = false;
+    if(location.hostname.match(/(^|stg\.|dev\d{2}\.)news.mynavi.jp/))display_host = true;
+    // no-ad
+    var is_no_ad = false;
+    if(!news_vars.ad && !news_vars.brandgate && !news_vars.categoryjack && news_vars.ptype && news_vars.ch != "hisamitsu")is_no_ad = true;
+    // article
+    var is_article = false;
+    if(news_vars.ptype !== "undefined" && !news_vars.ptype.match(/^top.*/))is_article = true;
+    // image
+    var is_image = false;
+    if(news_vars.displayForm !== "undefined" &&  news_vars.displayForm == "image")is_image = true;
+    if(!is_image) {
+      if(display_host && is_no_ad) {
+        if (document.referrer != location.href && !document.referrer.match(/(news|headlines)\.yahoo\.co\.jp/)) {
+          googletag.defineSlot('/6082618/mn.welcome', [1, 1], 'div-gpt-ad-1479185899023-20').addService(googletag.pubads());
+        }
+        googletag.defineSlot('/6082618/mn.gateside', [1, 1], 'div-gpt-ad-1479185899023-6').addService(googletag.pubads());
+        googletag.defineSlot('/6082618/mn.inread', [[1, 1], [300, 250], [336, 280], [640, 360], 'fluid'], 'div-gpt-ad-1466143984602-1').addService(googletag.pubads());
+        googletag.defineSlot('/6082618/mn.kanren1', ['fluid'], 'div-gpt-ad-1535073804592-0').addService(googletag.pubads());
+      }
+      if(is_article && (!news_vars.ad || news_vars.brandgate || news_vars.categoryjack)) {
+        googletag.defineSlot('/6082618/mn.contbottom1', [[684, 90], 'fluid'], 'div-gpt-ad-1479185899023-0').addService(googletag.pubads());
+        googletag.defineSlot('/6082618/mn.contbottom2', 'fluid', 'div-gpt-ad-1479185899023-1').addService(googletag.pubads());
+      }
+    }
+    if( (display_host && is_no_ad) || news_vars.cat == "tokyo2020") {
+      googletag.defineSlot('/6082618/mn.billboard', [[1, 1], [728, 90], [970, 90], [970, 250], 'fluid'], 'div-gpt-ad-1466143984602-0').addService(googletag.pubads());
+    }
+
+    if(display_host && is_no_ad) {
+      googletag.defineSlot('/6082618/mn.overlay', [1, 1], 'div-gpt-ad-1507249628623-0').addService(googletag.pubads());
+    }
+    if(is_article) {
+      googletag.defineSlot('/6082618/mn.recl', [300, 250], 'div-gpt-ad-1479185899023-18').addService(googletag.pubads());
+      googletag.defineSlot('/6082618/mn.recr', [300, 250], 'div-gpt-ad-1479185899023-19').addService(googletag.pubads());
+    }
+    googletag.defineSlot('/6082618/mn.headline1', 'fluid', 'div-gpt-ad-1479185899023-7').addService(googletag.pubads());
+    googletag.defineSlot('/6082618/mn.headline2', 'fluid', 'div-gpt-ad-1479185899023-8').addService(googletag.pubads());
+    googletag.defineSlot('/6082618/mn.headline3', 'fluid', 'div-gpt-ad-1479185899023-9').addService(googletag.pubads());
+    googletag.defineSlot('/6082618/mn.headline4', 'fluid', 'div-gpt-ad-1479185899023-10').addService(googletag.pubads());
+    googletag.defineSlot('/6082618/mn.reca', [[300, 250], [300, 600], 'fluid'], 'div-gpt-ad-1479185899023-14').addService(googletag.pubads());
+    googletag.defineSlot('/6082618/mn.recb', [[300, 250], [300, 600], 'fluid'], 'div-gpt-ad-1479185899023-16').addService(googletag.pubads());
+    googletag.defineSlot('/6082618/mn.recc', [[300, 250], [300, 600], 'fluid'], 'div-gpt-ad-1485738116644-0').addService(googletag.pubads());
+    googletag.defineSlot('/6082618/mn.footer', [[684, 90], 'fluid'], 'div-gpt-ad-1479185899023-4').addService(googletag.pubads());
+    googletag.defineSlot('/6082618/mn.rank1', 'fluid', 'div-gpt-ad-1479185899023-12').addService(googletag.pubads());
+    googletag.defineSlot('/6082618/mn.rank2', 'fluid', 'div-gpt-ad-1479185899023-15').addService(googletag.pubads());
+    // Cxense
+    var cXwhitelist = ['8mgxcn5o9xxh', '8lur5lt37tay'];
+    var cXsegments = cX.getUserSegmentIds({persistedQueryId:'311441b6cd0ca6fc0f71e5432c8e4ab9e5f5f2ff'});
+    cXmixedlist = cXwhitelist.concat(cXsegments).filter(function (x, i, self) {
+     return self.indexOf(x) === i && i !== self.lastIndexOf(x);
+    });
+    googletag.pubads().setTargeting("CxSegments_mn", cXmixedlist);
+    /*
+    if (location.href.match(/stg/)) {
+      googletag.pubads().setTargeting('sitetype', ['test']);
+    }
+    */
+    if(location.hostname.match(/(stg\.|dev\d{2}\.)news.mynavi.jp/)) {
+      googletag.pubads().setTargeting('sitetype', ['test']);
+    }
+    if(typeof news_vars.ptype !== "undefined" && news_vars.ptype.match(/^top.*/)) {
+      googletag.pubads().setTargeting('mnpagetype', [news_vars.ptype]);
+    } else if(typeof news_vars.displayForm !== "undefined" && news_vars.displayForm.match(/^image$/)) {
+      googletag.pubads().setTargeting('mnpagetype', [news_vars.displayForm]);
+    }
+    if(news_vars.analyticsTag instanceof Array && typeof news_vars.analyticsTag[0] !== "undefined") {
+      var tag = news_vars.analyticsTag || '';
+      var mntag_array = tag.map(function(e) {
+        return e.replace(/\-|\_/,"");
+      });
+      googletag.pubads().setTargeting('mntag', mntag_array);
+    }else {
+      googletag.pubads().setTargeting('mntag', ['none']);
+    }
+    // keywords
+    if (typeof news_vars.tags !== "undefined" && news_vars.tags instanceof Array) {
+      googletag.pubads().setTargeting('mnkeyword', news_vars.tags);
+    }
+    // ads
+    var exclude_cat_filter = ['mn.entertainment.geinou','mn.hobby.model','mn.life.health','mn.life.ed','mn.life.workstyle'];
+    if (exclude_cat_filter.indexOf(cat_target) > -1) {
+      // ng-cat
+      if(news_vars.adParameter instanceof Array && /ok/.test(news_vars.adParameter[0])) {
+        googletag.pubads().setTargeting('ads', ['ok']);
+      } else {
+        googletag.pubads().setTargeting('ads', ['ng']);
+      }
+    } else {
+      // ok-cat
+      if(news_vars.adParameter instanceof Array && /ng/.test(news_vars.adParameter[0])) {
+        googletag.pubads().setTargeting('ads', ['ng']);
+      } else {
+        googletag.pubads().setTargeting('ads', ['ok']);
+      }
+    }
+    googletag.pubads().disableInitialLoad();
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });  
+}]);
+}
+</script>
+
+<script type='text/javascript'>
+//Async load of cx.js
+(function(d,s,e,t){e=d.createElement(s);e.type='text/java'+s;e.async='async';
+e.src='http'+('https:'===location.protocol?'s://s':'://')+'cdn.cxense.com/cx.js';
+t=d.getElementsByTagName(s)[0];t.parentNode.insertBefore(e,t);})(document,'script');
+</script>
+
+<script type='text/javascript'>
+// article
+var is_article = false;
+if(news_vars.ptype !== "undefined" && !news_vars.ptype.match(/^top.*/))is_article = true;
+// image
+var is_image = false;
+if(news_vars.displayForm !== "undefined" &&  news_vars.displayForm == "image")is_image = true;
+if(is_article && !is_image) {
+  // apstag
+  !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
+  {q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(
+  A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+  // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+  apstag.init({ pubID: '3665',
+  adServer: 'googletag', bidTimeout: 1700
+  });
+  // request the bids for the four googletag slots
+  apstag.fetchBids({ slots: [
+    {
+      slotID: 'div-gpt-ad-1466143984602-0',
+      slotName: '/6082618/mn.billboard',
+      sizes: [[970, 250], [728, 90]]
+    },
+    {
+      slotID: 'div-gpt-ad-1479185899023-14',
+      slotName: '/6082618/mn.reca',
+      sizes: [[300, 250], [300, 600]]
+    },
+    {
+      slotID: 'div-gpt-ad-1479185899023-16',
+      slotName: '/6082618/mn.recb',
+      sizes: [[300, 250], [300, 600]]
+    },
+    {
+      slotID: 'div-gpt-ad-1485738116644-0',
+      slotName: '/6082618/mn.recc',
+      sizes: [[300, 250], [300, 600]]
+    },
+    {
+      slotID: 'div-gpt-ad-1466143984602-1',
+      slotName: '/6082618/mn.inread',
+      sizes: [[300, 250], [336, 280]]
+    },
+    {
+      slotID: 'div-gpt-ad-1479185899023-18',
+      slotName: '/6082618/mn.recl',
+      sizes: [[300, 250]]
+    },
+    {
+      slotID: 'div-gpt-ad-1479185899023-19',
+      slotName: '/6082618/mn.recr',
+      sizes: [[300, 250]]
+    }
+  ]
+  }, function(bids) {
+    // trigger the first request to DFP
+    cX.callQueue.push(['invoke',function(){
+      googletag.cmd.push(function() {
+        apstag.setDisplayBids();
+        // googletag.pubads().refresh();
+      });
+    }]);
+  });
+  var googletag = googletag || {}; 
+  googletag.cmd = googletag.cmd || []; 
+  var pbjs = pbjs || {}; 
+  pbjs.que = pbjs.que || [];
+   
+  var bxad = bxad || {};
+  bxad.exelist = bxad.exelist || [];
+  bxad.timeout = 1700;
+  pbjs.que.push(function() {
+    pbjs.setConfig({ "userSync" :{"iframeEnabled" : true, "syncEnabled": true, "syncDelay": 5000, "enabledBidders": ['pubmatic']}});
+  });
+  bxad.exelist.push(function() {
+    bxad.publish(2001179, 113, '5fe0558af619cb3e14044bc39b65499b');
+  });
+  setTimeout(function() { 
+    if (pbjs.adserverRequestSent) {
+       return;
+    } 
+    pbjs.adserverRequestSent = true; 
+    cX.callQueue.push(['invoke',function(){
+      googletag.cmd.push(function() {
+        pbjs.que.push(function() {
+          pbjs.setTargetingForGPTAsync();
+        }); 
+        googletag.pubads().refresh();
+      });
+    }]);
+  }, bxad.timeout); 
+} else {
+  jQuery(function(){
+    cX.callQueue.push(['invoke',function(){
+      googletag.cmd.push(function() { googletag.pubads().refresh();});
+    }]);
+  });
+}
+</script>
+<script async='async' type="text/javascript" src="//hbw.adjust-net.jp/adserver/ad/bxhb.js"></script>
+<script async='async' type="text/javascript" src="//hbw.adjust-net.jp/adserver/ad/prebid.js"></script>
+
+
+  
+</head>
+
+<body data-device-type='PC'>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MF3WML5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- /6082618/mn.welcome -->
+<div id='div-gpt-ad-1479185899023-20' class='print-no'>
+  <script>
+  cX.callQueue.push(['invoke',function(){
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-20'); });
+  }]);
+  </script>
+</div>
+
+
+
+<header class='header header--entertainment'>
+  <div class="header__inner">
+    <nav class="header-nav gtm" gtm-label="all_head_navi">
+
+
+    <div class="header-nav__genre js-menu">
+      <a class="header-nav__btn header-nav__btn--business " href="/top/business/enterprise/">企業IT</a>
+
+          <div class="header-nav__panel js-menu__item header-nav__panel--left">
+
+            <div class="channel-business">
+              <a class="channel-business__tit" href="/top/business/enterprise/">企業IT</a>
+
+                <ul class="category-business">
+                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/enterprise/itsystem/">情報システム</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/enterprise/security/">セキュリティ</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/enterprise/mobilesolution/">モバイル</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/enterprise/engineer/">開発/エンジニア</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/enterprise/management/">業務システム</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/enterprise/soho/">SOHO/SMB</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/enterprise/corp/">企業動向</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/enterprise/marketing/">マーケティング</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/enterprise/bizskillup/">ビジネススキル向上</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/enterprise/vendor_contents/">ベンダーコンテンツ</a>
+</li>                </ul>
+              
+
+                <p class="channel-business__sponsored">
+                  <span class="channel-business__sponsored-item">
+                    SPONSORED
+</span></p>                <ul class="category-sponsored">
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/business/enterprise/kagoya/">カゴヤ・ジャパン</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/business/enterprise/virtual_storage/">仮想化ストレージ</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/business/enterprise/kofax/">RPA</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/business/enterprise/glovia_kirara/">GLOVIA きらら</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/business/enterprise/engineer_study/">エンジニア学習支援</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/business/enterprise/cyber_exposure/">サイバーエクスポージャー</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/business/enterprise/furunosystems/">無線LAN / Wi-Fi</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/business/enterprise/sharp/">SHARP ”Be Original.”</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/business/enterprise/">企業ITトップ</a>
+            </div>
+          </div>
+        
+      
+</div>    <div class="header-nav__genre js-menu">
+      <a class="header-nav__btn header-nav__btn--business " href="/top/business/technology/">テクノロジー</a>
+
+          <div class="header-nav__panel js-menu__item header-nav__panel--left">
+
+            <div class="channel-business">
+              <a class="channel-business__tit" href="/top/business/technology/">テクノロジー</a>
+
+                <ul class="category-business">
+                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/semiconductor/">半導体デバイス</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/future_tech/">次世代半導体技術</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/carelectronics/">カーエレクトロニクス</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/rt/">産業機器/ロボット</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/embedded/">組み込み</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/sc/">スパコン/HPC</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/measurement/">計測機器</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/energy/">エネルギー</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/medical/">医療/バイオ</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/science/">サイエンス</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/aerospace/">宇宙・航空</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="/top/business/technology/monozukuri/">ものづくり</a>
+</li>                </ul>
+              
+
+                <p class="channel-business__sponsored">
+                  <span class="channel-business__sponsored-item">
+                    SPONSORED
+</span></p>                <ul class="category-sponsored">
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/business/technology/iot/">IoT</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/business/technology/">テクノロジートップ</a>
+            </div>
+          </div>
+        
+      
+</div>    <div class="header-nav__genre js-menu header-nav__genre--base">
+      <a class="header-nav__btn header-nav__btn--business " href="/top/business/biz/">ビジネス</a>
+
+          <div class="header-nav__panel js-menu__item">
+
+            <div class="channel-business">
+              <a class="channel-business__tit" href="/top/business/biz/">ビジネス</a>
+
+                <ul class="category-business">
+                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://biz.news.mynavi.jp/">NewsInsight （サイトトップ）</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://biz.news.mynavi.jp/subcategory/%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1">携帯電話</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://biz.news.mynavi.jp/subcategory/%E3%82%AF%E3%83%AB%E3%83%9E">クルマ</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://biz.news.mynavi.jp/subcategory/e%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84">eスポーツ</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://biz.news.mynavi.jp/subcategory/%E9%9B%BB%E6%A9%9F%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC">電機メーカー</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://biz.news.mynavi.jp/subcategory/%E3%83%86%E3%82%AF%E3%83%8E%E3%83%AD%E3%82%B8%E3%83%BC">テクノロジー</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://biz.news.mynavi.jp/subcategory/Apple">Apple</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://biz.news.mynavi.jp/list/knowledge">ナレッジバンク</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://biz.news.mynavi.jp/category/andy">安東弘樹のクルマ向上委員会!</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://biz.news.mynavi.jp/category/jiryu_hyoryu">カレー沢薫の時流漂流</a>
+</li>                </ul>
+              
+
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/business/biz/">ビジネストップ</a>
+            </div>
+          </div>
+        
+      
+</div>    <div class="header-nav__genre js-menu header-nav__genre--base">
+      <a class="header-nav__btn header-nav__btn--business " href="/top/business/itsearch/">IT製品比較</a>
+
+          <div class="header-nav__panel js-menu__item">
+
+            <div class="channel-business">
+              <a class="channel-business__tit" href="/top/business/itsearch/">IT製品比較</a>
+
+                <ul class="category-business">
+                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://news.mynavi.jp/itsearch/product/all">製品情報</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://news.mynavi.jp/itsearch/seminar/">ITセミナー</a>
+</li>                    <li class="category-business__item">
+                      <a class="category-business__link" href="https://news.mynavi.jp/itsearch/article/all">解説/事例記事</a>
+</li>                </ul>
+              
+
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/business/itsearch/">IT製品比較トップ</a>
+            </div>
+          </div>
+        
+      
+</div>    <div class="header-nav__genre js-menu header-nav__genre--base">
+      <a class="header-nav__btn header-nav__btn--digital " href="/top/digital/pc/">パソコン</a>
+
+          <div class="header-nav__panel js-menu__item">
+
+            <div class="channel-digital">
+              <a class="channel-digital__tit" href="/top/digital/pc/">パソコン</a>
+
+                <ul class="category-digital">
+                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/pc/windows/">Windows</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/pc/apple/">アップル</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/pc/hontai/">PC本体</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/pc/pc_gaming/">PCゲーミング</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/pc/peripheral/">周辺機器</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/pc/jisaku/">自作 / テクノロジ</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/pc/software/">ソフト</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/pc/internet/">インターネット</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/pc/pcsecurity/">セキュリティ対策</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/pc/pccampaign/">キャンペーン / イベント</a>
+</li>                </ul>
+              
+
+                <p class="channel-digital__sponsored">
+                  <span class="channel-digital__sponsored-item">
+                    SPONSORED
+</span></p>                <ul class="category-sponsored">
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/pc/dospara/">ドスパラ</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/pc/pc_koubou/">パソコン工房</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/pc/mouse-jp/">マウスコンピューター</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/pc/brother/">ブラザー</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/pc/wacom/">ワコム</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/pc/silicon_power/">シリコンパワー</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/pc/frontier/">FRONTIER</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/digital/pc/">パソコントップ</a>
+            </div>
+          </div>
+        
+      
+</div>    <div class="header-nav__genre js-menu header-nav__genre--base">
+      <a class="header-nav__btn header-nav__btn--digital " href="/top/digital/kaden/">スマホとデジタル家電</a>
+
+          <div class="header-nav__panel js-menu__item">
+
+            <div class="channel-digital">
+              <a class="channel-digital__tit" href="/top/digital/kaden/">スマホとデジタル家電</a>
+
+                <ul class="category-digital">
+                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/iphone/">iPhone</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/android/">Android</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/camera/">デジカメ</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/tv/">テレビ / レコーダー</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/audio/">サウンド / オーディオ</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/watch/">時計 / ウェアラブル</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/living/">生活家電</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/mobilecareer/">携帯キャリア</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/sim/">MVNO</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/mobileservice/">スマホアプリ / サービス</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/accessory/">スマホアクセサリー</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/digital/">その他ガジェット</a>
+</li>                    <li class="category-digital__item">
+                      <a class="category-digital__link" href="/top/digital/kaden/e_store/">家電量販店</a>
+</li>                </ul>
+              
+
+                <p class="channel-digital__sponsored">
+                  <span class="channel-digital__sponsored-item">
+                    SPONSORED
+</span></p>                <ul class="category-sponsored">
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/kaden/casio/">CASIO</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/kaden/canon/">キヤノン</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/kaden/iijmio/">IIJmio</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/digital/kaden/sourcenext/">翻訳機</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/digital/kaden/">スマホとデジタル家電トップ</a>
+            </div>
+          </div>
+        
+      
+</div>    <div class="header-nav__genre js-menu header-nav__genre--base">
+      <a class="header-nav__btn header-nav__btn--kurashi " href="/top/kurashi/life/">ワーク＆ライフ</a>
+
+          <div class="header-nav__panel js-menu__item">
+
+            <div class="channel-kurashi">
+              <a class="channel-kurashi__tit" href="/top/kurashi/life/">ワーク＆ライフ</a>
+
+                <ul class="category-kurashi">
+                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/b_trend/">ビジネストレンド</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/career/">キャリアアップ</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/work/">仕事術</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/investment/">投資</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/savings/">貯蓄</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/card/">カードと電子マネー</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/residence/">住まい</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/health/">心と身体の健康</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/balance/">ワークライフバランス</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/ed/">大人の悩み</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/dual_income/">共働きと育児</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/workstyle/">女性のワークスタイル</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/life/tokyo2020/">東京2020</a>
+</li>                </ul>
+              
+
+                <p class="channel-kurashi__sponsored">
+                  <span class="channel-kurashi__sponsored-item">
+                    SPONSORED
+</span></p>                <ul class="category-sponsored">
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/kurashi/life/pre-mama/">初産</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/kurashi/life/moving/">引越術</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/kurashi/life/house_life/">住まいと暮らし方</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/kurashi/life/kurashi-care/">暮らしケア</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="http://www.hikaku-cardloan.news.mynavi.jp/?add=mynPCPAD01_0000000">カードローン</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/kurashi/life/">ワーク＆ライフトップ</a>
+            </div>
+          </div>
+        
+      
+</div>    <div class="header-nav__genre js-menu header-nav__genre--base">
+      <a class="header-nav__btn header-nav__btn--kurashi " href="/top/kurashi/travel/">乗りもの</a>
+
+          <div class="header-nav__panel js-menu__item">
+
+            <div class="channel-kurashi">
+              <a class="channel-kurashi__tit" href="/top/kurashi/travel/">乗りもの</a>
+
+                <ul class="category-kurashi">
+                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/travel/leisure/">レジャー</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/travel/train/">鉄道</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/travel/airline/">エアライン</a>
+</li>                    <li class="category-kurashi__item">
+                      <a class="category-kurashi__link" href="/top/kurashi/travel/motor/">車とバイク</a>
+</li>                </ul>
+              
+
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/kurashi/travel/">乗りものトップ</a>
+            </div>
+          </div>
+        
+      
+</div>    <div class="header-nav__genre js-menu header-nav__genre--base">
+      <a class="header-nav__btn header-nav__btn--entertainment  header-nav__btn--current " href="/top/entertainment/entertainment/">エンタメ</a>
+
+          <div class="header-nav__panel js-menu__item">
+
+            <div class="channel-entertainment">
+              <a class="channel-entertainment__tit channel-entertainment__tit--current" href="/top/entertainment/entertainment/">エンタメ</a>
+
+                <ul class="category-entertainment">
+                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/entertainment/geinou/">芸能</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link category-entertainment__link--current" href="/top/entertainment/entertainment/television/">テレビ</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/entertainment/movie/">映画</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/entertainment/amusement/">アミューズメント</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/entertainment/book/">ブック</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/entertainment/overseas/">海外トピックス</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/entertainment/bscs/">BS・CS番組</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/entertainment/wadai/">話題</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/entertainment/skyperfectv/">スカパー！</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/entertainment/wowow/">WOWOW</a>
+</li>                </ul>
+              
+
+                <p class="channel-entertainment__sponsored">
+                  <span class="channel-entertainment__sponsored-item">
+                    SPONSORED
+</span></p>                <ul class="category-sponsored">
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/entertainment/entertainment/papy/">Renta!</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/entertainment/entertainment/spotify/">音楽</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/entertainment/entertainment/videomarket/">ビデオマーケット</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/entertainment/entertainment/">エンタメトップ</a>
+            </div>
+          </div>
+        
+      
+</div>    <div class="header-nav__genre js-menu">
+      <a class="header-nav__btn header-nav__btn--entertainment " href="/top/entertainment/hobby/">ホビー</a>
+
+          <div class="header-nav__panel js-menu__item header-nav__panel--right">
+
+            <div class="channel-entertainment">
+              <a class="channel-entertainment__tit" href="/top/entertainment/hobby/">ホビー</a>
+
+                <ul class="category-entertainment">
+                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/hobby/animation/">アニメ</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/hobby/tokusatu/">特撮</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/hobby/comics/">コミック</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/hobby/game/">ゲーム</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/hobby/model/">模型・フィギュア</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/hobby/toy/">玩具</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/hobby/trend/">ぷちトレ</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/hobby/h_ranking/">ランキング</a>
+</li>                    <li class="category-entertainment__item">
+                      <a class="category-entertainment__link" href="/top/entertainment/hobby/shogi/">将棋</a>
+</li>                </ul>
+              
+
+                <p class="channel-entertainment__sponsored">
+                  <span class="channel-entertainment__sponsored-item">
+                    SPONSORED
+</span></p>                <ul class="category-sponsored">
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/entertainment/hobby/bandai/">バンダイ/BANDAI SPIRITS</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/entertainment/hobby/kotobukiya/">コトブキヤ</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/entertainment/hobby/banpresto/">バンプレスト</a>
+                    </li>
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/entertainment/hobby/mecha/">めちゃコミック</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/entertainment/hobby/">ホビートップ</a>
+            </div>
+          </div>
+        
+      
+</div>    <div class="header-nav__genre js-menu">
+      <a class="header-nav__btn header-nav__btn--present " href="/top/present/present/">読者コーナー</a>
+
+
+      
+</div>    <div class="header-nav__genre js-menu">
+      <a class="header-nav__btn header-nav__btn--kurashi " href="/top/kurashi/hisamitsu/">久光製薬</a>
+
+          <div class="header-nav__panel js-menu__item header-nav__panel--right">
+
+            <div class="channel-kurashi">
+              <a class="channel-kurashi__tit" href="/top/kurashi/hisamitsu/">久光製薬</a>
+
+
+
+                <p class="channel-kurashi__sponsored">
+                  <span class="channel-kurashi__sponsored-item">
+                    SPONSORED
+</span></p>                <ul class="category-sponsored">
+                    <li class="category-sponsored__item">
+                      <a class="category-sponsored__link" href="/top/kurashi/hisamitsu/hisamitsu/">久光製薬</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- SP・TABLET用 チャンネルトップリンク -->
+            <div class="header-nav__top js-menu__toplink">
+              <a class="header-nav__top-link" href="/top/kurashi/hisamitsu/">久光製薬トップ</a>
+            </div>
+          </div>
+        
+      
+</div></nav>
+
+
+  </div><!-- / header__inner -->
+<script type="text/javascript">
+(function() {
+var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.charset = "utf-8"; pa.async = true;
+pa.src = window.location.protocol + "//api.popin.cc/searchbox/mynavi_news_renewal.js";
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+})();
+</script>
+
+<script charset="UTF-8">
+(function(){
+var _lgy_lw = document.createElement("script");
+_lgy_lw.type = "text/javascript";
+_lgy_lw.charset = "UTF-8";
+_lgy_lw.async = true;
+_lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=4281627";
+var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+_lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+})();
+</script>
+</header>
+
+
+<div class="wrapper"><!-- #####   site-header + side-nav + ( main + side-column )   ##### -->
+<!-- ####################  サイトヘッダー  開始  #################### -->
+<div class="site-header">
+  <div class="site-header__inner">
+    <div class="site-header__tit">
+      <a href="/">        <img alt="マイナビニュース" class="site-header__logo" src="/assets/common/logo-d1ad2e7603b4f97c1efcd4ebc3efa27629180ba14ef8a192f77e57533a04af5c.png" /></a></div>      <div class="site-header__bnr">
+          <a href="/top/entertainment/entertainment/">
+    <img alt="エンタメ" src="/assets/channel/logo_entertainment-b183400a75d9c80ecd3ed6b8bdb906a3745040cf08210d73ac0ead04f397a584.png" />
+</a>
+</div>      <div class="header-search">
+        <div class="header-search__inner">
+          <form gtm-label="all_head_search" class="gtm" action="/freeword" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+            <input type="text" name="q" id="q" class="header-search__txt" placeholder="検索ワード" />
+            <input type="submit" name="commit" value="" class="header-search__btn" data-disable-with="" />
+</form>        </div>
+        <a href="https://tracker.adplan7.com/wa/c/r/p?md=427&cp=10196&agr=207205&ad=817802" class="header-search__mypage gtm" gtm-label="all_head_mypage">会員ページ</a>
+      </div>
+  </div><!-- /site-header__inner -->
+
+  <div class="site-header__inner">
+
+      <div class="site-notice">
+  <p class="site-notice__tit">お知らせ</p>
+
+  <!-- ニューストリッカー 開始 -->
+  <ul class="site-notice__list js-ticker">
+      <li class="site-notice__txt js-ticker__item">
+        <a class="site-notice__link" target="_blank" href="https://news.mynavi.jp/lp/2018/entertainment/hobby/kamen-rider_movie_2018/">ありがとう平成仮面ライダー!『平成ジェネレーションズFOREVER』大特集</a>
+      </li>
+      <li class="site-notice__txt js-ticker__item">
+        <a class="site-notice__link" target="_blank" href="https://news.mynavi.jp/mypage/game/access/farm">Tポイントが貯まる 『マイナビベアのさくさくファーム』/PCのみ対応</a>
+      </li>
+      <li class="site-notice__txt js-ticker__item">
+        <a class="site-notice__link" target="_blank" href="https://news.mynavi.jp/mypage/game/access/stamp">Tポイントが貯まる『マイナビベアのミニゲーカフェ』開始</a>
+      </li>
+      <li class="site-notice__txt js-ticker__item">
+        <a class="site-notice__link" target="_blank" href="http://news.mynavi.jp/topic/recruit-mnnews/">マイナビニュースではライフスタイル・エンタメのジャンルで記者・ライターを募集しています</a>
+      </li>
+  </ul>
+  <!-- ニューストリッカー 終了 -->
+</div>
+
+  </div><!-- /site-header__inner -->
+
+</div><!-- /site-header -->
+
+
+<!-- ####################  サイトヘッダー 終了  #################### -->
+
+
+
+<!-- /6082618/mn.billboard -->
+<div id='div-gpt-ad-1466143984602-0' class='print-no'>
+<script type='text/javascript'>
+cX.callQueue.push(['invoke',function(){
+  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466143984602-0'); });
+}]);
+</script>
+</div>
+
+<style>
+#div-gpt-ad-1466143984602-0{text-align: center;padding-top: 20px;}
+</style>
+
+
+      <ul class="breadcrumb ">
+        <li class="breadcrumb__item">
+          <a class="breadcrumb__link" href="/">ニューストップ</a>
+        </li>
+        <li class="breadcrumb__item">
+          <a class="breadcrumb__link" href="/top/entertainment/">エンタメトップ</a>
+        </li>
+        <li class="breadcrumb__item">
+          <a class="breadcrumb__link" href="/top/entertainment/entertainment/">エンタメ</a>
+        </li>
+        <li class="breadcrumb__item">
+          <a class="breadcrumb__link" href="/top/entertainment/entertainment/television/">テレビ</a>
+        </li>
+</ul>
+
+<div class="container"><!-- #####   side-nav + ( main + side-column )   ##### -->
+
+<!-- ####################  左ナビゲーション 開始  #################### -->
+<div class="side-nav">
+          <aside class="side-menu gtm" gtm-label="article_left_navi">
+
+    <div class="side-menu__item"><a class="side-menu__tit side-menu__tit--entertainment" href="/top/entertainment/"><p>エンタメトップ</p></a></div>
+
+        <div class="side-menu__item"><a class="side-menu__tit side-menu__tit--current" href="/top/entertainment/entertainment/"><p>エンタメ</p></a></div>
+
+          <ul class="side-list">
+              <li><a class="side-list__btn " href="/top/entertainment/entertainment/geinou/"><p>芸能</p></a></li>
+              <li><a class="side-list__btn side-list__btn--current_entertainment" href="/top/entertainment/entertainment/television/"><p>テレビ</p></a></li>
+              <li><a class="side-list__btn " href="/top/entertainment/entertainment/movie/"><p>映画</p></a></li>
+              <li><a class="side-list__btn " href="/top/entertainment/entertainment/amusement/"><p>アミューズメント</p></a></li>
+              <li><a class="side-list__btn " href="/top/entertainment/entertainment/book/"><p>ブック</p></a></li>
+              <li><a class="side-list__btn " href="/top/entertainment/entertainment/overseas/"><p>海外トピックス</p></a></li>
+              <li><a class="side-list__btn " href="/top/entertainment/entertainment/bscs/"><p>BS・CS番組</p></a></li>
+              <li><a class="side-list__btn " href="/top/entertainment/entertainment/wadai/"><p>話題</p></a></li>
+              <li><a class="side-list__btn " href="/top/entertainment/entertainment/skyperfectv/"><p>スカパー！</p></a></li>
+              <li><a class="side-list__btn " href="/top/entertainment/entertainment/wowow/"><p>WOWOW</p></a></li>
+          </ul>
+            <p class="side-menu__sponsored"><span class="side-menu__sponsored-item">SPONSORED</span></p>
+            <ul class="side-list">
+                <li><a class="side-list__btn " href="/top/entertainment/entertainment/papy/"><p>Renta!</p></a></li>
+                <li><a class="side-list__btn " href="/top/entertainment/entertainment/spotify/"><p>音楽</p></a></li>
+                <li><a class="side-list__btn " href="/top/entertainment/entertainment/videomarket/"><p>ビデオマーケット</p></a></li>
+            </ul>
+
+        <div class="side-menu__item"><a class="side-menu__tit " href="/top/entertainment/hobby/"><p>ホビー</p></a></div>
+
+  </aside>
+
+
+</div><!-- / side-nav -->
+<!-- ####################  左ナビゲーション 終了  #################### -->
+
+<div class="body">
+<!-- #####   main + side-column   #####-->
+  
+
+<!-- ####################  メイン 開始  #################### -->
+  <main class="main">
+    
+
+    <script src="https://platform.twitter.com/widgets.js" id="twitter-wjs"></script>
+<script src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+
+
+
+
+<div class="article-header">
+
+  <button type="button" class="article-header__print" onclick="window.print();">印刷</button>
+  <p class="article-header__update">
+    2019/02/15 11:00:00
+  </p>
+  <h1>
+
+    <div class="article-header__tit">
+      CMで話題の美女ナタリー･エモンズ、着物姿で文化庁長官を表見訪問
+    </div>
+  </h1>
+</div>
+
+
+<div class="article-author">
+    <dl class="article-keyword gtm" gtm-label="article_main_tag">
+      <dt class="article-keyword__tit">関連キーワード：</dt>
+      <dd class="article-keyword__txt">
+          <a class="article-keyword__link" href="/tag/tv/">テレビ番組</a>
+          <a class="article-keyword__link" href="/tag/tbs/">TBSテレビ</a>
+      </dd>
+    </dl>
+</div>
+
+
+<!-- テキスト広告 -->
+<div class="ad-text">
+  <div id='wrap_textAd_a'>
+    <!-- /6082618/mn.headline1 -->
+    <div id='div-gpt-ad-1479185899023-7'>
+      <script>
+      cX.callQueue.push(['invoke',function(){
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-7'); });
+      }]);
+      </script>
+    </div>
+  </div>
+
+  <div id='wrap_textAd_b'>
+    <!-- /6082618/mn.headline2 -->
+    <div id='div-gpt-ad-1479185899023-8'>
+      <script>
+      cX.callQueue.push(['invoke',function(){
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-8'); });
+      }]);
+      </script>
+    </div>
+  </div>
+
+  <div id='wrap_textAd_c'>
+    <!-- /6082618/mn.headline3 -->
+    <div id='div-gpt-ad-1479185899023-9'>
+      <script>
+      cX.callQueue.push(['invoke',function(){
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-9'); });
+      }]);
+      </script>
+    </div>
+  </div>
+
+  <div id='wrap_textAd_d'>
+    <!-- /6082618/mn.headline4 -->
+    <div id='div-gpt-ad-1479185899023-10'>
+      <script>
+      cX.callQueue.push(['invoke',function(){
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-10'); });
+      }]);
+      </script>
+    </div>
+  </div>
+  <span class="ad-text__pr">- PR -</span>
+</div>
+
+
+
+
+<article class="article">
+
+
+  <!-- cxenseparse_start -->
+  <div class="article-body">
+    <p>日本遺産を巡るTBSの旅番組『じょんのび日本遺産』(毎週日曜6:00～6:45)と、日本遺産を認定する文化庁とのタイアップが決定し、番組の“旅人”として各地域の日本遺産を訪れてきたナタリー・エモンズがこのほど、宮田亮平文化庁長官を表敬訪問した。</p>
+
+<ul class="photo_table">
+<li class="item-01">
+<a target="_blank" class="photo_table__link" href="/photo/article/20190215-771866/images/001l.jpg"><img class="photo_table__img lazyload" alt="ナタリー・エモンズ、宮田亮平文化庁長官" data-original="images/001.jpg"></a><p class="photo_table__caption">ナタリー・エモンズ(左)と宮田亮平文化庁長官</p>
+</li>
+</ul>
+
+<p>文化庁がテレビ番組とタイアップを行うのは今回が初めて。日本遺産をはじめとする“日本の美”を再発見してもらい、改めて日本各地の歴史的魅力と日本文化の素晴らしさを広く知ってもらうため、協力していく。</p>
+
+<p>ホテル料金比較サイト「トリバゴ」のCMで知られるナタリーは着物姿で文化庁を訪れ、宮田長官から「きれいですね」と大絶賛されると照れ笑い。そして、金工作家でもある長官から、自ら制作した銀錫の馬上盃(ばじょうはい)を贈られると、「ありがとうございます! すごく綺麗ですね」と感動した様子。「日本酒、特に冷酒を入れて飲むとおいしいですよ」と長官に教えられ、「いいですね」と笑顔を見せた。ナタリーからは、前日まで番組のロケで旅していた四国・徳島の半田そうめんがお土産として手渡された。</p>
+
+<p>その後の対談では、長官から「素晴らしい日本の遺産を日本人はどうしても当たり前と思ってしまう。日本のみなさんに、自分の村はこんなに素敵なんだということを伝えてほしい」と激励されると、ナタリーも「私は日本に住んでいたことがありますが、それでも知らない歴史や文化がいっぱいあるので、(旅をすると)すごく感動しますね。文化とか伝統芸能とか、地元の方に教えてもらって感謝しています」と応じた。</p>
+
+<p>「ナタリーさんはなんで日本語がそんなに素敵なんですか?」と長官から日本語を褒められる場面も。ナタリーは「まだまだですけど。日本が大好きだからかな」と笑顔を見せ、「人と話したり、ドラマを見たり、それでここまできました。まだまだたくさん知らない言葉ありますが、私は学ぶのが好きなので、旅をすると新しい言葉がたくさん並んでいて知らなかった言葉を教えてくれるからありがたいです」と語った。</p>
+
+<p>さらに、2020年の東京オリンピック・パラリンピックをはじめ、さらなる外国人観光客の増加が見込まれる今、長官からナタリーに「海外の人に日本の魅力を伝えるには、どうしたらよいか」と質問されると、ナタリーは「日本人と外国人が一緒にできる体験があれば、いいですよね」と、番組で各地域を旅した経験をもとに話すなど、対談は終始和やかな雰囲気で行われた。</p>
+
+<p>2月17日放送の『じょんのび日本遺産』は、2018年に日本遺産に認定された山形県・鶴岡を訪ねる。旧庄内藩士が刀を鍬に替え開拓した養蚕場をきっかけに、絹産地として発展してきた鶴岡は、今も養蚕から絹織物の生産まで一貫工程が残る国内唯一の地。街並みからは近代化の原風景を体感することができる。今後も、四国で弘法大師の足跡をたどりながらお遍路を体験したり、栃木県・那須で明治時代の貴族たちのロマンに想いをはせたり･･･。“じょんのび旅”をしながら日本の美を伝えていく。</p>
+
+<!-- Original start -->
+
+<ul class="photo_table photo_table--hold">
+<li class="item-04"><a target="_blank" class="photo_table__link" href="/photo/article/20190215-771866/images/002l.jpg"><img class="photo_table__img lazyload" alt="ナタリー・エモンズ" data-original="images/002.jpg"></a></li>
+<li class="item-04"><a target="_blank" class="photo_table__link" href="/photo/article/20190215-771866/images/003l.jpg"><img class="photo_table__img lazyload" alt="ナタリー・エモンズ" data-original="images/003.jpg"></a></li>
+<li class="item-04"><a target="_blank" class="photo_table__link" href="/photo/article/20190215-771866/images/004l.jpg"><img class="photo_table__img lazyload" alt="ナタリー・エモンズ" data-original="images/004.jpg"></a></li>
+<li class="item-04"><a target="_blank" class="photo_table__link" href="/photo/article/20190215-771866/images/005l.jpg"><img class="photo_table__img lazyload" alt="ナタリー・エモンズ" data-original="images/005.jpg"></a></li>
+<li class="item-04"><a target="_blank" class="photo_table__link" href="/photo/article/20190215-771866/images/006l.jpg"><img class="photo_table__img lazyload" alt="ナタリー・エモンズ" data-original="images/006.jpg"></a></li>
+<li class="item-04"><a target="_blank" class="photo_table__link" href="/photo/article/20190215-771866/images/007l.jpg"><img class="photo_table__img lazyload" alt="ナタリー・エモンズ" data-original="images/007.jpg"></a></li>
+<li class="item-04"><a target="_blank" class="photo_table__link" href="/photo/article/20190215-771866/images/008l.jpg"><img class="photo_table__img lazyload" alt="ナタリー・エモンズ" data-original="images/008.jpg"></a></li>
+<li class="item-04"><a target="_blank" class="photo_table__link" href="/photo/article/20190215-771866/images/009l.jpg"><img class="photo_table__img lazyload" alt="ナタリー・エモンズ" data-original="images/009.jpg"></a></li>
+</ul>
+
+<!-- Original end -->
+
+  </div>
+<!-- cxenseparse_end -->
+
+</article>
+
+<script>
+  $('img.lazyload').lazyload({
+     threshold: 600
+    });
+</script>
+
+
+
+
+  <p class="article-point">※本記事は掲載時点の情報であり、最新のものとは異なる場合があります。予めご了承ください。</p>
+
+
+
+    <section class="box gtm print-no" gtm-label="article_main_relation">
+    <h2 class="tit-heading tit-heading--near">関連記事</h2>
+
+
+    <ul class="list-relation">
+        <li class="list-relation__item">
+          <a class="list-relation__link" href="/article/20181003-700914/">CMで話題の美女ナタリー･エモンズ、旅番組で感激「まるで映画の1シーン」</a>
+        </li>
+        <li class="list-relation__item">
+          <a class="list-relation__link" href="/article/20180525-635981/">CMで話題の金髪美女、『家政夫のミタゾノ』で“日米女将対決”</a>
+        </li>
+          <!-- /6082618/mn.kanren1 -->
+<div id='div-gpt-ad-1535073804592-0'>
+  <script>
+  cX.callQueue.push(['invoke',function(){
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1535073804592-0'); });
+  }]);
+  </script>
+</div>
+
+        <li class="list-relation__item">
+          <a class="list-relation__link" href="/article/20170726-a186/">CMで話題のナタリー･エモンズ、カバン常備のキャベツをどこでもむさぼる</a>
+        </li>
+    </ul>
+
+  </section>
+
+
+<div class="box print-no">
+  <div class="ad-bnr">
+    <div class="ad-bnr__item">
+      <!-- /6082618/mn.contbottom1 -->
+<div id='div-gpt-ad-1479185899023-0' class='print-no'>
+  <script>
+  cX.callQueue.push(['invoke',function(){
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-0'); });
+  }]);
+  </script>
+</div>
+<style>
+#div-gpt-ad-1479185899023-0{text-align: center;}
+#div-gpt-ad-1479185899023-0 iframe{transform: scale(0.94);transform-origin: 0 0;}
+</style>
+
+      <!-- /6082618/mn.contbottom2 -->
+<div id='div-gpt-ad-1479185899023-1' class='print-no'>
+  <script>
+  cX.callQueue.push(['invoke',function(){
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-1'); });
+  }]);
+  </script>
+</div>
+<style>
+#div-gpt-ad-1479185899023-1{text-align: center;}
+#div-gpt-ad-1479185899023-1 iframe{transform: scale(0.94);transform-origin: 0 0;}
+</style>
+
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+  <section class="box box--afar print-no">
+
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v2.11&appId=107386186392991";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
+
+  <ul class="sns-list">
+   <li class="sns-list__item sns-list__item--facebook">
+    <div class="fb-like" data-href="https://news.mynavi.jp/article/20190215-771866/" data-layout="button_count" data-action="like" data-size="large" data-show-faces="true" data-share="false"></div>
+   </li>
+   <li class="sns-list__item sns-list__item--twitter">
+     <a class="twitter-share-button" data-size="large" data-lang="ja" href="https://twitter.com/intent/tweet?hashtags=%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&amp;text=CM%E3%81%A7%E8%A9%B1%E9%A1%8C%E3%81%AE%E7%BE%8E%E5%A5%B3%E3%83%8A%E3%82%BF%E3%83%AA%E3%83%BC%EF%BD%A5%E3%82%A8%E3%83%A2%E3%83%B3%E3%82%BA%E3%80%81%E7%9D%80%E7%89%A9%E5%A7%BF%E3%81%A7%E6%96%87%E5%8C%96%E5%BA%81%E9%95%B7%E5%AE%98%E3%82%92%E8%A1%A8%E8%A6%8B%E8%A8%AA%E5%95%8F+%7C+%E3%83%9E%E3%82%A4%E3%83%8A%E3%83%93%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&amp;tw_p=tweetbutton&amp;url=https%3A%2F%2Fnews.mynavi.jp%2Farticle%2F20190215-771866%2F">ツイート</a>
+    <script>
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+    </script>
+   </li>
+   <li class="sns-list__item sns-list__item--hatena">
+     <a class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" data-hatena-bookmark-height="26" title="このエントリーをはてなブックマークに追加" href="http://b.hatena.ne.jp/entry/https://news.mynavi.jp/article/20190215-771866/"><img alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" src="//b.st-hatena.com/images/entry-button/button-only@2x.png" /></a>
+     <script type="text/javascript" src="//b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+   </li>
+  </ul>
+</section>
+
+
+
+
+
+
+  <div class="box print-no">
+    <div class="ad-bnr2">
+      <div class="ad-bnr2__item">
+          <!-- /6082618/mn.recl -->
+<div id='div-gpt-ad-1479185899023-18' class='print-no'>
+  <script>
+  cX.callQueue.push(['invoke',function(){
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-18'); });
+  }]);
+  </script>
+</div>
+
+      </div>
+      <div class="ad-bnr2__item">
+          <!-- /6082618/mn.recr -->
+<div id='div-gpt-ad-1479185899023-19' class='print-no'>
+  <script>
+  cX.callQueue.push(['invoke',function(){
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-19'); });
+  }]);
+  </script>
+</div>
+
+      </div>
+    </div>
+  </div>
+
+<section class="box print-no gtm" gtm-label="article_main_recommend">
+  <h2 class="tit-heading">RECOMMEND</h2>
+  <div id="logly-lift-4281627"></div>
+</section>
+
+  <section class="box gtm print-no" gtm-label="article_main_new">
+  <h2 class="tit-heading tit-heading--near">新着記事</h2>
+  <ul class="list-new">
+      <li class="list-new__item">
+        <a class="list-new__link" href="/article/20190224-776154/">
+          <p class="list-new__tit">52歳･宮川一朗太、プチ整形を決行「目力が弱いのを変えたい」</p>
+          <p class="list-new__txt">
+            <span class="list-new__date">02/24 12:00</span>
+          </p>
+</a>      </li>
+      <li class="list-new__item">
+        <a class="list-new__link" href="/article/20190224-776492/">
+          <p class="list-new__tit">小倉優子が語った“幸せとは何か”に共演者拍手「深い」</p>
+          <p class="list-new__txt">
+            <span class="list-new__date">02/24 11:57</span>
+          </p>
+</a>      </li>
+      <li class="list-new__item">
+        <a class="list-new__link" href="/article/20190224-776491/">
+          <p class="list-new__tit">小倉優子、堀ちえみの前を向く姿に感銘「私だったら同じようにできるか…」</p>
+          <p class="list-new__txt">
+            <span class="list-new__date">02/24 11:23</span>
+          </p>
+</a>      </li>
+      <li class="list-new__item">
+        <a class="list-new__link" href="/article/20190224-776474/">
+          <p class="list-new__tit">TMR西川貴教、『ワイドナ』での交際質問に動揺「お茶飲みますね」</p>
+          <p class="list-new__txt">
+            <span class="list-new__date">02/24 11:09</span>
+          </p>
+</a>      </li>
+      <li class="list-new__item">
+        <a class="list-new__link" href="/article/20190224-776473/">
+          <p class="list-new__tit">西川史子、堀ちえみについて専門医の見解明かす「芸能界復帰も全然…」</p>
+          <p class="list-new__txt">
+            <span class="list-new__date">02/24 11:00</span>
+          </p>
+</a>      </li>
+      <li class="list-new__item">
+        <a class="list-new__link" href="/article/20190224-776472/">
+          <p class="list-new__tit">指原莉乃、篠田麻里子への祝福で語った結婚観「幸せの形はそれぞれ」 </p>
+          <p class="list-new__txt">
+            <span class="list-new__date">02/24 10:50</span>
+          </p>
+</a>      </li>
+  </ul>
+</section>
+
+
+
+
+<div class="ad-bnr">
+  <div id='div-gpt-ad-1479185899023-4' class='print-no'>
+    <script>
+    cX.callQueue.push(['invoke',function(){
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-4'); });
+    }]);
+    </script>
+  </div>
+</div>
+
+<style>
+#div-gpt-ad-1479185899023-4{text-align: center;}
+#div-gpt-ad-1479185899023-4 img{max-width:644px;}
+#div-gpt-ad-1479185899023-4 iframe{transform: scale(0.94);transform-origin: 0 0;}
+</style>
+
+
+
+<!-- /6082618/mn.inread -->
+<div id='div-gpt-ad-1466143984602-1' class='print-no'>
+  <script type='text/javascript'>
+  cX.callQueue.push(['invoke',function(){
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466143984602-1'); });
+  }]);
+  </script>
+</div>
+
+<script>
+  (function () {
+  var inread_html = $('#div-gpt-ad-1466143984602-1');
+  var inread_article_area = $('.main .article .article-body>p');
+  if($('.right .Photo1:last').length > 0 || $('.photo_right:last').length > 0){
+  var inread_index=inread_article_area.length-1;
+  } else{
+  var inread_index=Math.round(inread_article_area.length/2)-1;
+  }
+  if(inread_index < 1)inread_index=0;
+  var inread_article_point = inread_article_area.eq(inread_index);
+  inread_article_area.eq(inread_index).after(inread_html);
+  })();
+</script>
+<style>
+  #div-gpt-ad-1466143984602-1{text-align: center;}
+</style>
+
+
+</main>
+  <!-- ####################  メイン 終了  #################### -->
+
+  <!-- ####################  右カラム 開始  #################### -->
+  <div class="side-column">
+      
+  <div class="side-ad-bnr">
+      <!-- /6082618/mn.reca -->
+      <div id='div-gpt-ad-1479185899023-14'>
+        <script>
+        cX.callQueue.push(['invoke',function(){
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-14'); });
+        }]);
+        </script>
+      </div>
+  </div>
+
+
+  
+
+
+<div id="right-tenshoku"></div>
+
+
+<section class='side-box'>
+  <div class="logly-tokki-a"></div>
+  <script charset="UTF-8">
+    (function(){
+      var logly_tokki_a = { 'top': '3784660', 'business': '3826796', 'digital': '3826797', 'kurashi': '3826798', 'entertainment': '3826799' };
+      var genre_dir = news_vars.genre;
+      if(!news_vars.genre || news_vars.genre == ''|| news_vars.genre == 'present'){genre_dir='top'};
+      $('.logly-tokki-a').attr('id', 'logly-lift-' + logly_tokki_a[genre_dir]);
+      var _lgy_lw = document.createElement("script");
+      _lgy_lw.type = "text/javascript";
+      _lgy_lw.charset = "UTF-8";
+      _lgy_lw.async = true;
+      _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=" + logly_tokki_a[genre_dir];
+      var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+      _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+    })();
+  </script>
+</section>
+
+
+
+
+  <section class="side-box gtm" gtm-label="article_right_rank">
+  <div class="side-heading">RANKING</div>
+  <ol class="side-ranking">
+      <li class="side-ranking__item">
+        <a class="side-ranking__link" href="/article/20190222-775753/">
+          <span class="side-ranking__no side-ranking__no--1">1</span>
+          <p class="side-ranking__tit">菅田将暉『3年A組』生徒全員から誕生日祝い「いい生徒を持った」</p>
+</a>      </li>
+      <li class="side-ranking__item">
+        <a class="side-ranking__link" href="/article/20190222-774534/">
+          <span class="side-ranking__no side-ranking__no--2">2</span>
+          <p class="side-ranking__tit">中村倫也、モフモフ耳＆しっぽのウサギ姿で「月に帰りたくない」</p>
+</a>      </li>
+      <li class="side-ranking__item">
+        <a class="side-ranking__link" href="/article/20190223-775994/">
+          <span class="side-ranking__no side-ranking__no--3">3</span>
+          <p class="side-ranking__tit">FIBAバスケＷ杯最終予選「日本VSカタール」を緊急生中継！日本バスケの未来をかけて最後の戦いに挑む</p>
+</a>      </li>
+      <li class="side-ranking__item">
+        <a class="side-ranking__link" href="/article/20190223-776114/">
+          <span class="side-ranking__no side-ranking__no--4">4</span>
+          <p class="side-ranking__tit">高橋英樹、初共演･沢口靖子に驚き「お顔が小さい!」</p>
+</a>      </li>
+      <li class="side-ranking__item">
+        <a class="side-ranking__link" href="/article/20190222-775566/">
+          <span class="side-ranking__no side-ranking__no--5">5</span>
+          <p class="side-ranking__tit">映画『チア☆ダン』地上波初放送! 広瀬すず「絶対観て欲しいです!」</p>
+</a>      </li>
+    <!-- /6082618/mn.rank1 -->
+<div id='wrap_rankAd_a' class='print-no'>
+  <div id='div-gpt-ad-1479185899023-12'>
+    <script>
+    cX.callQueue.push(['invoke',function(){
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-12'); });
+    }]);
+    </script>
+  </div>
+</div>
+<!-- /6082618/mn.rank2 -->
+<div id='wrap_rankAd_b' class='print-no'>
+  <div id='div-gpt-ad-1479185899023-15'>
+    <script>
+    cX.callQueue.push(['invoke',function(){
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-15'); });
+    }]);
+    </script>
+  </div>
+</div>
+
+<script type="text/javascript">
+function rotateAsyncAd(ids) {
+  var contentsTextAd = new Array(ids.length);
+  for (var i = 0; i < ids.length; i++) {
+    contentsTextAd[i] = document.getElementById(ids[i]).innerHTML;
+  }
+  contentsTextAd.sort( function() { return Math.random() - 0.5; } );
+
+  for (var i = 0; i < ids.length; i++) {
+    document.getElementById(ids[i]).innerHTML = contentsTextAd[i];
+  }
+}
+rotateAsyncAd(['wrap_rankAd_a', 'wrap_rankAd_b']);
+</script>
+
+  </ol>
+
+  <div class="btn btn--side">
+    <a class="btn__more btn__more--side" href="https://news.mynavi.jp/ranking/entertainment/entertainment/television/">もっと読む</a>
+  </div>
+</section>
+
+
+
+  <section class="side-box gtm" gtm-label="article_right_rank-img">
+  <div class="side-heading">画像ニュースRANKING</div>
+  <ol class="side-photo">
+      <li class="side-photo__item">
+        <a class="side-photo__link" href="/article/20190222-775753/">
+          <span class="side-photo__no">1</span>
+          <div class="side-photo__img-wrap">
+            <img class="side-photo__img" src="/article/20190222-775753/index_images/index.jpg/iapp" alt="Iapp" />
+          </div>
+</a>      </li>
+      <li class="side-photo__item">
+        <a class="side-photo__link" href="/article/20190222-774534/">
+          <span class="side-photo__no">2</span>
+          <div class="side-photo__img-wrap">
+            <img class="side-photo__img" src="/article/20190222-774534/index_images/index.jpg/iapp" alt="Iapp" />
+          </div>
+</a>      </li>
+      <li class="side-photo__item">
+        <a class="side-photo__link" href="/article/20190223-776114/">
+          <span class="side-photo__no">3</span>
+          <div class="side-photo__img-wrap">
+            <img class="side-photo__img" src="/article/20190223-776114/index_images/index.jpg/iapp" alt="Iapp" />
+          </div>
+</a>      </li>
+      <li class="side-photo__item">
+        <a class="side-photo__link" href="/article/20190222-775566/">
+          <span class="side-photo__no">4</span>
+          <div class="side-photo__img-wrap">
+            <img class="side-photo__img" src="/article/20190222-775566/index_images/index.jpg/iapp" alt="Iapp" />
+          </div>
+</a>      </li>
+      <li class="side-photo__item">
+        <a class="side-photo__link" href="/article/20190224-776153/">
+          <span class="side-photo__no">5</span>
+          <div class="side-photo__img-wrap">
+            <img class="side-photo__img" src="/article/20190224-776153/index_images/index.jpg/iapp" alt="Iapp" />
+          </div>
+</a>      </li>
+      <li class="side-photo__item">
+        <a class="side-photo__link" href="/article/20190222-775282/">
+          <span class="side-photo__no">6</span>
+          <div class="side-photo__img-wrap">
+            <img class="side-photo__img" src="/article/20190222-775282/index_images/index.jpg/iapp" alt="Iapp" />
+          </div>
+</a>      </li>
+  </ol>
+</section>
+
+
+  <div class="side-ad-bnr">
+      <!-- /6082618/mn.recb -->
+      <div id='div-gpt-ad-1479185899023-16'>
+        <script>
+        cX.callQueue.push(['invoke',function(){
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-16'); });
+        }]);
+        </script>
+      </div>
+  </div>
+
+  
+
+
+  
+  <section class="side-box gtm" gtm-label="article_right_new">
+  <div class="side-heading">新着記事</div>
+  <ul class="side-article">
+      <li class="side-article__item">
+        <div class="side-article__link js-link">
+          <p class="side-article__tit">
+            <a class="side-article__tit-link js-link__target" href="https://news.mynavi.jp/article/20190224-776154/">52歳･宮川一朗太、プチ整形を決行「目力が弱いのを変えたい」</a>
+          </p>
+          <p class="side-article__txt">
+            
+            <span class="side-article__date">02/24 12:00</span>
+          </p>
+        </div>
+      </li>
+      <li class="side-article__item">
+        <div class="side-article__link js-link">
+          <p class="side-article__tit">
+            <a class="side-article__tit-link js-link__target" href="https://news.mynavi.jp/article/20190224-776492/">小倉優子が語った“幸せとは何か”に共演者拍手「深い」</a>
+          </p>
+          <p class="side-article__txt">
+            
+            <span class="side-article__date">02/24 11:57</span>
+          </p>
+        </div>
+      </li>
+      <li class="side-article__item">
+        <div class="side-article__link js-link">
+          <p class="side-article__tit">
+            <a class="side-article__tit-link js-link__target" href="https://news.mynavi.jp/article/20190224-776491/">小倉優子、堀ちえみの前を向く姿に感銘「私だったら同じようにできるか…」</a>
+          </p>
+          <p class="side-article__txt">
+            
+            <span class="side-article__date">02/24 11:23</span>
+          </p>
+        </div>
+      </li>
+      <li class="side-article__item">
+        <div class="side-article__link js-link">
+          <p class="side-article__tit">
+            <a class="side-article__tit-link js-link__target" href="https://news.mynavi.jp/article/20190224-776474/">TMR西川貴教、『ワイドナ』での交際質問に動揺「お茶飲みますね」</a>
+          </p>
+          <p class="side-article__txt">
+            
+            <span class="side-article__date">02/24 11:09</span>
+          </p>
+        </div>
+      </li>
+      <li class="side-article__item">
+        <div class="side-article__link js-link">
+          <p class="side-article__tit">
+            <a class="side-article__tit-link js-link__target" href="https://news.mynavi.jp/article/20190224-776473/">西川史子、堀ちえみについて専門医の見解明かす「芸能界復帰も全然…」</a>
+          </p>
+          <p class="side-article__txt">
+            
+            <span class="side-article__date">02/24 11:00</span>
+          </p>
+        </div>
+      </li>
+      <li class="side-article__item">
+        <div class="side-article__link js-link">
+          <p class="side-article__tit">
+            <a class="side-article__tit-link js-link__target" href="https://news.mynavi.jp/article/20190224-776472/">指原莉乃、篠田麻里子への祝福で語った結婚観「幸せの形はそれぞれ」 </a>
+          </p>
+          <p class="side-article__txt">
+            
+            <span class="side-article__date">02/24 10:50</span>
+          </p>
+        </div>
+      </li>
+  </ul>
+  <div class="btn btn--side">
+    <a class="btn__more btn__more--side" href="/list/headline/entertainment/entertainment/television/">もっと読む</a>
+  </div>
+</section>
+
+
+    <div class="side-ad-bnr">
+      <!-- /6082618/mn.recc -->
+      <div id='div-gpt-ad-1485738116644-0'>
+        <script>
+        cX.callQueue.push(['invoke',function(){
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1485738116644-0'); });
+        }]);
+        </script>
+      </div>
+  </div>
+
+    
+
+
+<section class='side-box'>
+  <div class="logly-tokki-b"></div>
+  <script charset="UTF-8">
+    (function(){
+      var logly_tokki_a = { 'top': '3784661', 'business': '4079142', 'digital': '4079143', 'kurashi': '4079144', 'entertainment': '4079146' };
+      var genre_dir = news_vars.genre;
+      if(!news_vars.genre || news_vars.genre == ''|| news_vars.genre == 'present'){genre_dir='top'};
+      $('.logly-tokki-b').attr('id', 'logly-lift-' + logly_tokki_a[genre_dir]);
+      var _lgy_lw = document.createElement("script");
+      _lgy_lw.type = "text/javascript";
+      _lgy_lw.charset = "UTF-8";
+      _lgy_lw.async = true;
+      _lgy_lw.src= (("https:" == document.location.protocol) ? "https://" : "http://")+"l.logly.co.jp/lift_widget.js?adspot_id=" + logly_tokki_a[genre_dir];
+      var _lgy_lw_0 = document.getElementsByTagName("script")[0];
+      _lgy_lw_0.parentNode.insertBefore(_lgy_lw, _lgy_lw_0);
+    })();
+  </script>
+</section>
+
+
+
+  </div>
+<!-- ####################  右カラム 終了  #################### -->
+</div><!-- / body -->     <!-- #####   main + side-column   ##### -->
+<!-- ゲート広告 -->
+<!-- /6082618/mn.gateside -->
+<div id='div-gpt-ad-1479185899023-6' class='print-no'>
+  <script>
+  cX.callQueue.push(['invoke',function(){
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1479185899023-6'); });
+  }]);
+  </script>
+</div>
+
+</div><!-- / container --><!-- #####   side-nav + ( main + side-column )   ##### -->
+</div><!-- / wrapper -->  <!-- #####   site-header + side-nav + ( main + side-column )   ##### -->
+
+<!-- ####################  フッター  開始  #################### -->
+<footer class="footer">
+  <!-- PAGETOP -->
+  <div class="page-top">
+    <a href="#" class="page-top__btn js-scroll">PAGETOP</a>
+  </div>
+  <!-- / PAGETOP -->
+
+  <!-- マイナビニュースについて -->
+  <div class="footer-about">
+    <div class="footer-about__inner">
+      <p class="footer-about__tit"><a class="footer-list__link" href="/top/notice/about/">マイナビニュースについて</a></p>
+
+      <div class="footer-list">
+        <div class="footer-list__box footer-list__box--short">
+          <ul>
+            <li><a class="footer-list__link" href="/top/notice/notice/">お知らせ</a></li>
+            <li><a class="footer-list__link" href="/top/notice/teisei/">お詫びと訂正</a></li>
+            <li><a class="footer-list__link" href="/top/notice/agreement/">利用規約</a></li>
+            <li><a class="footer-list__link" href="/top/notice/rights/">著作権と転載について</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-list__box footer-list__box--short">
+          <ul>
+            <li><a class="footer-list__link" href="/top/social/">ソーシャルメディア</a></li>
+            <li><a class="footer-list__link" href="/mail/">メールマガジン</a></li>
+            <li><a class="footer-list__link" href="/top/notice/rss/">RSS</a></li>
+            <li><a class="footer-list__link" href="/publisher/">提供元一覧</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-list__box">
+          <ul>
+            <li><a class="footer-list__link" href="/tag/index/">キーワード一覧</a></li>
+            <li><a class="footer-list__link" href="/top/notice/sitemap/">サイトマップ</a></li>
+            <li><a href="https://news.mynavi.jp/mypage/privacy" class="footer-list__link">個人情報の取り扱いについて</a></li>
+            <li><a href="https://survey.mynavi.jp/cre/?enq=jp4kmz6qHkw%3d" class="footer-list__link" target="_blank">コンテンツ利用について</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-list__box">
+          <ul>
+            <li><a href="https://survey.mynavi.jp/cre/?enq=ukgekMojfmA%3d" class="footer-list__link" target="_blank">ご意見・ご感想</a></li>
+            <li><a href="https://survey.mynavi.jp/cre/?enq=%2fSkd%2bjXwS1w%3d" class="footer-list__link" target="_blank">情報提供</a></li>
+            <li><a href="https://survey.mynavi.jp/cre/?enq=jzTpWKPNSmc%3d" class="footer-list__link" target="_blank">読者プレゼント提供</a></li>
+            <li><a class="footer-list__link" href="/top/notice/press/">プレスリリース窓口</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-list__box">
+          <ul>
+            <li><a href="/lp/2017/entertainment/entertainment/recruit-mnnews/" class="footer-list__link">記者・ライター募集</a></li>
+            <li><a href="http://media-ad.mynavi.jp/mn_index.html" class="footer-list__link">広告について</a></li>
+          </ul>
+          <ul class="footer-sns">
+            <li class="footer-sns__item"><a href="https://ja-jp.facebook.com/mynavinews/" class="footer-sns__btn" target="_blank">Facebook</a></li>
+            <li class="footer-sns__item"><a href="https://twitter.com/news_mynavi_jp" class="footer-sns__btn" target="_blank">Twitter</a></li>
+          </ul>
+        </div>
+      </div><!-- / footer-list -->
+
+    </div><!-- / footer-about__inner -->
+
+  </div><!-- / footer-about -->
+  <!-- マイナビニュースについて end -->
+
+    <!-- 簡易フッター -->
+    <div class="footer-copy">
+      <p class="footer-copy__logo">
+        <a href="http://mynavi.jp/" target="_blank">
+          <img alt="株式会社マイナビ" class="footer-copy__img" src="/assets/common/logo_common-e09f97e9376e8db6a20d5d6c2967f83194600ca5c4b1ebdf635e8db1770bc63e.png" />
+        </a>
+      </p>
+      <div class="footer-copy__address">
+        <p class="footer-copy__name">株式会社マイナビ
+          <small class="footer-copy__small">Copyright &copy; Mynavi Corporation</small>
+        </p>
+      </div>
+    </div><!-- / footer__copy -->
+    <!-- 簡易フッター end -->
+</footer>
+
+
+<!-- ####################  フッター  終了  #################### -->
+
+
+
+
+<!-- /6082618/mn.overlay -->
+<div id='div-gpt-ad-1507249628623-0'>
+<script>
+if(!$("body").hasClass("welcome") && $('#mn-welcome').length <= 0){
+  cX.callQueue.push(['invoke',function(){
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1507249628623-0'); });
+  }]);
+}
+</script>
+</div>
+
+<script>
+var anchor = document.getElementById("div-gpt-ad-1507249628623-0");
+var overlayHide = false;
+$(function() {
+  $(window).scroll(function(ev) {
+    var $window = $(ev.currentTarget),
+      height = $window.height(),
+      scrollTop = $window.scrollTop(),
+      documentHeight = $(document).height();
+    if (documentHeight === height + scrollTop) {
+      anchor.style.display = 'none';
+      overlayHide = true;
+    }else {
+      if(overlayHide) {
+        anchor.style.display = 'block';
+      }
+    }
+  });
+});
+</script>
+
+
+</body>
+</html>
