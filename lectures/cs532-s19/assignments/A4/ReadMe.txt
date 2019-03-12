@@ -1,12 +1,12 @@
-getFriendofFriendFromTwitter.py
-	- gets the friends of friends from Dr. Nelson's Twitter account
-seleniumScrapeLinkedIn.py
-	- Logs into LinkedIn to get the friends of friends of a given user
-seleniumScrapeFB.py
-	- Logs into Facebook to get the friends of friends of a given user
-FoFCountTwitter.csv
-	- contains tuples of form <friend, friendCount> from Twitter
-FoFCountFacebook.csv
-	- contains tuples of form <friend, friendCount> from Facebook
-FoFCountLinkedIn.csv
-	- contains tuples of form <friend, friendCount> from LinkedIn
+FetchTwitterData.py
+	- gets the followers and following for Dr. Nelson's Twitter account
+facebook.R
+	- plot acnwala friendship paradox
+FollowersList.R
+	- plot followers friendship paradox for Dr. Nelson's Twitter account
+Following.R
+	- plot following friendship paradox for Dr. Nelson's Twitter account
+TwitterData.csv
+	- csv file of followers for Dr. Nelson's Twitter account
+TwitterDataFollowing.csv
+	- csv file of following for Dr. Nelson's Twitter account
