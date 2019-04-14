@@ -1,0 +1,18 @@
+Hello there,
+
+Paul and Rodrigo from the Gradle team here.
+
+We wanted to invite you to a training webinar we are hosting - Getting Started with the Gradle Kotlin DSL.
+
+This class will help you understand the key concepts of the Gradle Kotlin DSL, which leverages the Kotlin language and provides good tooling for a productive build-logic authoring and maintenance experience. The static nature of Kotlin enables both compile time checking and authoring assistance from your IDE, from auto-completion to refactoring and everything in-between.
+
+You can register here for the webinar on April 12th at 10am PDT / 7pm CET and we will send a video recording to everyone that registers after the session.
+
+We hope you will join us!
+
+Cheers,
+Paul Merlin
+Lead Software Engineer @ Gradle
+
+Rodrigo Oliviera
+Principal Software Engineer @Gradle

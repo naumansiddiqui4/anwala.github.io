@@ -1,0 +1,21 @@
+ GitHub Education
+Hello there!
+
+Hope your exam season is going smoothly, and the end of the term is just around the corner. Before school is out, check out these awesome Hackathon Starters to bootstrap your projects in Flask and Node.js, and find out how using the GitHub Student Developer Pack opens doors for you in industry.
+
+Hackathon Starters: all the examples and docs you'll need to get started
+ Major League Hacking and GitHub
+
+Setting up a new hackathon project can take up precious time and turn out to be more complicated than you initially planned. Major League Hacking (MLH) and GitHub have created two new hackathon starters to help developers get their applications up and running quicker: the Flask Hackathon Starter and the Node.js Hackathon Starter.
+
+Start building
+Student Developer Pack: a student’s runway to American Airlines
+ American Airlines
+As a student, you have access to more than just the best developer tools with the GitHub Student Developer Pack. Spencer Kaiser, Principal Architect of Emerging Technology at American Airlines, says that the Student Developer Pack helped him see the big picture of software development.
+
+Read Spencer's story
+Welcome Arelia!
+ Arelia
+This month we welcome a new Associate Program Manager to the team who will be working to help you make your best work. Arelia is a chapter leader for Girl Develop It, and co-founded a coding school, CoderSpace, in Chicago. Please join me in welcoming her to the Eduteam!
+
+Best,

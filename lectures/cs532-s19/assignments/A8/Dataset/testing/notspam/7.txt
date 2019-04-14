@@ -1,0 +1,16 @@
+Hello there,
+
+Rodrigo and I are doing a webinar on the Gradle Kotlin DSL on Thursday April 12 at 10am PST. Will you be available?
+
+We will introduce all the key concepts, requirements and pitfalls of using the Gradle Kotlin DSL, which leverages Kotlin and provides a productive tooling environment due to its static nature. There is also time for questions at the end so feel free to bring all your questions to the webinar and we will try to answer them.
+
+You can register here for the webinar on April 12th at 10am PDT / 7pm CEST. If you can't make it to the live session, sign up anyway and we'll send you the recording.
+
+We hope you will join us!
+
+Cheers,
+Paul Merlin
+Lead Software Engineer Gradle
+
+Rodrigo Oliviera
+Principal Software Engineer Gradle

@@ -1,0 +1,13 @@
+
+
+Top 17 Plugins for Android Studio
+
+There are hundreds of plugins out-there for Android Studio and the number grows daily. This is mainly due to two reasons. The first is the fact that Android Studio is the industry accepted go-to IDE for creating Android apps. The second is IntelliJ IDEA, the platform upon which Android Studio is based, that allows for the development and easy installation of (mostly) useful plugins that are compatible with both IDEs. But which do you install, if at all? Read more
+
+IntelliJ IDEA Vs Eclipse: Which is Better for Beginners?
+
+Any discussion comparing IntelliJ IDEA and Eclipse for Java development can be tricky because it’s sticky. The IDE I mean. An IDE is what we in marketing call a sticky product. Once someone starts using it they stick to it and rarely switch. IDE users turn into something evolutionary anthropologists refer to as “fanboys”. IntelliJ loyalists scoff at Eclipse fanboys, Eclipse fanboys get mad, and once everyone starts naming plugins and waving software licenses around? All hell breaks loose... Read more
+
+5 Best IntelliJ Themes & How to Pick Yours 
+
+When you first start to code, having pretty colors in your editor and terminal is not the first thing on your list of priorities. As you spend more and more time staring at code editors and terminal outputs, you’ll realize that having an IntelliJ color theme that is comfortable for your eyes can make all the difference. It’s simply much easier to get more work done without strained eyes and a splitting headache... Read more
